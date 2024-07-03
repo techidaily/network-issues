@@ -1,0 +1,133 @@
+---
+title: Reviving RTX 3080 Performance in Video Games
+date: 2024-07-02T03:36:33.255Z
+updated: 2024-07-03T03:36:33.255Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - NetworkIssues
+description: This Article Describes Reviving RTX 3080 Performance in Video Games
+excerpt: This Article Describes Reviving RTX 3080 Performance in Video Games
+keywords: Nvidia RTX 3080 Gaming Performance Boost,Optimizing RTX 3080 for High Frame Rates,Enhancing RTX 3080 Video Game Experience,RTX 3080 Overclocking Techniques,Improving RTX 3080 Graphics in Games,Nvidia RTX 3080 Gaming Benchmarks,Boosting RTX 3080 Performance in PC Gaming
+thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a937f57852fbde96fd0399adc.jpg
+---
+
+## Reviving RTX 3080 Performance in Video Games
+
+ The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
+
+## Why does your graphics card keep crashing?
+
+* Outdated/corrupted drivers
+* Overclocking
+* Software interference
+* Chipset/CPU-related issues
+* Power spikes
+* Corrupt system/game files
+
+## Try these fixes
+
+ No matter what the real cause is, in this post, you’ll learn every possible fix to stop your RTX series from crashing. You don’t have to try them all; just walk your way down until you find the one that works for you.
+
+1. **[Perform a clean installation of NVIDIA drivers](#h1)**
+2. **[Stop overclocking](#h2)**
+3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
+4. **[Keep the GPU fed](#h4)**
+
+### Method 1: Perform a clean installation of NVIDIA drivers
+
+ If the NVIDIA RTX 3080 crashes a game, it’s very likely that the graphics driver is outdated or gets corrupted. It’s always recommended to update to the latest graphics driver since it can affect your gaming experience, especially when you’re using a high-end graphics card.
+
+ If you’re a tech-savvy gamer, you can manually spend time updating the driver yourself. First, you’d better run [**DDU**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) to remove all the related driver files. Then download the latest **[NVIDIA driver](https://tools.techidaily.com/drivereasy/download/)**  from the official website. Be sure to select**Custom (Advanced)** \> tick the box**Perform a clean installation** while you’re installing the new driver.
+
+ But if you don’t have the time, patience, or computer skills to update your graphics drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct Game Ready drivers for your exact graphics card, and your Windows version and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. This will help you update all the available driver updates, thus ruling out the possibility of other outdated driver interference. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have a 30-day money-back guarantee and full tech support. )  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
+ If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+ After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
+
+### Method 2: Stop overclocking
+
+ If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
+
+### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
+
+ The feature ‘Hardware-Accelerated GPU Scheduling’ is first introduced in Windows 10 May 2020 update. It allows your graphics card to manage its video memory (VRAM). What’s interesting is that some players find disabling this feature helped resolve this issue.
+
+ Microsoft claims that this feature can potentially improve performance, but many find it’s not working and even causes issues sometimes. So if you’re getting RTX crashes or game stuttering, we recommend disabling this feature to see if it helps.
+
+ Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
+
+Now launch your game again to see if this method works for you.
+
+### Method 4: Keep the GPU fed
+
+ Another possible cause of your NVIDIA RTX 3080 crashing is that it’s not getting enough power. When you’re in a middle of a game, it can easily hit 620W or even more, let alone all the things you plugged into the USB.
+
+ If you have a lot of devices running, such as several fans running at the same time, you can go for a **[1000 Watt PSU](https://www.amazon.com/ROSEWILL-Computer-Glacier-Certified-Warranty/dp/B00SAYCI5S/?tag=drivereasycom-20)**  or even a **[1200 Watt PSU](https://www.amazon.com/ROSEWILL-Modular-Certified-Control-Warranty/dp/B00NYVTHH4?th=1/?tag=drivereasycom-20)**  .
+
+ According to what the experts on NVIDIA forums said, a 650W or 750W PSU is not enough. And those who experience RTX 3080 crashing problem managed to get it working at last.
+
+---
+
+ If the methods above didn’t seem to fix your RTX 3080 crashing issue, you may need to consider the hardware aspects. You can contact [**NVIDIA support**](https://www.nvidia.com/en-us/support/) for more information or request an RMA immediately (it may take up to a month to get the new graphics card).
+
+ But if this is a game-specific issue, you can try the following troubleshooting guide for your game:
+
+* [Cyberpunk 2077 crashing fix](https://tools.techidaily.com/drivereasy/download/)
+* [CoD Black Oops Cold War crashing fix](https://tools.techidaily.com/drivereasy/download/)
+* [Cod Warzone crashing fix](https://tools.techidaily.com/drivereasy/download/)
+* [Valheim crashing fix](https://tools.techidaily.com/drivereasy/download/)
+* [Assassin’s Creed: Valhalla crashing fix](https://tools.techidaily.com/drivereasy/download/)
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [graphics cards](https://tools.techidaily.com/drivereasy/download/)
+* [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrective-modifications-added-missing-amd-driver-to-pcs/"><u>[CORRECTIVE MODIFICATIONS] Added Missing AMD Driver to PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/leveraging-w8s-safe-mode-to-revise-and-remove-gpu-drivers/"><u>Leveraging W8's Safe Mode to Revise and Remove GPU Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-density-setback-windows-11-troubleshoot/"><u>Screen Density Setback - Windows 11 Troubleshoot</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-wow-glitch-519-like-a-pro/"><u>Conquering WoW Glitch #519 Like a Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-troubleshooting-windows-system-error-resolved/"><u>Nvidia Troubleshooting - Window's System Error Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-undetected-gpu-mishaps/"><u>Cure Undetected GPU Mishaps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-mix-up-of-intel-and-nvidia-graphic-cards-in-win10/"><u>Tackling Mix-Up of Intel & Nvidia Graphic Cards in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-amd-radeon-r9-performance-on-win11/"><u>Securing AMD Radeon R9 Performance on Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-high-quality-image-browser-for-2024/"><u>Optimal High-Quality Image Browser for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterful-mixers-free-lut-compendium/"><u>[New] Masterful Mixers' Free LUT Compendium</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-learn-to-master-character-voice-customization-the-ultimate-guide-to-transforming-in-game-speech-free/"><u>In 2024, Learn to Master Character Voice Customization  The Ultimate Guide to Transforming In-Game Speech (Free)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-uncover-the-past-advanced-methods-for-instagram-image-retrieval/"><u>2024 Approved  Uncover the Past  Advanced Methods for Instagram Image Retrieval</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone-for-2024/"><u>Updated 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-can-you-broadcast-videos-without-infringing-laws-specifically-fb/"><u>[Updated] 2024 Approved  Can You Broadcast Videos Without Infringing Laws, Specifically FB?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>2024 Approved  Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y36i-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y36i Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
