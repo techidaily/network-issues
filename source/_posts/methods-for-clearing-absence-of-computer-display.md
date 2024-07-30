@@ -1,7 +1,7 @@
 ---
 title: Methods for Clearing Absence of Computer Display
-date: 2024-07-12T00:12:07.314Z
-updated: 2024-07-13T00:12:07.314Z
+date: 2024-07-29T03:00:16.776Z
+updated: 2024-07-30T03:00:16.776Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ You pressed the power button on your laptop to open it. You could hear your lapt
 
 You may get the black screen issue because the explorer.exe process on your computer has been closed (possibly by a virus). It is a process that manages the desktop, taskbar, etc, on your operating system. Closing it can make your desktop and taskbar invisible, and you get the black screen issue. To fix this issue, you can check and restart the process manually. To do so:**1)**Press the**Ctrl**,**Shift**and**Esc**key on your keyboard at the same time. This will open Task Manager.**2)**Click the**Details**tab (or the**Processes**tab in Windows 7’s Task Manager) and see if there exists a process called “**explorer.exe**”
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30d0f7b8ced.png)
 
  “Explorer.exe” in Windows 10’s Task Manager
@@ -55,14 +58,23 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Reinstall your memory
 
 It is also possible that your laptop screen issue comes from your laptop memory (RAM).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
  Laptop memory
@@ -73,6 +85,9 @@ It has gone wrong and stops your laptop from completing the self test. You can t
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
@@ -81,20 +96,32 @@ If you have resolved the problem with your laptop screen, it is suggested that y
 
 Once your laptop recovers, you can restore your Windows from a system restore point. This can prevent your computer from getting issues resulting from the previous changes you have made. _Note that you can restore your system only when you have previously created a restore point._To restore your operating system:**1)**Click the**Start**button in the bottom left corner of your screen. Then type “_**restore**_“.**2)**Open the System Restore wizard from the list of result. _The process is different depending on the operating system you use, and you will see from the following the different steps on Windows 7 and Windows 10._On Windows 7, just click**System Restore**in the search result:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
 On Windows 10, click**Create a restore** **point**,
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 And then in the dialog popping up, click the**System Restore**button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -103,6 +130,9 @@ You may get various hardware issues (not just this black screen one) if your dev
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b1606c48.jpg)
 
 You can download and install your drivers by using either Free or [**Pro** **version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes only**2** clicks (and you get**full support**and a**30-day money back guarantee**).
@@ -128,3 +158,48 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-insights-on-ps3-gameplay-documentation/"><u>[New] Expert Insights on PS3 Gameplay Documentation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-mac-software-for-optimal-dvd-burning/"><u>[New] Navigating Mac Software for Optimal DVD Burning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-size-adjust-windows-11-display-dimensions/"><u>[SCREEN SIZE] Adjust Windows 11 Display Dimensions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-the-best-vr-games-for-google-cardboard/"><u>[Updated] The Best VR Games for Google Cardboard</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-creative-potential-best-tiktok-intros-on-a-mac/"><u>[Updated] Unlocking Creative Potential  Best TikTok Intros on a Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>2024 Approved  Craft the Perfect Stream  A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-superior-nintendo-switch-brawlers-selection-max-156/"><u>2024 Approved  Superior Nintendo Switch Brawlers Selection (Max 156)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-to-crafting-perfect-slug-lines/"><u>2024 Approved  Unveiling the Secrets to Crafting Perfect Slug Lines</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-missing-graphics-configuration-screens/"><u>Addressing Missing Graphics Configuration Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/basic-win10-screen-save-program-for-2024/"><u>Basic Win10 Screen Save Program for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974220841-breeze-through-apex-errors-instantly/"><u>Breeze Through Apex Errors, Instantly!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-mirrored-display-in-windows-10/"><u>Correcting Mirrored Display in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-12-discontinued-hunter-realm-saved/"><u>Error 12 Discontinued, Hunter Realm Saved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-common-lcd-sync-issues/"><u>Fixing Common LCD Sync Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-limitation-in-overwatch-cleared-update-completed/"><u>GPU Limitation in Overwatch Cleared, Update Completed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y17s-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y17s Is Unlocked</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>In 2024, Audience Wow Factor  How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12 mini</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30with/without a PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-amd-radeon-r9-drivers-in-win11/"><u>Mastering AMD Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-discover-the-best-fee-free-musical-backdrops-for-chuckle-filled-projects-for-2024/"><u>New Discover the Best Fee-Free Musical Backdrops for Chuckle-Filled Projects for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-confusion-hybrid-gpus-synchronize-smoothly-with-intelnvidia-on-win11/"><u>No More Confusion: Hybrid GPUs Synchronize Smoothly with Intel/Nvidia on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-common-green-screen-hiccups-in-video-editing/"><u>Overcoming Common Green Screen Hiccups in Video Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-gpu-shortage-in-overwatch/"><u>Overcoming GPU Shortage in Overwatch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-radeon-r9-driver-crashes-on-win11/"><u>Overcoming Radeon R9 Driver Crashes on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-triumph/"><u>Qualcomm Adapter Compatibility - Windows 10 Triumph</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repairing-monitor-blink-anomalies/"><u>Repairing Monitor Blink Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-the-shadowy-surface-of-lenovo-portable/"><u>Solve the Shadowy Surface of Lenovo Portable</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-media-on-upgraded-windows-operating-system/"><u>Streamlining Media on Upgraded Windows Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-asus-cam/"><u>Troubleshooting Non-Functional Asus Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleash-potential-new-drivers-merge-rtx210-and-windows-11/"><u>Unleash Potential - New Drivers Merge RTX210 & Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-full-internet-potential-external-wi-fi-card-installation-guide/"><u>Unlock Full Internet Potential: External Wi-Fi Card Installation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11s-video-flow-clean-continuous-performance-after-update/"><u>Win11's Video Flow: Clean, Continuous Performance After Update</u></a></li>
+</ul></div>

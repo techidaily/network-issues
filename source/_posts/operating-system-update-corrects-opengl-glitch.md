@@ -1,7 +1,7 @@
 ---
 title: Operating System Update Corrects OpenGL Glitch
-date: 2024-07-12T00:11:19.205Z
-updated: 2024-07-13T00:11:19.205Z
+date: 2024-07-29T02:59:40.344Z
+updated: 2024-07-30T02:59:40.344Z
 tags:
   - win11
   - win10
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ## Operating System Update Corrects OpenGL Glitch
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ed0ba5a4e.jpg)
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -61,6 +67,9 @@ Here’s how you can do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -75,6 +84,9 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -83,6 +95,9 @@ See how to do it:
 
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
  7) Proceed to select a backup folder and name the backup file.
@@ -92,12 +107,18 @@ See how to do it:
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
@@ -127,3 +148,41 @@ See how to do it:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-gpu-error-cleared-system-functional/"><u>[Fixed]: GPU Error Cleared, System Functional</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-warriors-of-cyberspace-top-ten-female-youtubers/"><u>[New] 2024 Approved  Warriors of Cyberspace  Top Ten Female YouTubers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-can-i-use-twitter-archive/"><u>[New] In 2024, How Can I Use Twitter Archive?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-instantvideo-snipper-fb-edition/"><u>[New] In 2024, InstantVideo Snipper - FB Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-selfies-on-instagram-a-guide/"><u>[New] Mastering Selfies on Instagram  A Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-hdmi-conflict-between-laptop-and-tv/"><u>[Resolved] HDMI Conflict Between Laptop and TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-produce-compelling-haul-content-on-a-budget/"><u>[Updated] In 2024, How to Produce Compelling Haul Content on a Budget</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-silent-tweets-end-auditory-upgrades-for-twitter-videos/"><u>[Updated] In 2024, Silent Tweets' End  Auditory Upgrades for Twitter Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers-for-2024/"><u>[Updated] Perfectly Pinned Prompts  Top Android & iPhones' Instagram Covers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-videos-understanding-time-constraints/"><u>2024 Approved  Mastering Instagram Videos  Understanding Time Constraints</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-display-glitches-tips-and-tricks/"><u>Banishing Display Glitches: Tips & Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-x6-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco X6 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exposing-uncharted-territory-of-dx-anomalies-in-legends/"><u>Exposing Uncharted Territory of DX Anomalies in Legends</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-11-proplus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme 11 Pro+ Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-the-secrets-to-verified-instagram-images/"><u>In 2024, Unveiling the Secrets to Verified Instagram Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-ready-guide-to-cropping-and-exporting-videos/"><u>Instagram-Ready  Guide to Cropping & Exporting Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-display-post-graphic-card-change/"><u>Invisible Display Post Graphic Card Change</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-driver-matchup-in-windows-10/"><u>Mastering Driver Matchup in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-amd-hd-6950-driver-release-for-win11/"><u>New AMD HD 6950 Driver Release for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-image-after-new-graphics-installation/"><u>No Image After New Graphics Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-hardware-configuration-flawless-installation/"><u>NVIDIA Hardware Configuration: Flawless Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-leap-next-gen-drivers-elevate-win11-experience/"><u>NVIDIA's Leap: Next-Gen Drivers Elevate Win11 Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-win11-screen-glitches/"><u>Quick Fix for Win11 Screen Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-resolution-to-amd-woes/"><u>Quick Resolution to AMD Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essential-routine-for-updating-intel-drivers-in-win-7/"><u>The Essential Routine for Updating Intel Drivers in Win 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oneplus-nord-ce-3-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 OnePlus Nord CE 3 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-drivers-geforce-rtx210-and-windows-11-fusion/"><u>Upgraded Drivers: GeForce RTX210 and Windows 11 Fusion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wifi-warrior-combatting-slow-windows-1110/"><u>WiFi Warrior: Combatting Slow Windows 11/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781358-win11-hybrid-graphics-bug-now-solved/"><u>Win11 Hybrid Graphics Bug: Now Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-dark-screen-fix-update/"><u>Windows 10 Dark Screen Fix Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-the-latency-battle-in-windows-networks/"><u>Winning the Latency Battle in Windows Networks</u></a></li>
+</ul></div>

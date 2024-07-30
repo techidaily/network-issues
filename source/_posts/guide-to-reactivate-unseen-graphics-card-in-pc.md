@@ -1,7 +1,7 @@
 ---
 title: Guide to Reactivate Unseen Graphics Card in PC
-date: 2024-07-12T00:12:00.867Z
-updated: 2024-07-13T00:12:00.867Z
+date: 2024-07-29T03:00:11.929Z
+updated: 2024-07-30T03:00:11.929Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Add your GPU as a legacy device
 
  When your computer does not detect your GPU, you can try to add it back as a legacy device to see if it helps. To do so:
@@ -39,19 +42,31 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
 5. Select**Display adpaters** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-12.png)
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
 
  When the GPU is added back, do the following to update its driver in Device Manager:
 
 1. Double-click the expand**Display adapters** , then right-click the**Microsoft Remote Display Adapter** that you just added back and select**Update device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-14.png)
 2. Click**Search automatically for drivers** , Windows will then initiate a search online for the latest driver update. Follow any additional instructions provided during the driver update process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-15.png)
@@ -86,6 +101,9 @@ To do so, first visit the website of your GPU manufacturer:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -96,6 +114,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Restore your BIOS settings to default
 
  If you’ve previously overclocked your GPU, or you made certain changes in the BIOS, your PC might not detect your GPU either. To see if this is your case, you can try to restore your BIOS settings to default.
@@ -126,6 +147,9 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -134,6 +158,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Make sure your GPU is correctly seated
 
  If the above software-related troubleshooting procedures don’t help your PC to detect your GPU, you may need to look at the hardware front. One of the most obvious ways to looks at would be the graphics card itself.
@@ -142,10 +169,21 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**taskmgr** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select**Performance** (the second icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-16.png)
 4. If the**GPU** option is available, you should see the information about your computer’s GPU on the right side panel.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-18.png)
 5. When you can see such information, your GPU should be correctly seated.
 
@@ -182,3 +220,55 @@ To do so, first visit the website of your GPU manufacturer:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/1716069959359-new-2024-approved-capture-your-screen-in-a-flash-free-no-hassle/"><u>[New] 2024 Approved  Capture Your Screen in a Flash - Free, No Hassle!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-king-and-queen-academy-youtube-excellence/"><u>[New] 2024 Approved  Channel King & Queen Academy  YouTube Excellence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-efficiently-record-on-xiaomi-mi-11-a-beginners-handbook/"><u>[New] Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-engaging-with-jujutsu-kaisen-fans-through-tiktok-challenges/"><u>[New] In 2024, Engaging with Jujutsu Kaisen Fans Through TikTok Challenges</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-choosing-your-best-gif-creator-a-comparative-analysis/"><u>[Updated] 2024 Approved  Choosing Your Best GIF Creator  A Comparative Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-dive-into-instagram-filters-2023s-latest-trends/"><u>[Updated] 2024 Approved  Dive Into Instagram Filters  2023'S Latest Trends</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>[Updated] 2024 Approved  Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-8-best-popular-instagram-after-effects-templates/"><u>[Updated] 8 Best Popular Instagram After Effects Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-legally-access-game-music-without-spending-money/"><u>[Updated] How to Legally Access Game Music Without Spending Money</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-an-all-inclusive-guide-to-initiate-multiplatform-communication-via-skype-groups/"><u>[Updated] In 2024, An All-Inclusive Guide to Initiate Multiplatform Communication via Skype Groups</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-tiktok-insight-crunchers-to-boost-account-visibility/"><u>[Updated] In 2024, Top TikTok Insight Crunchers to Boost Account Visibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-score-the-game-best-affordable-recording-apps/"><u>[Updated] Score the Game  Best Affordable Recording Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-crashes-fallout-4-pc-solved/"><u>Banish Crashes: Fallout 4 PC Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-up-blacked-out-screen-win10-fix/"><u>Brightening Up Blacked Out Screen: Win10 Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clarified-unknown-direct-x-flub-on-legends-of-lol/"><u>Clarified Unknown Direct X Flub on Legends of LoL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/computer-graphics-component-revived/"><u>Computer Graphics Component Revived</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-transparent-computer-vision/"><u>Effortless: Transparent Computer Vision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-amds-difficulty-to-detect-driver-in-windowas-10/"><u>Fixed AMD's Difficulty to Detect Driver in Windowas 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-hybrid-gpu-glitch-resolving-issues-with-intellnvidia-in-win10/"><u>Fixed Hybrid GPU Glitch: Resolving Issues with Intell/Nvidia in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719973927899-fixed-lenovo-tap-glitch-back-to-life/"><u>Fixed Lenovo Tap Glitch, Back to Life!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-c1900101-during-windows-installation/"><u>Fixing C1900101 During Windows Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-acer-laptop-screen-flickering/"><u>How To Fix Acer Laptop Screen Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-quench-the-phosphor-glitches-of-acer-monitors/"><u>How to Quench the Phosphor Glitches of Acer Monitors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-reno-10-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo Reno 10 5G Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-se-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone SE to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-class-top-online-aids-for-improving-media-captions-quality-for-2024/"><u>Master Class  Top Online Aids for Improving Media Captions' Quality for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-corrected-graphical-hardware-error/"><u>Overwatch: Corrected Graphical Hardware Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/permission-granted-cuda-interface-access/"><u>Permission Granted: CUDA Interface Access</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quenching-windows-reflections-overdrive/"><u>Quenching Windows Reflections Overdrive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-issue-cg-failed-to-show/"><u>Rendering Issue: CG Failed to Show</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-complaint-by-nvidia-windows-operates-normally-now/"><u>Resolved Complaint by NVidia, Windows Operates Normally Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revise-microsofts-bd-functionality-in-windows-series/"><u>Revise Microsoft's BD Functionality in Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-media-playback-after-upgrading-to-windows-11/"><u>Seamless Media Playback After Upgrading to Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-win11-flashy-monitor-problems/"><u>Solve Win11 Flashy Monitor Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-screens-on-windows-7-platform/"><u>Stabilizing Screens on Windows 7 Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-alert-graphics-card-not-installed/"><u>System Alert: Graphics Card Not Installed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-fuzzy-visuals-in-far-cry-6/"><u>Tackling Fuzzy Visuals in Far Cry 6</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-x-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone X from iCloud</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-display-settings-issue-windows-10-fixed/"><u>Unexpected Display Settings Issue: Windows 10 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
+</ul></div>

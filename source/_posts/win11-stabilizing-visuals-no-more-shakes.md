@@ -1,7 +1,7 @@
 ---
 title: "Win11: Stabilizing Visuals, No More Shakes"
-date: 2024-07-12T00:10:12.381Z
-updated: 2024-07-13T00:10:12.381Z
+date: 2024-07-29T02:58:50.711Z
+updated: 2024-07-30T02:58:50.711Z
 tags:
   - win11
   - win10
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/987e27a7892f02906f099613af94ad907edd8b772
 
  Once you’ve confirmed that your cables are not the problem, move on to troubleshoot the driver issues.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your display driver
 
  One common cause of screen flickering is a corrupted or outdated display driver. To see if that’s the case, you should update your display driver to the latest version.
@@ -64,6 +67,9 @@ There are mainly two ways to update your display driver:
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Fix 3: Change the refresh rate
 
  The refresh rate of a display is the number of times per second that your monitor draws a new image. If your display refresh rate is not set properly, you may encounter screen flickering issues in Windows 11\. To fix it, you can change the refresh rate. Here’s how:
@@ -71,6 +77,9 @@ If the issue remains, check out the next fix.
 1. On your desktop,**right-click** an empty space and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
@@ -84,8 +93,14 @@ If the issue remains, check out the next fix.
  If updating apps doesn’t solve your flickering issues, consider**uninstalling the recently installed apps** , as they may not be compatible with Windows 11 and can cause a flickering screen. To uninstall an app:
 
 1. Click**Start** and select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
@@ -93,6 +108,9 @@ If the issue remains, check out the next fix.
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Fix 5: Change Accent color and Background
 
  Just like Windows 10, there is an option in Windows 11 that allows your system to automatically select an accent color from your background. However, there are many reports that this option turns out to be a culprit of screen flickering. So you can follow these steps to disable it:
@@ -101,10 +119,20 @@ If the issue remains, check out the next fix.
 2. In the left panel, select**Personalization** , then click**Background** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-background.jpg)
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
@@ -117,12 +145,18 @@ If the issue remains, check out the next fix.
 2. In the left panel, select**Accessibility** , then click**Visual effects** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-accessibility-visual-effects.jpg)
 3. **Turn off** Animation effects.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-turn-off-animation-effects.jpg)
 
 Check if you’re still facing a flickering screen.
 
 If this fix doesn’t do the trick, try the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Disable hardware acceleration
 
  The hardware acceleration feature is widely used to improve overall performance. But in some cases, it may also cause your screen to flicker. To fix the issue, you’ll need to disable hardware acceleration on your PC. Here’s how:
@@ -147,12 +181,18 @@ If this fix doesn’t do the trick, try the next one below.
 
 1. On your computer, open Google Chrome.
 2. At the top right, click the**vertical three dots** icon and select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Repair your system files
 
  If there are any missing or corrupted system files, you may see a flickering or flashing screen on your Windows 11 PC. To fix it, you can use**[Fortect](#option1)** or**[System File Checker](#option2)** to scan and restore system files.
@@ -165,6 +205,9 @@ If this fix doesn’t do the trick, try the next one below.
 2. Open Fortect and scan your PC. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2: Use the System File Checker tool to repair system files
@@ -172,6 +215,10 @@ If this fix doesn’t do the trick, try the next one below.
  System File Checker is a built-in tool that allows users to scan for and restore corrupted Windows system files. To perform SFC scan and repair Windows image:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl** +**Shift** +**Enter** to run Command Prompt as administrator.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
@@ -182,6 +229,9 @@ If this fix doesn’t do the trick, try the next one below.
 4. After the process is complete,**type the following command** , and then press**Enter** .  
 
 `**sfc /scannow**`  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
 
@@ -211,3 +261,50 @@ Once done, check if your problem has been resolved.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-call-of-duty-cold-war-connectivity-issue/"><u>[FIXED] Call of Duty Cold War Connectivity Issue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps/"><u>[New] Get More From Tiny Screens  Top 6 YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-halt-real-time-audiovideo-capturing-on-apples-platform/"><u>[New] Halt Real-Time Audio/Video Capturing on Apple's Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/running-smooth-windows-1110-now-has-amd-graphics-drivers/"><u>[RUNNING SMOOTH] Windows 11/10 Now Has AMD Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-connection-for-cod-cold-war/"><u>[SOLVED] Restoring Internet Connection for CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-winnet-speed-leapfrogging-latency-limits/"><u>[SOLVED] WinNet Speed: Leapfrogging Latency Limits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-androids-expert-choice-for-quick-vid-boosting/"><u>2024 Approved  Android's Expert Choice for Quick Vid Boosting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-motorola-moto-g-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-adapter-compatible-fix-in-qualcomm-drivers-on-win10/"><u>Atheros Adapter Compatible: Fix in Qualcomm Drivers on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-glitches-with-ease/"><u>End Monitor Glitches with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-sony-xperia-5-v-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Sony Xperia 5 V Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-mend-lenovo-non-touch-screen/"><u>How To Mend Lenovo Non-Touch Screen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-accelerating-vimeo-content-streams/"><u>In 2024, Accelerating Vimeo Content Streams</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone XS Max?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-9a-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 9A to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-to-tv-connection-issue-no-response/"><u>Laptop-to-TV Connection Issue: No Response</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-reset-successfully-functioning/"><u>Lenovo Tap Reset Successfully Functioning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-hidden-graphic-card-discrepanrances/"><u>Mend Hidden Graphic Card Discrepanrances</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-updates-fixing-render-driver-issues-across-windows-series/"><u>Microsoft Updates: Fixing Render Driver Issues Across Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-game-hiccups-how-to-stop-them/"><u>Nvidia RTX 3080 Game Hiccups - How to Stop Them</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-patch-for-rtx210-to-optimize-win11/"><u>NVIDIA's Patch for RTX210 to Optimize Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-windows-11-resolution-settings/"><u>Optimize Windows 11 Resolution Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-note-12-pro-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi Note 12 Pro 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-cure-no-stutter-all-play/"><u>Rapid Cure: No Stutter, All Play</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reduce-overly-large-screen-on-win10/"><u>Reduce Overly Large Screen on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedies-to-eliminate-lenovo-refreshes/"><u>Remedies to Eliminate Lenovo Refreshes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-gpu-error-43/"><u>Resolving GPU Error 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-win10-whiteout-after-new-cu/"><u>Resolving Win10 Whiteout After New CU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-7-display-glitches/"><u>Resolving Windows 7 Display Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-youtubes-fading-background-problems/"><u>Resolving YouTube's Fading Background Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamped-kratos-skillset/"><u>Revamped Kratos Skillset</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-unsupported-amd-freesync/"><u>Reviving Unsupported AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-video-playback-on-demand/"><u>Seamless Video Playback on Demand</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-amd-radeon-r9-performance-on-win11/"><u>Securing AMD Radeon R9 Performance on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-integration-of-nvidia-7025-in-win11/"><u>Smooth Integration of Nvidia 7025 in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-over-flickering-win7-views/"><u>Smoothing Over Flickering Win7 Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eliminate-black-screen-complications/"><u>Steps to Eliminate Black Screen Complications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-broad-monitor-expansion-issues-on-windows/"><u>Tackled Broad Monitor Expansion Issues on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-large-screen-distortion-in-windows-10/"><u>Tackled Large Screen Distortion in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10.</u></a></li>
+</ul></div>

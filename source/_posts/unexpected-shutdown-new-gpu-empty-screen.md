@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Shutdown: New GPU, Empty Screen"
-date: 2024-07-12T00:10:11.315Z
-updated: 2024-07-13T00:10:11.315Z
+date: 2024-07-29T02:58:49.529Z
+updated: 2024-07-30T02:58:49.529Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/ac052320a70f53cd4defac365f581dfb457a1cc20
 
  Then please ensure that the new graphics card is improperly installed by making sure that the gold PCIe connector of your graphics card lines up with the PCIe x16 slot perfectly.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
 ---
@@ -60,6 +63,9 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -74,6 +80,9 @@ If this is not the problem, please move on.
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
@@ -84,7 +93,13 @@ If this is not the problem, please move on.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -115,6 +130,9 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -124,20 +142,32 @@ Here are the things you should pay extra attention to:
 1. Click the **Windows start menu** and type **msconfig** , then click **Open** :  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. See if the problem is with your graphics card
 
  At this stage, if the new GPU still has no display on your monitor, you may need to consider if the problem is with the graphics card itself.
@@ -170,3 +200,40 @@ Here are the things you should pay extra attention to:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-express-corporate-essence-designing-emblems-on-the-go/"><u>[New] Express Corporate Essence - Designing Emblems on the Go</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-savory-showlines-top-30-engaging-recipe-broadcast-names/"><u>[New] In 2024, Savory Showlines  Top 30 Engaging Recipe Broadcast Names</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-approach-to-youtube-community-dialogue/"><u>[New] Streamlining Your Approach to YouTube Community Dialogue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-journey-through-timeran-images-3-methods-on-facebook/"><u>[Updated] In 2024, The Journey Through Time'ran Images  3 Methods on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-guide-to-screen-recording-facetime-meetings/"><u>2024 Approved  Essential Guide to Screen-Recording FaceTime Meetings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>2024 Approved  The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://network-issues.techidaily.com/2024s-guide-to-a-working-zoom-camera-on-demand/"><u>2024’S Guide to a Working Zoom Camera on Demand</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-magic-v2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor Magic V2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-nvidiaintel-graphics-dilemma-on-windows-10-successfully/"><u>Addressing NVIDIA/Intel Graphics Dilemma on Windows 10 Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-reverse-image-problem-on-windows-7-device/"><u>Adjusting Reverse Image Problem on Windows 7 Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banished-bug-mh-worlds-graphics-scare-over/"><u>Banished Bug: MH World's Graphics Scare Over</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-blurred-imagery-for-far-cry-6-players/"><u>Clearing Up Blurred Imagery for Far Cry 6 Players</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-counter-wow-bug-519/"><u>Comprehensive Guide to Counter WoW Bug #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-dilemma-defeated-screen-regains-steady-light/"><u>Dimming Dilemma Defeated: Screen Regains Steady Light</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-pathway-for-adding-external-wlan-interface-in-os-xwindows/"><u>Direct Pathway for Adding External WLAN Interface in OS X/Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-switchable-gpu-issue-on-windows-11/"><u>Fixed Switchable GPU Issue on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-huawei-p60-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Huawei P60 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-in-minimal-photoshop-alterations/"><u>In 2024, Masterclass in Minimal Photoshop Alterations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y27-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y27 4G FRP</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-top-apps-and-software-for-making-videos-from-photos/"><u>In 2024, Top Apps and Software for Making Videos From Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-lament-lost-light-levels/"><u>Laptop Lament: Lost Light Levels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-display-ignores-input-quick-repair/"><u>Lenovo Display Ignores Input: Quick Repair</u></a></li>
+<li><a href="https://win11.techidaily.com/1719268980675-optimize-disk-space-clear-temporary-windows-files-now/"><u>Optimize Disk Space: Clear Temporary Windows Files Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dimming-display-on-lenovo-devices/"><u>Overcoming Dimming Display on Lenovo Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/putting-a-stop-to-windows-glare-surge/"><u>Putting a Stop to Window's Glare Surge</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-acer-monitor-flashes-step-by-step-guide/"><u>Stop Acer Monitor Flashes: Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-monitor-glitches-a-compreenas-guide/"><u>Tackle Monitor Glitches: A Compreenas Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveil-hidden-displays-in-windows-11/"><u>Unveil Hidden Displays in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-issues-in-windows-11-common-fixes-explored/"><u>Wi-Fi Issues in Windows 11 - Common Fixes Explored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-atheros-and-qualcomm-wi-fi-driver-unity/"><u>Windows 10, Atheros & Qualcomm Wi-Fi Driver Unity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-cease-discord-startup-and-update-checks-in-windows/"><u>Workaround: Cease Discord Startup and Update Checks in Windows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Basic Render Drivers for Win Versions 11 to 7"
-date: 2024-07-12T00:09:07.291Z
-updated: 2024-07-13T00:09:07.291Z
+date: 2024-07-29T02:58:02.404Z
+updated: 2024-07-30T02:58:02.404Z
 tags:
   - win11
   - win10
@@ -41,12 +41,25 @@ thumbnail: https://thmb.techidaily.com/01734b8ef062c5f42913179297294f7a33898d76f
 
 Here’s how to do it:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
@@ -68,9 +81,15 @@ Here’s how to do it:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
 
@@ -97,3 +116,68 @@ Here’s how to do it:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860015172-new-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[New] Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-iphoneandroids-best-5-multimedia-capturing-apps-reviewed/"><u>[New] IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ringtones-roundup-elite-download-hubs/"><u>[New] Superior Ringtones Roundup  Elite Download Hubs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-apple-media-access-and-download-youtube-videos-on-iphoneipad-for-2024/"><u>[Updated] Apple Media  Access and Download YouTube Videos on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-tiktok-step-by-step-caption-techniques/"><u>[Updated] In 2024, Mastering TikTok  Step-by-Step Caption Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-iphone-exposed-the-art-of-prolonged-photography-for-2024/"><u>[Updated] IPhone Exposed  The Art of Prolonged Photography for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-personalize-your-viewing-experience-building-a-google-cardboard-vr-setup/"><u>[Updated] Personalize Your Viewing Experience  Building a Google Cardboard VR Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantum-hdrs-role-in-modern-photography-trends/"><u>[Updated] Quantum HDR's Role in Modern Photography Trends</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-online-visibility-with-essential-vids-tools/"><u>[Updated] Unlock Online Visibility with Essential Vids' Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gradual-amplitude-reduction-guide/"><u>2024 Approved  Gradual Amplitude Reduction Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-windows-11-display-reversal-fix/"><u>Addressing Windows 11 Display Reversal Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-boost-for-win11-with-hd-6950-upgrade/"><u>AMD Graphics Drivers Boost for Win11 with HD 6950 Upgrade</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-superior-hd-vids-discover-the-best-apps-for-2024/"><u>Android's Superior HD Vids  Discover the Best Apps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-wi-fi-driver-fix-confirmed-for-windows-11/"><u>Atheros QCA61x4 Wi-Fi Driver Fix Confirmed for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-lag-in-virtual-building-game-pc/"><u>Combat Lag in Virtual Building Game PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-wow-glitch-519-like-a-pro/"><u>Conquering WoW Glitch #519 Like a Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effective-naming-adjustments-for-google-meet-users-laptopmobile-for-2024/"><u>Effective Naming Adjustments for Google Meet Users (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-exercises-for-elite-english-or-fancy-french-skills/"><u>Efficient Exercises for Elite English or Fancy French Skills</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-screen-geometry-realignment/"><u>Effortless Screen Geometry Realignment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-operational-amd-freesync/"><u>Enabling Operational AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/endless-black-screen-restore-win10/"><u>Endless Black Screen, Restore Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-monitors-now-displays-fullscreen-on-win11/"><u>Fix for Monitors: Now Displays Fullscreen on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-unregistered-display-unit/"><u>Fix Unregistered Display Unit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-faint-laptop-screen-issue-in-lenovo/"><u>Fixing Faint Laptop Screen Issue in Lenovo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-low-brightness-lenovo-display-issue/"><u>Fixing Low-Brightness Lenovo Display Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-r9-driver-errors-in-the-heart-of-windows-10/"><u>Fixing R9 Driver Errors in the Heart of Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-visual-stutter-in-pro-7/"><u>Fixing Visual Stutter in Pro 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y55s 5G (2023) Phone with Broken Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-freezing-out-the-backdrop-in-your-design/"><u>In 2024, Master the Art of Freezing Out the Backdrop in Your Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-display-not-reacting-repair-successful/"><u>Lenovo Display Not Reacting - Repair Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mouse-pointer-on-black-window-issue/"><u>Mouse Pointer On Black Window Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-driver-no-visibility/"><u>New Driver, No Visibility?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nightfall-on-screen-with-new-driver/"><u>Nightfall on Screen with New Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-unavailable-issue-resolved/"><u>OpenGL Unavailable: Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-gpu-installation-failure-now-ready-on-ws/"><u>Overcame GPU Installation Failure, Now Ready on WS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcame-hp-printers-spooler-error/"><u>Overcame HP Printer's Spooler Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-oscillating-screen-woes-in-pro-7/"><u>Overcoming Oscillating Screen Woes in Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-streaming-obstacles-easily/"><u>Overcoming Windows 10 Streaming Obstacles Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-driver-update-now-available-on-windows-11/"><u>Radeon HD 6950 Driver Update Now Available on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-undetected-gigabyte-hardware-on-system/"><u>Remedying Undetected Gigabyte Hardware on System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gdrivererr22-issue/"><u>Resolved GDRIVER_ERR#22 Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-lcd-display-issues-in-notebooks/"><u>Resolving LCD Display Issues in Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-successful-gdx-setup-in-windows-os/"><u>Restored Successful GDX Setup in Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-stable-r9-drivers-for-windows-10-systems/"><u>Securing Stable R9 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-ensuring-accurate-age-on-tiktok/"><u>Step-by-Step  Ensuring Accurate Age on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-anticipation-elevating-the-unboxing-experience-for-2024/"><u>The Art of Anticipation  Elevating the Unboxing Experience for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tvs-blank-face-laptop-lights-on-despite-connection/"><u>TV's Blank Face, Laptop Lights On Despite Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-windows-11-viewport/"><u>Uninterrupted Windows 11 Viewport</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-note-30-vip-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Note 30 VIP Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-issue-unresponsive-to-changes/"><u>Win11 Display Issue: Unresponsive to Changes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-stability-achieved/"><u>Win11 Screen Stability Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-tolerance-for-winos-com-issues/"><u>Zero Tolerance for WinOS COM Issues</u></a></li>
+</ul></div>

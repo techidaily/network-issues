@@ -1,7 +1,7 @@
 ---
 title: Correcting Flashy Windows 7 Visuals
-date: 2024-07-12T00:11:06.686Z
-updated: 2024-07-13T00:11:06.686Z
+date: 2024-07-29T02:59:31.482Z
+updated: 2024-07-30T02:59:31.482Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -43,11 +46,18 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check for hardware issues
 
  It’s also possible that your screen flickering problem results from interference from outside or defective cable connection.
@@ -82,17 +92,29 @@ To troubleshoot these hardware issues:
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
@@ -131,3 +153,38 @@ Hopefully this can help you out.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-instantaneously-engaging-audiences-how-obs-simplifies-instagram-streams/"><u>[New] 2024 Approved  Instantaneously Engaging Audiences  How OBS Simplifies Instagram Streams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unleashing-widespread-engagement-on-facebook/"><u>[New] In 2024, Unleashing Widespread Engagement on Facebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-control-reducing-windows-11-screen-width/"><u>[RESOLUTION CONTROL] Reducing Windows 11 Screen Width</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-like-a-pro-with-tomtoms-actioncam-2023/"><u>[Updated] Explore Like a Pro with TomTom's ActionCam 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-walls-in-grey-buildings-a-step-towards-eco-cities/"><u>[Updated] In 2024, Green Walls in Grey Buildings  A Step Towards Eco-Cities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-schedule-expert-techniques-using-free-timers/"><u>[Updated] Streamline Your Schedule  Expert Techniques Using Free Timers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/activating-hidden-asus-video-feature/"><u>Activating Hidden Asus Video Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amds-latest-drivers-unleash-full-potential-of-windows-11-hd-6950-gpu/"><u>AMD's Latest Drivers Unleash Full Potential of Windows 11, HD 6950 GPU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-video-card-glitches-for-smooth-viewing/"><u>Combat Video Card Glitches for Smooth Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dawn-on-a-lenovo-once-in-blackout/"><u>Dawn on a Lenovo, Once in Blackout</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drone-balance-7-top-rated-gimbals/"><u>Drone Balance  7 Top-Rated Gimbals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropping-offline-more-often-wi-fi-woes/"><u>Dropping Offline More Often: Wi-Fi Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-nvidiaintel-switchable-graphics-confusion-on-windows-10/"><u>End of NVIDIA/Intel Switchable Graphics Confusion on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-fixes-for-youtubes-green-screen-errors/"><u>Essential Fixes for YouTube's Green Screen Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-windows-stopping-due-to-nvidia-device-problem/"><u>Fix for Windows Stopping - Due To NVidia Device Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-vertical-precision-on-screens/"><u>Fix Vertical Precision on Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-addressing-opengl-bug-in-driver-update/"><u>GPU Fix: Addressing OpenGL Bug in Driver Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmony-achieved-nvidia-on-windows-10/"><u>Harmony Achieved: Nvidia on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/identified-interloper-on-network-printer/"><u>Identified Interloper on Network Printer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-zte-nubia-flip-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from ZTE Nubia Flip 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>In 2024, Expert Advice  The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/increasing-clarity-on-windows-11-displays/"><u>Increasing Clarity on Windows 11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-adjustment-of-lcd-horizontal-bars/"><u>Instant Adjustment of LCD Horizontal Bars</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mystery-behind-missing-monitor-glow/"><u>Mystery Behind Missing Monitor Glow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-fully-operational-now/"><u>Nvidia Setup: Fully Operational Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-pc-gaming-experience-for-roblox/"><u>Optimize PC Gaming Experience for Roblox</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-samsung-galaxy-s24plus-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Samsung Galaxy S24+.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/steps-to-free-viewing-of-federal-records-c-span-included/"><u>Steps to Free Viewing of Federal Records - C-Span Included</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974533632-transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-missing-screen-flashes/"><u>Understanding Missing Screen Flashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-youtube-green-screen-challenges/"><u>Unraveling YouTube Green Screen Challenges</u></a></li>
+</ul></div>

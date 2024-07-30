@@ -1,7 +1,7 @@
 ---
 title: "Titans Unbound: Lags on Purchase"
-date: 2024-07-12T00:10:55.862Z
-updated: 2024-07-13T00:10:55.862Z
+date: 2024-07-29T02:59:23.072Z
+updated: 2024-07-30T02:59:23.072Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 6. **[Edit your Engine.ini file](#fix6)**
 7. [**Set the throttle speed to Unlimited**](#fix7)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
 ## 1\. Check the server status
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 3\. Disconnect other devices
 
  The download issue is sometimes caused by your router struggling with the number of connections due to too many downloads happening simultaneously. To work around this, you need to first restart your router. Simply unplug your router or modem from its power outlet. Wait for 15-20 seconds, then plug it back in.
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 4\. Update your network adapter driver
 
  If the previous steps didn’t work, it’s time to check if you’re using an outdated network adapter driver. An outdated or incompatible network adapter driver can cause connection problems. To fix it, you should update your drivers and your problem may be solved in no time.
@@ -94,9 +103,15 @@ OR
 Here we recommend using Google DNS:
 
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
@@ -109,6 +124,9 @@ Here we recommend using Google DNS:
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
@@ -116,12 +134,18 @@ Here we recommend using Google DNS:
  For **Alternate DNS server** , type **8.8.4.4**  
 
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Edit your Engine.ini file
 
  Players report editing some settings in the Engine.ini file can result in better download speeds. So you can give it a shot.
@@ -146,6 +170,9 @@ Here’s how to do this:
 **ChunkRetries=20**
 **RetryTime=0.5**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
  6) Press**Ctrl + S** to save the edits.
@@ -154,14 +181,25 @@ When it’s all done, resume your download and it should be faster.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Set the throttle speed to Unlimited
 
  Setting the default throttle speed in Epic Games Launcher also helps to pick up the download speed. To do so:
 
 1. Launch the Epic Games Launcher.
 2. Click the profile icon on the top right corner and then Settings.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
 5. Try downloading your games again.
@@ -195,3 +233,48 @@ When it’s all done, resume your download and it should be faster.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-comprehensive-assessment-unveiling-du-recorders-features/"><u>[New] Comprehensive Assessment  Unveiling Du Recorder's Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-iphone-lens-capabilities-in-ios-11/"><u>[New] Top 10 iPhone Lens Capabilities in iOS 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>[New] Top 30 Metaverse Memes  Crafting Hilarious Digital Delights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-dividing-recordings-top-cam-scrutiny-review/"><u>[Updated] Dividing Recordings  Top Cam Scrutiny Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-decoding-the-secret-of-instagrams-video-cap/"><u>[Updated] In 2024, Decoding the Secret of Instagram's Video Cap</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>[Updated] In 2024, Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-windows-7-screen-flipping-error/"><u>Addressing Windows 7 Screen Flipping Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-to-fresh-intel-hd-driver/"><u>Adjusting Windows to Fresh Intel HD Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-crash-cure-immediate-and-easy-steps/"><u>Apex Crash Cure: Immediate & Easy Steps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-visual-anomalies-in-gaming-pc/"><u>Correct Visual Anomalies in Gaming PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/create-glitch-text-effect-for-2024/"><u>Create Glitch Text Effect for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cutting-out-pauses-perfect-video-performance-on-new-os/"><u>Cutting Out Pauses: Perfect Video Performance on New OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-functional-state-for-freesync-devices/"><u>Enabling Functional State for FreeSync Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-upside-down-image-issue-on-windows-10/"><u>Fix: Upside Down Image Issue on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-mixed-graphics-quality-in-ubisofts-new-world/"><u>Fixing Mixed Graphics Quality in Ubisoft's New World</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-youtubes-overexposed-or-underexposed-backdrop-issues/"><u>Fixing YouTube's Overexposed or Underexposed Backdrop Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-itel-a60s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel A60s Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-note-12-pro-4g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi Note 12 Pro 4G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-note-30-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Note 30?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-pro-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 Pro by restoring it to factory settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-sharpness-for-ubisofts-new-virtual-island/"><u>Improving Image Sharpness for Ubisoft's New Virtual Island</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-gt-neo-5-se-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme GT Neo 5 SE To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-watermark-free-stock-photos/"><u>In 2024, How to Get Watermark-Free Stock Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-visual-verve-new-era-of-radeon/"><u>In 2024, Visual Verve  New Era of Radeon</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-s17t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo S17t ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intervention-for-persistent-hp-screen-blinking/"><u>Intervention for Persistent HP Screen Blinking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-keeps-flickering-solved/"><u>Laptop Screen Keeps Flickering [SOLVED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-setup-error-code-c1900101-in-new-os/"><u>Overcoming Setup Error: Code C1900101 in New OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamlessly-update-intels-graphic-driver-for-windows-11/"><u>Seamlessly Update Intel's Graphic Driver for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-resolution-switching-no-more-display-annoyances-on-win-10/"><u>Smooth Resolution Switching: No More Display Annoyances on Win 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974827199-smooth-screenshot-experience-now/"><u>Smooth Screenshot Experience Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-reactivate-gpu-fan-spins/"><u>Steps to Reactivate GPU Fan Spins</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-intellgraphics-g3000-upgrade-in-win11/"><u>Streamline IntellGraphics G3000 Upgrade in Win11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-prevent-lenovo-screen-shakes/"><u>Techniques to Prevent Lenovo Screen Shakes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-fluttering-on-win7-screens/"><u>Troubleshooting Fluttering on Win7 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovos-unresponsive-touchpad/"><u>Troubleshooting Lenovo's Unresponsive Touchpad</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-hidden-camera-capabilities-in-asus/"><u>Unlocking Hidden Camera Capabilities in Asus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-low-res-issue-now-quickly-resolved/"><u>Windows 10 Low Res Issue - Now Quickly Resolved</u></a></li>
+</ul></div>

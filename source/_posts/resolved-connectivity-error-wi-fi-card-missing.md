@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Connectivity Error: Wi-Fi Card Missing"
-date: 2024-07-12T00:12:17.616Z
-updated: 2024-07-13T00:12:17.616Z
+date: 2024-07-29T03:00:24.495Z
+updated: 2024-07-30T03:00:24.495Z
 tags:
   - win11
   - win10
@@ -37,31 +37,59 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 1. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, click**View** and select**Show hidden devices** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap596.png)
 3. Click**Network adapters** to select it. Click**Action** and click**Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap597.png)
 4. Double-click**Network adapters** to expand the list. See if your wireless network adapter (usually the adapter whose name contains the word “wireless”) appears among the list.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap598.png)
 
  If your adapter appears shows up on the list, double-click on it to open its properties window. See if the adapter is working properly.
 
  If your wireless network adapter doesn’t appear among the list, or if the adapter is not working as expected, don’t worry! Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Fix 2: Add the network adapter manually
 
  If you know the manufacturer of your wireless network adapter (Intel, Realtek, Qualcomm, etc.), you can also try to add the network adapter back manually in Device Manager to see if it works for you. To do so:
 
 1. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click**Action** on the menu bar and select**Add legacy hardware** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click**Next** to move on.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select**Network adapters** , and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-64.png)
 6. Make sure you select the correct manufacturer for your wireless network adapter (if you’re not sure which is the correct choice, move on to the**[next fix below](#f3)** for it to be done automatically) on the left side panel, then select your network adapter on the right-side panel, click**Next** for the driver to be installed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-65.png)
 
  See if your wireless network adapter appears and works fine. If not, try the next fix, below.
@@ -90,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
@@ -136,3 +167,49 @@ See if your wireless network adapter appears in Device Managers.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-absence-of-advanced-display-in-windows-11/"><u>[Corrected] Absence of Advanced Display in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-breakthrough-tools-an-analysis-of-the-top-10-cost-effective-video-design-schools-on-youtube/"><u>[New] 2024 Approved  Breakthrough Tools  An Analysis of the Top 10 Cost-Effective Video Design Schools on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-into-the-shoes-of-a-pro-screen-capture-techniques-for-mac-enthusiasts/"><u>[New] 2024 Approved  Step Into the Shoes of a Pro  Screen Capture Techniques for Mac Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-mac-mp4-cutter-apps-enhance-video-editing-for-2024/"><u>[New] Best Mac MP4 Cutter Apps  Enhance Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/apid-fire-guide-to-successful-double-exposures/"><u>[New] Rapid-Fire Guide to Successful Double Exposures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>[Updated] A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-direct-video-streaming-sending-fb-vids-straight-into-whatsapp/"><u>[Updated] Direct Video Streaming  Sending FB Vids Straight Into WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-easy-way-change-clownfish-tone-in-windows-for-2024/"><u>[Updated] Easy Way  Change Clownfish Tone in Windows for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-photography-guide-turn-photos-on-their-heels/"><u>[Updated] IPhone Photography Guide  Turn Photos on Their Heels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-skype-tone-searching-made-easy-pick-from-the-4-ace-lists/"><u>[Updated] Skype Tone Searching Made Easy  Pick From the 4 Ace Lists</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-meme-makers-playbook-for-widespread-impact/"><u>2024 Approved  Meme Makers' Playbook for Widespread Impact</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-10-free-graphics-websites-a-compreran-analysis/"><u>2024 Approved  Top 10 FREE Graphics Websites  A Compreran Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tracks-for-a-professional-unboxing-presentation/"><u>2024 Approved  Top Tracks for a Professional Unboxing Presentation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bloodied-barbarian-balance-adjustment/"><u>Bloodied Barbarian Balance Adjustment</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/custom-resolution-restored-on-pc-win10/"><u>Custom Resolution Restored on PC (Win10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-inconsistent-reflective-surface-flashes/"><u>Eliminated Inconsistent Reflective Surface Flashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-sims-4-blackout-problems/"><u>Eradicate Sims 4 Blackout Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-win11-opaque-screen-phenomenon/"><u>Eradicate WIN11 Opaque Screen Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicated-oversized-view-on-windows-pcs/"><u>Eradicated Oversized View on Windows PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-troubleshooting-error-43/"><u>GPU Troubleshooting: Error 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-driver-43-troubleshooted/"><u>Graphics Driver 43 Troubleshooted</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-13-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 13 Pro Max Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-11x-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme 11X 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974801619-improve-graphical-output-install-a-simple-quick-update-for-intel-graphics-on-windows-10/"><u>Improve Graphical Output: Install a Simple, Quick Update for Intel Graphics on Windows 10.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme 11 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/max-screen-quality-restored-on-windows/"><u>Max Screen Quality Restored on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-disabled-display-settings-in-nvidia-control-panel/"><u>Overcoming Disabled Display Settings in NVidia Control Panel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-challenge-of-invisible-pixel-gaps-on-laptops/"><u>Overcoming the Challenge of Invisible Pixel Gaps on Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-no-compatible-graphics-hardware-was-found-solved/"><u>Overwatch No Compatible Graphics Hardware Was Found [Solved]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reducing-windows-10-monitor-span/"><u>Reducing Windows 10 Monitor Span</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-civ-5-glitches-on-windows/"><u>Resolve Civ 5 Glitches on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-upside-down-screen-on-windows-11-os/"><u>Reversing Upside Down Screen on Windows 11 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-reset-nvidia-drivers-are-back/"><u>Screen Reset: Nvidia Drivers Are Back</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-revived-graphics-card-driver-issue-resolved/"><u>System Revived: Graphics Card Driver Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-significance-of-4k-quad-hd-imaging-clarity/"><u>The Significance of 4K Quad-HD Imaging Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-and-fixing-c1900101-error-during-win11-installation/"><u>Understanding & Fixing C1900101 Error During Win11 Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unmasking-the-non-detection-of-pc-gpu-issue/"><u>Unmasking the Non-Detection of PC GPU Issue</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+</ul></div>

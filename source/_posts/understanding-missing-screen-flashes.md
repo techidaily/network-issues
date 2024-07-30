@@ -1,7 +1,7 @@
 ---
 title: Understanding Missing Screen Flashes
-date: 2024-07-12T00:10:56.910Z
-updated: 2024-07-13T00:10:56.910Z
+date: 2024-07-29T02:59:23.890Z
+updated: 2024-07-30T02:59:23.890Z
 tags:
   - win11
   - win10
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Table of contents
 
 * [Fix 1: Restart your network devices](#h-fix-1-restart-your-network-devices)
@@ -42,6 +45,9 @@ Here’s how you go about it:
 
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
@@ -61,10 +67,19 @@ Here’s how you go about it:
 2. In the window that pops up, click **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
 
@@ -77,6 +92,9 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  A graphics driver is an essential piece of software program that enables your computer to work with your graphics hardware. If the driver is wrong, corrupt or outdated, you may experience a black screen. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -87,8 +105,14 @@ Here’s how you go about it:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -102,6 +126,9 @@ Here’s how you go about it:
 
 1. Open Google Chrome.
 2. In the top right corner of your screen, click the**three-vertical-dots** icon >**More tools > Clear browsing data…** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cachechrome.png)
 3. Click**Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
@@ -114,14 +141,41 @@ Here’s how you go about it:
 2. Click**the menu button** \>**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Disable browser extensions
 
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
@@ -143,6 +197,14 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-3.png)
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
@@ -186,3 +248,56 @@ Here’s how you go about it:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mold-mirthful-media/"><u>[New] Mold Mirthful Media</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-winos-bsod-dxgkrnlsys-error/"><u>[Resolved] WinOS BSOD: dxgkrnl.sys Error</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-rectify-fb-video-anomaly-with-personal-visage/"><u>[Updated] 2024 Approved  Rectify FB Video Anomaly with Personal Visage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-your-macs-display-live-easy-steps-included/"><u>[Updated] Capturing Your Mac's Display Live - Easy Steps Included</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exploring-youtubes-strategy-for-video-short-promotion/"><u>[Updated] In 2024, Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-s18-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo S18</u></a></li>
+<li><a href="https://network-issues.techidaily.com/address-windows-display-glitches/"><u>Address Windows Display Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-10/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aspect-ratio-armageddon-over/"><u>Aspect Ratio Armageddon Over</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-issues-graphics-cards-and-windows-8s-safe-mode-journey/"><u>Avoiding Issues: Graphics Cards and Windows 8'S Safe Mode Journey</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-blur-from-your-workspace/"><u>Banish Blur From Your Workspace</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-cash-flow-harnessing-youtube-ad-revenue-anywhere-for-2024/"><u>Channel Cash Flow  Harnessing YouTube Ad Revenue Anywhere for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-issue-43-fixed/"><u>Display Driver Issue 43 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-rollback-successful/"><u>Driver Rollback Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-flicker-on-win11-displays/"><u>Eliminate Flicker on Win11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-sharp-window-display-on-pc/"><u>Fix: Sharp Window Display on PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-15-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 15? Heres the Best Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gears-grind-gearless-gateway/"><u>Gears Grind Gearless Gateway</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-a-leap-forward-in-graphics-for-win11-users/"><u>GeForce RTX210: A Leap Forward in Graphics for Win11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-diagnostics-problem-solved/"><u>GPU Diagnostics: Problem Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v29e-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V29e to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-13-mini-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 13 mini With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-display-rotated-issue-resolved/"><u>Laptop Display Rotated - Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-interruptions-streaming-on-upgraded-windows-11/"><u>No More Interruptions: Streaming on Upgraded Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-driver-hurdle-nvidia-plus-windows-10/"><u>Overcoming Driver Hurdle: Nvidia + Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pinnacle-posts-on-reddit-celebrating-the-most-popular-10/"><u>Pinnacle Posts on Reddit  Celebrating the Most Popular (10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-win11-update-addressing-atheros-network-errors/"><u>Qualcomm Win11 Update: Addressing Atheros Network Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-guide-fixing-monitor-distortion-easily/"><u>Quick Guide: Fixing Monitor Distortion Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-instructions-adding-external-wi-fi-compatible-card/"><u>Quick Instructions: Adding External Wi-Fi Compatible Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-gpu-errortype-22/"><u>Rectified GPU Errortype 22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-horizontal-line-displacement/"><u>Rectify Horizontal Line Displacement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-flipback-displays-with-wins-11/"><u>Rectifying Flipback Displays with Wins 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-inconsistent-backlight-on-hp-screens/"><u>Rectifying Inconsistent Backlight on HP Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-amds-display-driver-anomalies-for-win11/"><u>Resolving AMD's Display Driver Anomalies for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-switchable-graphics-issue-with-intelnvidia-win10-fixes/"><u>Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974835330-secure-your-perfect-zoom-experience-no-more-camera-issues/"><u>Secure Your Perfect Zoom Experience, No More Camera Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-play-rectifying-computer-glitches-in-civ-5/"><u>Smoothing Play: Rectifying Computer Glitches in Civ 5</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-pro-7s-flickering-display/"><u>Solving Pro 7'S Flickering Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-screen-gaps-during-games/"><u>Stop Screen Gaps During Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlined-performance-new-amd-graphics-drivers-for-win10/"><u>Streamlined Performance: New AMD Graphics Drivers for Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-improve-intels-graphic-driver-in-ws11-environment/"><u>Swiftly Improve Intel's Graphic Driver in WS11 Environment.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailor-screen-size-for-optimal-windows-11-use/"><u>Tailor Screen Size for Optimal Windows 11 Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tap-out-lags-not-bugs/"><u>Tap Out Lags, Not Bugs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upside-down-monitor-fix-resolved/"><u>Upside-Down Monitor Fix [Resolved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-display-resolved-missing-full-screen/"><u>Windows 11 Display - Resolved Missing Full Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-kernel-fixes-com-failure/"><u>Windows Kernel Fixes COM Failure</u></a></li>
+</ul></div>
