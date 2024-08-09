@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Fluttering on Win7 Screens
-date: 2024-07-12T01:17:33.647Z
-updated: 2024-07-13T01:17:33.647Z
+date: 2024-08-08T04:06:29.997Z
+updated: 2024-08-09T04:06:29.997Z
 tags:
   - win11
   - win10
@@ -41,8 +41,24 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
@@ -64,14 +80,24 @@ To troubleshoot these hardware issues:
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
 
 1. Click the**Start** button >**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -80,8 +106,14 @@ To troubleshoot these hardware issues:
 
 1. Go to**System Information** to get detailed information about your computer:  
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
@@ -131,3 +163,82 @@ Hopefully this can help you out.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-elevate-your-content-secrets-to-becoming-a-staff-favorite-at-vimeo/"><u>[New] Elevate Your Content  Secrets to Becoming a Staff Favorite at Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-impact-the-quintessential-five-youtube-marketing-approaches/"><u>[New] In 2024, Crafting Impact  The Quintessential Five YouTube Marketing Approaches</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-effortless-embedding-techniques-for-streaming-video-in-presentations/"><u>[New] In 2024, Effortless Embedding Techniques for Streaming Video in Presentations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-experts-choice-best-practices-for-vimeo-video-download/"><u>[New] In 2024, Expert's Choice  Best Practices for Vimeo Video Download</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes/"><u>[New] Top Thumbnails  The Ultimate Guide to Optimal YouTube Sizes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wireless-issues-in-new-windows-update/"><u>[RESOLVED] Wireless Issues in New Windows Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-outshine-xsplit-with-these-cutting-edge-alternatives/"><u>[Updated] Outshine Xsplit with These Cutting-Edge Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>[Updated] Video Production Evolution  Prime Lenses for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/10-finest-fee-free-lut-options-reviewed-and-accessible-here/"><u>10 Finest, Fee-Free LUT Options Reviewed & Accessible Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-typography-animation-suites/"><u>2024 Approved  Advanced Typography Animation Suites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-market-opening-innovations/"><u>2024 Approved  Market-Opening Innovations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-8-streamers-choice-high-quality-cameras-reviewed/"><u>2024 Approved  Top 8 Streamer's Choice  High-Quality Cameras Reviewed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>2024 Approved  Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-buffer-delays-from-streams/"><u>Banish Buffer Delays From Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/becoming-an-exclusive-guest-on-tiktok-live/"><u>Becoming an Exclusive Guest on TikTok Live</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cleared-up-why-my-nvidia-gpu-isnt-showing/"><u>Cleared Up: Why My NVIDIA GPU Isn't Showing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed-for-2024/"><u>Deciphering the Disappearance of Recommended Video Content in Your Newsfeed for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/detailed-insight-into-4k-extreme-screen-quality/"><u>Detailed Insight Into 4K Extreme Screen Quality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-xs-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone XS Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-output-stabilized/"><u>Display Output Stabilized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-installation-of-wi-fi-adapter-on-desktop-computers-tutorial-guide/"><u>Easy Installation of Wi-Fi Adapter on Desktop Computers - Tutorial Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-troubleshooting-path-graphics-card-offline/"><u>Easy Troubleshooting Path: Graphics Card Offline</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-dark-screen-in-fall-creators-version/"><u>Eliminating Dark Screen in Fall Creators' Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-video-card-problems-for-stable-mc-gaming/"><u>Eliminating Video Card Problems for Stable MC Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-sims-4-monochrome-issues/"><u>End Sims 4 Monochrome Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-black-screen-woes-fall-creators-update/"><u>Ending Black Screen Woes: Fall Creators Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-flickering-on-your-visual-display-unit/"><u>Eradicate Flickering on Your Visual Display Unit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974435299-fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-print-job-stuck-in-queue-quickly/"><u>Fix ‘Print Job Stuck in Queue’ Quickly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/fix-low-quality-footage-on-different-devices-for-2024/"><u>Fix Low-Quality Footage on Different Devices for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-wireless-printing-issue-with-hp-envy-5680v5/"><u>Fixed Wireless Printing Issue with HP Envy 5680V5</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-nvidia-alert-causes-windows-stop/"><u>Fixed: Nvidia Alert Causes Windows Stop</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-15-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 15 iCloud Bypass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ghosting-visuals-recent-gpu-upgrade/"><u>Ghosting Visuals: Recent GPU Upgrade?</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-p40plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P40+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-hot-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Hot 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-y100t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y100t Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nokia-c22-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nokia C22 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-motorola-edge-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Edge 2023 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-update-intel-graphics-driver-in-windows-7/"><u>How to Update Intel Graphics Driver in Windows 7</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v29-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V29 to PC? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-live-streaming-services-a-detailed-comparison/"><u>In 2024, Leading Live Streaming Services  A Detailed Comparison</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-t2-pro-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo T2 Pro 5G Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-assessment-lightroom-app-android-edition/"><u>In-Depth Assessment  Lightroom App, Android Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/internets-disconnection-dance/"><u>Internet's Disconnection Dance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-angle-adjustment-victory/"><u>Laptop Angle Adjustment - Victory</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-pause-a-look-into-why-new-chatgpt-subscriptions-are-on-hold/"><u>Navigating the Pause: A Look Into Why New ChatGPT Subscriptions Are On Hold</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-wows-issue-519/"><u>Navigating Through WoW's Issue #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-gpu-fan-stillness/"><u>Overcoming GPU Fan Stillness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-pro-7s-unstable-screen/"><u>Overcoming Pro 7'S Unstable Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-glitch-no-519/"><u>Overcoming WoW Glitch No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-solution-for-compatible-atheros-drivers-in-windows-11/"><u>Qualcomm's Solution for Compatible Atheros Drivers in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-and-thrive-restore-your-zoom-camera-in-minutes/"><u>Revive and Thrive: Restore Your Zoom Camera in Minutes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-backward-facing-window-errors-windows-7/"><u>Solving Backward-Facing Window Errors, Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-system-deficiencies-pre-software-deployment/"><u>Tackling System Deficiencies Pre-Software Deployment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tactics-to-regain-visual-presentation-on-systems/"><u>Tactics to Regain Visual Presentation on Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-enigma-eliminated-solving-the-unknown-direct-x-conundrum-in-lol/"><u>The Enigma Eliminated: Solving the Unknown Direct X Conundrum in LoL</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-gameplay-tips-for-escaping-roblox-stuck-on-startup-screen/"><u>Unstick Your Gameplay! Tips for Escaping Roblox Stuck on Startup Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-error-successful-gpu-creation/"><u>Win Error: Successful GPU Creation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-stabilized-no-more-flickers/"><u>Win11 Display Stabilized - No More Flickers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-comexception-fixed-interoperability-success/"><u>Windows COMException Fixed: Interoperability Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-update-a-step-towards-stability/"><u>Windows Update: A Step Towards Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-versions-10-to-7-microsofts-driver-fix/"><u>Windows Versions 10 to 7: Microsoft's Driver Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-wifi-woes-on-win-10-and-11/"><u>Winning WiFi Woes on WIN 10 & 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-signal-recent-gpu-upgrade-issue/"><u>Zero Signal: Recent GPU Upgrade Issue</u></a></li>
+</ul></div>

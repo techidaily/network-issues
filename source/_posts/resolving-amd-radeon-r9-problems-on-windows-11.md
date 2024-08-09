@@ -1,7 +1,7 @@
 ---
 title: Resolving AMD Radeon R9 Problems on Windows 11
-date: 2024-07-12T01:19:13.701Z
-updated: 2024-07-13T01:19:13.701Z
+date: 2024-08-08T04:05:01.524Z
+updated: 2024-08-09T04:05:01.524Z
 tags:
   - win11
   - win10
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 
 ## Resolving AMD Radeon R9 Problems on Windows 11
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58647de6a91e7.jpg)
 
 AMD Radeon R9 series of graphics card is one of the perfect choices for gamers. Windows 10 users have reported that they are having some problem with their AMD Radeon R9 series of graphics card.  
@@ -48,6 +51,9 @@ Before we proceed with the following resolutions, please make sure that you have
   
  When prompted with administrator permission, press**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
  2) In the command prompt window, type in the following command:
@@ -66,6 +72,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Run as administrator)** .
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586482f8af0b5.png)
   
  When prompted with administrator permission, press**Yes** to continue.
@@ -84,20 +93,33 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 1) Follow the path:**Start**button**\> Control Panel > Uninstall a program**(View by**Category**).  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e5733e51.jpg)
 
 2) If you are with AMD processors, select**Catalyst Control Center**and choose**Uninstall**.
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648f8f4dd21.jpg)
   
  If you are with Intel processors, select to uninstall **ALL** AMD software that you can see in this window.  
   
  3) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586490d260746.png)
 
 4) Locate**Display adapters**category, then double click the**AMD Radeon R9**series of display driver that you have.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9af8c728.jpg)
 
 5) Under**Driver**tab, choose**Uninstall**.
@@ -106,6 +128,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  Tick the box for**Delete the driver software for this device** option and click**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ab747efcd.png)
 
  6) Reboot your PC.
@@ -124,6 +149,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  8) When your computer restart again, download the latest version of the AMD Radeon R9 series driver from AMD website and then install it manually.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864b2625647d.png)
 
  If you want to save yourself more time and energy for other things, you can leave your driver problems to [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It automatically help you detects, downloads and updates device drivers that are missing or outdated on your computer. And, there are only two steps you take to do it:
@@ -160,3 +188,49 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-review-of-youtubes-integration-with-iphone-and-android-devices/"><u>[New] 2024 Approved  A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-resolving-the-internet-gap-in-cod-cold-war/"><u>[SOLVED] Resolving the Internet Gap in CoD Cold War</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-complete-handbook-of-xbox-one-zoom-communication/"><u>2024 Approved  The Complete Handbook of Xbox One Zoom Communication</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-down-high-definition-a-look-at-4k/"><u>Breaking Down High Definition: A Look at 4K</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-your-pc-to-new-heights-updated-amd-graphics-drivers-v20/"><u>Drive Your PC to New Heights: Updated AMD Graphics Drivers V2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974211832-easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-methods-refreshing-intel-drivers-on-windows-7-pcs/"><u>Efficient Methods: Refreshing Intel Drivers on Windows 7 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-nullified-in-wincom-framework/"><u>Error Nullified in WinCOM Framework</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974754808-fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawless-video-playback-after-win10-enhancement/"><u>Flawless Video Playback After Win10 Enhancement</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/illuminating-lenovo-laptops-opaque-screen/"><u>Illuminating Lenovo Laptop's Opaque Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-peering-into-triller-its-distinctive-features-and-identity/"><u>In 2024, Peering Into Triller  Its Distinctive Features and Identity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intensify-gaming-with-geforce-210-driver-on-windows-10-platform/"><u>Intensify Gaming with GeForce 210 Driver on Windows 10 Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-failure-now-fully-operational/"><u>Lenovo Tap Failure, Now Fully Operational</u></a></li>
+<li><a href="https://network-issues.techidaily.com/luminous-landscapes-for-your-lenovo-display/"><u>Luminous Landscapes for Your Lenovo Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-graphic-card-synergy-in-new-windows-11-update/"><u>Mastering Graphic Card Synergy in New Windows 11 Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/melodic-matchmaking-complementary-soundtracks-for-boxings/"><u>Melodic Matchmaking  Complementary Soundtracks for Boxings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-advanced-editing-techniques-for-immersive-video-in-premiere-pro-for-2024/"><u>Navigating Advanced Editing Techniques for Immersive Video in Premiere Pro for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-securely-through-windows-8s-safe-mode-for-graphics-cleanup/"><u>Navigating Securely Through Windows 8’S Safe Mode for Graphics Cleanup</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-11-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 11 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-installer-obstacles-for-nvidia/"><u>Overcoming Installer Obstacles for NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-the-art-of-hybrid-graphics-card-functionality-on-windows-11/"><u>Perfecting the Art of Hybrid Graphics Card Functionality on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-recovery-addressing-loot-issues-in-legends/"><u>Quick Recovery: Addressing Loot Issues in Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-ready-all-good/"><u>Radeon Ready, All Good</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bdr-errors-on-ws-21-ws-10-ws-8-ws-7/"><u>Resolved: BDR Errors on WS-21, WS-10, WS-8, WS-7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-intermittent-backlit-beam-in-device/"><u>Resolved: Intermittent Backlit Beam in Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealed-how-to-locate-hidden-nvidia-gpu-in-device-manager/"><u>Revealed: How to Locate Hidden NVIDIA GPU in Device Manager</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/speedy-solution-eliminate-loot-errors-in-apex/"><u>Speedy Solution: Eliminate Loot Errors in Apex</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-visual-boundary-stability/"><u>Streamline Visual Boundary Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/syncing-geforce-7025-with-win11-hardware-standard/"><u>Syncing GeForce 7025 with Win11 Hardware Standard</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-hp-screen-flickering-fix-guide/"><u>Tackling HP Screen Flickering Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-display-brightness-loss/"><u>Troubleshooting Lenovo Display Brightness Loss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unfreeze-pointer-on-win10-system-failure/"><u>Unfreeze Pointer on Win10 System Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-configurations/"><u>Unlock Hidden Display Configurations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-the-mysteries-of-ultra-high-definition/"><u>Unraveling the Mysteries of Ultra High Definition</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>Updated In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+<li><a href="https://techidaily.com/will-edge-40-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Edge 40 Pro play AVCHD mts files?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974328874-zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help!</u></a></li>
+</ul></div>

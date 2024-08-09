@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2024-07-12T01:18:21.073Z
-updated: 2024-07-13T01:18:21.073Z
+date: 2024-08-08T04:05:47.893Z
+updated: 2024-08-09T04:05:47.893Z
 tags:
   - win11
   - win10
@@ -63,6 +63,9 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -99,6 +102,9 @@ Here is how to do it:
 
  2) Locate**Windows Explorer** and click**End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
@@ -113,18 +119,32 @@ So you can try disabling fast startup to see if it does the trick:
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, type **powercfg.cpl** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
  2) Click **Choose what the power buttons do** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
  3) Click **Change settings that are currently unavailable** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 
  5) Restart your computer and check if your laptop screen displays properly.
@@ -133,12 +153,18 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
 
  1) On your keyboard, press the**Windows logo key** and type**system restore** , then click on**Create a restore point** once it shows up as a matching result.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
  2) In the **System Protection** tab, click **System Restore…** .
@@ -147,6 +173,9 @@ So you can try disabling fast startup to see if it does the trick:
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
@@ -182,3 +211,65 @@ So you can try disabling fast startup to see if it does the trick:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-sandbox-treasures/"><u>[New] 2024 Approved  The Ultimate List of Sandbox Treasures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-pictures-tale-adding-meaningful-text-to-images-for-macwindows-for-2024/"><u>[New] A Picture's Tale  Adding Meaningful Text to Images for Mac/Windows for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-first-rate-text-animation-setups/"><u>[New] In 2024, First-Rate Text Animation Setups</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-larger-prints-same-sharpness-standard/"><u>[New] Larger Prints, Same Sharpness Standard</u></a></li>
+<li><a href="https://network-issues.techidaily.com/normalization-achieved-graphic-output-back-to-baseline-after-driver-hiccup/"><u>[Normalization Achieved] Graphic Output Back to Baseline After Driver Hiccup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-advanced-pixlr-editing-hacks-for-stunning-photos/"><u>[Updated] 10 Advanced Pixlr Editing Hacks for Stunning Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-prodigious-portfolio-creation-best-free-mac-software/"><u>[Updated] 2024 Approved  Prodigious Portfolio Creation  Best FREE Mac Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-commanding-stage-confidence-with-powerpoint-voiceover-skills/"><u>[Updated] Commanding Stage Confidence with PowerPoint Voiceover Skills</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-end-horizons-the-elite-8k-camera-selection/"><u>[Updated] High-End Horizons  The Elite 8K Camera Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-software-for-beat-alteration-tech/"><u>[Updated] Superior Software for Beat Alteration Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-photographic-edge-cutting-edge-editing-strategies/"><u>[Updated] The Photographic Edge  Cutting-Edge Editing Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-abc-of-advertising-a-trifecta-strategy-to-drive-engagement-on-fb-platforms/"><u>2024 Approved  The ABC of Advertising  A Trifecta Strategy to Drive Engagement on FB Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>2024 Approved  Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-g24-power-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola G24 Power to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-for-black-screen-post-creators-upgrade/"><u>Cure for BLACK SCREEN Post-Creators' Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debugged-opengl-error-nvidia-graphics-armoried/"><u>Debugged OpenGL Error: NVIDIA Graphics Armoried</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-the-cryptic-code-behind-dx-malfunctions-on-legends-of-lol/"><u>Deciphering the Cryptic Code Behind DX Malfunctions on Legends of LoL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disabling-gpu-directly-in-windows-device-manager/"><u>Disabling GPU Directly in Windows Device Manager</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effortless-techniques-for-iphone-screen-recordings-for-2024/"><u>Effortless Techniques for Iphone Screen Recordings for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-fixed-nvidia-related-stoppage-in-windows-os/"><u>Error Fixed: Nvidia-Related Stoppage in Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4-stability-achieved-on-pc/"><u>Fallout 4 Stability Achieved on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-settings-persistence-issue/"><u>Fixed Display Settings Persistence Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-non-responsive-touchscreen/"><u>Fixing Lenovo's Non-Responsive Touchscreen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-resolution-achieved-post-error-normalization/"><u>Graphic Resolution Achieved: Post-Error Normalization</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-13-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 13 Pro+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-add-external-wireless-capability-with-new-hardware-and-drivers/"><u>How to Add External Wireless Capability with New Hardware & Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-n30-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Nord N30 5G Bootloader Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-c110-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia C110 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-building-a-following-with-stunning-unboxing-content/"><u>In 2024, Building a Following with Stunning Unboxing Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change ZTE Lock Screen Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-next-gen-google-pixel-fold-2-projected-pricing-release-forecast-and-speculative-specifications/"><u>Inside the Next-Gen Google Pixel Fold 2 – Projected Pricing, Release Forecast & Speculative Specifications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-blank-cards-unavailable-2020/"><u>Monitor Blank: Cards Unavailable 2020</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-woes-blacked-out-screens/"><u>New Tech Woes: Blacked-Out Screens</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/no-limit-story-saving-at-the-tap-of-a-button-for-2024/"><u>No-Limit Story Saving at the Tap of a Button for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimal-screen-resolution-fix-available-windows-10/"><u>Optimal Screen Resolution: Fix Available, Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-invisible-gpu-adapter-errors/"><u>Overcome Invisible GPU Adapter Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-dark-windows-11-issue/"><u>Overcoming the Dark Windows 11 Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-firmware-update-successful-atheros-compatibility/"><u>Qualcomm's Win11 Firmware Update: Successful Atheros Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/racing-against-lag-easy-fixes/"><u>Racing Against Lag: Easy Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-touchscreen-after-troubleshooting/"><u>Rejuvenated Lenovo Touchscreen After Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remote-fix-faulty-gpu-driver-repaired/"><u>Remote Fix: Faulty GPU Driver Repaired</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seeing-beyond-our-elite-rankings-of-camera-lenses-1-10-for-2024/"><u>Seeing Beyond  Our Elite Rankings of Camera Lenses #1-10 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-running-civ-5-on-your-pc/"><u>Smooth Running: Civ 5 on Your PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-backside-view-issue-in-windows-7/"><u>Solving Backside View Issue in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-recovery-correcting-graphics-driver-errors/"><u>System Recovery: Correcting Graphics Driver Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uncover-stealthy-screen-drop/"><u>Uncover Stealthy Screen Drop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-mir4-malfunctions-on-personal-computers/"><u>Understanding and Resolving Mir4 Malfunctions on Personal Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-nature-of-4k-uhd-images/"><u>Unveiling the Nature of 4K UHD Images</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-windows-intel-video-support/"><u>Updating Windows' Intel Video Support</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-13t-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of 13T?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-visions-enhancing-youtubes-aesthentic-content/"><u>Vivid Visions  Enhancing YouTube's Aesthentic Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/why-real-peoples-testimonial-videos-matter/"><u>Why Real People's Testimonial Videos Matter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-annoyance-constantly-disconnected/"><u>Wi-Fi Annoyance: Constantly Disconnected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-stops-over-nvidia-device-complaint-fixed/"><u>Win Stops Over NVIDIA Device Complaint Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-radeon-hd-6950-drivers-enhanced-version-out/"><u>Win11 Radeon HD 6950 Drivers Enhanced Version Out</u></a></li>
+</ul></div>

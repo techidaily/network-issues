@@ -1,7 +1,7 @@
 ---
 title: Resolving AMD's Display Driver Anomalies for Win11
-date: 2024-07-12T01:22:20.131Z
-updated: 2024-07-13T01:22:20.131Z
+date: 2024-08-08T04:01:56.822Z
+updated: 2024-08-09T04:01:56.822Z
 tags:
   - win11
   - win10
@@ -44,10 +44,16 @@ Before we proceed with the following resolutions, please make sure that you have
   
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Run as administrator)** .
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586482f8af0b5.png)
   
  When prompted with administrator permission, press**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
  2) In the command prompt window, type in the following command:
@@ -70,10 +76,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  When prompted with administrator permission, press**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
 2) In the command prompt window, type in command:**SFC /SCANNOW**. Make sure that you have made no typo and hit**Enter**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e300e3c1.jpg)
 
 3) Wait for a while for the process to finish. If no problem is found here, please move on to the next step.
@@ -88,12 +100,18 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 2) If you are with AMD processors, select**Catalyst Control Center**and choose**Uninstall**.
   
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648f8f4dd21.jpg)
   
  If you are with Intel processors, select to uninstall **ALL** AMD software that you can see in this window.  
   
  3) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586490d260746.png)
 
 4) Locate**Display adapters**category, then double click the**AMD Radeon R9**series of display driver that you have.
@@ -106,6 +124,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  Tick the box for**Delete the driver software for this device** option and click**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ab747efcd.png)
 
  6) Reboot your PC.
@@ -124,12 +146,18 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  8) When your computer restart again, download the latest version of the AMD Radeon R9 series driver from AMD website and then install it manually.  
   
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864b2625647d.png)
 
  If you want to save yourself more time and energy for other things, you can leave your driver problems to [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It automatically help you detects, downloads and updates device drivers that are missing or outdated on your computer. And, there are only two steps you take to do it:
   
  Step one: press the**Scan Now** button so [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) can help you detect for needed drivers.
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e894bc3e848.png)
   
  Step two: press the**Update** button so [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) can help you download the setup file for the device driver that you need.  
@@ -160,3 +188,64 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/email-protected-software-for-your-hp-officejet-pro-n-69-free-download/"><u>[Email Protected] Software for Your HP Officejet Pro N 69 - Free Download!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-transform-your-speech-the-7-top-vocal-changer-mobile-apps/"><u>[New] 2024 Approved  Transform Your Speech  The 7 Top Vocal Changer Mobile Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-find-your-perfect-game-recorder-top-10-free-apps-for-2024/"><u>[New] Find Your Perfect Game Recorder  Top 10 Free Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[New] From Concept to Crypto Asset  The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initial-trial-ideal-accessories-to-boost-your-gopro-footage/"><u>[New] Initial Trial  Ideal Accessories to Boost Your GoPro Footage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elevate-your-online-sound-experience-with-these-5-steps/"><u>[Updated] Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-tips-for-vimeo-video-logging/"><u>[Updated] Essential Tips for Vimeo Video Logging</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-hobbyist-to-professional-your-guide-to-design-success-for-2024/"><u>[Updated] From Hobbyist to Professional  Your Guide to Design Success for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-hacker-alert-reclaiming-your-social-network/"><u>[Updated] Hacker Alert  Reclaiming Your Social Network</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-essential-guide-for-every-aspiring-snapchat-editor/"><u>[Updated] In 2024, The Essential Guide for Every Aspiring Snapchat Editor</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-proven-ways-to-archive-your-whatsapp-chat-history-efficiently-for-2024/"><u>[Updated] Proven Ways to Archive Your WhatsApp Chat History Efficiently for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>[Updated] Top Picks  User-Friendly Software for New Game Recorders & Editors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-8-free-online-courses-for-beginner-youtube-creators/"><u>2024 Approved  8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-bandicam-in-depth-review-for-the-modern-user/"><u>2024 Approved  Bandicam  In Depth Review for the Modern User</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-no-more-quick-yt-thumbnails-full-length-viewing/"><u>2024 Approved  No More Quick YT Thumbnails  Full-Length Viewing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-m6-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco M6 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breached-barrier-display-controls-unlocked/"><u>Breached Barrier: Display Controls Unlocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-4k-video-sharpness/"><u>Demystifying 4K Video Sharpness</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dota-2-pc-microphone-not-working-heres-how-you-can-fix-it-now/"><u>Dota 2 PC Microphone Not Working? Here's How You Can Fix It Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elite-collective-photo-music-plus-visual-creation-fusion/"><u>Elite Collective  Photo, Music + Visual Creation Fusion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-extended-view-on-large-windows-display/"><u>Fixed Extended View on Large Windows Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-to-new-intel-hd-graphics-on-pcs/"><u>Guide to New Intel HD Graphics on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-effortlessly-access-safe-mode-on-windows-for-drivers-replacement/"><u>How To Effortlessly Access Safe Mode on Windows for Drivers Replacement</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/identifying-and-solving-asus-video-compatibility/"><u>Identifying and Solving Asus Video Compatibility</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-active-screen-capture-pro-does-it-reign-supreme/"><u>In 2024, Active Screen Capture Pro  Does It Reign Supreme?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-gionee-f3-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Gionee F3 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-ways-to-randomize-youtube-playlist-on-pcphonestvs/"><u>In 2024, Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y27s-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y27s</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/light-up-dark-screens-on-lenovo-notebooks/"><u>Light Up Dark Screens on Lenovo Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-techniques-for-no-more-flicker-on-screens/"><u>Master Techniques for No More Flicker on Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-screen-blurring-issues/"><u>Mend Screen Blurring Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-phosphor-flash-interruptions/"><u>Mitigating Phosphor Flash Interruptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-blank-display-on-electronic-devices/"><u>Navigating Blank Display on Electronic Devices</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-8-best-meme-maker-app-to-create-memes-with-your-own-picture/"><u>New In 2024, 8 Best Meme Maker App to Create Memes with Your Own Picture</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-rtx-3080-anomaly-buster-for-gamers/"><u>Nvidia's RTX 3080 Anomaly Buster for Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-gpu-cooperation-new-era-for-win11-users/"><u>Nvidia/Intel GPU Cooperation - New Era for Win11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-glitch-in-windows-11/"><u>Overcoming Nvidia/Intel Graphics Glitch in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wireless-fix-atheros-driver-win11-troubles/"><u>Qualcomm Wireless Fix: Atheros Driver Win11 Troubles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reigniting-your-lost-connection-fixing-windows-11-wi-fi/"><u>Reigniting Your Lost Connection: Fixing Windows 11 Wi-Fi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-persistent-monitor-blankouts/"><u>Resolving Persistent Monitor Blankouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-vertical-display-flip/"><u>Resolving Vertical Display Flip</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-7-back-image-issue/"><u>Resolving Windows 7 Back Image Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-windows-10-whiteout-after-cu/"><u>Reversing Windows 10 Whiteout After CU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-your-experience-fixing-win11-flicker/"><u>Revitalize Your Experience: Fixing Win11 Flicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-ready-full-window-display-in-windows-10-achieved/"><u>Screen Ready: Full Window Display in Windows 10 Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sideways-display-problem-solved/"><u>Sideways Display: Problem Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-unseen-monitor-troubles/"><u>Solving Unseen Monitor Troubles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-softening-audio-routine-for-2024/"><u>Step-by-Step Softening Audio Routine for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winbsod-dxgkrnlsys-issue-resolved/"><u>WinBSOD: dxgkrnl.sys Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-black-screen-with-cursor-solved/"><u>Windows 11 Black Screen with Cursor [SOLVED]</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Ignored Graphics Cards Problem
-date: 2024-07-12T01:21:11.490Z
-updated: 2024-07-13T01:21:11.490Z
+date: 2024-08-08T04:03:14.098Z
+updated: 2024-08-09T04:03:14.098Z
 tags:
   - win11
   - win10
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Try these fixes for the PC not detecting the GPU issue
 
  You don’t have to try all the following methods: just work your way down the list until you find the one that does the trick to fix the GPU not detected issue on your computer for you.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## 1\. Add your GPU as a legacy device
 
  When your computer does not detect your GPU, you can try to add it back as a legacy device to see if it helps. To do so:
@@ -39,12 +45,25 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
 5. Select**Display adpaters** and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-12.png)
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
@@ -61,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ---
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 2\. Update the GPU driver
 
  There are mainly 2 ways you can update your GPU driver: manually or automatically.
@@ -77,6 +99,9 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -134,6 +159,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 5\. Make sure your GPU is correctly seated
 
  If the above software-related troubleshooting procedures don’t help your PC to detect your GPU, you may need to look at the hardware front. One of the most obvious ways to looks at would be the graphics card itself.
@@ -142,8 +170,15 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**taskmgr** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select**Performance** (the second icon).  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-16.png)
 4. If the**GPU** option is available, you should see the information about your computer’s GPU on the right side panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-18.png)
@@ -182,3 +217,71 @@ To do so, first visit the website of your GPU manufacturer:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-simplify-screenplay-to-film-use-windows-movie-maker-win11/"><u>[New] 2024 Approved  Simplify Screenplay to Film  Use Windows Movie Maker (Win11)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-social-media-secrets-with-instagram-insights/"><u>[New] 2024 Approved  Unlock Social Media Secrets with Instagram Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-establish-lasting-content-partnerships-with-youtubers-for-2024/"><u>[New] How to Establish Lasting Content Partnerships with YouTubers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[New] In 2024, Capturing Clarity in Close-Ups  The Filmmaker’s Kinemaster Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-to-eternal-unlinking-of-a-tiktok-id-for-2024/"><u>[New] Step-by-Step Guide to Eternal Unlinking of a TikTok ID for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-your-youtube-experience-shareable-playlists/"><u>[New] Streamline Your YouTube Experience  Shareable Playlists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-online-sources-for-3d-glitter-text-designs/"><u>[New] Top Online Sources for 3D Glitter Text Designs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-viewers-to-earners-journey-calculating-necessary-counts/"><u>[New] Viewers to Earner's Journey  Calculating Necessary Counts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-fixed-added-amd-drivers-to-win10-system/"><u>[RENDERING FIXED] Added AMD Drivers to Win10 System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-achieved-post-error-nvidia-screen-operates-normally/"><u>[Resolution Achieved] Post-Error Nvidia Screen Operates Normally</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-troubleshoot-offline-mode-for-cod-cold-war/"><u>[SOLVED]: Troubleshoot Offline Mode for CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-cod-cold-wars-network-issues/"><u>[TROUBLESHOOTED]: CoD Cold War's Network Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-movie-substitutes-7-recommended/"><u>[Updated] 2024 Approved  Discover Movie Substitutes, #7 Recommended</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-search-for-master-video-artists/"><u>[Updated] Navigating the Search for Master Video Artists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-chorus-conductor-android-edition/"><u>[Updated] Ultimate Chorus Conductor, Android Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>2024 Approved  Simplifying Your System  Switch From Sierra to OS X 10.10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skys-best-the-ultimate-hd-collection-websites/"><u>2024 Approved  Sky's Best - The Ultimate HD Collection Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-exceptional-editing-with-kinemaster/"><u>2024 Approved  The Path to Exceptional Editing with Kinemaster</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-in-the-digital-world-multiplatform-studio-strategies/"><u>2024 Approved  Thriving in the Digital World  Multiplatform Studio Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-vlcs-screen-recording-capabilities/"><u>2024 Approved  VLC's Screen Recording Capabilities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerated-repair-resolve-apex-crash/"><u>Accelerated Repair: Resolve Apex Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-update-next-gen-drivers-rollout-for-windows-11-hd-6950/"><u>AMD Graphics Update: Next-Gen Drivers Rollout for Windows 11 HD 6950</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-driver-issues-solved-in-win10/"><u>Atheros QCA61x4 Driver Issues Solved in Win10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-compatibility-issues-on-amd-freesync-display/"><u>Correcting Compatibility Issues on AMD FreeSync Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-adjustment-save-and-fix-completed/"><u>Display Adjustment: Save & Fix Completed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayerror-in-windows-ui-graphic-system-ready-for-resolution/"><u>DisplayError in WIndows UI Graphic System (Ready for Resolution)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974691697-easily-elevate-intels-graphics-3000-on-ws11/"><u>Easily Elevate Intel's Graphics 3000 on WS11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-card-management-via-safe-mode-on-window-8/"><u>Effortless Graphics Card Management via Safe Mode on Window 8</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevating-earnings-a-comprerancial-approach-to-video-monetization/"><u>Elevating Earnings  A Comprerancial Approach to Video Monetization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-darkened-displays-in-lenovo-devices/"><u>Fix Darkened Displays in Lenovo Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-large-screen-problems-on-windows-os/"><u>Fixed Large Screen Problems on Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-flipped-display-problem/"><u>Fixing the Flipped Display Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-fixed-on-win-10-systems/"><u>High-DPI Settings Fixed on Win 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-c67-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme C67 4G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-streamlined-approach-to-using-azures-transcription-technology/"><u>In 2024, A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practice-for-incorporating-gopro-clips-into-360-video-tapestries/"><u>In 2024, Best Practice for Incorporating GoPro Clips Into 360 Video Tapestries</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmask-subject-with-backdrop-blanket-removal/"><u>In 2024, Unmask Subject with Backdrop Blanket Removal</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-pause-laptop-glows-consistently/"><u>Lightning Pause: Laptop Glows Consistently</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-nforce630a-work-seamlessly-in-new-os/"><u>Making nForce630a Work Seamlessly in New OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-anthem-speed-troubleshooting-guide/"><u>Mastering Anthem Speed: Troubleshooting Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-create-a-stunning-slideshow-a-step-by-step-guide/"><u>New 2024 Approved Create a Stunning Slideshow A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-graphic-fail-screen-blanked/"><u>New Graphic Fail: Screen Blanked</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-find-x7-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Find X7? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-display-aspect-ratios/"><u>Rectify Display Aspect Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-10-hologram-error/"><u>Rectifying Windows 10 Hologram Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-monitors-temporary-blackouts/"><u>Resolving Monitor's Temporary Blackouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-clear-view-on-win11-panels/"><u>Restoring Clear View on WIN11 Panels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplified-tech-talk-uninstalling-graphics-drivers-on-pcs/"><u>Simplified Tech Talk: Uninstalling Graphics Drivers on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smashing-wow-glitch-code-519-like-a-champ/"><u>Smashing WoW Glitch Code #519 Like A Champ</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-gpu-fan-freeze-up/"><u>Stopping GPU Fan Freeze-Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-crt-refresh-rate-glitches/"><u>Tackle CRT Refresh Rate Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-video-glitches-post-windows-11-launch/"><u>Tackling Video Glitches Post-Windows 11 Launch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-iphone-collage-innovative-strategies-to-boost-creativity/"><u>The Art of iPhone Collage  Innovative Strategies to Boost Creativity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-elusive-stable-wi-fi-connection/"><u>The Elusive Stable Wi-Fi Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/titans-triumph-god-of-war-enhanced/"><u>Titan's Triumph: God of War Enhanced</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-path-to-upgraded-intel-drivers-in-windows-7/"><u>Unveiling the Path to Upgraded Intel Drivers in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/warriors-wrath-gameplay-improved/"><u>Warrior's Wrath: Gameplay Improved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-post-update-video-hiccups-no-more-glitches/"><u>Win11: Post-Update Video Hiccups - No More Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-screen-fix-advanced-features-on/"><u>Windows 10 Screen Fix - Advanced Features On</u></a></li>
+</ul></div>

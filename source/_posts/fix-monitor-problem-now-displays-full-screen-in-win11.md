@@ -1,7 +1,7 @@
 ---
 title: Fix Monitor Problem – Now Displays Full Screen in Win11
-date: 2024-07-12T01:16:34.301Z
-updated: 2024-07-13T01:16:34.301Z
+date: 2024-08-08T04:07:23.141Z
+updated: 2024-08-09T04:07:23.141Z
 tags:
   - win11
   - win10
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
  Many people have a full screen issue, such as**the monitor is not displaying full screen** ,**Windows 10 is playing games in full screen mode** , or**full screen is not working** at all. If you have the similar issue, don’t worry. You can fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to fix full screen problems
 
  Here are the solutions to try. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -48,10 +54,16 @@ Here’s what you need to do:
 
  2) Click**System** .
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
  3) Click**Display** on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
@@ -60,6 +72,9 @@ Here’s what you need to do:
 
  Or you can switch to different resolutions and see if it resolves your problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
 
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
@@ -72,6 +87,9 @@ Here’s what you need to do:
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
@@ -108,6 +126,10 @@ Here’s what you need to do:
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
 4) Restart your computer to take effect.
@@ -116,6 +138,9 @@ Here’s what you need to do:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Run your application in Compatibility mode
 
  If only one application or some of the applications in your computer have the full-screen issue, you can modify the software settings and set the software to run in the Compatibility mode.
@@ -128,6 +153,9 @@ To do so, follow these steps:
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
  3) Click the**Compatibility** tab.
@@ -136,6 +164,9 @@ To do so, follow these steps:
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
 
 5) Re-launch the application and try full-screen to see if it works.
@@ -175,3 +206,67 @@ Still no luck? Okay, there is one more thing to try.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discover-the-best-yoga-vlogs-perfect-balance-guide/"><u>[New] 2024 Approved  Discover the Best Yoga Vlogs - Perfect Balance Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-for-cost-free-google-meet-management/"><u>[New] 2024 Approved  The Essential Guide for Cost-Free Google Meet Management</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars/"><u>[New] In 2024, Breaking the Norm  Eye-Catching Talents Amongst Female YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-premier-9-social-media-screen-grabs-for-2024/"><u>[New] Premier 9 Social-Media Screen Grabs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quality-meets-convenience-the-best-5-hd-webcams-and-mics-for-2024/"><u>[New] Quality Meets Convenience - The Best 5 HD Webcams & Mics for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-graphics-installed-amd-adapter-in-win1110/"><u>[TROUBLESHOOTED GRAPHICS] Installed AMD Adapter in Win11/10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[Updated] 2024 Approved  Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-social-media-videos-to-audible-mp3s-one-click-conversion-for-2024/"><u>[Updated] From Social Media Videos to Audible MP3s - One Click Conversion for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-essentials-2023s-highest-ranked-twitter-content-for-2024/"><u>[Updated] The Essentials  2023'S Highest-Ranked Twitter Content for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-combat-profiles-hitbox-vs-streamer-supremacy/"><u>2024 Approved  Combat Profiles  Hitbox vs Streamer Supremacy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-art-of-subtle-soundplayback/"><u>2024 Approved  The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-reno-10-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Reno 10 5G without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-vs-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic Vs 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-the-action-screen-recorder-roundup/"><u>Capturing the Action  Screen Recorder Roundup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-youtube-green-screen-faux-pas/"><u>Clearing Up YouTube Green Screen Faux Pas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-display-on-windows-7/"><u>Correcting Inverted Display on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-the-hidden-display-issue/"><u>Decoding the Hidden Display Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimmed-display-defying-desktop/"><u>Dimmed Display, Defying Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disarming-display-disturbances-on-pro-7/"><u>Disarming Display Disturbances on Pro 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-graphics-software-selections-for-creatives/"><u>Discover the Premier Graphics Software Selections for Creatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-issue-amdnvidia-missing/"><u>Display Issue: AMD/NVIDIA Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-crt-artifacts-on-desktop/"><u>Eradicate CRT Artifacts on Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974331029-eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disoriented-windows-screen-placement/"><u>Fixing Disoriented Window's Screen Placement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-gone-wrong-tame-your-rtx-3080-crash/"><u>Gaming Gone Wrong? Tame Your RTX 3080 Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gamingui-halted-on-windows-patch-ready/"><u>GamingUI Halted on WIndows (Patch Ready)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-interrupt-windows-issue-coming-soon-fix/"><u>GFXUI Interrupt, Windows Issue (Coming Soon Fix)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-error-43-cleared/"><u>GPU Fix: Error 43 Cleared</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-preferred-applications-vtubers-sonic-transformation-journey-for-2024/"><u>Guide to Preferred Applications  Vtuber's Sonic Transformation Journey for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-hiccup-error-43-done/"><u>Hardware Hiccup: Error 43 Done</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-res-displays-not-setting-in-w11/"><u>High-Res Displays Not Setting In W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-90-lite-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor 90 Lite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 13 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-relief-swiftly-uninstall-graphics-drivers-from-windows/"><u>Instant Relief: Swiftly Uninstall Graphics Drivers From Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-error-12-disappears/"><u>MH World Crisis Averted - Error 12 Disappears</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915390302-navigating-the-digital-sphere-with-leading-platforms-facebook-twitter-instagram-and-youtube-guides/"><u>Navigating the Digital Sphere with Leading Platforms: Facebook, Twitter, Instagram & Youtube Guides.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-vanishing-act-uncover-the-truth-with-device-hub/"><u>NVIDIA Vanishing Act? Uncover the Truth with Device Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-correction-clear-legends-crashes/"><u>Quick Correction: Clear Legends Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overwatch-requires-updated-graphics-card/"><u>Resolved: Overwatch Requires Updated Graphics Card</u></a></li>
+<li><a href="https://facebook.techidaily.com/reviewing-previous-social-networks-on-fb/"><u>Reviewing Previous Social Networks on FB</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-crash-crisis-quick-fixes-for-nvidias-powerhouse-gpu/"><u>RTX Crash Crisis: Quick Fixes for Nvidia's Powerhouse GPU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-clarity-problem-with-windows-11/"><u>Screen Clarity Problem with Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-steps-to-rectify-display-line-issues-on-notebooks/"><u>Simple Steps to Rectify Display Line Issues on Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-flipped-images-on-windows-10-interface/"><u>Solving Flipped Images on Windows 10 Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-with-amd-on-windows-driver-load-now-functioning-properly/"><u>Success with AMD on Windows, Driver Load Now Functioning Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-hidden-vram-issues/"><u>Tackle Hidden VRAM Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-invisible-lines-correcting-screen-horizontal-imperfections/"><u>Tackling Invisible Lines: Correcting Screen Horizontal Imperfections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ers-ultimate-guide-to-best-gaming-microphones-for-2024/"><u>Vloggers' Ultimate Guide to Best Gaming Microphones for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-full-view-issue-screen-fix-confirmed/"><u>Windows 10 Full View Issue: Screen Fix Confirmed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-solves-qualcomm-adapter-connection-issue/"><u>Windows 10 Solves: Qualcomm Adapter Connection Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-amd-failure-loaded-driver-issue-resolved/"><u>Windows 10, AMD Failure: Loaded Driver Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+</ul></div>

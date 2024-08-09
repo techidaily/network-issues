@@ -1,7 +1,7 @@
 ---
 title: New Graphics Card Black Screen or No Display
-date: 2024-07-12T01:16:27.236Z
-updated: 2024-07-13T01:16:27.236Z
+date: 2024-08-08T04:07:28.848Z
+updated: 2024-08-09T04:07:28.848Z
 tags:
   - win11
   - win10
@@ -52,6 +52,9 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Ditch any converter
 
  If you’re using any display converter (like HDMI to DP, VGA to HDMI, etc.) for the new GPU and your monitor, please stop using them, as the new GPU no display problem could also relate to the converter.
@@ -70,10 +73,16 @@ If this is not the problem, please move on.
 
  This is a screenshot taken from a Gigabyte BIOS, and you should usually find the booting option by checking items like Peripherals, then selecting**IGFX** as the**Initial Display Output** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
@@ -84,7 +93,14 @@ If this is not the problem, please move on.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -93,6 +109,9 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -122,10 +141,19 @@ Here are the things you should pay extra attention to:
  To fix it, you should force a clean install of the graphics card driver. To do so:
 
 1. Click the **Windows start menu** and type **msconfig** , then click **Open** :  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -133,6 +161,9 @@ Here are the things you should pay extra attention to:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
@@ -170,3 +201,50 @@ Here are the things you should pay extra attention to:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-applied-nvidia-screen-fixed-running-smoothly/"><u>[Fix Applied] Nvidia Screen Fixed, Running Smoothly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-endless-screen-time-recorder-for-2024/"><u>[New] Endless Screen Time Recorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-enthralling-viewers-stream-with-success-even-if-youre-just-starting-out/"><u>[New] In 2024, Enthralling Viewers  Stream with Success, Even if You're Just Starting Out</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-captivating-book-video-tours/"><u>[Updated] 2024 Approved  Captivating Book Video Tours</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extensive-review-the-360-degree-capture-of-samsung/"><u>[Updated] Extensive Review  The 360-Degree Capture of Samsung</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lost-video-playback-sony-a6400-problems-explored/"><u>[Updated] Lost Video Playback  Sony A6400 Problems Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-power-play-transforming-macwindows-experience/"><u>2024 Approved  SRT Power Play  Transforming Mac/Windows Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-complete-walkthrough-for-gpt-3s-beta-features/"><u>A Complete Walkthrough for GPT-3's Beta Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-lags-to-victory/"><u>Banish Lags to Victory</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beating-wow-bug-519-a-guide/"><u>Beating WOW Bug 519: A Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-engagement-on-facebook-with-a-seamless-pinterest-tab-setup/"><u>Boosting Engagement on Facebook with a Seamless Pinterest Tab Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-resolution-for-high-end-monitors-win10/"><u>Correct Resolution for High-End Monitors - Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-default-display-saving-failures-in-windows/"><u>Correcting Default Display Saving Failures in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-7-mirror-discrepancy/"><u>Correcting Windows 7 Mirror Discrepancy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deactivating-persistent-crt-glitches/"><u>Deactivating Persistent CRT Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-mismatch-na-in-graphics/"><u>Display Mismatch: N/A in Graphics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-tecno-camon-30-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Camon 30 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-windows-blue-screen-fixed/"><u>dxgkrnl.sys: Windows Blue Screen Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-screen-geometry-realignment/"><u>Effortless Screen Geometry Realignment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-navigating-tech-troubles-with-the-apple-support-application-on-your-iphone/"><u>Expert Tips: Navigating Tech Troubles with the Apple Support Application on Your iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-arcane-the-mystery-disappeared-from-lols-x-factor/"><u>Explaining the Arcane: The Mystery Disappeared From LoL's X-Factor</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-high-fidelity-screen-recorder-for-windows-11/"><u>In 2024, High-Fidelity Screen Recorder for Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inspire-dont-impose-the-art-of-attracting-subscribers/"><u>In 2024, Inspire, Don't Impose  The Art of Attracting Subscribers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone XR</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-get-animated-top-online-makers-for-engaging-video-content-for-2024/"><u>New Get Animated Top Online Makers for Engaging Video Content for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nightfall-on-screen-with-new-driver/"><u>Nightfall on Screen with New Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-oscillating-screen-woes-in-pro-7/"><u>Overcoming Oscillating Screen Woes in Pro 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-picmaster-guide-and-assessment-for-2024/"><u>Photoshop PicMaster  Guide & Assessment for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gdrivererr22-issue/"><u>Resolved GDRIVER_ERR#22 Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-brightness-to-lenovos-invisible-display/"><u>Restoring Brightness to Lenovo’s Invisible Display</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-showdown-s10plus-vs-s20-performance-analysis/"><u>Samsung Galaxy Showdown: S10+ Vs. S20 Performance Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-freeze-no-accelerator-detected/"><u>Screen Freeze: No Accelerator Detected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-invisible-video-card-problems/"><u>Solve Invisible Video Card Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-lcd-glare-in-windows-10-screens/"><u>Solving LCD Glare in Windows 10 Screens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-camera-for-video-enthusiasts-nikons-j5-review-for-2024/"><u>The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-undisclosed-secrets-to-growth-on-social-media-for-2024/"><u>The Undisclosed Secrets to Growth on Social Media for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/thors-thunder-gameplay-refinement/"><u>Thor's Thunder: Gameplay Refinement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unifying-nvidia-geforce-and-windows-platforms/"><u>Unifying Nvidia GeForce & Windows Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unwanted-wireless-network-pause/"><u>Unwanted Wireless Network Pause</u></a></li>
+</ul></div>
