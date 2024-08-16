@@ -1,7 +1,7 @@
 ---
 title: Remedying Ripples on Windows 7 Screens
-date: 2024-07-12T01:13:24.798Z
-updated: 2024-07-13T01:13:24.798Z
+date: 2024-08-15T07:56:40.538Z
+updated: 2024-08-16T07:56:40.538Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -44,6 +47,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
@@ -59,6 +65,9 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -67,6 +76,9 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 3. Select the app you want to uninstall.
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -81,12 +93,23 @@ To troubleshoot these hardware issues:
 1. Go to**System Information** to get detailed information about your computer:  
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
@@ -131,3 +154,47 @@ Hopefully this can help you out.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-star-citizen-crash-on-pc-directx-hurdle/"><u>[CORRECTED] Star Citizen Crash on PC - DirectX Hurdle</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lite-screening-pacts-how-to-choose-a-cms/"><u>[New] Elite Screening Pacts  How to Choose a CMS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-methods-for-livestreaming-sporting-action-successfully/"><u>[New] Essential Methods for Livestreaming Sporting Action Successfully</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xpedite-youtube-video-submission-rapid-rendering-secrets/"><u>[New] Expedite YouTube Video Submission  Rapid Rendering Secrets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enjoy-youtube-music-anytime-with-these-23-essential-no-cost-audio-extractors/"><u>[New] In 2024, Enjoy YouTube Music Anytime with These 23 Essential, No-Cost Audio Extractors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-strategic-hashtag-application-for-greater-instagram-traction/"><u>[New] Strategic Hashtag Application for Greater Instagram Traction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-look-inside-vidmas-screen-recording-mechanics/"><u>[Updated] A Look Inside Vidma's Screen Recording Mechanics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximize-reach-with-effective-igtv-video-posts/"><u>[Updated] Maximize Reach with Effective IGTV Video Posts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-ppt-presentations-successfully-in-google-meet/"><u>2024 Approved  Navigating PPT Presentations Successfully in Google Meet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze 2</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-10-resolution-no-more-frustrating/"><u>Adjusting Windows 10 Resolution No More Frustrating</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-and-windows-10-unite-for-smooth-driver-load-resolution/"><u>AMD and Windows 10 Unite for Smooth Driver Load Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-common-video-editing-green-screen-failures-on-youtube/"><u>Avoiding Common Video Editing Green Screen Failures on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/code-43-graphics-card-diagnosed/"><u>Code 43: Graphics Card Diagnosed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-inverted-monitor-viewing-angle/"><u>Correct Inverted Monitor Viewing Angle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-supported-freesync-connection/"><u>Correcting Non-Supported FreeSync Connection</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/create-a-unique-identity-personalize-your-youtube-url-today/"><u>Create a Unique Identity  Personalize Your YouTube URL Today</u></a></li>
+<li><a href="https://fox-http.techidaily.com/customizing-your-call-alerts-a-step-by-step-guide-on-iphone-for-2024/"><u>Customizing Your Call Alerts  A Step-by-Step Guide on iPhone for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-disaster-to-delight-windows-minecraft-no-more-crashes/"><u>Drive Disaster to Delight: Windows Minecraft No More Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-res-settings-reinstated-in-win10/"><u>High-Res Settings Reinstated in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-smoothly-update-intel-graphics-using-windows-tools/"><u>How to Smoothly Update Intel Graphics Using Windows Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>In 2024, 5 Key Strategies to Correct iPhone HDRI  Premiere Pro Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>In 2024, Celestial Composition  The Art of Nighttime Photography Mastery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/install-errors-nvidia-resolved/"><u>Install Errors: NVIDIA Resolved</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-the-art-of-tiktok-top-20-engaging-caption-ideas/"><u>Mastering the Art of TikTok  Top 20 Engaging Caption Ideas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-driver-no-signs-on-screen/"><u>New Driver, No Signs On Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-light-just-darkness-on-board/"><u>No Light, Just Darkness on Board</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-display-on-new-windows-11-os/"><u>Optimizing Display on New Windows 11 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reawakening-forgotten-cameras-on-your-asus-pc/"><u>Reawakening Forgotten Cameras on Your Asus PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-monitor-refresh-rate-issues/"><u>Repair Monitor Refresh Rate Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-update-graphics-card-regains-functionality/"><u>Repair Update: Graphics Card Regains Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/saving-big-on-final-cut-pro-without-paying-for-2024/"><u>Saving Big on Final Cut Pro without Paying for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/set-a-schedule-for-decluttering/"><u>Set A Schedule For Decluttering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-shutdown-after-driver-upgrade/"><u>Silent Shutdown After Driver Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-view-ditching-blurry-windows/"><u>Smooth View: Ditching Blurry Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-switchable-graphics-issue-with-intel-and-nvidia-on-win10/"><u>Unraveling Switchable Graphics Issue with Intel & Nvidia on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974805276-upgrade-to-top-tier-graphics-with-newest-intel-hd-graphics-version-for-windows-10/"><u>Upgrade to Top-Tier Graphics with Newest Intel HD Graphics Version for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-amd-resolved-loading-problem-for-detection-driver/"><u>Win10 and AMD: Resolved Loading Problem for Detection Driver</u></a></li>
+</ul></div>

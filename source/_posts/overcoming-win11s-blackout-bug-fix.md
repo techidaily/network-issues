@@ -1,7 +1,7 @@
 ---
 title: Overcoming WIN11's Blackout Bug Fix
-date: 2024-07-12T01:13:22.654Z
-updated: 2024-07-13T01:13:22.654Z
+date: 2024-08-15T07:56:38.367Z
+updated: 2024-08-16T07:56:38.367Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
 
 If you’re on a laptop:
@@ -70,9 +73,16 @@ If you’re on a laptop:
  e.g. Here’s a screenshot of the Intel HD Graphics 4400\. Your results will show your graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -90,10 +100,16 @@ If you’re on a laptop:
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
   
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
@@ -108,10 +124,16 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -147,6 +169,9 @@ If you’re on a laptop:
  2) Type “settings” in the search box and select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Accounts** .
 
@@ -155,6 +180,9 @@ If you’re on a laptop:
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -178,6 +206,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -187,6 +218,9 @@ If you’re on a laptop:
  2) Type **settings**  in the search box at the bottom left corner of the desktop, then click **Settings**  in the menu that displays.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
 
@@ -195,6 +229,9 @@ If you’re on a laptop:
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
@@ -222,3 +259,50 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-rundown-top-8-exceptional-free-online-translation-platforms/"><u>[New] A Rundown  Top 8 Exceptional Free Online Translation Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-mobile-youtube-usage-on-different-oses-for-2024/"><u>[New] Exploring Mobile YouTube Usage on Different OSes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-no-8-visual-artists-choice-for-photo-assembly/"><u>[New] No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overheat-monitor-access-denied/"><u>[Resolved] Overheat Monitor Access Denied</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-roblox-lagging-on-pc-2024/"><u>[SOLVED] Roblox Lagging on PC 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-incorporating-markers-a-step-by-step-videography-guide/"><u>[Updated] 2024 Approved  Incorporating Markers  A Step-By-Step Videography Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-childs-play-top-5-fun-flying-toys-reviewed/"><u>[Updated] In 2024, Child's Play  Top 5 Fun Flying Toys Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pure-harmony-for-win-software/"><u>[Updated] Pure Harmony for WIN Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-zoom-screen-recorders-for-2024/"><u>[Updated] The Ultimate Guide to Zoom Screen Recorders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-vs-others-a-comparison-in-ar-stickers/"><u>2024 Approved  Google Vs. Others  A Comparison in AR Stickers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-narzo-60-pro-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme Narzo 60 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressed-extended-resolution-problems-on-windows/"><u>Addressed Extended Resolution Problems on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/advanced-display-settings-lacking-in-windows-11/"><u>Advanced Display Settings Lacking in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apples-mid-range-maestro-a-detailed-review-of-the-iphone-se-2vehicleyear-2020-understanding-its-place-in-the-market/"><u>Apple's Mid-Range Maestro: A Detailed Review of the iPhone SE (2Vehicle_year: 2020, Understanding Its Place in the Market</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-the-blank-screen-in-win11/"><u>Banishing the Blank Screen in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/digital-dusk-laptop-screen-sleepless/"><u>Digital Dusk: Laptop Screen Sleepless</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-detected-opengl-disruption-cleared-for-nvidia/"><u>Fix Detected: OpenGL Disruption Cleared for NVidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovo-flicker-phenomenon/"><u>Fixing Lenovo Flicker Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-glitch-fixed-uninterrupted-video-output-now/"><u>GPU Glitch Fixed: Uninterrupted Video Output Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-preferences-update-successful/"><u>Hardware Preferences Update Successful</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-pova-6-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Pova 6 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-10-gratuitous-online-transformers-for-srt-files/"><u>In 2024, Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-a2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi A2 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intelligent-updating-strategies-for-your-intel-gpu-on-win-7-pcs/"><u>Intelligent Updating Strategies for Your Intel GPU on Win 7 PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-proplus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-safe-boot-on-windows-8-graphics-cards/"><u>Mastering Safe Boot on Windows 8 - Graphics Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-patch-rtx210-win11-driver-update/"><u>NVIDIA Patch: RTX210 Win11 Driver Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-game-anomalies-how-to-cure/"><u>NVIDIA RTX 3080 Game Anomalies - How to Cure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-system-visuals-effortlessly-by-updating-the-intel-graphics-3000-driver-in-w10/"><u>Optimize System Visuals Effortlessly by Updating the Intel Graphics 3000 Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-freezing-screen-in-win10-update/"><u>Remedy Freezing Screen in Win10 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-diagonal-discrepancies-in-pc-monitors/"><u>Resolve Diagonal Discrepancies in PC Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-the-veiled-truth-behind-puzzling-dx-errors-in-league-of-legends/"><u>Revealing the Veiled Truth Behind Puzzling DX Errors in League of Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-lenovos-interactive-input-device/"><u>Reviving Lenovo's Interactive Input Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenfreeze-windows-graphic-system-cured/"><u>ScreenFreeze Windows Graphic System (Cured)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/setting-desktop-size-in-windows-11-successfully/"><u>Setting Desktop Size in Windows 11 Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-windows-for-better-intel-graphics/"><u>Streamlining Windows for Better Intel Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-impact-and-uses-of-4k-uhd-visualization/"><u>The Impact and Uses of 4K UHD Visualization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-overcoming-incompatibility-messages-in-rainbow-six-extraction/"><u>The Ultimate Guide to Overcoming Incompatibility Messages in Rainbow Six Extraction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-blackout-in-win11-upgrade/"><u>Troubleshooting Blackout in Win11 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tv-refuses-hdmi-signal-from-laptop/"><u>TV Refuses HDMI Signal From Laptop</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-11-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 11</u></a></li>
+</ul></div>

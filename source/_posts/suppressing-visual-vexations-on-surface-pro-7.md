@@ -1,7 +1,7 @@
 ---
 title: Suppressing Visual Vexations on Surface Pro 7
-date: 2024-07-12T01:13:34.584Z
-updated: 2024-07-13T01:13:34.584Z
+date: 2024-08-15T07:56:50.413Z
+updated: 2024-08-16T07:56:50.413Z
 tags:
   - win11
   - win10
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6eb
 4. **[Change the refresh rate](#h4)**
 5. **[Run the System File Checker](#h5)**
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Disable adaptive brightness
 
  This is the first thing you should try because it’s simple and effective. Many users find turning off**Change brightness automatically when lighting changes** helps them solve the flickering issue.
@@ -61,6 +64,9 @@ Here’s how to do it:
 **Manually –** To update your graphics driver manually, you can go to the official **[driver](https://www.microsoft.com/en-us/download/details.aspx?id=100419)** [**download page**](https://www.microsoft.com/en-us/download/details.aspx?id=100419) , and select **Download** this file. You may need to choose the appropriate .msi file. Then click**Next** \>**Save As** and choose your desktop as the save location. Run this MSI file and follow the instructions to install the graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
@@ -79,6 +85,9 @@ Here’s how you can update your drivers with Driver Easy:
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -87,6 +96,9 @@ Here’s how you can update your drivers with Driver Easy:
 
  After updating your drivers, restart your computer and check if your screen flickering has been resolved by now. If not, you can contact our support team for further assistance or request a refund (if you’re using the Pro Version).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Close unnecessary apps
 
  I know sometimes we prefer to run all of our favorite applications and programs in the background. In certain cases, your Surface Pro 7 can’t handle the parameters and specs of some applications which can cause screen flickering.
@@ -112,6 +124,9 @@ Here’s how you can update your drivers with Driver Easy:
  2) Within settings, select**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-8.png)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the side taskbar, click**Display** .
 
@@ -124,6 +139,10 @@ Here’s how you can update your drivers with Driver Easy:
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
 
@@ -141,6 +160,9 @@ Here’s how you can update your drivers with Driver Easy:
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -161,6 +183,11 @@ Now check your screen to see if the flickering issue is resolved by now.
  1) On your keyboard, press the**Windows Logo** Key and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 
  2) When prompted for permission to make changes to your device, click**Yes** .
 
@@ -196,3 +223,41 @@ sfc /scannow
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-riders-republic-launch-failure-directx-compatibility/"><u>[CORRECTED] Riders Republic Launch Failure - DirectX Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-dxgkrnlsys-solved-blue-screen-in-winos/"><u>[Fixed] dxgkrnl.sys, Solved Blue Screen in WinOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-hd-screen-capture-gadgets/"><u>[New] Advanced HD Screen Capture Gadgets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deep-dive-into-acid-pro-functionality-and-alternatives-for-2024/"><u>[New] Deep Dive Into ACID Pro Functionality & Alternatives for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplifying-macs-screen-recording-a-shortcut-hack-manual-for-2024/"><u>[New] Simplifying Mac's Screen Recording  A Shortcut Hack Manual for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-steps-for-adding-videos-to-your-instagram-story-for-2024/"><u>[Updated] Essential Steps for Adding Videos to Your Instagram Story for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>2024 Approved  The Voice Changer's Guide  Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-figmas-bg-elimination-mastery/"><u>2024 Approved  Unveiling Figma's BG Elimination Mastery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-distortion-in-far-cry-6-game-graphics/"><u>Addressing Distortion in Far Cry 6 Game Graphics</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lenovo-thinkphone-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lenovo ThinkPhone Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-life-to-dead-gpu-fans/"><u>Bringing Life to Dead GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-error-on-windows-10-system/"><u>Correcting Aspect Ratio Error on Windows 10 System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-key-to-solving-blue-screen-in-winos/"><u>dxgkrnl.sys: Key to Solving Blue Screen in WinOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974191767-elevate-your-display-experience-by-updating-to-the-latest-intel-hd-graphics-3000-in-w10/"><u>Elevate Your Display Experience by Updating to the Latest Intel HD Graphics 3000 in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-intensity-levels/"><u>Enhancing Lenovo Display Intensity Levels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-windows-10-screen-phantasm/"><u>Eradicating Windows 10 Screen Phantasm</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-advice-on-boosting-performance-in-intel-powered-imac-computers/"><u>Expert Advice on Boosting Performance in Intel-Powered iMac Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-issue-partial-window-view-on-windows-10-monitor-display/"><u>Fixed Issue: Partial Window View on Windows 10 Monitor Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/horizontal-puzzle-solved-for-laptops/"><u>Horizontal Puzzle Solved for Laptops</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-advanced-tools-for-broadcasting-professionals/"><u>In 2024, Advanced Tools for Broadcasting Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-xsplit-alternatives-for-streaming/"><u>In 2024, Best Xsplit Alternatives for Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-tips-for-itunes-video-recording/"><u>In 2024, Essential Tips for iTunes Video Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reimagine-the-way-you-take-notes-with-mematic/"><u>In 2024, Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-interface-after-driver-rollout/"><u>Invisible Interface After Driver Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-wireless-in-windows-11-the-end/"><u>Missing Wireless in Windows 11 - The End?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-nvidia-driver-windows-compatibility/"><u>Overcoming Nvidia Driver Windows Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/post-update-streaming-fixes-in-newest-windows-version/"><u>Post-Update Streaming Fixes in Newest Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974514992-quickly-boost-intel-g3000-on-win11/"><u>Quickly Boost Intel G3000 on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-lenovo-screen-twinkle-fixing/"><u>Solutions for Lenovo Screen Twinkle Fixing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-full-screen-windows-in-windows-10-visible-again/"><u>Successful Fix: Full-Screen Windows in Windows 10 Visible Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visual-preferences/"><u>Successful Saving of Visual Preferences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings/"><u>Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-elusive-stream-problems/"><u>Unlocking Elusive Stream Problems</u></a></li>
+</ul></div>

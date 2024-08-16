@@ -1,7 +1,7 @@
 ---
 title: Fixing GPU's FixedCode #22 Issue
-date: 2024-07-12T01:13:52.973Z
-updated: 2024-07-13T01:13:52.973Z
+date: 2024-08-15T07:55:42.915Z
+updated: 2024-08-16T07:55:42.915Z
 tags:
   - win11
   - win10
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/884f30fb76d736a31d012b1260ea6a8f9da2a38ed
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -58,15 +61,24 @@ Example – CMOS battery on a desktop PC
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -82,9 +94,15 @@ Example – CMOS battery on a laptop
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -110,3 +128,43 @@ Example – CMOS battery on a laptop
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>[New] 2024 Approved  Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-content-at-your-fingertips-best-downloader-apps-for-ios/"><u>[New] Facebook Content at Your Fingertips  Best Downloader Apps for iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-the-best-of-both-worlds-with-top-asymmetric-microphones/"><u>[New] Get the Best of Both Worlds with Top Asymmetric Microphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-tips-and-tricks-to-nail-every-green-screen-scene/"><u>[New] Proven Tips and Tricks to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridging-independent-iphone-media-journeys/"><u>[Updated] Bridging Independent iPhone Media Journeys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-podcasts-vs-youtube-making-an-informed-media-decision/"><u>[Updated] Podcasts Vs. YouTube  Making an Informed Media Decision</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-video-zooming-made-simple/"><u>2024 Approved  IPhone Video Zooming Made Simple</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/an-eye-for-the-extraordinary-aminys-ufo-analysis/"><u>An Eye for the Extraordinary: Aminy's UFO Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-gdrivererr22/"><u>Armored Fix: GDRIVER_ERR22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-the-win11-screen-twinkle/"><u>Banish the Win11 Screen Twinkle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-overcome-playback-pauses/"><u>Effortlessly Overcome Playback Pauses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windowas-10-driver-issue-for-amd-detection-no-more-failed-attempts/"><u>Fixed Windowas 10 Driver Issue for AMD, Detection No More Failed Attempts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-error-43-on-gpu/"><u>Fixing Error 43 on GPU</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-6s-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 6s Without Previous Owner?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-for-making-acer-screens-steady-and-clear/"><u>Methods for Making Acer Screens Steady and Clear</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-obstacles-in-way-post-nvidia-installer-install/"><u>No Obstacles in Way Post-Nvidia Installer Install</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-installer-all-clear-proceed-with-install/"><u>Nvidia Installer: All Clear, Proceed With Install</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-troubleshoot-restore-your-gameplay/"><u>NVIDIA RTX 3080 Troubleshoot - Restore Your Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-systems-intel-graphics-in-windows/"><u>Optimize Your System's Intel Graphics in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/powering-through-with-new-amd-graphics-drivers-version-20/"><u>Powering Through with New AMD Graphics Drivers - Version 2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reducing-hp-lcd-glitch-frequency/"><u>Reducing HP LCD Glitch Frequency</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-graphics-cards-not-detected-in-computers/"><u>Remedying Graphics Cards Not Detected in Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-elusive-screen-blanks/"><u>Revealing Elusive Screen Blanks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-intel-graphics-in-windows-os/"><u>Securing Intel Graphics in Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-line-artwork-precision/"><u>Stabilize Line Artwork Precision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-laptop-display-correction-a-quick-fix-methodology/"><u>Streamlining Laptop Display Correction: A Quick Fix Methodology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974682383-swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts-for-2024/"><u>The Essential Guide  Fast-Tracking Subtitle Creation for Your FB Posts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-television-streaming-platforms-a-comprehensive-guide/"><u>Top 8 Television Streaming Platforms : A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/twister-timber-titmice-for-2024/"><u>Twister Timber Titmice for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>Updated In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-amd-radeon-hd-6950-windows-update/"><u>Upgraded AMD Radeon HD 6950 Windows Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/void-on-viewport-latest-card-installation/"><u>Void on Viewport: Latest Card Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-stoppage-over-nvidia-device-issue-cleared/"><u>Windows Stoppage Over NVIDIA Device Issue Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help</u></a></li>
+</ul></div>

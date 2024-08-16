@@ -1,7 +1,7 @@
 ---
 title: Resolve Sims 4 Blank Screens Quickly
-date: 2024-07-12T01:14:52.945Z
-updated: 2024-07-13T01:14:52.945Z
+date: 2024-08-15T07:55:00.233Z
+updated: 2024-08-16T07:55:00.233Z
 tags:
   - win11
   - win10
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -73,6 +76,9 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -84,6 +90,9 @@ Here is how to do it:
  2) In the **Command Line Arguments** box, type **\-w** and click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
 
@@ -91,6 +100,9 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -100,6 +112,9 @@ Here are the steps:
  1) In Origin, click**Origin** \>**Application Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
@@ -122,6 +137,9 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -153,6 +171,9 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -161,6 +182,9 @@ Here is how to check if your computer spec has met the requirements:
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -190,3 +214,42 @@ Here is how to check if your computer spec has met the requirements:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>[New] 2024 Approved  Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enhance-your-browsing-efficiency-a-complete-guide-to-pip-on-edge/"><u>[New] Enhance Your Browsing Efficiency  A Complete Guide to PIP on Edge</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-tv-viewing-via-hdmi-laptop-connected-successfully/"><u>[Restored] TV Viewing via HDMI, Laptop Connected Successfully</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mapping-social-interest-to-video-idea-generation-with-google-for-2024/"><u>[Updated] Mapping Social Interest to Video Idea Generation with Google for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-video-impact-proven-youtube-seo-methods/"><u>2024 Approved  Elevate Video Impact  Proven YouTube SEO Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-roadmap-how-to-make-your-covers-shine/"><u>2024 Approved  The Roadmap  How To Make Your Covers Shine</u></a></li>
+<li><a href="https://network-issues.techidaily.com/arrayeden-blossoming-from-disarrayed-raids/"><u>ArrayEden: Blossoming From Disarrayed RAIDs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-buzzing-visuals-from-win7/"><u>Banishing Buzzing Visuals From Win7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-windows-11s-streaming-obstacles-successfully/"><u>Clearing Up Windows 11’S Streaming Obstacles Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crystal-clear-interface-effortless-change/"><u>Crystal-Clear Interface, Effortless Change</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-bluetooth-driver-compatible-with-windows-11-8-and-7/"><u>Download the Latest Broadcom Bluetooth Driver Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-absence-in-sims-screens/"><u>Eliminate Absence in Sims' Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-movie-maker-an-animators-best-friend-for-2024/"><u>Harnessing the Power of Movie Maker  An Animator’s Best Friend for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-gameplay-speed-in-virtual-construction/"><u>Improve Gameplay Speed in Virtual Construction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-your-monitors-layout-with-wins11-tools/"><u>Improve Your Monitor's Layout with Wins11 Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-g24-power-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola G24 Power Pattern Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-x5-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco X5 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-pop-7-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Pop 7 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-smoothscreensaver-lightweight-recording-tool/"><u>In 2024, SmoothScreenSaver  Lightweight Recording Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974338033-maximize-display-quality-update-to-the-newest-intel-hd-graphics-driver-for-w10/"><u>Maximize Display Quality: Update to the Newest Intel HD Graphics Driver for W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-visual-hardware-solve-for-nvidia-gpu-lack-of-visibility/"><u>Missing Visual Hardware: Solve for NVIDIA GPU Lack of Visibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ninja-warrior-download-delayed/"><u>Ninja Warrior Download Delayed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-freeze-save-display-issue-resolved/"><u>Overcoming Freeze: Save Display Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fixes-for-youtube-background-issues-green/"><u>Quick Fixes for Youtube Background Issues (Green)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-error-22-graphics-driver/"><u>Resolved Error #22, Graphics Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unspecified-error-0x80004005-on-your-device-effortlessly/"><u>Resolving the Unspecified Error (0X80004005) on Your Device Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-cursor-functionality-on-black-screen/"><u>Restore Cursor Functionality on Black Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shedding-light-on-inscrutable-x-errors-plaguing-lol/"><u>Shedding Light on Inscrutable X Errors Plaguing LoL</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-speakers-unveil-audio-steps-immediately/"><u>Silent Speakers? Unveil Audio Steps Immediately</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-asus-internal-webcam-issues/"><u>Solving Asus Internal Webcam Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-controlling-lenovo-screenshake/"><u>Strategies for Controlling Lenovo Screenshake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-error-c1900101-during-os-setup/"><u>Tackling Error C1900101 During OS Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-upgrade-new-amd-hd-6950-graphics-driver-rollout/"><u>Win11 Upgrade: New AMD HD 6950 Graphics Driver Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8-step-by-step-guide-to-launch-safe-mode-and-driver-uninstallation/"><u>Windows 8: Step-by-Step Guide to Launch Safe Mode and Driver Uninstallation</u></a></li>
+</ul></div>

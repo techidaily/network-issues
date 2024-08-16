@@ -1,7 +1,7 @@
 ---
 title: Reintroducing Forgotten NVIDIA or AMD Hardware
-date: 2024-07-12T01:14:07.799Z
-updated: 2024-07-13T01:14:07.799Z
+date: 2024-08-15T07:55:56.368Z
+updated: 2024-08-16T07:55:56.368Z
 tags:
   - win11
   - win10
@@ -40,12 +40,24 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Click**Next** to move on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Select**Display adpaters** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-12.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
 
@@ -77,6 +89,9 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -86,6 +101,9 @@ To do so, first visit the website of your GPU manufacturer:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -96,6 +114,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 3\. Restore your BIOS settings to default
 
  If you’ve previously overclocked your GPU, or you made certain changes in the BIOS, your PC might not detect your GPU either. To see if this is your case, you can try to restore your BIOS settings to default.
@@ -125,8 +146,15 @@ To do so, first visit the website of your GPU manufacturer:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -143,8 +171,18 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**taskmgr** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 3. Select**Performance** (the second icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-16.png)
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 4. If the**GPU** option is available, you should see the information about your computer’s GPU on the right side panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-18.png)
 5. When you can see such information, your GPU should be correctly seated.
@@ -182,3 +220,43 @@ To do so, first visit the website of your GPU manufacturer:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-art-of-producing-captivating-facebook-video-content/"><u>[New] 2024 Approved  The Art of Producing Captivating Facebook Video Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-obs-studio-mastery-top-5-editing-techniques/"><u>[New] In 2024, OBS Studio Mastery  Top 5 Editing Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-live-streaming-duel-pitting-obs-against-shadowgl/"><u>[New] Live Streaming Duel  Pitting OBS Against ShadowGL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvidia-graphic-glitch-clears-up/"><u>[Resolved] Nvidia Graphic Glitch Clears Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-nvidia-driver-glitch-now-past/"><u>[Successful Fix] Nvidia Driver Glitch Now Past</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-online-links-issues-with-cod-cold-war/"><u>[TROUBLESHOOTED] Online Links Issues with CoD Cold War</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-money-makers-the-best-of-the-top-ig-earners/"><u>[Updated] 2024 Approved  Master Money Makers  The Best of the Top IG Earners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-fast-fortnite-icons-in-minutes-for-2024/"><u>[Updated] Crafting Fast Fortnite Icons in Minutes for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-erratic-screen-behavior-pro-7/"><u>Banishing Erratic Screen Behavior (Pro 7)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/deciphering-the-advantages-of-modern-multicam-technology/"><u>Deciphering the Advantages of Modern Multicam Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrypting-the-x-factor-anomaly-uncovered-in-lol-games/"><u>Decrypting the X-Factor Anomaly Uncovered in LoL Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-editing-game-with-speed-control-skills/"><u>Elevate Your Editing Game with Speed Control Skills</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781638-elevate-your-visuals-install-intel-graphics-hd-3000s-latest-w10-version/"><u>Elevate Your Visuals: Install Intel Graphics HD 3000'S Latest W10 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-buffering-in-seconds/"><u>Eliminate Buffering in Seconds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-machine-capabilities-for-softwares-success/"><u>Enhancing Machine Capabilities for Softwares' Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-meizu-21-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Meizu 21 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-compatibility-nvidia-opengl-fixed/"><u>GPU Compatibility: Nvidia OpenGL Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-calibration-achieved/"><u>Graphics Calibration Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guaranteed-straighten-out-for-monitors/"><u>Guaranteed Straighten-Out for Monitors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/hit-the-town-non-gta-games-that-offer-similar-joy-for-2024/"><u>Hit the Town  Non-GTA Games That Offer Similar Joy for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>In 2024, Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-free-online-gif-loop-generators-2023-edition/"><u>In 2024, Best Free Online GIF Loop Generators 2023 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>Introductory Tutorial  Utilizing Video Chat Features on Insta</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-lag-in-video-playback-on-newest-windows-os/"><u>No More Lag in Video Playback on Newest Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/notebook-led-fix-persistent-blink-ended/"><u>Notebook LED Fix: Persistent Blink Ended</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-hp-display-wobble-issues/"><u>Overcoming HP Display Wobble Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-video-breakdown-fifa-analysis-graphs/"><u>Premier Video Breakdown  FIFA Analysis Graphs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-enhancement-update-intel-graphics-3000-to-boost-your-w10-display/"><u>Quick Enhancement: Update Intel Graphics 3000 to Boost Your W10 Display.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-upside-down-screens-on-windows-10-os/"><u>Rectifying Upside-Down Screens on Windows 10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-gpu-functionality-after-interruption/"><u>Restoring GPU Functionality After Interruption</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-win11-blank-screen-hack/"><u>Reverse WIN11 Blank Screen Hack</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/simple-voice-changer-features-guidelines-and-alternatives-for-2024/"><u>Simple Voice Changer Features, Guidelines, and Alternatives for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-anthem-lags-quick-solutions/"><u>Tackling Anthem Lags: Quick Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-note-12r-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12R for Parents | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upside-down-issue-in-screen-setup-resolved/"><u>Upside-Down Issue in Screen Setup Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-nvidia-7025-unresolved-conflict/"><u>Win10 & Nvidia 7025: Unresolved Conflict</u></a></li>
+</ul></div>

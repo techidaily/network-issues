@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Evolve No Boot - DirectX Compatibility Issue"
-date: 2024-07-12T01:08:36.128Z
-updated: 2024-07-13T01:08:36.128Z
+date: 2024-08-15T08:00:27.116Z
+updated: 2024-08-16T08:00:27.116Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/e6889a658e4bba9c2827feba4ea063c236adc8db7
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  According to the error message from Halo Infinite, apparently, you need to update the graphics driver to the latest version to meet the requirements.
@@ -66,12 +69,18 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -100,6 +109,9 @@ You need to check 2 elements:
 1. Press the**Windows logo key** +**R** together to open the Run box.
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
@@ -133,8 +145,14 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -156,3 +174,53 @@ If this fix doesn’t work, move to the next one.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-innovative-approaches-to-customize-your-igtv-content-size/"><u>[New] 2024 Approved  Innovative Approaches to Customize Your IGTV Content Size</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gears3-no-start-on-pc-dx12-hurdle/"><u>[RESOLVED] Gears3 No Start on PC - DX12 Hurdle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-halt-recommendations-no-more-suggests/"><u>[Updated] In 2024, How to Halt Recommendations  No More Suggests</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-gamers-guide-to-live-platforms-1-9/"><u>[Updated] Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-dynamics-of-home-security-manycam-vs-single-camera-tech/"><u>2024 Approved  The Dynamics of Home Security  ManyCam Vs. Single-Camera Tech</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-reflective-displays-in-win11-update/"><u>Addressing Reflective Displays in Win11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-7-display-reversal/"><u>Adjusting Windows 7 Display Reversal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/analyzing-amds-role-in-shaping-the-future-of-pc-gaming/"><u>Analyzing AMD's Role in Shaping the Future of PC Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-restored-on-windows-11-by-qualcomm/"><u>Atheros Wi-Fi Drivers Restored on Windows 11 by Qualcomm</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-image-blurriness-for-better-far-cry-play/"><u>Correcting Image Blurriness for Better Far Cry Play</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-dark-mode-black-screen-post-update/"><u>Eliminating Dark Mode BLACK SCREEN Post Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epic-slow-spells-on-purchase/"><u>Epic Slow Spells on Purchase</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expertise-on-demand-your-complete-guide-to-fixed-zooms/"><u>Expertise on Demand: Your Complete Guide to Fixed Zooms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4-runs-smooth-on-your-machine/"><u>Fallout 4 Runs Smooth on Your Machine</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974418358-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-gains-traction-on-enhanced-windows-11-interface/"><u>GeForce RTX210 Gains Traction on Enhanced Windows 11 Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/glide-past-game-slowdowns/"><u>Glide Past Game Slowdowns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-laptop-black-screen-issue/"><u>How to Fix Laptop Black Screen Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-escapes-androidioss-favorite-ar-games-for-2024/"><u>Immersive Escapes  Android/iOS's Favorite AR Games for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-srt-in-depth-with-this-guidebook/"><u>In 2024, Understanding SRT in Depth with This Guidebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-sims-solid-walls/"><u>Navigate Through Sims' Solid Walls</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimizing-call-and-chat-preservation-in-the-digital-age-fb-edition/"><u>Optimizing Call & Chat Preservation in the Digital Age  FB Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-wins-graphic-configuration-hurdle/"><u>Overcame Win's Graphic Configuration Hurdle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-tip-to-end-win11-display-disturbance/"><u>Quick Tip to End Win11 Display Disturbance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rage-rush-revoked-snagging-sluggishly/"><u>Rage Rush Revoked: Snagging Sluggishly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-mysterious-monitor-darkness/"><u>Removing Mysterious Monitor Darkness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-ghostly-vram-notifications/"><u>Repair Ghostly VRAM Notifications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-distorted-text-line-issue-in-portable-devices/"><u>Resolve Distorted Text Line Issue in Portable Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-upside-down-monitor-situation/"><u>Resolving Upside-Down Monitor Situation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieved-missing-wireless-adapter-in-win10-configuration/"><u>Retrieved Missing Wireless Adapter in Win10 Configuration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-black-screen-on-creators-release/"><u>Reversing BLACK SCREEN on Creators' Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-seamless-windows-plus-nvidia-experience/"><u>Securing Seamless Windows + Nvidia Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-display-stop-win11-syncopation/"><u>Smooth Display: Stop Win11 Syncopation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-to-non-functional-desktop-displays/"><u>Solutions to Non-Functional Desktop Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-dark-mode-issue-on-newest-creators-version/"><u>Solve Dark Mode Issue on Newest Creator's Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-windows-terminal-with-quake-effects/"><u>Starting Windows Terminal with Quake Effects</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-video-card-flickering-phenomenon/"><u>Stop Video Card Flickering Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streaming-stability-achieved-after-upgrading-to-win10/"><u>Streaming Stability Achieved After Upgrading to Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-missing-wireless-adapter-in-windows-10/"><u>Troubleshooted Missing Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-xr-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone XR</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-stop-your-screens-flashing/"><u>Troubleshooting: Stop Your Screen's Flashing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-money-potential-a-beginners-guide-on-periscope-for-2024/"><u>Unlocking Money Potential  A Beginner's Guide on Periscope for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-interface-breakdown-window-os-solved/"><u>Visual Interface Breakdown, Window OS (Solved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-no-more-amd-radeon-r9-crashes-now/"><u>Win10: No More AMD Radeon R9 Crashes Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-resolution-too-large/"><u>Window's 11 Resolution Too Large</u></a></li>
+</ul></div>

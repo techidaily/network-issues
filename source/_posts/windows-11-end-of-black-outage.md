@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: End of Black Outage"
-date: 2024-07-12T01:09:54.306Z
-updated: 2024-07-13T01:09:54.306Z
+date: 2024-08-15T08:00:19.936Z
+updated: 2024-08-16T08:00:19.936Z
 tags:
   - win11
   - win10
@@ -86,6 +86,9 @@ If you’re on a laptop:
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
   
  3) Click**Choose what the power button does** .
 
@@ -94,13 +97,22 @@ If you’re on a laptop:
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -112,6 +124,9 @@ If you’re on a laptop:
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -122,6 +137,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Log in using a different user account
 
  The black screen problem can also be caused by corrupted Windows user profile. If you can log in to Windows with a different user account, and use it without any problems, a corrupted user profile may be the cause. You can then replace the folder of the corrupted user profile with the folder of the working user profile. Here’s how:
@@ -151,10 +169,17 @@ If you’re on a laptop:
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -171,6 +196,9 @@ If you’re on a laptop:
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -178,6 +206,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -191,6 +222,9 @@ If you’re on a laptop:
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
   
  4) Click **Recovery** .  
 
@@ -199,6 +233,9 @@ If you’re on a laptop:
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -222,3 +259,45 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-free-game-themes-and-melodies-10-best-websites/"><u>[New] 2024 Approved  Free Game Themes & Melodies – 10 Best Websites</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-digital-dynamo-unleashing-videoviral-impact-for-2024/"><u>[New] Digital Dynamo  Unleashing #VideoViral Impact for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-understanding-the-process-of-altering-photo-genders-on-social-networks/"><u>[New] In 2024, Understanding the Process of Altering Photo Genders on Social Networks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-online-woes-with-cod-cold-war/"><u>[SOLVED] Online Woes with CoD Cold War</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-your-rl-gameplay-videos/"><u>[Updated] 2024 Approved  Optimizing Your RL Gameplay Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-your-instagram-presence-with-long-videos/"><u>[Updated] Enhancing Your Instagram Presence with Long Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-utilize-youtube-metrics-to-transform-views-into-revenue/"><u>[Updated] In 2024, Utilize YouTube Metrics to Transform Views Into Revenue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ios-gamers-top-5-ps2-emulators-unveiled/"><u>[Updated] IOS Gamers' Top 5 PS2 Emulators Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-list-of-top-tier-cameras/"><u>[Updated] The Ultimate List of Top-Tier Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-igtvs-potential-a-video-resizing-primer/"><u>[Updated] Unlocking IGTV's Potential  A Video Resizing Primer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-stream-smoothness-tweets-buffering-in-chrome/"><u>2024 Approved  Stream Smoothness  Tweets Buffering in Chrome</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-11-display-sizes/"><u>Adjusting Windows 11 Display Sizes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-s17t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo S17t to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discerning-the-advantages-of-ultra-hd-visuals/"><u>Discerning the Advantages of Ultra HD Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-visual-fidelity-geforce-210-on-your-win10-system/"><u>Elevate Visual Fidelity: GeForce 210 on Your WIN10 System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-screen-flashes-in-win11/"><u>End Screen Flashes in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-brightness-levels/"><u>Enhancing Lenovo Display Brightness Levels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-130-music-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia 130 Music to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-htc-u23-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from HTC U23 Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-to-mp3-conversion-process-walkthrough/"><u>In 2024, Instagram to MP3 Conversion Process Walkthrough</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovos-unresponsive-touch-repair-complete/"><u>Lenovo's Unresponsive Touch - Repair Complete</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lifting-the-curse-the-invisible-direct-x-disruption-solved-in-leagues/"><u>Lifting the Curse: The Invisible Direct X Disruption Solved in Leagues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-solves-wins-basic-drive-problems/"><u>Microsoft Solves Win's Basic DRIVE Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-gen-graphics-drive-for-pc-windows-10s-latest-amd-radeon-hd-6950-driver/"><u>Next-Gen Graphics Drive for PC: Windows 10'S Latest AMD Radeon HD 6950 Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-detected-overwatch-patch-successful/"><u>No Compatible Graphics Detected - Overwatch Patch Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974497126-quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-steps-to-overcome-c1900101-during-win11-setup/"><u>Quick Steps to Overcome C1900101 During Win11 Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-with-a-malfunctioning-tiktok-app/"><u>Solving Common Issues with a Malfunctioning TikTok App</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/"><u>System Error Due To Nvidia, Now Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essence-of-4k-super-hd-resolution/"><u>The Essence of 4K Super HD Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/try-these-6-free-ai-solutions-similar-to-openais-sora-no-charge-involved/"><u>Try These 6 Free AI Solutions Similar to OpenAI’s Sora – No Charge Involved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-shutdown-new-gpu-empty-screen/"><u>Unexpected Shutdown: New GPU, Empty Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stabilizing-visuals-no-more-shakes/"><u>Win11: Stabilizing Visuals, No More Shakes</u></a></li>
+</ul></div>

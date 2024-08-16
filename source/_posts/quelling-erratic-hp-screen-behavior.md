@@ -1,7 +1,7 @@
 ---
 title: Quelling Erratic HP Screen Behavior
-date: 2024-07-12T01:11:07.968Z
-updated: 2024-07-13T01:11:07.968Z
+date: 2024-08-15T07:58:41.213Z
+updated: 2024-08-16T07:58:41.213Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop screen flickering issue by ruling out the physical factors.
@@ -58,6 +61,9 @@ Here is how to do it:
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -82,6 +88,9 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
@@ -94,13 +103,22 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -141,3 +159,44 @@ Once finished with the repair, check if the error has been resolved.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-excellence-optimizing-post-reach/"><u>[New] Instagram Excellence  Optimizing Post Reach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pixelsnapper-professional-edition/"><u>[New] PixelSnapper  Professional Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-turn-games-into-memories-no-fuss-nvidia-style-for-2024/"><u>[New] Turn Games Into Memories - No Fuss, NVIDIA Style for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-art-of-masterful-job-interview-execution/"><u>[New] Unveiling the Art of Masterful Job Interview Execution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-fluctuating-led-on-dell-laptop/"><u>[Resolved] Fluctuating LED on Dell Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-signal-struggle-laptop-to-tv-no-success/"><u>[Solved] Signal Struggle: Laptop to TV No Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-digital-warriors-youtubes-top-ten-women-for-2024/"><u>[Updated] Digital Warriors  YouTube’s #Top Ten Women for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-efficient-tiktok-storage-android-iphone-compatibility-guide/"><u>[Updated] Efficient TikTok Storage  Android, iPhone Compatibility Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-video-privacy-measures-blurring-and-concealing-details/"><u>[Updated] In 2024, Video Privacy Measures  Blurring and Concealing Details</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-textual-treasures-ae-font-exploration/"><u>[Updated] Transform Textual Treasures  AE Font Exploration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-woes-no-more-successful-fix-for-common-display-issues-explained/"><u>Black Screen Woes No More: Successful Fix for Common Display Issues Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/broadcasting-facebook-videos-whats-the-future-like/"><u>Broadcasting Facebook Videos  What's the Future Like?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-asymmetric-display-issue-wins-11-version/"><u>Correcting Asymmetric Display Issue, Wins 11 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correction-successful-gpu-setup-win/"><u>Correction: Successful GPU Setup - Win</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-by-nvidia-resolved-windows-now-stops/"><u>Error by Nvidia Resolved, Windows Now Stops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-tarkov-bug-amds-guide/"><u>Fix Tarkov Bug - AMD's Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-installer-error-on-nvidia/"><u>Fixed Installer Error on NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-upside-down-graphics-issue/"><u>Fixed Window's Upside Down Graphics Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-alert-opengl-fault-addressed-and-mended/"><u>GPU Alert: OpenGL Fault Addressed and Mended</u></a></li>
+<li><a href="https://network-issues.techidaily.com/heal-visual-drifting-effects/"><u>Heal Visual Drifting Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-windows-10-photos-8-excellent-image-editing-options/"><u>In 2024, Beyond Windows 10 Photos 8 Excellent Image Editing Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails/"><u>In 2024, Streamline & Simplify  A User-Friendly Approach to Shorts Thumbnails</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-basic-render-better-for-ms-win-versions/"><u>Making Basic Render Better for MS Win Versions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-graphic-output-post-latest-purchase/"><u>No Graphic Output Post Latest Purchase</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-fix-system-normalized/"><u>Nvidia Driver Fix - System Normalized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wifi-adapter-atheros-issue-windows-10-fixed/"><u>Qualcomm WiFi Adapter, Atheros Issue - Windows 10 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-cure-for-hiccup-free-video-playback/"><u>Quick Cure for Hiccup-Free Video Playback</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-repair-immediate-apex-crash-remedies/"><u>Rapid Repair: Immediate Apex Crash Remedies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-disabled-configuration-of-screen-preferences/"><u>Remedy for Disabled Configuration of Screen Preferences</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-reversed-screens-on-windows-10/"><u>Remedy for Reversed Screens on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-media-playback-post-upgrade-on-win10/"><u>Seamless Media Playback Post-Upgrade on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-transition-of-windows-11-playback-post-update/"><u>Smooth Transition of Windows 11 Playback Post-Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-c1900101-in-new-windows-installation/"><u>Tackling C1900101 in New Windows Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turning-upside-down-screen-rightside-up/"><u>Turning Upside-Down Screen Rightside Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-the-network-disconnect-riddle/"><u>Unraveling the Network Disconnect Riddle</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-hd-resolution-change-failure/"><u>Windows 11 HD Resolution Change Failure</u></a></li>
+</ul></div>

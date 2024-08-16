@@ -1,7 +1,7 @@
 ---
 title: Resolved Hybrid Graphic Performance in Windows 11'S Latest Update
-date: 2024-07-12T01:11:11.293Z
-updated: 2024-07-13T01:11:11.293Z
+date: 2024-08-15T07:58:44.866Z
+updated: 2024-08-16T07:58:44.866Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -37,11 +40,18 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -76,6 +86,9 @@ There are two ways you can get the right drivers for your video cards: manually 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
@@ -89,11 +102,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -102,6 +122,9 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -125,3 +148,42 @@ Or click **Update All**  to automatically download and install the correct versi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-view-old-stories-on-facebook-find-story-archive-easily/"><u>[New] How to View Old Stories on Facebook  Find Story Archive Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-production-with-powerdirector-24/"><u>[Updated] Mastering Video Production with PowerDirector '24</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-video-extractor-mp3-format-support/"><u>Facebook Video Extractor – MP3 Format Support</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-post-update-black-screen-in-windows-10/"><u>Fixing Post-Update BLACK SCREEN in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-fix-hunter-worlds-beast-down/"><u>Graphics Fix: Hunter World's Beast Down</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-acer-laptop-screen-flickering/"><u>How To Fix Acer Laptop Screen Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-quench-the-phosphor-glitches-of-acer-monitors/"><u>How to Quench the Phosphor Glitches of Acer Monitors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nubia-z50-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Z50 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-6s-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 6s? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-wirecast-plus-comparables/"><u>In-Depth Look at WireCast + Comparables</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-the-core-operations-of-youtubes-content-creators-for-2024/"><u>Inside the Core Operations of YouTube’s Content Creators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210227223-master-the-art-of-quick-fixes-for-windows-update-error-8007000e-your-guide-to-a-smooth-computer-experience/"><u>Master the Art of Quick-Fixes for Windows Update Error 8007000E - Your Guide to a Smooth Computer Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-fix-overcoming-fallout-4-glitches/"><u>PC Fix: Overcoming Fallout 4 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/permission-granted-cuda-interface-access/"><u>Permission Granted: CUDA Interface Access</u></a></li>
+<li><a href="https://network-issues.techidaily.com/redirecting-faulty-nvidia-displays-settings-links/"><u>Redirecting Faulty NVIDIA Displays Settings Links</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-ripples-in-win7-displays/"><u>Remedying Ripples in Win7 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-issue-cg-failed-to-show/"><u>Rendering Issue: CG Failed to Show</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-complaint-by-nvidia-windows-operates-normally-now/"><u>Resolved Complaint by NVidia, Windows Operates Normally Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-your-zoom-camera-a-comprehensive-fix-guide/"><u>Revive Your Zoom Camera: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-flicker-no-more/"><u>Screen Flicker, No More</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-stable-lenovo-screens/"><u>Strategies for Stable Lenovo Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-refresh-intel-g3000-driver-on-win11/"><u>Swiftly Refresh Intel G3000 Driver on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-alert-graphics-card-not-installed/"><u>System Alert: Graphics Card Not Installed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-fuzzy-visuals-in-far-cry-6/"><u>Tackling Fuzzy Visuals in Far Cry 6</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-inverted-image-feature-in-w11-system/"><u>Tackling Inverted Image Feature in W11 System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-training-strategies-gpts-role-unveiled/"><u>Tailored Training Strategies: GPT's Role Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-display-settings-issue-windows-10-fixed/"><u>Unexpected Display Settings Issue: Windows 10 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-geforce-symbiosis-a-solution-found/"><u>Win10 & GeForce Symbiosis - A Solution Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stuck-at-default-screen-res/"><u>Win11: Stuck at Default Screen Res</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Improve Gameplay Speed in Virtual Construction
-date: 2024-07-12T01:12:30.629Z
-updated: 2024-07-13T01:12:30.629Z
+date: 2024-08-15T07:57:11.914Z
+updated: 2024-08-16T07:57:11.914Z
 tags:
   - win11
   - win10
@@ -57,12 +57,30 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files.jpg)
 3. Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
 ![delete temp files to remove edit delay on Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-select-delete.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 4. If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/PC-delete-temp-files.jpg)
 5. Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click **Yes** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin-click-yes.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
  After deleting the temp files, launch Roblox to check if the lag is reduced. If the problem persists, proceed to the next fix.
 
@@ -72,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  When your Roblox is lagging, it’s generally a sign of a slow connection. Your outdated network driver can be the culprit and make your game super laggy. To fix it, you need to update your network driver, especially if you can’t remember when you last updated it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to update the network driver
 
  You can manually update your network driver by going to the manufacturer’s official website to download and install the correct network driver for your system.
@@ -112,10 +133,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
  **Preferred DNS server: 8.8.8.8**  
@@ -126,6 +154,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Reduce the graphics quality
 
  Intense in-game graphics settings could also make Roblox lag, especially if your graphics card and processor are not very advanced. In this case, to reduce the lagging problem, you can reduce the graphics quality as follows:
@@ -136,8 +167,15 @@ OR
  If you haven’t installed the Roblox Player, a window will be popping up on the screen. Just click**Download and Install Roblox** and then double-click on the installation file to install it.
 3. Press**ESC** on your keyboard and on the upper left corner of the screen, you’ll see the**three-line** tab. Just click it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
 
  After that, click**Resume Game** to return to your game.  
@@ -159,15 +197,31 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-44.png)
 3. Click**PlatformContent** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-45.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 4. Click the**PC** folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-46.png)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click the**textures** folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 8: Repair system files
 
  Over time, important system files can become corrupted or go missing, which can lead to performance problems. Using the System File Checker tool in Windows can scan for any missing or corrupted files and automatically restore them. To do this, To do this, open Command Prompt as an administrator, type**sfc /scannow,** and hit Enter. Let this scan run, and it will check your system files against a cached copy and replace any that are damaged.
@@ -177,8 +231,14 @@ To do so:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Launch Fortect and run a complete scan.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. You’ll get a scan summary listing all the issues it detects. Click **START REPAIR** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Once done, restart your machine and check if it fixes your issue.
 
@@ -206,3 +266,54 @@ Once done, restart your machine and check if it fixes your issue.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-savor-sweetness-on-the-go-the-ultimate-guide-to-cookies-for-travelers/"><u>[New] Savor Sweetness on the Go  The Ultimate Guide to Cookies for Travelers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-use-of-analytics/"><u>[New] Use of Analytics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-win1110-now-lacks-amd-graphics-drivers/"><u>[RESOLVED] Win11/10 Now Lacks AMD Graphics Drivers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-forecasting-facebooks-video-trajectory-with-a-focus-on-brevity-for-2024/"><u>[Updated] Forecasting Facebook's Video Trajectory with a Focus on Brevity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-off-youtube-preview-in-one-easy-step-guide/"><u>[Updated] Turn Off YouTube Preview in One Easy Step Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easyrecorder-pro-free-gamers-recording-aid/"><u>2024 Approved  EasyRecorder Pro  Free Gamers' Recording Aid</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-videography-with-top-instagram-techniques/"><u>2024 Approved  Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-essential-criteria-in-searching-for-masterful-cinematographers/"><u>2024 Approved  Essential Criteria in Searching for Masterful Cinematographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-fostering-a-community-best-practices-for-youtubers/"><u>2024 Approved  Fostering a Community  Best Practices for YouTubers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-pro-7s-flickering-phenomenon/"><u>Addressing Pro 7'S Flickering Phenomenon</u></a></li>
+<li><a href="https://games-able.techidaily.com/customizing-headphone-output-on-xbox-sx/"><u>Customizing Headphone Output on Xbox S/X</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-souls-download-dilemnas/"><u>Dark Souls Download Dilemnas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-twitter-toolkit-best-applications-and-extensions/"><u>Discover the Leading TwitteR Toolkit: Best Applications & Extensions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-reset-nvidia-overcomes-previous-hiccup/"><u>Display Reset: Nvidia Overcomes Previous Hiccup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/drive-engagement-with-instagram-top-10-video-marketing-ideas-unveiled-for-2024/"><u>Drive Engagement with Instagram  Top 10 Video Marketing Ideas Unveiled for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-vision-new-windows-11-resolution-tweaks/"><u>Enhance Vision - New Windows 11 Resolution Tweaks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-texture-detail-for-better-far-cry-experience/"><u>Enhancing Texture Detail for Better Far Cry Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-low-res-graphics-in-far-cry-6-adventure-mode/"><u>Eradicating Low-Res Graphics in Far Cry 6 Adventure Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disabled-screen-save-functionality-on-windows-710/"><u>Fixing Disabled Screen Save Functionality on Windows 7/10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-digital-signature-for-pdf-v17-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free digital signature for PDF v1.7 document</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fixes-for-win-minecraft-end-of-freezes-and-crashes/"><u>GPU Fixes for Win-Minecraft: End of Freezes and Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y78plusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y78+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-sanitize-your-television-remote-best-cleaning-practices-unveiled/"><u>How To Sanitize Your Television Remote – Best Cleaning Practices Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-audio-content-structuring-your-rss-feed/"><u>In 2024, Transforming Audio Content  Structuring Your RSS Feed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-display-laptop-hdmi-not-recognized-by-tv/"><u>Invisible Display: Laptop HDMI Not Recognized By TV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/network-instability-unveiled/"><u>Network Instability Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-crash-now-functioning-properly/"><u>Nvidia Driver Crash: Now Functioning Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-window-10-resolution/"><u>Optimize Window 10 Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-hp-monitor-flicker-phenomenon/"><u>Preventing HP Monitor Flicker Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pushed-past-gatekeeper-g-sync-adjustments/"><u>Pushed Past Gatekeeper: G-Sync Adjustments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-iphone-mobile-transfer-protocol-mtp-device-driver-complications-effectively/"><u>Resolve iPhone Mobile Transfer Protocol (MTP) Device Driver Complications Effectively</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-black-screen-after-driver-install/"><u>Silent Black Screen After Driver Install</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-and-swift-enhance-roblox-on-desktop/"><u>Smooth and Swift: Enhance Roblox on Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-unwanted-hp-screen-glimmers/"><u>Solving Unwanted HP Screen Glimmers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolve-usb-access-errors-on-your-computer-system/"><u>Step-by-Step Guide: Resolve USB Access Errors on Your Computer System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stone-age-stumbles-on-sell/"><u>Stone Age Stumbles on Sell</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-magic-6-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Magic 6</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transforming-visuals-on-win10-with-newest-amd-graphics-drivers/"><u>Transforming Visuals on Win10 with Newest AMD Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-anthem-playtime/"><u>Uninterrupted Anthem Playtime</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-sonys-xbr49x900f-the-ultimate-guide-to-its-4k-and-smart-features-on-a-49-inch-screen/"><u>Unveiling Sony's XBR49X900F: The Ultimate Guide to Its 4K and Smart Features on a 49-Inch Screen</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-blur-faces-like-a-pro-top-free-apps-and-tutorials-for-photos-and-videos/"><u>Updated Blur Faces Like a Pro Top Free Apps and Tutorials for Photos and Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-graphics-performance-install-intel-hd-graphics-3000-on-windows-10-with-ease/"><u>Upgrade Graphics Performance: Install Intel HD Graphics 3000 on Windows 10 with Ease.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-hardware-issue-resolved-immediately/"><u>Video Hardware Issue Resolved Immediately</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-enhance-screen-definition-settings/"><u>Windows 11: Enhance Screen Definition Settings</u></a></li>
+</ul></div>

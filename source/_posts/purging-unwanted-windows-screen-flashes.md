@@ -1,7 +1,7 @@
 ---
 title: Purging Unwanted Windows Screen Flashes
-date: 2024-07-12T01:08:59.007Z
-updated: 2024-07-13T01:08:59.007Z
+date: 2024-08-15T08:00:49.648Z
+updated: 2024-08-16T08:00:49.648Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -38,17 +41,26 @@ Here is how to change the monitor refresh rate:
 
 1. Right-click on**any empty space** on your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,6 +87,9 @@ Here is how to change the monitor refresh rate:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -83,10 +98,16 @@ To do so:
 
 1. On your keyboard, press the **Windows logo key**  and **R**   at the same time. Then type **services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 4. Check if the**screen is flashing** problem has been resolved.
 
 ---
@@ -97,6 +118,9 @@ To do so:
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  Missing, corrupt, or damaged system files may cause display drivers to crash. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -170,3 +194,50 @@ Here’s how to use Fortect to repair system files on your PC:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display-for-2024/"><u>[New] Breaking Down Sync  A Thorough Review of LG's UHD68 Display for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-blueprint-optimizing-your-experience-with-mobizen-recorders/"><u>[New] Expert Blueprint  Optimizing Your Experience with Mobizen Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-guide-to-incorited-visuals-in-text-without-cost/"><u>[New] Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-into-the-spotlight-on-instagram-with-these-tricks-for-2024/"><u>[New] Step Into the Spotlight on Instagram with These Tricks for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fast-internet-on-win10-tips-and-tricks/"><u>[SOLVED] Fast Internet on WIN10: Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-assemble-media-pieces-in-youtube-sorted-views/"><u>[Updated] Assemble Media Pieces in YouTube Sorted Views</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-innovative-messaging-tools-beyond-discord/"><u>[Updated] In 2024, Innovative Messaging Tools Beyond Discord</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lush-backgrounds-a-compendium-of-free-screen-free-downloadables/"><u>[Updated] Lush Backgrounds  A Compendium of Free Screen-Free Downloadables</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-free-access-of-c-spans-broadcasted-content/"><u>A Guide to Free Access of C-Span's Broadcasted Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/address-missing-screen-detectors/"><u>Address Missing Screen Detectors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-operating-system-and-gpu-properly/"><u>Aligning Operating System and GPU Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-lags-to-victory/"><u>Banish Lags to Victory</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-minimum-requirement-hurdles-with-upgrades/"><u>Bypassing Minimum Requirement Hurdles with Upgrades</u></a></li>
+<li><a href="https://network-issues.techidaily.com/compatibility-issue-on-windows-10-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 10 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-resolution-for-high-end-monitors-win10/"><u>Correct Resolution for High-End Monitors - Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-default-display-saving-failures-in-windows/"><u>Correcting Default Display Saving Failures in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-7-mirror-discrepancy/"><u>Correcting Windows 7 Mirror Discrepancy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/curing-graphics-card-problems-enhancing-minecraft-play/"><u>Curing Graphics Card Problems, Enhancing Minecraft Play</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deactivating-persistent-crt-glitches/"><u>Deactivating Persistent CRT Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-mismatch-na-in-graphics/"><u>Display Mismatch: N/A in Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-windows-blue-screen-fixed/"><u>dxgkrnl.sys: Windows Blue Screen Fixed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/experts-top-picks-for-creating-art-on-windows/"><u>Expert's Top Picks for Creating Art on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-arcane-the-mystery-disappeared-from-lols-x-factor/"><u>Explaining the Arcane: The Mystery Disappeared From LoL's X-Factor</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a79-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A79 5G FRP Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-5740-ready-simple-driver-downloads-steps/"><u>Get Your HP OfficeJet #5740 Ready: Simple Driver Downloads Steps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-x9b-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor X9b ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-striking-the-balance-visual-strategies-for-podcast-identity/"><u>In 2024, Striking the Balance  Visual Strategies for Podcast Identity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-syma-x5c-a-beginners-prime-drone-choice/"><u>In 2024, Unveiling the Syma X5C  A Beginner’s Prime Drone Choice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/issue-overcome-windows-10s-screen-shows-only-fractional-windows/"><u>Issue Overcome - Windows 10'S Screen Shows Only Fractional Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimize-windows-10-resolution-highs/"><u>Minimize Windows 10 Resolution Highs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-flickering-on-surface-pro-7/"><u>Preventing Flickering on Surface Pro 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-top-5-virtual-reality-drones/"><u>Prime Top 5 Virtual Reality Drones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-compatibility-issues-in-freesync/"><u>Reverting Compatibility Issues in FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-freeze-no-accelerator-detected/"><u>Screen Freeze: No Accelerator Detected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-lcd-glare-in-windows-10-screens/"><u>Solving LCD Glare in Windows 10 Screens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stardew-value-maximized-top-7-customization-excellence/"><u>Stardew Value Maximized  Top 7 Customization Excellence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974215162-streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-for-gpu-fan-revival/"><u>Techniques for GPU Fan Revival</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-hidden-layer-capturing-chats-as-fb-media-files-for-2024/"><u>The Hidden Layer  Capturing Chats as FB Media Files for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-update-brings-new-features-to-amds-radeon-hd-6950/"><u>Win11 Update Brings New Features to AMD's Radeon HD 6950</u></a></li>
+</ul></div>

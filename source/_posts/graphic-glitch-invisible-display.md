@@ -1,7 +1,7 @@
 ---
 title: "Graphic Glitch: Invisible Display"
-date: 2024-07-12T01:08:45.898Z
-updated: 2024-07-13T01:08:45.898Z
+date: 2024-08-15T08:00:36.520Z
+updated: 2024-08-16T08:00:36.520Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. If you can boot into your computer…
 
  If you can still boot into your computer, and the black screen problem is only seen on one of your monitors, you can try the following fixes. In other words, you can still use your computer, but just with one screen blackout.
@@ -49,14 +52,28 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-34.png)
 3. Select**Browse my computer for drivers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
 4. Select**Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-36.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 5. Select**Microsoft Basic Display Adapter** from the list and click**Next** for the driver to be installed.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-37.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 6. Your screen might flash a couple of times during the older driver installation, but no need to worry much about it, as it’s normal.
 7. Repeat the same to install the generic display card driver for your other display card should you have one.
 
@@ -64,12 +81,18 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.2 Clean install the graphics card driver
 
  As mentioned, the screen goes black after installing a graphics card driver problem could be caused by a step going wrong during the display card driver installation process, like faulty driver files or incorrect permission granted. To see if this is your case, you can do the following to clean install the display card driver:
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
@@ -91,6 +114,9 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -100,6 +126,9 @@ To do so, first visit the website of your GPU manufacturer:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -110,6 +139,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.3 Run the hardware troubleshooter to see if it’s a hardware problem
 
  If you’ve already tried the above but your screen remains black, you may need to check if the problem is with your hardware devices: faulty power supply, motherboard, display cable (HDMI, DP, or VGA), and/or the graphics card itself could also cause a black screen problem.
@@ -126,6 +158,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.4 Restore BIOS settings
 
  Your monitor will remain black if there are some incorrect settings in BIOS, which stop certain firmware and/or software from starting properly. To see if this is your case, you can try to restore your BIOS settings to default.
@@ -161,24 +196,48 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
 8. Click**Restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Press**F5** , or**5** to enter the**Safe Mode with networking mode** .
 
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Uninstall the graphics card driver in Safe Mode
 
 When you boot into the Safe Mode with networking
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### 2.2 Try different hardware devices
 
  At this point, if none of the above helps, you may need to consider different hardware devices, as it could be a problem with the graphics card, the hardware device itself, when it blacks out after a driver installation. As mentioned, faulty power supply, display cables, or motherboard could also be the culprit.
@@ -210,3 +269,48 @@ When you boot into the Safe Mode with networking
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-far-cry-new-dawn-not-starting-dx12-error/"><u>[CORRECTED] Far Cry New Dawn Not Starting - DX12 Error</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimal-audibility-techniques-to-enhance-recording-quality/"><u>[New] 2024 Approved  Optimal Audibility  Techniques to Enhance Recording Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-visual-learning-strategies-in-classrooms/"><u>[New] Implementing Visual Learning Strategies in Classrooms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-master-your-big-day-with-these-leading-countdown-clock-apps-androidios/"><u>[New] In 2024, Master Your Big Day with These Leading Countdown Clock Apps (Android/iOS)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-revisiting-old-photos-sending-them-as-snaps-on-snapchat/"><u>[New] In 2024, Revisiting Old Photos  Sending Them as Snaps on Snapchat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>[New] The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-overcoming-disconnect-issues-with-cod-cold-war/"><u>[REPAIRED]: Overcoming Disconnect Issues with CoD Cold War</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-preeminent-platforms-twitter-like-experiences/"><u>[Updated] In 2024, Preeminent Platforms  Twitter-Like Experiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-symphony-space-recordings-downloads-for-study/"><u>[Updated] Symphony Space  Recordings, Downloads for Study</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-fuzzy-imagery-in-ubisofts-far-cry-6-edition/"><u>Addressing Fuzzy Imagery in Ubisoft's Far Cry 6 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/battlezone-buffering-blunder/"><u>Battlezone Buffering Blunder</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-microsoft-edge-speeding-tips-for-windows-1011/"><u>Boosting Microsoft Edge: Speeding Tips for Windows 10/11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-blackout-on-newest-win11-version/"><u>Cure Blackout on Newest Win11 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-on-new-operating-system/"><u>Dealing with C1900101 on New Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-4k-high-resolution-video-standards/"><u>Deciphering 4K High-Resolution Video Standards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defeating-wow-error-no-519-with-ease/"><u>Defeating WoW Error No. 519 with Ease</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-monitor-stability-restored/"><u>Dell Monitor Stability Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-correction-guide-non-active-gpu-display-nvidia/"><u>Efficient Correction Guide: Non-Active GPU Display, NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-win10-experience-updated-amd-radeon-hd-6950-drivers/"><u>Elevate Your Win10 Experience: Updated AMD Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4s-pc-problems-solved-for-you/"><u>Fallout 4'S PC Problems, Solved for You</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fantastic-feat-mh-worlds-graphical-glitch-ends/"><u>Fantastic Feat! MH World's Graphical Glitch Ends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-drivers-error-22/"><u>Fixed Graphics Drivers Error #22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-basic-render-in-windows-series/"><u>Fixed Microsoft's Basic Render in Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fullscreen-fidelity-recovered-win10-version/"><u>Fullscreen Fidelity Recovered, Win10 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hdmi-miscommunication-laptop-avoids-display-on-tv/"><u>HDMI Miscommunication: Laptop Avoids Display on TV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immersive-graphics-geforce-rtx210-upgrade-on-windows-11/"><u>Immersive Graphics: GeForce RTX210 Upgrade on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-youtubes-green-screen-problems/"><u>Mastering YouTube's Green Screen Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-visual-split-issues-in-pc/"><u>Mend Visual Split Issues in PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-for-restoring-graphics-card-recognition/"><u>Methods for Restoring Graphics Card Recognition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-picture-on-tv-despite-correct-hdmi-link/"><u>No Picture on TV Despite Correct HDMI Link</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-drivers-down-discover-device-manager-anomalies/"><u>NVIDIA Drivers Down? Discover Device Manager Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974661693-optimize-system-visuals-effortlessly-by-updating-the-intel-graphics-3000-driver-in-w10/"><u>Optimize System Visuals Effortlessly by Updating the Intel Graphics 3000 Driver in W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-troubleshooting-path-inactive-gpu-nvidia-screen/"><u>Plain Troubleshooting Path: Inactive GPU, NVIDIA Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wireless-fix-atheros-adapter-in-windows-10/"><u>Qualcomm Wireless Fix: Atheros Adapter in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-repair-steps-unused-gfx-display-nvidia/"><u>Quick Repair Steps: Unused GFX Display NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-amd-tarkov-glitch/"><u>Resolve AMD Tarkov Glitch!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-macs-look-how-to-change-folder-color-settings/"><u>Revamp Your Mac's Look: How to Change Folder Color Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-windows-card-drivers-no-more-mc-hangs/"><u>Stabilizing Windows Card Drivers, No More MC Hangs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-your-cameras-full-potential-with-our-fixed-up-guide/"><u>Unlock Your Camera's Full Potential with Our Fixed-Up Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unpacking-the-rules-instagrams-video-length-caps-for-2024/"><u>Unpacking the Rules  Instagram's Video Length Caps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vision-problem-graphics-device-not-found/"><u>Vision Problem: Graphics Device Not Found</u></a></li>
+</ul></div>

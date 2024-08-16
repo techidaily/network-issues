@@ -1,7 +1,7 @@
 ---
 title: Restore Cursor Functionality on Black Screen
-date: 2024-07-12T01:12:41.417Z
-updated: 2024-07-13T01:12:41.417Z
+date: 2024-08-15T07:57:22.247Z
+updated: 2024-08-16T07:57:22.247Z
 tags:
   - win11
   - win10
@@ -47,6 +47,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -82,22 +85,37 @@ If you’re on a laptop:
  2) Press Control Panel in the search box at the bottom corner of the desktop, and click**Control Panel** in the pop-up menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
   
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
   
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -112,6 +130,9 @@ If you’re on a laptop:
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -151,10 +172,17 @@ If you’re on a laptop:
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -178,6 +206,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -191,6 +222,9 @@ If you’re on a laptop:
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
   
  4) Click **Recovery** .  
 
@@ -199,6 +233,9 @@ If you’re on a laptop:
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -222,3 +259,51 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-digital-diving-into-youtubes-veiled-video-vaults-for-2024/"><u>[New] Digital Diving Into YouTube’s Veiled Video Vaults for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-future-file-fortresses-top-five-innovations-in-cloud-storage/"><u>[New] In 2024, Future File Fortresses  Top Five Innovations in Cloud Storage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-speedsters-playbook-power-through-video-and-likes/"><u>[New] Insta Speedster's Playbook  Power Through Video and Likes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-podcast-utilities-for-windows-top-8-picks/"><u>[New] Premium Podcast Utilities for Windows (Top 8 Picks)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-visual-interface-rebooted-successfully/"><u>[Resolved] Visual Interface Rebooted Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-access-in-cod-cold-war/"><u>[SOLVED] Restoring Internet Access in CoD Cold War</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-evaluating-mr-beasts-financial-heft/"><u>[Updated] 2024 Approved  Evaluating Mr. Beast's Financial Heft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-broadcasting-twitch-to-facebook-friends-easily-for-2024/"><u>[Updated] Broadcasting Twitch to Facebook Friends Easily for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dissecting-youtube-copyright-vs-creative-commons-ethos-for-2024/"><u>[Updated] Dissecting YouTube Copyright Vs. Creative Commons Ethos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-flipping-filmmaking-on-your-android-device/"><u>2024 Approved  Flipping Filmmaking on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-system-awakening-tweak-windows-11-boot-timeout/"><u>Accelerating System Awakening: Tweak Windows 11 Boot Timeout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieve-superior-graphical-performance-update-intel-hd-3000-for-windows-10-now/"><u>Achieve Superior Graphical Performance: Update Intel HD 3000 for Windows 10 Now.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-non-responsive-curser-in-windows-10/"><u>Addressing Non-Responsive Curser in Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/avoiding-pitfalls-in-low-light-portrait-photography-for-2024/"><u>Avoiding Pitfalls in Low-Light Portrait Photography for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixes-for-lenovo-monitor-flickers/"><u>Fixes for Lenovo Monitor Flickers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-screen-lines-a-comprehensive-guide-for-portable-computers/"><u>Fixing Screen Lines: A Comprehensive Guide for Portable Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-hp-printer-drivers-for-win10-win8-and-win7-full-version-download/"><u>Free HP Printer Drivers for Win10, Win8 & Win7: Full Version Download</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony-for-2024/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-hero5-black-vs-hero5-session/"><u>GoPro Hero5 Black Vs Hero5 Session</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XR to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oneplus-11r-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from OnePlus 11R to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intelligent-techniques-for-refreshing-intels-graphics-driver-win-7/"><u>Intelligent Techniques for Refreshing Intel's Graphics Driver, Win 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-display-drivers-amd-radeon-r9-for-win11/"><u>Mastering Display Drivers: AMD Radeon R9 for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximum-screen-quality-reclaimed-win10/"><u>Maximum Screen Quality Reclaimed, Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nab-amd-graphics-snafu-now/"><u>Nab AMD Graphics Snafu Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-disconnects-with-freesync/"><u>Resolving Display Disconnects with FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-failure-to-preserve-window-display-options/"><u>Resolving Failure to Preserve Window Display Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-10s-c1900101-error/"><u>Resolving Windows 10'S C1900101 Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-options-unavailable-in-windows-11/"><u>Resolving: Display Options Unavailable in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenfreeze-gfx-window-issue-resolution-ready/"><u>ScreenFreeze, GFX Window Issue (Resolution Ready)</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-post-upgrade-media-problems-with-new-windows-10/"><u>Solved Post-Upgrade Media Problems with New Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-file-accessibility-across-computers/"><u>SRT File Accessibility Across Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-video-editing-made-easy-with-top-iosdesktop-apps-8-for-2024/"><u>Swift Video Editing Made Easy with Top iOS/Desktop Apps #8 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-unfiltered-guide-to-everyday-video-content-for-2024/"><u>The Unfiltered Guide to Everyday Video Content for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-logitech-c920-webcam-drivers-on-windows-11-10-and-8/"><u>Troubleshooting and Updating Logitech C920 Webcam Drivers on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functioning-amd-freesync/"><u>Troubleshooting Non-Functioning AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unable-to-pair-with-wireless-adapter-in-win10/"><u>Unable to Pair with Wireless Adapter in Win10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-408-timeout-identifying-issues-and-implementing-fixes-on-your-site/"><u>What Is a 408 Timeout? Identifying Issues & Implementing Fixes on Your Site</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-quenched-issue-solved/"><u>Win11 Screen Quenched Issue Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/window-graphics-issue-fixed/"><u>Window Graphics Issue Fixed</u></a></li>
+</ul></div>

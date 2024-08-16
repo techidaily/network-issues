@@ -1,7 +1,7 @@
 ---
 title: Overcoming C1900101 Challenge When Installing Windows 11
-date: 2024-07-12T01:13:19.880Z
-updated: 2024-07-13T01:13:19.880Z
+date: 2024-08-15T07:56:36.257Z
+updated: 2024-08-16T07:56:36.257Z
 tags:
   - win11
   - win10
@@ -39,9 +39,15 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 3) Click the **Update**  button next to the flagged display driver to automatically download and install the correct version (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4206a5c0185.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 4) When the update finishes, restart your computer as instructed. Check to see if the 0xC1900101 error is gone after this.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Method 2: Uninstall third-party antivirus programs
 
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
@@ -51,10 +57,17 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 **IMPORTANT**: Please make sure that you don’t actually need the about-to-be-removed device. If you can’t decide whether to keep it or not, you should move on to the next method instead. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**devmgmt.msc**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
@@ -62,6 +75,9 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Do a clean boot
 
 Clean boot requires only the very basic and built-in drivers and programs to run your computer. Therefore, it usually tells if the installed software is conflicting with others when you update, install or run it. If you’re having the 0xC1900101 error code, we recommend that you do a clean boot and see if you’re able to upgrade to or update your Windows 10 from there. **IMPORTANT**: You must log in as**administrator**to do the clean boot. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**msconfig**in and press**Enter**.
@@ -75,10 +91,16 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
@@ -86,6 +108,9 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Run SFC/ DISM tools
 
 In some cases, the 0xC1900101 error could mean that your system files are somehow corrupted or broken, and the code is there to remind you that you may need to revert your PC to a more stable stage before you do the system upgrade or update. To fix it: 1) On your keyboard, press the**Windows logo key**. Type**cmd**in the search box. Right-click**Command Prompt**and click**Run as administrator**.
@@ -93,6 +118,9 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -105,6 +133,10 @@ Press the **Enter**key on your keyboard.
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
@@ -134,3 +166,42 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-implemented-post-error-system-now-running-smoothly/"><u>[Fix Implemented] Post-Error System Now Running Smoothly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-giggling-waves-websites-for-humorous-tones/"><u>[New] Giggling Waves  Websites for Humorous Tones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-removed-missing-amd-graphics-adapter/"><u>[REPAIRED] Removed Missing AMD Graphics Adapter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-your-digital-cameras-potential-for-2024/"><u>[Updated] Unlocking Your Digital Camera's Potential for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-f23-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-backside-view-issue-for-windows-7/"><u>Adjusting Backside View Issue for Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-nforce630a-with-latest-win11-update/"><u>Aligning nForce630a with Latest Win11 Update</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-flicker-secure-your-display/"><u>Banish Flicker: Secure Your Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-vfx-efficiency-with-free-lut-downloads-for-2024/"><u>Boosting VFX Efficiency with FREE LUT Downloads for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-for-designing-high-performance-workflow-systems/"><u>ChatGPT as a Tool for Designing High-Performance Workflow Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-high-cpu-load-from-desktop-window-manager-with-these-5-powerful-windows-1110-tweaks/"><u>Combat High CPU Load From Desktop Window Manager with These 5 Powerful Windows 11/10 Tweaks</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-issue-windows-os-bsod-resolved/"><u>dxgkrnl.sys Issue: Windows OS BSOD Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-uninstall-how-to-remove-your-systems-graphic-driver/"><u>Easy Uninstall: How To Remove Your System's Graphic Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-erratic-windows-7-displays/"><u>Eliminating Erratic Windows 7 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-saved-screen-configurations-in-win-107/"><u>Enabling Saved Screen Configurations in Win 10/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-ricoh-mp-c3n003-printer-up-and-running-with-the-latest-drivers/"><u>Get Your Ricoh MP C3n003 Printer Up and Running with the Latest Drivers!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-honor-x50iplus-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Honor X50i+’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/launching-your-pathway-in-prompt-engineering-essential-tips-and-strategies-for-success/"><u>Launching Your Pathway in Prompt Engineering: Essential Tips and Strategies for Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-release-alert-improved-amd-radeon-hd-6950-for-win10/"><u>New Release Alert: Improved AMD Radeon HD 6950 for Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-display-driver-problems-r9-and-win10/"><u>Overcoming Display Driver Problems: R9 & Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pocket-sized-remedy-for-amd-in-eft/"><u>Pocket-Sized Remedy for AMD in EFT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-disabled-display-options-on-windows/"><u>Rectifying Disabled Display Options on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/required-gpu-not-found-overwatch-patch-successful/"><u>Required GPU Not Found - Overwatch Patch Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-adjustment-windows-10-display-issue/"><u>Resolution Adjustment: Windows 10 Display Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-code-22-video-card-driver/"><u>Resolved Code #22, Video Card Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplified-repair-unused-gfx-card-wnvidia/"><u>Simplified Repair: Unused GFX Card W/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-amd-radeon-r9-driver-crashes-in-win10/"><u>Solved: AMD Radeon R9 Driver Crashes in Win10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/splitcam-breakdown-best-or-not-amongst-recorders-for-2024/"><u>SplitCam Breakdown  Best or Not Amongst Recorders for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-win11-displays/"><u>Stabilizing Win11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-turbulent-windows-11-views/"><u>Taming Turbulent Windows 11 Views</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-ai-paradox-the-conundrum-of-chatgpt-not-identifying-its-own-written-work/"><u>Unraveling AI Paradox: The Conundrum of ChatGPT Not Identifying Its Own Written Work</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-streamline-resolved-any-previous-glitches/"><u>Windows 10 Streamline: Resolved Any Previous Glitches?</u></a></li>
+</ul></div>

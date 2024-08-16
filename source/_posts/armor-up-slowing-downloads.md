@@ -1,7 +1,7 @@
 ---
 title: Armor Up! - Slowing Downloads
-date: 2024-07-12T01:07:46.032Z
-updated: 2024-07-13T01:07:46.032Z
+date: 2024-08-15T08:01:05.438Z
+updated: 2024-08-16T08:01:05.438Z
 tags:
   - win11
   - win10
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Use a wired connection
 
  To download large files efficiently, a wired connection is preferable over a wireless connection to the internet. Wireless connections are most susceptible to interference and aren’t as consistent as wired connections. Therefore, if possible, use a wired connection.
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 4\. Update your network adapter driver
 
  If the previous steps didn’t work, it’s time to check if you’re using an outdated network adapter driver. An outdated or incompatible network adapter driver can cause connection problems. To fix it, you should update your drivers and your problem may be solved in no time.
@@ -79,6 +85,9 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -87,6 +96,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Switch Domain Name Systems (DNS)
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can effectively slow your connection. Switching your DNS can result in better connectivity and performance for your internet connection and save you time troubleshooting.
@@ -102,12 +114,30 @@ Here we recommend using Google DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. View by **Category** , and select **Network and Internet** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
@@ -122,6 +152,9 @@ Here we recommend using Google DNS:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Edit your Engine.ini file
 
  Players report editing some settings in the Engine.ini file can result in better download speeds. So you can give it a shot.
@@ -147,6 +180,9 @@ Here’s how to do this:
 **RetryTime=0.5**
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Press**Ctrl + S** to save the edits.
 
@@ -161,6 +197,9 @@ When it’s all done, resume your download and it should be faster.
 1. Launch the Epic Games Launcher.
 2. Click the profile icon on the top right corner and then Settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
@@ -176,6 +215,9 @@ When it’s all done, resume your download and it should be faster.
  2) At checkout, enter the creator tag **`DRIVEREASY`** . Your support is much appreciated!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,3 +237,41 @@ When it’s all done, resume your download and it should be faster.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-standout-6-platforms-empowering-biz-marketing/"><u>[New] Standout 6 Platforms Empowering Biz Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-android-photo-enhancers/"><u>2024 Approved  Top 5 Android Photo Enhancers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unblemished-visuals-buying-high-quality-images/"><u>2024 Approved  Unblemished Visuals  Buying High-Quality Images</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>2024 Approved  Unlocking PC Capabilities  How to Record TV on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/an-unknown-direct-x-error-has-occurred-on-league-of-legends-solved/"><u>An Unknown Direct X Error Has Occurred on League of Legends [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassed-gatekeeper-vr-display-settings/"><u>Bypassed Gatekeeper: VR Display Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combatting-crazed-windows-7-graphics/"><u>Combatting Crazed Windows 7 Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/computer-glare-halts-solved/"><u>Computer Glare Halts - Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-screen-fix-for-fall-creators-release/"><u>Dark Screen Fix for Fall Creators' Release</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-link-free-samsung-m2020-printer-drivers-now-available-for-download/"><u>Direct Link: Free Samsung M2020 Printer Drivers Now Available for Download</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disabling-problematic-drivers-improves-mc-gameplay/"><u>Disabling Problematic Drivers, Improves MC Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-and-windows-blue-screen-error-fix/"><u>dxgkrnl.sys and Windows Blue Screen Error Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-fixed-blue-screen-on-windows/"><u>dxgkrnl.sys Fixed: Blue Screen on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-ui-controls-win10-screen-glitch-fixed/"><u>Enhanced UI Controls: Win10 Screen Glitch Fixed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/finding-the-free-visual-trove-online/"><u>Finding the Free Visual Trove Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-amd-radeon-r9-faults-on-windows-10/"><u>Fixing AMD Radeon R9 Faults on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-failed-d3d-initiation-process/"><u>Fixing Failed D3D Initiation Process</u></a></li>
+<li><a href="https://network-issues.techidaily.com/identify-non-detecting-gfx/"><u>Identify Non-Detecting GFX</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-htc-u23-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from HTC U23 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/max-display-settings-regained-on-windows-10/"><u>Max Display Settings Regained on Windows 10</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtube-submission-with-imovie-files-for-2024/"><u>Navigating YouTube Submission with iMovie Files for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-youtubes-background-glitches-with-precision/"><u>Overcoming YouTube's Background Glitches with Precision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-fixed-gpu-incompatibility-problems/"><u>Overwatch: Fixed GPU Incompatibility Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-fix-for-atheros-issues-on-new-windows-version/"><u>Qualcomm's Fix for Atheros Issues on New Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-sims-4-visual-void/"><u>Remedy Sims 4 Visual Void</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-null-audio-output-on-windows-pcs/"><u>Resolve Null Audio Output on Windows PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvidia-issue-system-halted-on-error/"><u>Resolved: Nvidia Issue - System Halted on Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-standard-screen-aspect-ratio/"><u>Restoring Standard Screen Aspect Ratio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/rising-to-fame-creating-the-ultimate-facebook-song-video-for-2024/"><u>Rising to Fame  Creating the Ultimate Facebook Song Video for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-professional-instagram-live-conversations/"><u>Step-by-Step Guide to Professional Instagram Live Conversations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-upgrade-computers-meeting-hardware-criteria/"><u>Steps to Upgrade Computers Meeting Hardware Criteria</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solutions-for-amds-eft-glitch/"><u>Swift Solutions for AMD's EFT Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-visuals-back-after-creators-release/"><u>Win10 Visuals Back After Creators' Release</u></a></li>
+</ul></div>
