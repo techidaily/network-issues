@@ -1,7 +1,7 @@
 ---
 title: Bringing Back Brightness to Lenovo Laptops
-date: 2024-07-12T01:04:06.321Z
-updated: 2024-07-13T01:04:06.321Z
+date: 2024-08-22T13:40:17.415Z
+updated: 2024-08-23T13:40:17.415Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/30bec39c6c2bfea6784f7fb3989760ee0c9a0b9f3
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Fix 2: Hard reset your Lenovo laptop
 
  Peripheral devices that are connected to your Lenovo laptop could also be the cause of the black screen issue. If this is the case for you, you may notice that the dots are spinning during the boot-up process. So you should perform a hard reset on your Lenovo laptop to narrow down the possibilities.
@@ -63,6 +67,9 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -101,10 +108,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -115,6 +128,9 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -123,10 +139,16 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Restart your computer and check if your laptop screen displays properly.
 
  Still got a black screen? Please try**Fix 6** , below.
@@ -145,6 +167,9 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
@@ -182,3 +207,47 @@ So you can try disabling fast startup to see if it does the trick:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-picks-for-your-next-shot-in-4k-reflective-tech/"><u>[New] 2024 Approved  Top Picks for Your Next Shot in 4K Reflective Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-story-game-with-multiple-image-strategies/"><u>[New] In 2024, Elevate Your Story Game with Multiple Image Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-8-linux-screenshot-utilities-compared/"><u>[New] In 2024, Top 8 Linux Screenshot Utilities Compared</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-launching-an-impactful-instagram-live-session/"><u>[New] Launching an Impactful Instagram Live Session</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-realms-reborn-state-of-the-art-virtual-experience-for-2024/"><u>[New] Realms Reborn  State-of-the-Art Virtual Experience for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-unblocking-online-access-from-cod-cold-war/"><u>[REPAIRED] Unblocking Online Access From CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-visual-interface-rebooted-successfully/"><u>[Resolved] Visual Interface Rebooted Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-access-in-cod-cold-war/"><u>[SOLVED] Restoring Internet Access in CoD Cold War</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/"><u>[Updated] In 2024, Simplify Your Edits  Mastering the Art of Vimeo Video Snipping in 5 Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-with-snap-zoom-guide/"><u>2024 Approved  Capturing with Snap  Zoom Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-spice-up-content-kapwings-meme-builder/"><u>2024 Approved  Spice Up Content  Kapwing's Meme Builder</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/avoiding-common-pitfalls-in-uploading-hd-videos-to-youtube-for-2024/"><u>Avoiding Common Pitfalls in Uploading HD Videos to YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-blurry-win7-visuals/"><u>Banishing Blurry Win7 Visuals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tcl-50s425-roku-tv-50-analysis-discovering-value-in-a-premium-4k-viewing-experience-2019-edition/"><u>Comprehensive TCL 50S425 Roku TV (50) Analysis: Discovering Value in a Premium 4K Viewing Experience - 2019 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-diagonals-for-screen-clarity/"><u>Correcting Diagonals for Screen Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-screen-lines-a-comprehensive-guide-for-portable-computers/"><u>Fixing Screen Lines: A Comprehensive Guide for Portable Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-evaluating-camstudios-latest-screen-recording-features/"><u>In 2024, Evaluating CamStudio's Latest Screen Recording Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-exquisite-selection-idle-games-with-infinite-play/"><u>In 2024, Exquisite Selection  Idle Games with Infinite Play</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>In 2024, Transforming Footage  A Guide to GoPro Color Tweaks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-15-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 15 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-nvidia-quadro-display-adapters-drivers-on-windows-11-with-dch-technology/"><u>Install Updated Nvidia Quadro Display Adapters' Drivers on Windows 11 with DCH Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intelligent-techniques-for-refreshing-intels-graphics-driver-win-7/"><u>Intelligent Techniques for Refreshing Intel's Graphics Driver, Win 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximum-screen-quality-reclaimed-win10/"><u>Maximum Screen Quality Reclaimed, Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nab-amd-graphics-snafu-now/"><u>Nab AMD Graphics Snafu Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974117233-non-responsive-lenovo-touchscreen-resolved/"><u>Non-Responsive Lenovo Touchscreen - Resolved!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-erratic-hp-screen-behavior/"><u>Quelling Erratic HP Screen Behavior</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-default-display-preferences-on-windows/"><u>Re-Enabling Default Display Preferences on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-hybrid-graphic-performance-in-windows-11s-latest-update/"><u>Resolved Hybrid Graphic Performance in Windows 11'S Latest Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-disconnects-with-freesync/"><u>Resolving Display Disconnects with FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-failure-to-preserve-window-display-options/"><u>Resolving Failure to Preserve Window Display Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-options-unavailable-in-windows-11/"><u>Resolving: Display Options Unavailable in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shrink-large-screen-on-windows-10/"><u>Shrink Large Screen on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functioning-amd-freesync/"><u>Troubleshooting Non-Functioning AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unable-to-pair-with-wireless-adapter-in-win10/"><u>Unable to Pair with Wireless Adapter in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-causes-of-hardware-malfunctions-dm/"><u>Unveiling the Causes of Hardware Malfunctions (DM)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-updates-fix-atheros-driver-for-quality-connectivity/"><u>Win11 Updates Fix Atheros Driver for Quality Connectivity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/window-graphics-issue-fixed/"><u>Window Graphics Issue Fixed</u></a></li>
+</ul></div>
