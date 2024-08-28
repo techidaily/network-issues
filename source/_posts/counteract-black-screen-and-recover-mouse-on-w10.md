@@ -1,7 +1,7 @@
 ---
 title: Counteract Black Screen & Recover Mouse on W10
-date: 2024-07-12T00:58:14.745Z
-updated: 2024-07-13T00:58:14.745Z
+date: 2024-08-27T05:09:18.654Z
+updated: 2024-08-28T05:09:18.654Z
 tags:
   - win11
   - win10
@@ -73,6 +73,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -83,6 +86,9 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -95,6 +101,9 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
@@ -116,12 +125,18 @@ If you’re on a laptop:
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Log in using a different user account
 
  The black screen problem can also be caused by corrupted Windows user profile. If you can log in to Windows with a different user account, and use it without any problems, a corrupted user profile may be the cause. You can then replace the folder of the corrupted user profile with the folder of the working user profile. Here’s how:
@@ -148,14 +163,23 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Follow the on-screen instructions to create a new user account.
 
 6) Log in to this account and check to see if the black screen problem persists.
@@ -178,6 +202,9 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -192,10 +219,16 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
@@ -222,3 +255,59 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/adjustment-made-added-gpu-driver-for-amd-to-windows-11/"><u>[ADJUSTMENT MADE] Added GPU Driver for AMD to Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-modification-windows-11-oversized/"><u>[DISPLAY MODIFICATION] Windows 11 Oversized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-no-device-detected-for-wireless-connection-on-pc/"><u>[FIXED] No Device Detected for Wireless Connection on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-wipe-out-your-youtube-buffered-videos-for-2024/"><u>[New] How-To  Wipe Out Your YouTube Buffered Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-best-nintendo-switch-fighter-ranks-max-156/"><u>[New] In 2024, Best Nintendo Switch Fighter Ranks (Max 156)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wireless-network-issues-on-windows-10-pc/"><u>[RESOLVED] Wireless Network Issues on Windows 10 PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revise-advanced-display-not-found-in-win-11/"><u>[Revise] Advanced Display Not Found in Win 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-twitch-black-screen-issues/"><u>[SOLVED] Twitch Black Screen Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-exploring-av1-a-first-look-for-beginners/"><u>[Updated] In 2024, Exploring AV1  A First Look for Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>[Updated] Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemaster-for-everyday-memers/"><u>2024 Approved  KineMaster for Everyday Memers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-picperfect-upgrade-mobile-photography-no-money-down/"><u>2024 Approved  PicPerfect  Upgrade Mobile Photography No Money Down</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-screen-asymmetry-on-win11-release/"><u>Addressing Screen Asymmetry on Win11 Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-for-gdrivererr22/"><u>Armored Fix for GDRIVER_ERR22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-back-the-colors-to-lenovo-laptop/"><u>Bringing Back the Colors to Lenovo Laptop</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199738532-choosing-the-appropriate-type-of-spc-chart-is-critical-depending-on-the-data-variables-or-attributes-being-analyzed/"><u>Choosing the Appropriate Type of SPC Chart Is Critical Depending on the Data (Variables or Attributes) Being Analyzed.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-compatible-amd-freesync-setup/"><u>Correcting Non-Compatible AMD FreeSync Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displaysystem-halt-on-windows-works-resolved/"><u>DisplaySystem Halt on WIndows (Works Resolved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-correction-of-screen-aspect-ratios/"><u>Effortless Correction of Screen Aspect Ratios</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embracing-the-past-present-mondly/"><u>Embracing the Past, Present Mondly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-display-configurations-for-nvidia-cards/"><u>Enabling Display Configurations for NVIDIA Cards</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-video-conferencing-with-a-blend-of-skype-and-zoom/"><u>Enhance Video Conferencing with a Blend of Skype & Zoom</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-screens-crystal-clear-interface/"><u>Enhanced Screens: Crystal-Clear Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-black-display-on-win10/"><u>Eradicate Black Display on Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-repairing-and-enhancing-pacific-drives-reliability-on-desktops-and-laptops/"><u>Expert Advice: Repairing and Enhancing Pacific Drive's Reliability on Desktops and Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fresh-start-how-to-refresh-device-drivers-on-windows-10-without-hitches/"><u>Fresh Start: How to Refresh Device Drivers on Windows 10 Without Hitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-faulty-to-functional-display-changes-in-windows-10/"><u>From Faulty to Functional: Display Changes in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-on-top-6-must-try-chatgpt-gaming-experiences/"><u>Game On! Top 6 Must-Try ChatGPT Gaming Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gear-360-vs-lgcam-determining-best-in-3d-capture-for-2024/"><u>Gear 360 vs LGCam  Determining Best in 3D Capture for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-update-exclusive-for-windows-11-users/"><u>GeForce RTX210 Update: Exclusive for Windows 11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-halted-reset-and-resuming-operation/"><u>GPU Halted, Reset and Resuming Operation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-huawei-nova-y91-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Huawei Nova Y91?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-11x-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme 11X 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-overcome-vertical-line-challenges-in-laptop-screens/"><u>How to Overcome Vertical Line Challenges in Laptop Screens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-12-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus 12 Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-loom-downloader-how-to-loom-screen-record/"><u>In 2024, Loom Downloader - How to Loom Screen Record</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-blur-your-video-for-free-no-software-required-for-2024/"><u>New Blur Your Video for Free No Software Required for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974372554-no-zoom-resolve-your-zoom-camera-problems-now/"><u>No Zoom? Resolve Your Zoom Camera Problems Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-11-compatibility-for-nvidia-7025/"><u>Overcoming Windows 11 Compatibility for Nvidia 7025</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-backward-screen-display-on-windows-11/"><u>Rectifying Backward Screen Display on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-glitch-outbreak-your-game-saving-guidebook/"><u>RTX Glitch Outbreak: Your Game-Saving Guidebook</u></a></li>
+<li><a href="https://techidaily.com/solving-the-issue-of-high-cpu-usage-by-antimalware-service-executable-in-windows-11-and-10/"><u>Solving the Issue of High CPU Usage by Antimalware Service Executable in Windows 11 and 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-of-superior-cable-modems-available/"><u>The Ultimate Selection of Superior Cable Modems Available</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-signal-troubleshooting-for-windows-11-users/"><u>Wi-Fi Signal Troubleshooting for Windows 11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-fix-full-screen-viewing-of-windows-missing/"><u>Windows 10 Fix: Full-Screen Viewing of Windows Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-resolved-armored/"><u>Xbox 360 Emulation Resolved - Armored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-woes-heres-how-to-rectify-them-instantly/"><u>Zoom Camera Woes? Here's How to Rectify Them Instantly</u></a></li>
+</ul></div>

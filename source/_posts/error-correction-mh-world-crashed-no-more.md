@@ -1,7 +1,7 @@
 ---
 title: "Error Correction: MH World Crashed No More"
-date: 2024-07-12T00:58:19.118Z
-updated: 2024-07-13T00:58:19.118Z
+date: 2024-08-27T05:09:23.836Z
+updated: 2024-08-28T05:09:23.836Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Roll back your graphics driver
 
  Some users also report the latest graphics driver to be the culprit of the err 12: graphics card crashed problem. If you’ve recently updated your graphics driver and the problem occurs subsequently, then it’s probable that the up-to-date driver is to blame. So you can roll it back to see if it fixes the issue.
@@ -60,10 +63,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
@@ -93,6 +102,9 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -107,12 +119,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -146,3 +166,39 @@ Here’s how to use Fortect to repair system files on your PC:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-teamsnap-essential-photography-tips/"><u>[New] In 2024, Mastering TeamSnap  Essential Photography Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-sites-for-digital-type-innovation/"><u>[New] Premier Sites for Digital Type Innovation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-titanfall-3-launch-error-xbox-directx/"><u>[RESOLVED] Titanfall 3 Launch Error - Xbox DirectX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-efficient-classroom-documentation-choose-the-best-screen-recorder/"><u>[Updated] 2024 Approved  Efficient Classroom Documentation  Choose the Best Screen Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-learn-to-turn-videos-on-the-fly-using-vlc/"><u>2024 Approved  Learn to Turn Videos on the Fly Using VLC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-iphone-screen-capture-with-simplicity/"><u>2024 Approved  Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieving-flawless-media-streams-after-upgrading-to-win11/"><u>Achieving Flawless Media Streams After Upgrading to Win11</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/final-stroke-on-interoperability-woes/"><u>Final Stroke on Interoperability Woes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/finding-the-ultimate-cam-choice-post-manycam/"><u>Finding the Ultimate Cam Choice Post-ManyCam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-and-fortified-comwins-new-era/"><u>Fixed and Fortified: ComWin's New Era</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-error-partial-window-views-in-w10-monitors/"><u>Fixed Display Error - Partial Window Views in W10 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hybrid-graphic-card-fix-for-windows-11-unveiled/"><u>Hybrid Graphic Card Fix for Windows 11 Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-leveraging-facebook-for-automatic-video-views/"><u>In 2024, Leveraging Facebook for Automatic Video Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/leveraging-w8s-safe-mode-to-revise-and-remove-gpu-drivers/"><u>Leveraging W8's Safe Mode to Revise and Remove GPU Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-lenovo-visual-tremors/"><u>Mitigating Lenovo Visual Tremors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-woes-mh-worlds-graphic-anomaly-vanquished/"><u>No More Woes - MH World's Graphic Anomaly Vanquished</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-gpu-woes-in-win10-resolved/"><u>NVIDIA/Intel Hybrid GPU Woes in Win10 - Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-amd-and-windows-10-successfully-load-detection-driver/"><u>Overcoming Obstacle: AMD and Windows 10 Successfully Load Detection Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-issue-screen-portrays-only-partial-windows-in-w10/"><u>Rectified Issue: Screen Portrays Only Partial Windows in W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-sharing-halt-tv-and-laptop-hdmi-clash/"><u>Screen Sharing Halt: TV and Laptop HDMI Clash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-steps-to-correct-aspect-ratio-on-pc/"><u>Simple Steps to Correct Aspect Ratio on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-sims-4-from-showing-nothing/"><u>Stop Sims 4 From Showing Nothing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/thorough-titan-tuning-achieved/"><u>Thorough Titan Tuning Achieved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/transform-personal-experiences-through-direct-webcam-capture-using-vlc-for-2024/"><u>Transform Personal Experiences Through Direct Webcam Capture Using VLC for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubled-gpus-resolving-windows-minecraft-hangs/"><u>Troubled GPUs: Resolving Windows Minecraft Hangs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tweak-screen-setup-in-upgraded-w11-os/"><u>Tweak Screen Setup in Upgraded W11 OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-secure-your-windows-machine-in-5-simple-steps/"><u>Ultimate Guide: Secure Your Windows Machine in 5 Simple Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unflip-and-correct-display-orientation-error/"><u>Unflip and Correct Display Orientation Error</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-itel-p55plus-by-drfone-android/"><u>Universal Unlock Pattern for Itel P55+</u></a></li>
+</ul></div>
