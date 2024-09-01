@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Elden Ring No Start Error - Windows DX12 Issue"
-date: 2024-07-12T00:55:28.667Z
-updated: 2024-07-13T00:55:28.667Z
+date: 2024-08-31T10:16:52.826Z
+updated: 2024-09-01T10:16:52.826Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/66bf8dac2766c75d064d843a5ce5be7969161220b
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  According to the error message from Halo Infinite, apparently, you need to update the graphics driver to the latest version to meet the requirements.
@@ -65,6 +68,9 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -101,10 +107,24 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -136,6 +156,9 @@ If this fix doesn’t work, move to the next one.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -156,3 +179,56 @@ If this fix doesn’t work, move to the next one.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/display-modification-windows-11-oversized/"><u>[DISPLAY MODIFICATION] Windows 11 Oversized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-no-device-detected-for-wireless-connection-on-pc/"><u>[FIXED] No Device Detected for Wireless Connection on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-qualcomm-atheros-qca61x4a-driver-issues-in-windows-10/"><u>[FIXED] Qualcomm Atheros QCA61x4A Driver Issues in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wireless-network-issues-on-windows-10-pc/"><u>[RESOLVED] Wireless Network Issues on Windows 10 PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revise-advanced-display-not-found-in-win-11/"><u>[Revise] Advanced Display Not Found in Win 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-twitch-black-screen-issues/"><u>[SOLVED] Twitch Black Screen Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>[Updated] A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-offline-android-games-for-uninterrupted-fun/"><u>[Updated] In 2024, Essential Offline Android Games for Uninterrupted Fun</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capture-and-save-the-essentials-of-pc-display-recordings/"><u>2024 Approved  Capture & Save  The Essentials of PC Display Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-spectral-vision-next-gen-drone-review/"><u>2024 Approved  Spectral Vision  Next-Gen Drone Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-screen-asymmetry-on-win11-release/"><u>Addressing Screen Asymmetry on Win11 Release</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ahead-of-the-curve-professional-360-cams-reviewed-2023-edition/"><u>Ahead of the Curve  Professional 360° Cams Reviewed - 2023 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-90-gt-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor 90 GT? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-for-gdrivererr22/"><u>Armored Fix for GDRIVER_ERR22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-back-the-colors-to-lenovo-laptop/"><u>Bringing Back the Colors to Lenovo Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-compatible-amd-freesync-setup/"><u>Correcting Non-Compatible AMD FreeSync Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-correction-of-screen-aspect-ratios/"><u>Effortless Correction of Screen Aspect Ratios</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/elevating-data-protection-with-advanced-pet-solutions-the-abbyy-approach-to-privacy/"><u>Elevating Data Protection with Advanced PET Solutions | The ABBYY Approach to Privacy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-display-configurations-for-nvidia-cards/"><u>Enabling Display Configurations for NVIDIA Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-screens-crystal-clear-interface/"><u>Enhanced Screens: Crystal-Clear Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-black-display-on-win10/"><u>Eradicate Black Display on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-diagonal-line-skew/"><u>Eradicate Diagonal Line Skew</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-faulty-to-functional-display-changes-in-windows-10/"><u>From Faulty to Functional: Display Changes in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-update-exclusive-for-windows-11-users/"><u>GeForce RTX210 Update: Exclusive for Windows 11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-halted-reset-and-resuming-operation/"><u>GPU Halted, Reset and Resuming Operation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-overcome-vertical-line-challenges-in-laptop-screens/"><u>How to Overcome Vertical Line Challenges in Laptop Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-gameplay-boost-your-new-world-performance-and-stop-stuttering/"><u>Improve Gameplay: Boost Your New World Performance and Stop Stuttering</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>In 2024, How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-rapid-playback-in-spotify-safe-practices-revealed/"><u>In 2024, Mastering Rapid Playback in Spotify  Safe Practices Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/larger-prints-same-sharpness-standard-for-2024/"><u>Larger Prints, Same Sharpness Standard for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974372554-no-zoom-resolve-your-zoom-camera-problems-now/"><u>No Zoom? Resolve Your Zoom Camera Problems Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-r9-graphics-drivers-problems-in-windows-10/"><u>Overcoming R9 Graphics Drivers Problems in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-11-compatibility-for-nvidia-7025/"><u>Overcoming Windows 11 Compatibility for Nvidia 7025</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-backward-screen-display-on-windows-11/"><u>Rectifying Backward Screen Display on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-glitch-outbreak-your-game-saving-guidebook/"><u>RTX Glitch Outbreak: Your Game-Saving Guidebook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v27-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo V27 Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-itel-a60-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-bios-functions-and-boosting-performance-using-revouninstaller/"><u>Understanding BIOS Functions and Boosting Performance Using RevoUninstaller</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-signal-troubleshooting-for-windows-11-users/"><u>Wi-Fi Signal Troubleshooting for Windows 11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-fix-full-screen-viewing-of-windows-missing/"><u>Windows 10 Fix: Full-Screen Viewing of Windows Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-fixes-on-ws-21-ws-10-and-older-windows/"><u>Windows Fixes on WS-21, WS-10, and Older Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-resolved-armored/"><u>Xbox 360 Emulation Resolved - Armored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-woes-heres-how-to-rectify-them-instantly/"><u>Zoom Camera Woes? Here's How to Rectify Them Instantly</u></a></li>
+</ul></div>
