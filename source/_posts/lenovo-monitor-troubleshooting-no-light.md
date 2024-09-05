@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Monitor: Troubleshooting No-Light"
-date: 2024-07-12T00:44:23.394Z
-updated: 2024-07-13T00:44:23.394Z
+date: 2024-09-04T12:05:02.997Z
+updated: 2024-09-05T12:05:02.997Z
 tags:
   - win11
   - win10
@@ -37,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Hard reset your Lenovo laptop
 
  Peripheral devices that are connected to your Lenovo laptop could also be the cause of the black screen issue. If this is the case for you, you may notice that the dots are spinning during the boot-up process. So you should perform a hard reset on your Lenovo laptop to narrow down the possibilities.
@@ -79,6 +85,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -101,6 +119,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
@@ -119,6 +143,12 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
@@ -133,6 +163,12 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -145,14 +181,38 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Follow the on-screen instructions to complete the system restore process.
 
  5) Restart your computer to see if the black screen issue has been fixed.
@@ -182,3 +242,46 @@ So you can try disabling fast startup to see if it does the trick:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-re-establishing-online-gameplay-in-cod-cold-war/"><u>[FIXED] Re-Establishing Online Gameplay in CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-re-establishing-offline-and-online-links-in-cod-cold-war/"><u>[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>[New] In 2024, Direct Links  Sharing Twitch Content with Friends on FB</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapping-with-style-a-guide-to-cartoon-faces-in-snapchat-for-2024/"><u>[New] Snapping with Style  A Guide to Cartoon Faces in Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-platform-question-whos-the-best-vimeo-or-youtubeplusdailymotion/"><u>[New] The Ultimate Platform Question  Who's the Best - Vimeo or YouTube+Dailymotion?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gpu-update-panel-unblocked/"><u>[Resolved] GPU Update Panel Unblocked</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-solutions-made-simple-using-ez-grabber/"><u>[Updated] Innovative Solutions Made Simple  Using EZ Grabber</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-turning-horizons-into-heights-uploading-videos-to-igtv/"><u>[Updated] Turning Horizons Into Heights  Uploading Videos to IGTV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>2024 Approved  Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieve-flawless-display-setups-with-win11/"><u>Achieve Flawless Display Setups with Win11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fy-your-videos-value-anywhere-on-multiple-devices-for-2024/"><u>Amplify Your Video's Value Anywhere on Multiple Devices for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-compatibility-barrier-for-nvidia-7025/"><u>Breaking Compatibility Barrier for Nvidia 7025</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-language-models-and-shell-scripting-connecting-chatgpt-with-ubuntu-systems-efficiently/"><u>Bridging Language Models and Shell Scripting: Connecting ChatGPT with Ubuntu Systems Efficiently</u></a></li>
+<li><a href="https://network-issues.techidaily.com/compress-oversized-screen-in-win10/"><u>Compress Oversized Screen in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screens-on-windows-10/"><u>Correcting Upside-Down Screens on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crystal-clear-view-lost-in-darkness/"><u>Crystal Clear View: Lost in Darkness?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-visual-glitches-from-far-cry-6-gameplay/"><u>Eliminating Visual Glitches From Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-performance-windows-plus-new-intellgraphic-driver/"><u>Enhance Performance: Windows + New IntellGraphic Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-computer-specs-for-intel-driver-compatibility/"><u>Enhancing Computer Specs for Intel Driver Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-by-nvidia-windows-halted-problem-solved/"><u>Error by NVidia: Windows Halted, Problem Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-reversed-display-orientation-on-win-11/"><u>Fixing Reversed Display Orientation on Win 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-dell-monitor-flashes-rapidly/"><u>Fixing: Dell Monitor Flashes Rapidly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-c67-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme C67 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/keeping-your-pc-powered-upgrading-intel-drivers-on-windows-7/"><u>Keeping Your PC Powered: Upgrading Intel Drivers on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lost-connection-lost-time/"><u>Lost Connection, Lost Time</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ms-bd-tweak-for-smarter-rendering-on-ws-21-ws-8/"><u>MS BD Tweak for Smarter Rendering on WS-21, WS-8</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-animators-toolkit-essential-software-for-mac-and-pc/"><u>New 2024 Approved The Animators Toolkit Essential Software for Mac and PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precise-adjustment-for-lcd-aspect-ratios/"><u>Precise Adjustment for LCD Aspect Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quash-amd-graphical-faux-pas/"><u>Quash AMD Graphical Faux Pas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974544005-quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-intelnvidia-graphic-mix-up-in-win10-environment/"><u>Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/spartan-written-perfection-pursued/"><u>Spartan' Written: Perfection Pursued</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-clearing-computer-shutdown-screens/"><u>Steps for Clearing Computer Shutdown Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-gameplay-solve-computer-based-civ5-issues/"><u>Streamlining Gameplay: Solve Computer-Based CIV5 Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10s-new-era-smooth-video-and-audio-playback/"><u>Win10's New Era: Smooth Video and Audio Playback</u></a></li>
+</ul></div>

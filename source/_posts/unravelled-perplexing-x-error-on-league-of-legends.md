@@ -1,7 +1,7 @@
 ---
 title: "Unravelled: Perplexing X-Error on League of Legends"
-date: 2024-08-08T04:01:47.820Z
-updated: 2024-08-09T04:01:47.820Z
+date: 2024-09-04T12:05:35.208Z
+updated: 2024-09-05T12:05:35.208Z
 tags:
   - win11
   - win10
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
  If you’re seeing _**An unknown DirectX error has occurred and League of Legends cannot start**_  message, you’re not alone. Many Windows 10 users are reporting about this problem as well. At times, you might see the error instead:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/directx-error.png)
 
  No worries, it’s actually a pretty easy problem to fix. Here is one of the most effective method you can try to fix this problem.
@@ -31,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
   
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af6ef27af2f.png) and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af6ed0167ad.png)
 
  2) Expand**Display adapters** . Double-click your display driver
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/display-adapters-600x357.png)
   
  3) In the**Driver** tab, click **Update Driver…** .  
@@ -57,30 +48,18 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
   
  6) Go to**Config** folder. Delete **game.cfg** and**input** files. The files will be restored in the next steps.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/game-cfg-input-files.jpg)
   
  7) Go back to the League of Legends folder, then go to**RADS** folder. Delete **lol\_game\_client**  folders (You might see two or three of them).
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/lol_game_client-rads-lol.jpg)
 
  8) Open your League of Legends. In the game interface, click the**?** icon on the top right corner.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_581aebafce253.jpg)
   
  9) Click**Repair** .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/repair.jpg)
   
  10) Go to **Device Manager**  again. Right-click your display driver and click **Disable** .
@@ -109,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c9f8ddba67.jpg)
 
 <ins class="adsbygoogle"
@@ -170,3 +146,16 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 <li><a href="https://network-issues.techidaily.com/unraveling-wow-error-code-51900319/"><u>Unraveling WoW Error Code: 51900319</u></a></li>
 <li><a href="https://network-issues.techidaily.com/ways-to-stop-acer-display-twinkle/"><u>Ways to Stop Acer Display Twinkle</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

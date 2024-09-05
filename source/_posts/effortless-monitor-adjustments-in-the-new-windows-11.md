@@ -1,7 +1,7 @@
 ---
 title: Effortless Monitor Adjustments in the New Windows 11
-date: 2024-08-08T04:08:26.472Z
-updated: 2024-08-09T04:08:26.472Z
+date: 2024-09-04T12:05:43.551Z
+updated: 2024-09-05T12:05:43.551Z
 tags:
   - win11
   - win10
@@ -25,25 +25,16 @@ We’ve included two possible solution:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Solution 1: check display settings**
 
  The stretched screen issue can be caused by faulty display settings. Follow the steps below to check the display settings.
 
 1) Right-click the desktop and click **Display settings**  on the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c192b55b7.jpg)
 
  2) Click**Advanced display settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![resolution advanced display settings](https://images.drivereasy.com/wp-content/uploads/2016/08/resolution-advanced-display-settings-600x564.jpg)
 
  3) Be sure the resolution is set at the recommended level. If not, change it to the recommended solution.
@@ -56,9 +47,6 @@ If the problem persists, you can try to update the graphics card driver.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 2: Update the graphics driver**
 
  If steps above doesn’t resolve the problem, try to update the graphics card drivers.
@@ -73,18 +61,12 @@ If the problem persists, you can try to update the graphics card driver.
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-498.png)
 
  3) Click the **Update** button next to the graphics card driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-499.png)
 
  Hope the solutions above help you fix the stretched screen issue in Windows 10\. If you have any questions, please comment below. We’d love to hear of any suggestions. 🙂
@@ -173,3 +155,10 @@ If the problem persists, you can try to update the graphics card driver.
 <li><a href="https://network-issues.techidaily.com/win11-arm-screen-adjustment-no-more-troubles/"><u>Win11: Arm Screen Adjustment No More Troubles</u></a></li>
 <li><a href="https://network-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

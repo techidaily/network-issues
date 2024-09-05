@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Roblox Lagging on PC 2024"
-date: 2024-07-12T00:47:40.177Z
-updated: 2024-07-13T00:47:40.177Z
+date: 2024-09-04T12:01:18.150Z
+updated: 2024-09-05T12:01:18.150Z
 tags:
   - win11
   - win10
@@ -58,20 +58,62 @@ thumbnail: https://thmb.techidaily.com/51ce8e2d4e344c8b82645f25a39faba4287a1c5da
 3. Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
 ![delete temp files to remove edit delay on Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-select-delete.jpg)
 4. If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/PC-delete-temp-files.jpg)
 5. Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 6. Click **Yes** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin-click-yes.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After deleting the temp files, launch Roblox to check if the lag is reduced. If the problem persists, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update your network driver
 
  When your Roblox is lagging, it’s generally a sign of a slow connection. Your outdated network driver can be the culprit and make your game super laggy. To fix it, you need to update your network driver, especially if you can’t remember when you last updated it.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to update the network driver
 
  You can manually update your network driver by going to the manufacturer’s official website to download and install the correct network driver for your system.
@@ -89,6 +131,12 @@ OR
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/de-update-all-network-6.0.jpg)
 4. Restart your computer for the changes to take effect.
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -113,6 +161,12 @@ OR
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -137,20 +191,62 @@ OR
 3. Press**ESC** on your keyboard and on the upper left corner of the screen, you’ll see the**three-line** tab. Just click it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, click**Resume Game** to return to your game.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 7: Delete the textures folder
 
  To speed up Roblox on your computer, you should delete the textures folder. Without textures, the game should run a little bit smoother.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To do so:
 
 1. Press the**Windows logo key** and type**Roblox player** , then**Open file location** .  
@@ -160,10 +256,22 @@ To do so:
 3. Click**PlatformContent** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-45.png)
 4. Click the**PC** folder.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-46.png)
 5. Click the**textures** folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
  After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
@@ -180,6 +288,12 @@ To do so:
 3. You’ll get a scan summary listing all the issues it detects. Click **START REPAIR** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once done, restart your machine and check if it fixes your issue.
 
 ---
@@ -206,3 +320,39 @@ Once done, restart your machine and check if it fixes your issue.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-screen-share-problem-between-laptop-and-tv/"><u>[Fixed] Screen Share Problem Between Laptop & TV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/modified-advanced-display-missing-in-windows-11/"><u>[Modified] Advanced Display Missing in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-immediate-screenshot-on-a-mac/"><u>[New] In 2024, Immediate Screenshot on a MAC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-30plus-futuristic-metaverse-musings-arvr/"><u>[Updated] 2024 Approved  30+ Futuristic Metaverse Musings [AR/VR]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-numbers-game-estimating-income-from-viral-content/"><u>[Updated] 2024 Approved  The Numbers Game  Estimating Income From Viral Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-path-to-pinpointing-your-liked-content-on-facebook/"><u>[Updated] 2024 Approved  The Path to Pinpointing Your Liked Content on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-green-screen-video-magic-must-know-methods/"><u>[Updated] Green Screen Video Magic  Must-Know Methods</u></a></li>
+<li><a href="https://article-posts.techidaily.com/actors-availability-downloadable-content-terms-for-2024/"><u>Actors' Availability  Downloadable Content Terms for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-lenovo-visual-currents/"><u>Addressing Lenovo Visual Currents</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dable-strategies-for-engaging-youtube-opening-and-end-titles-for-2024/"><u>Affordable Strategies for Engaging YouTube Opening & End Titles for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cut-the-price-by-half-uncover-this-secret-promo-and-enjoy-paramountplus-at-just-50/"><u>Cut the Price by Half: Uncover This Secret Promo and Enjoy Paramount+ at Just 50%%!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debugged-the-end-of-winrts-complications/"><u>Debugged: The End of WinRTS Complications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-failure-43-overcome/"><u>Device Failure 43 Overcome</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-hp-pagewide-pro-477dw-driver-downloads-supports-all-versions-of-windows-11-10-and-8/"><u>Easy HP PageWide Pro 477DW Driver Downloads: Supports All Versions of Windows (11, 10 & 8)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-nvidiaintel-switch-failure-a-solution-for-win10-users/"><u>Eliminating NVIDIA/Intel Switch Failure: A Solution for Win10 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-enigmatic-x-failure-in-league-epics/"><u>Explaining Enigmatic X Failure in League Epics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974376087-fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-constant-lag-and-disconnects-for-pc-players-in-warzone-20/"><u>How to Fix Constant Lag and Disconnects for PC Players in Warzone 2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-gone-dark-solutions-await/"><u>Lenovo Gone Dark? Solutions Await</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974868416-lenovo-tap-issue-now-solved/"><u>Lenovo Tap Issue, Now Solved!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-barrier-win10-and-nvidia/"><u>Overcoming Compatibility Barrier: Win10 & Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-phosphor-glitches-in-acer-monitors/"><u>Preventing Phosphor Glitches in Acer Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-your-win11-monitor-quicker/"><u>Stabilize Your Win11 Monitor Quicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-flickering-monitors-in-win7/"><u>Stabilizing Flickering Monitors in Win7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stable-windows-11-display-end-of-screen-twinkle/"><u>Stable Windows 11 Display - End of Screen Twinkle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-prevent-acer-screen-shimmer/"><u>Strategies to Prevent Acer Screen Shimmer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-dimmed-monitor-in-lenovo-pc/"><u>Troubleshooting Dimmed Monitor in Lenovo PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unify-window-border-stability/"><u>Unify Window Border Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974738613-windows-10-cant-change-resolution-solved/"><u>Windows 10 Can't Change Resolution [SOLVED]</u></a></li>
+</ul></div>

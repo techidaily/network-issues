@@ -1,7 +1,7 @@
 ---
 title: Resolving NVIDIA Screen Options Unavailability
-date: 2024-08-08T04:06:53.844Z
-updated: 2024-08-09T04:06:53.844Z
+date: 2024-09-04T12:05:41.740Z
+updated: 2024-09-05T12:05:41.740Z
 tags:
   - win11
   - win10
@@ -16,25 +16,16 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 
 ## Resolving NVIDIA Screen Options Unavailability
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591121a1475ee.jpg)
 
  When you open NVIDIA control panel, if you get error message “NVIDIA Display settings are not available. You are not currently using a display attached to an NVIDIA GPU”, don’t worry. You can use the top 2 methods here to fix the error.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Top Method 1: Plug the monitor into the correct port**
 
  The error may occur if the monitor was plugged into the wrong port. So ensure the monitor is plugged into the correct port.
 
 **Tip:** If you have more than one port, plug the cable to other ports and see if the problem resolves.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Top Method 2: Reinstall the NVIDIA graphics driver**
 
  You can go to NVIDIA’s website to check for and download the latest graphics card driver that you need.
@@ -49,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae5a6993f7f.jpg)
 
  3) Click the **Update** button next to a flagged Nvidia driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
  Here take NVIDIA GeForce GTX 1080 for example. Driver Easy will detect the graphics card driver installed on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae5a7e64fbb.jpg)
 
 Hope the two methods above will help you fix the issue.
@@ -143,3 +128,10 @@ Hope the two methods above will help you fix the issue.
 <li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
 <li><a href="https://network-issues.techidaily.com/windows-10-low-res-issue-now-quickly-resolved/"><u>Windows 10 Low Res Issue - Now Quickly Resolved</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

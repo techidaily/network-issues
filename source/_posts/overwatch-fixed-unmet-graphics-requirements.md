@@ -1,7 +1,7 @@
 ---
 title: "Overwatch: Fixed Unmet Graphics Requirements"
-date: 2024-08-08T04:02:01.673Z
-updated: 2024-08-09T04:02:01.673Z
+date: 2024-09-04T12:05:35.469Z
+updated: 2024-09-05T12:05:35.469Z
 tags:
   - win11
   - win10
@@ -44,30 +44,18 @@ thumbnail: https://thmb.techidaily.com/0eb94f402f1ee7bc7c28262c8a96cc0803ff0569b
 
  4\. Select**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591415094a7c9.png)
 
  5\. Select**Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5914153e7d198.png)
 
  6\. Click**Have Disk…**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591415be533d2.png)
 
  7\. Click**Browse** to find the location of the unzipped driver file. Open the Graphics sub-folder and the .inf will be automatically selected. Then follow the on-screen instructions to complete the install.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591415e0ec12e.png)
 
  If you have difficulty updating drivers manually, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you. Driver Easy can scan your computer to detect all problem drivers. You can **[download the Free version](https://tools.techidaily.com/drivereasy/download/)**  to have a try. If you find it helpful, you can consider upgrading to the Pro version. If you go Pro, you will have higher download speed and can update all drivers with just one-click.
@@ -80,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/0eb94f402f1ee7bc7c28262c8a96cc0803ff0569b
 
  1\. In Device Manager, right-click on the graphics card (the card being used) and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591419bf4c932.png)
 
  2\. Go to **Driver** tab and click**Roll Back Driver** . (Note if the button is grayed out, it means the driver is not updated. You can’t roll back the driver.)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591419da20a4b.png)
 
  3\. Click**Yes** to continue.
@@ -168,3 +150,10 @@ Hope methods here help you fix the error.
 <li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
 <li><a href="https://network-issues.techidaily.com/win10s-new-era-smooth-video-and-audio-playback/"><u>Win10's New Era: Smooth Video and Audio Playback</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

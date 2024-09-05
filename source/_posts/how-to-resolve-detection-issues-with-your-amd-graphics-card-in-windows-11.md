@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Detection Issues with Your AMD Graphics Card in Windows 11
-date: 2024-08-27T05:04:47.844Z
-updated: 2024-08-28T05:04:47.844Z
+date: 2024-09-04T12:05:32.767Z
+updated: 2024-09-05T12:05:32.767Z
 tags:
   - win11
   - win10
@@ -125,5 +125,8 @@ Just have a try now!
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

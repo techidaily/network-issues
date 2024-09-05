@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Disconnecting Woes: CoD Cold War's Offline Issue"
-date: 2024-07-12T00:45:03.008Z
-updated: 2024-07-13T00:45:03.008Z
+date: 2024-09-04T12:03:48.781Z
+updated: 2024-09-05T12:03:48.781Z
 tags:
   - win11
   - win10
@@ -80,6 +80,12 @@ If you are not sure where your game is installed, take these steps:
 2. Click on**GAMES** and head to**Call of Duty: BOCW** . Click on**Options > Show in Explorer** . Then you’ll be brought to your game’s installation directory.  
 ![call of duty black ops cold war installation directory](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator.jpg)
 3. Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** . Right-click it and select**Properties** .
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
 
@@ -88,8 +94,26 @@ If you are not sure where your game is installed, take these steps:
 1. Exit your launcher.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then it’ll launch in admin mode.
 
 ---
@@ -132,6 +156,12 @@ To see if a new DNS address helps, you can follow the instructions below:
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -139,14 +169,38 @@ To see if a new DNS address helps, you can follow the instructions below:
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -154,6 +208,12 @@ To see if a new DNS address helps, you can follow the instructions below:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  See if COD Cold War’s can’t connect to server error remains. If so, please move on.
 
 ---
@@ -166,12 +226,36 @@ To see if a new DNS address helps, you can follow the instructions below:
 2. In the top right, click**LOGIN** .  
 ![link activision account](https://images.drivereasy.com/wp-content/uploads/2020/11/LOGIN-activision-account.jpg)
 3. Then you’ll be redirected to the login page. Now simply enter your details.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Once you’re logged in, click**PROFILE** in the top right.  
 ![activision profile](https://images.drivereasy.com/wp-content/uploads/2020/11/activision-profile.jpg)
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you’ve done these, launch your game and check if you can connect to online services.
 
  Still no luck? Then give VPNs a try. A trustworthy VPN can decrease your ping and thus provide you with a smoother and more enjoyable gaming experience. And by connecting a VPN server to the remote game server, you’re able to avoid bandwidth throttling. But be advised: lots of problems may arise if you use a free VPN. Therefore, to secure your network and maximize your gaming experience, we suggest you use a paid VPN.
@@ -204,3 +288,65 @@ Below is the VPN we would like to recommend:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-visual-rendering-unit-back-online/"><u>[Fixed]: Visual Rendering Unit Back Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effective-youtube-banners-pros-and-cons-to-avoid/"><u>[New] 2024 Approved  Effective YouTube Banners  Pros and Cons to Avoid</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-discover-the-best-10-audio-capturing-software-on-spotify/"><u>[New] In 2024, Discover the Best 10 Audio Capturing Software on Spotify</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mirthful-melodies-where-to-find-hilarious-tunes/"><u>[New] Mirthful Melodies  Where to Find Hilarious Tunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nighttime-novelties-with-vocalists-recommended-guide/"><u>[New] Nighttime Novelties with Vocalists  Recommended Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-pubg-mobile-launch-fail-windows-directx-issue/"><u>[RESOLVED] PUBG Mobile Launch Fail - Windows DirectX Issue</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>[Updated] 2024 Approved  The Peak of Primes  Amazon’s Hot Tweets & Shows, '23</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[Updated] Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-through-an-absent-obs-camera-input-for-2024/"><u>[Updated] Navigating Through an Absent OBS Camera Input for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imagery-inspiration-skillful-grading-techniques/"><u>2024 Approved  Imagery Inspiration  Skillful Grading Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pros-choice-top-15-luts-for-excellent-gopro-videos/"><u>2024 Approved  Pro's Choice  Top 15 LUTs For Excellent GoPro Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>2024 Approved  Professional Edge  Adding Letterbox Frame to Your FB Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-distortion-in-far-cry-6-game-graphics/"><u>Addressing Distortion in Far Cry 6 Game Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-graphics-snag-with-amd-fixes/"><u>Bypass Graphics Snag with AMD Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-problem-code-43-resolved/"><u>Card Problem Code 43 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-brightness-spike/"><u>Correcting Windows Brightness Spike</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-compelling-proposals-efficiently-using-chatgpt-a-step-by-step-guide/"><u>Crafting Compelling Proposals Efficiently Using ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defeating-win11-blank-screen-anomaly/"><u>Defeating WIN11 Blank Screen Anomaly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discovered-nvidia-graphics-chip-vanishing-from-system-hub/"><u>Discovered: NVIDIA Graphics Chip Vanishing From System Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-epson-wf-2630-drivers-on-windows-systems-71081/"><u>Easy Guide to Downloading and Installing Epson WF-2630 Drivers on Windows Systems (7/10/8.1)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-windows-10-screen-phantasm/"><u>Eradicating Windows 10 Screen Phantasm</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-acting-fix-gpu-anomaly-cleared/"><u>Fast-Acting Fix: GPU Anomaly Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-11-windows-monitor-missing-full-screen/"><u>Fix: 11 Windows Monitor Missing Full Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-210-drivers-boosting-gaming-on-win10-platform/"><u>GeForce 210 Drivers: Boosting Gaming on WIN10 Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-14-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 14 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-open-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus Open Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premium-planet-friendly-recording-software/"><u>In 2024, Premium, Planet-Friendly Recording Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-play-8t-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Play 8T</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-interface-after-driver-rollout/"><u>Invisible Interface After Driver Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-pixels-graphic-device-missing/"><u>Invisible Pixels: Graphic Device Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/manage-display-settings-in-windows-11/"><u>Manage Display Settings in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-androids-voice-assistant-steps-for-getting-a-chatbot-like-chatgpt-using-voicegpt-app/"><u>Mastering Android's Voice Assistant: Steps for Getting a Chatbot Like ChatGPT Using VoiceGPT App</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-cloud-storage-a-guide-to-using-dropbox-seamlessly-with-your-kindle-fire/"><u>Mastering Cloud Storage: A Guide to Using Dropbox Seamlessly with Your Kindle Fire</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastery-in-addressing-youtubes-green-screen-discrepancies/"><u>Mastery in Addressing Youtube's Green Screen Discrepancies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/moviemeld-editor-review-in-depth-analysis/"><u>MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-driver-conflict-on-newer-windows-version/"><u>Overcoming Driver Conflict on Newer Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-fix-approach-non-operating-display-nvidia/"><u>Plain Fix Approach: Non-Operating Display, NVIDIA</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-14-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi 14, is it possible?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/post-update-streaming-fixes-in-newest-windows-version/"><u>Post-Update Streaming Fixes in Newest Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/putting-an-end-to-windows-screen-glimmer/"><u>Putting an End to Windows Screen Glimmer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/retro-reimagined-unboxing-and-evaluating-the-legendary-super-mario-bros-on-the-classic-handheld-device/"><u>Retro Reimagined: Unboxing and Evaluating the Legendary Super Mario Bros. On the Classic Handheld Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/roblox-optimization-for-smooth-computer-gaming/"><u>Roblox Optimization for Smooth Computer Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-lenovo-screen-twinkle-fixing/"><u>Solutions for Lenovo Screen Twinkle Fixing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-lenovo-monitor-insufficient-brightness/"><u>Solving Lenovo Monitor Insufficient Brightness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-mirror-screen-problem-in-windows-11/"><u>Solving Mirror Screen Problem in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/soothing-screenscape-shivers-in-pro-7/"><u>Soothing Screenscape Shivers in Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visual-preferences/"><u>Successful Saving of Visual Preferences</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-90-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor 90 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-the-potential-amd-hd-6950-update-v20-on-windows-10/"><u>Unleashing the Potential: AMD HD 6950 Update v2.0 on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-elusive-stream-problems/"><u>Unlocking Elusive Stream Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-a-deep-dive-into-linksyss-wrt1900acs-wi-fi-router-reviewed/"><u>Unveiling the Capabilities: A Deep Dive Into Linksys's WRT1900ACS Wi-Fi Router Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974563155-upgrade-intel-graphics-3000-to-enhance-your-visual-experience-on-w10-seamlessly/"><u>Upgrade Intel Graphics 3000 to Enhance Your Visual Experience on W10 Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-resolution-adjustment-made/"><u>Win11 Screen Resolution Adjustment Made</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-advanced-settings-not-visible/"><u>Windows 11 Advanced Settings Not Visible</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-eliminate-fuzzy-visuals/"><u>Windows: Eliminate Fuzzy Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-issues-troubleshooting-for-flawless-zoom-cams/"><u>Zoom Issues: Troubleshooting for Flawless Zoom Cams</u></a></li>
+</ul></div>

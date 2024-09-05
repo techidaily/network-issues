@@ -1,7 +1,7 @@
 ---
 title: No Visibility Post Card Update
-date: 2024-07-12T00:48:10.268Z
-updated: 2024-07-13T00:48:10.268Z
+date: 2024-09-04T12:00:10.993Z
+updated: 2024-09-05T12:00:10.993Z
 tags:
   - win11
   - win10
@@ -93,6 +93,18 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -103,6 +115,12 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Here are the things you should pay extra attention to:
 
 1. If the graphics card is fake, the name shown here should be marked with a \[FAKE\] symbol. So the no display issue with the new graphics card should be with the card itself.
@@ -124,17 +142,53 @@ Here are the things you should pay extra attention to:
 1. Click the **Windows start menu** and type **msconfig** , then click **Open** :  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -170,3 +224,51 @@ Here are the things you should pay extra attention to:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-battlefield-badlands-xbox-compatibility-woes/"><u>[FIXED] Battlefield: Badlands - Xbox Compatibility Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-speed-demons-win-10-and-11-internet-takedown/"><u>[SOLVED] Speed Demons: WIN 10 & 11 Internet Takedown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-unnoticed-to-noteworthy-building-a-viral-fb-presence/"><u>[Updated] 2024 Approved  From Unnoticed to Noteworthy  Building a Viral FB Presence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-photographers-toolkit-top-text-editors-for-images/"><u>[Updated] 2024 Approved  The Photographer's Toolkit  Top Text Editors for Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harvest-high-quality-pics-the-free-edition-guide/"><u>[Updated] Harvest High-Quality Pics  The Free Edition Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-zero-5g-2023-turbo-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Zero 5G 2023 Turbo without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-large-desktop-screens-on-win10/"><u>Adjusting Large Desktop Screens on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-screen-geometry-with-precision/"><u>Adjusting Screen Geometry with Precision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-10-resolution-no-more-frustrating/"><u>Adjusting Windows 10 Resolution No More Frustrating</u></a></li>
+<li><a href="https://network-issues.techidaily.com/anomaly-elimination-the-obscure-x-mistake-in-league/"><u>Anomaly Elimination: The Obscure X Mistake in League</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-backlit-display-blinks/"><u>Banish Backlit Display Blinks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-data-moving-applications-in-202-detailed-analytical-review/"><u>Best Data Moving Applications in 202# - Detailed Analytical Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blue-screen-on-windows-solved-by-dxgkrnlsys-fix/"><u>Blue Screen on Windows Solved by dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/build-high-impact-facebook-ad-videos-free-creation-kit-provides-tools/"><u>Build High-Impact Facebook Ad Videos - FREE Creation Kit Provides Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-screen-shutdown-in-fall-update/"><u>Clearing Screen Shutdown in Fall Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrease-roblox-latency-on-windows/"><u>Decrease Roblox Latency on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-steps-for-disabling-windows-graphics/"><u>Easy Steps for Disabling Windows Graphics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-defend-personal-data-against-predictable-hacks/"><u>Effective Strategies to Defend Personal Data Against Predictable Hacks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-r9-driver-glitches-on-windows-10/"><u>Eliminating R9 Driver Glitches on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-win11-shadow-displacement/"><u>Eliminating Win11 Shadow Displacement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-error-alert-win-stops-due-to-nvidia-issue/"><u>Fixed Error Alert - Win Stops Due to NVIDIA Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-checkout-successful-on-nvidia-installer/"><u>Hardware Checkout Successful on NVIDIA Installer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-narzo-n55-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme Narzo N55 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-smoothly-update-intel-graphics-using-windows-tools/"><u>How to Smoothly Update Intel Graphics Using Windows Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-screen-sharpness-solution/"><u>Immediate Screen Sharpness Solution</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-5-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic 5 Prowith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-xcover-7-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy XCover 7 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-sideways-solved/"><u>Laptop Screen Sideways [SOLVED]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/launch-your-live-stream-a-comprehensive-beginners-manual/"><u>Launch Your Live Stream  A Comprehensive Beginner's Manual</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightening-up-blacked-out-screen-win10/"><u>Lightening Up Blacked Out Screen Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-card-camouflage-unveiled-system-hub-solution/"><u>NVIDIA Card Camouflage Unveiled - System Hub Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-stability-restored-post-error/"><u>Nvidia Driver Stability Restored Post-Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-failure-rectified-system-running-smoothly/"><u>Nvidia Failure Rectified, System Running Smoothly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-procedure-disconnected-gpu-with-nvidia/"><u>Quick Fix Procedure: Disconnected GPU with NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstated-corrected-window-graphics-link/"><u>Reinstated Corrected Window Graphics Link</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-invisible-card-errors/"><u>Resolve Invisible Card Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-msdn-error-with-nvidia-graphics-card-hiding/"><u>Resolved: MSDN Error with NVIDIA Graphics Card Hiding</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revelation-hidden-graphics-card-now-found-in-device-manager/"><u>Revelation: Hidden Graphics Card, Now Found in Device Manager</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-silence-diagnosing-darkness/"><u>Screen Silence: Diagnosing Darkness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-non-detected-gpu-on-your-pc/"><u>Solutions for Non-Detected GPU on Your PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-backlight-flickering-in-displays/"><u>Stopping Backlight Flickering in Displays</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-preferred-mac-snipping-apps/"><u>The Ultimate List of Preferred Mac Snipping Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-anomaly-cleared/"><u>Win11 Display Anomaly Cleared</u></a></li>
+</ul></div>

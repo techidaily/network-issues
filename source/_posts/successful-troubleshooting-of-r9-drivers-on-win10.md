@@ -1,7 +1,7 @@
 ---
 title: Successful Troubleshooting of R9 Drivers on Win10
-date: 2024-08-08T04:08:10.788Z
-updated: 2024-08-09T04:08:10.788Z
+date: 2024-09-04T12:05:43.278Z
+updated: 2024-09-05T12:05:43.278Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ Before we proceed with the following resolutions, please make sure that you have
   
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Run as administrator)** .
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586482f8af0b5.png)
   
  When prompted with administrator permission, press**Yes** to continue.
@@ -69,25 +66,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Run as administrator)** .
   
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586482f8af0b5.png)
   
  When prompted with administrator permission, press**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
 2) In the command prompt window, type in command:**SFC /SCANNOW**. Make sure that you have made no typo and hit**Enter**.
@@ -102,16 +84,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 1) Follow the path:**Start**button**\> Control Panel > Uninstall a program**(View by**Category**).  
   
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e5733e51.jpg)
 
 2) If you are with AMD processors, select**Catalyst Control Center**and choose**Uninstall**.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648f8f4dd21.jpg)
   
  If you are with Intel processors, select to uninstall **ALL** AMD software that you can see in this window.  
@@ -122,9 +98,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 4) Locate**Display adapters**category, then double click the**AMD Radeon R9**series of display driver that you have.
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9af8c728.jpg)
 
 5) Under**Driver**tab, choose**Uninstall**.
@@ -133,18 +106,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  Tick the box for**Delete the driver software for this device** option and click**OK** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ab747efcd.png)
 
  6) Reboot your PC.
   
  7) Then**download** the AMD Clean Uninstall Utility from its support website. Then double click the**AMDCleanUtility.exe** icon to run the application.  
   
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ac776f616.png)
   
  Then just follow the instructions on screen to get all your AMD driver and application components removed.  
@@ -157,9 +124,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
  8) When your computer restart again, download the latest version of the AMD Radeon R9 series driver from AMD website and then install it manually.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864b2625647d.png)
 
  If you want to save yourself more time and energy for other things, you can leave your driver problems to [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It automatically help you detects, downloads and updates device drivers that are missing or outdated on your computer. And, there are only two steps you take to do it:
@@ -237,3 +201,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 <li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
 <li><a href="https://network-issues.techidaily.com/windows-10-rectifying-backward-screen-orientation/"><u>Windows 10: Rectifying Backward Screen Orientation</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

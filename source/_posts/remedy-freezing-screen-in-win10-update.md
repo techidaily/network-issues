@@ -1,7 +1,7 @@
 ---
 title: Remedy Freezing Screen in Win10 Update
-date: 2024-07-12T00:47:30.265Z
-updated: 2024-07-13T00:47:30.265Z
+date: 2024-09-04T12:01:06.963Z
+updated: 2024-09-05T12:01:06.963Z
 tags:
   - win11
   - win10
@@ -63,6 +63,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -73,6 +79,12 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -91,16 +103,46 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -116,12 +158,24 @@ If you’re on a laptop:
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Log in using a different user account
 
  The black screen problem can also be caused by corrupted Windows user profile. If you can log in to Windows with a different user account, and use it without any problems, a corrupted user profile may be the cause. You can then replace the folder of the corrupted user profile with the folder of the working user profile. Here’s how:
@@ -152,6 +206,18 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
@@ -172,6 +238,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
@@ -192,6 +264,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
@@ -222,3 +300,48 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[New] 2024 Approved  The Ultimate Pathway for Storytellers  Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-balancing-creativity-and-monetization-in-youtube-shorts-for-2024/"><u>[Updated] Balancing Creativity and Monetization in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-clarity-top-10-photo-lens-selections/"><u>[Updated] Capture Clarity  Top 10 Photo Lens Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mac-audio-sync-for-screen-captures/"><u>[Updated] In 2024, Mac Audio Sync for Screen Captures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer/"><u>[Updated] Masterful Motion  Secrets From a Pro Canon Time-Lapse Viewer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-photographers-list-of-top-10-lenses/"><u>[Updated] The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-hero5-black-showdown-with-hero4-silver/"><u>2024 Approved  GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-natures-set-pieces-a-collection-of-easy-to-download-templates-for-pros-and-beginners/"><u>2024 Approved  Nature's Set Pieces  A Collection of Easy-to-Download Templates for Pros & Beginners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-riding-the-wave-of-solitary-podcast-popularity/"><u>2024 Approved  Riding the Wave of Solitary Podcast Popularity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-step-by-step-guide-to-eliminate-yt-green-issues/"><u>A Step-by-Step Guide to Eliminate YT Green Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/basic-driver-tweaks-ms-win-versions-1087-update/"><u>Basic Driver Tweaks: MS Win Versions 10/8/7 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blending-windows-10-with-nvidia-performance/"><u>Blending Windows 10 with NVIDIA Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/connectivity-troubles-wi-fi-fails/"><u>Connectivity Troubles: Wi-Fi Fails</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-backside-image-problem-on-windows-7/"><u>Correcting Backside Image Problem on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deactivating-incessant-led-glare/"><u>Deactivating Incessant LED Glare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/detection-hiccup-for-amd-on-win10-now-working-smoothly/"><u>Detection Hiccup for AMD on Win10, Now Working Smoothly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispel-vanishing-graphics-failure/"><u>Dispel Vanishing Graphics Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-config-updated-post-save-fix/"><u>Display Config Updated Post-Save Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diy-solutions-to-youtube-green-screen-anomalies/"><u>DIY Solutions to YouTube Green Screen Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-uninstall-method-for-graphics-drivers-on-windows/"><u>Efficient Uninstall Method for Graphics Drivers on WIndows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-gaming-experience-by-fixing-civ-5-glitches/"><u>Enhance Gaming Experience by Fixing Civ 5 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-guide-to-upgrade-your-computers-wireless-connection/"><u>Essential Guide to Upgrade Your Computer's Wireless Connection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixing-the-pixel-6-pro-resolving-screen-flicker-issues-soon/"><u>Fixing the Pixel 6 Pro: Resolving Screen Flicker Issues Soon</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock HTC U23 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-taskbar-date-and-clock-adjustments/"><u>Master Taskbar Date & Clock Adjustments</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-radeon-r9-drivers-for-new-windows-11/"><u>Navigating Radeon R9 Drivers for New Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-induced-win-stop-issue-successfully-resolved/"><u>NVidia-Induced Win Stop: Issue Successfully Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-challenge-when-installing-windows-11/"><u>Overcoming C1900101 Challenge When Installing Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-fix-for-atheros-network-errors/"><u>Qualcomm's Win11 Fix for Atheros Network Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-ripples-on-windows-7-screens/"><u>Remedying Ripples on Windows 7 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-screen-gaps-during-play/"><u>Resolve Screen Gaps During Play</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revamp-your-internet-speed-by-flushing-the-dns-cache-on-windows-operating-systems/"><u>Revamp Your Internet Speed by Flushing the DNS Cache on Windows Operating Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalizing-zoom-a-step-by-step-fix-guide/"><u>Revitalizing Zoom: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781896-seamlessly-update-intels-graphic-driver-for-windows-11/"><u>Seamlessly Update Intel's Graphic Driver for Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-your-hp-officejet-4500-printer-driver/"><u>Step-by-Step Guide to Downloading Your HP OfficeJet 4500 Printer Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/suppressing-visual-vexations-on-surface-pro-7/"><u>Suppressing Visual Vexations on Surface Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-insufficient-light-on-lenovo-pc/"><u>Troubleshooting Insufficient Light on Lenovo PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-graphics-drivers-geforce-rtx210-and-windows-11-now/"><u>Upgraded Graphics Drivers - GeForce RTX210 & Windows 11 Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
+</ul></div>

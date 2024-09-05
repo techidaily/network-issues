@@ -1,7 +1,7 @@
 ---
 title: Ensure Static Screens in Windows 11 Settings
-date: 2024-08-08T04:05:48.916Z
-updated: 2024-08-09T04:05:48.916Z
+date: 2024-09-04T12:05:40.416Z
+updated: 2024-09-05T12:05:40.416Z
 tags:
   - win11
   - win10
@@ -25,32 +25,20 @@ We’ve included two possible solution:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 1: check display settings**
 
  The stretched screen issue can be caused by faulty display settings. Follow the steps below to check the display settings.
 
 1) Right-click the desktop and click **Display settings**  on the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c192b55b7.jpg)
 
  2) Click**Advanced display settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resolution advanced display settings](https://images.drivereasy.com/wp-content/uploads/2016/08/resolution-advanced-display-settings-600x564.jpg)
 
  3) Be sure the resolution is set at the recommended level. If not, change it to the recommended solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![recommended resolution windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/recommended-resolution-windows-10-1-600x561.jpg)
 
 4) Reboot your PC and check to see if the problem is resolved.
@@ -59,9 +47,6 @@ If the problem persists, you can try to update the graphics card driver.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## **Solution 2: Update the graphics driver**
 
  If steps above doesn’t resolve the problem, try to update the graphics card drivers.
@@ -76,9 +61,6 @@ If the problem persists, you can try to update the graphics card driver.
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-498.png)
 
  3) Click the **Update** button next to the graphics card driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -158,3 +140,10 @@ If the problem persists, you can try to update the graphics card driver.
 <li><a href="https://network-issues.techidaily.com/win10-update-navigating-and-fixing-video-glitches/"><u>Win10 Update: Navigating and Fixing Video Glitches</u></a></li>
 <li><a href="https://network-issues.techidaily.com/wireless-adapter-vanished-in-windows-10-how-to-recover/"><u>Wireless Adapter Vanished in Windows 10, How to Recover?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

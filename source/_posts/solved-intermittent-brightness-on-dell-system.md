@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Intermittent Brightness on Dell System"
-date: 2024-07-12T00:44:33.754Z
-updated: 2024-07-13T00:44:33.754Z
+date: 2024-09-04T12:05:16.985Z
+updated: 2024-09-05T12:05:16.985Z
 tags:
   - win11
   - win10
@@ -64,6 +64,12 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 2. In **Resolution** , click the drop-down menu and make sure **the recommended resolution**   is selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 3. Keep track of your laptop screen and see if it displays properly this time. Still no joy? Please move on to**Fix 4** .
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
 
@@ -75,6 +81,12 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -93,6 +105,18 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -106,17 +130,53 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 1. On your keyboard, press **the**    **Windows logo key**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  
  and **R**  at the same time. Then type**services.msc** into the box and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a691fe0c.png)
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
 3. Double-click on **Desktop Window Manager Session Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b9fbc86c.jpg)
 4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
 5. Restart your computer and hopefully your laptop screen displays normally again.
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Update or delete incompatible apps
 
  Incompatible apps can also interfere with your Windows system and cause you this annoying screen flashing problem.
@@ -152,3 +212,50 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-utilizing-your-twitter-archive/"><u>[New] 2024 Approved  Step-by-Step  Utilizing Your Twitter Archive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-how-to-fix-lag-and-high-ping-in-valorant/"><u>[SOLVED] How to Fix Lag and High Ping in Valorant</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-unable-to-initialize-graphics-system/"><u>[SOLVED] Unable to Initialize Graphics System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-zoom-unstable-internet-connection/"><u>[SOLVED] Zoom Unstable Internet Connection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-organizing-your-skype-conversations-windowsmac-edition/"><u>[Updated] Organizing Your Skype Conversations  Windows/Mac Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aesthetic-adjustments-after-effects-titles-for-2024/"><u>Aesthetic Adjustments  After Effects Titles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customizing-your-windows-10-experience-a-step-by-step-guide-to-changing-the-taskbar-color/"><u>Customizing Your Windows 10 Experience: A Step-by-Step Guide to Changing the Taskbar Color</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-guide-repairing-non-functional-ethernet-adapters-on-win10-and-win7-systems/"><u>Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-screencasting-techniques-systematic-guidebook-for-2024/"><u>Easy Screencasting Techniques  Systematic Guidebook for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-the-wdf-violation-critical-stop-error-in-windows-11-10-8-and/"><u>How to Fix the 'WDF Violation' Critical Stop Error in Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-your-acer-computers-wi-fi-network-problems-easily/"><u>How to Fix Your Acer Computer's Wi-Fi Network Problems Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resolve-video-unavailable-on-youtube-step-by-step-guide/"><u>How to Resolve 'Video Unavailable on YouTube': Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resolve-detection-issues-with-your-amd-graphics-card-in-windows-11/"><u>How to Resolve Detection Issues with Your AMD Graphics Card in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-restore-wifi-access-on-your-acer-laptop-comprehensive-guide-for-a-permanent-solution/"><u>How to Restore WiFi Access on Your Acer Laptop - Comprehensive Guide for a Permanent Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resuscitate-an-inactive-instagram-account-a-comprehensive-guide/"><u>How to Resuscitate an Inactive Instagram Account: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-troubleshoot-and-fix-the-black-screen-problem-in-windows-10-following-a-system-upgrade/"><u>How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-microphone-data-review-tips/"><u>In 2024, Microphone Data Review Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-frames-per-second-fps-experts-guide-with-6-key-techniques/"><u>Maximize Frames Per Second (FPS): Expert's Guide with 6 Key Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-code-43-failure-for-nvidia-geforce-gtx-950-on-windows-11-systems-solutions-proven-effective/"><u>Overcoming 'Code 43' Failure for NVIDIA GeForce GTX 950 on Windows 11 Systems - Solutions Proven Effective</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-challenge-of-a-shaky-internet-during-video-calls-on-zoom-now-solved/"><u>Overcoming the Challenge of a Shaky Internet During Video Calls on Zoom - Now Solved!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/peek-into-past-posts-panel/"><u>Peek Into Past Posts Panel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-guide-eliminating-excessive-latency-for-smoother-gameplay-on-fortnite/"><u>Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reply/"><u>Reply</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvstreamuseraagentexe-crashes-fixed-on-windows-systems/"><u>Resolved: NVSTREAMUSERA_AGENT.EXE Crashes Fixed on Windows Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-detection-issues-with-your-amd-graphics-card-on-a-windows-10-pc/"><u>Resolving Detection Issues with Your AMD Graphics Card on a Windows 10 PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-step-by-step-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-the-gtx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-found-fixing-graphics-system-setup-errors-on-your-pc-or-laptop/"><u>Solution Found: Fixing Graphics System Setup Errors on Your PC or Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-your-youtube-troubles-fix-errors-when-videos-wont-play/"><u>Solve Your YouTube Troubles - Fix Errors When Videos Won't Play</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-solution-for-unresponsive-ethernet-networks-on-windows-117-devices/"><u>Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-solutions-to-restore-your-pcs-display-following-a-windows-10-update-malfunction/"><u>Step-by-Step Solutions to Restore Your PC's Display Following a Windows 10 Update Malfunction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-solve-high-ping-issues-enhance-your-valorant-performance-now/"><u>Steps to Solve High Ping Issues - Enhance Your Valorant Performance Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successfully-resolving-acer-laptop-wi-fi-connection-issues/"><u>Successfully Resolving Acer Laptop Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tips-resolving-safari-live-stream-pauses/"><u>Top Tips  Resolving Safari Live-Stream Pauses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-complete-guide-eliminating-lag-and-lowering-ping-for-an-optimal-valorant-experience/"><u>Troubleshooting Complete Guide: Eliminating Lag and Lowering Ping for an Optimal VALORANT Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-guide-how-to-fix-amd-graphics-card-unrecognized-in-windows-10/"><u>Troubleshooting Guide: How to Fix 'AMD Graphics Card Unrecognized' In Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-guide-resolving-ethernet-connection-problems-in-windows-11-and-windows-7/"><u>Troubleshooting Guide: Resolving Ethernet Connection Problems in Windows 11 and Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-responsive-youtube-videos-effective-solutions-for-smooth-playback/"><u>Troubleshooting Non-Responsive YouTube Videos: Effective Solutions for Smooth Playback</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-your-acer-device-fixing-wifi-connection-issues-successfully/"><u>Troubleshooting Your Acer Device: Fixing WiFi Connection Issues Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ultimate-guide-resolving-flicker-issues-on-your-asus-notebook-display/"><u>Ultimate Guide: Resolving Flicker Issues on Your Asus Notebook Display</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-x100-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo X100 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-gtx-950-code-43-troubleshooting-guide-successfully-resolved/"><u>Windows 11 GTX 950 'Code 43' Troubleshooting Guide: Successfully Resolved</u></a></li>
+</ul></div>
