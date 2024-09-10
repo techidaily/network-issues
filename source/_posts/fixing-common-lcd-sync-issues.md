@@ -1,7 +1,7 @@
 ---
 title: Fixing Common LCD Sync Issues
-date: 2024-07-12T00:40:38.242Z
-updated: 2024-07-13T00:40:38.242Z
+date: 2024-09-09T02:27:35.033Z
+updated: 2024-09-10T02:27:35.033Z
 tags:
   - win11
   - win10
@@ -29,6 +29,12 @@ You don’t have to try them all; just work your way down the list until you fin
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Check your screen refresh rate
 
 Your monitor flickering issue may occur if you’re using a low refresh rate for your monitor. You should check your screen refresh rate and make sure you’re using one that’s over 60 Hz. Here’s how you can do it
@@ -36,12 +42,24 @@ Your monitor flickering issue may occur if you’re using a low refresh rate for
 1. Right-click an empty area of your desktop and click**Display settings** . (If you’re on**Windows 7 or 8** , click**Screen resolution**)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e6da1b231b.jpg)
 2. Click**Advanced display settings** (or**Advanced settings** if you’re on**Windows 7/8**).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e704e6a599.jpg)
 3. If you’re on**Windows 10** , click the**Display adapter properties** for your monitor. (Skip this step if you’re using another Windows system.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e7085d412e.jpg)
 4. Select the**Monitor** tab, then select a screen refresh rate that equals or is higher than**60 Hertz** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e71d39685f.jpg)
 5. Click**OK** .
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hopefully, this fixes your monitor flickering issue. But if not, there are three more fixes you can try…
 
 ### Method 2: Update your graphics driver
@@ -53,8 +71,20 @@ The flickering issues may occur because you’re using a wrong graphics driver o
 3. Click the **Update**  button next to your graphics adapter to download the latest and correct drivers for them, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e74fc5c7b0.jpg)  
  You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Perform a clean boot
 
 Your screen may be flickering because of interference from the programs on your computer. To see if that’s the case for you, try performing a clean boot on your Windows system.
@@ -67,20 +97,62 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST**) and click**Disable all** . After that, click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click**OK** .
 7. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Check to see if you are having any flickering issue. If no, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox**) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 12. Check to see if your flickering issue occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
  If there’s any service that causes your monitor flickering issues, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if your flickering issue occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If there’s any startup item that causes the flickering issue, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
 ### Method 4: Check for hardware issues
@@ -108,3 +180,44 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-applied-nvidia-screen-fixed-running-smoothly/"><u>[Fix Applied] Nvidia Screen Fixed, Running Smoothly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-download-your-instagram-masterpieces-easily/"><u>[New] Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astery-in-mapping-out-your-youtube-audience/"><u>[New] Mastery in Mapping Out Your YouTube Audience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-view-count-rewards-on-youtube-per-million/"><u>[New] View Count Rewards on YouTube – Per Million?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-leveraging-imovie-content-on-the-vimeo-network/"><u>[Updated] Leveraging iMovie Content on the Vimeo Network</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-blueprint-to-compiling-youtube-soundscape-for-2024/"><u>[Updated] The Essential Blueprint to Compiling YouTube Soundscape for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-chortle-creator-suite/"><u>2024 Approved Chortle Creator Suite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-operating-system-and-gpu-properly/"><u>Aligning Operating System and GPU Properly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-m4-chip-arrives-discover-release-date-and-in-depth-performance-details/"><u>Apple M4 Chip Arrives! Discover Release Date and In-Depth Performance Details</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-lags-to-victory/"><u>Banish Lags to Victory</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beating-wow-bug-519-a-guide/"><u>Beating WOW Bug 519: A Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakdown-of-essential-video-effects-in-tiktok-editing/"><u>Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-minimum-requirement-hurdles-with-upgrades/"><u>Bypassing Minimum Requirement Hurdles with Upgrades</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-resolution-for-high-end-monitors-win10/"><u>Correct Resolution for High-End Monitors - Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-default-display-saving-failures-in-windows/"><u>Correcting Default Display Saving Failures in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-7-mirror-discrepancy/"><u>Correcting Windows 7 Mirror Discrepancy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deactivating-persistent-crt-glitches/"><u>Deactivating Persistent CRT Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-mismatch-na-in-graphics/"><u>Display Mismatch: N/A in Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-windows-blue-screen-fixed/"><u>dxgkrnl.sys: Windows Blue Screen Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-arcane-the-mystery-disappeared-from-lols-x-factor/"><u>Explaining the Arcane: The Mystery Disappeared From LoL's X-Factor</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-brilliance-of-huawei-p20-pro-a-balanced-blend-of-fantastic-camera-and-solid-performance/"><u>Exploring the Brilliance of Huawei P20 Pro: A Balanced Blend of Fantastic Camera and Solid Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-f54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy F54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y200e-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y200e 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/issue-overcome-windows-10s-screen-shows-only-fractional-windows/"><u>Issue Overcome - Windows 10'S Screen Shows Only Fractional Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimize-windows-10-resolution-highs/"><u>Minimize Windows 10 Resolution Highs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-bingchatgpt-scam-tokens-strategies-for-investor-protection/"><u>Navigating Through BingChatGPT Scam Tokens - Strategies for Investor Protection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pivotal-points-in-adopting-bot-driven-assistance/"><u>Pivotal Points in Adopting Bot-Driven Assistance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-brightness-to-lenovos-invisible-display/"><u>Restoring Brightness to Lenovo’s Invisible Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-compatibility-issues-in-freesync/"><u>Reverting Compatibility Issues in FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-freeze-no-accelerator-detected/"><u>Screen Freeze: No Accelerator Detected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-invisible-video-card-problems/"><u>Solve Invisible Video Card Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-lcd-glare-in-windows-10-screens/"><u>Solving LCD Glare in Windows 10 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974215162-streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/thors-thunder-gameplay-refinement/"><u>Thor's Thunder: Gameplay Refinement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unifying-nvidia-geforce-and-windows-platforms/"><u>Unifying Nvidia GeForce & Windows Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unwanted-wireless-network-pause/"><u>Unwanted Wireless Network Pause</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721096890246-windowstechissue-my-pc-wont-stop-responding-to-my-built-in-wifibluetooth-commands/"><u>WindowsTechIssue - My PC Won’t Stop Responding to My Built-In WIFI/Bluetooth Commands</u></a></li>
+</ul></div>

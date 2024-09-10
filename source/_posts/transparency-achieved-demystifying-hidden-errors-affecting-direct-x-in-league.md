@@ -1,7 +1,7 @@
 ---
 title: "Transparency Achieved: Demystifying Hidden Errors Affecting Direct X in League"
-date: 2024-09-04T12:05:35.511Z
-updated: 2024-09-05T12:05:35.511Z
+date: 2024-09-09T02:30:32.798Z
+updated: 2024-09-10T02:30:32.798Z
 tags:
   - win11
   - win10
@@ -18,10 +18,22 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/error-an-unknown-directx-error-has-occurred-and-lol-cannot-start.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you’re seeing _**An unknown DirectX error has occurred and League of Legends cannot start**_  message, you’re not alone. Many Windows 10 users are reporting about this problem as well. At times, you might see the error instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/directx-error.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  No worries, it’s actually a pretty easy problem to fix. Here is one of the most effective method you can try to fix this problem.
 
 **Note** : The screen shots are shown in Windows 10, but all fixes apply to Windows 7 and Windows 8 as well.
@@ -34,6 +46,18 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/display-adapters-600x357.png)
   
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) In the**Driver** tab, click **Update Driver…** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver.png)
@@ -50,6 +74,12 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/game-cfg-input-files.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) Go back to the League of Legends folder, then go to**RADS** folder. Delete **lol\_game\_client**  folders (You might see two or three of them).
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/lol_game_client-rads-lol.jpg)
@@ -58,10 +88,22 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_581aebafce253.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  9) Click**Repair** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/repair.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  10) Go to **Device Manager**  again. Right-click your display driver and click **Disable** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/disable-display-adapter.png)
@@ -70,6 +112,12 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/enable-display-adapter.png)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your problem should be fixed by now.
 
  The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with [**Driver Easy.**](https://tools.techidaily.com/drivereasy/download/)
@@ -84,6 +132,12 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c9f7cef521.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics dvice to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -148,10 +202,3 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 <li><a href="https://network-issues.techidaily.com/upside-down-monitor-fix-resolved/"><u>Upside-Down Monitor Fix [Resolved]</u></a></li>
 <li><a href="https://network-issues.techidaily.com/windows-11-display-resolved-missing-full-screen/"><u>Windows 11 Display - Resolved Missing Full Screen</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

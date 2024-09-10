@@ -1,7 +1,7 @@
 ---
 title: Correcting GDRIVER_ERR22 Issue
-date: 2024-07-12T00:40:31.754Z
-updated: 2024-07-13T00:40:31.754Z
+date: 2024-09-09T02:27:27.186Z
+updated: 2024-09-10T02:27:27.186Z
 tags:
   - win11
   - win10
@@ -18,6 +18,12 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
 ## Two fixes for graphics device driver error code 22
@@ -25,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -41,6 +53,12 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -53,6 +71,12 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
@@ -67,6 +91,12 @@ Example – CMOS battery on a laptop
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -86,6 +116,12 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -110,3 +146,45 @@ Example – CMOS battery on a laptop
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-precision-in-reducing-image-size-the-essential-guide-to-thumbnails/"><u>[New] In 2024, Precision in Reducing Image Size The Essential Guide to Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-paint-jocular-visuals-with-giphy-in-mind/"><u>[New] Paint Jocular Visuals with Giphy in Mind</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-visual-tutorial-applying-filters-and-masks-in-meet/"><u>[New] Step-by-Step Visual Tutorial Applying Filters & Masks in Meet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-graphics-installed-amd-adapter-in-win1110/"><u>[TROUBLESHOOTED GRAPHICS] Installed AMD Adapter in Win11/10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-video-reversion-secrets-unveiled/"><u>[Updated] Android's Video Reversion Secrets Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-social-splash-10-best-templates-for-online-shares/"><u>[Updated] Social Splash 10 Best Templates for Online Shares</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-y27-4g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo Y27 4G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/connect-easily-to-messaging-apps-enroll-in-chatgpt-telegram-without-using-your-number/"><u>Connect Easily to Messaging Apps: Enroll in ChatGPT, Telegram Without Using Your Number</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-display-on-windows-7/"><u>Correcting Inverted Display on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimmed-display-defying-desktop/"><u>Dimmed Display, Defying Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974331029-eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-qidi-tech-q1-pro-a-detailed-analysis/"><u>Experience Enhanced Productivity with QIDI Tech Q1 Pro - A Detailed Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disoriented-windows-screen-placement/"><u>Fixing Disoriented Window's Screen Placement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-gone-wrong-tame-your-rtx-3080-crash/"><u>Gaming Gone Wrong? Tame Your RTX 3080 Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-interrupt-windows-issue-coming-soon-fix/"><u>GFXUI Interrupt, Windows Issue (Coming Soon Fix)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-error-43-cleared/"><u>GPU Fix: Error 43 Cleared</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-not-recognized-by-os-duo/"><u>Graphics Not Recognized by OS Duo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-c50-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco C50 Without PUK Codes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-poco-m6-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Poco M6 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-10-models-premier-4k-dslr-shoulder-rigs/"><u>In 2024, Leading 10 Models Premier 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-90-gt-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor 90 GT Phone Hassle-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-sideways-surprise-decoding-instagram-video-strange-behavior/"><u>In 2024, The Sideways Surprise Decoding Instagram Video Strange Behavior</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-pro-4g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-vanishing-act-uncover-the-truth-with-device-hub/"><u>NVIDIA Vanishing Act? Uncover the Truth with Device Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-flipped-images-on-windows-10-interface/"><u>Solving Flipped Images on Windows 10 Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-with-amd-on-windows-driver-load-now-functioning-properly/"><u>Success with AMD on Windows, Driver Load Now Functioning Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-invisible-lines-correcting-screen-horizontal-imperfections/"><u>Tackling Invisible Lines: Correcting Screen Horizontal Imperfections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unearthing-the-potential-in-magixs-image-sorter/"><u>Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-rotate-videos-on-iphone-for-free-top-5-apps-for-2024/"><u>Updated Rotate Videos on iPhone for Free Top 5 Apps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-solves-qualcomm-adapter-connection-issue/"><u>Windows 10 Solves: Qualcomm Adapter Connection Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+</ul></div>

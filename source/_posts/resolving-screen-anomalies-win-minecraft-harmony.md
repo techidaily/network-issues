@@ -1,7 +1,7 @@
 ---
 title: "Resolving Screen Anomalies: Win-Minecraft Harmony"
-date: 2024-09-04T12:05:42.223Z
-updated: 2024-09-05T12:05:42.223Z
+date: 2024-09-09T02:30:37.722Z
+updated: 2024-09-10T02:30:37.722Z
 tags:
   - win11
   - win10
@@ -14,6 +14,18 @@ keywords: Screen Anomalies,Minecraft Harmony,Gameplay Improvements,Glitch Fixes 
 thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5f8b95d2f15a6366810c2463.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Resolving Screen Anomalies: Win-Minecraft Harmony
 
 * **[Problem description](#1)**
@@ -35,10 +47,28 @@ To fix this problem, this tutorial provides five different and effective ways fo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785befa5c60a.png)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you can see some updates on your computer, click the**Install updates**button here and let the system run the updates. This step could help you update your video card driver or graphics card driver when there is update detected, which might fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bf28ed4ba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thirdly, you need to make sure that you have the latest version of Java installed on your computer also. You could check the version of your Java by opening this [webpage](https://www.java.com/en/download/installed.jsp) in Firefox or Internet Explorer browser. If you don’t have the latest version yet, please update it. When you have get the preparation done, it is time for you to follow the instructions below to get the problem fixed.   **Method One: Change Hardware Acceleration** 1) Click**Start**button, then select **Control Panel**. 2) View by**Small icons**and select**Display**option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785efeb9f490.png)
@@ -47,16 +77,46 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f01132191.png)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Then select**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f044a3475.png)
 
 5) In**Troubleshoot**bar, select**Change settings**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f08382bd7.png) 6) Move**Hardware acceleration**slider to**Full**. Press**OK**and exit this panel.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f0c337e92.png)   **Method Two: Roll back Driver**1) Go to [Device Manager](https://tools.techidaily.com/drivereasy/download/). 2) Expand **Display adapters** and then right click on the device under this category and choose**Properties**.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3640a93c.png)
 
 3) In the coming up window, go to**Driver**tab and then click the**Roll Back Driver**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3cf36bcb.png) 4) Click**Yes**when this window comes up.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e4168f03c.png) 5) Restart your computer after this change. **Note**: If the**Roll Back Driver** button is grey here like the screen shot below, then you might not be able to proceed with this method. It is suggested that you try the other methods below. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e52a88640.png)   **Method Three: Update Video Driver Manually**1) Press**Windows Key + R**at the same time to invoke a**Run**command. Then type in**dxdiag**and press**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7a2b26ae.png) 2) Go to**Display**tab and locate the video card device information. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7dd4fc08.png) Base on the device name of your video or display card, go to the manufacturer’s official website and look for the latest version of driver for your video card. The majority of users will have one of the below makes of video card:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Intel –[How to download Intel display card driver?](https://tools.techidaily.com/drivereasy/download/)**
 * **NVidia –[How to download NVidia graphics drivers?](https://tools.techidaily.com/drivereasy/download/)**
 * **AMD/ATI –[How to download AMD Radeon HD Graphics driver?](https://tools.techidaily.com/drivereasy/download/)**
@@ -64,6 +124,12 @@ If you have video card made by manufacturers other than these three listed here,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6163c3a61c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
@@ -140,16 +206,3 @@ As you can see, the free version is equally capable as the professional version 
 <li><a href="https://network-issues.techidaily.com/windows-11-enhanced-viewport-management/"><u>Windows 11: Enhanced Viewport Management</u></a></li>
 <li><a href="https://network-issues.techidaily.com/windows-wizardry-techniques-for-removing-graphics-drivers/"><u>Windows Wizardry: Techniques for Removing Graphics Drivers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

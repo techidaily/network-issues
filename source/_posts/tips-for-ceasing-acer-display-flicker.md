@@ -1,7 +1,7 @@
 ---
 title: Tips for Ceasing Acer Display Flicker
-date: 2024-07-12T00:43:49.093Z
-updated: 2024-07-13T00:43:49.093Z
+date: 2024-09-09T02:24:27.053Z
+updated: 2024-09-10T02:24:27.053Z
 tags:
   - win11
   - win10
@@ -18,6 +18,12 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  If you ever run into the **Acer laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Fixes For Acer Laptop Screen Flickering In Windows
 
  Here are 3 fixes that have helped other users resolve the screen flickering on Acer laptop issue. Just work your way down the list until you find the one that works for you.
@@ -42,14 +48,44 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -62,10 +98,22 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -103,6 +151,12 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -136,3 +190,59 @@ Here is how to change the screen refresh rate:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/driver-resolved-installed-missing-graphics-adapter-in-win10/"><u>[DRIVER RESOLVED] Installed Missing Graphics Adapter in Win10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-youtube-presence-with-optimal-post-times/"><u>[New] 2024 Approved Elevate Your YouTube Presence with Optimal Post Times</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-reimagining-the-role-of-titles-in-after-effects-media/"><u>[New] 2024 Approved Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-color-correcting-made-simple-with-adobe-ps/"><u>[New] Color Correcting Made Simple with Adobe PS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-science-behind-sharing-memes-unveiled/"><u>[New] The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvidia-graphic-glitch-clears-up/"><u>[Resolved] Nvidia Graphic Glitch Clears Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-video-driver-fixes-acknowledged/"><u>[Resolved] Video Driver Fixes Acknowledged</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-nvidia-driver-glitch-now-past/"><u>[Successful Fix] Nvidia Driver Glitch Now Past</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-online-links-issues-with-cod-cold-war/"><u>[TROUBLESHOOTED] Online Links Issues with CoD Cold War</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube-for-2024/"><u>[Updated] Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-2023-video-strategy-emphasizing-conciseness-and-engagement/"><u>[Updated] Facebook's 2023 Video Strategy Emphasizing Conciseness and Engagement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-best-edges-for-instagram-excellence-an-essential-guide/"><u>[Updated] In 2024, The Best Edges for Instagram Excellence – An Essential Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-elements-to-successful-mobile-app-design/"><u>[Updated] Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-ringtone-bazaar-navigating-online-sound-archives-for-2024/"><u>[Updated] Ultimate Ringtone Bazaar Navigating Online Sound Archives for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-5-ios-tools-to-download-facebook-movies-and-clips/"><u>2024 Approved Top 5 iOS Tools to Download Facebook Movies & Clips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-and-windows-xpeak-driver-load-success-after-tweak/"><u>AMD & Windows XPeak: Driver Load Success After Tweak</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-erratic-screen-behavior-pro-7/"><u>Banishing Erratic Screen Behavior (Pro 7)</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/cattolica-assicurazioni-adotta-lelaborazione-d-documenti-intelligenti-per-ottimizzare-i-processi-aziendali/"><u>Cattolica Assicurazioni Adotta L'Elaborazione D Documenti Intelligenti per Ottimizzare I Processi Aziendali</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-performance-enhancing-your-sites-visibility/"><u>Cookiebot-Driven Performance: Enhancing Your Site's Visibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cost-effective-ssl-picks-efficiency-check/"><u>Cost-Effective SSL Picks: Efficiency Check</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-darkened-twitch-displays/"><u>Decoding Darkened Twitch Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrypting-the-x-factor-anomaly-uncovered-in-lol-games/"><u>Decrypting the X-Factor Anomaly Uncovered in LoL Games</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-driver-software-brother-hl-l2340dw-printer-windows-compatibility/"><u>Download Driver Software: Brother HL-L2340DW Printer Windows Compatibility</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/download-the-ultimate-kindle-to-pdf-transformer-free-version/"><u>Download the Ultimate Kindle-to-PDF Transformer: Free Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781638-elevate-your-visuals-install-intel-graphics-hd-3000s-latest-w10-version/"><u>Elevate Your Visuals: Install Intel Graphics HD 3000'S Latest W10 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-buffering-in-seconds/"><u>Eliminate Buffering in Seconds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-machine-capabilities-for-softwares-success/"><u>Enhancing Machine Capabilities for Softwares' Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-compatibility-nvidia-opengl-fixed/"><u>GPU Compatibility: Nvidia OpenGL Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-calibration-achieved/"><u>Graphics Calibration Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guaranteed-straighten-out-for-monitors/"><u>Guaranteed Straighten-Out for Monitors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-discord-parental-controls/"><u>How to Set Up Discord Parental Controls</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hp-stream-11-powerhouse-of-basic-pc-functions-in-a-slim-design/"><u>HP Stream 11: Powerhouse of Basic PC Functions in a Slim Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>In 2024, Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-the-art-of-instagrams-musical-emoji-use/"><u>Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down – How to Fix It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-lag-in-video-playback-on-newest-windows-os/"><u>No More Lag in Video Playback on Newest Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/notebook-led-fix-persistent-blink-ended/"><u>Notebook LED Fix: Persistent Blink Ended</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-hp-display-wobble-issues/"><u>Overcoming HP Display Wobble Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pro-mkv-reader-for-personal-computers/"><u>Pro MKV Reader for Personal Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-techniques-and-choices-for-trimming-premium-tamil-melodies-for-2024/"><u>Proven Techniques and Choices for Trimming Premium Tamil Melodies for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-enhancement-update-intel-graphics-3000-to-boost-your-w10-display/"><u>Quick Enhancement: Update Intel Graphics 3000 to Boost Your W10 Display.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-upside-down-screens-on-windows-10-os/"><u>Rectifying Upside-Down Screens on Windows 10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-darkness-from-win11-screenscape/"><u>Removing Darkness From Win11 Screenscape</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-gpu-functionality-after-interruption/"><u>Restoring GPU Functionality After Interruption</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-win11-blank-screen-hack/"><u>Reverse WIN11 Blank Screen Hack</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-anthem-lags-quick-solutions/"><u>Tackling Anthem Lags: Quick Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-picks-for-downloading-high-definition-avi-movies-safely-and-quickly/"><u>Top Picks for Downloading High-Definition Avi Movies Safely and Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/update-alert-google-news-feed-overhaul/"><u>Update Alert: Google News Feed Overhaul</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upside-down-issue-in-screen-setup-resolved/"><u>Upside-Down Issue in Screen Setup Resolved</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-nvidia-7025-unresolved-conflict/"><u>Win10 & Nvidia 7025: Unresolved Conflict</u></a></li>
+</ul></div>

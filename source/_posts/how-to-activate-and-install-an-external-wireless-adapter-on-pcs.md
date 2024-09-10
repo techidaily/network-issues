@@ -1,7 +1,7 @@
 ---
 title: How To Activate & Install an External Wireless Adapter on PCs
-date: 2024-07-12T00:38:30.474Z
-updated: 2024-07-13T00:38:30.474Z
+date: 2024-09-09T02:30:08.907Z
+updated: 2024-09-10T02:30:08.907Z
 tags:
   - win11
   - win10
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc325d557dc.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  WiFi is everywhere. However, a missing or outdated WiFi adapter driver may stop your computer from connecting to WiFi. So you should always keep your WiFi adapter driver up-to-date.
 
 There are two ways you can update your WiFi adapter driver:
@@ -28,6 +40,12 @@ OR
 
 [**Option 2 — Automatically (Recommended)**](#o2) — This is the quickest and easiest option. It’s all done with just a couple of mouse clicks — easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1: Download and install the driver manually
 
  You can update your driver manually by going to the hardware manufacturer’s website and searching for the latest driver for your WiFi adapter. But if you take this approach, be sure to choose the driver that’s compatible with the exact model number of your hardware, and your version of Windows.
@@ -44,6 +62,12 @@ If you don’t know what Wi-Fi adapter you have, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/win11-how-to-know-what-WiFi-adapter-you-have.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 2: Automatically update your WiFi adapter driver
 
  If you don’t have the time, patience, or computer skills to update your WiFi adapter driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy handles it all.
@@ -52,6 +76,12 @@ If you don’t know what Wi-Fi adapter you have, take these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/Realtek-RTL8821CE-802.11ac-PCIe-Adapter.jpg)
 4. Restart your computer for the changes to take effect.
@@ -72,8 +102,26 @@ To use Fortect:
 2. Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
 
 ---
@@ -101,3 +149,55 @@ To use Fortect:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-a-closer-examination-the-finest-mac-recording-software-for-2024/"><u>[New] A Closer Examination The Finest Mac Recording Software for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-gopros-improved-action-session-series/"><u>[New] In 2024, GoPro's Improved Action Session Series</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-the-perfect-close-youtubes-free-end-screen-tools-for-2024/"><u>[Updated] Crafting the Perfect Close YouTube's Free End Screen Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tips-for-including-vimeo-content-on-instagram-for-2024/"><u>[Updated] Tips for Including Vimeo Content on Instagram for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974735927-accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-faded-lenovo-monitor-issues/"><u>Addressing Faded Lenovo Monitor Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-graphics-efficiency-with-upgraded-intellgraphics-on-pc/"><u>Boost Graphics Efficiency with Upgraded IntellGraphics on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-the-bright-side-of-lenovo-displays/"><u>Discover the Bright Side of Lenovo Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-unseen-display-options-in-windows-11/"><u>Discover Unseen Display Options in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispatched-glare-fluctuation-on-mobile-display/"><u>Dispatched Glare Fluctuation on Mobile Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-content-experience-with-win10/"><u>Enhancing Visual Content Experience with Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epic-escalation-steady-stream-struggle/"><u>Epic Escalation: Steady Stream Struggle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-to-correct-laptop-screen-horizontal-distortions/"><u>Expert Tips to Correct Laptop Screen Horizontal Distortions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guides-on-fixing-acer-led-displays/"><u>Guides on Fixing Acer LED Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-explore-system-security-w8s-safe-mode-uninstallation/"><u>How To Safely Explore System Security: W8's Safe Mode Uninstallation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-digital-distinction-design-molding-an-animated-profile/"><u>In 2024, Digital Distinction Design Molding an Animated Profile</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-blaze-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Blaze 2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-supercharge-your-games-premium-top-10-drives/"><u>In 2024, Supercharge Your Games Premium Top 10 Drives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-tier-android-video-and-image-recording-tools-reviewed/"><u>In 2024, Top-Tier Android Video & Image Recording Tools Reviewed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-zte-nubia-flip-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from ZTE Nubia Flip 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-concluded-without-hiccups/"><u>Installation Concluded Without Hiccups</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-civ-5-crashes-on-desktop-systems/"><u>Overcoming Civ 5 Crashes on Desktop Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/permanent-name-shift-on-google-meet-devices-for-2024/"><u>Permanent Name Shift on Google Meet Devices for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/reclaiming-unplanned-disconnect-from-facebook/"><u>Reclaiming Unplanned Disconnect From Facebook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-sim-not-provisioned-mmi-issues-a-step-by-step-guide/"><u>Resolving 'SIM Not Provisioned MMI' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-flipped-aspect-ratio-in-display/"><u>Resolving Flipped Aspect Ratio in Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-issue-with-intellnvidia-on-windows-1e0/"><u>Resolving Hybrid Graphics Issue with Intell/Nvidia on Windows 1E0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-r9-graphics-drivers-on-win10-finally/"><u>Resolving R9 Graphics Drivers on Win10, Finally</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversed-display-solved-in-windows-10/"><u>Reversed Display Solved in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenhalt-on-graphicwinos-interface-under-repair/"><u>ScreenHalt on GraphicWinOS Interface (Under Repair)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-civ-5-experience-on-computers/"><u>Streamlining Civ 5 Experience on Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-art-of-facebook-video-coverage-standout-tips-and-tricks-for-2024/"><u>The Art of Facebook Video Coverage Standout Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-interaction-with-microsofts-hololens-review/"><u>The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-solving-wired-network-connection-problems-in-windows-117/"><u>Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-erratic-acer-display-behavior/"><u>Troubleshooting Erratic Acer Display Behavior</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-loopy-top-10-free-video-looping-websites-you-need-to-try/"><u>Updated In 2024, Get Loopy Top 10 Free Video Looping Websites You Need to Try</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vitamin-ds-pivotal-role-in-immune-regulation-insights-into-innate-and-adaptive-responses/"><u>Vitamin D's Pivotal Role in Immune Regulation: Insights Into Innate and Adaptive Responses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974505504-win11-flicker-phenomenon-no-more/"><u>Win11 Flicker Phenomenon, No More</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-now-packs-enhanced-driver-for-amds-radeon-hd-6950-gpu/"><u>Windows 11 Now Packs Enhanced Driver for AMD's Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-hurdle-smasher-fault-code-51900319/"><u>WoW Hurdle Smasher: Fault Code 51900319</u></a></li>
+</ul></div>

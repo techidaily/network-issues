@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Lenovo's Unresponsive Touchpad
-date: 2024-09-04T12:05:37.652Z
-updated: 2024-09-05T12:05:37.652Z
+date: 2024-09-09T02:30:33.636Z
+updated: 2024-09-10T02:30:33.636Z
 tags:
   - win11
   - win10
@@ -18,8 +18,20 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad8de1a27e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If the touch screen of your Lenovo laptop or tablet cannot work properly, you are not alone. Many Lenovo laptop users are reporting it. The touch screen of your device does not respond to your touches. But the good news is you can still fix it. This article gives you 5 solutions to try. You may not have to try them all. Just work your way down the list until you find the one that works. **1)[Restart your device](#a)**   **2) [Update or reinstall your touch screen driver](#b)**   **3)[Reset your operating system](#c)**   **4)[Contact the Lenovo support](#d)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1) Restart your device
 
 The simplest fix to it is to**restart your device**. It can clear the corruption issues on your computer and fix your touch screen. You can try doing so and see if it resolves your problem.
@@ -30,30 +42,42 @@ The problem of your touch screen may be caused by an old or incorrect touch scre
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59682e9883633.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **c)** Click on the**Update**button next to the touch screen to download the latest and credible driver for this device. You can also hit the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click on the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a663c6152.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can also use**Driver Easy**to**uninstall**drivers (**Pro version** required). This is useful especially when you are trying to remove any driver causing trouble and reinstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a6ab021f5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3) Reset operating system
 
 There may be faulty files or configurations in the operating system on your Lenovo device that stops your touch screen from working properly. You may need to**reset**or**reinstall**your operating system to fix the problem. If you are using**Windows 10**, you can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to reset your operating system. If you are using a Windows system **other than Windows 10**, you can use a Windows installation media to reinstall your operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4) Contact Lenovo support
 
 If none of the methods above helps you fix the non-responsive touch screen, you may need to contact the **Lenovo customer service**. They can help you solve the problem or have your device repaired or replaced.

@@ -1,7 +1,7 @@
 ---
 title: Ended AMD's Challenge of Unloading Driver on Wndows 10
-date: 2024-09-04T12:05:39.745Z
-updated: 2024-09-05T12:05:39.745Z
+date: 2024-09-09T02:30:35.608Z
+updated: 2024-09-10T02:30:35.608Z
 tags:
   - win11
   - win10
@@ -28,20 +28,50 @@ If you are one of AMD graphics card users with Windows 10 operating system, whic
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/check-for-update-in-windows-10-600x481.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Now go to**Programs and Features** window (**Start** button**\> Control Panel > Programs > Programs and Features**) and right click your**AMD** driver and choose**Change** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/control-panel-programs-programs-and-features-change-amd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Choose**Uninstall** so AMD Catalyst Install Manager will help you remove all AMD driver and application components.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/amd-catalyst-install-manager.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You may want to restart your computer when the uninstall finishes.
   
  5) Now we are moving on to update your drivers manually. Go to **[support website of AMD](http://support.amd.com/en-us/download)**  and search for the correct graphics driver for your system. If you are not sure what driver you need, you can choose the option on the left so the automatic detect will help you locate the exact driver. If you know well what driver you are looking for, use the right pane to get the right one for your operating system.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/support-website-of-amd.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Please make sure that you have downloaded the correct driver on your computer. Then move on.
   
  6) Double click the setup file of the downloaded file and run the installation as instructed.
@@ -52,10 +82,28 @@ If you are one of AMD graphics card users with Windows 10 operating system, whic
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e899261a7fe.png)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Press the**Update** button next to the driver you need to update and let Driver Easy take care of the rest of the procedure.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e899330fa48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Not only so, if you are looking for more features such as driver back up and driver restore as well as a team of professional technicians assisting you whenever you run into driver problems, you can always choose to use the [**professional version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. If you are not satisfied with the product, you can always ask for a refund 30 days within the purchase.
 
 <ins class="adsbygoogle"
@@ -123,10 +171,3 @@ If you are one of AMD graphics card users with Windows 10 operating system, whic
 <li><a href="https://network-issues.techidaily.com/update-screen-setup-no-issues-now/"><u>Update Screen Setup, No Issues Now</u></a></li>
 <li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

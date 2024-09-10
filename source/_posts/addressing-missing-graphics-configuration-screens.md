@@ -1,7 +1,7 @@
 ---
 title: Addressing Missing Graphics Configuration Screens
-date: 2024-07-12T00:40:27.360Z
-updated: 2024-07-13T00:40:27.360Z
+date: 2024-09-09T02:27:21.393Z
+updated: 2024-09-10T02:27:21.393Z
 tags:
   - win11
   - win10
@@ -14,18 +14,48 @@ keywords: Missing Graphics Configuration Troubleshooting,How to Resolve Graphics
 thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3d453d8ed3a4e878312705cb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Addressing Missing Graphics Configuration Screens
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591121a1475ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you open NVIDIA control panel, if you get error message “NVIDIA Display settings are not available. You are not currently using a display attached to an NVIDIA GPU”, don’t worry. You can use the top 2 methods here to fix the error.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Top Method 1: Plug the monitor into the correct port**
 
  The error may occur if the monitor was plugged into the wrong port. So ensure the monitor is plugged into the correct port.
 
 **Tip:** If you have more than one port, plug the cable to other ports and see if the problem resolves.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Top Method 2: Reinstall the NVIDIA graphics driver**
 
  You can go to NVIDIA’s website to check for and download the latest graphics card driver that you need.
@@ -42,12 +72,24 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae5a6993f7f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged Nvidia driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
  Here take NVIDIA GeForce GTX 1080 for example. Driver Easy will detect the graphics card driver installed on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae5a7e64fbb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hope the two methods above will help you fix the issue.
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -70,3 +112,53 @@ Hope the two methods above will help you fix the issue.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-transforming-mobile-devices-into-business-and-personal-video-platforms/"><u>[New] 2024 Approved Transforming Mobile Devices Into Business & Personal Video Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/diting-magic-transformative-strategies-for-youtube-creators-for-2024/"><u>[New] Editing Magic Transformative Strategies for YouTube Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>[New] Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevate-facebook-videos-with-synchronized-musical-charm/"><u>[New] In 2024, Elevate Facebook Videos with Synchronized Musical Charm</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-lighting-setup-to-make-your-videos-stand-out/"><u>[New] In 2024, Lighting Setup to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-mac-image-transformer-for-2024/"><u>[New] Premium Mac Image Transformer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-hub-picture-composer/"><u>[Updated] Humor Hub Picture Composer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-audiovisual-updates-integrating-sounds-with-statuses/"><u>[Updated] In 2024, Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-the-secrets-of-facebook-video-content-success/"><u>[Updated] In 2024, Unveiling the Secrets of Facebook Video Content Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974359536-achieve-crisp-clear-displays-with-the-newest-intel-graphics-update-on-windows-10/"><u>Achieve Crisp, Clear Displays with the Newest Intel Graphics Update on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bring-back-your-wi-fi-in-windows-11-with-this-fix/"><u>Bring Back Your Wi-Fi in Windows 11 with This Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combatting-display-anomalies-on-pro-7/"><u>Combatting Display Anomalies on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispelling-shadows-on-incomprehensible-direct-x-woes/"><u>Dispelling Shadows on Incomprehensible Direct X Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-stage-say-goodbye-to-screen-flashes-on-win11/"><u>End Stage: Say Goodbye to Screen Flashes on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epicenter-of-darkness-screen-shutdown/"><u>Epicenter of Darkness: Screen Shutdown</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flashy-phosphorescence-in-your-acer-laptop/"><u>Fixing Flashy Phosphorescence in Your Acer Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-err-code-22-resolved/"><u>GPU Err: Code 22 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resurrect-overlooked-nvidiaamd-on-computer/"><u>How To Resurrect Overlooked NVIDIA/AMD on Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-find-n3-flip-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Find N3 Flip via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-call-customization-applications-ranked/"><u>In 2024, Essential Call Customization Applications Ranked</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-voice-modifying-apps-magical-calls-and-more/"><u>In 2024, Leading Voice-Modifying Apps Magical Calls & More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-arrives-zero-dollar-update-comprehensive-feature-list-and-new-updates-roundup/"><u>IOS 18 Arrives - Zero Dollar Update, Comprehensive Feature List, and New Updates Roundup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-graphics-update-amds-radeon-hd-6950-on-windows/"><u>Latest Graphics Update: AMD's Radeon HD 6950 on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-reactivate-gpu-fans/"><u>Methods to Reactivate GPU Fans</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-the-nuances-of-twitters-video-policies/"><u>Navigating the Nuances of Twitter's Video Policies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-path-iphone-file-exchange-for-2024/"><u>Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operating-system-adjustment-glitchy-opengl-fixed/"><u>Operating System Adjustment: Glitchy OpenGL Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-initialization-failure-in-direct3d/"><u>Overcoming Initialization Failure in Direct3D</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-now-compatible-with-latest-graphics-cards/"><u>Overwatch Now Compatible With Latest Graphics Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-asymmetric-screens-in-windows-11-pro/"><u>Rectifying Asymmetric Screens in Windows 11 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-high-lag-in-roblox-pc/"><u>Resolve High Lag in Roblox PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-screen-after-windows-upgrade-fall/"><u>Restore Screen After Windows Upgrade Fall</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionary-chromatic-shots-with-uhd-blade-tech-for-2024/"><u>Revolutionary Chromatic Shots with UHD Blade Tech for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-3080-steps-to-salvage-stalled-games/"><u>RTX 3080: Steps to Salvage Stalled Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-your-system-safe-mode-plus-graphics-driver-removal-in-w8/"><u>Securing Your System: Safe Mode + Graphics Driver Removal in W8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974274668-simplify-graphics-experience-with-the-latest-intel-hd-graphics-update-for-windows-10/"><u>Simplify Graphics Experience with the Latest Intel HD Graphics Update for Windows 10.</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-reclaim-your-pcs-lossed-graphic-support/"><u>Steps to Reclaim Your PC's Lossed Graphic Support</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninstalling-graphics-drivers-step-by-step-windows-guide/"><u>Uninstalling Graphics Drivers: Step-By Step WINDOWS Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unmet-graphic-specs-in-overwatch-issue-addressed/"><u>Unmet Graphic Specs in Overwatch - Issue Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vision-loss-na-in-graphics-device/"><u>Vision Loss: N/A in Graphics Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-and-qualcomm-atheros-driver-harmony-achieved/"><u>Windows 10 & Qualcomm Atheros Driver Harmony Achieved</u></a></li>
+<li><a href="https://fox-links.techidaily.com/write-with-impact-crafting-engaging-podcast-blurbs-for-2024/"><u>Write with Impact Crafting Engaging Podcast Blurbs for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-armored-and-resolved/"><u>Xbox 360 Emulation Armored & Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-unavailable-armored/"><u>Xbox 360 Emulation Unavailable: Armored</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Fixing Video Output Glitches Without Hiring Help
-date: 2024-07-12T00:42:04.647Z
-updated: 2024-07-13T00:42:04.647Z
+date: 2024-09-09T02:25:58.060Z
+updated: 2024-09-10T02:25:58.060Z
 tags:
   - win11
   - win10
@@ -14,10 +14,22 @@ keywords: Windows 10 Update Video Glitches,Win10 Performance Issues After Update
 thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784cd0b6ce36cdaf1016dc1bb5.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing Video Output Glitches Without Hiring Help
 
 Many computer users have reported a problem that their monitor screen flickers or blinks randomly. If you’re also experiencing this problem, you’re no doubt very frustrated. But don’t worry. We’ve put together some suggestions to help you resolve your monitor flickering problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,8 +48,20 @@ Your monitor flickering issue may occur if you’re using a low refresh rate for
 1. Right-click an empty area of your desktop and click**Display settings** . (If you’re on**Windows 7 or 8** , click**Screen resolution**)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e6da1b231b.jpg)
 2. Click**Advanced display settings** (or**Advanced settings** if you’re on**Windows 7/8**).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e704e6a599.jpg)
 3. If you’re on**Windows 10** , click the**Display adapter properties** for your monitor. (Skip this step if you’re using another Windows system.)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e7085d412e.jpg)
 4. Select the**Monitor** tab, then select a screen refresh rate that equals or is higher than**60 Hertz** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e71d39685f.jpg)
@@ -53,6 +77,18 @@ The flickering issues may occur because you’re using a wrong graphics driver o
 3. Click the **Update**  button next to your graphics adapter to download the latest and correct drivers for them, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e74fc5c7b0.jpg)  
  You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
 
 ### Method 3: Perform a clean boot
@@ -71,18 +107,60 @@ To do so:
 6. Click**OK** .
 7. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Check to see if you are having any flickering issue. If no, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox**) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if your flickering issue occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If there’s any service that causes your monitor flickering issues, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 17. Check to see if your flickering issue occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If there’s any startup item that causes the flickering issue, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Check for hardware issues
 
 If your monitor is still flickering, it’s likely there are hardware issues with your video cable or your monitor itself. In this case, there are a few things you need to do: First, replace the**cable**you use to connect your monitor and your computer with a new one. This will resolve any problems you might be experiencing due to your cable. If changing the cable doesn’t work for you,**try your monitor on another computer**to see if the issue still occurs. If there are problems with your monitor, you should get them repaired or replaced.
@@ -108,3 +186,43 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-borderlands-3-launch-glitch-xbox-directx-conflict/"><u>[FIXED] Borderlands 3 Launch Glitch - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-overwatch-no-start-on-xbox-directx-issue/"><u>[FIXED] Overwatch No Start on Xbox - DirectX Issue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-prime-online-spots-for-availing-text-enhancement-files/"><u>[New] Prime Online Spots for Availing Text Enhancement Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-images-without-spending-a-dime-quick-tips-here/"><u>[New] YouTube Images Without Spending a Dime – Quick Tips Here</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-beginners-tutorial-adobe-capture-screen-sharing-techniques/"><u>[Updated] Beginner's Tutorial Adobe Capture Screen Sharing Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boosting-youtube-traffic-outsmarting-automated-viewers-for-2024/"><u>[Updated] Boosting YouTube Traffic Outsmarting Automated Viewers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-studio-setup-starters-top-17-lights-and-more/"><u>[Updated] Studio Setup Starters - Top 17 Lights & More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-cinematography-made-easy-with-ois-technology/"><u>2024 Approved High Quality Cinematography Made Easy With OIS Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-scholarly-selection-pinpointing-top-10-teaching-equipment-options/"><u>2024 Approved Scholarly Selection Pinpointing Top 10 Teaching Equipment Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-windows-11-driver-fix-guide/"><u>AMD Radeon R9: Windows 11 Driver Fix Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beat-to-visuals-an-iphone-guide-for-music-videos-for-2024/"><u>Beat to Visuals An iPhone Guide for Music Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blinking-error-screen-invisible/"><u>Blinking Error: Screen Invisible</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-in-windows-solved-by-dxgkrnlsys-fix/"><u>BlueScreen of Death in Windows Solved by dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bug-be-gone-hunter-world-is-alive-again/"><u>Bug Be Gone! Hunter World Is Alive Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayfailure-on-graphicswinos-interface-solved/"><u>DisplayFailure on GraphicsWinOS Interface (Solved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-experience-geforce-rtx210-windows-update/"><u>Elevate Your Experience - GeForce RTX210 Windows Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-forgotten-vram-signal/"><u>Eradicate Forgotten VRAM Signal</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-settings-and-apps-for-easy-use-by-the-visually-challenged/"><u>Essential iPhone Settings and Apps for Easy Use by the Visually Challenged</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974651271-hassle-free-upgrade-intel-g3000-graphics-on-win11/"><u>Hassle-Free Upgrade: Intel G3000 Graphics on Win11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ry-into-youtubes-monetary-frequency/"><u>Inquiry Into YouTube's Monetary Frequency</u></a></li>
+<li><a href="https://network-issues.techidaily.com/integrating-nvidia-into-new-windows-ecosystem/"><u>Integrating Nvidia Into New Windows Ecosystem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-image-wanders-away-on-tv-connection/"><u>Laptop Image Wanders Away on TV Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-trouble-addressed-no-more-windows-halt/"><u>NVidia Trouble Addressed - No More Windows Halt</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-latest-graphics-drivers-a-win10-upgrade/"><u>NVIDIA's Latest Graphics Drivers: A Win10 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-invisible-monitor-mishaps/"><u>Overcoming Invisible Monitor Mishaps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-6-aids-for-live-video-localization/"><u>Premium 6 Aids for Live Video Localization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revitalizing-your-productivity-top-iphone-shortcut-techniques/"><u>Revitalizing Your Productivity: Top iPhone Shortcut Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-setback-window-full-display-unachieved-in-windows-10/"><u>Screen Setback: Window Full Display Unachieved in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-amds-detection-driver-now-functions-on-win10/"><u>Smooth Sailing: AMD's Detection Driver Now Functions on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-to-windows-10-black-out-post-update/"><u>Solution to Windows 10 Black Out Post Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-civ-v-errors-in-windows-environment/"><u>Tackle Civ V Errors in Windows Environment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-color-grading-tools-adobes-best-lut-compilation/"><u>The Essential Guide to Color Grading Tools – Adobe's Best LUT Compilation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-art-of-chromatic-enhancement/"><u>Unlocking the Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-true-value-of-smoothing-in-adobes-arsenal/"><u>Unveiling the True Value of Smoothing in Adobe’s Arsenal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/window-display-fix-in-windows-10-not-all-are-shown/"><u>Window Display Fix in Windows 10 - Not All Are Shown</u></a></li>
+</ul></div>

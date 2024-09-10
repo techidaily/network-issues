@@ -1,7 +1,7 @@
 ---
 title: Improving Visual Fidelity for Far Cry 6 Sequel
-date: 2024-07-12T00:38:31.627Z
-updated: 2024-07-13T00:38:31.627Z
+date: 2024-09-09T02:30:10.200Z
+updated: 2024-09-10T02:30:10.200Z
 tags:
   - win11
   - win10
@@ -18,8 +18,26 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-29-42.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
@@ -72,6 +90,12 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
 
 [4: Clean the DirectX cache](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -81,6 +105,18 @@ thumbnail: https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -106,6 +142,18 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -117,10 +165,34 @@ If this doesn’t help, try the next fix.
 3. Once the game executable is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If this doesn’t help, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -129,12 +201,24 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
  Hopefully this article helps! If you have any questions or suggestions, feel free to drop a comment down below!
@@ -160,3 +244,49 @@ If this doesn’t help, there’s one more fix you can try.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[New] In 2024, Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-video-impact-with-elite-rank-tracker-software-solutions/"><u>[New] Maximizing Video Impact with Elite Rank Tracker Software Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>[Updated] 2024 Approved Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-mac-apps-the-leading-alternatives-to-bandicam-for-2024/"><u>[Updated] Essential Mac Apps The Leading Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-green-thumbs-united-top-10-agrigames-for-friends-and-family-for-2024/"><u>[Updated] Green Thumbs United Top 10 AgriGames for Friends and Family for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-delving-into-youtubes-functionality-after-upload/"><u>[Updated] In 2024, Delving Into YouTube's Functionality After Upload</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-masterful-motorsports-discover-the-5-leading-racers-simulators-for-2024/"><u>[Updated] Masterful Motorsports Discover the 5 Leading Racers Simulators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-hues-3-swift-strategies-for-perfect-color-balance/"><u>2024 Approved Harmonizing Hues 3 Swift Strategies for Perfect Color Balance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-pro-video-review-the-new-standard/"><u>2024 Approved Movavi Pro Video Review – The New Standard</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-invisible-stream-obstacles/"><u>Banishing Invisible Stream Obstacles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridging-qca61x4a-wifi-driver-gaps-in-windows-10/"><u>Bridging QCA61x4A WiFi Driver Gaps in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-forth-invisible-video-shutdowns/"><u>Bringing Forth Invisible Video Shutdowns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-wow-problem-fix-51900319/"><u>Bypassing WoW Problem: Fix #51900319</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-visual-performance-update-windows-intel-gpu/"><u>Enhance Visual Performance: Update Windows Intel GPU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-performance-with-intel-update/"><u>Enhancing Visual Performance with Intel Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-basic-render-drivers-for-win-versions-11-to-7/"><u>Fixed: Basic Render Drivers for Win Versions 11 to 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-os-hardware-disagreement-nvidia-geforce/"><u>Fixing OS-Hardware Disagreement: Nvidia GeForce</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-the-notorious-c1900101-installation-hurdle/"><u>How To Fix the Notorious C1900101 Installation Hurdle</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-seamlessly-convert-vimeo-media-to-mp3-for-2024/"><u>How to Seamlessly Convert Vimeo Media to MP3 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-process-concluded-smoothly-for-nvidia/"><u>Installation Process Concluded Smoothly for NVIDIA</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-visuals-a-podcast-logo-blueprint/"><u>Mastering the Visuals A Podcast Logo Blueprint</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mystery-behind-rtx-crashes-in-high-end-gaming-pcs/"><u>Mystery Behind RTX Crashes in High-End Gaming PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-found-overwatch-update-fixes-issue/"><u>No Compatible Graphics Found - Overwatch Update Fixes Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-10-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opencl-not-found-fixed-now/"><u>OpenCL Not Found, Fixed Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-halted-restoration-complete/"><u>OpenGL Halted, Restoration Complete</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-silent-gpu-fans/"><u>Reactivating Silent GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refresh-windows-sharpen-screens/"><u>Refresh Windows, Sharpen Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-gdx-setup-on-pc/"><u>Repaired Failed GDX Setup on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gdx-setup-failure-now-functional-on-ws/"><u>Resolved GDX Setup Failure, Now Functional on WS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-transparency-to-win11-screens/"><u>Restoring Transparency to Win11 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-alignment-of-display-angles/"><u>Seamless Alignment of Display Angles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-out-strong-tailoring-templates-for-video-gaming-logos/"><u>Stand Out Strong Tailoring Templates for Video Gaming Logos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-find-x7-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Find X7 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974620349-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-atheros-qualcomm-wifi-harmony-achieved/"><u>Win10 & Atheros Qualcomm WiFi Harmony Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-easier-screens-on-any-size-device/"><u>Win11: Easier Screens on Any Size Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-magic-removing-incompatible-graphics-drivers/"><u>Windows Magic: Removing Incompatible Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-bluescreen-dxgkrnlsys-troubleshooting/"><u>WinOS BlueScreen - dxgkrnl.sys Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-interop-issue-addressed/"><u>WinOS Interop Issue Addressed</u></a></li>
+</ul></div>

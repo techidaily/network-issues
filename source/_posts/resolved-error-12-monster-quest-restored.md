@@ -1,7 +1,7 @@
 ---
 title: Resolved Error 12 - Monster Quest Restored
-date: 2024-07-12T00:42:17.807Z
-updated: 2024-07-13T00:42:17.807Z
+date: 2024-09-09T02:26:13.770Z
+updated: 2024-09-10T02:26:13.770Z
 tags:
   - win11
   - win10
@@ -20,12 +20,24 @@ thumbnail: https://thmb.techidaily.com/f063158b07bb5f14ea4aab44ee9234e61e405ad94
 
  If you keep getting the**Err 12: Graphics device crashed** while playing**Monster Hunter World** , you’re certainly not alone. While this can be quite irritating, most of the time it is only a driver issue that can be fixes pretty easily…
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes for err12: Graphics Device Crashed error
 
 1. **[Update your graphics driver (nearly always fixes the problem)](#F1)**
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
  Perhaps one of the most common causes for this graphics device crashed error is a corrupt or outdated graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,6 +56,12 @@ thumbnail: https://thmb.techidaily.com/f063158b07bb5f14ea4aab44ee9234e61e405ad94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
@@ -60,10 +78,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
@@ -107,6 +137,12 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -146,3 +182,41 @@ Here’s how to use Fortect to repair system files on your PC:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/finalized-fixing-cod-cold-war-online-disconnects/"><u>[FINALIZED] Fixing CoD Cold War Online Disconnects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-record-video-with-logitech-webcam-for-2024/"><u>[New] How to Record Video with Logitech Webcam for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716070074476-updated-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4-for-2024/"><u>[Updated] From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4. For 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-visual-stories-from-vids-to-interactive-gifs/"><u>[Updated] In 2024, Tweeting Visual Stories From Vids to Interactive GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breakthrough-in-windows-driver-amd-radeon-6950/"><u>Breakthrough in Windows Driver - AMD Radeon 6950</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/chromium-device-live-screen-recorder-for-2024/"><u>Chromium Device Live Screen Recorder for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-tactics-for-correcting-youtube-green-errors/"><u>Comprehensive Tactics for Correcting YouTube Green Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-init-fail-problem-addressed-and-solved/"><u>D3D Init Fail: Problem Addressed and Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-error-windows-blue-screen-fix/"><u>dxgkrnl.sys Error: Windows Blue Screen Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-windows-11-experience-advanced-run-configuration/"><u>Empower Your Windows 11 Experience: Advanced Run Configuration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/find-lost-display-options-in-windows-11/"><u>Find Lost Display Options in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-computer-screens-that-no-longer-show/"><u>Fixing Computer Screens that No Longer Show</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-delays-and-latency-troubleshooting-for-guilty-gear-strive-gameplay/"><u>Fixing Delays & Latency Troubleshooting for 'Guilty Gear - Strive' Gameplay</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-very-best-storytelling-yt-channels-of-2023/"><u>In 2024, Unveiling the Very Best Storytelling YT Channels of 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719327539921-master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-graphics-driver-updates-for-intel-windows-7-edition/"><u>Mastering Graphics Driver Updates for Intel, Windows 7 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-screen-extension-in-w11-os/"><u>Mastering Screen Extension in W11 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-level-gaming-rtx210-drivers-for-windows-11-update/"><u>Next-Level Gaming - RTX210 Drivers for Windows 11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-suitable-cg-available-fix-needed/"><u>No Suitable CG Available, Fix Needed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauled-erratic-code-22-in-drivers/"><u>Overhauled Erratic Code 22 in Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purging-unwanted-windows-screen-flashes/"><u>Purging Unwanted Windows Screen Flashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/side-view-settled-laptop-armada/"><u>Side-View Settled: Laptop Armada</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-reconfiguration-steps-dormant-gpu-screen-wnvidia/"><u>Simple Reconfiguration Steps: Dormant GPU Screen W/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successfully-resolved-nvidia-installer-problem/"><u>Successfully Resolved Nvidia Installer Problem</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-premier-ranking-of-outstanding-stop-motion-films/"><u>The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a15-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A15 5G Location | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-cost-calculus-launching-a-successful-podcast/"><u>Ultimate Cost Calculus Launching A Successful Podcast</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-of-the-years-finest-home-climate-detectors-2024-edition/"><u>Ultimate Selection of the Year's Finest Home Climate Detectors - 2024 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vulkan-missing-on-device/"><u>Vulkan Missing on Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-monitor-stabilization-completed-successfully/"><u>Win11 Monitor Stabilization, Completed Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-screen-flashing-or-flickering-solved/"><u>Windows 11 Screen Flashing Or Flickering [SOLVED]</u></a></li>
+</ul></div>

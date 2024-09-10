@@ -1,7 +1,7 @@
 ---
 title: Solve the Shadowy Surface of Lenovo Portable
-date: 2024-07-12T00:40:57.088Z
-updated: 2024-07-13T00:40:57.088Z
+date: 2024-09-09T02:27:57.616Z
+updated: 2024-09-10T02:27:57.616Z
 tags:
   - win11
   - win10
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,14 +41,38 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Hard reset your Lenovo laptop
 
  Peripheral devices that are connected to your Lenovo laptop could also be the cause of the black screen issue. If this is the case for you, you may notice that the dots are spinning during the boot-up process. So you should perform a hard reset on your Lenovo laptop to narrow down the possibilities.
@@ -91,6 +127,12 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -105,6 +147,12 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -115,6 +163,18 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -123,6 +183,18 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
@@ -141,6 +213,12 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
@@ -153,6 +231,12 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Follow the on-screen instructions to complete the system restore process.
 
  5) Restart your computer to see if the black screen issue has been fixed.
@@ -182,3 +266,49 @@ So you can try disabling fast startup to see if it does the trick:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixing-online-connectivity-woes-cod-cold-war/"><u>[FIXING]: Online Connectivity Woes - CoD Cold War</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-secrets-of-successful-videotutorial-production/"><u>[New] Unveiling the Secrets of Successful Videotutorial Production</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-searching-for-non-existent-wireless-adapter-in-windows-10/"><u>[RESOLVED] Searching for Non-Existent Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[Updated] 2024 Approved WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-elevate-your-twitter-presence-essential-unfollowing-apps-guide-for-2024/"><u>[Updated] Elevate Your Twitter Presence Essential Unfollowing Apps Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-preserving-your-google-voice-history-a-step-by-step-guide-for-2024/"><u>[Updated] Preserving Your Google Voice History A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-moto-g34-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Moto G34 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-gpu-fan-resistance-issues/"><u>Addressing GPU Fan Resistance Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-random-hp-monitor-flickering/"><u>Addressing Random HP Monitor Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/align-screen-horizons-uniformly/"><u>Align Screen Horizons Uniformly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ati-graphics-armored-support-restored/"><u>ATI Graphics Armored, Support Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-windows-graphical-output-with-latest-intel-driver-update/"><u>Boost Windows' Graphical Output with Latest Intel Driver Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-amds-graphics-setback/"><u>Bypass AMD's Graphics Setback</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-slowing-screen-speed-with-simple-steps/"><u>Cure Slowing Screen Speed with Simple Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/downtime-for-disturbed-windows-11-displays/"><u>Downtime for Disturbed Windows 11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-error-rectified-system-stable/"><u>Driver Error Rectified, System Stable</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-display-latency-issues/"><u>Eliminate Display Latency Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-fails-conquer-crashing-on-windows/"><u>Fallout Fails: Conquer Crashing on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-unreliable-touchscreen/"><u>Fixing Lenovo's Unreliable Touchscreen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-end-displays-revived-with-windows-update/"><u>High-End Displays Revived with Windows Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-g22-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Nokia G22 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resurrect-a-non-displaying-device-screen/"><u>How to Resurrect a Non-Displaying Device Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-boosting-video-quality-utilizing-youtube-studios-features/"><u>In 2024, Boosting Video Quality Utilizing YouTube Studio's Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-error-12-solved-monsters-rejoice/"><u>MH World Error 12 Solved - Monsters Rejoice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-display-saved-settings-freeze-in-windows-oses/"><u>Overcoming Display Saved Settings Freeze in Windows OSes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-highlow-res-errors/"><u>Overcoming Windows 10 High/Low-Res Errors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/prevalent-global-languages-studied-by-americans/"><u>Prevalent Global Languages Studied by Americans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-no-signal-on-wi-fi-in-windows-11/"><u>Resolved: No Signal on Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-quiet-gpu-fans/"><u>Reviving Quiet GPU Fans</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-a20-uncovered-is-this-budget-android-device-worth-your-attention/"><u>Samsung Galaxy A20 Uncovered: Is This Budget Android Device Worth Your Attention?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saved-display-settings-no-more-trouble/"><u>Saved Display Settings, No More Trouble</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sharp-currents-dell-display-flicker-stopped/"><u>Sharp Currents: Dell Display Flicker Stopped</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-stability-challenges-in-civ-5windows/"><u>Tackling Stability Challenges in Civ 5/Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-graphics-nvidiaintel-fix-confirmed-for-win11/"><u>Triumph Over Switchable Graphics - Nvidia/Intel Fix Confirmed for Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-launch-of-google-pixel-tablet-full-details-on-specifications-and-announcement-timeline/"><u>Upcoming Launch of Google Pixel Tablet: Full Details on Specifications & Announcement Timeline</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-excessive-scale-problem/"><u>Window's 11 Excessive Scale Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-and-amd-detection-driver-issue-now-addressed-fixed/"><u>Windows 10 & AMD: Detection Driver Issue Now Addressed, Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-screen-size-scaling-down/"><u>Windows 11 Screen Size: Scaling Down?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-reducing-extra-screen-real-estate/"><u>Windows 11: Reducing Extra Screen Real Estate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8s-key-to-a-clean-start-safe-mode-and-driver-uninstallation-guide/"><u>Windows 8'S Key to a Clean Start: Safe Mode & Driver Uninstallation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winsoft-upgrade-no-more-interoperability-anxiety/"><u>WinSOFT Upgrade: No More Interoperability Anxiety</u></a></li>
+</ul></div>

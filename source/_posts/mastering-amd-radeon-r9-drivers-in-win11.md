@@ -1,7 +1,7 @@
 ---
 title: Mastering AMD Radeon R9 Drivers in Win11
-date: 2024-07-12T00:40:41.504Z
-updated: 2024-07-13T00:40:41.504Z
+date: 2024-09-09T02:27:38.999Z
+updated: 2024-09-10T02:27:38.999Z
 tags:
   - win11
   - win10
@@ -18,6 +18,12 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58647de6a91e7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 AMD Radeon R9 series of graphics card is one of the perfect choices for gamers. Windows 10 users have reported that they are having some problem with their AMD Radeon R9 series of graphics card.  
   
 For example, some users reported that the screen would go blank after 5 to 20 minutes into the games and the only thing left to do was to restart. And that the screen flickered when they are playing games and the screen brightness could not be adjusted.
@@ -50,6 +56,18 @@ Before we proceed with the following resolutions, please make sure that you have
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) In the command prompt window, type in the following command:
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -58,6 +76,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648713723c7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) You need to wait for a while with patience for the process to finish, especially when it reaches 20%. The operation will finish in a few minutes.  
   
  **Step two: Run SFC command**
@@ -86,24 +110,72 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e5733e51.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) If you are with AMD processors, select**Catalyst Control Center**and choose**Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648f8f4dd21.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you are with Intel processors, select to uninstall **ALL** AMD software that you can see in this window.  
   
  3) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586490d260746.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Locate**Display adapters**category, then double click the**AMD Radeon R9**series of display driver that you have.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9af8c728.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Under**Driver**tab, choose**Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9dcb005b.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tick the box for**Delete the driver software for this device** option and click**OK** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ab747efcd.png)
@@ -118,6 +190,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864acd59401a.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your computer will restart when the whole process if finished.
   
 **Note** : If you already have a trusted application or driver remover, you can use it to do the full uninstall too.
@@ -126,6 +204,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864b2625647d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to save yourself more time and energy for other things, you can leave your driver problems to [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It automatically help you detects, downloads and updates device drivers that are missing or outdated on your computer. And, there are only two steps you take to do it:
   
  Step one: press the**Scan Now** button so [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) can help you detect for needed drivers.
@@ -160,3 +244,38 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-resident-evil-village-not-starting-dx12-problem/"><u>[FIXED] Resident Evil Village Not Starting - DX12 Problem</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-android-enables-seamless-screen-capturing/"><u>[New] 2024 Approved How Android Enables Seamless Screen Capturing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fifas-favorite-footage-charted-on-youtube/"><u>[Updated] FIFA's Favorite Footage Charted on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>[Updated] In 2024, Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-disconnection-issues-in-freesync-systems/"><u>Addressing Disconnection Issues in FreeSync Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-compatibility-hurdle-for-nvidia-7025/"><u>Conquering Compatibility Hurdle for Nvidia 7025</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-init-unsuccessful-resolved/"><u>D3D Init: Unsuccessful, Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-dilemma-screen-turned-onyx/"><u>Drive Dilemma: Screen Turned Onyx</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gateway-broken-geforce-experience-opened/"><u>Gateway Broken: GeForce Experience Opened</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunders-gameplay-gains/"><u>God of Thunder's Gameplay Gains</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-poco-c51-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Poco C51 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-powerful-tactics-leveraging-youtube-links-for-fb-exposure/"><u>In 2024, Powerful Tactics Leveraging YouTube Links for FB Exposure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monstrous-error-hunter-worlds-glitch-fixed-fast/"><u>Monstrous Error: Hunter World's Glitch Fixed Fast</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-complete-guide-to-translate-video-with-google/"><u>New In 2024, A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gpu-armored-post-acceleration/"><u>Nvidia GPU Armored Post-Acceleration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-loading-issue-for-amd-on-windows-now-functioning-correctly/"><u>Overcome Loading Issue for AMD on Windows, Now Functioning Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-unmet-graphic-specifications-now-addressed/"><u>Overwatch: Unmet Graphic Specifications Now Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-and-simple-monitor-finesse/"><u>Quick and Simple Monitor Finesse</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-7-reverse-image-problem/"><u>Rectifying Windows 7 Reverse Image Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-the-power-behind-4k-uhd-visuals/"><u>Revealing the Power Behind 4K UHD Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smoothest-android-3d-video-streaming-for-2024/"><u>Smoothest Android 3D Video Streaming for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-monitor-distortion-problems/"><u>Solve Monitor Distortion Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-reduce-flickering-in-acer-panels/"><u>Techniques to Reduce Flickering in Acer Panels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-a-dark-monitor-on-pcs/"><u>Troubleshooting a Dark Monitor on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-tv-when-connecting-laptop-with-hdmi/"><u>Unresponsive TV When Connecting Laptop with HDMI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974233298-upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-upgrades-no-more-video-lags-or-pauses/"><u>Win10 Upgrades: No More Video Lags or Pauses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974715730-windows-10-and-amd-detection-driver-issue-now-addressed-fixed/"><u>Windows 10 & AMD: Detection Driver Issue Now Addressed, Fixed!</u></a></li>
+</ul></div>

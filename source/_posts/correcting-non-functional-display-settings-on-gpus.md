@@ -1,7 +1,7 @@
 ---
 title: Correcting Non-Functional Display Settings on GPUs
-date: 2024-09-04T12:05:40.746Z
-updated: 2024-09-05T12:05:40.746Z
+date: 2024-09-09T02:30:36.537Z
+updated: 2024-09-10T02:30:36.537Z
 tags:
   - win11
   - win10
@@ -14,18 +14,42 @@ keywords: GPU Display Issue,Fix Non-Functional Graphics Card Settings,Resolve GP
 thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c462456694222e012226efef555d04fe.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Correcting Non-Functional Display Settings on GPUs
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591121a1475ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you open NVIDIA control panel, if you get error message “NVIDIA Display settings are not available. You are not currently using a display attached to an NVIDIA GPU”, don’t worry. You can use the top 2 methods here to fix the error.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Top Method 1: Plug the monitor into the correct port**
 
  The error may occur if the monitor was plugged into the wrong port. So ensure the monitor is plugged into the correct port.
 
 **Tip:** If you have more than one port, plug the cable to other ports and see if the problem resolves.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Top Method 2: Reinstall the NVIDIA graphics driver**
 
  You can go to NVIDIA’s website to check for and download the latest graphics card driver that you need.
@@ -42,12 +66,24 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae5a6993f7f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged Nvidia driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
  Here take NVIDIA GeForce GTX 1080 for example. Driver Easy will detect the graphics card driver installed on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae5a7e64fbb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hope the two methods above will help you fix the issue.
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -136,10 +172,3 @@ Hope the two methods above will help you fix the issue.
 <li><a href="https://network-issues.techidaily.com/win10-update-solutions-for-video-buffering-issues/"><u>Win10 Update: Solutions for Video Buffering Issues</u></a></li>
 <li><a href="https://network-issues.techidaily.com/zero-tolerance-for-zoom-cameras-gone-wrong-weve-got-the-fixes/"><u>Zero Tolerance for Zoom Cameras Gone Wrong? We've Got the Fixes!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

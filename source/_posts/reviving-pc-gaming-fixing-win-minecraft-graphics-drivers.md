@@ -1,7 +1,7 @@
 ---
 title: "Reviving PC Gaming: Fixing Win-Minecraft Graphics Drivers"
-date: 2024-09-04T12:05:39.950Z
-updated: 2024-09-05T12:05:39.950Z
+date: 2024-09-09T02:30:35.793Z
+updated: 2024-09-10T02:30:35.793Z
 tags:
   - win11
   - win10
@@ -14,6 +14,12 @@ keywords: Win-Minecraft Graphics,PC Gaming Optimization,Minecraft Graphics Drive
 thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a2f1680afb2687afaf4dfa29.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reviving PC Gaming: Fixing Win-Minecraft Graphics Drivers
 
 * **[Problem description](#1)**
@@ -27,10 +33,22 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Let’s look closer at this problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f82ede599.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To fix this problem, this tutorial provides five different and effective ways for you to have a try. Please read along and find the right method for you.   **\[Before We Start\]**The first thing we can do when we are addressing this crash is to make sure that Minecraft is up to date, which applies to the game itself. You can check the version number of**Minecraft**on the bottom right corner and the**Minecraft Launcher**version under**Launcher Log**tab. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b82e22374.png) Then compare the version number with the one that could be found on [Minecraft website](https://minecraft.net/en/) to see if you have the latest version installed. Second, you need to make sure that you have installed the latest Windows Update. You can type**windows update**in the search box and open the Windows Update program that comes up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785befa5c60a.png)
@@ -39,14 +57,32 @@ If you can see some updates on your computer, click the**Install updates**button
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bf28ed4ba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thirdly, you need to make sure that you have the latest version of Java installed on your computer also. You could check the version of your Java by opening this [webpage](https://www.java.com/en/download/installed.jsp) in Firefox or Internet Explorer browser. If you don’t have the latest version yet, please update it. When you have get the preparation done, it is time for you to follow the instructions below to get the problem fixed.   **Method One: Change Hardware Acceleration** 1) Click**Start**button, then select **Control Panel**. 2) View by**Small icons**and select**Display**option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785efeb9f490.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) On the left panel, click**Change display settings**option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f01132191.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Then select**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f044a3475.png)
@@ -55,6 +91,12 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3640a93c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) In the coming up window, go to**Driver**tab and then click the**Roll Back Driver**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3cf36bcb.png) 4) Click**Yes**when this window comes up.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e4168f03c.png) 5) Restart your computer after this change. **Note**: If the**Roll Back Driver** button is grey here like the screen shot below, then you might not be able to proceed with this method. It is suggested that you try the other methods below. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e52a88640.png)   **Method Three: Update Video Driver Manually**1) Press**Windows Key + R**at the same time to invoke a**Run**command. Then type in**dxdiag**and press**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7a2b26ae.png) 2) Go to**Display**tab and locate the video card device information. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7dd4fc08.png) Base on the device name of your video or display card, go to the manufacturer’s official website and look for the latest version of driver for your video card. The majority of users will have one of the below makes of video card:
 
 * **Intel –[How to download Intel display card driver?](https://tools.techidaily.com/drivereasy/download/)**
@@ -158,16 +200,3 @@ As you can see, the free version is equally capable as the professional version 
 <li><a href="https://network-issues.techidaily.com/wi-fi-driver-uninstalled-reinstate-windows-10-card/"><u>Wi-Fi Driver Uninstalled? Reinstate Windows 10 Card</u></a></li>
 <li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-missing-adjustments/"><u>Windows 11 Advanced Display Missing Adjustments</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

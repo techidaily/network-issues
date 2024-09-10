@@ -1,7 +1,7 @@
 ---
 title: Cursor Stuck on Win10 Blank Screens
-date: 2024-07-12T00:41:56.926Z
-updated: 2024-07-13T00:41:56.926Z
+date: 2024-09-09T02:25:48.059Z
+updated: 2024-09-10T02:25:48.059Z
 tags:
   - win11
   - win10
@@ -14,10 +14,28 @@ keywords: Windows 10 Cursor Stuck Issue,Fixing Blank Screen on Windows 10,Cursor
 thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4ce1afea7cdc9e81385d2297.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cursor Stuck on Win10 Blank Screens
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
 
  There are six possible solutions for this problem. You may not have to try them all – just work your way down the list until you find the fix that works for you.
@@ -73,6 +91,12 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -83,10 +107,22 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -99,6 +135,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
 ### **Fix 4: Disable integrated graphics card**
@@ -113,9 +155,27 @@ If you’re on a laptop:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
@@ -148,6 +208,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -156,6 +222,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Follow the on-screen instructions to create a new user account.
 
 6) Log in to this account and check to see if the black screen problem persists.
@@ -172,12 +244,24 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -188,6 +272,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
@@ -222,3 +312,48 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-making-sporting-scenes-spectacomed/"><u>[New] 2024 Approved Making Sporting Scenes Spectacomed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/udiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[New] Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-enhance-your-meetings-top-5-live-stream-recording-tools/"><u>[Updated] 2024 Approved Enhance Your Meetings Top 5 Live Stream Recording Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-video-recording-devices-for-quality/"><u>[Updated] Premium Video Recording Devices for Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x8c-feature-analysis/"><u>[Updated] Syma X8C Feature Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>[Updated] The Ultimate Guide to Android Photo Enhancement 5 Top Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-panning-for-priceless-pieces-in-open-source-archives/"><u>2024 Approved Panning for Priceless Pieces in Open-Source Archives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-sharing-twitter-video-feeds-via-facebook-platform/"><u>2024 Approved Sharing Twitter Video Feeds via Facebook Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-in-video-card-driver/"><u>Armored Fix in Video Card Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-roblox-interactivity-on-your-computer/"><u>Boost Roblox Interactivity on Your Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-oled-and-lcd-screens-flicker/"><u>Combat OLED and LCD Screens Flicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-output-normalized/"><u>Display Output Normalized</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-guide-free-dell-thunderbolt-tb16-portable-expansion-cradle-firmware-updates/"><u>Download and Update Guide: Free Dell Thunderbolt TB16 Portable Expansion Cradle Firmware Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-for-error-22-rectified/"><u>Driver Update for Error 22 Rectified</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhancing-business-communication-with-professional-skype-recordings/"><u>Enhancing Business Communication with Professional Skype Recordings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tip-swift-fix-for-apex-loot-mishaps/"><u>Expert Tip: Swift Fix for Apex Loot Mishaps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-power-of-focused-image-blurring/"><u>Exploring the Power of Focused Image Blurring</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-incompatible-amd-freesync-sync-signal/"><u>Fixing Incompatible AMD FreeSync Sync Signal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fresh-installation-black-screen-phenomenon/"><u>Fresh Installation: Black Screen Phenomenon</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortlessly-stream-mp3-to-youtube-with-3-key-steps/"><u>In 2024, Effortlessly Stream MP3 to YouTube with 3 Key Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p40plus-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P40+ Phone FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/minecraft-mastery-the-art-of-brewing-an-awkward-potion/"><u>Minecraft Mastery: The Art of Brewing an Awkward Potion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/neutralizing-screen-volatility-pro-7-guide/"><u>Neutralizing Screen Volatility: Pro 7 Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-control-panel-status-green/"><u>Nvidia Control Panel - Status Green</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauled-error-22-in-graphicsdriver/"><u>Overhauled Error #22 in GraphicsDriver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/persistent-wi-fi-connection-issues/"><u>Persistent Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-display-set-configurations-on-windows-107/"><u>Re-Enabling Display Set Configurations on Windows 10/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-display-issue-fullscreen-windows-11-shown-correctly/"><u>Rectified Display Issue - Fullscreen Windows 11 Shown Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-win11-monitor-flashing-issue/"><u>Resolve Win11 Monitor Flashing Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-wi-fi-capability-wireless-card-reinstalled-in-windows-10/"><u>Restore Wi-Fi Capability: Wireless Card Reinstalled in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-lost-display-settings-in-windows-oses/"><u>Restoring Lost Display Settings in Windows OSes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silencing-the-fallout-4-errors-on-pc/"><u>Silencing the Fallout 4 Errors on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-high-latency-in-virtual-construction-platform/"><u>Solving High Latency in Virtual Construction Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-roblox-slowness-at-pc-level/"><u>Tackle Roblox Slowness at PC Level</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-for-fixing-lenovo-glare/"><u>Techniques for Fixing Lenovo Glare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unshackled-bios-configuration-access/"><u>Unshackled: BIOS Configuration Access</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-graphics-fault-ui-stops-resolved-quickly/"><u>WinOS Graphics Fault, UI Stops (Resolved Quickly)</u></a></li>
+</ul></div>

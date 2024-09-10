@@ -1,7 +1,7 @@
 ---
 title: "Wi-Fi Annoyance: Constantly Disconnected"
-date: 2024-07-12T00:43:13.533Z
-updated: 2024-07-13T00:43:13.533Z
+date: 2024-09-09T02:25:32.046Z
+updated: 2024-09-10T02:25:32.047Z
 tags:
   - win11
   - win10
@@ -39,20 +39,68 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 4. Power cycle your router and modem by unplugging them, waiting 30 seconds, then plugging them back in.
 5. Make sure your router firmware is up to date.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1: Change the power management
 
 1. On your keyboard, press the**Windows logo key** and the**R key** to open the Run command window.
 2. Type in**control** in the box and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 3. Double-click on**Network and Sharing Center** .  
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-control-panel-network-and-sharing-center.jpg)
 4. Click**Change adapter settings** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-25-29.jpg)
 5. **Right-click** your WiFi adapter and click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-27-14.jpg)
 6. Click**Configure** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-42-21.jpg)
 7. Go to the**Power Management** tab.**Untick** the box next to**Allow the computer to turn off this device to save power** . Click**OK** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-46-42.jpg)
 
 ## Step 2: Reset the Wi-Fi AutoConfig service
@@ -67,6 +115,12 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-54-11.jpg)
 5. Check to see if your Wi-Fi connection is back to normal. If not, you need to try the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 3: Update network adapter driver
 
  If the steps above don’t fix your problem, it’s likely that you’re using the wrong or corrupted network driver. To resolve this issue, **you should try updating the wireless network adapter driver to the latest version** .
@@ -83,11 +137,23 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/de-update-all-wireless-6.0.jpg)
 4. Restart your computer for the changes to take effect.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After following these steps, your WiFi connection should be more stable. If you don’t experience an improvement, you might have a hardware issue. In this case, it’s a good idea to contact your computer manufacturer for help.
 
@@ -114,3 +180,36 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-rust-legacy-launch-issue-dx12-failure/"><u>[FIXED] Rust Legacy Launch Issue - DX12 Failure</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-surviving-and-thriving-adapting-to-facebooks-algorithm-changes/"><u>[New] In 2024, Surviving and Thriving Adapting to Facebook's Algorithm Changes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/trategic-use-of-creative-commons-copyright-law-for-2024/"><u>[New] Strategic Use of Creative Commons Copyright Law for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-devices-for-home-and-office-for-2024/"><u>[New] Ultimate Devices for Home and Office for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bridging-the-online-gap-in-cod-cold-war-2024/"><u>[RESOLVED] Bridging the Online Gap in CoD Cold War 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-prime-framing-features-on-mac-max-length-156-for-2024/"><u>[Updated] Prime Framing Features on Mac (Max Length 156) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-digital-dynamics-surging-success-through-smart-telegram-tactics/"><u>2024 Approved Digital Dynamics Surging Success Through Smart Telegram Tactics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-hd-6950-win11-driver-improvements-revealed/"><u>AMD HD 6950 Win11 Driver Improvements Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridging-gap-how-to-fix-ignored-gpu-detection/"><u>Bridging Gap: How to Fix Ignored GPU Detection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inadequate-computer-specs-for-driver-compatibility/"><u>Correcting Inadequate Computer Specs for Driver Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-vertical-image-flip-on-win-11/"><u>Correcting Vertical Image Flip on Win 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-a-faulty-corsair-audio-device-a-step-by-step-guide/"><u>Diagnosing and Repairing a Faulty Corsair Audio Device: A Step by Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/directdraw-inactive-armor-implemented/"><u>DirectDraw Inactive, Armor Implemented</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-leads-to-dark-void/"><u>Driver Update Leads to Dark Void</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-hd-video-converter-and-dvd-ripper-official-winx-download-center/"><u>Free HD Video Converter & DVD Ripper: Official WinX Download Center</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-interface-error-cleared-running-smoothly/"><u>Graphic Interface Error Cleared, Running Smoothly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-note-30-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-seven-water-resilient-camera-brands/"><u>In 2024, Pioneering Seven Water-Resilient Camera Brands</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-success-story-no-hurdles-for-nvidia/"><u>Installation Success Story: No Hurdles for NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/market-dynamics-understanding-the-shifts-in-gaming-hardware-landscape/"><u>Market Dynamics: Understanding the Shifts in Gaming Hardware Landscape</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-upside-down-error/"><u>Rectifying Window's Upside-Down Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-non-detection-of-gfx/"><u>Reverse Non-Detection of GFX</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shattering-screen-shimmer-on-win11/"><u>Shattering Screen Shimmer on Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-common-problems-when-cortana-wont-work-properly/"><u>Solved!: Overcoming Common Problems When Cortana Won't Work Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-radeon-r9-and-windows-11-compatibility-issues/"><u>Tackling Radeon R9 & Windows 11 Compatibility Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrading-intel-graphic-compatibility-with-windows/"><u>Upgrading Intel Graphic Compatibility with Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visualinterface-crashes-window-os-fixed-ready-to-go/"><u>VisualInterface Crashes, Window OS Fixed (Ready to Go)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xfx-resumes-operation-post-error/"><u>XFX Resumes Operation Post-Error</u></a></li>
+</ul></div>

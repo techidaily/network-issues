@@ -1,7 +1,7 @@
 ---
 title: "New Tech Woes: Blacked-Out Screens"
-date: 2024-07-12T00:43:32.760Z
-updated: 2024-07-13T00:43:32.760Z
+date: 2024-09-09T02:24:07.221Z
+updated: 2024-09-10T02:24:07.221Z
 tags:
   - win11
   - win10
@@ -40,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
 ## 2\. See if an additional power supply is required
@@ -60,6 +66,12 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -72,6 +84,12 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
@@ -86,13 +104,31 @@ If this is not the problem, please move on.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -103,6 +139,12 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Here are the things you should pay extra attention to:
 
 1. If the graphics card is fake, the name shown here should be marked with a \[FAKE\] symbol. So the no display issue with the new graphics card should be with the card itself.
@@ -115,6 +157,12 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -124,10 +172,22 @@ Here are the things you should pay extra attention to:
 1. Click the **Windows start menu** and type **msconfig** , then click **Open** :  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
@@ -170,3 +230,46 @@ Here are the things you should pay extra attention to:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-tom-clancys-rainbow-six-siege-update-dx12-crash/"><u>[FIXED] Tom Clancy's Rainbow Six: Siege Update - DX12 Crash</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-faces-to-watch-top-cosmetic-creatives-for-2024/"><u>[Updated] The Faces to Watch Top Cosmetic Creatives for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-guide-to-using-retro-effects-on-edits-for-2024/"><u>[Updated] Ultimate Guide to Using Retro Effects on Edits for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-sharex-overview-top-picks-and-substitutes/"><u>2024 Approved ShareX Overview Top Picks & Substitutes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-gamers-guide-to-lgs-360-degree-vr-experience-for-2024/"><u>A Gamer's Guide to LG's 360-Degree VR Experience for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974359536-achieve-crisp-clear-displays-with-the-newest-intel-graphics-update-on-windows-10/"><u>Achieve Crisp, Clear Displays with the Newest Intel Graphics Update on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-civ-5-problems-on-a-pc/"><u>Addressing Civ 5 Problems on a PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cessation-of-inconsistent-lcd-patterns/"><u>Cessation of Inconsistent LCD Patterns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combatting-display-anomalies-on-pro-7/"><u>Combatting Display Anomalies on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispelling-shadows-on-incomprehensible-direct-x-woes/"><u>Dispelling Shadows on Incomprehensible Direct X Woes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-setup-guide-downloading-and-installing-brother-mfc-9130cw-drivers/"><u>Easy Setup Guide: Downloading and Installing Brother MFC-9130CW Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-next-gen-linguistics-with-googles-innovative-palm-2-framework/"><u>Exploring Next-Gen Linguistics with Google's Innovative PaLM 2 Framework</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windowas-10-driver-issue-for-amd-detection-no-more-failed-attempts/"><u>Fixed Windowas 10 Driver Issue for AMD, Detection No More Failed Attempts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-erratic-win7-monitor-behavior/"><u>Fixing Erratic Win7 Monitor Behavior</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-error-43-on-gpu/"><u>Fixing Error 43 on GPU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flashy-phosphorescence-in-your-acer-laptop/"><u>Fixing Flashy Phosphorescence in Your Acer Laptop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-perplexing-ghostrunner-failure-issue-on-windows-11-systems/"><u>Fixing the Perplexing GhostRunner Failure Issue on Windows 11 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hdmi-link-fails-television-refuses-display-feed/"><u>HDMI Link Fails: Television Refuses Display Feed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-realme-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Realme</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>In 2024, Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhance-visibility-the-power-of-customized-youtube-templates/"><u>In 2024, Enhance Visibility The Power of Customized YouTube Templates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-installer-all-clear-proceed-with-install/"><u>Nvidia Installer: All Clear, Proceed With Install</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-troubleshoot-restore-your-gameplay/"><u>NVIDIA RTX 3080 Troubleshoot - Restore Your Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operating-system-adjustment-glitchy-opengl-fixed/"><u>Operating System Adjustment: Glitchy OpenGL Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-graphics-anomaly-gl-issue-now-solved/"><u>Overcome Graphics Anomaly: GL Issue, Now Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/powering-through-with-new-amd-graphics-drivers-version-20/"><u>Powering Through with New AMD Graphics Drivers - Version 2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-fix-for-uninterrupted-streaming/"><u>Rapid Fix for Uninterrupted Streaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/real-time-view-counter-analyzers-for-2024/"><u>Real-Time View Counter Analyzers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-graphics-cards-not-detected-in-computers/"><u>Remedying Graphics Cards Not Detected in Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-freeze-problem-windows-pointer/"><u>Resolve Freeze Problem: Windows Pointer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-elusive-screen-blanks/"><u>Revealing Elusive Screen Blanks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-into-success-10-pivotal-steps-for-exceptional-smm-achievement/"><u>Step Into Success 10 Pivotal Steps for Exceptional SMM Achievement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974682383-swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-a2-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi A2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-mastering-handbrake-parameters-for-dvd-to-mp4-transfer/"><u>Ultimate Guide: Mastering HandBrake Parameters for DVD-to-MP4 Transfer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-amd-radeon-hd-6950-windows-update/"><u>Upgraded AMD Radeon HD 6950 Windows Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-graphic-glitch-rectified/"><u>Win11 Graphic Glitch Rectified</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-yuva-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Yuva 2? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-armored-and-resolved/"><u>Xbox 360 Emulation Armored & Resolved</u></a></li>
+</ul></div>
