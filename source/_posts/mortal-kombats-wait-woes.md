@@ -1,7 +1,7 @@
 ---
 title: Mortal Kombat's Wait Woes
-date: 2024-07-12T00:30:30.776Z
-updated: 2024-07-13T00:30:30.776Z
+date: 2024-09-09T01:11:58.070Z
+updated: 2024-09-14T23:52:36.337Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
@@ -96,15 +103,39 @@ Here we recommend using Google DNS:
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
@@ -177,13 +208,18 @@ When it’s all done, resume your download and it should be faster.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,6 +228,20 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-cutting-edge-video-editing-mastering-green-screen-integration/"><u>[New] Cutting Edge Video Editing Mastering Green Screen Integration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortlessly-increase-youtube-video-dimensions/"><u>[Updated] 2024 Approved Effortlessly Increase YouTube Video Dimensions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instagram-to-twitter-sharing-without-retweeting/"><u>[Updated] 2024 Approved Instagram to Twitter Sharing without Retweeting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[Updated] In 2024, Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>[Updated] Secrets From the Pros High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-visual-clarity-and-gaming-performance-using-updated-intel-gpu-driver-for-w10/"><u>Boost Visual Clarity and Gaming Performance Using Updated Intel GPU Driver for W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-light-to-dark-lenovos-solution/"><u>Bringing Light to Dark: Lenovo’s Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-c1900101-hurdle-in-win10-install/"><u>Eliminating C1900101 Hurdle in Win10 Install</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-magic-vs-2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Magic Vs 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-wsl-2-enhance-your-docker-operations-on-windows/"><u>Maximizing WSL 2: Enhance Your Docker Operations on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-amd-driver-release-optimized-performance-on-win11-and-radeon-hd-6950/"><u>New AMD Driver Release: Optimized Performance on Win11 and Radeon HD 6950</u></a></li>
+</ul></div>
 

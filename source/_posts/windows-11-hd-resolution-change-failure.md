@@ -1,7 +1,7 @@
 ---
 title: Windows 11 HD Resolution Change Failure
-date: 2024-07-12T00:35:57.986Z
-updated: 2024-07-13T00:35:57.986Z
+date: 2024-09-09T16:10:29.199Z
+updated: 2024-09-14T16:00:14.907Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -99,6 +106,13 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -119,8 +133,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +140,23 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-video-producers-digital-command-center/"><u>[New] 2024 Approved Discovering Video Producers' Digital Command Center</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-future-of-tv-watching-a-closer-look-at-youtube-tv-for-2024/"><u>[New] The Future of TV Watching A Closer Look at YouTube TV for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-straightening-drone-shake-a-video-guide/"><u>2024 Approved Straightening Drone Shake A Video Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-amds-graphics-setback/"><u>Bypass AMD's Graphics Setback</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-error-rectified-system-stable/"><u>Driver Error Rectified, System Stable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-nfl-sundays-for-free-unlock-verizons-special-promotion/"><u>Get Your NFL Sundays for Free - Unlock Verizon's Special Promotion!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/maximizing-view-quality-on-team-meetings-in-ms-teams/"><u>Maximizing View Quality on Team Meetings in MS Teams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-error-12-solved-monsters-rejoice/"><u>MH World Error 12 Solved - Monsters Rejoice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/pioneers-in-post-production-top-tools-for-instagram-content-creators-for-2024/"><u>Pioneers in Post-Production Top Tools for Instagram Content Creators for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-no-signal-on-wi-fi-in-windows-11/"><u>Resolved: No Signal on Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saved-display-settings-no-more-trouble/"><u>Saved Display Settings, No More Trouble</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-free-window-11-skins-enhance-your-pc-experience/"><u>Top 15 Free Window 11 Skins: Enhance Your PC Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-cryptic-stability-the-stablecoin-phenomenon/"><u>Unmasking Cryptic Stability: The Stablecoin Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-excessive-scale-problem/"><u>Window's 11 Excessive Scale Problem</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2024-09-09T02:30:32.012Z
-updated: 2024-09-10T02:30:32.012Z
+date: 2024-09-14T01:23:09.048Z
+updated: 2024-09-14T18:51:22.903Z
 tags:
   - win11
   - win10
@@ -42,12 +42,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -57,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 3: Update the network card driver
 
  The connection problem can be caused by faulty network drivers. To fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with Driver Easy. 
@@ -81,19 +69,7 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -101,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -111,29 +94,19 @@ Follow the steps below:
 1. Press the**Windows** key and**R** key at the same time. Type**devmgmt.msc** in the run box and click on the**OK** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 6: Run network commands
 
  Corrupted DNS cache matters can prevent you from connecting to the internet because it can cause a mismatch in your IP address. Therefore, you might need to flush the DNS cache to fix the internet that is connected but not working issue.
@@ -146,11 +119,12 @@ Follow the steps below:
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -159,12 +133,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Superfast internet and up to $250 in reward cards
 
  Order online and get up to a $200 reward card—plus an extra $50 reward card when you enter promo code **FALL50** at checkout.
@@ -177,8 +145,6 @@ Follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,36 +154,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-archive-your-nintendo-switch-gameplay/"><u>[New] In 2024, How to Archive Your Nintendo Switch Gameplay</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-remove-a-desktop-discord-server/"><u>[New] In 2024, How to Remove a Desktop Discord Server</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-affordable-webinar-tools-for-efficient-recording/"><u>[Updated] 2024 Approved  Affordable Webinar Tools for Efficient Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-become-an-engaging-speaker-on-google-meet-platforms/"><u>[Updated] Become an Engaging Speaker on Google Meet Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-depth-3d-text-designs-in-illustrator/"><u>[Updated] Crafting Depth  3D Text Designs in Illustrator</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>2024 Approved  A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-crashes-fallout-4-pc-solved/"><u>Banish Crashes: Fallout 4 PC Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-up-blacked-out-screen-win10-fix/"><u>Brightening Up Blacked Out Screen: Win10 Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clarified-unknown-direct-x-flub-on-legends-of-lol/"><u>Clarified Unknown Direct X Flub on Legends of LoL</u></a></li>
-<li><a href="https://network-issues.techidaily.com/computer-graphics-component-revived/"><u>Computer Graphics Component Revived</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-driver-code-43-armored/"><u>Display Driver, Code 43 Armored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-amds-difficulty-to-detect-driver-in-windowas-10/"><u>Fixed AMD's Difficulty to Detect Driver in Windowas 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-hybrid-gpu-glitch-resolving-issues-with-intellnvidia-in-win10/"><u>Fixed Hybrid GPU Glitch: Resolving Issues with Intell/Nvidia in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719973927899-fixed-lenovo-tap-glitch-back-to-life/"><u>Fixed Lenovo Tap Glitch, Back to Life!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-c1900101-during-windows-installation/"><u>Fixing C1900101 During Windows Installation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-display-glows-intermittently-issue-resolved/"><u>Laptop Display Glows Intermittently - Issue Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monster-hunter-unleashed-crash-conqueror-found/"><u>Monster Hunter Unleashed: Crash Conqueror Found</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-pros-and-cons-of-the-costly-but-superb-google-pixelbook-go-laptop/"><u>Navigating Through the Pros and Cons of the Costly, But Superb Google Pixelbook Go Laptop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-display-driver-setbacks-amd-radeon-r9/"><u>Overcoming Display Driver Setbacks: AMD Radeon R9</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-corrected-graphical-hardware-error/"><u>Overwatch: Corrected Graphical Hardware Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quenching-windows-reflections-overdrive/"><u>Quenching Windows Reflections Overdrive</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revise-microsofts-bd-functionality-in-windows-series/"><u>Revise Microsoft's BD Functionality in Windows Series</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-media-playback-after-upgrading-to-windows-11/"><u>Seamless Media Playback After Upgrading to Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-win11-flashy-monitor-problems/"><u>Solve Win11 Flashy Monitor Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-mastering-slug-line-crafting/"><u>Step-by-Step Guide to Mastering Slug Line Crafting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unseen-graphics-driver-fixes/"><u>Unseen Graphics Driver Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/alert-msvcr120dll-absent-in-win1110/"><u>[ALERT] MSVCR120.dll Absent in Win11/10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>[New] 2024 Approved From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-enhancement-picture-posting-guide/"><u>[New] Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-darkness-issue-with-mobile-computers/"><u>Correcting Darkness Issue with Mobile Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-halt-blackout/"><u>Driver Update Halt: Blackout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unwieldy-windows-11-monitors/"><u>Fixing Unwieldy Windows 11 Monitors</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23FRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-reversed-color-photography/"><u>In 2024, Mastering the Art of Reversed Color Photography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-vidmaster-pro-8-review-highlights/"><u>In 2024, VidMaster Pro 8 Review Highlights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx210-update-boosts-windows-11-performance/"><u>RTX210 Update Boosts Windows 11 Performance</u></a></li>
 </ul></div>
+

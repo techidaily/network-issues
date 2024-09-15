@@ -1,7 +1,7 @@
 ---
 title: Exorcising Flicker From Surface Pro 7
-date: 2024-07-12T00:34:02.156Z
-updated: 2024-07-13T00:34:02.156Z
+date: 2024-09-14T00:40:38.773Z
+updated: 2024-09-14T16:50:19.345Z
 tags:
   - win11
   - win10
@@ -51,6 +51,19 @@ Here’s how to do it:
  Alternatively, you download the**Internet Graphic Command Center** app from Microsoft Store. Once in the app, select **System** from the left menu, then select **Power** from the top menu, and switch off**Adaptive Brightness** of**On Battery** and on**Plugged In** .
 
  You’ll find the Surface Pro 7 screen flickering stops right away. But if not, don’t worry. You should be able to fix it by following these fixes below.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display drivers
 
@@ -109,9 +122,23 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Within settings, select**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the side taskbar, click**Display** .
 
@@ -154,6 +181,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now check your screen to see if the flickering issue is resolved by now.
 
 #### Option 2 – Manually
@@ -161,6 +195,19 @@ Now check your screen to see if the flickering issue is resolved by now.
  1) On your keyboard, press the**Windows Logo** Key and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When prompted for permission to make changes to your device, click**Yes** .
 
@@ -184,8 +231,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +238,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ssential-tech-for-new-channel-launches/"><u>[New] Essential Tech for New Channel Launches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-iphone-7-perfect-methods-for-screen-recording/"><u>2024 Approved IPhone 7 Perfect Methods for Screen Recording</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gone-greyware-on-great-display/"><u>Gone Greyware on Great Display</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-master-the-art-of-converting-fb-to-mp4-720p1080p-without-paying/"><u>In 2024, Master the Art of Converting FB to MP4, 720P/1080p, Without Paying</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-lightless-lamentation/"><u>Laptop Lightless Lamentation</u></a></li>
+<li><a href="https://win11.techidaily.com/remote-procedure-call-woes-five-quick-solutions/"><u>Remote Procedure Call Woes - Five Quick Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-facing-displays-on-win11-pro/"><u>Resolving Backward-Facing Displays on Win11 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stability-issues-with-civ-5pc/"><u>Resolving Stability Issues with Civ 5/PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-link-reconnect-computer-and-television-hdmi/"><u>Restoring Lost Link: Reconnect Computer & Television HDMI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-clarity-restored-for-win10-users/"><u>Screen Clarity Restored for Win10 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/select-15-professional-luts-to-boost-gopro-cinematography-for-2024/"><u>Select 15 Professional LUTs to Boost GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-playback-on-upgraded-windows-10-systems/"><u>Smooth Playback on Upgraded Windows 10 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-causes-top-7-issues-leading-to-non-responsive-iphone-touchscreens/"><u>Uncover the Causes: Top 7 Issues Leading to Non-Responsive iPhone Touchscreens</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disable Blank Window Mode on Win10
-date: 2024-07-12T00:33:55.578Z
-updated: 2024-07-13T00:33:55.578Z
+date: 2024-09-11T19:31:01.079Z
+updated: 2024-09-14T16:29:11.499Z
 tags:
   - win11
   - win10
@@ -83,6 +83,20 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -101,6 +115,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -113,8 +134,22 @@ If you’re on a laptop:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -168,6 +203,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -210,8 +252,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +259,22 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-techniques-recording-movies-with-windowsmacosios-for-2024/"><u>[New] Comprehensive Techniques Recording Movies with Windows/macOS/iOS for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-free-video-recorders-for-every-android-user/"><u>[New] Free Video Recorders for Every Android User</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-record-good-audio-without-a-microphone-in-2024/"><u>[New] How to Record Good Audio Without a Microphone, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-moto-z2-play-smartphone-review-for-2024/"><u>[New] MOTO Z2 Play Smartphone Review for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-addressing-hearing-gaps-in-video-content-sharing/"><u>[Updated] Addressing Hearing Gaps in Video Content Sharing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-content-creator-to-cash-generator-your-facebook-journey-for-2024/"><u>From Content Creator to Cash Generator Your Facebook Journey for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guidelines-to-end-lenovo-visual-pulse/"><u>Guidelines to End Lenovo Visual Pulse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-a-world-without-adobe-flash-alternatives-and-steps/"><u>How to Navigate a World without Adobe Flash: Alternatives and Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-14-pro-max-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 14 Pro Max to Computer? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-innovation-enhanced-support-via-rtx210-win11-update/"><u>NVIDIA's Innovation: Enhanced Support via RTX210 Win11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-loading-hurdles-successful-amd-driver-on-win10/"><u>Overcoming Loading Hurdles: Successful AMD Driver on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-drivers-evolve-with-latest-windows-11-upgrade/"><u>Radeon HD 6950 Drivers Evolve with Latest Windows 11 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-win11-black-box-quirk/"><u>Tackling Win11 Black Box Quirk</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-upscreen-unlock-secrets/"><u>Unresponsive Upscreen, Unlock Secrets</u></a></li>
+</ul></div>
 

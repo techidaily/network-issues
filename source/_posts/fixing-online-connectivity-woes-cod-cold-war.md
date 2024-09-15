@@ -1,7 +1,7 @@
 ---
 title: "[FIXING]: Online Connectivity Woes - CoD Cold War"
-date: 2024-07-12T00:33:19.402Z
-updated: 2024-07-13T00:33:19.402Z
+date: 2024-09-14T05:46:12.316Z
+updated: 2024-09-14T23:57:39.115Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ If you are not sure where your game is installed, take these steps:
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then it’ll launch in admin mode.
 
 ---
@@ -143,10 +150,31 @@ To see if a new DNS address helps, you can follow the instructions below:
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -166,11 +194,26 @@ To see if a new DNS address helps, you can follow the instructions below:
 2. In the top right, click**LOGIN** .  
 ![link activision account](https://images.drivereasy.com/wp-content/uploads/2020/11/LOGIN-activision-account.jpg)
 3. Then you’ll be redirected to the login page. Now simply enter your details.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once you’re logged in, click**PROFILE** in the top right.  
 ![activision profile](https://images.drivereasy.com/wp-content/uploads/2020/11/activision-profile.jpg)
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, launch your game and check if you can connect to online services.
 
@@ -192,8 +235,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +242,20 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-cod-cold-war-restoring-online-playability/"><u>[FIXED] CoD Cold War - Restoring Online Playability</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-creating-a-narrative-structure-in-online-video-tutorials/"><u>[New] Creating a Narrative Structure in Online Video Tutorials</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-voice-your-imagery-a-tiktok-breakdown-for-2024/"><u>[New] How to Voice Your Imagery A TikTok Breakdown for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sculpting-styles-manipulating-text-with-3d/"><u>[Updated] Sculpting Styles Manipulating Text with 3D</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hunters-top-5-video-tools-of-today/"><u>2024 Approved Hunters' Top 5 Video Tools of Today</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-your-youtube-video-bugs-green-screen-edition/"><u>Clearing Up Your YouTube Video Bugs: Green Screen Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/elevate-your-video-game-the-7-best-free-online-video-enhancers-for-2024/"><u>Elevate Your Video Game The 7 Best Free Online Video Enhancers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-mobile-apps-top-8-creativity-boosters-on-ios-and-android/"><u>Essential Mobile Apps Top 8 Creativity Boosters on iOS and Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-showdown-choosing-between-chatgpt-and-microsoft-bing-chat/"><u>Generative AI Showdown: Choosing Between ChatGPT and Microsoft Bing Chat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-inverted-image-feature-from-w11/"><u>Removing Inverted Image Feature From W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-settings-save-issue/"><u>Resolving Display Settings Save Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-and-qualcomm-adapter-wireless-unity/"><u>Windows 10 & Qualcomm Adapter: Wireless Unity</u></a></li>
+</ul></div>
 

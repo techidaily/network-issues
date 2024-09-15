@@ -1,7 +1,7 @@
 ---
 title: Eliminate Display Latency Issues
-date: 2024-07-12T00:33:15.052Z
-updated: 2024-07-13T00:33:15.052Z
+date: 2024-09-09T01:07:53.689Z
+updated: 2024-09-14T22:41:21.640Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -77,9 +84,23 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -101,8 +122,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +129,20 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unravel-time-on-your-screen-fresh-perspectives-to-watch-youtube-backwards/"><u>[New] 2024 Approved Unravel Time on Your Screen Fresh Perspectives to Watch YouTube Backwards</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-laughter-to-devices-downloading-twitters-animated-fun-for-2024/"><u>[New] From Laughter to Devices Downloading Twitter's Animated Fun for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-space-best-practices-for-tiktok-videos/"><u>[New] In 2024, Twitter's Space Best Practices for TikTok Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-gathering-the-good-times-easy-steps-to-download-and-store-twitters-animated-tweets/"><u>[Updated] In 2024, Gathering the Good Times Easy Steps to Download and Store Twitter's Animated Tweets</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevate-editing-excellence-cutting-edge-strategies-for-vimeo-video-reduction/"><u>2024 Approved Elevate Editing Excellence Cutting-Edge Strategies for Vimeo Video Reduction</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-8-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 8 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/american-karaoke-extravaganza-premium-fun-for-less-your-guide-to-sub-150-entertainment/"><u>American Karaoke Extravaganza: Premium Fun for Less – Your Guide to Sub-$150 Entertainment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-removal-techniques-for-youtubes-green-screen-faults/"><u>Efficient Removal Techniques for Youtube's Green Screen Faults</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-z270-gaming-pro-carbon-access-high-end-motherboard-and-professional-graphic-drivers-now/"><u>Intel Z270 Gaming Pro Carbon: Access High-End Motherboard and Professional Graphic Drivers Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-precision-lag-free-gaming/"><u>Master Precision: Lag-Free Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-device-report-issue-causing-win-stop/"><u>Resolve: Device Report Issue Causing Win Stop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieving-lost-display-features-windows-10/"><u>Retrieving Lost Display Features, Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-lenovo-non-responsive-tap-problem/"><u>Solved Lenovo Non-Responsive Tap Problem</u></a></li>
+</ul></div>
 

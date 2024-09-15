@@ -1,7 +1,7 @@
 ---
 title: ATI Graphics Armored, Support Restored
-date: 2024-07-12T00:33:08.586Z
-updated: 2024-07-13T00:33:08.586Z
+date: 2024-09-11T17:56:22.012Z
+updated: 2024-09-15T00:59:57.999Z
 tags:
   - win11
   - win10
@@ -83,8 +83,24 @@ OR
 2. Type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7baf1906244.png)
 3. You can see a list of **Microsoft Visual C++ Redistributable packages**  installed on your computer. Right click on the one you want to uninstall, and click **Uninstall**  , then follow the on-screen instructions to uninstall it.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7baf7492bc3.jpg)
 4. When the uninstallation is finished, you can go to the [Windows download page](https://support.microsoft.com/en-hk/help/2977003/the-latest-supported-visual-c-downloads)  to download the corresponding Visual C++ Redistributable packages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click on the downloaded file to begin the installation process.
 6. Restart your computer and check if the application where you encountered the error message now works properly.
 
@@ -103,8 +119,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,6 +126,22 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-eliminating-audio-absence-in-live-obs-sessions/"><u>[Updated] 2024 Approved Eliminating Audio Absence in Live OBS Sessions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-newbies-netflix-nook-deciphering-resolution-ratings/"><u>[Updated] 2024 Approved Newbie's Netflix Nook Deciphering Resolution Ratings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-social-media-presence-with-these-snapchat-strategies/"><u>[Updated] Elevate Your Social Media Presence with These Snapchat Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-securing-top-viewership-unveiling-the-hidden-power-of-youtubes-featured-channels/"><u>[Updated] Securing Top Viewership Unveiling the Hidden Power of YouTube’s Featured Channels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-troubleshoot-driver-detection-errors-cleared-in-win10/"><u>AMD Troubleshoot: Driver Detection Errors Cleared in Win10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat-for-2024/"><u>Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clarifying-concepts-behind-4k-extraordinary-definition/"><u>Clarifying Concepts Behind 4K Extraordinary Definition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-dim-laptop-screen-problem-in-lenovo/"><u>Correcting Dim Laptop Screen Problem in Lenovo</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077s-troubling-encounter-an-in-depth-look-at-error-code-2024/"><u>Cyberpunk 2077'S Troubling Encounter: An In-Depth Look at Error Code 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-chromebook-shutter-magic-4-simple-steps/"><u>In 2024, Chromebook Shutter Magic - 4 Simple Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-improved-graphics-driver-for-win10s-nvidia-210/"><u>New Improved Graphics Driver for Win10's Nvidia 210</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-11-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-incompatibility-fixed-graphics-update-successful/"><u>Overwatch Incompatibility Fixed: Graphics Update Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-win7-screen-pulsation-issue/"><u>Solutions for Win7 Screen Pulsation Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Corrected Display Issue - Windows 11 Now Shows Fullscreen
-date: 2024-07-12T00:30:10.668Z
-updated: 2024-07-13T00:30:10.668Z
+date: 2024-09-13T19:13:21.836Z
+updated: 2024-09-15T01:30:56.977Z
 tags:
   - win11
   - win10
@@ -130,13 +130,40 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -163,8 +190,6 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,6 +197,20 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures/"><u>[New] In 2024, Maximize Your Sim's Legacy Top Techniques for Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-perfecting-online-presence-key-to-knowing-and-using-fb-video-ratios/"><u>[New] Perfecting Online Presence Key to Knowing and Using FB Video Ratios</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-pc-stability-issues-resolved-no-more-game-crashes/"><u>Battlefield 5 PC Stability Issues Resolved - No More Game Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-raising-computer-specifications/"><u>Comprehensive Guide to Raising Computer Specifications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-fluctuating-monitor-illumination-on-notebook/"><u>Fix: Fluctuating Monitor Illumination on Notebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>In 2024, From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-techniques-for-photoshop-pros-a-step-by-step-guide/"><u>In 2024, HDR Techniques for Photoshop Pros A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-c33-2023-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme C33 2023 Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/remove-a-background-in-affinity-photo-for-2024/"><u>Remove a Background in Affinity Photo for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/systems-silent-spotlight-on-nvidia-how-to-fix/"><u>System's Silent Spotlight on NVIDIA - How to Fix?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-solving-persistent-issues-with-windows-explorer-crashes/"><u>Ultimate Guide: Solving Persistent Issues with Windows Explorer Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visualsystem-crashes-windows-resolved-quickly/"><u>VisualSystem Crashes Windows (Resolved Quickly)</u></a></li>
+</ul></div>
 

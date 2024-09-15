@@ -1,7 +1,7 @@
 ---
 title: ATI GPU Lacks DX Acceleration Fix
-date: 2024-09-09T02:30:33.992Z
-updated: 2024-09-10T02:30:33.992Z
+date: 2024-09-14T03:45:32.091Z
+updated: 2024-09-14T21:38:02.507Z
 tags:
   - win11
   - win10
@@ -41,32 +41,14 @@ thumbnail: https://thmb.techidaily.com/71d273f8b15957f17fdeb3b0aae3c0885fe07f2dc
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  and  
  **R** key at the same time to invoke the Run box.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Type****dxdiag**and click****OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8b3e75161.png)
 3. In DirectX Diagnostic Tool, click on the****Display**tab to check if your Direct3D Acceleration is****enabled** . If not, click to enable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8c1f7496a.jpg)
 4. Click on the**System** tab to check your**DirectX Version** .  If it doesn’t meet the requirement (DirectX 9.0 and later), you should update your DirectX version in your system. Updating DirectX varies from Windows versions.  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re using Windows 10, 8 or 8.1, you’ll need to update and install the latest DirectX; if you’re using Windows 7, Vista or XP, you should install a service pack to update. Check the Microsoft support to update DirectX in different Windows system: [How to install the latest version of DirectX](https://support.microsoft.com/en-us/help/179113/how-to-install-the-latest-version-of-directx)  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8d336b3d4.jpg)
 5. Check if your problem is now resolved. If not, try Solution 2, below.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -86,29 +68,18 @@ OR
 2. Run Driver Easy and click ****Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfcc45af28d0.jpg)
 3. Click**Update**  next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All**  to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  . You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfcc47398702.jpg)
 4. Restart your computer and check if your program is now resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 3, below.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 3: Reinstall Visual C++ Redistributables
 
  You can also try reinstalling the Visual C++ Redistributables packages on your computer:
@@ -119,18 +90,14 @@ OR
 2. Type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7baf1906244.png)
 3. You can see a list of **Microsoft Visual C++ Redistributable packages**  installed on your computer. Right click on the one you want to uninstall, and click **Uninstall**  , then follow the on-screen instructions to uninstall it.  
+
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7baf7492bc3.jpg)
 4. When the uninstallation is finished, you can go to the [Windows download page](https://support.microsoft.com/en-hk/help/2977003/the-latest-supported-visual-c-downloads)  to download the corresponding Visual C++ Redistributable packages.
 5. Double-click on the downloaded file to begin the installation process.
@@ -151,8 +118,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,60 +125,14 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-your-profile-with-high-quality-videos/"><u>[New] 2024 Approved  Enhancing Your Profile With High-Quality Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-obsudio-screencast-review-finding-your-best-live-broadcast-tool/"><u>[New] 2024 Approved  Obsudio Screencast Review  Finding Your Best Live Broadcast Tool</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[New] Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>[New] Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-ringtone-renaissance-websites-worth-visiting/"><u>[New] Ringtone Renaissance  Websites Worth Visiting</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-elite-selection-of-instagram-image-boosters/"><u>[New] The Elite Selection of Instagram Image Boosters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-decoding-revenue-how-much-do-creators-earn-on-youtube/"><u>[Updated] 2024 Approved  Decoding Revenue  How Much Do Creators Earn on Youtube?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-instant-guide-setup-snapchat-for-mac-users/"><u>[Updated] Instant Guide  Setup Snapchat for Mac Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-camera-list-best-videography-devices-of-the-year/"><u>2024 Approved  Cutting-Edge Camera List  Best Videography Devices of the Year</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>2024 Approved  Harnessing Technology  The Art of Capturing iOS Devices in Media</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-insights-how-to-make-your-videos-a-hit/"><u>2024 Approved  Instagram Insights  How to Make Your Videos a Hit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagrams-edge-transforming-your-videography-with-precision-cropping/"><u>2024 Approved  Instagram's Edge  Transforming Your Videography with Precision Cropping</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressed-expanded-screen-size-issues-for-windows/"><u>Addressed Expanded Screen Size Issues for Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-lack-of-visual-feedback-in-computers/"><u>Addressing Lack of Visual Feedback in Computers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/best-practice-video-placement-on-facebook-vh/"><u>Best Practice  Video Placement on Facebook (V/H)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/efficient-practices-logging-google-voice-dialogues/"><u>Efficient Practices  Logging Google Voice Dialogues</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-youtube-productions-with-effective-video-lighting/"><u>Elevating YouTube Productions with Effective Video Lighting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elucited-explanation-of-4k-super-hd-resolution/"><u>Elucited Explanation of 4K Super HD Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-blurry-display-in-win11/"><u>Ending Blurry Display in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-common-flaws-in-windows-applications/"><u>Essential Tips to Overcome Common Flaws in Windows Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-the-best-8-spots-for-free-3d-text-psd-downloads-for-2024/"><u>Find the Best 8 Spots for FREE 3D Text PSD Downloads for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974361533-fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won't Turn On Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixes-for-silent-gpu-fan-failure/"><u>Fixes for Silent GPU Fan Failure</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-flaky-wi-fi-flow/"><u>Fixing the Flaky Wi-Fi Flow</u></a></li>
-<li><a href="https://network-issues.techidaily.com/god-of-war-performance-peak/"><u>God of War: Performance Peak</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-preferences-retained-post-update/"><u>Hardware Preferences Retained Post-Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-red-magic-8s-proplus-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Red Magic 8S Pro+ Is Unlocked</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-non-detected-gpgpu-issue/"><u>How To Fix Non-Detected GPGPU Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-xcover-7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy XCover 7 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6s-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6s</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-synchronized-device-tutorial-for-efficient-movie-logging/"><u>In 2024, Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
-<li><a href="https://network-issues.techidaily.com/issue-resolved-monitor-shows-portion-not-all-windows-windows-10/"><u>Issue Resolved: Monitor Shows Portion, Not All Windows (Windows 10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-monitor-troubleshooting-no-light/"><u>Lenovo Monitor: Troubleshooting No-Light</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mitigate-monitor-blinking-quick-guide/"><u>Mitigate Monitor Blinking: Quick Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-flashy-windows-11-monitor/"><u>Overcome Flashy Windows 11 Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-on-win11-monitors/"><u>Restored Fullscreen Functionality on Win11 Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-functioning-nvidia-card-on-win11/"><u>Seamless Functioning: Nvidia Card on Win11</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-reno-9a-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo Reno 9A</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smashing-through-green-screen-setbacks-on-youtube/"><u>Smashing Through Green Screen Setbacks on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-corrective-actions-with-undetected-gpus/"><u>Steps for Corrective Actions with Undetected GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-rebooted-after-graphics-card-hiccup/"><u>System Rebooted After Graphics Card Hiccup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-next-step-windows-10-enhancements-with-amds-radeon-hd-6950-drivers/"><u>The Next Step: Windows 10 Enhancements with AMD's Radeon HD 6950 Drivers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-prime-selection-top-ranked-gopro-case-models/"><u>The Prime Selection  Top-Ranked GoPro Case Models</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-steps-to-resolve-c1900101-in-windows-11/"><u>Troubleshooting Steps to Resolve C1900101 in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vivacut-masterclass-a-complete-editor-guide/"><u>VivaCut Masterclass  A Complete Editor Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-update-eliminating-qualcomm-atheros-driver-issues/"><u>Win11 Update: Eliminating Qualcomm Atheros Driver Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-resolution-adjustment-problem-no-longer-exists/"><u>Windows 10 Resolution Adjustment - Problem No Longer Exists</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-crystal-vision-unlocked/"><u>Windows: Crystal Vision Unlocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-flickering-on-monitors-a-diy-guide/"><u>Banish Flickering on Monitors: A DIY Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-14-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 14 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-effective-solution-for-error-3-0x0001000b/"><u>Rainbow Six Siege Troubleshooting: Effective Solution for Error 3-0X0001000B</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-non-stuttering-views-only/"><u>Swift Remedy: Non-Stuttering Views Only</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-erratic-windows-7-display/"><u>Taming Erratic Windows 7 Display</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-tips-for-preventing-v-from-crashing-on-your-pc/"><u>Ultimate Fix Tips for Preventing V From Crashing on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-s25-anticipated-costs-launch-timeline-and-features/"><u>Unveiling the Samsung Galaxy S25: Anticipated Costs, Launch Timeline & Features</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Display Settings Issue: Windows 10 Fixed"
-date: 2024-07-12T00:37:25.927Z
-updated: 2024-07-13T00:37:25.927Z
+date: 2024-09-12T17:45:44.894Z
+updated: 2024-09-14T20:52:28.583Z
 tags:
   - win11
   - win10
@@ -90,11 +90,31 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -119,8 +139,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +146,17 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-from-idea-to-live-stream-a-comprehensive-guide-for-instagram-and-obs-users/"><u>[New] From Idea to Live Stream A Comprehensive Guide for Instagram & OBS Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[New] In 2024, Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-webcasts-on-demand-a-straightforward-recording-technique/"><u>2024 Approved Webcasts On Demand A Straightforward Recording Technique</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-disconnection-issues-in-freesync-systems/"><u>Addressing Disconnection Issues in FreeSync Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gpu-armored-post-acceleration/"><u>Nvidia GPU Armored Post-Acceleration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-obs-for-otofb-mastery-guide-for-2024/"><u>Optimizing OBS for OToFB Mastery Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-unmet-graphic-specifications-now-addressed/"><u>Overwatch: Unmet Graphic Specifications Now Addressed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premiere-selection-of-virtual-gaming-essentials/"><u>Premiere Selection of Virtual Gaming Essentials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/self-verification-on-instagram-does-it-serve-us-in-2024/"><u>Self-Verification on Instagram Does It Serve Us, In 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974233298-upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10</u></a></li>
+</ul></div>
 

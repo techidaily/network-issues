@@ -1,7 +1,7 @@
 ---
 title: Repairing Shimmery Windows 7 Displays
-date: 2024-07-12T00:38:01.187Z
-updated: 2024-07-13T00:38:01.187Z
+date: 2024-09-07T23:24:44.816Z
+updated: 2024-09-15T06:24:49.429Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -66,6 +73,20 @@ To troubleshoot these hardware issues:
 1. Click the**Start** button >**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
@@ -86,8 +107,24 @@ To troubleshoot these hardware issues:
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
@@ -119,8 +156,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +163,22 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ncredible-mobile-photography-and-videography-apps-for-iosandroid/"><u>[New] Incredible Mobile Photography & Videography Apps for iOS/Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-graphics-installed-amd-adapter-in-win1110/"><u>[TROUBLESHOOTED GRAPHICS] Installed AMD Adapter in Win11/10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-backdrops-for-dynamic-streaming/"><u>[Updated] Top Backdrops for Dynamic Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-power-your-day-with-essential-windows-10-hacks/"><u>2024 Approved Power Your Day with Essential Windows 10 Hacks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-cinematic-content-with-precision-ratios/"><u>Crafting Cinematic Content with Precision Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6s-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6s Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone/"><u>In 2024, Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-recovering-missing-regedit/"><u>Mastering the Art of Recovering Missing Regedit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/y-showcase-inspiring-recipe-channels-that-thrive/"><u>Savory Showcase Inspiring Recipe Channels That Thrive</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-official-100-valid-wondershare-filmora-coupon-code-up-to-54-off/"><u>Updated Official 100 Valid Wondershare Filmora Coupon Code Up to 54 OFF</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+</ul></div>
 

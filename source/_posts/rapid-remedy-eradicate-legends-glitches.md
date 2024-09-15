@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-09-09T02:30:32.924Z
-updated: 2024-09-10T02:30:32.924Z
+date: 2024-09-11T06:22:35.665Z
+updated: 2024-09-14T23:32:26.257Z
 tags:
   - win11
   - win10
@@ -14,18 +14,6 @@ keywords: Rapid Remedy,Legends Glitches,Eradicate Game Bugs,Faster Glitch Fixes,
 thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553b264310d7d2980b9ce91d3e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rapid Remedy: Eradicate Legends Glitches
 
 ![Apex Legends crash](https://images.drivereasy.com/wp-content/uploads/2019/03/image-124.png)
@@ -55,12 +43,6 @@ Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -81,12 +63,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,21 +78,16 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
@@ -163,6 +134,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -181,28 +159,23 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
 #### Fix 6: Reinstall Apex Legends
@@ -215,18 +188,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -241,8 +202,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,48 +209,23 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere/"><u>[New] Pioneering Techniques for Superior Fullscreen Presentation in Premiere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-present-day-drones-paving-way-for-futuristic-advancements/"><u>[New] Present-Day Drones Paving Way for Futuristic Advancements</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-system-installed-gpu-driver-for-win1110/"><u>[REPAIRED SYSTEM] Installed GPU Driver for Win11/10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-creative-mc-survival-habitat-concepts/"><u>[Updated] 2024 Approved  Creative MC Survival Habitat Concepts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-paving-your-way-to-cost-savvy-cloud-choices/"><u>[Updated] In 2024, Paving Your Way to Cost-Savvy Cloud Choices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/20-leading-no-cost-digital-editing-platforms/"><u>20 Leading No-Cost Digital Editing Platforms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-frame-ratio-classifications/"><u>2024 Approved  FB Video Frame Ratio Classifications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-elevation-incorporating-text-into-3d-artwork/"><u>2024 Approved  Illustration Elevation  Incorporating Text Into 3D Artwork</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms/"><u>2024 Approved  One Step at a Time  How to Create a Skype Group on Both Platforms</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 15</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerate-clear-video-experience/"><u>Accelerate Clear Video Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieving-installation-success-enhancing-minimum-requirements/"><u>Achieving Installation Success: Enhancing Minimum Requirements</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cleared-up-windows-stopped-due-to-nvidia-complaint/"><u>Cleared Up: Windows Stopped Due to Nvidia Complaint</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comprehensive-study-amds-impact-on-the-pc-gaming-market/"><u>Comprehensive Study: AMD's Impact on the PC Gaming Market</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-fixed-code-22-in-driver/"><u>Correcting Fixed Code #22 in Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-drivers-fixed-code-22/"><u>Debugged: Drivers' Fixed Code #22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easily-elevate-intels-graphics-3000-on-ws11/"><u>Easily Elevate Intel's Graphics 3000 on WS11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-smooth-operation-geforce-and-win11-together/"><u>Ensuring Smooth Operation: GeForce & Win11 Together</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-horizontalvertical-displacement-on-monitors/"><u>Fix Horizontal/Vertical Displacement on Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-43-no-more/"><u>GPU Error 43, No More</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco Phone?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-a-seamless-experience-accessing-youtube-video-comments/"><u>In 2024, Tips for a Seamless Experience  Accessing YouTube Video Comments</u></a></li>
-<li><a href="https://network-issues.techidaily.com/non-jitter-streaming-made-easy/"><u>Non-Jitter Streaming Made Easy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-amd-graphics-hurdle-fast/"><u>Overcome AMD Graphics Hurdle Fast</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-end-to-stuttered-vids/"><u>Quick End to Stuttered Vids</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-pixel-stutter-in-displays/"><u>Rectify Pixel Stutter in Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resetting-asus-for-operational-webcam/"><u>Resetting Asus for Operational Webcam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-sailing-installation-of-wi-fi-expansion-cards-on-desktops/"><u>Smooth Sailing: Installation of Wi-Fi Expansion Cards on Desktops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-common-issues-fixing-c1900101-error-in-windows-11/"><u>Solving Common Issues: Fixing C1900101 Error in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stability-triumph-fixing-fallout-4-issues/"><u>Stability Triumph: Fixing Fallout 4 Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-for-streaming-on-latest-windows-10/"><u>Successful Troubleshooting for Streaming on Latest Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-restoration-rectify-legends-glitches/"><u>Swift Restoration: Rectify Legends Glitches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-students-handbook-to-securing-spotify-price-cuts/"><u>The Comprehensive Student's Handbook to Securing Spotify Price Cuts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/titans-unbound-lags-on-purchase/"><u>Titans Unbound: Lags on Purchase</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-woes-the-story-of-vanished-signal-on-windows-11/"><u>Wi-Fi Woes: The Story of Vanished Signal on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-elevated-performance-discover-the-power-of-amd-radeon-hd-6950-update-v20/"><u>Windows 10 Elevated Performance: Discover the Power of AMD Radeon HD 6950 Update V2.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-experience-no-more-interop-woes/"><u>Windows Experience: No More Interop Woes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] 2024 Approved Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-recruiter-shorts-find-your-motivation/"><u>[New] Top Recruiter Shorts Find Your Motivation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-unadorned-screen-recorder-2023/"><u>[Updated] In 2024, Ultimate Unadorned Screen Recorder 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-most-lucrative-star-title/"><u>[Updated] YouTube's Most Lucrative Star Title</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-windows-display-skewness-issues/"><u>Corrected Windows Display Skewness Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-init-failure-issue-now-addressed/"><u>D3D Init Failure: Issue Now Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/detected-and-armored-opengl-bug-in-nvidia-driver-armor/"><u>Detected & Armored: OpenGL Bug in Nvidia Driver Armor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-virtual-construction-on-your-computer/"><u>Efficient Virtual Construction on Your Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-trusted-source-for-downloading-brother-hl-l238-driver-software-on-windows-systems/"><u>Expert Advice: Trusted Source for Downloading Brother HL-L238# Driver Software on Windows Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-xr-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone XR Safe and Legal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-13-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 13 Pro Max Smoothly</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/new-release-macx-dvd-ripper-pro-version-46-with-enhanced-compatibility-for-macos-el-capitan/"><u>New Release: MacX DVD Ripper Pro Version 4.6 with Enhanced Compatibility for macOS El Capitan</u></a></li>
+<li><a href="https://network-issues.techidaily.com/software-update-resolved-issue/"><u>Software Update Resolved Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-fix-guide-resolving-srt-not-working-problems-for-2024/"><u>The Ultimate Fix Guide Resolving SRT Not Working Problems for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unravelled-perplexing-x-error-on-league-of-legends/"><u>Unravelled: Perplexing X-Error on League of Legends</u></a></li>
 </ul></div>
+

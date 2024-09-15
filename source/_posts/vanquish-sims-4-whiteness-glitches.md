@@ -1,7 +1,7 @@
 ---
 title: Vanquish Sims 4 Whiteness Glitches
-date: 2024-07-12T00:32:12.824Z
-updated: 2024-07-13T00:32:12.824Z
+date: 2024-09-11T19:07:51.046Z
+updated: 2024-09-15T01:10:57.106Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
@@ -108,6 +115,13 @@ Here are the steps:
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -122,6 +136,13 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -158,6 +179,19 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
@@ -178,8 +212,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +219,20 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/alternate-fix-added-missing-amd-graphics-for-windows-10/"><u>[ALTERNATE FIX] Added Missing AMD Graphics for Windows 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-discovering-your-lately-watched-fb-movies-made-simple-for-2024/"><u>[New] Discovering Your Lately Watched Fb Movies Made Simple for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-revolutionary-metaverse-tech-highlights-of-top-8-helmets/"><u>[New] In 2024, Revolutionary Metaverse Tech Highlights of Top 8 Helmets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>[New] Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-hitting-the-sweet-spot-balancing-images-in-your-instagram-story/"><u>[Updated] 2024 Approved Hitting the Sweet Spot Balancing Images in Your Instagram Story</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>2024 Approved Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects/"><u>Bring Your Vision to Life Incorporating Free LUT Filters Into OBS Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/experts-speak-up-immediate-fixes-for-zoom-cameras-in-trouble/"><u>Experts Speak Up! Immediate Fixes for Zoom Cameras in Trouble</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-to-enhance-your-photos-with-titled-content-win-11/"><u>How to Enhance Your Photos with Titled Content (Win 11)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eradicate-lenovo-screen-flashes/"><u>Steps to Eradicate Lenovo Screen Flashes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-workout-routine-an-expert-analysis-of-samsung-galaxy-watch-active-as-a-fitness-companion/"><u>Transform Your Workout Routine: An Expert Analysis of Samsung Galaxy Watch Active as a Fitness Companion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-4k-quad-high-clarity/"><u>Understanding 4K Quad-High Clarity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Civ 5 Freezes on Computer
-date: 2024-09-09T02:30:37.025Z
-updated: 2024-09-10T02:30:37.025Z
+date: 2024-09-08T03:14:41.111Z
+updated: 2024-09-14T16:29:24.646Z
 tags:
   - win11
   - win10
@@ -14,30 +14,12 @@ keywords: Civilization V Crash Fix,Solve Civilization V Freeze Issues,Fixing Civ
 thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d93c80ae19bbdd0f525004e0.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Civ 5 Freezes on Computer
 
 ![civ 5 crash](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13785c7d494-300x246.jpg)
 
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 fixes for the CIV 5 crashing problem
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the**CIV 5 crashing**  problem is resolved.
@@ -73,30 +55,12 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Install the latest DirectX**
 
 **DirectX**  is feature developed by Microsoft to allow for a more smooth gaming experience for gamers. So you should always make sure to have the latest DirectX installed on your computer to stop game crashes.
@@ -108,17 +72,38 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -135,8 +120,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,71 +127,18 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unlock-high-quality-video-playback-with-av1-on-youtube/"><u>[New] 2024 Approved  Unlock High-Quality Video Playback with AV1 on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-comprehensive-look-at-youtuber-snippets/"><u>[New] A Comprehensive Look at Youtuber Snippets</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-social-media-showdown-comparing-igtv-and-youtubes-unique-aspects/"><u>[New] Social Media Showdown  Comparing IGTV and YouTube's Unique Aspects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-overcoming-internet-barriers-in-cod-cold-war/"><u>[SOLVED] Overcoming Internet Barriers in CoD Cold War</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimal-6-crafted-urban-home-concepts/"><u>[Updated] 2024 Approved  Optimal 6 Crafted Urban Home Concepts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-detailed-guide-to-dollar-counts-a-stepwise-strategy-to-track-youtube-earnings/"><u>[Updated] In 2024, Detailed Guide to Dollar Counts  A Stepwise Strategy to Track YouTube Earnings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[Updated] In 2024, Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>[Updated] In 2024, From Watch List to Download  YouTube Playlist in Minutes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sharing-joy-iphone-memes/"><u>[Updated] Sharing Joy  IPhone Memes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-ultra-short-timelapse-capture-methods-for-2024/"><u>[Updated] Top Ultra-Short Timelapse Capture Methods for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>[Updated] Unlocking Cinematic Magic  Top 5 Filmmaking Insights</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-art-of-editing-an-instagram-guide/"><u>2024 Approved  Mastering the Art of Editing  An Instagram Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-premium-aerial-imagery-crews-the-10-drones/"><u>2024 Approved  Premium Aerial Imagery Crews  The #10 Drones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-video-reverse-technique-iphone-expertise-guide/"><u>2024 Approved  Video Reverse Technique  IPhone Expertise Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-invisible-graphics-cards-your-fix/"><u>Addressing Invisible Graphics Cards: Your Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-windows-flicker-disturbance/"><u>Addressing Windows Flicker Disturbance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/card-problem-solution-error-43/"><u>Card Problem Solution - Error 43</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-errors-in-civilization-vpc-games/"><u>Correcting Errors in Civilization V/PC Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screen-in-windows-11-update/"><u>Correcting Upside-Down Screen in Windows 11 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-setup-failure-addressed/"><u>Direct3D Setup Failure Addressed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovered-backdoor-shadowplay-controls/"><u>Discovered Backdoor: ShadowPlay Controls</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-the-essential-secrets-of-morphvox/"><u>Discovering the Essential Secrets of MorphVOX</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-hp-lcd-flashes/"><u>Eliminating HP LCD Flashes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-clarity-for-all-windows/"><u>Enhanced Clarity for All Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-display-settings-for-windows-11-users/"><u>Enhanced Display Settings for Windows 11 Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-places-for-next-gen-vr-content/"><u>Exclusive Places for Next-Gen VR Content</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-inconsistent-reflective-panel-fluctuations/"><u>Fixed: Inconsistent Reflective Panel Fluctuations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-43-resolved/"><u>GPU Error 43 Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974710557-graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974119817-halt-amd-glitch-enter-game/"><u>Halt AMD Glitch, Enter Game!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-smart-7-hd-by-drfone-android/"><u>How to Bypass FRP on Infinix Smart 7 HD?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hurdles-cleared-in-nvidia-installation-process/"><u>Hurdles Cleared in Nvidia Installation Process</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 14 without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g04-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G04 To Phone | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-missing-from-tvs-panel/"><u>Laptop Image Missing From TV's Panel</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-nvidia-fermi-series-update-geforce-210-windows-integration/"><u>Latest NVidia Fermi Series Update: GeForce 210 Windows Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-screen-non-interaction-a-quick-fix/"><u>Lenovo Screen Non-Interaction: A Quick Fix</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-note-30-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Note 30 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-gpu-drivers-removal-in-win-oses/"><u>Mastering the Art of GPU Drivers Removal in Win OSes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/minimal-troubleshooting-guide-dormant-gpu-display/"><u>Minimal Troubleshooting Guide: Dormant GPU Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-flipped-displays-on-windows-11-os/"><u>Overcoming Flipped Displays on Windows 11 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-minimum-requirements-barrier-for-drivers/"><u>Overcoming Minimum Requirements Barrier for Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721096618625-qualcomm-atheros-bluetooth-drivers-wont-work-on-windows-10-discover-the-fix-now/"><u>Qualcomm Atheros Bluetooth Drivers Won't Work on Windows 10? Discover the Fix Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-tips-to-solve-wide-text-line-phenomena-in-notebooks/"><u>Quick Tips to Solve Wide Text Line Phenomena in Notebooks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-70-lite-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor 70 Lite 5G has been deleted.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-unwavering-light-on-laptop-screen/"><u>Restored Unwavering Light on Laptop Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-slow-texture-loading-on-far-cry-6-playstation/"><u>Solving Slow Texture Loading on Far Cry 6 PlayStation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-streams-over-sluggish-windows-internet/"><u>Swift Streams over Sluggish Windows Internet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-overcome-sims-4-monochrome-errors/"><u>Swiftly Overcome Sims 4 Monochrome Errors</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 Pro | Stellar</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-essential-guide-to-youtube-trailer-editing-with-filmora-for-2024/"><u>The Essential Guide to YouTube Trailer Editing with Filmora for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-settings-on-windows-11/"><u>Unlock Hidden Display Settings on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unraveling-wow-error-code-51900319/"><u>Unraveling WoW Error Code: 51900319</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveil-the-future-of-graphics-geforce-210-drivers-for-win10/"><u>Unveil the Future of Graphics: GeForce 210 Drivers for Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vision-issue-amdnvidia-non-existent/"><u>Vision Issue: AMD/NVIDIA Non-Existent</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ways-to-stop-acer-display-twinkle/"><u>Ways to Stop Acer Display Twinkle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-upgrade-new-amd-hd-6950-graphics-driver-rollout/"><u>Win11 Upgrade: New AMD HD 6950 Graphics Driver Rollout</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-basic-to-brilliant-the-ultimate-snapchat-filter-journey/"><u>[New] 2024 Approved From Basic to Brilliant The Ultimate Snapchat Filter Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-strategies-for-designing-youtube-video-flow/"><u>[New] In 2024, Strategies for Designing YouTube Video Flow</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war/"><u>[Updated] 2024 Approved Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-virtual-collaboration-recording-techniques-for-gotomeet-for-2024/"><u>[Updated] Enhancing Virtual Collaboration Recording Techniques for GoToMeet for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-graphics-card-not-showing-in-device-manager-solved/"><u>NVIDIA Graphics Card Not Showing in Device Manager [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-strategies-for-livestream-sports-recording/"><u>Optimal Strategies for Livestream Sports Recording</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-incompatible-graphics-device-in-windows/"><u>Rectified Incompatible Graphics Device in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resurrecting-non-pivoting-gpu-fans/"><u>Resurrecting Non-Pivoting GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xfx-driver-recovered-from-halt-state/"><u>XFX Driver Recovered From Halt State</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-deletion-explained-how-to-ensure-total-removal-of-your-account/"><u>Yahoo Mail Deletion Explained: How To Ensure Total Removal of Your Account</u></a></li>
 </ul></div>
+

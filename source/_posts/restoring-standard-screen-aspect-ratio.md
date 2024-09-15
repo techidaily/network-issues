@@ -1,7 +1,7 @@
 ---
 title: Restoring Standard Screen Aspect Ratio
-date: 2024-07-12T00:32:52.219Z
-updated: 2024-07-13T00:32:52.219Z
+date: 2024-09-08T01:59:33.543Z
+updated: 2024-09-14T19:26:35.269Z
 tags:
   - win11
   - win10
@@ -122,11 +122,25 @@ There are two options to update drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
@@ -144,8 +158,6 @@ There are two options to update drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +165,20 @@ There are two options to update drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-g2-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo G2 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-bypass-tools-to-bypass-lock-screenasus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Asus Bypass Tools to Bypass Lock Screen(Asus ROG Phone 8 Pro)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-backlit-display-blinks/"><u>Banish Backlit Display Blinks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blue-screen-on-windows-solved-by-dxgkrnlsys-fix/"><u>Blue Screen on Windows Solved by dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-ripping-solutions-for-mac-users-mactheripper-alternatives-compatible-with-os-x-versions-108-to-1012/"><u>DVD Ripping Solutions for Mac Users: Mactheripper Alternatives Compatible with OS X Versions 10.8 to 10.12</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-driver-setup-made-easy-step-by-step-downloading-instructions/"><u>HP Driver Setup Made Easy - Step-by-Step Downloading Instructions!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>In 2024, Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-proaudios-choice-the-five-pioneering-ducking-plugins-to-elevate-your-mixes-2023-rundown-for-2024/"><u>New ProAudios Choice The Five Pioneering Ducking Plugins to Elevate Your Mixes (2023 Rundown) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-card-camouflage-unveiled-system-hub-solution/"><u>NVIDIA Card Camouflage Unveiled - System Hub Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-procedure-disconnected-gpu-with-nvidia/"><u>Quick Fix Procedure: Disconnected GPU with NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-non-detected-gpu-on-your-pc/"><u>Solutions for Non-Detected GPU on Your PC</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/streamline-your-mixes-a-curated-list-of-the-top-5-dynamic-audio-ducking-tools-for-producers-for-2024/"><u>Streamline Your Mixes A Curated List of the Top 5 Dynamic Audio Ducking Tools for Producers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-year-of-infographics-top-social-trends-explored-for-2024/"><u>The Year of Infographics Top Social Trends Explored for 2024</u></a></li>
+</ul></div>
 

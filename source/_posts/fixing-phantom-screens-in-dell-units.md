@@ -1,7 +1,7 @@
 ---
 title: Fixing Phantom Screens in Dell Units
-date: 2024-07-12T00:31:05.956Z
-updated: 2024-07-13T00:31:05.956Z
+date: 2024-09-09T01:12:54.656Z
+updated: 2024-09-15T04:39:42.000Z
 tags:
   - win11
   - win10
@@ -75,6 +75,13 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -93,6 +100,13 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -106,6 +120,14 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 1. On your keyboard, press **the**    **Windows logo key**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  
  and **R**  at the same time. Then type**services.msc** into the box and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a691fe0c.png)
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
@@ -114,6 +136,13 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
 5. Restart your computer and hopefully your laptop screen displays normally again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -140,8 +169,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,6 +176,21 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-riders-republic-launch-failure-directx-compatibility/"><u>[CORRECTED] Riders Republic Launch Failure - DirectX Compatibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-the-full-potential-of-your-channel-in-studio/"><u>[New] Unleashing the Full Potential of Your Channel in Studio</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-error-on-windows-10-system/"><u>Correcting Aspect Ratio Error on Windows 10 System</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cyberpunk-2077-stuck-at-startup-solutions-to-fix-the-game-launch-problems/"><u>Cyberpunk 2077 Stuck at Startup? Solutions to Fix the Game Launch Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-pixma-mg7810-series-drivers-on-windows/"><u>Download Canon PIXMA MG7810 Series Drivers on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974191767-elevate-your-display-experience-by-updating-to-the-latest-intel-hd-graphics-3000-in-w10/"><u>Elevate Your Display Experience by Updating to the Latest Intel HD Graphics 3000 in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-intensity-levels/"><u>Enhancing Lenovo Display Intensity Levels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-color-palettes-applying-theories-effectively-for-2024/"><u>Mastering Color Palettes Applying Theories Effectively for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-wireless-in-windows-11-the-end/"><u>Missing Wireless in Windows 11 - The End?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-strategies-for-downloading-audio-from-pinterest-videos/"><u>Optimal Strategies for Downloading Audio From Pinterest Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-spellcasting-sounds-a-step-by-nstep-guide-for-quieted-hearthstone-battles/"><u>Revive Your Spellcasting Sounds - A Step-by-nStep Guide for Quieted Hearthstone Battles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-twitter-videos-with-pro-convertors-for-2024/"><u>Streamline Your Twitter Videos with Pro Convertors for 2024</u></a></li>
+</ul></div>
 

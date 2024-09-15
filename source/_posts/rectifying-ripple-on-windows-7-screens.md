@@ -1,7 +1,7 @@
 ---
 title: Rectifying Ripple on Windows 7 Screens
-date: 2024-07-12T00:36:31.420Z
-updated: 2024-07-13T00:36:31.420Z
+date: 2024-09-13T23:05:21.709Z
+updated: 2024-09-15T05:43:13.336Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -84,8 +91,24 @@ To troubleshoot these hardware issues:
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
@@ -95,6 +118,14 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
  If you’re using**Lenovo** , press**F1** ;  
@@ -119,8 +150,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +157,20 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ispring-screen-recorder-review/"><u>[New] 2024 Approved ISpring Screen Recorder Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>[New] In 2024, Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-enhance-your-films-with-these-vfx-sites/"><u>[Updated] Enhance Your Films with These VFx Sites</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic-6-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/capturing-panoramic-shots-iphone-guide-for-2024/"><u>Capturing Panoramic Shots IPhone Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-no-compatible-graphics-overwatch-update-resolved/"><u>Fixing No Compatible Graphics: Overwatch Update Resolved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders-for-2024/"><u>Frozen Frontier Showcasing 2022'S Olympic Peaks and Precision Riders for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-nuances-of-spotify-advertising-for-2024/"><u>Navigating the Nuances of Spotify Advertising for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-boosts-geforce-210-performance-on-win10-os/"><u>NVIDIA Boosts GeForce 210 Performance on WIN10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-carrier-lacking-dx-acceleration/"><u>Nvidia Carrier Lacking DX Acceleration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-hp-display-dimming-troubles/"><u>Solving HP Display Dimming Troubles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-adventure-fixing-fallout-4-pc-issues/"><u>Uninterrupted Adventure: Fixing Fallout 4 PC Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-profesional-para-mac-lanzamiento-oficial-de-la-version-premium/"><u>WinX DVD Ripper Profesional Para Mac: Lanzamiento Oficial De La Versión Premium</u></a></li>
+</ul></div>
 

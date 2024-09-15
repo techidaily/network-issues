@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obstacle Code 1900101 During Windows Installation
-date: 2024-07-12T00:32:40.564Z
-updated: 2024-07-13T00:32:40.564Z
+date: 2024-09-13T20:11:32.762Z
+updated: 2024-09-14T20:48:38.385Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
@@ -71,6 +78,13 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
@@ -92,7 +106,21 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -105,6 +133,13 @@ Press the **Enter**key on your keyboard.
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
@@ -122,8 +157,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +164,17 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/escaped-gpu-firmware-update-blockade/"><u>[Escaped] GPU Firmware Update Blockade</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pro-mic-tech-review-best-9-online-recorders-uncovered/"><u>[New] 2024 Approved Pro Mic Tech Review Best 9 Online Recorders Uncovered</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-pathway-to-mastering-srt-files/"><u>[New] Step-by-Step Pathway to Mastering SRT Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-free-fcp-strategies-and-tactics-exposed/"><u>[Updated] In 2024, Free FCP Strategies and Tactics Exposed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-chroma-blades-the-new-era-of-high-definition-capture/"><u>2024 Approved Chroma Blades The New Era of High-Definition Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-premier-lineup-best-free-video-editors-unveiled/"><u>2024 Approved Premier Lineup Best Free Video Editors Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fading-frame-fiasco-laptop-woes/"><u>Fading Frame Fiasco: Laptop Woes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-sudden-changes-in-hp-monitor-brightness/"><u>Preventing Sudden Changes in HP Monitor Brightness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamlessly-scaling-windows-11-displays/"><u>Seamlessly Scaling Windows 11 Displays</u></a></li>
+</ul></div>
 

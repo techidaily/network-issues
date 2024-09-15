@@ -1,7 +1,7 @@
 ---
 title: Fix Screen Tearing Issues on PC
-date: 2024-07-12T00:36:47.396Z
-updated: 2024-07-13T00:36:47.396Z
+date: 2024-09-13T05:10:11.105Z
+updated: 2024-09-14T17:53:38.641Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -77,6 +84,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
@@ -91,6 +105,14 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -101,8 +123,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +130,23 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-video-requirement-aspect-ratio/"><u>[New] 2024 Approved Twitter Video Requirement - Aspect Ratio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-kitchen-combatants-30-pugnacious-food-show-titles/"><u>[New] Kitchen Combatants 30 Pugnacious Food Show Titles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-views-into-audience-with-effective-fb-videos-for-2024/"><u>[New] Transforming Views Into Audience with Effective FB Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-soundtrack-strategists-guide-to-youtube-playlists/"><u>[Updated] The Soundtrack Strategist's Guide to YouTube Playlists</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-identifying-the-most-fitting-vimeo-membership-level/"><u>2024 Approved Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/bring-more-life-to-your-instagram-feed-with-these-4-gif-tips/"><u>Bring More Life to Your Instagram Feed with These 4 GIF Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/connecting-twitter-videos-with-facebook-friends/"><u>Connecting Twitter Videos with Facebook Friends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-vision-post-upgrade/"><u>Darkened Vision Post-Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-visuals-install-intel-graphics-hd-3000s-latest-w10-version/"><u>Elevate Your Visuals: Install Intel Graphics HD 3000'S Latest W10 Version.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights/"><u>In 2024, Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-graphics-card-not-showing-in-device-manager-solved/"><u>NVIDIA Graphics Card Not Showing in Device Manager [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-incompatible-graphics-device-in-windows/"><u>Rectified Incompatible Graphics Device in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-accessibility-to-nvidia-screen-configurations/"><u>Restoring Accessibility to NVIDIA Screen Configurations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resurrecting-non-pivoting-gpu-fans/"><u>Resurrecting Non-Pivoting GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xfx-driver-recovered-from-halt-state/"><u>XFX Driver Recovered From Halt State</u></a></li>
+</ul></div>
 

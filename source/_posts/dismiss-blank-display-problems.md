@@ -1,7 +1,7 @@
 ---
 title: Dismiss Blank-Display Problems
-date: 2024-07-12T00:30:13.282Z
-updated: 2024-07-13T00:30:13.282Z
+date: 2024-09-11T03:39:19.040Z
+updated: 2024-09-14T16:18:30.290Z
 tags:
   - win11
   - win10
@@ -135,6 +135,13 @@ Here are the steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Does your PC meet the requirements?
 
  If all else fails, then you might have to check if the specs of your PC to see if it meets the requirements of the game.
@@ -154,13 +161,34 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -178,8 +206,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +213,18 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamlining-access-to-fb-live-via-roku/"><u>[New] 2024 Approved Streamlining Access to FB Live via Roku</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-10-flawless-web-based-vimeo-video-extractors/"><u>[New] In 2024, Top 10 Flawless Web-Based Vimeo Video Extractors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-swift-and-simple-acquiring-itunes-radio-episodes-for-2024/"><u>[Updated] Swift and Simple Acquiring iTunes Radio Episodes for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-secrets-of-storing-whatsapp-conversations/"><u>2024 Approved Secrets of Storing WhatsApp Conversations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debug-evasive-graphics-cards/"><u>Debug Evasive Graphics Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disentangled-power-management-options/"><u>Disentangled: Power Management Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-dilemma-solved-nvidia-stable-now/"><u>Display Dilemma Solved: Nvidia Stable Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-steps-for-eradicating-uneven-screen-horizontal-lines/"><u>Essential Steps for Eradicating Uneven Screen Horizontal Lines</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-become-a-canvas-connoisseur-with-these-10-tips/"><u>In 2024, Become a Canvas Connoisseur with These 10 Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimal-strategies-for-livestream-sports-recording-for-2024/"><u>Optimal Strategies for Livestream Sports Recording for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-monetization-carryminati-ajey-nagar-youtube-income-2023-for-2024/"><u>YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023 for 2024</u></a></li>
+</ul></div>
 

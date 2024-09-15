@@ -1,7 +1,7 @@
 ---
 title: "Mastering Anthem Speed: Troubleshooting Guide"
-date: 2024-07-12T00:34:50.518Z
-updated: 2024-07-13T00:34:50.518Z
+date: 2024-09-14T04:36:55.405Z
+updated: 2024-09-14T21:19:34.849Z
 tags:
   - win11
   - win10
@@ -159,6 +159,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -166,6 +173,13 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -178,6 +192,13 @@ So you can follow the steps below to disable CPU core parking:
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -195,8 +216,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +223,18 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-from-cut-to-clip-chaos-achieving-smoothness-with-inshot/"><u>[Updated] From Cut-to-Clip Chaos Achieving Smoothness with Inshot</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>[Updated] In 2024, The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-violation-woes-abrupt-creative-cut-off-for-2024/"><u>[Updated] Violation Woes Abrupt Creative Cut-Off for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/a-decade-in-review-top-8-free-online-srt-translators/"><u>A Decade in Review Top 8 Free Online SRT Translators</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-visuals-smooth-out-after-repair/"><u>Dell Visuals Smooth Out After Repair</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-create-and-change-an-igtv-cover-photo-thumbnail-in-2024/"><u>How to Create and Change an IGTV Cover Photo (Thumbnail), In 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-14-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 14 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-flat-panel-fixation-methods/"><u>Master Flat-Panel Fixation Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-a-boost-with-new-geforce-210-graphics-driver/"><u>Windows 10 Gets a Boost with New GeForce 210 Graphics Driver</u></a></li>
+</ul></div>
 

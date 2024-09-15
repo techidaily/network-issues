@@ -1,7 +1,7 @@
 ---
 title: Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment
-date: 2024-09-09T02:30:34.694Z
-updated: 2024-09-10T02:30:34.694Z
+date: 2024-09-08T07:07:07.480Z
+updated: 2024-09-14T20:44:48.995Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Windows 10 Graphics Driver Update,Win10 Nvidia/Intel Graphic Mix-Up Re
 thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3a23bf93996d4e40618dadce.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/switchable-graphics-card.jpg)
@@ -34,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -49,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -65,18 +47,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -91,12 +61,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -113,6 +77,13 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -120,23 +91,31 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -151,23 +130,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,45 +154,18 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-god-of-war-ragnarok-release-date-for-2024/"><u>[New] God of War Ragnarok Release Date for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-youtube-fame-essential-steps-for-successful-content/"><u>[New] The Roadmap to YouTube Fame  Essential Steps for Successful Content</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-dell-laptop-screen-flickering/"><u>[SOLVED] Dell Laptop Screen Flickering</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[Updated] In 2024, From Casual Follower to Dedicated Subscriber  Inspirational Journey</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-video-reach-sharing-twitters-content-on-facebooks/"><u>[Updated] Maximizing Video Reach  Sharing Twitters' Content on Facebooks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>2024 Approved  Mastering Zoom Audio  High Fidelity & Unmuted Channels</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-the-buzz-simple-strategies-for-crisp-clear-sound-from-your-speakers/"><u>Banish the Buzz: Simple Strategies for Crisp, Clear Sound From Your Speakers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bringing-clarity-to-unknown-direct-x-quirks-on-league-of-legends/"><u>Bringing Clarity to Unknown Direct X Quirks on League of Legends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-hp-display-flicker-anomalies/"><u>Correcting HP Display Flicker Anomalies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-hidden-video-blocks/"><u>Demystifying Hidden Video Blocks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminated-stretching-effect-on-extended-windows-views/"><u>Eliminated Stretching Effect on Extended Windows Views</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-nvidia-compatibility-within-windows-11/"><u>Ensuring Nvidia Compatibility Within Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-civ-5-hiccups-on-personal-computers/"><u>Fixing Civ 5 Hiccups on Personal Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/frequent-wi-fi-hiccups-no-fix-yet/"><u>Frequent Wi-Fi Hiccups, No Fix Yet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-newbie-empty-screen-dilemma/"><u>GPU Newbie: Empty Screen Dilemma</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-triple-down-on-instagrams-growth-metrics/"><u>How to Triple Down on Instagram's Growth Metrics</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-se-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone SE</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-opt-out-of-autoplayed-podcast-selection-by-spotify/"><u>In 2024, Opt-Out of Autoplayed Podcast Selection by Spotify</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-dark-mode-in-win11-update-fall/"><u>Overcoming Dark Mode in Win11 Update Fall</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhaue-hybrid-graphics-sync-windows-11-solves-issues/"><u>Overhaue Hybrid Graphics Sync: Windows 11 Solves Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-guide-idle-gpu-display/"><u>Quick Fix Guide: Idle GPU Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/re-enabling-displays-on-nvidia-gpus/"><u>Re-Enabling Displays on NVIDIA GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-screen-flickering-phenomena/"><u>Rectify Screen Flickering Phenomena</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refinement-of-civilization-v-on-windows-pc/"><u>Refinement of Civilization V on Windows PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refresh-intel-graphics-support-for-windows-users/"><u>Refresh Intel Graphics Support for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-x100-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo X100 Pro on Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-upside-down-in-windows-10-fixed/"><u>Screen Upside Down in Windows 10 [Fixed]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974197492-seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/step-forward-with-borders-on-instagram-videos/"><u>Step Forward with Borders on Instagram Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stepwise-approach-setting-up-new-wireless-card-driver-windows-1011/"><u>Stepwise Approach: Setting up New Wireless Card Driver Windows 10/11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast-for-2024/"><u>Stream Wars  Evaluating Streamers' Top Contenders, OBS & Wirecast for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/syncd-system-no-more-winrts-errors/"><u>Sync'd System: No More WinRTS Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-unavailable-graphics-configurations/"><u>Troubleshooting Unavailable Graphics Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-wow-bug-51900319/"><u>Troubleshooting WoW Bug #51900319</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-exploring-digital-marketing-frontiers-the-metaverse/"><u>[New] Exploring Digital Marketing Frontiers The Metaverse</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-optimizing-your-yt-channel-description/"><u>[New] The Art of Optimizing Your YT Channel Description</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/effortless-mov-to-flv-conversion-preserving-high-quality-video/"><u>Effortless MOV to FLV Conversion: Preserving High-Quality Video</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-visual-performance-update-windows-intel-gpu/"><u>Enhance Visual Performance: Update Windows Intel GPU</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-40-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Hot 40.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-prime-desktopmobile-communication-alternatives-to-zoom/"><u>In 2024, Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-new-game-compatibility-between-ps4-and-ps3/"><u>Old vs New: Game Compatibility Between PS4 & PS3</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-halted-restoration-complete/"><u>OpenGL Halted, Restoration Complete</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974620349-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-interop-issue-addressed/"><u>WinOS Interop Issue Addressed</u></a></li>
 </ul></div>
+

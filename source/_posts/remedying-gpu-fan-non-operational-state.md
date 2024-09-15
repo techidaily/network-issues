@@ -1,7 +1,7 @@
 ---
 title: Remedying GPU Fan Non-Operational State
-date: 2024-07-12T00:34:57.491Z
-updated: 2024-07-13T00:34:57.491Z
+date: 2024-09-09T22:16:38.979Z
+updated: 2024-09-15T03:31:27.583Z
 tags:
   - win11
   - win10
@@ -51,11 +51,31 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
@@ -71,6 +91,14 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -88,7 +116,22 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 2. Open MSI Afterburner. At the bottom right corner, click the A icon to toggle auto control.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
@@ -126,8 +169,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,6 +176,18 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-live-tv-service-showdown-a-comparative-look/"><u>[Updated] 2024 Approved Premier Live TV Service Showdown A Comparative Look</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-score-winning-tech-for-documenting-google-meets-freepaid/"><u>[Updated] In 2024, Score-Winning Tech for Documenting Google Meets (Free/Paid)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-chronicles-designing-storylines-through-chatgpt/"><u>Crafting Chronicles: Designing Storylines Through ChatGPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-itel-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Itel? Try These Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonious-operation-hybrid-graphics-on-intel-and-nvidia-in-win11/"><u>Harmonious Operation: Hybrid Graphics on Intel & Nvidia in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-lengthy-display-glitches-on-windows-pc/"><u>Overcome Lengthy Display Glitches on Windows PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saving-screen-preferences-success-achieved/"><u>Saving Screen Preferences: Success Achieved</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978836169-streamline-your-lenovo-x220-setup-with-rapid-driver-downloads/"><u>Streamline Your Lenovo X220 Setup with Rapid Driver Downloads!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-benefits-of-using-copernic-the-ultimate-free-file-searcher-tool/"><u>Top 5 Benefits of Using Copernic: The Ultimate Free File Searcher Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-10-monitor-settings-now-smoothly-altered/"><u>Win 10 Monitor Settings, Now Smoothly Altered</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winrts-errors-eradicated-with-new-tools/"><u>WinRTS Errors Eradicated with New Tools</u></a></li>
+</ul></div>
 

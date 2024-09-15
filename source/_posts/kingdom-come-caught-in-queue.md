@@ -1,7 +1,7 @@
 ---
 title: Kingdom Come Caught in Queue
-date: 2024-07-12T00:31:11.606Z
-updated: 2024-07-13T00:31:11.606Z
+date: 2024-09-13T03:41:39.082Z
+updated: 2024-09-14T16:50:37.649Z
 tags:
   - win11
   - win10
@@ -96,19 +96,51 @@ Here we recommend using Google DNS:
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
@@ -164,6 +196,14 @@ When it’s all done, resume your download and it should be faster.
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try downloading your games again.
 
 ---
@@ -183,8 +223,6 @@ When it’s all done, resume your download and it should be faster.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,6 +230,19 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-apples-m1-performance-enhancing-video-editing/"><u>[Updated] Apple’s M1 Performance Enhancing Video Editing?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-conquer-the-crowd-reach-your-goal-of-1k-insta-admirers-monthly/"><u>[Updated] Conquer the Crowd Reach Your Goal of 1K Insta Admirers Monthly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-rectified-in-win11-update/"><u>Atheros Wi-Fi Drivers Rectified in Win11 Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c300-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C300 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-effortlessly-migrate-to-macos-sierra-version/"><u>In 2024, How-To Effortlessly Migrate to macOS Sierra Version</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nokia-g22-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nokia G22 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-note-30i-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix Note 30i</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-reviews-with-us-unveiling-the-secrets-of-our-how-to-geek-rigorous-testing-methods/"><u>Master Reviews with Us: Unveiling the Secrets of Our How-To Geek Rigorous Testing Methods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-joins-huaweis-appecosystem/"><u>Mondly Joins Huawei's AppEcosystem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolved-how-to-regain-entry-into-your-facebook-profile-after-a-password-mishap/"><u>Resolved: How to Regain Entry Into Your Facebook Profile After a Password Mishap</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revise-driver-in-win-for-faster-basic-render-on-ws-2-ws-8/"><u>Revise DRIVER in Win for Faster Basic Render on WS-2, WS-8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-your-zoom-cams-potential-with-these-tips/"><u>Unlock Your Zoom Cam's Potential with These Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Call of Duty Cold War Not Connecting to Online Services 2024"
-date: 2024-07-12T00:30:41.627Z
-updated: 2024-07-13T00:30:41.627Z
+date: 2024-09-08T23:40:47.723Z
+updated: 2024-09-15T05:14:42.053Z
 tags:
   - win11
   - win10
@@ -74,6 +74,13 @@ If you are not sure where your game is installed, take these steps:
 
  Granting an application with administrative rights can resolve many issues. If you constantly get the error message “Cannot Connect to Online Services”, you should run your game and launcher as administrator.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run your game as an administrator
 
 1. Open BLIZZARD.
@@ -82,6 +89,13 @@ If you are not sure where your game is installed, take these steps:
 3. Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** . Right-click it and select**Properties** .
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run Blizzard launcher as administrator
 
@@ -123,6 +137,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Flush your DNS and use Google’s instead
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can effectively slow your connection and even cause problems like games not connecting to server error. Switching your DNS can result in better connectivity and performance for your internet connection. Here we recommend using Google DNS.
@@ -135,6 +156,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
@@ -147,6 +176,19 @@ To see if a new DNS address helps, you can follow the instructions below:
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -192,8 +234,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +241,19 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[New] 2024 Approved Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transform-your-playtime-mastering-ps4-live-recordings-with-obs/"><u>[New] Transform Your Playtime Mastering PS4 Live Recordings with OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-edit-podcasts-in-garageband/"><u>2024 Approved How To Edit Podcasts in GarageBand</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726028510665-windows-78/"><u>最新音声記録 - Windows 7/8の利用者向けガイド</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-for-error-22-rectified/"><u>Driver Update for Error 22 Rectified</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-camcorders-for-high-quality-podcasts/"><u>In 2024, Ultimate Camcorders for High-Quality Podcasts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-control-panel-status-green/"><u>Nvidia Control Panel - Status Green</u></a></li>
+<li><a href="https://network-issues.techidaily.com/persistent-wi-fi-connection-issues/"><u>Persistent Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-display-set-configurations-on-windows-107/"><u>Re-Enabling Display Set Configurations on Windows 10/7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/regular-maintenance-is-essential-to-prevent-wear-and-ensure-efficient-operation/"><u>Regular Maintenance Is Essential to Prevent Wear and Ensure Efficient Operation.</u></a></li>
+</ul></div>
 

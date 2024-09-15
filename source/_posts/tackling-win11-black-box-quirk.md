@@ -1,7 +1,7 @@
 ---
 title: Tackling Win11 Black Box Quirk
-date: 2024-07-12T00:38:11.820Z
-updated: 2024-07-13T00:38:11.820Z
+date: 2024-09-07T16:26:42.013Z
+updated: 2024-09-15T01:42:45.240Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -115,6 +122,13 @@ If you’re on a laptop:
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -152,9 +166,23 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -167,6 +195,13 @@ If you’re on a laptop:
  1) Open Command Prompt as administrator: type cmd in the search box. Right click**Command Prompt** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
@@ -210,8 +245,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +252,23 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-discover-15-superior-snap-strategies-for-2024/"><u>[New] Discover 15 Superior Snap Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-get-unlimited-echoes-for-online-content-makers/"><u>[New] Get Unlimited Echoes for Online Content Makers!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amazing-appraisal-and-backup-options-for-2024/"><u>Amazing Appraisal & Backup Options for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-window-fuzziness-boost-productivity/"><u>Fix Window Fuzziness, Boost Productivity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-upside-down-screen-issue/"><u>Fixing the Upside-Down Screen Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/grit-and-patience-top-5-obdurate-gaming-tests/"><u>Grit and Patience: Top 5 Obdurate Gaming Tests</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-30-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-the-process-of-win-7s-intel-driver-updates/"><u>Navigating the Process of Win 7'S Intel Driver Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-farming-simulator-22-with-these-fixes/"><u>Overcome Launch Errors in Farming Simulator 22 with These Fixes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-resolution-challenges-with-updated-windows-10/"><u>Resolving Resolution Challenges with Updated Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-size-fix-for-windows-10-users-achieved/"><u>Screen Size Fix for Windows 10 Users Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-epson-xp-430-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Downloading and Setting Up Epson XP-430 Drivers for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-discoveries-with-perplexity-ai-the-premier-tool-for-smart-google-searches/"><u>Transform Your Online Discoveries with Perplexity AI - The Premier Tool for Smart Google Searches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transforming-visual-experience-refreshing-intel-drivers-in-windows-7/"><u>Transforming Visual Experience: Refreshing Intel Drivers in Windows 7</u></a></li>
+</ul></div>
 

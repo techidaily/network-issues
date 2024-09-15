@@ -1,7 +1,7 @@
 ---
 title: "Highlander's Hurdle: Steady Stream?"
-date: 2024-07-12T00:36:18.303Z
-updated: 2024-07-13T00:36:18.303Z
+date: 2024-09-12T05:25:04.609Z
+updated: 2024-09-14T21:49:56.717Z
 tags:
   - win11
   - win10
@@ -77,9 +77,23 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -96,6 +110,14 @@ Here we recommend using Google DNS:
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -107,6 +129,14 @@ Here we recommend using Google DNS:
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
@@ -131,6 +161,14 @@ Here’s how to do this:
 1. On your keyboard, press the**Windows logo key + R** at the same time to open the Run dialog box. Type**%localappdata%** and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
 2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
@@ -183,8 +221,6 @@ When it’s all done, resume your download and it should be faster.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,6 +228,22 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/adjusted-advanced-display-settings-missing/"><u>[Adjusted] Advanced Display Settings MISSING</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-itunes-video-capture-techniques/"><u>[New] In 2024, Mastering iTunes Video Capture Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-to-auditory-harmony-crossfade/"><u>[New] Unraveling the Secrets to Auditory Harmony (Crossfade)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-text-styling-portals-for-creatives/"><u>[New] Unveiling the Top Text Styling Portals for Creatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-flashing-issues-in-dell-screens/"><u>[Solved]: Flashing Issues in Dell Screens</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-rapid-tiktok-downloads-flawless-mp4-format-conversions/"><u>2024 Approved Rapid TikTok Downloads Flawless MP4 Format Conversions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-screenshaking-glitch/"><u>Fixing Windows 10 Screenshaking Glitch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a2-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A2 Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone XS Max</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jolly-roger-jargon-decoding-20-piratical-terms/"><u>Jolly Roger Jargon: Decoding 20 Piratical Terms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/jump-over-slowdowns-instantly/"><u>Jump Over Slowdowns Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-eradicate-white-blankness/"><u>Quick Eradicate White Blankness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-critical-setup-error-code-c1900101/"><u>Resolving Critical Setup Error: Code C1900101</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-direct3d-launch-problem/"><u>Resolving Direct3D Launch Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-language-models-decoding-how-gpt-4-drives-performance-for-7-leading-apps/"><u>The Power of Language Models: Decoding How GPT-4 Drives Performance for 7 Leading Apps</u></a></li>
+</ul></div>
 

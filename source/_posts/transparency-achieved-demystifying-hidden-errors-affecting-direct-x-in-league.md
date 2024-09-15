@@ -1,7 +1,7 @@
 ---
 title: "Transparency Achieved: Demystifying Hidden Errors Affecting Direct X in League"
-date: 2024-09-09T02:30:32.798Z
-updated: 2024-09-10T02:30:32.798Z
+date: 2024-09-11T23:38:55.997Z
+updated: 2024-09-15T02:21:34.623Z
 tags:
   - win11
   - win10
@@ -18,22 +18,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/error-an-unknown-directx-error-has-occurred-and-lol-cannot-start.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re seeing _**An unknown DirectX error has occurred and League of Legends cannot start**_  message, you’re not alone. Many Windows 10 users are reporting about this problem as well. At times, you might see the error instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/directx-error.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  No worries, it’s actually a pretty easy problem to fix. Here is one of the most effective method you can try to fix this problem.
 
 **Note** : The screen shots are shown in Windows 10, but all fixes apply to Windows 7 and Windows 8 as well.
@@ -46,18 +34,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/display-adapters-600x357.png)
   
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the**Driver** tab, click **Update Driver…** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver.png)
@@ -74,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/game-cfg-input-files.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Go back to the League of Legends folder, then go to**RADS** folder. Delete **lol\_game\_client**  folders (You might see two or three of them).
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/lol_game_client-rads-lol.jpg)
@@ -88,22 +58,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_581aebafce253.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  9) Click**Repair** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/repair.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  10) Go to **Device Manager**  again. Right-click your display driver and click **Disable** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/disable-display-adapter.png)
@@ -112,12 +70,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/enable-display-adapter.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your problem should be fixed by now.
 
  The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with [**Driver Easy.**](https://tools.techidaily.com/drivereasy/download/)
@@ -132,12 +84,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c9f7cef521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics dvice to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -150,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,46 +103,35 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-a-peek-into-the-best-mac-applications-for-sniping-perfectly-for-2024/"><u>[New] A Peek Into the Best Mac Applications for Sniping Perfectly for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rush-and-reaction-sochis-speed-showdown/"><u>[New] Rush & Reaction  Sochi's Speed Showdown</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-secrets-to-captioning-stories-and-reels/"><u>[New] Unveiling the Secrets to Captioning Stories and Reels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-winos-bsod-dxgkrnlsys-error/"><u>[Resolved] WinOS BSOD: dxgkrnl.sys Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-method-for-changing-your-instagram-tone/"><u>[Updated] In 2024, Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-time-saving-strategies-for-gotomeeting-audiovideo-logging/"><u>[Updated] In 2024, Time-Saving Strategies for GoToMeeting Audio/Video Logging</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>[Updated] Pathway Guide  Acquiring Movie Maker 6 on Your System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-overcoming-slow-connectivity-issues/"><u>[WINDOWS] Overcoming Slow Connectivity Issues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-precision-photography-snippets-from-videos-on-windows-11/"><u>2024 Approved  Precision Photography Snippets From Videos on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-windows-display-glitches/"><u>Address Windows Display Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-10/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/documenting-the-fun-video-your-nintendo-switch-games/"><u>Documenting the Fun  Video Your Nintendo Switch Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensure-static-screens-in-windows-11-settings/"><u>Ensure Static Screens in Windows 11 Settings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks-for-2024/"><u>Exclusive List of Top 8 Wallpapers for MacBooks for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-diagnostics-problem-solved/"><u>GPU Diagnostics: Problem Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-performance-restored/"><u>Graphics Performance Restored</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-manage-and-resolve-intense-cpu-utilization-issues-on-your-new-world-experience/"><u>How To Manage and Resolve Intense CPU Utilization Issues on Your New World Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hustle-past-game-hold-ups/"><u>Hustle Past Game Hold-Ups</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721461662357-iphone-users-how-to-deal-with-slow-message-alerts-uncover-9-tips-for-faster-texting/"><u>Iphone Users: How to Deal With Slow Message Alerts - Uncover 9 Tips for Faster Texting!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-display-rotated-issue-resolved/"><u>Laptop Display Rotated - Issue Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-driver-release-amd-radeon-hd-6950-for-win10/"><u>New Driver Release: AMD Radeon HD 6950 for Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-interruptions-streaming-on-upgraded-windows-11/"><u>No More Interruptions: Streaming on Upgraded Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-motorola-edge-40-neo-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Edge 40 Neo? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-guide-fixing-monitor-distortion-easily/"><u>Quick Guide: Fixing Monitor Distortion Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-flipback-displays-with-wins-11/"><u>Rectifying Flipback Displays with Wins 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-inconsistent-backlight-on-hp-screens/"><u>Rectifying Inconsistent Backlight on HP Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reinstallation-process-simplified-uninstall-graphics-drivers-via-w8s-safe-mode/"><u>Reinstallation Process Simplified: Uninstall Graphics Drivers via W8's Safe Mode</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-grainy-graphics-in-ubisofts-island-adventure/"><u>Solving Grainy Graphics in Ubisoft's Island Adventure</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-improve-intels-graphic-driver-in-ws11-environment/"><u>Swiftly Improve Intel's Graphic Driver in WS11 Environment.</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-prevent-thaumaturge-from-crashing-on-windowsmac/"><u>Troubleshooting Tips: How to Prevent Thaumaturge From Crashing on Windows/Mac</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upside-down-monitor-fix-resolved/"><u>Upside-Down Monitor Fix [Resolved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-display-resolved-missing-full-screen/"><u>Windows 11 Display - Resolved Missing Full Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-screens-seamlessly-with-ezvid-video-maker-for-2024/"><u>[New] Capturing Screens Seamlessly with Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-offline-mode-cod-cold-war-2024-update/"><u>[REPAIRED] Offline Mode: CoD Cold War 2024 Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-dissection-the-complete-guide-to-bublcams-vision/"><u>[Updated] Masterful Dissection The Complete Guide to Bublcam's Vision</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sketching-your-signature-tiktok-end-note-for-2024/"><u>[Updated] Sketching Your Signature TikTok End-Note for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-dimming-on-lenovo-portable-devices/"><u>Addressing Dimming on Lenovo Portable Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-guide-and-official-driver-downloads-for-logitech-k350-keyboards/"><u>Easy Install Guide & Official Driver Downloads for Logitech K350 Keyboards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-c12-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia C12 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-drivers-win10-integration-success/"><u>Nvidia Drivers - Win10 Integration Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rhythmic-beak-boogie-for-2024/"><u>Rhythmic Beak Boogie for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-connectivity-qualcomm-fix-in-win10/"><u>Smooth Connectivity: Qualcomm Fix in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/speedily-elevate-intels-graphic-driver-for-windows-11/"><u>Speedily Elevate Intel's Graphic Driver for Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-itel-p55plus-by-drfone-android/"><u>Three Ways to Sim Unlock Itel P55+</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

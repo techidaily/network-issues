@@ -1,7 +1,7 @@
 ---
 title: "End of Glitches: Fallout 4 Compatible with Windows"
-date: 2024-07-12T00:30:16.514Z
-updated: 2024-07-13T00:30:16.514Z
+date: 2024-09-08T06:55:44.399Z
+updated: 2024-09-14T23:40:37.326Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Update your graphics card driver**
 
  The missing or outdated graphics card driver can cause Fallout 4 crashing, so you make sure that your video card and its driver both work correctly. There are two ways to update your graphics card driver: manually and automatically.
@@ -82,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -98,6 +118,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -112,8 +139,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +146,19 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-live-broadcast-with-periscope/"><u>[New] Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[Updated] 2024 Approved Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-becoming-a-onestream-pro-tips-and-tricks-from-the-pros/"><u>[Updated] Becoming a OneStream Pro Tips and Tricks From the Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-detailed-review-on-vlcs-screenshotting/"><u>[Updated] Detailed Review on VLC's Screenshotting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-nvidiaintel-graphics-dilemma-on-windows-10-successfully/"><u>Addressing NVIDIA/Intel Graphics Dilemma on Windows 10 Successfully</u></a></li>
+<li><a href="https://blog-min.techidaily.com/einflussreiche-programme-zum-ausschneiden-von-dvds-auf-windowsmac-os-kopierschutzumgehen-bei-der-konvertierung-in-avi-mp4-und-mkv-formate/"><u>Einflussreiche Programme Zum Ausschneiden Von DVDs Auf Windows/Mac OS - Kopierschutzumgehen Bei Der Konvertierung in AVI, MP4 Und MKV-Formate</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-yuva-3-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Yuva 3 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revealing-truthgpt-police-crackdown-on-mullvad-vpn-showcase-of-top-free-gaming-titles-for-your-computer-and-what-you-need-to-know-about-mechanical-keys/"><u>Revealing TruthGPT: Police Crackdown on Mullvad VPN, Showcase of Top Free Gaming Titles for Your Computer & What You Need To Know About Mechanical Keys</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-and-leveraging-influencers-on-snapchat/"><u>Understanding and Leveraging Influencers on Snapchat</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-issues-in-windows-11-common-fixes-explored/"><u>Wi-Fi Issues in Windows 11 - Common Fixes Explored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-atheros-and-qualcomm-wi-fi-driver-unity/"><u>Windows 10, Atheros & Qualcomm Wi-Fi Driver Unity</u></a></li>
+</ul></div>
 

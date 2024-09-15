@@ -1,7 +1,7 @@
 ---
 title: Banish Sims 4 Solid-Color Warnings
-date: 2024-07-12T00:31:35.127Z
-updated: 2024-07-13T00:31:35.127Z
+date: 2024-09-09T02:25:19.386Z
+updated: 2024-09-15T00:19:40.085Z
 tags:
   - win11
   - win10
@@ -91,6 +91,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -119,9 +126,23 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -158,6 +179,13 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
@@ -178,8 +206,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +213,20 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-stardew-valley-no-start-on-pc-dx12-error/"><u>[CORRECTED] Stardew Valley No Start on PC - DX12 Error</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elite-pace-setter-pc-titles/"><u>[New] Elite Pace-Setter PC Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-top-5-low-weight-action-recorders-list/"><u>[New] Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-comprehensive-guide-to-locating-and-creating-superb-instagram-alarms/"><u>[Updated] A Comprehensive Guide to Locating and Creating Superb Instagram Alarms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[Updated] In 2024, Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ban-the-white-screen-in-sims/"><u>Ban the White Screen in Sims</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comparative-analysis-amd-graphics-cards-versus-competitors/"><u>Comparative Analysis: AMD Graphics Cards Versus Competitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-issue-error-43-fixed/"><u>Graphics Issue, Error 43 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-examination-the-future-of-photography-with-aurora-hdr/"><u>In 2024, Comprehensive Examination The Future of Photography with Aurora HDR?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-craft-your-own-tiktok-duets-easily/"><u>Step-by-Step Guide: How to Craft Your Own TikTok Duets Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-revival-comprehensive-solutions-to-common-zoom-problems/"><u>Zoom Revival: Comprehensive Solutions to Common Zoom Problems</u></a></li>
+</ul></div>
 

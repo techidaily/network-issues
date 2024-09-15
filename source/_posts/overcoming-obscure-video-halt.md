@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obscure Video Halt
-date: 2024-07-12T00:29:35.322Z
-updated: 2024-07-13T00:29:35.322Z
+date: 2024-09-11T00:39:02.690Z
+updated: 2024-09-14T16:14:39.474Z
 tags:
   - win11
   - win10
@@ -91,6 +91,14 @@ Here’s how you go about it:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
@@ -120,13 +128,41 @@ Here’s how you go about it:
 5. Click**Clear Now** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
 
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
 
  If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch in or out of hardware acceleration
 
@@ -142,6 +178,14 @@ Here’s how you go about it:
 2. Click the three-vertical-dots icon, then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-3.png)
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
@@ -174,8 +218,6 @@ Here’s how you go about it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,6 +225,18 @@ Here’s how you go about it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-qualcomm-atheros-qca61x4a-driver-issues-in-windows-10/"><u>[FIXED] Qualcomm Atheros QCA61x4A Driver Issues in Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-amplify-audience-response-with-unique-instagram-quiz-features-for-2024/"><u>[New] Amplify Audience Response with Unique Instagram Quiz Features for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-vlogs-sound-with-effective-tips/"><u>[New] In 2024, Streamline Your Vlog's Sound with Effective Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-and-build-a-youtube-channel-today-for-2024/"><u>[Updated] How to Create and Build A YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/celebrating-a-decade-of-innovation-mondly/"><u>Celebrating a Decade of Innovation - Mondly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-inshot-evaluation-how-it-stacks-up-in-editing-arena/"><u>In 2024, InShot Evaluation How It Stacks Up in Editing Arena?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-social-media-melody-ownership-laws/"><u>In 2024, Social Media Melody Ownership Laws</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-displays-error-inadequate-graphics-hardware/"><u>Overwatch Displays Error: Inadequate Graphics Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-fixing-the-problem-of-non-responsive-outlook-application/"><u>Step-by-Step Guide: Fixing the Problem of Non-Responsive Outlook Application</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-for-nvidia-related-windows-stoppage/"><u>Successful Fix for Nvidia-Related Windows Stoppage</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[REPAIRED] Addressing the Internet Disconnect in CoD Cold War"
-date: 2024-07-12T00:29:41.208Z
-updated: 2024-07-13T00:29:41.208Z
+date: 2024-09-10T23:42:02.147Z
+updated: 2024-09-14T22:55:29.731Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ If you are not sure where your game is installed, take these steps:
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then it’ll launch in admin mode.
 
 ---
@@ -145,6 +152,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
@@ -154,9 +169,23 @@ To see if a new DNS address helps, you can follow the instructions below:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if COD Cold War’s can’t connect to server error remains. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
 
@@ -171,6 +200,13 @@ To see if a new DNS address helps, you can follow the instructions below:
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, launch your game and check if you can connect to online services.
 
@@ -192,8 +228,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +235,21 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-step-by-step-revenue-building-for-youtube-creators/"><u>[New] 2024 Approved Step-by-Step Revenue Building for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>[New] Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wireless-network-issues-on-windows-10-pc/"><u>[RESOLVED] Wireless Network Issues on Windows 10 PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revise-advanced-display-not-found-in-win-11/"><u>[Revise] Advanced Display Not Found in Win 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>[Updated] Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elevating-reality-with-top-10-mobile-virtual-reality-headsets-for-2024/"><u>[Updated] Elevating Reality with Top 10 Mobile Virtual Reality Headsets for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[Updated] In 2024, Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-specs-and-rumors-for-the-new-galaxy-s25-phone-when-will-it-drop/"><u>Anticipated Specs and Rumors for the New Galaxy S25 Phone - When Will It Drop?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-faulty-to-functional-display-changes-in-windows-10/"><u>From Faulty to Functional: Display Changes in Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-nest-wi-fi-speed-test-review-seamless-multi-room-connectivity-unveiled/"><u>Google Nest Wi-Fi Speed Test Review: Seamless Multi-Room Connectivity Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pioneering-vlogging-tech-our-ranking-of-top-12-video-cameras-for-2024/"><u>Pioneering Vlogging Tech Our Ranking of Top 12 Video Cameras for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-glitch-outbreak-your-game-saving-guidebook/"><u>RTX Glitch Outbreak: Your Game-Saving Guidebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-woes-heres-how-to-rectify-them-instantly/"><u>Zoom Camera Woes? Here's How to Rectify Them Instantly</u></a></li>
+</ul></div>
 

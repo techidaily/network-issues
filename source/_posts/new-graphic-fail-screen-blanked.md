@@ -1,7 +1,7 @@
 ---
 title: "New Graphic Fail: Screen Blanked"
-date: 2024-07-12T00:34:10.927Z
-updated: 2024-07-13T00:34:10.927Z
+date: 2024-09-09T19:07:13.316Z
+updated: 2024-09-15T00:14:05.094Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/d99a4b3b2b8d3190ba094d8de8dbb1d047477a589
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Clean install the graphics card driver
 
  As mentioned, the screen goes black after installing a graphics card driver problem could be caused by a step going wrong during the display card driver installation process, like faulty driver files or incorrect permission granted. To see if this is your case, you can do the following to clean install the display card driver:
@@ -73,6 +80,14 @@ thumbnail: https://thmb.techidaily.com/d99a4b3b2b8d3190ba094d8de8dbb1d047477a589
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 Then download and update the display card driver.
@@ -101,6 +116,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -125,6 +148,13 @@ To do so, first visit the website of your GPU manufacturer:
 5. If none are found, close the window and try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1.4 Restore BIOS settings
 
@@ -172,6 +202,14 @@ When you boot into the Safe Mode with networking
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -198,8 +236,6 @@ When you boot into the Safe Mode with networking
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,6 +243,23 @@ When you boot into the Safe Mode with networking
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solution-found-windows-1110-no-amd-adapter-error/"><u>[SOLUTION FOUND] Windows 11/10 No AMD Adapter Error</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-lenovo-laptop-screen-logging-made-easy/"><u>[Updated] In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-into-speed-creating-collage-posts-in-a-flash/"><u>[Updated] Step Into Speed Creating Collage Posts in a Flash</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/above-the-clouds-unveiled-best-online-portals-for-hd-skies-for-2024/"><u>Above the Clouds Unveiled Best Online Portals for HD Skies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-and-transfer-your-dvds-effortlessly-with-macx-the-premier-free-tool-to-upload-and-convert-dvd-media-onto-an-iphone-4-using-mac-os/"><u>Convert & Transfer Your DVDs Effortlessly with MacX: The Premier Free Tool to Upload and Convert DVD Media Onto an iPhone 4 Using Mac OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/core-i9-pc-lacks-graphics-acceleration/"><u>Core I9 PC Lacks Graphics Acceleration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/einfach-perfekt-das-winxvideo-handbuch-und-tutorial-fur-optimale-videoaufnahme-bearbeitung-und-konvertierung/"><u>Einfach Perfekt: Das Winxvideo Handbuch Und Tutorial Für Optimale Videoaufnahme, Bearbeitung Und Konvertierung</u></a></li>
+<li><a href="https://network-issues.techidaily.com/excellent-display-quality-now-windows-10/"><u>Excellent Display Quality Now, Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gained-ground-in-nvidia-admin-interface/"><u>Gained Ground in Nvidia Admin Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-correction-error-43-overcome/"><u>GPU Correction - Error 43 Overcome</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-determine-your-daily-monthly-internet-usage/"><u>How Can You Determine Your Daily, Monthly Internet Usage?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Y100 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-8-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 8 without Password?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-disappearing-monitor-ghosts/"><u>Revealing Disappearing Monitor Ghosts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-and-secure-guide-convert-rmvb-files-into-avi-format-quickly/"><u>Simple & Secure Guide: Convert RMVB Files Into AVI Format Quickly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-pro-7-screen-fluctuations/"><u>Troubleshooting Pro 7 Screen Fluctuations</u></a></li>
+</ul></div>
 

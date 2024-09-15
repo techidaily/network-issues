@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: Detect Failed for CGs"
-date: 2024-09-09T02:30:36.306Z
-updated: 2024-09-10T02:30:36.306Z
+date: 2024-09-11T00:25:48.357Z
+updated: 2024-09-15T00:14:50.639Z
 tags:
   - win11
   - win10
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
  Don’t worry. This is one of the common errors and you can fix the**No suitable graphics card found** error easily!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix no suitable graphics card found issue?
 
  Here are solutions for you to**solve no suitable graphics card found** very easily and quickly. You don’t need to try them all; just work your way down until your problem is solved.
@@ -54,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -80,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -93,11 +75,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
@@ -105,11 +88,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -119,17 +103,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
@@ -151,8 +130,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,46 +137,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-implemented-post-error-system-now-running-smoothly/"><u>[Fix Implemented] Post-Error System Now Running Smoothly</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-instant-income-analysis-for-creators/"><u>[New] 2024 Approved  Instant Income Analysis for Creators</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-removed-missing-amd-graphics-adapter/"><u>[REPAIRED] Removed Missing AMD Graphics Adapter</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engage-and-inspire-audiences-professional-level-tips-for-youtube-edits/"><u>[Updated] In 2024, Engage and Inspire Audiences  Professional-Level Tips for YouTube Edits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tailor-your-insta-experience-no-more-suggestions/"><u>[Updated] In 2024, Tailor Your Insta Experience  No More Suggestions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-your-videos-captions-with-10plus-top-free-converters/"><u>[Updated] Perfect Your Videos' Captions with 10+ Top FREE Converters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-drone-a-close-look-at-dji-phantom-3-pros-features/"><u>2024 Approved  Behind the Drone  A Close Look at DJI Phantom 3 Pro's Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-still-to-dynamic-the-xs-action-camera-unboxed/"><u>2024 Approved  From Still to Dynamic  The XS Action Camera Unboxed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>2024 Approved  Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-backside-view-issue-for-windows-7/"><u>Adjusting Backside View Issue for Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/aligning-nforce630a-with-latest-win11-update/"><u>Aligning nForce630a with Latest Win11 Update</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/best-text-to-audio-converters-of-all-times-for-2024/"><u>Best Text-to-Audio Converters of All Times for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-issue-windows-os-bsod-resolved/"><u>dxgkrnl.sys Issue: Windows OS BSOD Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-uninstall-how-to-remove-your-systems-graphic-driver/"><u>Easy Uninstall: How To Remove Your System's Graphic Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-erratic-views-on-win7/"><u>Eliminating Erratic Views on Win7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-saved-screen-configurations-in-win-107/"><u>Enabling Saved Screen Configurations in Win 10/7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-10/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improve-roblox-online-pace-on-machine/"><u>Improve Roblox Online Pace on Machine</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-the-world-of-instagram-filters-a-comprehensive-guide-to-2023/"><u>In 2024, Navigating the World of Instagram Filters  A Comprehensive Guide to 2023</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-release-alert-improved-amd-radeon-hd-6950-for-win10/"><u>New Release Alert: Improved AMD Radeon HD 6950 for Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pocket-sized-remedy-for-amd-in-eft/"><u>Pocket-Sized Remedy for AMD in EFT</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-disabled-display-options-on-windows/"><u>Rectifying Disabled Display Options on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/render-error-gpu-unavailable-2020/"><u>Render Error: GPU Unavailable 2020</u></a></li>
-<li><a href="https://network-issues.techidaily.com/required-gpu-not-found-overwatch-patch-successful/"><u>Required GPU Not Found - Overwatch Patch Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolution-adjustment-windows-10-display-issue/"><u>Resolution Adjustment: Windows 10 Display Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-code-22-video-card-driver/"><u>Resolved Code #22, Video Card Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simplified-repair-unused-gfx-card-wnvidia/"><u>Simplified Repair: Unused GFX Card W/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-amd-radeon-r9-driver-crashes-in-win10/"><u>Solved: AMD Radeon R9 Driver Crashes in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-win11-displays/"><u>Stabilizing Win11 Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-turbulent-windows-11-views/"><u>Taming Turbulent Windows 11 Views</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-to-improve-your-gaming-experience-increase-fps-and-decrease-lags-in-fall-guys/"><u>Tips to Improve Your Gaming Experience - Increase FPS & Decrease Lags in Fall Guys</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tweak-hidden-gpu-status/"><u>Tweak Hidden GPU Status</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-streamline-resolved-any-previous-glitches/"><u>Windows 10 Streamline: Resolved Any Previous Glitches?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comparative-study-vidma-vs-standard-screen-recording-for-2024/"><u>[New] Comparative Study Vidma vs Standard Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/everaging-multiple-channels-to-boost-online-visibility/"><u>[New] Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-breaking-down-zoom-session-division/"><u>[Updated] Breaking Down Zoom Session Division</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-on-new-operating-system/"><u>Dealing with C1900101 on New Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-correction-guide-non-active-gpu-display-nvidia/"><u>Efficient Correction Guide: Non-Active GPU Display, NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-win10-experience-updated-amd-radeon-hd-6950-drivers/"><u>Elevate Your Win10 Experience: Updated AMD Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4s-pc-problems-solved-for-you/"><u>Fallout 4'S PC Problems, Solved for You</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-basic-render-in-windows-series/"><u>Fixed Microsoft's Basic Render in Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fullscreen-fidelity-recovered-win10-version/"><u>Fullscreen Fidelity Recovered, Win10 Version</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>In 2024, Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-kickstarting-a-successful-social-good-campaign-online/"><u>In 2024, Kickstarting a Successful Social Good Campaign Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-motion-mastery-modules/"><u>In 2024, Premium Motion Mastery Modules</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-repair-steps-unused-gfx-display-nvidia/"><u>Quick Repair Steps: Unused GFX Display NVIDIA</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-data-insights-on-your-site-with-the-innovative-capabilities-of-cookiebot-technology/"><u>Revolutionize Data Insights on Your Site with the Innovative Capabilities of Cookiebot Technology</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-13-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 13</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Fixing C1900101 During Windows Installation
-date: 2024-07-12T00:36:48.470Z
-updated: 2024-07-13T00:36:48.470Z
+date: 2024-09-12T06:26:24.849Z
+updated: 2024-09-14T16:59:46.145Z
 tags:
   - win11
   - win10
@@ -52,9 +52,29 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
@@ -72,9 +92,29 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
@@ -100,6 +140,13 @@ Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -122,8 +169,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +176,20 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-farm-management-mastery-for-stardews-ginger-isles/"><u>[New] 2024 Approved Farm Management Mastery for Stardew's Ginger Isles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-innovative-filmmaking-tools-best-lenses-for-content-makers/"><u>[New] In 2024, Innovative Filmmaking Tools Best Lenses for Content Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-low-cost-aerial-photography-top-5-drones-under-500/"><u>[Updated] Low-Cost Aerial Photography Top 5 Drones Under $500</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-affordable-and-easy-online-passport-pics-tools/"><u>2024 Approved Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/among-us-loading-loop-solutions-to-get-past-the-sticky-start/"><u>Among Us Loading Loop - Solutions to Get Past the Sticky Start</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-visual-content-with-macos-preview-your-guide-to-a-hidden-tool-for-perfect-pictures/"><u>Enhancing Visual Content with macOS Preview - Your Guide to a Hidden Tool for Perfect Pictures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-settings-accessibility-in-nvidia/"><u>Enhancing Visual Settings Accessibility in Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-glitch-cleared-driver-restarted-successfully/"><u>Graphic Glitch Cleared: Driver Restarted Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/heros-return-mh-world-bug-squished/"><u>Hero's Return: MH World Bug Squished</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-radeon-missing-in-device-manager-solution-found/"><u>NVIDIA Radeon Missing in Device Manager, Solution Found</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-art-of-crafting-dynamic-luts/"><u>The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-dimensions-aspect-ratio-standards-for-2024/"><u>Twitter Video Dimensions Aspect Ratio Standards for 2024</u></a></li>
+</ul></div>
 

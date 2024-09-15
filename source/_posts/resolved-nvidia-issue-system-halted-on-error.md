@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Nvidia Issue - System Halted on Error"
-date: 2024-07-12T00:32:48.373Z
-updated: 2024-07-13T00:32:48.373Z
+date: 2024-09-11T00:02:12.929Z
+updated: 2024-09-14T22:12:54.685Z
 tags:
   - win11
   - win10
@@ -79,6 +79,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
  3) Restart your computer and check to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 4: Disable the graphics card and discharge the electrical build-up**
 
  Another way you could solve the problem is by disabling your graphics card and discharging the electrical build-up.
@@ -92,6 +105,13 @@ Or click **Update All**  to automatically download and install the correct versi
  2) Right-click on the NVIDIA device name. The context menu will pop up. Click**Disable**  on the context menu.
 
 ![disable nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d79e02d7ee6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Press your power button until your computer shuts down.
 
@@ -111,8 +131,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +138,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[New] 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-process-for-final-deactivation-of-an-account-on-instagram-for-2024/"><u>[New] Unlocking the Process for Final Deactivation of an Account on Instagram for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-all-purpose-capture-software-azs-app-critiques-for-2024/"><u>[Updated] All-Purpose Capture Software - AZ's App Critiques for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screenshots-and-beyond-advanced-screen-recording-for-apple-products/"><u>[Updated] Screenshots & Beyond Advanced Screen Recording for Apple Products</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-incorporating-music-into-your-canva-projects/"><u>[Updated] Step-by-Step Incorporating Music Into Your Canva Projects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-navigating-twitch-recording-a-users-playbook/"><u>2024 Approved Navigating Twitch Recording A User's Playbook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/advanced-display-settings-lacking-in-windows-11/"><u>Advanced Display Settings Lacking in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2013-stellar-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2013 | Stellar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovo-flicker-phenomenon/"><u>Fixing Lenovo Flicker Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-safe-boot-on-windows-8-graphics-cards/"><u>Mastering Safe Boot on Windows 8 - Graphics Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-system-visuals-effortlessly-by-updating-the-intel-graphics-3000-driver-in-w10/"><u>Optimize System Visuals Effortlessly by Updating the Intel Graphics 3000 Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-lenovos-interactive-input-device/"><u>Reviving Lenovo's Interactive Input Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/smart-selections-ideal-mac-software-for-video-snatching/"><u>Smart Selections Ideal Mac Software for Video Snatching</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-windows-for-better-intel-graphics/"><u>Streamlining Windows for Better Intel Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-blackout-in-win11-upgrade/"><u>Troubleshooting Blackout in Win11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-the-vds-startup-sequence-in-windows/"><u>Unfreezing the VDS Startup Sequence in Windows</u></a></li>
+</ul></div>
 

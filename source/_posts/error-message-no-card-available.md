@@ -1,7 +1,7 @@
 ---
 title: "Error Message: No Card Available"
-date: 2024-07-12T00:30:17.679Z
-updated: 2024-07-13T00:30:17.679Z
+date: 2024-09-09T18:30:21.975Z
+updated: 2024-09-14T20:33:44.124Z
 tags:
   - win11
   - win10
@@ -74,11 +74,25 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
 
@@ -91,6 +105,13 @@ Or click **Update All**  to automatically download and install the correct versi
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
@@ -109,8 +130,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,6 +137,18 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-xbox-one-screen-recording-easy-steps-for-gamers/"><u>[New] Xbox One Screen Recording Easy Steps for Gamers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>[Updated] Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-counter-wow-bug-519/"><u>Comprehensive Guide to Counter WoW Bug #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-switchable-gpu-issue-on-windows-11/"><u>Fixed Switchable GPU Issue on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-10-best-cinema-cameras-for-filmmaking-from-beginner-to-professional/"><u>In 2024, 10 Best Cinema Cameras for Filmmaking From Beginner to Professional</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-note-12t-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi Note 12T Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-at-cutting-edge-hardware-by-team-tom/"><u>Inside Look at Cutting-Edge Hardware by Team Tom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-solo-podcast-landscape-successfully-for-2024/"><u>Navigating the Solo Podcast Landscape Successfully for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/troubleshooting-and-solving-horizon-zero-dawns-pc-stability-problems/"><u>Troubleshooting and Solving Horizon Zero Dawn's PC Stability Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveil-hidden-displays-in-windows-11/"><u>Unveil Hidden Displays in Windows 11</u></a></li>
+</ul></div>
 

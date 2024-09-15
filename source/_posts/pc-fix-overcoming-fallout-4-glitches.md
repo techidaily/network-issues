@@ -1,7 +1,7 @@
 ---
 title: "PC Fix: Overcoming Fallout 4 Glitches"
-date: 2024-07-12T00:37:02.604Z
-updated: 2024-07-13T00:37:02.604Z
+date: 2024-09-13T04:57:43.918Z
+updated: 2024-09-14T23:50:35.477Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -69,6 +76,19 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -81,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
  3) If your Fallout 4 restarts to works, it should be an issue with your antivirus program, and you should**add Fallout 4 into the exception in your antivirus program** .
 
 If the issue persists, try the following method.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **5\. Configure settings in your Fallout 4**
 
@@ -112,8 +139,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +146,21 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-embrace-tranquility-top-10-stress-free-games/"><u>[Updated] 2024 Approved Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-matchmake-for-maximum-viewership-on-youtube/"><u>[Updated] 2024 Approved How to Matchmake for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-footage-top-10-action-cams-with-stabilization/"><u>[Updated] Best Footage Top 10 Action Cams With Stabilization</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exploring-4k-extreme-visual-fidelity/"><u>Exploring 4K Extreme Visual Fidelity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-shimmering-effects-on-screens/"><u>Fix Shimmering Effects on Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-melody-and-motion-best-sync-videography-applications-of-the-decades-first-half/"><u>In 2024, Melody and Motion Best-Sync Videography Applications of the Decades First Half</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974860747-instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/jocular-juxtapositions-cutting-edge-humorous-edits-online/"><u>Jocular Juxtapositions Cutting-Edge, Humorous Edits Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/meme-monster-maestro/"><u>Meme Monster Maestro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-gdx-creation-failure-in-oswin/"><u>Rectified GDX Creation Failure in OS/Win</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-inverted-lcd-or-led-screen/"><u>Reversing Inverted LCD or LED Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974749003-swiftly-improve-intels-graphic-driver-in-ws11-environment/"><u>Swiftly Improve Intel's Graphic Driver in WS11 Environment</u></a></li>
+</ul></div>
 

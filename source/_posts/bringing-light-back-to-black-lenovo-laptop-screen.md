@@ -1,7 +1,7 @@
 ---
 title: Bringing Light Back to Black Lenovo Laptop Screen
-date: 2024-07-12T00:31:36.218Z
-updated: 2024-07-13T00:31:36.218Z
+date: 2024-09-10T17:11:54.909Z
+updated: 2024-09-15T03:32:04.494Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -105,6 +112,19 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -115,6 +135,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -122,6 +149,13 @@ So you can try disabling fast startup to see if it does the trick:
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -144,6 +178,13 @@ So you can try disabling fast startup to see if it does the trick:
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
@@ -170,8 +211,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,6 +218,21 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-installed-new-amd-graphic-driver-on-pcs/"><u>[FIXED] Installed New AMD Graphic Driver on PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-10-best-instagram-tools-to-manage-post-and-increase-followers-for-2024/"><u>[New] 10 Best Instagram Tools to Manage Post and Increase Followers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-high-quality-edge-max-360-vs-hero-11/"><u>[New] Exploring the High-Quality Edge Max 360 vs Hero 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>2024 Approved Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ceasing-screen-flash-in-displays/"><u>Ceasing Screen Flash in Displays</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-v2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor Magic V2</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exposed-issue-why-my-graphics-cards-name-is-hidden/"><u>Exposed Issue: Why My Graphics Card's Name Is Hidden</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-solve-youtube-video-distorted-issue-for-2024/"><u>How to Solve YouTube Video Distorted Issue for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-effortless-communication-unveil-the-three-step-method-for-snapchat-calls/"><u>In 2024, Effortless Communication Unveil the Three-Step Method for Snapchat Calls</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smaller-screens-for-large-win10-views/"><u>Smaller Screens for Large Win10 Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-amds-etv-issues/"><u>Swift Remedy: AMD's ETV Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts-for-2024/"><u>Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-typical-windows-rainmeter-setbacks-and-how-to-overcome-them/"><u>Unraveling Typical Windows Rainmeter Setbacks and How to Overcome Them</u></a></li>
+</ul></div>
 

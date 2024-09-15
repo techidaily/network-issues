@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED]: Troubleshoot Offline Mode for CoD Cold War"
-date: 2024-07-12T00:34:23.966Z
-updated: 2024-07-13T00:34:23.966Z
+date: 2024-09-11T01:24:34.846Z
+updated: 2024-09-14T17:30:04.459Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ If you are not sure where your game is installed, take these steps:
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then it’ll launch in admin mode.
 
 ---
@@ -112,6 +119,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
@@ -139,10 +153,38 @@ To see if a new DNS address helps, you can follow the instructions below:
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
@@ -153,6 +195,13 @@ To see if a new DNS address helps, you can follow the instructions below:
 
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if COD Cold War’s can’t connect to server error remains. If so, please move on.
 
@@ -192,8 +241,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +248,23 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-buzzing-beats-leading-music-distortion-apps-for-2024/"><u>[Updated] Buzzing Beats Leading Music Distortion Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guiding-viewers-eyes-leading-lines-for-iphone-photography/"><u>[Updated] Guiding Viewers' Eyes Leading Lines for iPhone Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-driver-verifier-on-windows-11/"><u>Activating Driver Verifier on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-evolution-in-business-seven-key-changes-brought-by-generative-tech/"><u>AI Evolution in Business: Seven Key Changes Brought by Generative Tech</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ath-m50x-unpacked-studio-headphone-bliss/"><u>ATH-M50x Unpacked: Studio Headphone Bliss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-restore-hearing-capabilities-in-your-discord-calls/"><u>Discover How to Restore Hearing Capabilities in Your Discord Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/evaluating-on-demand-media-podcast-or-youtube/"><u>Evaluating On-Demand Media Podcast or YouTube?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-for-wow-malfunction-no-519/"><u>Expert Tips for WoW Malfunction No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-backward-screen-display-order/"><u>Fixing Backward Screen Display Order</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-failure-zero-output-latest-model/"><u>Graphics Failure: Zero Output, Latest Model</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/macs-gif-mastery-top-10-recorder-guide-for-2024/"><u>Mac's GIF Mastery Top 10 Recorder Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-update-now-displays-fullscreen-correctly/"><u>Monitor Update: Now Displays Fullscreen Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/outrun-game-freeze-anthem-lag-cure/"><u>Outrun Game Freeze: Anthem Lag Cure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-pixel-real-estate-win11-edition/"><u>Perfecting Pixel Real Estate: Win11 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/post-upgrade-windows-10-clear-of-video-hurdles/"><u>Post-Upgrade Windows 10: Clear of Video Hurdles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/transform-damaged-footage-with-expertise-from-grau-gmbh-leading-providers-of-video-restoration-services/"><u>Transform Damaged Footage with Expertise From Grau GmbH – Leading Providers of Video Restoration Services</u></a></li>
+</ul></div>
 

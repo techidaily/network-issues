@@ -1,7 +1,7 @@
 ---
 title: "Warzone Woes: Sluggish Swipes"
-date: 2024-07-12T00:30:48.438Z
-updated: 2024-07-13T00:30:48.438Z
+date: 2024-09-11T00:50:23.364Z
+updated: 2024-09-15T02:38:04.914Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Switch Domain Name Systems (DNS)
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can effectively slow your connection. Switching your DNS can result in better connectivity and performance for your internet connection and save you time troubleshooting.
@@ -103,10 +110,26 @@ Here we recommend using Google DNS:
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
@@ -117,6 +140,13 @@ Here we recommend using Google DNS:
 
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
@@ -147,6 +177,13 @@ Here’s how to do this:
 **RetryTime=0.5**
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Press**Ctrl + S** to save the edits.
 
@@ -183,8 +220,6 @@ When it’s all done, resume your download and it should be faster.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,6 +227,19 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-android-and-ios-top-asmr-audio-picks-for-2024/"><u>[New] Android and iOS Top ASMR Audio Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>[New] Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-iphoneandroid-sharing-videos-on-twitter-without-retweeting-for-2024/"><u>[Updated] IPhone/Android Sharing Videos On Twitter Without Retweeting for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-all-inclusive-review-of-dji-phantom-4-technology/"><u>2024 Approved All-Inclusive Review of DJI Phantom 4 Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-backwards-orientation-in-screen/"><u>Correcting Backwards Orientation in Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-monitor-post-driver-update/"><u>Darkened Monitor Post-Driver Update</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/edu-stream-100-cutting-edge-learning-yt-for-2024/"><u>Edu-Stream 100 Cutting-Edge Learning YT for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-omission-in-gfx-sensing/"><u>Rectify Omission in GFX Sensing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-lenovo-monitor-shade-fading-problems/"><u>Resolving Lenovo Monitor Shade Fading Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-screen-issue-creators-fall-patch/"><u>Resolving Screen Issue: Creator's Fall Patch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/story-structuring-at-its-core-for-2024/"><u>Story Structuring at Its Core for 2024</u></a></li>
+</ul></div>
 

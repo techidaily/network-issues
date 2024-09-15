@@ -1,7 +1,7 @@
 ---
 title: Hybrid Graphics Enhanced After Windows 11 Upgrade Fixes
-date: 2024-07-12T00:35:31.895Z
-updated: 2024-07-13T00:35:31.895Z
+date: 2024-09-13T03:18:01.498Z
+updated: 2024-09-14T22:47:04.749Z
 tags:
   - win11
   - win10
@@ -77,17 +77,44 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -98,6 +125,13 @@ Or click **Update All**  to automatically download and install the correct versi
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -113,8 +147,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,6 +154,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-corrected-missing-amd-graphics-on-windows-11/"><u>[FIXED GRAPHICS] Corrected Missing AMD Graphics on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-the-chilly-selecting-five-warm-video-backgrounds/"><u>[New] In 2024, Elevating the Chilly Selecting Five Warm Video Backgrounds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elevate-your-video-production-with-green-screen-expertise-from-kinemaster/"><u>[Updated] Elevate Your Video Production with Green Screen Expertise From Kinemaster</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cyberlink-the-pinnacle-of-digital-recording/"><u>[Updated] In 2024, Cyberlink The Pinnacle of Digital Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-hd-android-video-player-apps-you-should-know-for-2024/"><u>10 Best Hd Android Video Player Apps You Should Know for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquered-notebook-blinking-solved-display-stability/"><u>Conquered Notebook Blinking: Solved Display Stability</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y17s-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y17s Is Unlocked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-safe-surveillance-strategies-blurring-sensitive-content/"><u>In 2024, Safe Surveillance Strategies Blurring Sensitive Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-basic-drivers-better-on-ws-2-ws-8/"><u>Making Basic Drivers Better on WS-2, WS-8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-windows-via-intel-gpu-update/"><u>Optimizing Windows via Intel GPU Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-invisible-wireless-adapter-in-windows-11/"><u>Resolved: Invisible Wireless Adapter in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974504839-screen-flicker-no-more/"><u>Screen Flicker, No More!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/starfield-game-wont-launch-find-out-how-you-can-fix-it-on-steam-and-xbox-devices/"><u>Starfield Game Won't Launch? Find Out How You Can Fix It on Steam and Xbox Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-and-reviews/"><u>Tom's Tech Review: Comprehensive Insights and Reviews</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-void-in-virtual-ventures/"><u>Visual Void in Virtual Ventures</u></a></li>
+</ul></div>
 

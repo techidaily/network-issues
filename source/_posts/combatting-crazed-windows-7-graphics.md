@@ -1,7 +1,7 @@
 ---
 title: Combatting Crazed Windows 7 Graphics
-date: 2024-07-12T00:32:22.957Z
-updated: 2024-07-13T00:32:22.957Z
+date: 2024-09-12T19:50:37.555Z
+updated: 2024-09-14T20:08:36.459Z
 tags:
   - win11
   - win10
@@ -68,6 +68,20 @@ To troubleshoot these hardware issues:
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
@@ -88,13 +102,37 @@ To troubleshoot these hardware issues:
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
  If you’re using**Lenovo** , press**F1** ;  
@@ -119,8 +157,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +164,20 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-iphones-simple-methods-for-effective-screening/"><u>[New] 2024 Approved IPhone's Simple Methods for Effective Screening</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-smart-choices-best-video-call-programs-on-devices/"><u>[Updated] In 2024, Smart Choices Best Video Call Programs on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unzip-the-scripts-crafting-subtitles-from-compressed-files/"><u>[Updated] Unzip the Scripts Crafting Subtitles From Compressed Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-inconsistent-reflective-surface-flashes/"><u>Eliminated Inconsistent Reflective Surface Flashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-troubleshooting-error-43/"><u>GPU Troubleshooting: Error 43</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revolutionize-live-streaming-top-4-approaches-to-record-on-fb/"><u>In 2024, Revolutionize Live Streaming Top 4 Approaches to Record on FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-game-world-with-these-9-essential-steam-benefits/"><u>Navigating the Game World with These 9 Essential Steam Benefits</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>New How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-no-compatible-graphics-hardware-was-found-solved/"><u>Overwatch No Compatible Graphics Hardware Was Found [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-upside-down-screen-on-windows-11-os/"><u>Reversing Upside Down Screen on Windows 11 OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-tactics-for-scrolling-through-popular-youtube-reactions-for-2024/"><u>Streamlined Tactics for Scrolling Through Popular YouTube Reactions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+</ul></div>
 

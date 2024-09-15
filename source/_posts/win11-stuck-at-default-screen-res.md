@@ -1,7 +1,7 @@
 ---
 title: "Win11: Stuck at Default Screen Res"
-date: 2024-07-12T00:37:29.265Z
-updated: 2024-07-13T00:37:29.265Z
+date: 2024-09-13T00:59:42.592Z
+updated: 2024-09-14T16:40:12.365Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -99,6 +106,13 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -119,8 +133,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +140,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-a-critical-look-at-irecorders-screenshot-tech/"><u>[New] 2024 Approved A Critical Look at iRecorder's Screenshot Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-exploring-dynamic-visuals-timelapses-with-ipad/"><u>[New] 2024 Approved Exploring Dynamic Visuals Timelapses with iPad</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essentials-of-film-color-enhancement/"><u>[Updated] Essentials of Film Color Enhancement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-multimedia-designers-space/"><u>[Updated] In 2024, Multimedia Designer's Space</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-mastering-creative-control-leveraging-personal-photos-in-midjourney/"><u>1. Mastering Creative Control: Leveraging Personal Photos in MidJourney</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-effortless-recording-on-mac-unveiling-the-secrets/"><u>2024 Approved Effortless Recording on Mac Unveiling the Secrets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974806015-boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extract-and-save-still-images-from-movies-in-windows-photos-for-2024/"><u>Extract and Save Still Images From Movies in Windows Photos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-gory-odyssey-mechanics/"><u>Fixed: Gory Odyssey Mechanics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-methods-disconnected-graphics-card-wnvidia/"><u>Quick Fix Methods: Disconnected Graphics Card W/NVIDIA</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-ultimate-setup-breakdown-error-1603-explained/"><u>Resolving the Ultimate Setup Breakdown - Error 1603 Explained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-reduce-flickering-in-acer-panels/"><u>Techniques to Reduce Flickering in Acer Panels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-a-dark-monitor-on-pcs/"><u>Troubleshooting a Dark Monitor on PCs</u></a></li>
+</ul></div>
 

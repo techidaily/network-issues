@@ -1,7 +1,7 @@
 ---
 title: "Unravelled: Perplexing X-Error on League of Legends"
-date: 2024-09-09T02:30:32.509Z
-updated: 2024-09-10T02:30:32.509Z
+date: 2024-09-13T01:30:42.311Z
+updated: 2024-09-15T02:23:16.830Z
 tags:
   - win11
   - win10
@@ -18,28 +18,10 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/error-an-unknown-directx-error-has-occurred-and-lol-cannot-start.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re seeing _**An unknown DirectX error has occurred and League of Legends cannot start**_  message, you’re not alone. Many Windows 10 users are reporting about this problem as well. At times, you might see the error instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/directx-error.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  No worries, it’s actually a pretty easy problem to fix. Here is one of the most effective method you can try to fix this problem.
 
 **Note** : The screen shots are shown in Windows 10, but all fixes apply to Windows 7 and Windows 8 as well.
@@ -52,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/display-adapters-600x357.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the**Driver** tab, click **Update Driver…** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver.png)
@@ -66,48 +42,18 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/search-automatically-for-updated-driver-software.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Right-click the**League of Legends** icon on your desktop and click **Open file location** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/open-file-location-lol.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Go to**Config** folder. Delete **game.cfg** and**input** files. The files will be restored in the next steps.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/game-cfg-input-files.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Go back to the League of Legends folder, then go to**RADS** folder. Delete **lol\_game\_client**  folders (You might see two or three of them).
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/lol_game_client-rads-lol.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Open your League of Legends. In the game interface, click the**?** icon on the top right corner.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_581aebafce253.jpg)
@@ -144,25 +90,11 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c9f8ddba67.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,44 +103,29 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb/"><u>[New] 2024 Approved  Augmenting Visual Appeal  Implementing Black Bar & Box on FB</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-taking-the-leap-essential-video-gatherings-post-vidcon/"><u>[New] 2024 Approved  Taking the Leap  Essential Video Gatherings (Post-VidCon)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-improving-remote-work-communications-with-4-strategies/"><u>[New] Improving Remote Work Communications with #4 Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-become-a-pro-at-xbox-video-recording-in-minutes/"><u>[New] In 2024, Become a Pro at Xbox Video Recording in Minutes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-keep-your-digital-treasures-storing-insta-media-on-iphone/"><u>[New] In 2024, Keep Your Digital Treasures  Storing Insta Media on iPhone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-frosty-frameworks-for-warm-video-productions/"><u>[Updated] Frosty Frameworks for Warm Video Productions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-methods-for-streamlining-console-playback-pc-wise/"><u>[Updated] In 2024, Expert Methods for Streamlining Console Playback PC-Wise</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>2024 Approved  Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-invisible-graphics-cards-your-fix/"><u>Addressing Invisible Graphics Cards: Your Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/card-problem-solution-error-43/"><u>Card Problem Solution - Error 43</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-setup-failure-addressed/"><u>Direct3D Setup Failure Addressed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-top-10-online-free-transformer-applications/"><u>Discover the Top 10 Online, FREE Transformer Applications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-clarity-for-all-windows/"><u>Enhanced Clarity for All Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-display-settings-for-windows-11-users/"><u>Enhanced Display Settings for Windows 11 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-inconsistent-reflective-panel-fluctuations/"><u>Fixed: Inconsistent Reflective Panel Fluctuations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-43-resolved/"><u>GPU Error 43 Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974119817-halt-amd-glitch-enter-game/"><u>Halt AMD Glitch, Enter Game!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hurdles-cleared-in-nvidia-installation-process/"><u>Hurdles Cleared in Nvidia Installation Process</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-14-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comparative-analysis-of-screen-capture-software-obs-and-fraps/"><u>In 2024, Comparative Analysis of Screen Capture Software  OBS and Fraps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>In 2024, Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-13-proplus-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 13 Pro+ 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-missing-from-tvs-panel/"><u>Laptop Image Missing From TV's Panel</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-nvidia-fermi-series-update-geforce-210-windows-integration/"><u>Latest NVidia Fermi Series Update: GeForce 210 Windows Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-screen-non-interaction-a-quick-fix/"><u>Lenovo Screen Non-Interaction: A Quick Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-gpu-drivers-removal-in-win-oses/"><u>Mastering the Art of GPU Drivers Removal in Win OSes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-flipped-displays-on-windows-11-os/"><u>Overcoming Flipped Displays on Windows 11 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-minimum-requirements-barrier-for-drivers/"><u>Overcoming Minimum Requirements Barrier for Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-tips-to-solve-wide-text-line-phenomena-in-notebooks/"><u>Quick Tips to Solve Wide Text Line Phenomena in Notebooks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-settings-on-windows-11/"><u>Unlock Hidden Display Settings on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unraveling-wow-error-code-51900319/"><u>Unraveling WoW Error Code: 51900319</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ways-to-stop-acer-display-twinkle/"><u>Ways to Stop Acer Display Twinkle</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uzzing-beats-leading-music-distortion-apps-for-2024/"><u>[New] Buzzing Beats Leading Music Distortion Apps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-reno-10-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo Reno 10 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s23-fe-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-windows-11s-streaming-obstacles-successfully/"><u>Clearing Up Windows 11’S Streaming Obstacles Successfully</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-youtube-videos-on-android-9-powerful-apps-compared/"><u>Download YouTube Videos on Android 9 Powerful Apps Compared</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gain-free-access-unlocking-the-power-of-gpt-n-for-beginners/"><u>Gain Free Access: Unlocking the Power of GPT-N for Beginners</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-gameplay-speed-in-virtual-construction/"><u>Improve Gameplay Speed in Virtual Construction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-your-monitors-layout-with-wins11-tools/"><u>Improve Your Monitor's Layout with Wins11 Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus 11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-insta-photo-watermarks-a-step-by-step-guide/"><u>Mastering Insta Photo Watermarks A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-visual-hardware-solve-for-nvidia-gpu-lack-of-visibility/"><u>Missing Visual Hardware: Solve for NVIDIA GPU Lack of Visibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-cursor-functionality-on-black-screen/"><u>Restore Cursor Functionality on Black Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-asus-internal-webcam-issues/"><u>Solving Asus Internal Webcam Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-controlling-lenovo-screenshake/"><u>Strategies for Controlling Lenovo Screenshake</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462942226-struggling-with-wireless-charging-try-these-7-tips-to-make-it-work-on-your-iphone-again/"><u>Struggling with Wireless Charging? Try These 지7 Tips to Make It Work on Your iPhone Again</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

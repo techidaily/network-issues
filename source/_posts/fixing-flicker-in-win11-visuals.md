@@ -1,7 +1,7 @@
 ---
 title: Fixing Flicker in Win11 Visuals
-date: 2024-07-12T00:31:44.899Z
-updated: 2024-07-13T00:31:44.899Z
+date: 2024-09-10T23:04:13.919Z
+updated: 2024-09-15T04:53:03.943Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ If the issue remains, check out the next fix.
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update or uninstall incompatible apps
 
  The app developers often release updates to tackle compatibility issues with the new operating system. If your apps are still running in an old version, you may encounter a flickering screen on your Windows 11 PC. To fix the potential problem, you need to update all your apps to the latest version.
@@ -88,10 +95,25 @@ If the issue remains, check out the next fix.
 2. In the left panel, select**Apps** , then click**Installed apps** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
 4. Click**Uninstall** again to confirm your choice.
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change Accent color and Background
 
@@ -153,6 +175,13 @@ If this fix doesn’t do the trick, try the next one below.
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Repair your system files
 
  If there are any missing or corrupted system files, you may see a flickering or flashing screen on your Windows 11 PC. To fix it, you can use**[Fortect](#option1)** or**[System File Checker](#option2)** to scan and restore system files.
@@ -185,6 +214,19 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once done, check if your problem has been resolved.
 
 ---
@@ -199,8 +241,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,6 +248,19 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-iphone-time-lapse-101-minimizing-wait-times-for-2024/"><u>[New] IPhone Time Lapse 101 Minimizing Wait Times for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hd-6950-drivers-upgraded-for-windows-11-users/"><u>HD 6950 Drivers Upgraded for Windows 11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-narzo-60-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme Narzo 60 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lenovo-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lenovo FRP Without Computer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>In 2024, Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>In 2024, The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-phones-and-samsung-gear-vr-interaction-for-2024/"><u>Navigating Phones & Samsung Gear VR Interaction for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-onoff-switch-armored/"><u>OpenGL On/Off Switch Armored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-silence-no-nvidia-detected-in-control-panel/"><u>Unexpected Silence: No NVIDIA Detected in Control Panel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Harmonious Operation: Hybrid Graphics on Intel & Nvidia in Win11"
-date: 2024-07-12T00:35:28.038Z
-updated: 2024-07-13T00:35:28.038Z
+date: 2024-09-09T02:22:50.526Z
+updated: 2024-09-15T03:22:48.085Z
 tags:
   - win11
   - win10
@@ -77,11 +77,31 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -95,6 +115,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
@@ -107,13 +134,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,6 +154,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-perfection-on-the-switch-console-for-2024/"><u>[New] Capture Perfection on the Switch Console for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>[Updated] Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-by-step-guide-to-edit-youtube-videos-in-finalcut-for-2024/"><u>A Step-by-Step Guide to Edit YouTube Videos in FinalCut for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-rejuvenated-with-latest-update/"><u>AMD Radeon HD 6950: Rejuvenated with Latest Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-monitor-layouts/"><u>Correcting Inverted Monitor Layouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-glitches-civ-5-on-windows/"><u>Eradicating Glitches: Civ 5 on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-shadow-window-on-windows-11/"><u>Eradicating Shadow Window on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tips-for-smooth-youtube-content-trimming/"><u>Essential Tips for Smooth YouTube Content Trimming</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-solve-windows-1n-tens-system-service-exception-issues/"><u>How to Successfully Solve Windows 1N Ten's System Service Exception Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-razr-40-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Razr 40 to Another | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-integration-of-geforce-210-with-windows-10-os/"><u>Seamless Integration of GeForce 210 with Windows 10 OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-video-conferencing-with-zoom-and-gmail-for-2024/"><u>Seamless Video Conferencing with Zoom & Gmail for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-detecting-missing-gpu-on-pc-platforms/"><u>Tips for Detecting Missing GPU on PC Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-intel-graphics-on-win-7-step-by-step-guide/"><u>Updating Intel Graphics on Win 7: Step-by-Step Guide</u></a></li>
+</ul></div>
 

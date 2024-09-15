@@ -1,7 +1,7 @@
 ---
 title: "Beat the System: Cutting Lag Time"
-date: 2024-07-12T00:34:36.416Z
-updated: 2024-07-13T00:34:36.416Z
+date: 2024-09-09T16:42:33.445Z
+updated: 2024-09-14T19:03:42.891Z
 tags:
   - win11
   - win10
@@ -159,6 +159,19 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -175,9 +188,29 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -195,8 +228,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +235,20 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-intellieditors-ai-transform-photos-effortlessly/"><u>[New] IntelliEditors AI Transform Photos Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-troubleshoot-offline-mode-for-cod-cold-war/"><u>[SOLVED]: Troubleshoot Offline Mode for CoD Cold War</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-6-free-online-tools-for-downloading-youtube-shorts/"><u>2024 Approved Top 6 Free, Online Tools for Downloading YouTube Shorts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-barnes-and-noble-nook-glowlight-4/"><u>Comprehensive Guide to the Barnes & Noble Nook GlowLight 4</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-rescue-correcting-driver-issue-successfully/"><u>Display Rescue: Correcting Driver Issue Successfully</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-poco-x5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Poco X5 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-play-7t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Play 7T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-gionee-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Gionee Phone Screen?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>In 2024, TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-new-worlds-together-playing-minecraft-split-screen-on-switch/"><u>Navigating New Worlds Together: Playing Minecraft Split-Screen on Switch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-clear-view-on-win11-panels/"><u>Restoring Clear View on WIN11 Panels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/titans-triumph-god-of-war-enhanced/"><u>Titan's Triumph: God of War Enhanced</u></a></li>
+</ul></div>
 

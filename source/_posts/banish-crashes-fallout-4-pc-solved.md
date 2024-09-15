@@ -1,7 +1,7 @@
 ---
 title: "Banish Crashes: Fallout 4 PC Solved"
-date: 2024-07-12T00:37:33.613Z
-updated: 2024-07-13T00:37:33.613Z
+date: 2024-09-11T18:00:13.936Z
+updated: 2024-09-14T19:41:19.772Z
 tags:
   - win11
   - win10
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
@@ -61,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
@@ -98,6 +118,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -112,8 +139,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +146,18 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stream-and-record-gamers-ultimate-guide/"><u>[New] In 2024, Stream and Record Gamers' Ultimate Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-strategies-for-streaming-fb-live-on-zoom-platform/"><u>[Updated] In 2024, Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-20-words-for-marketing-success/"><u>[Updated] The Best 20 Words for Marketing Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-the-win11-screen-twinkle/"><u>Banish the Win11 Screen Twinkle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-makeover-building-with-your-own-insights/"><u>ChatGPT Makeover: Building with Your Own Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-overcome-playback-pauses/"><u>Effortlessly Overcome Playback Pauses</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-spark-20-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Spark 20 Pro FRP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-obstacles-in-way-post-nvidia-installer-install/"><u>No Obstacles in Way Post-Nvidia Installer Install</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-konvertieren-von-mp4-in-dvd-professionelle-tipps-und-tricks/"><u>Schritt-Für-Schritt-Anleitung Zum Konvertieren Von MP4 in DVD: Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-intel-graphics-in-windows-os/"><u>Securing Intel Graphics in Windows OS</u></a></li>
+</ul></div>
 

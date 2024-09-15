@@ -1,7 +1,7 @@
 ---
 title: "Fallout Fails: Conquer Crashing on Windows"
-date: 2024-07-12T00:33:17.198Z
-updated: 2024-07-13T00:33:17.198Z
+date: 2024-09-11T20:35:31.870Z
+updated: 2024-09-15T07:06:17.676Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
@@ -98,6 +112,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -112,8 +133,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +140,18 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-fast-track-to-fashionista-status-on-instagram-our-essential-guide-for-speed-up-star-chasers-for-2024/"><u>[Updated] The Fast Track to Fashionista Status on Instagram Our Essential Guide for Speed-Up Star Chasers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maintaining-image-integrity-effective-instagram-photowatermarking/"><u>2024 Approved Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct2d-not-active-armor-applied/"><u>Direct2D Not Active, Armor Applied</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10s-erroneous-code-c1900101/"><u>Fixing Windows 10'S Erroneous Code: C1900101</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-software-drivers-for-hp-elitebook-x360-gen9-1030-g2/"><u>Get the Newest Software Drivers for HP EliteBook X360 Gen9 (1030 G2)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-stop-hp-screen-blinking/"><u>Methods to Stop HP Screen Blinking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-additions-for-newbie-gopro-photographers-for-2024/"><u>Prime Additions for Newbie GoPro Photographers for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/resolving-the-silent-issue-fixing-no-audio-in-vlc-media-player-on-windows-10-and-macos/"><u>Resolving the Silent Issue: Fixing No Audio in VLC Media Player on Windows 10 & macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/smooth-installation-of-updated-sata-drivers-for-windows-systems-with-simple-directions/"><u>Smooth Installation of Updated SATA Drivers for Windows Systems with Simple Directions</u></a></li>
+</ul></div>
 

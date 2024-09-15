@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Troubleshooting Offline Play for CoD Cold War"
-date: 2024-07-12T00:30:21.991Z
-updated: 2024-07-13T00:30:21.991Z
+date: 2024-09-10T20:19:11.842Z
+updated: 2024-09-15T03:24:13.199Z
 tags:
   - win11
   - win10
@@ -80,8 +80,23 @@ If you are not sure where your game is installed, take these steps:
 2. Click on**GAMES** and head to**Call of Duty: BOCW** . Click on**Options > Show in Explorer** . Then you’ll be brought to your game’s installation directory.  
 ![call of duty black ops cold war installation directory](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator.jpg)
 3. Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** . Right-click it and select**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run Blizzard launcher as administrator
 
@@ -93,6 +108,13 @@ If you are not sure where your game is installed, take these steps:
 Then it’ll launch in admin mode.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network adapter driver
 
@@ -116,6 +138,13 @@ OR
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -166,6 +195,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 2. In the top right, click**LOGIN** .  
 ![link activision account](https://images.drivereasy.com/wp-content/uploads/2020/11/LOGIN-activision-account.jpg)
 3. Then you’ll be redirected to the login page. Now simply enter your details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once you’re logged in, click**PROFILE** in the top right.  
 ![activision profile](https://images.drivereasy.com/wp-content/uploads/2020/11/activision-profile.jpg)
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
@@ -192,8 +229,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +236,22 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-call-of-duty-cold-war-connectivity-issue/"><u>[FIXED] Call of Duty Cold War Connectivity Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-monetary-map-mr-beasts-financials-uncovered/"><u>[New] In 2024, The Monetary Map Mr. Beast’s Financials Uncovered</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-ranked-ios-tools-to-experience-real-psp-games/"><u>[New] In 2024, Top-Ranked iOS Tools to Experience Real PSP Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-professional-edge-mastering-bordered-videos-on-insta-for-2024/"><u>[New] Professional Edge Mastering Bordered Videos on Insta for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-maximizing-reach-and-engagement-in-igtv-content-strategy/"><u>[Updated] 2024 Approved Maximizing Reach and Engagement in IGTV Content Strategy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-glitches-with-ease/"><u>End Monitor Glitches with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-correct-error-6-when-playing-dive-missions-in-cod-moden-warfare-pc-edition/"><u>Expert Tips to Correct Error #6 When Playing Dive Missions in CoD: Moden Warfare - PC Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-bot-face-off-deciding-ai-conversation-leader/"><u>Generative Bot Face-Off - Deciding AI Conversation Leader</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-your-aoc-graphics-card-drivers-on-windows-11108-for-optimal-performance/"><u>How to Get Your AOC Graphics Card Drivers on Windows 11/10/8 for Optimal Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-mend-lenovo-non-touch-screen/"><u>How To Mend Lenovo Non-Touch Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-10t-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme 10T 5G Bootloader Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-updates-fixing-render-driver-issues-across-windows-series/"><u>Microsoft Updates: Fixing Render Driver Issues Across Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-gpu-error-43/"><u>Resolving GPU Error 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-7-display-glitches/"><u>Resolving Windows 7 Display Glitches</u></a></li>
+</ul></div>
 

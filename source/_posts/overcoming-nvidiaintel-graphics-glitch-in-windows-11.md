@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2024-09-09T02:30:34.608Z
-updated: 2024-09-10T02:30:34.608Z
+date: 2024-09-08T23:01:08.217Z
+updated: 2024-09-14T21:42:19.313Z
 tags:
   - win11
   - win10
@@ -24,22 +24,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -55,22 +43,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -102,11 +78,12 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -114,22 +91,24 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -145,23 +124,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,56 +148,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrective-modifications-added-missing-amd-driver-to-pcs/"><u>[CORRECTIVE MODIFICATIONS] Added Missing AMD Driver to PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-uninstalled-amd-driver-in-win1110/"><u>[FIXED] Uninstalled AMD Driver in Win11/10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-8-virtual-reality-vr-gaming-accessories/"><u>[New] Top 8 Virtual Reality (VR) Gaming Accessories</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-wifi-keeps-disconnecting-or-dropping-out/"><u>[SOLVED] WiFi Keeps Disconnecting or Dropping Out</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[Updated] Explore the World of Tiny Screens  Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-chill-out-the-leading-10-calm-games/"><u>[Updated] In 2024, Chill Out  The Leading 10 Calm Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography  Essential Pixlr Hacks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-5-slow-mo-video-recording/"><u>2024 Approved  Innovative 5 Slow Mo Video Recording</u></a></li>
-<li><a href="https://network-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blue-screen-bsod-issue-with-windows-dxgkrnlsys/"><u>Blue Screen (BSOD) Issue with Windows dxgkrnl.sys</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bug-fixes-ms-basic-render-for-windows-versions-11-7/"><u>Bug Fixes: MS Basic Render for Windows Versions 11-7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-windows-7-screen-flip-error/"><u>Correcting Windows 7 Screen Flip Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/desktop-displays-down-troubleshoot-guide/"><u>Desktop Displays Down? Troubleshoot Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-erratic-backlight-intervals-fix-achieved/"><u>End of Erratic Backlight Intervals: Fix Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-issues-a-solution-to-hybrid-gpu-problem-with-intellnvidia/"><u>Ending Issues: A Solution to Hybrid GPU Problem with Intell/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exclusive-driver-update-for-windows-pcs-with-nvidia-210/"><u>Exclusive Driver Update for Windows PCs with Nvidia 210</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-guide-to-counteracting-wow-bug-519/"><u>Expert Guide to Counteracting WoW Bug #519</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-insights-streamlining-filters-integration-in-media-production-for-2024/"><u>Expert Insights  Streamlining Filters Integration in Media Production for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-in-sight-nvidia-display-recovers-quickly/"><u>Fix in Sight: Nvidia Display Recovers Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-monitor-1-and-2-in-windows/"><u>How to Change Monitor 1 and 2 in Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-10-undiscovered-memelists-on-facebook/"><u>In 2024, Top 10 Undiscovered Memelists on Facebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-flip-armageddon-averted/"><u>Laptop Screen Flip: Armageddon Averted</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-gpu-issue-blank-monitor/"><u>Latest GPU Issue: Blank Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-horizon-in-win10-graphics-amd-radeon-hd-6950-drivers-v20/"><u>New Horizon in Win10 Graphics: AMD Radeon HD 6950 Drivers V2.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-glitch-windows-10s-full-screen-windows-unseen/"><u>Overcome Glitch: Windows 10'S Full Screen Windows Unseen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-opengl-disruption-nvidia-armored/"><u>Overcoming OpenGL Disruption - NVIDIA Armored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-tips-inactive-graphics-card-wnvidia/"><u>Quick-Fix Tips: Inactive Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reconfiguring-windows-11-display-scaling/"><u>Reconfiguring Windows 11 Display Scaling</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-success-desktop-lightness-fluctuates-stopped/"><u>Repair Success: Desktop Lightness Fluctuates Stopped</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-enter-to-nvidia-config-menu/"><u>Resolved: Enter to Nvidia Config Menu</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-hidden-windows-10-color-after-cu/"><u>Revealing Hidden Windows 10 Color After CU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverting-failed-attempt-to-save-display-preferences/"><u>Reverting Failed Attempt to Save Display Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-spirit-of-victory-a-steam-achievements-reset/"><u>Reviving the Spirit of Victory: A Steam Achievements Reset</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-essential-how-to-guide-for-filming-anywhere-anytime-for-2024/"><u>The Essential How-To Guide for Filming Anywhere, Anytime for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Tecno Spark 10C without backup.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumphant-moment-for-amd-as-detection-driver-loads-on-wndows-10/"><u>Triumphant Moment for AMD as Detection Driver Loads on Wndows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-rapid-screen-changes-in-acer-models/"><u>Troubleshooting Rapid Screen Changes in Acer Models</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrade-intel-graphics-3000-to-enhance-your-visual-experience-on-w10-seamlessly/"><u>Upgrade Intel Graphics 3000 to Enhance Your Visual Experience on W10 Seamlessly.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-7-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 7 i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-blackout-ended-now/"><u>Window's 10 Blackout: Ended Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-unexpectedly-missing-wi-fi/"><u>Windows 11: Unexpectedly Missing Wi-Fi?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-hp-security-suite-uninstall-error-1325-on-windows-7-a-comprehensive-solution/"><u>Winning the Battle Against HP Security Suite Uninstall Error 1325 on Windows 7 – A Comprehensive Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-firefoxs-finest-leading-video-downloads-and-addons-for-facebook/"><u>[New] Firefox's Finest Leading Video Downloads & Addons for Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-understanding-instagrams-video-length-cap-for-2024/"><u>[New] Understanding Instagram's Video Length Cap for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-lose-yourself-to-laughter-best-10-jokes-for-2024/"><u>[Updated] Lose Yourself to Laughter Best 10 Jokes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-precision-editing-mastery-proven-pc-strategies-for-youtube-success-for-2024/"><u>[Updated] Precision Editing Mastery Proven PC Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlimited-legal-fb-beats-access/"><u>2024 Approved Unlimited, Legal FB Beats Access</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
+

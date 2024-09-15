@@ -1,7 +1,7 @@
 ---
 title: Win10 BlueScreen With Pointer - Resolved
-date: 2024-07-12T00:35:11.753Z
-updated: 2024-07-13T00:35:11.753Z
+date: 2024-09-13T06:30:30.502Z
+updated: 2024-09-14T23:40:03.643Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -112,6 +119,13 @@ If you’re on a laptop:
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -148,6 +162,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -168,9 +189,23 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -210,8 +245,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +252,20 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-exceptional-audioscape-for-cinematic-videos-for-2024/"><u>[New] Exceptional Audioscape for Cinematic Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-brainy-brigade-top-11-quiz-channels/"><u>[Updated] Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/avoiding-pitfalls-in-angled-and-merged-video-manipulation-android/"><u>Avoiding Pitfalls in Angled & Merged Video Manipulation (Android)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p40pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P40+with/without a PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-tv-saves-win-friendly-options-available/"><u>In 2024, Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S23+</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-fix-overcoming-fallout-4-glitches/"><u>PC Fix: Overcoming Fallout 4 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-your-zoom-camera-a-comprehensive-fix-guide/"><u>Revive Your Zoom Camera: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-flicker-no-more/"><u>Screen Flicker, No More</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-inverted-image-feature-in-w11-system/"><u>Tackling Inverted Image Feature in W11 System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions-for-2024/"><u>The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-geforce-symbiosis-a-solution-found/"><u>Win10 & GeForce Symbiosis - A Solution Found</u></a></li>
+</ul></div>
 

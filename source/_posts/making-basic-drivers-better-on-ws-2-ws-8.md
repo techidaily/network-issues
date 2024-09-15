@@ -1,7 +1,7 @@
 ---
 title: Making Basic Drivers Better on WS-2, WS-8
-date: 2024-07-12T00:31:56.320Z
-updated: 2024-07-13T00:31:56.320Z
+date: 2024-09-09T03:13:18.560Z
+updated: 2024-09-15T03:06:30.187Z
 tags:
   - win11
   - win10
@@ -70,9 +70,24 @@ Here’s how to do it:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -85,8 +100,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,6 +107,21 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-enacted-functioning-system-after-initial-glitches/"><u>[Fix Enacted] Functioning System After Initial Glitches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>[New] In 2024, Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inspirational-cinema-collection-10-movie-gems/"><u>[New] Inspirational Cinema Collection 10 Movie Gems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211291289-constraint-c-use-a-template-like-see-event-historical-event-date-event-description-this-relates-to-economic-term-as-it-exemplifies/"><u>Constraint C: Use a Template Like See Event [Historical Event Date]: [Event Description]. This Relates to '[Economic Term]' As It Exemplifies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-detail-in-far-cry-6-game-mode/"><u>Enhancing Visual Detail in Far Cry 6 Game Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-vanishing-video-frames/"><u>Explaining Vanishing Video Frames</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ignite-wifi-speeds-on-windows-xp7-networks/"><u>Ignite WiFi Speeds on Windows XP/7 Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-combine-mpeg-videos-for-free-top-5-options-for-2024/"><u>New Combine MPEG Videos for Free Top 5 Options for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-frequent-lcd-shimmer-with-acer-computers/"><u>Remedying Frequent LCD Shimmer with Acer Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-size-and-resize-problems-solved-with-latest-win-10-patch/"><u>Screen Size & Resize Problems Solved with Latest Win 10 Patch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps-for-2024/"><u>Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-so-in-this-short-tutorial-well-learn-how-to-create-a-vintage-1980-style-video-with-a-retro-effect-that-will-leave-your-audience-yearning-for/"><u>Updated In 2024, So, in This Short Tutorial, Well Learn How to Create a Vintage 1980-Style Video with a Retro Effect that Will Leave Your Audience Yearning for More</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting C1900101 on Windows 11
-date: 2024-07-12T00:32:58.777Z
-updated: 2024-07-13T00:32:58.777Z
+date: 2024-09-08T03:44:17.664Z
+updated: 2024-09-14T18:26:23.135Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 4) When the update finishes, restart your computer as instructed. Check to see if the 0xC1900101 error is gone after this.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Uninstall third-party antivirus programs
 
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
@@ -55,6 +62,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
@@ -72,6 +86,19 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
@@ -79,6 +106,13 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
@@ -99,6 +133,13 @@ sfc /scannow
 Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
@@ -122,8 +163,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +170,22 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-star-citizen-crash-on-pc-directx-hurdle/"><u>[CORRECTED] Star Citizen Crash on PC - DirectX Hurdle</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-best-camcorder-tech-for-shooting-sports/"><u>[New] 2024 Approved Best Camcorder Tech for Shooting Sports</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-sonic-skills-mac-recording-tips/"><u>[New] Sonic Skills Mac Recording Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-ultimate-live-streaming-recorders-for-youtube-maestros/"><u>[New] Ultimate Live Streaming Recorders for YouTube Maestros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-steps-for-obtaining-professional-grade-images/"><u>2024 Approved Guiding Steps for Obtaining Professional-Grade Images</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-common-video-editing-green-screen-failures-on-youtube/"><u>Avoiding Common Video Editing Green Screen Failures on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-inverted-monitor-viewing-angle/"><u>Correct Inverted Monitor Viewing Angle</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhancing-collaboration-whiteboard-tactics-for-all-zoom-users-for-2024/"><u>Enhancing Collaboration Whiteboard Tactics for All Zoom Users for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-res-settings-reinstated-in-win10/"><u>High-Res Settings Reinstated in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-issue-solution-found/"><u>Lenovo SmartTouch Issue: Solution Found</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-safe-implementations-integrating-chatgpt-into-mindfulness-and-counseling-services/"><u>Navigating Safe Implementations: Integrating ChatGPT Into Mindfulness & Counseling Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/opening-lines-breaking-the-ice-in-video-comments-for-2024/"><u>Opening Lines Breaking the Ice in Video Comments for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-monitor-refresh-rate-issues/"><u>Repair Monitor Refresh Rate Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-update-graphics-card-regains-functionality/"><u>Repair Update: Graphics Card Regains Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-shutdown-after-driver-upgrade/"><u>Silent Shutdown After Driver Upgrade</u></a></li>
+</ul></div>
 

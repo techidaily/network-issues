@@ -1,7 +1,7 @@
 ---
 title: GFXUI Lockup on Win OS (Solution Closeby)
-date: 2024-09-09T02:30:33.974Z
-updated: 2024-09-10T02:30:33.974Z
+date: 2024-09-10T05:55:51.442Z
+updated: 2024-09-14T17:01:54.658Z
 tags:
   - win11
   - win10
@@ -18,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf717106584.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re on Windows and you’re seeing the error message_**GfxUI has stopped working**_ almost every time you turn your PC on, you’re not alone. Many Windows users are reporting this problem as well.
 
  No worries, it’s very easy to fix. Here are 3 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -32,24 +26,12 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 [**2. Update Intel Graphics Card Driver (Recommended)**](#m2)
 [**3. Clean Reinstall Intel Graphics Card Driver**](#m3)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Turn on Microsoft .NET Framework 3.5.1
 
  One of the reasons for this error message could be ill-functioned**.NET Framework 3.5** . You can turn it on to see if the problem is resolved:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf762c2349f.png) and**S** at the same time. Type**turn windows** then click**Turn Windows feature on or off** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
 
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
@@ -60,12 +42,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
  If turning on .NET Framework 3.5 fails to solve this problem for you, the cause can be outdated or missing Intel Graphics card driver. You can update the Intel driver to the latest version to see if the problem is fixed.
@@ -90,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clean Reinstall Intel Graphics Card Driver
 
  If updating your graphics card driver to the latest version fails to solve the problem for you, you need to perform a clean re-install of your Intel display card driver.
@@ -104,12 +74,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select the option that restart automatically after the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
@@ -129,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,55 +100,28 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-profitable-pathways-to-youtube-success-on-the-social-network-superstar/"><u>[New] 2024 Approved  Profitable Pathways to YouTube Success on the Social Network Superstar</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-intermittent-brightness-on-dell-system/"><u>[Solved] Intermittent Brightness on Dell System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-link-driven-success-a-backlink-blueprint-for-channels-for-2024/"><u>[Updated] Crafting Link-Driven Success  A Backlink Blueprint for Channels for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-your-gaming-auditory-experience-with-this-best-free-app-valorant-edition/"><u>[Updated] Master Your Gaming Auditory Experience with This Best Free App – Valorant Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-prime-7-free-screen-recorders-for-old-computers/"><u>[Updated] Prime 7 Free Screen Recorders for Old Computers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/"><u>[Updated] Unlock Picture Perfection  Compreenhensive Facetune Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/width-adjustment-windows-11-excessive-width-issue/"><u>[WIDTH ADJUSTMENT] Windows 11 Excessive Width Issue</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-distances-with-easy-to-use-xbox-zooming/"><u>2024 Approved  Bridging Distances with Easy-to-Use Xbox Zooming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>2024 Approved  Camera Enthusiasts' Spotlight  5 Leading Slow Motion Tech</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-scheduling-podcast-drops-with-peak-engagement-times/"><u>2024 Approved  Scheduling Podcast Drops with Peak Engagement Times</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Note 30 VIP Racing Edition to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieve-crisp-clear-displays-with-the-newest-intel-graphics-update-on-windows-10/"><u>Achieve Crisp, Clear Displays with the Newest Intel Graphics Update on Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-absence-of-gpu-detection-on-computer/"><u>Addressing Absence of GPU Detection on Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-graphics-support-achieved-post-fix/"><u>AMD Graphics Support Achieved Post-Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-updates-win11-next-gen-radeon-hd-6950-graphics-driver-rollout/"><u>AMD Updates Win11: Next-Gen Radeon HD 6950 Graphics Driver Rollout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breaking-down-4k-ultra-definition-benefits/"><u>Breaking Down 4K Ultra Definition Benefits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bringing-back-lost-screen-clarity/"><u>Bringing Back Lost Screen Clarity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-reverse-aspect-ratio-in-windows-10/"><u>Correcting Reverse Aspect Ratio in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-fix-method-without-active-nvidia-screen/"><u>Direct Fix Method: Without Active NVIDIA Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-blurry-windows-10-screen/"><u>Eliminating Blurry Windows 10 Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-backup-and-restore-for-display-configurations/"><u>Enabling Backup and Restore for Display Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-screen-resolution-in-far-cry-6-gameplay/"><u>Enhancing Screen Resolution in Far Cry 6 Gameplay</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-for-selective-image-editing-in-photo-software/"><u>Expert Tips for Selective Image Editing in Photo Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a56s-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A56s 5G FRP</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 6 Plus?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-myvideocapture-social-media-video-download/"><u>In 2024, MyVideoCapture  Social Media Video Download</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-display-off-but-not-really/"><u>Laptop Display: Off, But Not Really</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-eclipse-how-to-banish-the-shadow/"><u>Lenovo's Eclipse: How to Banish the Shadow</u></a></li>
-<li><a href="https://network-issues.techidaily.com/managing-windows-11-high-res-display/"><u>Managing Windows 11 High-Res Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476919329-quickly-resolve-your-iphone-and-ipad-widget-issues-with-these-10-tips/"><u>Quickly Resolve Your iPhone and iPad Widget Issues with These 10 Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reconciling-windows-11-and-nforce630a-hardware/"><u>Reconciling Windows 11 and nForce630a Hardware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-windows-colors-after-fall-cu/"><u>Restoring Windows Colors After Fall CU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shield-yourself-from-tarkov-bug/"><u>Shield Yourself From Tarkov Bug</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-graphics-experience-via-easy-intel-3000-update-on-windows-10/"><u>Smooth Graphics Experience via Easy Intel 3000 Update on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-winrts-com-hiccup/"><u>Solving WinRTS COM Hiccup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-broadened-resolution-issue-on-windows-pc/"><u>Tackled Broadened Resolution Issue on Windows PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-tales-data-recovery-heroism/"><u>Tech Tales: Data Recovery Heroism</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tips-for-ceasing-acer-display-flicker/"><u>Tips for Ceasing Acer Display Flicker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tips-for-enhancing-lenovo-laptop-light/"><u>Tips for Enhancing Lenovo Laptop Light</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-resolved-intel-and-nvidia-hybrid-gpu-trouble/"><u>Win10 Resolved: Intel & Nvidia Hybrid GPU Trouble</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-update-navigating-and-fixing-video-glitches/"><u>Win10 Update: Navigating and Fixing Video Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-no-more-screen-shivering/"><u>Win11: No More Screen Shivering</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-lost-wi-fi-connection-found-solution/"><u>Windows 11: Lost Wi-Fi Connection, Found Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wireless-adapter-vanished-in-windows-10-how-to-recover/"><u>Wireless Adapter Vanished in Windows 10, How to Recover?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[New] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quickcapture-studio-chrome-os-snapper/"><u>[New] QuickCapture Studio Chrome OS Snapper</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-sweet-indulgence-recording-a-compreran-analysis-for-2024/"><u>[New] Sweet Indulgence Recording A Compreran Analysis for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-narrative-nooks-the-leading-10-rogues/"><u>2024 Approved Narrative Nooks The Leading 10 Rogues</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-performance-by-controlling-cpu-hogs/"><u>Enhancing Performance by Controlling CPU Hogs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-speedily-correcting-issues-with-your-control-software/"><u>Expert Tips: Speedily Correcting Issues With Your Control Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-add-a-professional-touch-youtube-video-image-crafting/"><u>In 2024, Add a Professional Touch YouTube Video Image Crafting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-unseen-on-tv-via-hdmi/"><u>Laptop Screen Unseen on TV via HDMI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-music-production-with-behringers-essential-usb-driver-downloads/"><u>Mastering Music Production with Behringer's Essential USB Driver Downloads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974854754-revitalize-graphic-performance-seamlessly-update-intel-hd-graphics-3000-driver-for-w10/"><u>Revitalize Graphic Performance: Seamlessly Update Intel HD Graphics 3000 Driver for W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successfully-installed-gpu-win-issue-fixed/"><u>Successfully Installed GPU, Win Issue Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-graphics-geforce-rtx210-for-power-users-in-win11/"><u>Upgraded Graphics: GeForce RTX210 for Power Users in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/what-is-4k-resolution/"><u>What Is 4K Resolution</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

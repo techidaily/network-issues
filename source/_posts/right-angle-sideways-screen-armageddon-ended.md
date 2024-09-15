@@ -1,7 +1,7 @@
 ---
 title: "Right Angle: Sideways Screen Armageddon Ended"
-date: 2024-07-12T00:29:47.821Z
-updated: 2024-07-13T00:29:47.821Z
+date: 2024-09-09T19:58:41.222Z
+updated: 2024-09-14T19:37:47.121Z
 tags:
   - win11
   - win10
@@ -59,8 +59,24 @@ This should restore your laptop screen.
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -73,8 +89,6 @@ This should restore your laptop screen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,6 +96,17 @@ This should restore your laptop screen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-x6-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco X6 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/black-screen-with-fresh-gpu-purchase/"><u>Black Screen with Fresh GPU Purchase</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-imageclass-mf4800-driver-downloads-setup-and-troubleshooting-tips/"><u>Canon ImageCLASS MF4800 Driver Downloads: Setup and Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-mastering-the-art-of-sharing-files-and-posting-online/"><u>Complete Tutorial: Mastering the Art of Sharing Files & Posting Online</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia Phone without Google Account?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-seamless-play-overcoming-crashes-in-civilization-vpc/"><u>Secure Seamless Play: Overcoming Crashes in Civilization V/PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-gaming-fix-fallout-4-crashes/"><u>Smooth Gaming: Fix Fallout 4 Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-displays-from-flashing-a-step-by-step-guide/"><u>Stop Displays From Flashing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-top-5-non-youtube-editing-choices/"><u>Unveiling the Top 5 Non-YouTube Editing Choices</u></a></li>
+</ul></div>
 

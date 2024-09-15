@@ -1,7 +1,7 @@
 ---
 title: Methods to Revitalize Computer Screen Output
-date: 2024-09-09T02:30:33.825Z
-updated: 2024-09-10T02:30:33.825Z
+date: 2024-09-13T21:09:54.375Z
+updated: 2024-09-14T23:27:53.357Z
 tags:
   - win11
   - win10
@@ -45,30 +45,12 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ca566a014.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **ii.**In the Create new task dialog that pops up, type “_**explorer.exe**_” and press**Enter**on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30cc7ac4773.png)
 
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
@@ -77,108 +59,76 @@ You may have change some settings or installed a program on your computer, which
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Reinstall your memory
 
 It is also possible that your laptop screen issue comes from your laptop memory (RAM).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Laptop memory
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Restore your system from a restore point
 
 Once your laptop recovers, you can restore your Windows from a system restore point. This can prevent your computer from getting issues resulting from the previous changes you have made. _Note that you can restore your system only when you have previously created a restore point._To restore your operating system:**1)**Click the**Start**button in the bottom left corner of your screen. Then type “_**restore**_“.**2)**Open the System Restore wizard from the list of result. _The process is different depending on the operating system you use, and you will see from the following the different steps on Windows 7 and Windows 10._On Windows 7, just click**System Restore**in the search result:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -200,8 +150,6 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,42 +157,19 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>[New] In 2024, Mastering Instagram As An Influencer  5 Must-Know Techniques and Case Studies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-video-editing-secrets-to-skyrocket-your-channels/"><u>[New] In 2024, Top 10 Video Editing Secrets to Skyrocket Your Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-secure-your-webcam-with-these-10-tips-for-2024/"><u>[New] Secure Your Webcam with These 10 Tips for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-your-phones-potential-for-high-quality-snapchat-recordings-for-2024/"><u>[New] Unlock Your Phone's Potential for High-Quality Snapchat Recordings for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-swift-online-journey-despite-slowness/"><u>[WINDOWS] Swift Online Journey Despite Slowness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-screen-mirror-fault-in-windows-7/"><u>Addressing Screen Mirror Fault in Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/apex-assault-slow-download-drama/"><u>Apex Assault: Slow Download Drama</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/astral-tips-for-rebooting-ms-sql-databases/"><u>Astral Tips for Rebooting MS SQL Databases</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screens-in-w11-version/"><u>Correcting Upside Down Screens in W11 Version</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-built-in-asus-camera/"><u>Enabling Built-In Asus Camera</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-blackout-post-windows-upgrade-issue/"><u>Ending Blackout Post-Windows Upgrade Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-seamless-viewing-post-upgrade-windows-11-update/"><u>Ensuring Seamless Viewing Post-Upgrade Windows 11 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/faulty-nvidiaamd-fixing-crashes-in-minecraft/"><u>Faulty Nvidia/AMD: Fixing Crashes in Minecraft</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-highlighting-the-leading-10-shadowy-story-viewers/"><u>In 2024, Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>In 2024, Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-asus-internal-video-problems/"><u>Overcoming Asus Internal Video Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-error-in-win10-setup/"><u>Overcoming C1900101 Error in Win10 Setup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-initialization-hurdle-in-d3d/"><u>Overcoming Initialization Hurdle in D3D</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-touchscreen-issues-on-your-tablet-discover-our-8-essential-tips/"><u>Overcoming Touchscreen Issues on Your Tablet: Discover Our 8 Essential Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pc-mastery-overcoming-fallout-4-glitches/"><u>PC Mastery: Overcoming Fallout 4 Glitches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/progressive-procedure-masterful-method-with-applewatch-for-2024/"><u>Progressive Procedure  Masterful Method with AppleWatch for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reactivating-supported-status-of-non-compliant-freesync/"><u>Reactivating Supported Status of Non-Compliant FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-density-setback-windows-11-troubleshoot/"><u>Screen Density Setback - Windows 11 Troubleshoot</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-stability-restored-after-glitch/"><u>Screen Stability Restored After Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securely-connected-os-and-com-layer/"><u>Securely Connected OS & COM Layer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securing-steady-views-on-win11-monitors/"><u>Securing Steady Views on Win11 Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-your-zoom-camera-hurdles-in-no-time-effortlessly/"><u>Solve Your Zoom Camera Hurdles in No Time, Effortlessly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/spartan-strategies-streamlined/"><u>Spartan Strategies Streamlined</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-assistance-no-more-trouble/"><u>Tech Assistance: No More Trouble</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vulkan-failsafe-enabled-armored/"><u>Vulkan Failsafe Enabled - Armored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-enhanced-atheros-adapter-driver-fixes/"><u>Windows 10 Enhanced: Atheros Adapter Driver Fixes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rafting-channel-graphics-icons-banners-and-thumbnails-for-2024/"><u>[New] Crafting Channel Graphics Icons, Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-master-the-art-of-video-annotation-using-markers-with-ease/"><u>[New] Master the Art of Video Annotation Using Markers with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamlined-social-media-prime-twitter-unfollow-tools-overview/"><u>[Updated] In 2024, Streamlined Social Media Prime Twitter Unfollow Tools Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>2024 Approved Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps-for-2024/"><u>Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-new-tech-fsr-3-in-the-ring-with-nvidias-advanced-dlss-35/"><u>AMD’s New Tech FSR 3 in the Ring with NVIDIA's Advanced DLSS 3.5?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-functional-state-for-freesync-devices/"><u>Enabling Functional State for FreeSync Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-sharpness-for-ubisofts-new-virtual-island/"><u>Improving Image Sharpness for Ubisoft's New Virtual Island</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-keeps-flickering-solved/"><u>Laptop Screen Keeps Flickering [SOLVED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-intellgraphics-g3000-upgrade-in-win11/"><u>Streamline IntellGraphics G3000 Upgrade in Win11.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y27-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y27 4G Phone Pattern Lock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-hidden-camera-capabilities-in-asus/"><u>Unlocking Hidden Camera Capabilities in Asus</u></a></li>
 </ul></div>
+
