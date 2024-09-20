@@ -1,7 +1,7 @@
 ---
 title: Solved OpenGL Issue on Nvidia Graphics Hardware
-date: 2024-09-14T03:12:02.391Z
-updated: 2024-09-15T06:50:23.003Z
+date: 2024-09-15T05:52:58.397Z
+updated: 2024-09-20T06:04:21.899Z
 tags:
   - win11
   - win10
@@ -76,20 +76,13 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -98,6 +91,13 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -108,14 +108,14 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
@@ -145,19 +145,14 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>[New] In 2024, Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-video-platforms-clash-a-youtube-vs-dailymention-comparison/"><u>[New] Video Platforms Clash A YouTube Vs. DailyMention Comparison</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-15-best-photovideo-downloader-tools-for-instagram-for-2024/"><u>[Updated] 15 Best Photo/Video Downloader Tools for Instagram for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-creating-syncopated-stories-with-youtube-music-and-videos/"><u>[Updated] Creating Syncopated Stories with YouTube Music & Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>[Updated] In 2024, Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools-for-2024/"><u>Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/hands-on-approaches-to-archive-vimeo-video-for-2024/"><u>Hands-On Approaches to Archive Vimeo Video for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-syncing-soundscapes-with-visuals-in-film-teasers/"><u>In 2024, Syncing Soundscapes with Visuals in Film Teasers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-failed-d3d-initialization/"><u>Resolving Failed D3D Initialization</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-accessibility-to-nvidia-screen-configurations/"><u>Restoring Accessibility to NVIDIA Screen Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-win11-blackout-post-fall-creators-fix/"><u>Solving Win11 Blackout Post Fall Creator's Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-guide-updating-your-intel-graphics-in-windows-7/"><u>Step-By-Step Guide: Updating Your Intel Graphics In Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10s-enhanced-playback-fixing-past-problems/"><u>Win10's Enhanced Playback: Fixing Past Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-missing-advanced-display-options/"><u>Windows 11: Missing Advanced Display Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-inshot-editors-guide-to-fluid-cut-techniques/"><u>[Updated] Inshot Editor's Guide to Fluid Cut Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughing-through-the-metaverse-making-your-own-humor/"><u>[Updated] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ease-up-on-latency-issues-roblox-playing/"><u>Ease Up on Latency Issues - Roblox Playing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-amd-rx-6900-xt-display-adapter-driver-on-windows-111087-free-downloads-available/"><u>Install AMD RX 6900 XT Display Adapter Driver on Windows 11/10/8/7 - Free Downloads Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpts-power-for-professional-resume-writing-tips-and-tricks/"><u>Leverage ChatGPT's Power for Professional Resume Writing Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-windows-8-drivers-removal-via-safe-mode-rehearsal/"><u>Step-By-Step Windows 8 Drivers Removal via Safe Mode Rehearsal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visuals-and-layouts/"><u>Successful Saving of Visuals & Layouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-screen-shimmering/"><u>Troubleshooting Lenovo Screen Shimmering</u></a></li>
 </ul></div>
 

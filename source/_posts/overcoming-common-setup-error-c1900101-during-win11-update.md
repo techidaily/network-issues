@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Common Setup Error: C1900101 During Win11 Update"
-date: 2024-07-12T00:28:21.243Z
-updated: 2024-07-13T00:28:21.243Z
+date: 2024-09-16T04:35:24.838Z
+updated: 2024-09-20T06:17:14.396Z
 tags:
   - win11
   - win10
@@ -80,9 +80,23 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41fd5bee675.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
@@ -93,6 +107,13 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -106,7 +127,21 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -122,8 +157,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +164,23 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-corrected-missing-amd-graphics-on-windows-11/"><u>[FIXED GRAPHICS] Corrected Missing AMD Graphics on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screensnap-secrets-the-ultimate-guide-to-record-your-world/"><u>[New] ScreenSnap Secrets The Ultimate Guide to Record Your World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-professional-guide-to-youtube-screen-capturing/"><u>[Updated] 2024 Approved Professional Guide to YouTube Screen Capturing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-solve-non-playing-fb-videos-on-iphone-for-2024/"><u>[Updated] Solve Non-Playing FB Videos on iPhone for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-recent-move-in-game-emulation-more-than-meets-the-eye/"><u>Apple's Recent Move in Game Emulation: More than Meets the Eye</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquered-notebook-blinking-solved-display-stability/"><u>Conquered Notebook Blinking: Solved Display Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixes-for-quick-flashing-acer-screens/"><u>Fixes for Quick-Flashing Acer Screens</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999397765-hell-let-loose-pc-bug-solved-enjoy-uninterrupted-gaming/"><u>Hell Let Loose PC Bug Solved – Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-graphical-output-install-a-simple-quick-update-for-intel-graphics-on-windows-10/"><u>Improve Graphical Output: Install a Simple, Quick Update for Intel Graphics on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-basic-drivers-better-on-ws-2-ws-8/"><u>Making Basic Drivers Better on WS-2, WS-8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-elgato-driver-software-installation-guide/"><u>Quick and Easy Elgato Driver Software Installation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revise-windows-10-monitor-size-proportions/"><u>Revise Windows 10 Monitor Size Proportions</u></a></li>
+<li><a href="https://solve-help.techidaily.com/solving-your-dvd-players-audio-issues-steps-to-restore-sound-on-tv-and-pc/"><u>Solving Your DVD Player's Audio Issues: Steps to Restore Sound on TV and PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transitioning-from-ps4-to-ps5-can-you-still-play-your-old-favorites/"><u>Transitioning From PS4 to PS5 - Can You Still Play Your Old Favorites?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unusual-opengl-behavior-quick-fix-detected/"><u>Unusual OpenGL Behavior: Quick Fix Detected</u></a></li>
+</ul></div>
 

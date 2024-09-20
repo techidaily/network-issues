@@ -1,7 +1,7 @@
 ---
 title: Solve Your YouTube Troubles - Fix Errors When Videos Won't Play
-date: 2024-09-14T04:53:44.615Z
-updated: 2024-09-15T03:49:00.871Z
+date: 2024-09-16T22:32:05.222Z
+updated: 2024-09-20T07:43:08.134Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Fix 3: Update your graphics driver
 
  Another common cause of the**YouTube video not showing** issue is an outdated or corrupt graphics driver on your system. So you should update the graphics driver to see if it fixes the problem.
@@ -67,36 +74,37 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
- You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer, play a video in YouTube to see if it works properly now.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 4: Change the hardware acceleration
@@ -120,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **I’m using Firefox :** 
 
 1. In Firefox, click **the menu button**  \> **Options** .  
@@ -140,17 +141,17 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 5: Delete the app data
 
@@ -169,19 +170,6 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 6: Update your browser
 
  If this video-not-showing issue only happens in one specific browser, then you might want to update the browser to the latest version to see if it resolves the problem. Since a newer version is always designated to fix bugs in the earlier version and optimize. Here we take Chrome as an example:
@@ -192,6 +180,20 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
 
@@ -220,18 +222,20 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-anticipated-shifts-in-social-media-marketing-fb-ad-trends-of-24/"><u>[New] The Anticipated Shifts in Social Media Marketing FB Ad Trends of '24</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photographic-privacy-key-steps-to-blur-facial-features/"><u>[Updated] Photographic Privacy Key Steps to Blur Facial Features</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-troubleshooting-path-graphics-card-offline/"><u>Easy Troubleshooting Path: Graphics Card Offline</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-video-card-problems-for-stable-mc-gaming/"><u>Eliminating Video Card Problems for Stable MC Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Max 3 Ways To Unlock</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-ultimate-guide-to-full-screen-video/"><u>In 2024, Facebook's Ultimate Guide to Full Screen Video</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-glassify-privacy-webcam-panel/"><u>In 2024, Glassify Privacy Webcam Panel</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-the-art-of-sharing-huge-videos-through-email-tips-for-sending-files-greater-than-25mb-on-gmail/"><u>Master the Art of Sharing Huge Videos Through Email - Tips for Sending Files Greater Than 25MB on Gmail</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-art-of-360-live-on-facebook/"><u>Navigating the Art of 360 Live on Facebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revive-and-thrive-restore-your-zoom-camera-in-minutes/"><u>Revive and Thrive: Restore Your Zoom Camera in Minutes</u></a></li>
-<li><a href="https://win-able.techidaily.com/stream-smoothly-diagnosing-and-fixing-discords-crash-issues-during-broadcasts/"><u>Stream Smoothly: Diagnosing and Fixing Discord's Crash Issues During Broadcasts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-borderlands-3-launch-glitch-xbox-directx-conflict/"><u>[FIXED] Borderlands 3 Launch Glitch - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-art-of-edible-media-recipe-tutorials/"><u>[Updated] 2024 Approved The Art of Edible Media Recipe Tutorials</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-perfecting-mp4-segments-best-tools-for-mac-filmmakers/"><u>2024 Approved Perfecting MP4 Segments Best Tools For Mac Filmmakers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-windows-11-driver-fix-guide/"><u>AMD Radeon R9: Windows 11 Driver Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayfailure-on-graphicswinos-interface-solved/"><u>DisplayFailure on GraphicsWinOS Interface (Solved)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-workspace-a-step-by-step-on-dual-monitor-setup-for-windows-11/"><u>Expand Your Workspace: A Step-by-Step on Dual Monitor Setup for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974651271-hassle-free-upgrade-intel-g3000-graphics-on-win11/"><u>Hassle-Free Upgrade: Intel G3000 Graphics on Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-12-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 12 Pro and iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/integrating-nvidia-into-new-windows-ecosystem/"><u>Integrating Nvidia Into New Windows Ecosystem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-image-wanders-away-on-tv-connection/"><u>Laptop Image Wanders Away on TV Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-trouble-addressed-no-more-windows-halt/"><u>NVidia Trouble Addressed - No More Windows Halt</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-nonfunctional-astro-a50-microphones/"><u>Step-by-Step Fixes for Nonfunctional Astro A50 Microphones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 

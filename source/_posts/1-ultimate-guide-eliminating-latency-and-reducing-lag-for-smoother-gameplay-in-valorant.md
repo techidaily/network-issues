@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Eliminating Latency & Reducing Lag for Smoother Gameplay in Valorant"
-date: 2024-09-09T18:09:32.705Z
-updated: 2024-09-15T05:00:48.296Z
+date: 2024-09-13T05:43:26.426Z
+updated: 2024-09-19T22:03:24.175Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ Here’s how to do it:
 2. Click the **Network** tab to sort tasks by bandwidth consumption. If you find any bandwidth-hogging tasks, select them and click **End Task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-update-bandwidth-hogging.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When it’s done, open Valorant and see if this solves your high ping issue. If you continue to experience this problem, move on to the next fix below.
 
 ## Fix 4: Update your network driver
@@ -120,41 +127,30 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-14_16-37-58-1.jpg)
 6. Select **Use the following DNS server addresses** :. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-dns-server-click-5.jpg)  
  8.8.8.8 and 8.8.4.4 are the most popular DNS servers maintained by Google.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. For the changes to take effect, you need to flush the DNS cache. On your taskbar, type**cmd** in the search box. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 8. In the pop-up window, type in**ipconfig /flushdns** . Press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/cmd-ipconfig-flushdns.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After changing your DNS server, open Valorant and check if the ping is stable. If this method doesn’t work for you, check out the next trick.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Install all Windows updates
 
@@ -162,11 +158,26 @@ Here’s how to change your DNS settings:
 
 To check for Windows updates, follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press **the Windows logo key** and **I**  at the same time to invoke**Windows Settings app** . Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It’ll try to download and install available updates. It might take a while.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
 
@@ -179,23 +190,9 @@ To check for Windows updates, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Once you’ve completed this process, open Valorant and see if the ping spikes reappear. If yes, there’s still one last fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Use a VPN
 
@@ -232,17 +229,16 @@ Here are some VPN providers we recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-detailed-insights-into-instagrams-video-time-policy/"><u>[New] 2024 Approved Detailed Insights Into Instagram’s Video Time Policy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-ways-to-document-your-digital-collaboration-sessions/"><u>[Updated] 2024 Approved Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-exclusive-insights-elevating-your-mobizen-screencast-game/"><u>[Updated] Exclusive Insights Elevating Your Mobizen Screencast Game</u></a></li>
-<li><a href="https://network-issues.techidaily.com/challenge-cleared-combat-corrected/"><u>Challenge Cleared: Combat Corrected</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-handle-exception-breaking-point-issues-on-pc/"><u>How to Handle Exception Breaking Point Issues on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-change-the-time-setting-on-an-amazon-kindle-paperwhite-simplified/"><u>How To: Change The Time Setting On An Amazon Kindle Paperwhite Simplified</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-instant-photographic-display-in-11-os/"><u>In 2024, Instant Photographic Display in 11 OS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-obs-mastery-5-edits-that-will-elevate-your-work/"><u>In 2024, OBS Mastery 5 Edits That Will Elevate Your Work</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-faults-with-amd-radeon-r9-drivers-for-w10/"><u>Rectifying Faults with AMD Radeon R9 Drivers for W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-blackout-window-after-upgrade-fall/"><u>Unlock Blackout Window After Upgrade Fall</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-hidden-potential-of-screen-recording-on-mi-11-devices-for-2024/"><u>Unveiling the Hidden Potential of Screen Recording on Mi 11 Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elite-tech-for-saving-your-on-camera-video-memories/"><u>[New] 2024 Approved Elite Tech for Saving Your On-Camera Video Memories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-boost-engagement-advanced-youtube-tag-strategies-revealed/"><u>[Updated] Boost Engagement Advanced YouTube Tag Strategies Revealed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-overcoming-blurry-facebook-video-views-on-devices/"><u>[Updated] In 2024, Overcoming Blurry Facebook Video Views on Devices</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/abbey-omzets-remarkable-growth-surpassing-expectations-with-a-23-increase-in-the-benelux-region-2019/"><u>ABBEY Omzet's Remarkable Growth: Surpassing Expectations with a 23% Increase in the Benelux Region, 2019</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gps-vs-cellular-features-in-latest-apple-watch-models-which-to-choose/"><u>GPS Vs. Cellular Features in Latest Apple Watch Models – Which to Choose?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-meizu-21-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Meizu 21 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-galaxy-m34-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung Galaxy M34?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-intel-gpu-driver-upgrades-for-windows-7-users/"><u>Streamlining Intel GPU Driver Upgrades for Windows 7 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-unruly-monitor-refresh-rate/"><u>Taming the Unruly Monitor Refresh Rate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-down-time-fix-apex-legends-crash/"><u>Zero Down Time: Fix Apex Legends Crash</u></a></li>
 </ul></div>
 

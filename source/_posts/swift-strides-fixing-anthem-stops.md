@@ -1,7 +1,7 @@
 ---
 title: "Swift Strides: Fixing Anthem Stops"
-date: 2024-09-13T03:14:29.615Z
-updated: 2024-09-14T23:17:21.534Z
+date: 2024-09-19T03:52:14.259Z
+updated: 2024-09-19T17:49:11.306Z
 tags:
   - win11
   - win10
@@ -155,9 +155,29 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -167,50 +187,24 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -237,16 +231,18 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[Updated] The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-practices-in-altering-igtv-video-titles-for-2024/"><u>Best Practices in Altering IGTV Video Titles for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-7-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oneplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of OnePlus on Windows??</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-explore-the-finest-cost-free-videocalling-platforms/"><u>In 2024, Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-green-screen-software-for-mac/"><u>New In 2024, Best Green Screen Software for Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974598192-no-more-switchable-gpu-issues-windows-11-update-complete/"><u>No More Switchable GPU Issues: Windows 11 Update Complete</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-next-gen-drivers-for-rtx210-in-win11/"><u>NVIDIA's Next-Gen Drivers for RTX210 in Win11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-extracting-and-printer-friendly-converting-iphones-imessages-for-hardcopy-printouts/"><u>Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zombie-siege-snagged-in-slowdown/"><u>Zombie Siege Snagged in Slowdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-earnings-explosion-how-to-maximize-income-on-youtube-shorts/"><u>[Updated] 2024 Approved Earnings Explosion How to Maximize Income on YouTube Shorts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-leveraging-instagram-hashtags-to-amplify-social-media-impact/"><u>[Updated] 2024 Approved Leveraging Instagram Hashtags to Amplify Social Media Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-addressing-missing-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Addressing Missing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-tier-pdf-visual-improvements/"><u>2024 Approved Top-Tier PDF Visual Improvements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2690dw-printer-software-install-or-update-now-for-optimal-performance/"><u>Brother MFC-L2690DW Printer Software: Install or Update Now for Optimal Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installing-new-wi-fi-card-on-pcs-a-step-by-step-guide/"><u>Installing New Wi-Fi Card on PCs: A Step by Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-amd-radeon-r9-troubleshooting-in-windows-11/"><u>Navigating AMD Radeon R9 Troubleshooting in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-fixed-system-paused-over-device-error/"><u>NVIDIA Fixed: System Paused Over Device Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-roblox-performance-slowdown/"><u>PC: Roblox Performance Slowdown</u></a></li>
+<li><a href="https://network-issues.techidaily.com/performance-tuned-no-anomalies/"><u>Performance Tuned, No Anomalies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-redmi-note-12-pro-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-flickering-win11-monitor/"><u>Quick Fix for Flickering Win11 Monitor</u></a></li>
 </ul></div>
 

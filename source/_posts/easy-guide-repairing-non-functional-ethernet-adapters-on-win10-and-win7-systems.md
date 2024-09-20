@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems"
-date: 2024-09-10T03:51:48.327Z
-updated: 2024-09-15T04:37:11.508Z
+date: 2024-09-14T04:36:54.462Z
+updated: 2024-09-20T08:39:43.484Z
 tags:
   - win11
   - win10
@@ -70,6 +70,19 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -77,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -88,30 +108,10 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -127,10 +127,10 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -160,20 +160,21 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-borderlands-3-launch-glitch-xbox-directx-conflict/"><u>[FIXED] Borderlands 3 Launch Glitch - Xbox DirectX Conflict</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/xcellence-guild-crafting-photos-plus-sounds-visuals-for-2024/"><u>[New] Excellence Guild Crafting Photos + Sounds, Visuals for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-windows-11-driver-fix-guide/"><u>AMD Radeon R9: Windows 11 Driver Fix Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apeman-c450-budget-dashcam-in-depth-review-for-savvy-shoppers/"><u>Apeman C450 Budget Dashcam: In-Depth Review for Savvy Shoppers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/displayfailure-on-graphicswinos-interface-solved/"><u>DisplayFailure on GraphicsWinOS Interface (Solved)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-unfixable-your-ultimate-compan-groach-on-keeping-state-of-decay-2-running-smoothly-tips-and-tricks/"><u>Fixing the Unfixable? Your Ultimate Compan Groach on Keeping State of Decay 2 Running Smoothly - Tips & Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-quirky-meme-mastery-generator-junction/"><u>In 2024, Quick & Quirky Meme Mastery Generator Junction</u></a></li>
-<li><a href="https://network-issues.techidaily.com/integrating-nvidia-into-new-windows-ecosystem/"><u>Integrating Nvidia Into New Windows Ecosystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboard-control-in-action-modifying-software-size-on-windows-11/"><u>Keyboard Control in Action: Modifying Software Size on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-wanders-away-on-tv-connection/"><u>Laptop Image Wanders Away on TV Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-trouble-addressed-no-more-windows-halt/"><u>NVidia Trouble Addressed - No More Windows Halt</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-setback-window-full-display-unachieved-in-windows-10/"><u>Screen Setback: Window Full Display Unachieved in Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722953573006-seamless-setup-for-hp-envy-5660-drivers-download-and-install-effortlessly/"><u>Seamless Setup for HP Envy 5660 Drivers - Download & Install Effortlessly!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-productivity-at-home-using-chatgpt-insights/"><u>Unleashing Productivity at Home Using ChatGPT Insights</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-essential-adobe-premiere-pro-extensions-free-and-paid-options/"><u>Updated 2024 Approved Essential Adobe Premiere Pro Extensions Free & Paid Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reaking-boundaries-coordinated-video-watch-across-channels/"><u>[New] Breaking Boundaries Coordinated Video Watch Across Channels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-cuda-toolkit-access-denial/"><u>[Rectified] CUDA Toolkit Access Denial</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-your-win11-display-for-peak-performance/"><u>Adjusting Your Win11 Display for Peak Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beat-the-buffer-effective-techniques-to-slash-lag-and-improve-gaming-speed-2024-tricks/"><u>Beat the Buffer: Effective Techniques to Slash Lag and Improve Gaming Speed - 2024 Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/counteract-black-screen-and-recover-mouse-on-w10/"><u>Counteract Black Screen & Recover Mouse on W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-correction-mh-world-crashed-no-more/"><u>Error Correction: MH World Crashed No More</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-g42-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia G42 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-phantom-v-flip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-background-using-picsart/"><u>In 2024, How to Remove Background Using Picsart</u></a></li>
+<li><a href="https://network-issues.techidaily.com/interpreting-invisible-stream-errors/"><u>Interpreting Invisible Stream Errors</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/las-mejores-aplicaciones-gratuitas-para-transferencia-y-conversion-de-contenidos-de-dvd-a-mp4aviwmv-en-windows-10-seleccion-de-2020/"><u>Las Mejores Aplicaciones Gratuitas Para Transferencia Y Conversión De Contenidos De DVD a MP4/AVI/WMV en Windows 10 - Selección De 2020</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-troubles-heres-why-lost-ark-might-be-crashing-and-how-to-prevent-it/"><u>PC Gaming Troubles? Here's Why 'Lost Ark' Might Be Crashing - And How to Prevent It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvidia-conflict-with-win10/"><u>Resolving Nvidia Conflict with Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninstalling-graphics-drivers-a-step-by-step-tutorial/"><u>Uninstalling Graphics Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers on Windows 10 & 7</u></a></li>
 </ul></div>
 

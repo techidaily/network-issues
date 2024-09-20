@@ -1,7 +1,7 @@
 ---
 title: Correcting Black Screen Errors Win10
-date: 2024-07-12T00:27:14.769Z
-updated: 2024-07-13T00:27:14.769Z
+date: 2024-09-13T11:25:31.790Z
+updated: 2024-09-19T21:21:17.999Z
 tags:
   - win11
   - win10
@@ -83,6 +83,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -95,6 +103,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
@@ -112,6 +128,13 @@ If you’re on a laptop:
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -156,6 +179,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Follow the on-screen instructions to create a new user account.
 
 6) Log in to this account and check to see if the black screen problem persists.
@@ -167,6 +197,13 @@ If you’re on a laptop:
  1) Open Command Prompt as administrator: type cmd in the search box. Right click**Command Prompt** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
@@ -210,8 +247,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +254,21 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-celebrating-the-hottest-instagram-after-effects-plugins-for-2024/"><u>[New] Celebrating the Hottest Instagram After Effects Plugins for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-audacitys-guide-to-pristine-sound-by-removing-ambient-noise/"><u>[Updated] 2024 Approved Audacity's Guide to Pristine Sound by Removing Ambient Noise</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>2024 Approved Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-the-dark-windows-11-display/"><u>Banishing the Dark Windows 11 Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x80070091-on-windows-10-a-comprehensive-solution-for-successful-system-restore/"><u>Error Code 0X80070091 on Windows 10: A Comprehensive Solution for Successful System Restore</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-star-wars-squadrons-game-crash-issue-a-complete-guide/"><u>Fixing STAR WARS Squadrons Game Crash Issue - A Complete Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974046716-hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/market-trends-how-amd-is-revolutionizing-the-gaming-industry/"><u>Market Trends: How AMD Is Revolutionizing the Gaming Industry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-conflict-for-nvidia-and-intel-on-windows-10/"><u>Resolving Hybrid Graphics Conflict for NVIDIA & Intel on Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-contacts-feature-here-are-3-easy-fixes/"><u>Struggling with iPhone's Contacts Feature? Here Are 3 Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-fixing-the-sudden-stop-of-applicationexe/"><u>Troubleshooting Success: Fixing the Sudden Stop of 'Application.exe'</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-setup-now-stable-and-secured/"><u>Visual Setup Now Stable & Secured</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-no-more-plagues-by-com-issues/"><u>Windows No More Plagues by COM Issues</u></a></li>
+</ul></div>
 

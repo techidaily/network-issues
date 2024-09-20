@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Can't Change Resolution [SOLVED]
-date: 2024-07-12T00:27:53.244Z
-updated: 2024-07-13T00:27:53.244Z
+date: 2024-09-17T00:12:57.082Z
+updated: 2024-09-20T08:24:31.919Z
 tags:
   - win11
   - win10
@@ -90,6 +90,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -99,6 +112,13 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -119,8 +139,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +146,17 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-launching-your-first-telegram-marketing-campaign/"><u>[New] 2024 Approved Launching Your First Telegram Marketing Campaign</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screensnap-chromecast-quick-video-capture/"><u>[New] 2024 Approved ScreenSnap Chromecast Quick Video Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-extensive-review-the-gecata-gamersoft-toolkit/"><u>[Updated] Extensive Review The Gecata Gamersoft Toolkit</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/exploring-dvd-empire-and-similar-digital-outlets-for-movie-enthusiasts/"><u>Exploring DVD Empire & Similar Digital Outlets for Movie Enthusiasts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/highlanders-hurdle-steady-stream/"><u>Highlander's Hurdle: Steady Stream?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immerse-in-high-fidelity-gaming-with-updated-geforce-210/"><u>Immerse in High-Fidelity Gaming with Updated GeForce 210</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-most-effective-5-image-editing-programs-on-iphone-x-7-8/"><u>In 2024, Most Effective 5 Image Editing Programs on iPhone (X, 7, 8)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-eradicate-absence-of-displays/"><u>Methods to Eradicate Absence of Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-ripple-on-windows-7-screens/"><u>Rectifying Ripple on Windows 7 Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tudo-sobre-o-capcut-no-windows-dicas-de-download-e-utilizacao-da-ferramenta-de-edicao-de-video-gratuita/"><u>Tudo Sobre O CapCut No Windows: Dicas De Download E Utilização Da Ferramenta De Edição De Vídeo Gratuita</u></a></li>
+</ul></div>
 

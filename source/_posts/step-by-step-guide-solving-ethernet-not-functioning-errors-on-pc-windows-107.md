@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2024-09-14T01:23:09.048Z
-updated: 2024-09-14T18:51:22.903Z
+date: 2024-09-12T21:24:22.955Z
+updated: 2024-09-20T00:31:06.720Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -77,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -96,15 +96,23 @@ Follow the steps below:
 2. In Device Manager, expand the**Network adapters** category.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 ##  Method 6: Run network commands
@@ -119,13 +127,6 @@ Follow the steps below:
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -154,17 +155,18 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/alert-msvcr120dll-absent-in-win1110/"><u>[ALERT] MSVCR120.dll Absent in Win11/10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>[New] 2024 Approved From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-instagram-enhancement-picture-posting-guide/"><u>[New] Instagram Enhancement Picture Posting Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-darkness-issue-with-mobile-computers/"><u>Correcting Darkness Issue with Mobile Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-update-halt-blackout/"><u>Driver Update Halt: Blackout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-unwieldy-windows-11-monitors/"><u>Fixing Unwieldy Windows 11 Monitors</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23FRP Lock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-reversed-color-photography/"><u>In 2024, Mastering the Art of Reversed Color Photography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-vidmaster-pro-8-review-highlights/"><u>In 2024, VidMaster Pro 8 Review Highlights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx210-update-boosts-windows-11-performance/"><u>RTX210 Update Boosts Windows 11 Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>[New] 2024 Approved Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revived-graphics-workshop-operational-post-nvidia-errors/"><u>[Revived] Graphics Workshop Operational Post-Nvidia Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-display-settings-not-showing-windows-11/"><u>[Solved] Display Settings Not Showing Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks-for-2024/"><u>[Updated] Advanced Microphone Recorders for Mac Users Our Five Superstar Picks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-iphone-album-organizing-techniques-and-icloud-uploads/"><u>[Updated] Navigating iPhone Album Organizing Techniques and iCloud Uploads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-a-guide-to-the-best-bridal-films-8-from-youtube-plus-vimeo/"><u>2024 Approved A Guide to the Best Bridal Films (8 From YouTube + Vimeo)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-the-huawei-p10-camera-and-display-capabilities-for-2024/"><u>Examining the Huawei P10 Camera and Display Capabilities for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-asus-camera-not-recognized-error/"><u>Fixing Asus Camera Not Recognized Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hassle-free-tweak-no-current-nvidia-screen/"><u>Hassle-Free Tweak: No Current NVIDIA Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-13t-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi 13T Pro FRP Bypass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-component-alert-spot-and-fix-nvidia-gpu-absence/"><u>Missing Component Alert: Spot and Fix NVIDIA GPU Absence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-expert-strategies-for-resolving-windows-blue-screens/"><u>The Definitive Guide: Expert Strategies for Resolving Windows Blue Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tv-blank-face-laptop-lights-on/"><u>TV Blank Face, Laptop Lights On</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intell/Nvidia Graphic Mix-Up in Hybrid Card on Windows 10
-date: 2024-09-10T22:56:16.908Z
-updated: 2024-09-15T01:45:56.001Z
+date: 2024-09-13T23:56:21.982Z
+updated: 2024-09-19T21:25:51.181Z
 tags:
   - win11
   - win10
@@ -77,24 +77,18 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -103,16 +97,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -122,10 +110,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -136,16 +124,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,19 +150,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-tom-clancys-rainbow-six-siege-update-dx12-crash/"><u>[FIXED] Tom Clancy's Rainbow Six: Siege Update - DX12 Crash</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-lighten-your-load-with-laughs-fb-detainment-chuckle-highlighters/"><u>[New] 2024 Approved Lighten Your Load with Laughs FB Detainment Chuckle Highlighters</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ixelpie-slicer/"><u>[New] PixelPie Slicer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-civ-5-problems-on-a-pc/"><u>Addressing Civ 5 Problems on a PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cessation-of-inconsistent-lcd-patterns/"><u>Cessation of Inconsistent LCD Patterns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-rw-vs-dvdplusrw/"><u>DVD-RW vs DVD+RW: 主要な特徴と適切な用途を理解する</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortlessly-enhance-your-system-with-new-intel-iris-plus-graphics-640-drivers-easy-installation-steps-inside/"><u>Effortlessly Enhance Your System with New Intel Iris + Graphics 640 Drivers - Easy Installation Steps Inside!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/entering-virtual-realms-with-lgs-vr-technology/"><u>Entering Virtual Realms with LG's VR Technology</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g84-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G84 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison-for-2024/"><u>New Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-freeze-problem-windows-pointer/"><u>Resolve Freeze Problem: Windows Pointer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/stream-smoothness-tweets-buffering-in-chrome-for-2024/"><u>Stream Smoothness Tweets Buffering in Chrome for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-graphic-glitch-rectified/"><u>Win11 Graphic Glitch Rectified</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leading-alternatives-to-twitter-ranked-best/"><u>[New] 2024 Approved Leading Alternatives to Twitter, Ranked Best</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-webcams-to-elevate-your-zoom-video-conferencing/"><u>[New] Ideal Webcams to Elevate Your Zoom Video Conferencing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-creating-convincing-news-final-buzzes/"><u>[Updated] Creating Convincing News Final Buzzes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-winning-strategies-for-win-11s-crashy-photos-app-for-2024/"><u>[Updated] Winning Strategies for Win 11'S Crashy Photos App for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigate-like-a-pro-with-top-windows-10-hacks/"><u>2024 Approved Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-radeon-hd-6950-version-20/"><u>AMD Graphics Drivers: Radeon HD 6950, Version 2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-media-stutter-win11s-stream-success-story/"><u>Conquering Media Stutter: Win11's Stream Success Story</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010063710-enhanced-stability-fix-for-diablo-2-resurrected-gameplay-uninterrupted/"><u>Enhanced Stability Fix for Diablo 2 Resurrected, Gameplay Uninterrupted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-missing-full-screen-on-11-window-monitors/"><u>Fixed Missing Full Screen on 11 Window Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-experience-not-working-solved/"><u>GeForce Experience Not Working [SOLVED]</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/hand-drawn-whiteboard-animation-top-tools-and-software-for-2024/"><u>Hand-Drawn Whiteboard Animation Top Tools and Software for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-plan-to-rectify-laptop-display-anomalies/"><u>Immediate Action Plan to Rectify Laptop Display Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-screen-jitter-on-windows-7/"><u>Overcoming Screen Jitter on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-process-of-unresponsive-touchpanels/"><u>Reverse Process of Unresponsive Touchpanels</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-lava-blaze-curve-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Blaze Curve 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-find-x7-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Find X7 Ultra Location | Dr.fone</u></a></li>
 </ul></div>
 

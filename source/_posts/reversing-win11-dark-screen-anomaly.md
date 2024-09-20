@@ -1,7 +1,7 @@
 ---
 title: Reversing Win11 Dark Screen Anomaly
-date: 2024-07-12T00:23:14.384Z
-updated: 2024-07-13T00:23:14.384Z
+date: 2024-09-17T11:03:43.881Z
+updated: 2024-09-20T02:43:29.794Z
 tags:
   - win11
   - win10
@@ -83,6 +83,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -91,6 +99,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
@@ -116,11 +132,31 @@ If you’re on a laptop:
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -172,6 +208,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
@@ -210,8 +253,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +260,16 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-enhancing-online-presence-best-practices-for-win11-zoom-users/"><u>[New] Enhancing Online Presence Best Practices for Win11 Zoom Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-snap-inspiration-selecting-stunning-ig-visuals/"><u>[New] Snap Inspiration! Selecting Stunning IG Visuals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-composing-the-unseen-background-sounds-for-movie-teasers/"><u>[Updated] 2024 Approved Composing the Unseen Background Sounds for Movie Teasers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-capture-central-apowsort-vs-alternatives-explored-for-2024/"><u>[Updated] Screen Capture Central Apowsort vs Alternatives Explored for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-patch-for-rtx210-to-optimize-win11/"><u>NVIDIA's Patch for RTX210 to Optimize Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dimming-display-on-lenovo-devices/"><u>Overcoming Dimming Display on Lenovo Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/propel-your-skills-with-the-finest-android-drawing-software-for-2024/"><u>Propel Your Skills with the Finest Android Drawing Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-start-guide-zooming-into-fb-live-on-the-web/"><u>Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
+</ul></div>
 

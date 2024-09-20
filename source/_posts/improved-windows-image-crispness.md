@@ -1,7 +1,7 @@
 ---
 title: "Improved: Windows Image Crispness"
-date: 2024-07-12T00:23:49.757Z
-updated: 2024-07-13T00:23:49.757Z
+date: 2024-09-17T23:52:30.729Z
+updated: 2024-09-20T00:36:27.496Z
 tags:
   - win11
   - win10
@@ -60,8 +60,24 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 2. Click**System** in the**Settings** pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, click**Advanced scaling settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
@@ -88,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if your screen becomes normal.
 
 ---
@@ -104,6 +127,14 @@ Check if your screen becomes normal.
 2. Click**System** in the**Settings** pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, ensure to select**100%** for**Scale and layout** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 
  Then Windows will apply the changes. Check and see if your screen gets clear.
@@ -120,6 +151,13 @@ Check if your screen becomes normal.
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -152,8 +190,6 @@ Check if the blurry problem has been fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +197,22 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solved-brisk-internet-on-windows-xp-a-guide/"><u>[SOLVED] Brisk Internet on Windows XP: A Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-shorts-and-tiktok-which-one-is-better-for-personal-usage/"><u>2024 Approved YouTube Shorts & TikTok Which One Is Better for Personal Usage?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-computer-display-to-proper-view/"><u>Adjusting Computer Display to Proper View</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-full-screen-windows-fail-to-appear-on-monitor-windows-10/"><u>Corrected: Full Screen Windows Fail to Appear on Monitor (Windows 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-software-for-your-hp-color-laserjet-pro-mfp-m477-free-driver-installation/"><u>Get the Latest Software for Your HP Color Laserjet Pro MFP M477 - FREE Driver Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-malfunction-resolved-and-system-stable/"><u>Graphics Malfunction Resolved and System Stable</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-9a-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 9A?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-unleash-creative-potential-with-free-effs/"><u>In 2024, Unleash Creative Potential with Free Effs!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-slow-motion-instagram-a-reel-guide-for-2024/"><u>Mastering Slow-Motion Instagram A Reel Guide for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s17-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S17 Phone? Unlock It Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-seamless-installation-achieved/"><u>Nvidia Setup: Seamless Installation Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-inverter-related-blinking/"><u>Solving Inverter-Related Blinking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-with-snapseed-a-foundation-for-image-editing-for-2024/"><u>Start with Snapseed A Foundation for Image Editing for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-phantom-v-fold-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Phantom V Fold? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

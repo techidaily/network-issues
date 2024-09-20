@@ -1,7 +1,7 @@
 ---
 title: "[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War"
-date: 2024-09-08T19:31:44.795Z
-updated: 2024-09-15T04:58:52.770Z
+date: 2024-09-16T16:49:44.981Z
+updated: 2024-09-20T02:00:38.351Z
 tags:
   - win11
   - win10
@@ -83,19 +83,19 @@ If you are not sure where your game is installed, take these steps:
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run Blizzard launcher as administrator
 
 1. Exit your launcher.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then it’ll launch in admin mode.
 
@@ -124,11 +124,25 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer for them to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Flush your DNS and use Google’s instead
 
@@ -152,27 +166,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 8. Click the Internet connection you’re using, then select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
@@ -187,13 +188,6 @@ To see if a new DNS address helps, you can follow the instructions below:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
 
  If you haven’t linked your Activision and Blizzard accounts, you may not be able to connect to the online services. So to eradicate the error message, follow the steps below to link your accounts:
@@ -202,18 +196,19 @@ To see if a new DNS address helps, you can follow the instructions below:
 2. In the top right, click**LOGIN** .  
 ![link activision account](https://images.drivereasy.com/wp-content/uploads/2020/11/LOGIN-activision-account.jpg)
 3. Then you’ll be redirected to the login page. Now simply enter your details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once you’re logged in, click**PROFILE** in the top right.  
 ![activision profile](https://images.drivereasy.com/wp-content/uploads/2020/11/activision-profile.jpg)
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve done these, launch your game and check if you can connect to online services.
 
@@ -244,20 +239,12 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-contents-presence-perfecting-youtube-thumbnails-size-for-2024/"><u>[Updated] Elevating Your Content's Presence Perfecting YouTube Thumbnails Size for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-and-wi-fi-authentication-hiccups-strategies-to-restore-your-internet-access/"><u>Android and Wi-Fi Authentication Hiccups: Strategies to Restore Your Internet Access</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipated-apple-watch-ultra-2-launch-details-pricing-release-timeline-and-latest-feature-leaks/"><u>Anticipated Apple Watch Ultra 2 Launch Details: Pricing, Release Timeline & Latest Feature Leaks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-effortlessly-access-safe-mode-on-windows-for-drivers-replacement/"><u>How To Effortlessly Access Safe Mode on Windows for Drivers Replacement</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-14-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 14 Stuck On Activation Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-a2-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi A2 Lock Screen Password</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-crafty-escapades-discover-top-imaginative-venues/"><u>In 2024, Crafty Escapades Discover Top Imaginative Venues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f25-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F25 Pro 5G Phone FRP Lock</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-glitch-in-windows-11/"><u>Overcoming Nvidia/Intel Graphics Glitch in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-vertical-display-flip/"><u>Resolving Vertical Display Flip</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalize-your-experience-fixing-win11-flicker/"><u>Revitalize Your Experience: Fixing Win11 Flicker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods-for-2024/"><u>Simplified Approach to Download YouTube Captions 3 Proven Methods for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-balanced-photography-top-phones-and-cameras-tripod/"><u>[New] In 2024, Balanced Photography Top Phones & Cameras Tripod</u></a></li>
+<li><a href="https://fox-links.techidaily.com/capture-the-moment-iphone-xs-revolutionary-camera/"><u>Capture the Moment IPhone X's Revolutionary Camera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-clarity-for-all-windows/"><u>Enhanced Clarity for All Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-acquainted-with-bluescreenview-a-quick-primer/"><u>Getting Acquainted with BlueScreenView: A Quick Primer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-flipped-displays-on-windows-11-os/"><u>Overcoming Flipped Displays on Windows 11 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-tips-to-solve-wide-text-line-phenomena-in-notebooks/"><u>Quick Tips to Solve Wide Text Line Phenomena in Notebooks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-art-of-cinematic-editing-a-final-cut-pro-x-tutorial/"><u>The Art of Cinematic Editing A Final Cut Pro X Tutorial</u></a></li>
 </ul></div>
 

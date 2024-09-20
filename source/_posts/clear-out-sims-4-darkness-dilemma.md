@@ -1,7 +1,7 @@
 ---
 title: Clear Out Sims 4 Darkness Dilemma
-date: 2024-09-08T00:42:09.739Z
-updated: 2024-09-15T03:01:38.141Z
+date: 2024-09-12T22:04:39.369Z
+updated: 2024-09-20T00:55:53.969Z
 tags:
   - win11
   - win10
@@ -85,6 +85,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -101,13 +108,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
@@ -117,10 +117,10 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
@@ -133,22 +133,15 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -190,6 +183,13 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -215,17 +215,13 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elite-adventurers-playground-top-10-games-revealed/"><u>[New] Elite Adventurers' Playground – Top 10 Games Revealed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-proven-ways-to-cash-in-instagrams-leading-revenue-methods-for-2024/"><u>[New] Proven Ways to Cash In Instagram's Leading Revenue Methods for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-boutique-online-portals-for-individualized-gift-artistry-for-2024/"><u>Best Boutique Online Portals for Individualized Gift Artistry for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-educational-and-study-apps-for-high-school-students-top-picks/"><u>Best Educational & Study Apps for High School Students - Top Picks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>Chronology on Camera Best Practices for Date Insertion for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expertise-on-demand-your-complete-guide-to-fixed-zooms/"><u>Expertise on Demand: Your Complete Guide to Fixed Zooms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/explore-creativity-top-8-innovative-editing-tools-for-iphone-android/"><u>Explore Creativity Top 8 Innovative Editing Tools for iPhone, Android</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Pova 6 Pro 5G?</u></a></li>
-<li><a href="https://games-able.techidaily.com/inaudible-console-setup-for-xbox-fans/"><u>Inaudible Console Setup for Xbox Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-through-sims-solid-walls/"><u>Navigate Through Sims' Solid Walls</u></a></li>
-<li><a href="https://network-issues.techidaily.com/retrieved-missing-wireless-adapter-in-win10-configuration/"><u>Retrieved Missing Wireless Adapter in Win10 Configuration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visual-interface-breakdown-window-os-solved/"><u>Visual Interface Breakdown, Window OS (Solved)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-stepwise-guide-backing-up-and-exporting-mobile-camera-images-for-social-media-for-2024/"><u>[New] Stepwise Guide Backing Up & Exporting Mobile Camera Images for Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-choosing-your-go-to-youtube-video-downloaders-on-android-platform-for-2024/"><u>[Updated] Choosing Your Go-To YouTube Video Downloaders on Android Platform for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-snapedit-101-simple-steps-to-stunning-photos/"><u>2024 Approved Snapedit 101 Simple Steps to Stunning Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-explore-system-security-w8s-safe-mode-uninstallation/"><u>How To Safely Explore System Security: W8's Safe Mode Uninstallation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenhalt-on-graphicwinos-interface-under-repair/"><u>ScreenHalt on GraphicWinOS Interface (Under Repair)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-evade-gpts-input-caps/"><u>Strategies to Evade GPT's Input Caps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-list-of-free-websites-to-enjoy-and-view-anime-streaming-services/"><u>Ultimate List of FREE Websites to Enjoy & View Anime Streaming Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vitamin-ds-pivotal-role-in-immune-regulation-insights-into-innate-and-adaptive-responses/"><u>Vitamin D's Pivotal Role in Immune Regulation: Insights Into Innate and Adaptive Responses</u></a></li>
 </ul></div>
 

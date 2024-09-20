@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Anthem Performance
-date: 2024-09-08T23:07:26.833Z
-updated: 2024-09-15T04:49:02.283Z
+date: 2024-09-15T09:31:07.313Z
+updated: 2024-09-20T05:31:45.891Z
 tags:
   - win11
   - win10
@@ -156,28 +156,15 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -191,6 +178,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
@@ -200,10 +194,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Click**OK** to exit.
@@ -231,16 +225,14 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screenmasterrevolution-next-gen-recording-software/"><u>[New] 2024 Approved ScreenMasterRevolution Next-Gen Recording Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>[New] Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-eliminating-shake-effects-photographyvideo-guide/"><u>[Updated] 2024 Approved Eliminating Shake Effects Photography/Video Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/armored-fix-gdrivererr22/"><u>Armored Fix: GDRIVER_ERR22</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/become-an-efficient-time-warrior-with-these-15-task-packed-listening-habits-for-2024/"><u>Become an Efficient Time Warrior with These 15 Task-Packed Listening Habits for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-sony-vaio-driver-software-for-your-windows-pc/"><u>Download & Install Sony Vaio Driver Software for Your Windows PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-20-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark 20 Phone Hassle-Free</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlock-professional-vimeo-edits-without-paid-software/"><u>In 2024, Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-your-systems-intel-graphics-in-windows/"><u>Optimize Your System's Intel Graphics in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reducing-hp-lcd-glitch-frequency/"><u>Reducing HP LCD Glitch Frequency</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-stoppage-over-nvidia-device-issue-cleared/"><u>Windows Stoppage Over NVIDIA Device Issue Cleared</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-revenue-rise-at-the-half-million-club-500-subs-count/"><u>[New] 2024 Approved Revenue Rise at the Half-Million Club 500 Subs Count</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-captivate-your-market-the-blueprint-for-effective-instagram-video-plans/"><u>[New] In 2024, Captivate Your Market The Blueprint for Effective Instagram Video Plans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-settings-adjust-windows-11-screen-size/"><u>[RESOLUTION SETTINGS] Adjust Windows 11 Screen Size</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-safe-sharing-safe-viewing-tips-for-hiding-online-images/"><u>2024 Approved Safe Sharing, Safe Viewing Tips for Hiding Online Images</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-keyboards-failing-discover-6-fixes/"><u>IPhone & iPad Keyboards Failing? Discover 6 Fixes!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-graphics-driver22-hurdle/"><u>Overcoming Graphics DRIVER#22 Hurdle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-displaying-error-missing-graphical-specs/"><u>Overwatch Displaying Error: Missing Graphical Specs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-original-aspect-ratios-in-windows-11/"><u>Restoring Original Aspect Ratios in Windows 11</u></a></li>
 </ul></div>
 

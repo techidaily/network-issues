@@ -1,7 +1,7 @@
 ---
 title: Override Solid-Color Screen Errors
-date: 2024-09-12T21:07:13.587Z
-updated: 2024-09-15T00:54:53.239Z
+date: 2024-09-14T00:19:35.434Z
+updated: 2024-09-19T20:18:11.454Z
 tags:
   - win11
   - win10
@@ -73,13 +73,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -92,18 +85,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -115,26 +108,27 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -149,13 +143,6 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -196,6 +183,13 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -221,16 +215,16 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlock-success-top-12-tycoon-games-to-capture-your-attention/"><u>[New] Unlock Success Top 12 Tycoon Games to Capture Your Attention</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-effortless-and-accurate-how-to-capture-every-hulu-playback/"><u>[Updated] 2024 Approved Effortless and Accurate How To Capture Every Hulu Playback</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-iphoneipad-screenshots-with-2023-tricks/"><u>2024 Approved Streamline Your iPhone/iPad Screenshots with 2023 Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breakthrough-tech-a-deep-dive-into-the-impressive-capabilities-and-swift-operations-of-the-elegoo-neptune-4-plus-3d-printer/"><u>Breakthrough Tech: A Deep Dive Into the Impressive Capabilities and Swift Operations of the Elegoo Neptune 4 Plus 3D Printer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-issue-amdnvidia-missing/"><u>Display Issue: AMD/NVIDIA Missing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-flying-brain-games-top-11-knowledge-channels/"><u>High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-error-12-disappears/"><u>MH World Crisis Averted - Error 12 Disappears</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-correction-clear-legends-crashes/"><u>Quick Correction: Clear Legends Crashes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/quick-tips-for-transforming-pinterest-videos-into-mp3s/"><u>Quick Tips for Transforming Pinterest Videos Into MP3s</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speed-up-your-media-transform-videos-and-audio-in-a-flash-using-winxvideo-ais-gpu-acceleration/"><u>Speed Up Your Media: Transform Videos & Audio in a Flash Using Winxvideo AI's GPU Acceleration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-amd-failure-loaded-driver-issue-resolved/"><u>Windows 10, AMD Failure: Loaded Driver Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-offline-play-problems-cod-cold-war-2024/"><u>[FIXING]: Offline Play Problems: CoD Cold War 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-trim-youtube-videos/"><u>[New] How to Trim YouTube Videos?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-strategies-for-captivate-demonstrations-for-2024/"><u>[New] Innovative Strategies for Captivate Demonstrations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>[New] Maximizing Socialization with Ease Xbox One's Zoom Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-capturing-facebook-chats/"><u>[Updated] 2024 Approved A Comprehensive Guide to Capturing Facebook Chats</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-lava-blaze-2-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Lava Blaze 2 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-update-microsofts-enhancements-across-windows/"><u>BDR Update: Microsoft's Enhancements Across Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flip-screen-resolution-rightside-up/"><u>Flip Screen Resolution Rightside Up</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-magic-6-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Magic 6 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-filmora-for-free-the-authorized-and-authentic-way/"><u>New In 2024, Get Filmora for Free The Authorized and Authentic Way</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-win-os-graphics-device-link/"><u>Repaired Failed Win-OS Graphics Device Link</u></a></li>
 </ul></div>
 

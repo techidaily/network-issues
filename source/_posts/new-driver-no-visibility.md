@@ -1,7 +1,7 @@
 ---
 title: New Driver, No Visibility?
-date: 2024-07-12T00:26:04.970Z
-updated: 2024-07-13T00:26:04.970Z
+date: 2024-09-18T05:14:19.522Z
+updated: 2024-09-19T16:57:34.219Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Clean install the graphics card driver
 
  As mentioned, the screen goes black after installing a graphics card driver problem could be caused by a step going wrong during the display card driver installation process, like faulty driver files or incorrect permission granted. To see if this is your case, you can do the following to clean install the display card driver:
@@ -71,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -78,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 Then download and update the display card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -90,6 +112,13 @@ To do so, first visit the website of your GPU manufacturer:
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (Recommended)
 
@@ -152,6 +181,14 @@ To do so, first visit the website of your GPU manufacturer:
 3. Repeat steps 1) and 2) until you see**Please wait** during the boot. It usually takes three repeats (more than three repeats if this is not the first time that you did this) for it to come up. You need to try until you can see the**Please wait** coming out.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-39.png)
 4. When the following page shows, click**See advanced repair options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-40.png)
 5. Click **Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-41.png)
@@ -198,8 +235,6 @@ When you boot into the Safe Mode with networking
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,6 +242,18 @@ When you boot into the Safe Mode with networking
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[Updated] Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screenrecorderpro-a-detailed-analysis-of-video-capture-software-for-2024/"><u>[Updated] ScreenRecorderPro A Detailed Analysis of Video Capture Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-ensure-iphone-camera-focus/"><u>[Updated] Strategies to Ensure iPhone Camera Focus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-driver-enhancement-in-windows-11-by-qualcomm/"><u>Atheros QCA61x4 Driver Enhancement in Windows 11 by Qualcomm</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-network-driver-solved-for-qualcomm-windows-11-compatibility/"><u>Atheros Wi-Fi Network Driver Solved for Qualcomm Windows 11 Compatibility</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x6-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X6 Fingerprint Lock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-dark-screen-post-fall-update/"><u>Fixing Dark Screen Post Fall Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-reno-10-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo Reno 10 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-pova-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Pova 5 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-normal-operation-win10-screensaver/"><u>Restore Normal Operation Win10 Screensaver</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/voice-activated-tiktok-mastering-siri-on-your-iphone-for-2024/"><u>Voice-Activated TikTok Mastering Siri on Your iPhone for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert: Glitchy OpenGL Error Now Corrected"
-date: 2024-09-12T01:10:20.738Z
-updated: 2024-09-14T19:31:32.709Z
+date: 2024-09-19T06:27:31.469Z
+updated: 2024-09-20T05:56:51.214Z
 tags:
   - win11
   - win10
@@ -75,14 +75,14 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -91,13 +91,6 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -108,13 +101,26 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
@@ -145,21 +151,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[Updated] In 2024, Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-tips-for-increasing-the-usefulness-of-gopros-battery/"><u>[Updated] Tips for Increasing the Usefulness of GoPro's Battery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-channel-building-essentials/"><u>2024 Approved Mastering YouTube Channel-Building Essentials</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-windows-11-display-sizes/"><u>Adjusting Windows 11 Display Sizes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-brightness-levels/"><u>Enhancing Lenovo Display Brightness Levels</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exclusive-analysis-the-samsung-galaxy-a51-5g-smart-choice-solid-performance-at-great-price/"><u>Exclusive Analysis: The Samsung Galaxy A51 5G - Smart Choice, Solid Performance at Great Price</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-poco-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Poco Network Unlock</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/microsoft-solves-wins-basic-drive-problems/"><u>Microsoft Solves Win's Basic DRIVE Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974497126-quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/"><u>System Error Due To Nvidia, Now Resolved</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-next-gen-macbook-pro-with-m3-chip-what-you-need-to-know-about-price-release-date-and-spec-sheet/"><u>The Next-Gen MacBook Pro with M3 Chip: What You Need to Know About Price, Release Date & Spec Sheet</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-exclusive-voip-services-designed-for-the-modern-game-player/"><u>Updated 2024 Approved Exclusive VoIP Services Designed for the Modern Game Player</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-no-cost-game-recorders-the-essential-selection-list-for-2024/"><u>[New] No-Cost Game Recorders The Essential Selection List for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-winos-bsod-dxgkrnlsys-error/"><u>[Resolved] WinOS BSOD: dxgkrnl.sys Error</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/202-4insta/"><u>「最新手順：202 4年のInsta動画ダウンロードテクニックを知る！」</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-xcover-7-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy XCover 7 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-how-to-harness-googles-potential-for-your-podcasts/"><u>2024 Approved How to Harness Google’s Potential for Your Podcasts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-s23-tactical-edition-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy S23 Tactical Edition? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xpenses-create-wow-download-high-quality-templates-for-videos-for-2024/"><u>Cut Expenses, Create Wow - Download High-Quality Templates for Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-dassistance-et-tutoriels-de-resolution-des-problemes-pour-le-programme-winx-dvd-ripper-and-convertisseur-video/"><u>Guide D'Assistance Et Tutoriels De Résolution Des Problèmes Pour Le Programme WinX DVD Ripper & Convertisseur Vidéo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hustle-past-game-hold-ups/"><u>Hustle Past Game Hold-Ups</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-inconsistent-backlight-on-hp-screens/"><u>Rectifying Inconsistent Backlight on HP Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstallation-process-simplified-uninstall-graphics-drivers-via-w8s-safe-mode/"><u>Reinstallation Process Simplified: Uninstall Graphics Drivers via W8's Safe Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-grainy-graphics-in-ubisofts-island-adventure/"><u>Solving Grainy Graphics in Ubisoft's Island Adventure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upside-down-monitor-fix-resolved/"><u>Upside-Down Monitor Fix [Resolved]</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-s17e-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo S17e? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Shimmering Effects on Screens
-date: 2024-07-12T00:24:37.822Z
-updated: 2024-07-13T00:24:37.822Z
+date: 2024-09-18T18:09:33.611Z
+updated: 2024-09-20T01:00:58.363Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -60,6 +67,13 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -70,6 +84,13 @@ There are two fixes you can try:
 **Adaptive V-Sync** is a more recommended option. The reason is that it can also prevent your screen from stuttering — an issue often occurs when V-Sync is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### For**Intel** graphics users
 
@@ -101,8 +122,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +129,17 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026703106-720p1080p/"><u>高解像度への移行 - 720Pビデオを1080pにアップコンバートする手順</u></a></li>
+<li><a href="https://win11.techidaily.com/andtop7/"><u>人気の高いフリー動画音声変換ソフト&おすすめウェブサイトランキングTOP7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-compatibility-with-new-software-download-logitech-k40n-bk800m-mouse-and-keyboard-driver-pack/"><u>Ensure Compatibility with New Software: Download Logitech K40n-BK800M Mouse and Keyboard Driver Pack</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-panel-distortion-in-windows-10/"><u>Resolving Backward Panel Distortion in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-seamless-editing-mastering-the-filmora-experience-for-2024/"><u>The Art of Seamless Editing Mastering the Filmora Experience for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-rise-of-amd-transforming-pc-gaming-experience-across-platforms/"><u>The Rise of AMD: Transforming PC Gaming Experience Across Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-silence-no-nvidia-detected-in-control-panel/"><u>Unexpected Silence: No NVIDIA Detected in Control Panel</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-go-to-lighting-kit-17-picks-reviewed-for-2024/"><u>YouTube's Go-To Lighting Kit - #17 Picks Reviewed for 2024</u></a></li>
+</ul></div>
 

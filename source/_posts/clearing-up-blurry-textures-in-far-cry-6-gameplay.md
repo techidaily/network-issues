@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Blurry Textures in Far Cry 6 Gameplay
-date: 2024-07-12T00:28:42.597Z
-updated: 2024-07-13T00:28:42.597Z
+date: 2024-09-16T09:51:36.363Z
+updated: 2024-09-19T18:37:39.725Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -71,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 [3: Turn on high graphics performance setting for the game](#fix3)
 
 [4: Clean the DirectX cache](#fix4)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Run as admin
 
@@ -113,11 +127,26 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t help, there’s one more fix you can try.
 
@@ -133,6 +162,14 @@ If this doesn’t help, there’s one more fix you can try.
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 ---
@@ -148,8 +185,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +192,20 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nsuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[New] Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-easing-excessive-encoding-of-obs-media/"><u>[New] In 2024, Easing Excessive Encoding of OBS Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-anonymizing-videos-tips-for-keeping-personal-data-hidden/"><u>[Updated] 2024 Approved Anonymizing Videos Tips for Keeping Personal Data Hidden</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/expert-tips-add-ons-that-elevate-your-vimeo-video/"><u>Expert Tips Add-Ons that Elevate Your Vimeo Video</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-dark-screen-issue-windows-fixed-release/"><u>Fix Dark Screen Issue: Windows Fixed Release</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-13-pro-max-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 13 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-for-flawless-vids/"><u>Immediate Action for Flawless Vids</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-c12-plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia C12 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-glare-irregularity-in-notebook-display/"><u>Rectified Glare Irregularity in Notebook Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-laffaire-anonyme-du-direct-x-en-lol/"><u>Solving L'Affaire Anonyme Du Direct X en LoL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-fix-for-sims-4-blackout/"><u>Swift Fix for Sims 4 Blackout</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-latest-intel-hd-iris-graphics-drivers-on-windows-10-and-11-easy-download-and-update-process/"><u>Upgrade to the Latest Intel HD / Iris Graphic's Drivers on Windows 10 & 11 – Easy Download and Update Process</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
+</ul></div>
 

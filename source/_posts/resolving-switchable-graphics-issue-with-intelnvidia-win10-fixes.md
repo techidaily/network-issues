@@ -1,7 +1,7 @@
 ---
 title: Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes
-date: 2024-09-09T01:38:16.307Z
-updated: 2024-09-15T07:17:28.209Z
+date: 2024-09-19T10:20:52.523Z
+updated: 2024-09-20T08:54:07.491Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -90,6 +83,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -103,43 +110,30 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,21 +150,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-storytelling-free-soundtrack-options-available/"><u>[New] 2024 Approved Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[New] In 2024, Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leveraging-windows-media-player-your-cd-conversion-companion/"><u>[New] Leveraging Windows Media Player Your CD Conversion Companion</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-slomo-recording-tool-assessment-guide/"><u>[Updated] The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/9-excellent-non-gmail-email-services-to-switch-to-in-2n4/"><u>9 Excellent Non-Gmail Email Services to Switch To in 2N4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-contrasts-how-do-mac-and-pc-differentiate/"><u>Exploring the Contrasts: How Do Mac and PC Differentiate?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27e-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V27e Lock Screen Password?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14? Complete Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-troubleshoot-and-fix-the-black-screen-problem-in-windows-10-following-a-system-upgrade/"><u>How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/maximize-frames-per-second-fps-experts-guide-with-6-key-techniques/"><u>Maximize Frames Per Second (FPS): Expert's Guide with 6 Key Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-code-43-failure-for-nvidia-geforce-gtx-950-on-windows-11-systems-solutions-proven-effective/"><u>Overcoming 'Code 43' Failure for NVIDIA GeForce GTX 950 on Windows 11 Systems - Solutions Proven Effective</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-the-challenge-of-a-shaky-internet-during-video-calls-on-zoom-now-solved/"><u>Overcoming the Challenge of a Shaky Internet During Video Calls on Zoom - Now Solved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-guide-eliminating-excessive-latency-for-smoother-gameplay-on-fortnite/"><u>Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reply/"><u>Reply</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-nvstreamuseraagentexe-crashes-fixed-on-windows-systems/"><u>Resolved: NVSTREAMUSERA_AGENT.EXE Crashes Fixed on Windows Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-tutorial-personalize-and-elevate-your-short-videos/"><u>[New] Step-by-Step Tutorial Personalize and Elevate Your Short Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-updating-twitters-video-previews-on-your-account/"><u>[Updated] 2024 Approved Updating Twitter's Video Previews on Your Account</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-by-nvidia-windows-halted-problem-solved/"><u>Error by NVidia: Windows Halted, Problem Solved</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-imagenes-pcx-a-jpg-sin-costo-utilizando-movavi/"><u>Guía Paso a Paso Para Convertir Imágenes PCX a JPG Sin Costo Utilizando Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-x50iplus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor X50i+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme GT 5 Phone?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precise-adjustment-for-lcd-aspect-ratios/"><u>Precise Adjustment for LCD Aspect Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/spartan-written-perfection-pursued/"><u>Spartan' Written: Perfection Pursued</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-clearing-computer-shutdown-screens/"><u>Steps for Clearing Computer Shutdown Screens</u></a></li>
 </ul></div>
 

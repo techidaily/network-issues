@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 11 & 7
-date: 2024-09-13T02:54:54.591Z
-updated: 2024-09-15T00:34:19.006Z
+date: 2024-09-15T02:19:53.694Z
+updated: 2024-09-20T06:51:59.350Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -97,6 +90,14 @@ Follow the steps below:
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 ##  Method 6: Run network commands
@@ -108,10 +109,10 @@ Follow the steps below:
 2. Now type in the following commands and hit **Enter**  after each one.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
@@ -120,24 +121,18 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -160,18 +155,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-understanding-a-blue-icons-role-facebooks-communication-tool-for-2024/"><u>[New] Understanding a Blue Icon’s Role Facebook's Communication Tool for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-the-buffering-blues/"><u>Banish the Buffering Blues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fast-fix-for-amd-in-tarkov/"><u>Fast-Fix for AMD in Tarkov</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hidden-display-settings-return-in-windows-11/"><u>Hidden Display Settings Return in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/illuminating-the-darkness-surrounding-elusive-dx-faults-in-lol/"><u>Illuminating the Darkness Surrounding Elusive DX Faults in LOL</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-your-playstation-experience-with-sounds/"><u>In 2024, Tailoring Your PlayStation Experience with Sounds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-list-top-ps1-emulators-for-pc-gamers/"><u>In 2024, The Ultimate List Top PS1 Emulators for PC Gamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>In 2024, Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-win11-blinky-black-error/"><u>Overcoming Win11 Blinky Black Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-rockaldlldll-error-a-comprehensive-guide/"><u>Resolving Rockaldll.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-solution-guide-idle-graphics-card-wnvidia/"><u>Simple Solution Guide: Idle Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/gymnastics-ingenious-techniques-for-animated-bounces/"><u>Text Gymnastics Ingenious Techniques for Animated Bounces</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-lenovo-webcam-firmware-on-windows-7-new-version-available/"><u>Upgrade Your Lenovo Webcam Firmware on Windows 7 - New Version Available</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-best-instagram-highlight-cover-maker-online/"><u>[Updated] 2024 Approved Best Instagram Highlight Cover Maker Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>2024 Approved Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wav-to-mov/"><u>簡単で自由なWAV to MOVフォーマット変換 - ムヴァヴィ動画</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieved-amds-windows-10-driver-load-problem-now-solved/"><u>Achieved: AMD's Windows 10 Driver Load Problem Now Solved!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/customize-windows-11-screen-resolution/"><u>Customize Windows 11 Screen Resolution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-7-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/max-360-vs-hero-11-evaluating-the-best-gopro-for-action-videos/"><u>Max 360 Vs. Hero 11 Evaluating the Best GoPro for Action Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purging-peculiarities-from-win11-monitors/"><u>Purging Peculiarities From Win11 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-window-frame-straightness/"><u>Rectify Window Frame Straightness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-nvidia-and-intels-switchable-graphics-in-latest-win11-patch/"><u>Triumph Over Nvidia & Intel's Switchable Graphics in Latest Win11 Patch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vidma-redefining-standard-practices-in-video-capture/"><u>Vidma Redefining Standard Practices in Video Capture</u></a></li>
 </ul></div>
 

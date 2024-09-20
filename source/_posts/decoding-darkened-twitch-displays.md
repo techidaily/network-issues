@@ -1,7 +1,7 @@
 ---
 title: Decoding Darkened Twitch Displays
-date: 2024-07-12T00:26:31.579Z
-updated: 2024-07-13T00:26:31.579Z
+date: 2024-09-17T07:21:57.446Z
+updated: 2024-09-20T10:17:04.055Z
 tags:
   - win11
   - win10
@@ -91,6 +91,14 @@ Here’s how you go about it:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
@@ -114,6 +122,14 @@ Here’s how you go about it:
 2. Click**the menu button** \>**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
@@ -121,6 +137,13 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
 
@@ -145,6 +168,14 @@ Here’s how you go about it:
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
 **Enable or disable hardware acceleration in Firefox:**
@@ -156,6 +187,13 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
 
@@ -174,8 +212,6 @@ Here’s how you go about it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,6 +219,18 @@ Here’s how you go about it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-tailor-made-downloads-selecting-your-perfect-4k-app/"><u>[New] 2024 Approved Tailor-Made Downloads Selecting Your Perfect 4K App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free-windows-software-perfect-tv-recording-techniques/"><u>[New] Free Windows Software Perfect TV Recording Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-streamlining-your-experience-live-cricket-viewing-tips/"><u>[New] In 2024, Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-chucklecrafts-join-and-start-crafting-laughter/"><u>[Updated] ChuckleCrafts Join and Start Crafting Laughter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-the-spectacular-with-nikon-d500-in-4k/"><u>2024 Approved Capture the Spectacular with Nikon D500 in 4K</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-acer-laptop-screen-flickering/"><u>How To Fix Acer Laptop Screen Flickering</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y36i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y36i Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reducing-wait-periods-while-launching-sw-battlefront-ii-optimized-solutions-for-pc-gamers/"><u>Reducing Wait Periods While Launching SW: Battlefront II - Optimized Solutions for PC Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-ripples-in-win7-displays/"><u>Remedying Ripples in Win7 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-issue-cg-failed-to-show/"><u>Rendering Issue: CG Failed to Show</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-stable-lenovo-screens/"><u>Strategies for Stable Lenovo Screens</u></a></li>
+</ul></div>
 

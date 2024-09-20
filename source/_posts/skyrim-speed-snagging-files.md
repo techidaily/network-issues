@@ -1,7 +1,7 @@
 ---
 title: "Skyrim Speed: Snagging Files"
-date: 2024-09-08T20:56:27.679Z
-updated: 2024-09-15T03:03:24.693Z
+date: 2024-09-14T02:06:44.363Z
+updated: 2024-09-20T07:08:55.984Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disconnect other devices
 
  The download issue is sometimes caused by your router struggling with the number of connections due to too many downloads happening simultaneously. To work around this, you need to first restart your router. Simply unplug your router or modem from its power outlet. Wait for 15-20 seconds, then plug it back in.
@@ -94,13 +87,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Switch Domain Name Systems (DNS)
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can effectively slow your connection. Switching your DNS can result in better connectivity and performance for your internet connection and save you time troubleshooting.
@@ -117,20 +103,29 @@ Here we recommend using Google DNS:
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
-![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
-7. Select **Network and Sharing Center** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
+7. Select **Network and Sharing Center** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
@@ -153,6 +148,20 @@ Here’s how to do this:
 1. On your keyboard, press the**Windows logo key + R** at the same time to open the Run dialog box. Type**%localappdata%** and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
 2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
@@ -170,24 +179,24 @@ Here’s how to do this:
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Press**Ctrl + S** to save the edits.
 
 When it’s all done, resume your download and it should be faster.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
 
@@ -198,15 +207,16 @@ When it’s all done, resume your download and it should be faster.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try downloading your games again.
 
 ---
@@ -235,18 +245,16 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ultivating-a-brand-identity-youtube-visibility-without-spending/"><u>[New] Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-10-sites-to-download-copyright-free-meditation-music-for-2024/"><u>[Updated] Top 10 Sites to Download Copyright-Free Meditation Music for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/complete-winxdvd-tutorial-a-step-by-step-users-manual/"><u>Complete WinXDVD Tutorial: A Step-by-Step User's Manual</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-22-in-gpu-drivers-addressed/"><u>Error 22 in GPU Drivers Addressed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-void-card-search-error/"><u>Graphics Void: Card Search Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-kinks-cured-for-combat/"><u>Kratos Kinks Cured for Combat</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missed-driver-installation-for-gpus/"><u>Missed Driver Installation for GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-through-youtubes-unwanted-green-mistakes/"><u>Navigating Through YouTube's Unwanted Green Mistakes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-solution-to-malfunctioned-m4v-files-on-tech-platforms/"><u>The Ultimate Solution to Malfunctioned M4V Files on Tech Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tighten-monitor-border-clarity/"><u>Tighten Monitor Border Clarity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-childrens-films-streaming-on-netflix/"><u>Top-Rated Children's Films Streaming on Netflix</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-rotate-your-3gp-videos-for-free-top-5-tools/"><u>Updated Rotate Your 3GP Videos for Free Top 5 Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win-graphics-fix-solidarity-against-minecraft-crashes/"><u>Win-Graphics Fix: Solidarity Against Minecraft Crashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[Updated] Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-executive-mind-how-neuroscience-can-inform-better-management-strategies/"><u>[Updated] The Executive Mind How Neuroscience Can Inform Better Management Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-for-capturing-stunning-details-on-film/"><u>2024 Approved The Complete Guide for Capturing Stunning Details on Film</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flashy-windows-7-visuals/"><u>Correcting Flashy Windows 7 Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-amds-loading-issue-windowas-10-system-operates-normally/"><u>Fixed AMD's Loading Issue, Windowas 10 System Operates Normally</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-step-by-step-approach-to-yt-channel-descriptors/"><u>In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-powerdirector-full-review-and-instructions/"><u>In 2024, Mastering PowerDirector - Full Review & Instructions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reclaiming-vision-on-lenovos-black-monitors/"><u>Reclaiming Vision on Lenovo's Black Monitors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-adding-the-tmdb-helper-extension-to-your-kodi-setup-compatible-with-nexus-devices/"><u>Step-by-Step Guide to Adding the TMDB Helper Extension to Your Kodi Setup (Compatible with Nexus Devices)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-lift-gpu-fan-stagnation/"><u>Steps to Lift GPU Fan Stagnation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes</u></a></li>
 </ul></div>
 

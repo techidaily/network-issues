@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle"
-date: 2024-09-12T21:53:59.026Z
-updated: 2024-09-14T22:59:39.418Z
+date: 2024-09-19T07:37:59.827Z
+updated: 2024-09-19T23:09:08.072Z
 tags:
   - win11
   - win10
@@ -72,19 +72,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -116,29 +103,16 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -153,6 +127,13 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -169,6 +150,13 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -187,20 +175,18 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[Updated] Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-champions-guide-to-martial-arts-gaming-for-2024/"><u>[Updated] The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>[Updated] The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-joy-in-flight-a-closer-look-at-the-syma-helicopter-model-s107c/"><u>Affordable Joy in Flight: A Closer Look at the Syma Helicopter Model S107C</u></a></li>
-<li><a href="https://network-issues.techidaily.com/culmination-of-clear-windows-11-screens/"><u>Culmination of Clear Windows 11 Screens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-the-sudden-shutdown-glitches-in-thaumaturge-gameplay/"><u>Diagnosing and Repairing the Sudden Shutdown Glitches in Thaumaturge Gameplay</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/echoes-of-connection-amplifying-discussions-on-youtube-for-2024/"><u>Echoes of Connection Amplifying Discussions on YouTube for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevating-your-sites-visibility-the-cookiebot-advantage/"><u>Elevating Your Site's Visibility: The Cookiebot Advantage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-graphics-new-drivers-for-win10s-amd-radeon-6950/"><u>Enhanced Graphics, New Drivers for Win10's AMD Radeon 6950</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-flicker-and-pulse-on-win7-display/"><u>Fixing Flicker and Pulse on Win7 Display</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-c32-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia C32 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/game-savior-erased-monster-hunt-crashing-issue/"><u>Game Savior: Erased Monster Hunt Crashing Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-graphics-issue-darkened-monitor/"><u>Latest Graphics Issue: Darkened Monitor</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-htc-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my HTC U23 Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revive-your-displays-focus/"><u>Revive Your Display's Focus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-your-craft-exclusive-free-templates-and-tips/"><u>[New] Master Your Craft Exclusive Free Templates & Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-widespread-engagement-on-facebook/"><u>[New] Unleashing Widespread Engagement on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-10-engaging-vr-experiences-on-youtube/"><u>[Updated] In 2024, Top 10 Engaging VR Experiences on Youtube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discerning-the-advantages-of-ultra-hd-visuals/"><u>Discerning the Advantages of Ultra HD Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-screen-flashes-in-win11/"><u>End Screen Flashes in Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/envisioned-kingdoms-through-conversational-algorithms/"><u>Envisioned Kingdoms Through Conversational Algorithms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-upload-longer-videos-on-instagram/"><u>How to Upload Longer Videos on Instagram</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-backgrounds-elevating-video-streaming/"><u>In 2024, Top Picks Backgrounds Elevating Video Streaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-gen-graphics-drive-for-pc-windows-10s-latest-amd-radeon-hd-6950-driver/"><u>Next-Gen Graphics Drive for PC: Windows 10'S Latest AMD Radeon HD 6950 Driver</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-reveals-a-groundbreaking-gaming-app-feature/"><u>Nvidia Reveals a Groundbreaking Gaming App Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-shutdown-new-gpu-empty-screen/"><u>Unexpected Shutdown: New GPU, Empty Screen</u></a></li>
 </ul></div>
 

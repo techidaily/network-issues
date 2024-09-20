@@ -1,7 +1,7 @@
 ---
 title: Resolving LCD Display Issues in Notebooks
-date: 2024-07-12T00:25:30.574Z
-updated: 2024-07-13T00:25:30.574Z
+date: 2024-09-18T18:06:02.473Z
+updated: 2024-09-20T10:37:46.791Z
 tags:
   - win11
   - win10
@@ -65,6 +65,19 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Laptop memory
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
@@ -72,6 +85,13 @@ It has gone wrong and stops your laptop from completing the self test. You can t
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extra tips
 
@@ -91,6 +111,13 @@ And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
@@ -100,6 +127,13 @@ And then in the dialog popping up, click the**System Restore**button.
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
@@ -116,8 +150,6 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,6 +157,19 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>[New] 2024 Approved Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-access-best-free-youtube-subtitle-extractors-for-2024/"><u>[Updated] Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-to-success-joining-youtubes-partner-program-for-2024/"><u>[Updated] Step-by-Step to Success Joining YouTube's Partner Program for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-nforce630a-with-latest-win11-update/"><u>Aligning nForce630a with Latest Win11 Update</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revolutionizing-channel-management-through-tubebuddy/"><u>In 2024, Revolutionizing Channel Management Through TubeBuddy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seeking-visual-vintage-free-art-archives-online/"><u>In 2024, Seeking Visual Vintage Free Art Archives Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-visual-effects-to-elevate-your-film-cutting/"><u>In 2024, Top Visual Effects to Elevate Your Film Cutting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-your-print-setup-update-canon-mf4770n-drivers-in-win-1087/"><u>Modernize Your Print Setup: Update Canon MF4770n Drivers in Win 10/8/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-disabled-display-options-on-windows/"><u>Rectifying Disabled Display Options on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-amd-radeon-r9-driver-crashes-in-win10/"><u>Solved: AMD Radeon R9 Driver Crashes in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-win11-displays/"><u>Stabilizing Win11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-streamline-resolved-any-previous-glitches/"><u>Windows 10 Streamline: Resolved Any Previous Glitches?</u></a></li>
+</ul></div>
 

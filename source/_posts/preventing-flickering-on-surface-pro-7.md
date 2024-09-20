@@ -1,7 +1,7 @@
 ---
 title: Preventing Flickering on Surface Pro 7
-date: 2024-07-12T00:24:45.448Z
-updated: 2024-07-13T00:24:45.448Z
+date: 2024-09-19T02:37:41.145Z
+updated: 2024-09-20T01:22:03.734Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
@@ -113,17 +120,38 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the side taskbar, click**Display** .
 
  4) Under**Multiple displays** , select**Advanced display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Display adapter properties** .
 
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
 
@@ -141,6 +169,13 @@ Here’s how you can update your drivers with Driver Easy:
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -184,8 +219,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +226,23 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-free-tools-to-craft-compelling-videos-for-effective-fb-advertising/"><u>[New] In 2024, Free Tools to Craft Compelling Videos for Effective Fb Advertising</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-best-practices-for-snapchat-posts-the-essentials-list/"><u>[Updated] In 2024, Best Practices for Snapchat Posts The Essentials List</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-x-fold-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo X Fold 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-amd-freesync-offline-issues/"><u>Addressing AMD FreeSync Offline Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ch340-driver-for-windows-11-free-download-and-update-guide/"><u>CH340 Driver for Windows 11 - Free Download & Update Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-replacements-for-photoshop-here/"><u>Discover the Best Free Replacements for Photoshop Here!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayissue-on-winos-gfxui-solution-found/"><u>DisplayIssue on WInOS GfxUI (Solution Found)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-gameplay-fixing-civ-5-crashes/"><u>Enhancing Gameplay: Fixing Civ 5 Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-setup-error-resolved-on-win/"><u>Graphic Setup Error: Resolved on Win</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-motorola-edge-40-neo-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Motorola Edge 40 Neo to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y27-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y27 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stepwise-procedure-enable-external-network-device-in-your-pcs/"><u>Stepwise Procedure: Enable External Network Device in Your PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updated-graphics-requirements-addressed-in-overwatch/"><u>Updated Graphics Requirements Addressed in Overwatch</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-10-best-free-video-editors-for-ubuntu/"><u>Updated In 2024, Top 10 Best Free Video Editors for Ubuntu</u></a></li>
+</ul></div>
 

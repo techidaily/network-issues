@@ -1,7 +1,7 @@
 ---
 title: "Win10's Graphic Glitch: A Solution to Intell/NVidia Problems"
-date: 2024-07-12T00:24:56.902Z
-updated: 2024-07-13T00:24:56.902Z
+date: 2024-09-19T07:24:54.812Z
+updated: 2024-09-20T05:31:03.095Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -77,17 +84,44 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -113,8 +147,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,6 +154,18 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/constructing-a-high-definition-pc-for-ultra-hd-video-production-for-2024/"><u>Constructing a High-Definition PC for Ultra-HD Video Production for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-in-windows-10/"><u>Correcting Aspect Ratio in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-pause-and-stutter-in-videos/"><u>Eliminate Pause and Stutter in Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-intelnvidia-conflict-in-switchable-graphic-cards-on-win11/"><u>End of Intel/Nvidia Conflict in Switchable Graphic Cards on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-payment-procedures-with-abbyy-and-m-files-for-faster-revenue-cycle-turnover/"><u>Enhancing Payment Procedures with ABBYY & M-Files for Faster Revenue Cycle Turnover</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/excellent-live-broadcast-achieving-ultra-hd-fb-video/"><u>Excellent Live Broadcast Achieving Ultra-HD FB Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-calculating-podcasters-annual-earnings/"><u>In 2024, Calculating Podcasters' Annual Earnings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-problem-full-screen-windows-not-visible-on-monitor-windows-10/"><u>Rectified Problem: Full-Screen Windows Not Visible on Monitor (Windows 10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenate-graphics-performance-in-windows-10-through-updated-intel-gpu-driver/"><u>Rejuvenate Graphics Performance in Windows 10 Through Updated Intel GPU Driver.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-preventing-recurring-blender-software-failures-on-pc/"><u>Troubleshooting Guide: Preventing Recurring Blender Software Failures on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tuneful-timelines-music-in-imovie-editing-journey/"><u>Tuneful Timelines Music in iMovie Editing Journey</u></a></li>
+</ul></div>
 

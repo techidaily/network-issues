@@ -1,7 +1,7 @@
 ---
 title: Blackout Issue After Graphics Card Update
-date: 2024-09-13T06:48:31.934Z
-updated: 2024-09-15T01:26:42.911Z
+date: 2024-09-17T07:03:02.210Z
+updated: 2024-09-19T20:03:38.230Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Clean install the graphics card driver
 
  As mentioned, the screen goes black after installing a graphics card driver problem could be caused by a step going wrong during the display card driver installation process, like faulty driver files or incorrect permission granted. To see if this is your case, you can do the following to clean install the display card driver:
@@ -71,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
@@ -111,13 +111,6 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -125,6 +118,13 @@ To do so, first visit the website of your GPU manufacturer:
  If your screen remains black after the clean installation of a graphics card driver, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1.3 Run the hardware troubleshooter to see if it’s a hardware problem
 
@@ -142,19 +142,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.4 Restore BIOS settings
 
  Your monitor will remain black if there are some incorrect settings in BIOS, which stop certain firmware and/or software from starting properly. To see if this is your case, you can try to restore your BIOS settings to default.
@@ -169,6 +156,13 @@ To do so, first visit the website of your GPU manufacturer:
 5. Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. If you can’t boot into your computer…
 
@@ -191,16 +185,10 @@ To do so, first visit the website of your GPU manufacturer:
 8. Click**Restart** .  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
@@ -209,10 +197,10 @@ To do so, first visit the website of your GPU manufacturer:
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.1 Uninstall the graphics card driver in Safe Mode
@@ -257,15 +245,19 @@ When you boot into the Safe Mode with networking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-craft-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>[New] 2024 Approved Craft Cinematic Magic Learn Green Screen Wonders with YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners-for-2024/"><u>[New] Effortless YouTube Live with Step-by-Step OBS Guide for Beginners for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-guide-to-simple-curvature-alteration-in-pics/"><u>[New] In 2024, Guide to Simple Curvature Alteration in Pics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>2024 Approved Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>2024 Approved In-Depth Video Studio Analysis Comprehensive XReview Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/analyzing-amds-role-in-shaping-the-future-of-pc-gaming/"><u>Analyzing AMD's Role in Shaping the Future of PC Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-image-blurriness-for-better-far-cry-play/"><u>Correcting Image Blurriness for Better Far Cry Play</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expert-strategies-for-seamless-green-screening-in-kinemaster/"><u>Expert Strategies for Seamless Green Screening in KineMaster</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-stop-your-screens-flashing/"><u>Troubleshooting: Stop Your Screen's Flashing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-resolution-too-large/"><u>Window's 11 Resolution Too Large</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-breathtaking-bounds-of-2022-skaters/"><u>[Updated] Breathtaking Bounds of 2022 Skaters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-twitch-time-warp-strategies/"><u>2024 Approved Twitch Time Warp Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-faded-lenovo-monitor-issues/"><u>Addressing Faded Lenovo Monitor Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-k70-setup-freshly-updated-softwares-and-drivers/"><u>Corsair K70 Setup: Freshly Updated Softwares and Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-best-artificial-intelligence-programs-for-video-scaling/"><u>Discover the Best Artificial Intelligence Programs for Video Scaling</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-content-experience-with-win10/"><u>Enhancing Visual Content Experience with Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guides-on-fixing-acer-led-displays/"><u>Guides on Fixing Acer LED Displays</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-n55-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo N55 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-itel-a05s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Itel A05s?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-tapping-into-youtubes-earnings-how-much-do-you-make-from-adsense-per-kv/"><u>In 2024, Tapping Into Youtube's Earnings How Much Do You Make From AdSense Per KV?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-flipped-aspect-ratio-in-display/"><u>Resolving Flipped Aspect Ratio in Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-civ-5-experience-on-computers/"><u>Streamlining Civ 5 Experience on Computers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unique-uses-in-us-uk-english/"><u>Unique Uses in US-UK English</u></a></li>
 </ul></div>
 

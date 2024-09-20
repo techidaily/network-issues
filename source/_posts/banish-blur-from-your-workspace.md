@@ -1,7 +1,7 @@
 ---
 title: Banish Blur From Your Workspace
-date: 2024-09-09T03:25:46.977Z
-updated: 2024-09-14T20:16:40.095Z
+date: 2024-09-19T08:04:10.734Z
+updated: 2024-09-20T08:16:19.987Z
 tags:
   - win11
   - win10
@@ -50,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable Let Windows try to fix apps so they’re not blurry
 
  When you see the blurriness happen to your computer, usually you’ll see a notification popup saying “**Let Windows try to fix apps so they’re not blurry** “. If you see this notification, agree to let Windows fix the blurry issues.
@@ -76,24 +63,17 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Reinstall your graphics card driver
 
@@ -149,6 +129,13 @@ Check if your screen is still blurry.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change DPI scaling settings for your app
 
  A program may look blurry if the DPI for your main display changes. So you can enable Windows to fix the scaling problem for this program. Here’s how to do it:
@@ -158,33 +145,42 @@ Check if your screen is still blurry.
 2. Right click on the application setup file, and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
-6. Click**OK** to save the changes and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
+6. Click**OK** to save the changes and restart your computer.
 
 Check if the blurry problem has been fixed.
 
@@ -210,17 +206,13 @@ Check if the blurry problem has been fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-cod-cold-war-offline-issues-persist/"><u>[FIXED] CoD Cold War - Offline Issues Persist</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-securing-top-quality-pixel-ringtones-where-to-go/"><u>[Updated] In 2024, Securing Top Quality Pixel Ringtones Where to Go?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revolutionary-q500-the-ultimate-4k-bird/"><u>[Updated] Revolutionary Q500 The Ultimate 4K Bird</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-se-2020-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone SE (2020) Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/aerial-shots-quality-test-mi-drone-4k-edition/"><u>Aerial Shots Quality Test - Mi Drone 4K Edition</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-twelve-souths-bookbook-v2-the-innovative-protective-gear-for-your-macbook/"><u>Comprehensive Review of Twelve South's BookBook V2 - The Innovative Protective Gear for Your MacBook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/market-mastery-strategys-first-impressions-for-2024/"><u>Market Mastery Strategy's First Impressions for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-image-precision-win11-fixed/"><u>Optimizing Image Precision: Win11 Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-oscillating-displays-pro-7/"><u>Rectifying Oscillating Displays (Pro 7)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sculpt-satirical-gifs-via-giphy/"><u>Sculpt Satirical Gifs via Giphy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-method-for-opening-advanced-startup-options-on-your-windows-11-system/"><u>Seamless Method for Opening Advanced Startup Options on Your Windows 11 System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrade-your-systems-visual-experience-using-the-latest-intel-gpu-driver-in-w10/"><u>Upgrade Your System's Visual Experience Using the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-quicktweet-clip-iphone-friendly-video-download-tool/"><u>2024 Approved QuickTweet Clip IPhone-Friendly Video Download Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-top-earner-youtube-star-global-leader/"><u>2024 Approved Top Earner YouTube Star - Global Leader</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-printer-access-errors/"><u>Guiding Users Through Printer Access Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-minecraft-play-on-pcs-correcting-driver-errors/"><u>Harmonizing Minecraft Play on PCs, Correcting Driver Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-lexmark-software-update-made-simple/"><u>Speedy Lexmark Software Update Made Simple</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unwinding-playback-hitches-in-latest-windows-installation/"><u>Unwinding Playback Hitches in Latest Windows Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winrts-error-rectified-smooth-sailing-ahead/"><u>WinRTS Error Rectified: Smooth Sailing Ahead</u></a></li>
 </ul></div>
 

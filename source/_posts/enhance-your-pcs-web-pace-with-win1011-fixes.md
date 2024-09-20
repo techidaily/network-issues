@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC's Web Pace with Win10/11 Fixes
-date: 2024-07-12T00:27:21.233Z
-updated: 2024-07-13T00:27:21.233Z
+date: 2024-09-19T11:08:06.088Z
+updated: 2024-09-20T05:03:51.796Z
 tags:
   - win11
   - win10
@@ -86,6 +86,13 @@ Here’s how to do it:
 
  Restart your computer and see if the **Windows 10 Slow Internet** problem has been resolved. If yes, then congrats! If the issue still persists, please move on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Repair system files
 
  Missing, corrupt, or damaged system files may reduce your internet connection speeds. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -132,6 +139,13 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the **Windows logo key** and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click **Yes** when prompted to confirm.
 2. Copy & paste **netsh interface tcp show global** into the window and press**Enter** . Then check if**Receive Window Auto-Tuning Level**  is set to**normal** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b70ff100133c.jpg)
@@ -150,10 +164,33 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Double-click on**Network adapters** \>**your network adapter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7106291012e.jpg)
 3. Click the**Advanced** tab, then click **Large Send Offload V2 (IPv4)** and set the**value** to**Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b71075272c84.jpg)
 4. Click **Large Send Offload V2 (IPv6)**  and set the**value** to**Disabled** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7107f56920e.jpg)
 5. Hopefully, your **Windows 10/11 Slow Internet** issue has been resolved successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Some other modifications
 
@@ -181,8 +218,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,6 +225,20 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-mobile-media-apps-for-high-quality-photographyvideography-for-2024/"><u>[New] Essential Mobile Media Apps for High-Quality Photography/Videography for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-crafting-top-quality-video-content/"><u>[Updated] 2024 Approved The Ultimate Tutorial for Crafting Top-Quality Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-amplify-engagement-unique-ig-questions-for-lives/"><u>2024 Approved Amplify Engagement Unique IG Questions for Lives</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-g24-power-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola G24 Power Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-amds-graphics-setback/"><u>Bypass AMD's Graphics Setback</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-error-rectified-system-stable/"><u>Driver Error Rectified, System Stable</u></a></li>
+<li><a href="https://win-premium.techidaily.com/expert-picks-12-best-tools-and-apps-to-improve-video-quality-including-step-by-step-resolution-editing-guides/"><u>Expert Picks: 12 Best Tools and Apps to Improve Video Quality, Including Step-by-Step Resolution Editing Guides</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sharp-currents-dell-display-flicker-stopped/"><u>Sharp Currents: Dell Display Flicker Stopped</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyrocket-subscribers-and-engagement-top-12-video-promotion-tactics-for-2024/"><u>Skyrocket Subscribers and Engagement - Top 12 Video Promotion Tactics for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-and-amd-detection-driver-issue-now-addressed-fixed/"><u>Windows 10 & AMD: Detection Driver Issue Now Addressed, Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8s-key-to-a-clean-start-safe-mode-and-driver-uninstallation-guide/"><u>Windows 8'S Key to a Clean Start: Safe Mode & Driver Uninstallation Guide</u></a></li>
+</ul></div>
 

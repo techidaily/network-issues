@@ -1,7 +1,7 @@
 ---
 title: Acer Laptop Not Connecting to WiFi [Solved]
-date: 2024-09-14T01:48:15.237Z
-updated: 2024-09-14T21:43:58.699Z
+date: 2024-09-13T10:16:19.126Z
+updated: 2024-09-20T11:51:31.940Z
 tags:
   - win11
   - win10
@@ -90,13 +90,6 @@ If not, don’t panic. There are other solutions.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/802.11n-Wireless-LAN-Card.png)
@@ -117,21 +110,30 @@ Now connect your laptop to Wi-Fi and see if it works properly.
 1. On your keyboard, press the**Windows logo ke** y and**R** at the same time to invoke the Run box. Type**devmgmt.msc** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-409.png)
 2. In Device Manager, double-click**Network adapters** , and right-click on your**wireless network adapter** , and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-410.png)
 3. Click the**Power Management** tab, and uncheck the box next to**Allow the computer to turn off this device to save power** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-411.png)
 4. Restart your laptop.
 
 Now try connecting to Wi-Fi and see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Fix 5: Reset network settings
 
@@ -150,13 +152,6 @@ If the problem remains, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 6: Allow Wi-Fi connections in your antivirus program
 
  Your antivirus program may stop your laptop from connecting to Wi-Fi, so you can temporarily turn off the antivirus program in your computer, and then try to connect to your Wi-Fi.
@@ -167,6 +162,13 @@ Note: be sure to re-enable the antivirus program later on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Fix 7: Manually connect to a wireless network
 
  If the methods above didn’t resolve your issue, you can try connecting to your Wi-Fi manually in your Acer laptop.
@@ -176,25 +178,26 @@ Note: be sure to re-enable the antivirus program later on.
 2. Ensure to choose**View by Small icons** or**View by Large icons** , then click**Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-89.png)
 3. Click**Set up a new connection or network** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-103.png)
 4. Select**Manually connect to a wireless network** , then click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-104.png)
 5. Enter the required information for your Wi-Fi, including**Network name** ,**Security type** , and**Security Key** . Be sure to check the box next to**Start this connection automatically** , then click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-105.png)
 6. Follow the on-screen instructions to finish the process.
@@ -224,21 +227,21 @@ Then your Acer laptop should be able to connect to wireless networks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-windows-11-wi-fi-not-showing-up/"><u>[CORRECTED] Windows 11 Wi-Fi Not Showing Up</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-3-must-know-methods-to-record-on-your-ipad-for-2024/"><u>[Updated] 3 Must-Know Methods to Record on Your iPad for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-cinematic-art-with-top-ten-professional-tools/"><u>[Updated] Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6s-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6s Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-windows-11-fatal-errors-for-radeon-r9/"><u>Conquering Windows 11 Fatal Errors for Radeon R9</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dark-displays-post-driver-implementation/"><u>Dark Displays Post-Driver Implementation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-working-state-for-non-supported-freesync/"><u>Enabling Working State for Non-Supported FreeSync</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-duet-on-tiktok/"><u>How to Duet on TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-notifications-not-working-on-windows/"><u>How to Fix Outlook Notifications Not Working on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/igtv-deactivation-methods/"><u>IGTV Deactivation Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/initializing-failure-in-d3d-now-functional/"><u>Initializing Failure in D3D, Now Functional</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives-for-2024/"><u>Leveraging FB Platforms for Public Health Initiatives for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pc-enlightenment-eradicate-fallout-4-crashes/"><u>PC Enlightenment: Eradicate Fallout 4 Crashes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlocking-potential-on-win10-latest-amd-radeon-hd-6950-driver-release/"><u>Unlocking Potential on Win10: Latest AMD Radeon HD 6950 Driver Release</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>[New] 2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-obs-studio-wizards-top-5-secrets-to-unmatched-quality/"><u>[New] In 2024, OBS Studio Wizards Top 5 Secrets to Unmatched Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleashing-creativity-writing-scripts-for-youtube-content-excellence/"><u>[New] Unleashing Creativity Writing Scripts for YouTube Content Excellence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-bsod-on-windows-os/"><u>[Resolved] dxgkrnl.sys BSOD on Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>[Updated] In 2024, Quick Correction Quest How to Skillfully Edit Images on WIN10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>2024 Approved Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-method-to-align-display-angles/"><u>Direct Method to Align Display Angles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-c1900101-a-guide-to-smooth-windows-11-setup/"><u>Fixing C1900101: A Guide to Smooth Windows 11 Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-safely-procure-pure-photography-collections/"><u>How to Safely Procure Pure Photography Collections</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-tech-review-magix-vpx-redefines-editing/"><u>In 2024, Transformative Tech Review Magix VPX Redefines Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-2024-your-pathway-to-fixed-up-zoom-cameras/"><u>Navigating 2024: Your Pathway to Fixed-Up Zoom Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/operational-update-troubled-obs-camera/"><u>Operational Update Troubled OBS Camera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedies-for-resolving-acer-monitor-ripples/"><u>Remedies for Resolving Acer Monitor Ripples</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-concealed-cause-behind-dx-faux-pas-in-legends/"><u>Revealing Concealed Cause Behind DX Faux Pas in Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-monitor-stuttering-in-pcs/"><u>Stop Monitor Stuttering in PCs</u></a></li>
 </ul></div>
 

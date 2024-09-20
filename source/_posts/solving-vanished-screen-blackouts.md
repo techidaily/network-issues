@@ -1,7 +1,7 @@
 ---
 title: Solving Vanished Screen Blackouts
-date: 2024-09-09T22:33:36.613Z
-updated: 2024-09-14T23:53:09.242Z
+date: 2024-09-14T16:04:09.117Z
+updated: 2024-09-20T07:17:33.358Z
 tags:
   - win11
   - win10
@@ -91,15 +91,16 @@ Here’s how you go about it:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-4. Restart your computer for the changes to take effect.
-5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Restart your computer for the changes to take effect.
+5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
 ### Fix 4: Clear cache and cookies
 
@@ -121,20 +122,35 @@ Here’s how you go about it:
 2. Click**the menu button** \>**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
 
@@ -156,16 +172,17 @@ Here’s how you go about it:
 2. Click the three-vertical-dots icon, then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-3.png)
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
@@ -178,26 +195,13 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
@@ -226,14 +230,14 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-to-submillion-territory-on-youtube/"><u>2024 Approved Navigating to Submillion Territory on YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-razr-40-ultra-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974762276-elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-roccat-mouse-driver-free-installation-guide/"><u>Get Roccat Mouse Driver - Free Installation Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-compatibility-secured/"><u>Hardware Compatibility Secured</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-increase-of-crypto-on-fb-and-ig-ads/"><u>Navigating the Increase of Crypto on FB & IG Ads</u></a></li>
-<li><a href="https://network-issues.techidaily.com/racing-through-internet-speed-on-windows-xp7/"><u>Racing Through Internet Speed on Windows XP/7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strengthening-system-requirements-for-drivers-success/"><u>Strengthening System Requirements for Drivers' Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-breaking-the-internet-with-these-hysterical-stickers/"><u>[Updated] Breaking the Internet with These Hysterical Stickers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-video-experience-best-tools-to-upgrade-your-downloads/"><u>[Updated] In 2024, Premium Video Experience Best Tools to Upgrade Your Downloads</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-online-presence-with-innovative-cookiebot-solutions/"><u>Boost Your Online Presence with Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launching-a-vlog-top-kit-and-applications-for-2024/"><u>Launching a Vlog Top Kit & Applications for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-troubleshooting-steps-when-your-amd-gpu-is-unrecognized-in-windows-10/"><u>Resolved: Troubleshooting Steps When Your AMD GPU Is Unrecognized in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-bsod-issues-caused-by-wdf-violations-on-various-versions-of-windows/"><u>Resolving BSoD Issues Caused by WDF Violations on Various Versions of Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvstream-user-agent-exe-issues-in-windows-a-comprehensive-guide/"><u>Resolving NVStream User Agent Exe Issues in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-comprehensive-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Comprehensive Guide</u></a></li>
 </ul></div>
 

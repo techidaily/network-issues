@@ -1,7 +1,7 @@
 ---
 title: Tap Out Lags, Not Bugs
-date: 2024-09-13T19:15:55.775Z
-updated: 2024-09-14T16:24:53.539Z
+date: 2024-09-17T19:54:31.351Z
+updated: 2024-09-19T22:50:09.783Z
 tags:
   - win11
   - win10
@@ -135,19 +135,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
  If the Anthem lag problem still persists after you’ve tried the fixes above, then you might have to check if your system meets the system requirements for the game. Here’s an official list of **the minimum requirements and the recommended requirements for Anthem** :
@@ -168,13 +155,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -187,30 +167,38 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -237,19 +225,15 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-graphic-portrayal-of-future-social-momentum-for-2024/"><u>[Updated] Graphic Portrayal of Future Social Momentum for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-solo-scrutiny-an-examination-of-3dr-printers-for-2024/"><u>[Updated] Solo Scrutiny An Examination of '3DR' Printers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-macos-11-big-sur-enhancements/"><u>2024 Approved Unveiling the Secrets of macOS 11 Big Sur Enhancements</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-game-changer-in-productivity-expert-analysis-of-apples-10cuinch-7th-gen-ipad-running-ipados/"><u>A Game Changer in Productivity: Expert Analysis of Apple's 10.cuinch (7Th Gen) iPad Running iPadOS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/industrial-grade-secure-data-clearance-get-insight-into-bitrasers-erasure-suite-for-enterprises/"><u>Industrial-Grade Secure Data Clearance: Get Insight Into BitRaser’s Erasure Suite for Enterprises</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-possible-vulnerabilities-is-chnagpt-safe-to-employ/"><u>Unveiling Possible Vulnerabilities: Is Chnagpt Safe to Employ?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/why-is-my-iphone-lagging-uncover-the-6-main-issues-and-remedies/"><u>Why Is My iPhone Lagging? Uncover the 6 Main Issues & Remedies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-shortening-videos-for-instagram-mac-for-2024/"><u>[Updated] Mastering the Art of Shortening Videos for Instagram (Mac) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-screen-effects-3-simple-shifting-methods/"><u>[Updated] Seamless Screen Effects 3 Simple Shifting Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-interactive-photography-sharing-immersive-360-photos-via-mobile-devices/"><u>2024 Approved Interactive Photography Sharing Immersive 360 Photos via Mobile Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974376087-fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-100-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974868416-lenovo-tap-issue-now-solved/"><u>Lenovo Tap Issue, Now Solved!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/oka-upplosningen-pa-ditt-bildmaterial-med-sista-metoderna-satt-6-och-se-skandalen-utbrekas/"><u>Öka Upplösningen På Ditt Bildmaterial Med Sista Metoderna! Sätt 6 Och Se Skandalen Utbrekas!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selective-soundscape-picks-for-video-editors/"><u>Selective Soundscape Picks for Video Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-fabric-of-future-cutting-edge-vr-technology-for-2024/"><u>The Fabric of Future Cutting-Edge VR Technology for 2024</u></a></li>
 </ul></div>
 

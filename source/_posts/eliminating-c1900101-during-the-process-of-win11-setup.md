@@ -1,7 +1,7 @@
 ---
 title: Eliminating C1900101 During the Process of Win11 Setup
-date: 2024-07-12T00:23:42.091Z
-updated: 2024-07-13T00:23:42.091Z
+date: 2024-09-19T01:09:25.148Z
+updated: 2024-09-20T07:34:19.269Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
@@ -76,6 +83,13 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
@@ -86,11 +100,25 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Run SFC/ DISM tools
 
 In some cases, the 0xC1900101 error could mean that your system files are somehow corrupted or broken, and the code is there to remind you that you may need to revert your PC to a more stable stage before you do the system upgrade or update. To fix it: 1) On your keyboard, press the**Windows logo key**. Type**cmd**in the search box. Right-click**Command Prompt**and click**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
@@ -108,6 +136,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 6: Update BIOS
 
 If you have tried all the methods above but the problem remains unsolved, it’s time for you to consider updating your BIOS. If you’re not sure how to do that, go to the manufacturer website of your computer and search for the specific instructions. To avoid any unwanted issues to your computer, you should always go to the manufacturer website for your PC to get your BIOS updated. Please DO NOT download BIOS from any third-party websites or products.
@@ -122,8 +157,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +164,16 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/alternate-fix-added-missing-amd-graphics-for-windows-10/"><u>[ALTERNATE FIX] Added Missing AMD Graphics for Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hortle-chronicles-recording-7-amusing-video-adventures/"><u>[New] Chortle Chronicles Recording 7 Amusing Video Adventures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-image-full-screen-webpage/"><u>[Updated] Image Full-Screen Webpage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-initiate-your-facebook-analysis-journey/"><u>[Updated] Initiate Your Facebook Analysis Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-skies-on-the-ground-advanced-fps-enhancement-methods-for-war-thunder-gamers/"><u>Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/experts-speak-up-immediate-fixes-for-zoom-cameras-in-trouble/"><u>Experts Speak Up! Immediate Fixes for Zoom Cameras in Trouble</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-s23-tactical-edition-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy S23 Tactical Edition to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eradicate-lenovo-screen-flashes/"><u>Steps to Eradicate Lenovo Screen Flashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-insiders-guide-to-professional-gif-creation-for-2024/"><u>The Insider's Guide to Professional GIF Creation for 2024</u></a></li>
+</ul></div>
 

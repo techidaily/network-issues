@@ -1,7 +1,7 @@
 ---
 title: Curing Black Displays on Laptop Monitors
-date: 2024-07-12T00:28:43.674Z
-updated: 2024-07-13T00:28:43.674Z
+date: 2024-09-15T22:38:44.879Z
+updated: 2024-09-19T21:12:37.009Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
@@ -76,6 +83,13 @@ If none of the methods above could help you, your issue may be a hardware proble
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Restore your system from a restore point
 
@@ -87,6 +101,13 @@ On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
@@ -94,6 +115,13 @@ And then in the dialog popping up, click the**System Restore**button.
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Update your device driver
 
@@ -116,8 +144,6 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,6 +151,20 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/driver-resolved-installed-missing-graphics-adapter-in-win10/"><u>[DRIVER RESOLVED] Installed Missing Graphics Adapter in Win10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>[New] 2024 Approved Battle of Broadcasting Is OBS or Twitch Studio Superior?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-harmonizing-visuals-and-sounds-with-canvas-audio-features/"><u>[New] 2024 Approved Harmonizing Visuals & Sounds with Canva's Audio Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-can-you-view-all-shared-videos-and-photos-on-messenger-for-2024/"><u>[Updated] How Can You View All Shared Videos And Photos on Messenger for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-10-volume-magnifiers-for-windowsmacos/"><u>[Updated] In 2024, Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disabling-gpu-directly-in-system-properties-on-windows/"><u>Disabling GPU Directly in System Properties on WIndows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-virtual-realities-with-up-to-date-android-tips/"><u>Dive Into Virtual Realities with Up-to-Date Android Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4-peace-eradicate-pc-crashes/"><u>Fallout 4 Peace: Eradicate PC Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hdmi-breakdown-laptop-affected-by-tv/"><u>HDMI Breakdown: Laptop Affected by TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-refresh-lenovos-docking-station-with-newest-drivers/"><u>How to Successfully Refresh Lenovo's Docking Station with Newest Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-behind-the-scenes-look-at-podcaster-income/"><u>In 2024, Behind-the-Scenes Look at Podcaster Income</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y56-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-darkness-from-win11-screenscape/"><u>Removing Darkness From Win11 Screenscape</u></a></li>
+</ul></div>
 

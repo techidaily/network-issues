@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Civ 5 Freezes on Computer
-date: 2024-09-08T03:14:41.111Z
-updated: 2024-09-14T16:29:24.646Z
+date: 2024-09-18T00:19:42.194Z
+updated: 2024-09-20T08:11:06.713Z
 tags:
   - win11
   - win10
@@ -73,16 +73,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
@@ -92,16 +86,10 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
@@ -129,16 +117,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-basic-to-brilliant-the-ultimate-snapchat-filter-journey/"><u>[New] 2024 Approved From Basic to Brilliant The Ultimate Snapchat Filter Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-strategies-for-designing-youtube-video-flow/"><u>[New] In 2024, Strategies for Designing YouTube Video Flow</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war/"><u>[Updated] 2024 Approved Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-virtual-collaboration-recording-techniques-for-gotomeet-for-2024/"><u>[Updated] Enhancing Virtual Collaboration Recording Techniques for GoToMeet for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-graphics-card-not-showing-in-device-manager-solved/"><u>NVIDIA Graphics Card Not Showing in Device Manager [Solved]</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/optimal-strategies-for-livestream-sports-recording/"><u>Optimal Strategies for Livestream Sports Recording</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-incompatible-graphics-device-in-windows/"><u>Rectified Incompatible Graphics Device in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resurrecting-non-pivoting-gpu-fans/"><u>Resurrecting Non-Pivoting GPU Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/xfx-driver-recovered-from-halt-state/"><u>XFX Driver Recovered From Halt State</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-deletion-explained-how-to-ensure-total-removal-of-your-account/"><u>Yahoo Mail Deletion Explained: How To Ensure Total Removal of Your Account</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-after-effects-essentials-compact-no-cost-bundle/"><u>[New] Premium After Effects Essentials Compact, No-Cost Bundle</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-primary-screening-footage-study-and-off-the-cuff-selections-for-2024/"><u>[New] Primary Screening Footage Study and Off-the-Cuff Selections for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-command-and-conquer-4-launch-fail-xbox-error/"><u>[RESOLVED] Command & Conquer 4 Launch Fail - Xbox Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amds-radeon-hd-6950-drivers-refreshed-boost-windows-11-graphics/"><u>AMD's Radeon HD 6950 Drivers Refreshed, Boost Windows 11 Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-call-of-duty-ww2-error-code-4128-problems/"><u>Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-operating-chatgpt-seamlessly-on-a-mac/"><u>Harness the Power of AI: Operating ChatGPT Seamlessly on a Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-13-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 13 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-critical-setup-error-c1900101-on-win10/"><u>How to Fix Critical Setup Error C1900101 on Win10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-windows-10-protips-the-ultimate-quick-reference/"><u>In 2024, Windows 10 Protips The Ultimate Quick Reference</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-the-art-of-youtube-thumbnails-in-minutes-for-2024/"><u>Master the Art of YouTube Thumbnails in Minutes for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-screen-space-on-windows-11-devices/"><u>Optimizing Screen Space on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-activating-your-bluetooth-device-on-windows-11-and-windows-10/"><u>Step-by-Step Tutorial: Activating Your Bluetooth Device on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ui-interrupt-in-windows-graphics-awaiting-fix/"><u>UI Interrupt in Windows Graphics (Awaiting Fix)</u></a></li>
 </ul></div>
 

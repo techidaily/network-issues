@@ -1,7 +1,7 @@
 ---
 title: Addressing Disconnection Issues in FreeSync Systems
-date: 2024-07-12T00:25:48.916Z
-updated: 2024-07-13T00:25:48.916Z
+date: 2024-09-19T00:03:19.737Z
+updated: 2024-09-19T20:57:43.403Z
 tags:
   - win11
   - win10
@@ -95,6 +95,13 @@ If the problem persists, take a look at the next fix.
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Check for Windows update
 
  You also need to make sure you have the latest patches for your system. Normally this is done automatically by your system, but you can also check if you’re missing any feature updates.
@@ -104,6 +111,14 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -126,6 +141,13 @@ Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Configure the default GPU
 
  If your PC has dual GPUs, say an integrated one comes with the CPU and a dedicated one, you might need to**specify the default GPU for your program** . Since FreeSync is currently only compatible with AMD GPUs, besides connecting the monitor to an AMD graphics card, you can also configure the default GPU for the program.
@@ -135,8 +157,24 @@ If this doesn’t help, you can continue to the next method.
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the program/game launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
@@ -154,8 +192,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +199,22 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-navigate-youtube-gaming-success-with-right-tags/"><u>[New] Navigate YouTube Gaming Success with Right Tags</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>2024 Approved From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>2024 Approved Mastering Voice-to-Text Conversion in MS Word A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-amds-graphics-bug-tarkov/"><u>Beat AMD's Graphics Bug, Tarkov</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-changes-cause-onyx-outcome/"><u>Card Changes Cause Onyx Outcome</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-12-discontinued-hunter-realm-saved/"><u>Error 12 Discontinued, Hunter Realm Saved</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/flashstoppage-instant-video-quit-guide/"><u>FlashStoppage Instant Video Quit Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-navigating-youtubes-economy-a-guide-to-video-revenue-generation/"><u>In 2024, Navigating YouTube's Economy A Guide to Video Revenue Generation</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unlimited-free-face-creation-top-online-resources/"><u>New In 2024, Unlimited Free Face Creation Top Online Resources</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/outdoor-video-equipment-guide/"><u>Outdoor Video Equipment Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-media-on-upgraded-windows-operating-system/"><u>Streamlining Media on Upgraded Windows Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-asus-cam/"><u>Troubleshooting Non-Functional Asus Cam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-correcting-authentication-issues-for-a-secure-connection/"><u>Understanding and Correcting Authentication Issues for a Secure Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-full-internet-potential-external-wi-fi-card-installation-guide/"><u>Unlock Full Internet Potential: External Wi-Fi Card Installation Guide</u></a></li>
+</ul></div>
 

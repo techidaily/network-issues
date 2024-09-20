@@ -1,7 +1,7 @@
 ---
 title: "Tackling Anthem Lags: Quick Solutions"
-date: 2024-07-12T00:27:05.945Z
-updated: 2024-07-13T00:27:05.945Z
+date: 2024-09-14T11:45:09.834Z
+updated: 2024-09-20T01:06:07.010Z
 tags:
   - win11
   - win10
@@ -155,9 +155,23 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -179,6 +193,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Click**OK** to exit.
 
 10) Hopefully the lagging issues in Anthem has been solved.
@@ -195,8 +216,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +223,18 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-iphone-image-editing-mastering-photo-cropping-tools-for-2024/"><u>[New] IPhone Image Editing Mastering Photo Cropping Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-free-subtitle-mastery-selecting-the-top-10-online-apps/"><u>[Updated] 2024 Approved Free Subtitle Mastery Selecting the Top 10 Online Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-see-clearly-now-the-leading-online-tools-for-flawless-photos-for-2024/"><u>[Updated] See Clearly Now The Leading Online Tools for Flawless Photos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-flawless-gameplay-updating-the-right-graphics-card-driver-for-fix-forza-horizon-5/"><u>Achieve Flawless Gameplay: Updating the Right Graphics Card Driver for Fix Forza Horizon 5</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-visuals-and-high-quality-screen-win10-solution/"><u>Clear Visuals & High-Quality Screen - Win10 Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-implement-broadband-in-household-entertainment-systems/"><u>Comprehensive Strategies to Implement Broadband in Household Entertainment Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/computer-upgrades-to-meet-intel-software-minimums/"><u>Computer Upgrades to Meet Intel Software Minimums</u></a></li>
+<li><a href="https://network-issues.techidaily.com/experience-vivid-graphics-with-a-simple-update-to-intel-hd-graphics-3000/"><u>Experience Vivid Graphics with a Simple Update to Intel HD Graphics 3000</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-change-your-audio-file-from-aac-to-mp4-with-movavi/"><u>Free Online Conversion: Change Your Audio File From AAC to MP4 with Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-best-of-the-best-20-hilarious-incarceration-posts-to-brighten-your-digital-world/"><u>In 2024, Best of the Best - 20 Hilarious Incarceration Posts to Brighten Your Digital World</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-c1900101-error-on-10th-edition/"><u>Remedying C1900101 Error on 10Th Edition</u></a></li>
+</ul></div>
 

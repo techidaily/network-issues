@@ -1,7 +1,7 @@
 ---
 title: Swift Fix for Sims 4 Blackout
-date: 2024-07-12T00:27:04.868Z
-updated: 2024-07-13T00:27:04.868Z
+date: 2024-09-18T16:29:14.401Z
+updated: 2024-09-19T18:08:44.832Z
 tags:
   - win11
   - win10
@@ -123,6 +123,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -134,6 +141,13 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -154,6 +168,13 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
@@ -161,6 +182,13 @@ Here is how to check if your computer spec has met the requirements:
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -178,8 +206,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +213,22 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-introduction-to-stories-essence-and-art/"><u>[New] In 2024, Introduction to Stories' Essence and Art</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates-for-2024/"><u>[New] The Secrets to Stellar TikTok Creation with Ingenious Templates for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-skald-rage-new-age-of-might-for-2024/"><u>[Updated] Skald Rage New Age of Might for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>2024 Approved 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-screen-flashing-issue-on-win11-resolved/"><u>Clear: Screen Flashing Issue on Win11 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-monitor-refresh-rate-glitches/"><u>Combat Monitor Refresh Rate Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initiation-hiccup-fixed-now/"><u>Direct3D Initiation Hiccup, Fixed Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispel-sims-4-no-signage-mistakes/"><u>Dispel Sims 4 No-Signage Mistakes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-implement-wi-fi-expansion-device-for-computer-systems/"><u>Effortlessly Implement Wi-Fi Expansion Device for Computer Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-stuck-screen-orientation-on-ios-devices-quick-guide/"><u>Fixing Stuck Screen Orientation on iOS Devices - Quick Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-insufficient-specs-a-driver-installation-guide/"><u>Navigating Insufficient Specs: A Driver Installation Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/registration-and-login-virbo-ai-live-stream/"><u>Registration and Login | Virbo AI Live Stream</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/should-your-portable-computer-come-with-separate-graphic-chips-for-enhanced-performance/"><u>Should Your Portable Computer Come with Separate Graphic Chips for Enhanced Performance?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-guide-fixing-issues-with-non-functional-subtitles-on-amazon-prime-video/"><u>Troubleshooting Guide: Fixing Issues with Non-Functional Subtitles on Amazon Prime Video</u></a></li>
+</ul></div>
 

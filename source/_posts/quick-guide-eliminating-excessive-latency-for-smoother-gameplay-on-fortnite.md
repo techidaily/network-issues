@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite"
-date: 2024-09-09T05:18:41.242Z
-updated: 2024-09-15T05:28:25.080Z
+date: 2024-09-16T20:22:25.610Z
+updated: 2024-09-20T05:22:09.153Z
 tags:
   - win11
   - win10
@@ -56,19 +56,6 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -79,14 +66,14 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -108,25 +95,20 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
 
@@ -139,16 +121,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
@@ -156,10 +132,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
@@ -179,6 +155,19 @@ If not, you may need to check if it is a server issue.
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -218,20 +207,16 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[Updated] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked ZTE Nubia Z60 Ultra Phone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blending-tech-geforce-98-plus-windows-seamlessness/"><u>Blending Tech: GeForce 98 + Windows Seamlessness</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-s23-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Itel S23</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-zero-to-ten-in-russian-counting/"><u>From Zero to Ten in Russian Counting</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/network-instability-unveiled/"><u>Network Instability Unveiled</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-4k-video-collection-must-watch-clips/"><u>New 2024 Approved The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-window-10-resolution/"><u>Optimize Window 10 Resolution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-asus-rog-phone-8-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Asus ROG Phone 8 Pro has been deleted</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revived-adventure-monster-hunt-error-cleared/"><u>Revived Adventure: Monster Hunt Error Cleared</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-black-screen-after-driver-install/"><u>Silent Black Screen After Driver Install</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-hardware-issue-resolved-immediately/"><u>Video Hardware Issue Resolved Immediately</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-enhance-screen-definition-settings/"><u>Windows 11: Enhance Screen Definition Settings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leveraging-googles-board-tools-for-smooth-online-engagement-on-all-platforms/"><u>[New] Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-advanced-strategies-to-transform-your-snaps-into-boomers/"><u>[Updated] 2024 Approved Advanced Strategies to Transform Your Snaps Into Boomers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-empowering-productivity-gratuitous-clock-use/"><u>[Updated] 2024 Approved Empowering Productivity Gratuitous Clock Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools/"><u>[Updated] IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-installation-steps-adding-compatible-wi-fi-adapter-on-computers/"><u>Direct Installation Steps: Adding Compatible Wi-Fi Adapter on Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-switchable-graphic-performance-on-latest-windows-11/"><u>Mastering Switchable Graphic Performance on Latest Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-evil-genius-2-quiet-conundrum-restore-game-sounds-effectively/"><u>Solve Your 'Evil Genius 2' Quiet Conundrum - Restore Game Sounds Effectively</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-c1900101-error-during-installation/"><u>Solving C1900101 Error During Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-problems-creators-upgrade/"><u>Win11 Display Problems: Creators Upgrade</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Spartan' Written: Perfection Pursued"
-date: 2024-09-14T07:17:57.973Z
-updated: 2024-09-14T22:33:44.187Z
+date: 2024-09-18T07:41:53.898Z
+updated: 2024-09-19T23:03:22.155Z
 tags:
   - win11
   - win10
@@ -68,23 +68,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
 If this doesn’t fix the problem, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for system updates
 
@@ -95,26 +89,26 @@ If this doesn’t fix the problem, take a look at the next fix.
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -128,21 +122,16 @@ If the latest updates don’t work for you, try the next method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -166,16 +155,14 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-10-premier-choices-for-no-cost-screen-recording-tools/"><u>[New] 10 Premier Choices for No-Cost Screen Recording Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-keep-your-snaps-alive-strategies-for-longevity-for-2024/"><u>[Updated] Keep Your Snaps Alive – Strategies for Longevity for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] Mastering Content Capture 5 Must-Have Social Apps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dimming-dilemma-dispersed-in-portable-unit/"><u>Dimming Dilemma Dispersed in Portable Unit</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-gt-s50-setup-wizard-compatible-drivers-for-windows-operating-systems-7-8-and-10/"><u>Epson GT-S50 Setup Wizard: Compatible Drivers for Windows Operating Systems (7, 8 & 10)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-audio-recording-gear-for-idevices-for-2024/"><u>Essential Audio Recording Gear for iDevices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-stills-to-movement-mastery-with-polaroids-latest-tech/"><u>In 2024, From Stills to Movement Mastery with Polaroid's Latest Tech</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-game-capture-a-guide-to-using-obs/"><u>Mastering Game Capture A Guide to Using OBS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-through-troubleshooting-sync-issues/"><u>Navigate Through Troubleshooting Sync Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-intel-graphics-update-in-windows-7-pros-and-tips/"><u>Seamless Intel Graphics Update in Windows 7 Pros & Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-premium-iphone-se-casings-reviewed/"><u>Ultimate Selection: Premium iPhone SE Casings Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-bridging-the-gap-between-simple-to-high-tech-hdr-techniques/"><u>[New] 2024 Approved Bridging the Gap Between Simple to High-Tech HDR Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-pixels-selecting-cameras-for-quality-slow-videos/"><u>[New] Prime Pixels Selecting Cameras for Quality Slow Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-innovating-content-the-marketers-choice-of-top-10-ig-editing-tools/"><u>[Updated] 2024 Approved Innovating Content The Marketer's Choice of Top 10 IG Editing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-color-connoisseurs-compendium-theory-and-technique-for-2024/"><u>[Updated] Color Connoisseur's Compendium Theory & Technique for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-quick-filming-techniques-your-5-best-home-hacks-list/"><u>2024 Approved Unlock Quick Filming Techniques – Your 5 Best Home Hacks List</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-4k-high-resolution-video-standards/"><u>Deciphering 4K High-Resolution Video Standards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974661693-optimize-system-visuals-effortlessly-by-updating-the-intel-graphics-3000-driver-in-w10/"><u>Optimize System Visuals Effortlessly by Updating the Intel Graphics 3000 Driver in W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wireless-fix-atheros-adapter-in-windows-10/"><u>Qualcomm Wireless Fix: Atheros Adapter in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-your-cameras-full-potential-with-our-fixed-up-guide/"><u>Unlock Your Camera's Full Potential with Our Fixed-Up Guide</u></a></li>
 </ul></div>
 

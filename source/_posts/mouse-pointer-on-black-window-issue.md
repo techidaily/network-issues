@@ -1,7 +1,7 @@
 ---
 title: Mouse Pointer On Black Window Issue
-date: 2024-07-12T00:25:21.133Z
-updated: 2024-07-13T00:25:21.133Z
+date: 2024-09-14T07:35:45.900Z
+updated: 2024-09-19T21:09:15.516Z
 tags:
   - win11
   - win10
@@ -83,10 +83,32 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -108,6 +130,13 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
@@ -196,9 +225,24 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -210,8 +254,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +261,21 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/nleash-your-creativity-anywhere-anyplace-these-6-best-free-online-platforms-for-youtube-short-video-downloading/"><u>[New] Unleash Your Creativity Anywhere, Anyplace These 6 Best Free, Online Platforms for YouTube Short Video Downloading</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causing-winbsod-error/"><u>[Resolved] dxgkrnl.sys Causing WinBSOD Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bronze-blessings-god-of-war-boost/"><u>Bronze Blessings: God of War Boost</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-switchable-graphics-error-with-intel-and-nvidia-on-win10/"><u>Eliminating Switchable Graphics Error with Intel & Nvidia on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/examining-amds-innovation-and-its-effect-on-gaming-hardware-sales/"><u>Examining AMD's Innovation and Its Effect on Gaming Hardware Sales</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-overwatch-failed-to-connect-to-server-error/"><u>How to Fix Overwatch Failed to Connect to Server Error</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-find-n3-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Find N3 Phone that is Locked?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-filmmaking-choose-the-best-6-action-cameras/"><u>In 2024, Budget-Friendly Filmmaking Choose the Best 6 Action Cameras</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-blank-pages-on-active-epson/"><u>No More Blank Pages on Active Epson</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-simple-sound-shifts-in-pubg/"><u>Pioneering Simple Sound Shifts in PUBG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-free-ways-catch-your-favorite-shows-on-the-roku-channel-using-other-gadgets/"><u>Roku-Free Ways: Catch Your Favorite Shows On the Roku Channel Using Other Gadgets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solutions-resolving-game-crashes-in-grand-theft-auto-v/"><u>Ultimate Solutions: Resolving Game Crashes in Grand Theft Auto V</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974205145-upgrade-your-systems-graphical-capability-with-intel-graphics-3000-on-windows-10-easily/"><u>Upgrade Your System's Graphical Capability with Intel Graphics 3000 on Windows 10 Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-dark-display-fix-guide/"><u>Win11 Dark Display, Fix Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminating Visual Glitches From Far Cry 6 Gameplay
-date: 2024-09-10T20:50:34.468Z
-updated: 2024-09-15T00:38:15.880Z
+date: 2024-09-14T02:19:06.493Z
+updated: 2024-09-20T10:05:01.230Z
 tags:
   - win11
   - win10
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -88,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -105,6 +105,13 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -112,6 +119,13 @@ If this doesn’t help, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn on high graphics performance setting for the game
 
@@ -123,38 +137,18 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
@@ -167,15 +161,16 @@ If this doesn’t help, there’s one more fix you can try.
 3. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
-5. Click**Delete Files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
+5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
@@ -201,14 +196,20 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-excellent-free-cam-snipping-software/"><u>[New] Excellent Free Cam Snipping Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views-for-2024/"><u>[Updated] Boosting YouTube Traffic Perfecting Titles & Tags for Max Views for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-rewind-the-recordings-streamlined-playlist-reversal/"><u>[Updated] Rewind the Recordings Streamlined Playlist Reversal</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-the-most-advanced-tracking-running-wristbands-of-2024/"><u>Discover the Most Advanced Tracking Running Wristbands of 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro-for-2024/"><u>Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-and-easy-tips-for-creating-insta-groups-for-2024/"><u>Quick & Easy Tips for Creating Insta Groups for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-magic-v2-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor Magic V2 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-monoprices-value-graphic-pen-display-quality-meets-affordability/"><u>Unveiling Monoprice's Value Graphic Pen Display – Quality Meets Affordability</u></a></li>
-<li><a href="https://network-issues.techidaily.com/your-comprehensive-guide-to-tablet-buying-by-assessing-display-area-and-portable-design/"><u>Your Comprehensive Guide to Tablet Buying by Assessing Display Area and Portable Design</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-social-to-storage-iphone-and-android-gif-savings-for-2024/"><u>[New] From Social to Storage IPhone & Android GIF Savings for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-enabling-offline-playback-for-cod-cold-war/"><u>[RESOLVED] Enabling Offline Playback for CoD Cold War</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-monochrome-to-masterpiece-pro-photo-hue-harmony/"><u>2024 Approved From Monochrome to Masterpiece Pro Photo Hue Harmony</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>2024 Approved Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y02t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y02T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
+<li><a href="https://facebook.techidaily.com/ensuring-accurate-health-info-in-the-age-of-viral-data/"><u>Ensuring Accurate Health Info in the Age of Viral Data</u></a></li>
+<li><a href="https://article-tips.techidaily.com/extensive-breakdown-what-the-google-podcast-app-means-for-you/"><u>Extensive Breakdown What the Google Podcast App Means for You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962324585-get-your-hand-on-the-roccat-mouse-driver-now-available/"><u>Get Your Hand on the Roccat Mouse Driver - Now Available!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-qualcomm-wifi-atheros-on-win10-os/"><u>Harmonizing Qualcomm WiFi - Atheros on Win10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/righted-view-laptop-screenset-corrected/"><u>Righted View: Laptop Screenset Corrected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategic-approach-eradicate-screen-lines-in-computers-and-notebooks/"><u>Strategic Approach: Eradicate Screen Lines in Computers and Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vr-lingo-master-new-tongues-flawlessly/"><u>VR Lingo: Master New Tongues Flawlessly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/weve-handpicked-some-of-the-best-online-reverse-video-makers-in-this-article-to-help-you-make-creative-and-inspiring-reverse-videos-online/"><u>Weve Handpicked some of the Best Online Reverse Video Makers in This Article to Help You Make Creative and Inspiring Reverse Videos Online</u></a></li>
 </ul></div>
 

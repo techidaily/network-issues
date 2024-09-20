@@ -1,7 +1,7 @@
 ---
 title: Resolving Persistent Monitor Blankouts
-date: 2024-09-09T00:58:34.906Z
-updated: 2024-09-15T00:50:04.977Z
+date: 2024-09-19T04:18:42.843Z
+updated: 2024-09-19T23:53:31.778Z
 tags:
   - win11
   - win10
@@ -68,10 +68,10 @@ To do so:
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST**) and click**Disable all** . After that, click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
@@ -79,10 +79,10 @@ To do so:
 6. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -91,42 +91,43 @@ To do so:
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox**) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 12. Check to see if your flickering issue occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
  If there’s any service that causes your monitor flickering issues, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 17. Check to see if your flickering issue occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
  If there’s any startup item that causes the flickering issue, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Check for hardware issues
 
@@ -150,19 +151,20 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-premier-ios-tools-replicating-ps2-games-for-2024/"><u>[New] Premier iOS Tools Replicating PS2 Games for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-replies-enhancing-interaction-on-telegram-platforms/"><u>[New] Revolutionize Replies Enhancing Interaction on Telegram Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-failed-wingdx-protocol/"><u>Addressing Failed WinGDX Protocol</u></a></li>
-<li><a href="https://network-issues.techidaily.com/alleviate-monitor-flaws-and-errors/"><u>Alleviate Monitor Flaws and Errors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-open-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Open by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improved-windows-image-crispness/"><u>Improved: Windows Image Crispness</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-comic-relief-in-the-metaverse-meme-basics-unveiled/"><u>In 2024, Crafting Comic Relief in the Metaverse – Meme Basics Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-highest-quality-ai-voice-to-text-software/"><u>In 2024, Highest Quality AI Voice to Text Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-toms-world-of-innovation-the-ultimate-source-for-hardware-expertise/"><u>Navigate Tom’s World of Innovation | The Ultimate Source for Hardware Expertise 🔧</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/smooth-installation-of-updated-sata-drivers-for-windows-systems-with-simple-directions/"><u>Smooth Installation of Updated SATA Drivers for Windows Systems with Simple Directions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-quelling-acer-screen-phosphor-flashes/"><u>Steps for Quelling Acer Screen Phosphor Flashes</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-v-purse-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor V Purse Reset Code | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-settings-pc/"><u>Unlock Hidden Display Settings, PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-overcoming-disconnect-issues-with-cod-cold-war/"><u>[REPAIRED]: Overcoming Disconnect Issues with CoD Cold War</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensive-screen-capture-manual-by-zd-software/"><u>2024 Approved Comprehensive Screen Capture Manual by ZD Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-heartfelt-gratitude-paidfree-creative-templates/"><u>2024 Approved Heartfelt Gratitude Paid/Free Creative Templates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-fuzzy-imagery-in-ubisofts-far-cry-6-edition/"><u>Addressing Fuzzy Imagery in Ubisoft's Far Cry 6 Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fy-your-imovie-with-youtube-audio-streams/"><u>Amplify Your iMovie with YouTube Audio Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-monitor-stability-restored/"><u>Dell Monitor Stability Restored</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/drone-photography-showdown-dji-fpv-vs-gopro-x-for-2024/"><u>Drone Photography Showdown DJi FPV Vs GoPro X for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-drivers-error-22/"><u>Fixed Graphics Drivers Error #22</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-redmi-note-12-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi Redmi Note 12 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-youtubes-green-screen-problems/"><u>Mastering YouTube's Green Screen Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-visual-split-issues-in-pc/"><u>Mend Visual Split Issues in PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-drivers-down-discover-device-manager-anomalies/"><u>NVIDIA Drivers Down? Discover Device Manager Anomalies</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208207391-windows-users-say-goodbye-to-that-troublesome-sticking-keyboard-problem/"><u>Windows Users, Say Goodbye to That Troublesome Sticking Keyboard Problem</u></a></li>
 </ul></div>
 

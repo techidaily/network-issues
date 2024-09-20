@@ -1,7 +1,7 @@
 ---
 title: "Resolving Critical Setup Error: Code C1900101"
-date: 2024-07-12T00:28:25.594Z
-updated: 2024-07-13T00:28:25.594Z
+date: 2024-09-13T07:06:28.176Z
+updated: 2024-09-20T06:07:38.866Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
@@ -59,6 +66,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
@@ -76,6 +90,13 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
@@ -92,6 +113,13 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
 sfc /scannow
@@ -105,6 +133,13 @@ Press the **Enter**key on your keyboard.
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
@@ -122,8 +157,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +164,19 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-alchemy-excellent-picks-for-skype-ringtone-downloads/"><u>[New] Audio Alchemy Excellent Picks for Skype Ringtone Downloads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-stunning-instagram-videos/"><u>[Updated] Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-achieving-seamless-smoothness-blurring-conference-borders/"><u>2024 Approved Achieving Seamless Smoothness Blurring Conference Borders</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-seamless-tweet-to-facebook-video-transfers-users/"><u>2024 Approved Seamless Tweet-to-Facebook Video Transfers Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-sims-4-solid-color-warnings/"><u>Banish Sims 4 Solid-Color Warnings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-resolved-overwatch-needs-upgraded-graphics-card/"><u>Error Resolved: Overwatch Needs Upgraded Graphics Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fine-tuning-visual-quality-on-w11/"><u>Fine-Tuning Visual Quality on W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wbk file by digital signature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-laughter-photo-maker/"><u>In 2024, Leading Laughter Photo Maker</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-minecraft-gameplay-fix-your-crossbow-error-today/"><u>Mastering Minecraft Gameplay: Fix Your Crossbow Error Today</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-inactivity-in-asus-hardware-camera/"><u>Overcoming Inactivity in Asus Hardware Camera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-receives-amd-radeon-hd-6950-graphics-drivers-enhancement/"><u>Windows 11 Receives AMD Radeon HD 6950 Graphics Drivers Enhancement</u></a></li>
+</ul></div>
 

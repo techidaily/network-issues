@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of C1900101 During Windows 11 Upgrade
-date: 2024-07-12T00:27:45.572Z
-updated: 2024-07-13T00:27:45.572Z
+date: 2024-09-12T16:24:54.854Z
+updated: 2024-09-20T08:14:57.408Z
 tags:
   - win11
   - win10
@@ -52,9 +52,23 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
@@ -72,9 +86,23 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
@@ -91,6 +119,13 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 In some cases, the 0xC1900101 error could mean that your system files are somehow corrupted or broken, and the code is there to remind you that you may need to revert your PC to a more stable stage before you do the system upgrade or update. To fix it: 1) On your keyboard, press the**Windows logo key**. Type**cmd**in the search box. Right-click**Command Prompt**and click**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
@@ -122,8 +157,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +164,15 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevating-text-artistry-in-illustrator/"><u>[Updated] 2024 Approved Elevating Text Artistry in Illustrator</u></a></li>
+<li><a href="https://network-issues.techidaily.com/altering-graphics-settings-in-windows-11/"><u>Altering Graphics Settings in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digital-sound-editor-online-easily-convert-audio-to-mp3-wma-and-various-formats/"><u>Digital Sound Editor Online - Easily Convert Audio to MP3, WMA & Various Formats</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-views-on-youtube-in-minutes-2-strategies/"><u>In 2024, Skyrocket Views on YouTube in Minutes (2 Strategies)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/legislative-measures-in-the-management-of-artificial-intelligence/"><u>Legislative Measures in the Management of Artificial Intelligence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fixes-installing-new-wireless-lan-adapter-on-windowsmacos/"><u>Quick Fixes: Installing New Wireless LAN Adapter on Windows/macOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restarting-dormant-gpu-fans/"><u>Restarting Dormant GPU Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-the-mysteries-of-the-xbox-360-slim-console/"><u>Unpacking the Mysteries of the Xbox 360 Slim Console</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Oscillating Displays (Pro 7)
-date: 2024-07-12T00:23:55.868Z
-updated: 2024-07-13T00:23:55.868Z
+date: 2024-09-18T11:14:41.423Z
+updated: 2024-09-20T04:15:29.423Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Here’s how to do it:
 
  You’ll find the Surface Pro 7 screen flickering stops right away. But if not, don’t worry. You should be able to fix it by following these fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your display drivers
 
  Your Surface Pro 7 screen may flicker or blink frequently if you’re using the wrong or outdated device drivers, especially the display drivers. Therefore, you should update these drivers to see if it fixes your problem.
@@ -61,6 +68,13 @@ Here’s how to do it:
 **Manually –** To update your graphics driver manually, you can go to the official **[driver](https://www.microsoft.com/en-us/download/details.aspx?id=100419)** [**download page**](https://www.microsoft.com/en-us/download/details.aspx?id=100419) , and select **Download** this file. You may need to choose the appropriate .msi file. Then click**Next** \>**Save As** and choose your desktop as the save location. Run this MSI file and follow the instructions to install the graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
@@ -75,6 +89,13 @@ Here’s how you can update your drivers with Driver Easy:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -125,6 +146,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
 
 ### Fix 5: Run the System File Checker
@@ -141,6 +169,13 @@ Here’s how you can update your drivers with Driver Easy:
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -184,8 +219,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +226,17 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-stop-buffer-tweet-vids-in-chromium-browser/"><u>[Updated] 2024 Approved Stop Buffer Tweet Vids in Chromium Browser</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-mix-fold-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-no-more-interrupted-instagram-videos-heres-how/"><u>In 2024, No More Interrupted Instagram Videos - Here's How</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>In 2024, Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastery-in-addressing-youtubes-green-screen-discrepancies/"><u>Mastery in Addressing Youtube's Green Screen Discrepancies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-lenovo-monitor-insufficient-brightness/"><u>Solving Lenovo Monitor Insufficient Brightness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-resolution-adjustment-made/"><u>Win11 Screen Resolution Adjustment Made</u></a></li>
+</ul></div>
 

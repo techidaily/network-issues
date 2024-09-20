@@ -1,7 +1,7 @@
 ---
 title: How To Fix Anthem Lag Issues. Easily
-date: 2024-09-07T22:44:47.541Z
-updated: 2024-09-15T02:45:09.782Z
+date: 2024-09-15T05:04:11.354Z
+updated: 2024-09-20T01:23:15.087Z
 tags:
   - win11
   - win10
@@ -136,10 +136,10 @@ So you can follow the steps below to disable CPU core parking:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
@@ -166,13 +166,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -185,20 +178,27 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -225,21 +225,17 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-perfect-screen-recording-toolkit-systematic-how-to-manual/"><u>[Updated] In 2024, The Perfect Screen Recording Toolkit Systematic How-To Manual</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-failure-43-overcome/"><u>Device Failure 43 Overcome</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-pixels-to-perfection-selecting-the-premier-screen-recording-software/"><u>From Pixels to Perfection Selecting the Premier Screen Recording Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-qualcomm-wifi-atheros-on-win10-os/"><u>Harmonizing Qualcomm WiFi - Atheros on Win10 OS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>In 2024, Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-virtual-venue-vaults-download-edition/"><u>In 2024, Virtual Venue Vaults - Download Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proven-approaches-to-securing-photo-and-video-borders/"><u>Proven Approaches to Securing Photo & Video Borders</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/proven-techniques-for-uploading-and-displaying-imovie-films-on-vimeo-for-2024/"><u>Proven Techniques for Uploading and Displaying iMovie Films on Vimeo for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/righted-view-laptop-screenset-corrected/"><u>Righted View: Laptop Screenset Corrected</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-installing-and-personalizing-windows-11-without-using-a-microsoft-account/"><u>Step-by-Step Tutorial: Installing and Personalizing Windows 11 Without Using a Microsoft Account</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategic-approach-eradicate-screen-lines-in-computers-and-notebooks/"><u>Strategic Approach: Eradicate Screen Lines in Computers and Notebooks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solutions-for-dying-light-frame-rate-issues/"><u>Troubleshooting and Solutions for Dying Light Frame Rate Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-your-missing-wi-fi-adapter-in-windows-11/"><u>[FIXED] Your Missing Wi-Fi Adapter in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-tv-saves-win-friendly-options-available/"><u>[New] In 2024, Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converti-file-orf-a-formato-png-senza-costi-su-movavicom-guida-completa-e-facile-da-usare/"><u>Converti File ORF a Formato PNG Senza Costi Su Movavi.com - Guida Completa E Facile Da Usare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-crumble-to-climb-monster-world-crisis-averted/"><u>From Crumble to Climb: Monster World Crisis Averted</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a54-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A54 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-zoom-tool-on-snapchat-for-better-photos-and-videos/"><u>In 2024, Mastering the Zoom Tool on Snapchat for Better Photos & Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reformatting-win10-high-res-displays/"><u>Reformatting Win10 High-Res Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-operation-fallout-4-on-computer/"><u>Seamless Operation: Fallout 4 on Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-best-mac-video-viewing-tools/"><u>Top 7 Best Mac Video Viewing Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/traveling-with-ease-using-roku-devices-to-enhance-your-hotel-or-university-experience/"><u>Traveling with Ease: Using Roku Devices to Enhance Your Hotel or University Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-amd-freesync-system/"><u>Troubleshooting Non-Functional AMD FreeSync System</u></a></li>
 </ul></div>
 

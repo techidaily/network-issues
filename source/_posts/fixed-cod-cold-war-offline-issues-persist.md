@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] CoD Cold War - Offline Issues Persist"
-date: 2024-07-12T00:23:44.250Z
-updated: 2024-07-13T00:23:44.250Z
+date: 2024-09-15T06:44:38.538Z
+updated: 2024-09-20T00:57:54.798Z
 tags:
   - win11
   - win10
@@ -113,6 +113,13 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
@@ -123,6 +130,19 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Flush your DNS and use Google’s instead
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can effectively slow your connection and even cause problems like games not connecting to server error. Switching your DNS can result in better connectivity and performance for your internet connection. Here we recommend using Google DNS.
@@ -132,6 +152,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -145,8 +173,23 @@ To see if a new DNS address helps, you can follow the instructions below:
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -192,8 +235,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +242,15 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-video-creators-blueprint-to-legal-and-profitable-streaming/"><u>[New] 2024 Approved The Video Creator's Blueprint to Legal and Profitable Streaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bridging-the-online-gap-in-cod-cold-war-2024/"><u>[RESOLVED] Bridging the Online Gap in CoD Cold War 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>[Updated] Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lightrooms-ultimate-guide-to-premium-luts/"><u>[Updated] LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premiere-10-battle-royale-titles/"><u>2024 Approved Premiere 10 Battle Royale Titles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-leads-to-dark-void/"><u>Driver Update Leads to Dark Void</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-non-detection-of-gfx/"><u>Reverse Non-Detection of GFX</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Moto G 5G (2023)</u></a></li>
+</ul></div>
 

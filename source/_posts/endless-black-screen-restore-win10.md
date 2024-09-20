@@ -1,7 +1,7 @@
 ---
 title: Endless Black Screen, Restore Win10
-date: 2024-07-12T00:25:10.107Z
-updated: 2024-07-13T00:25:10.107Z
+date: 2024-09-16T09:12:32.982Z
+updated: 2024-09-20T06:53:32.292Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -87,6 +94,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -95,6 +110,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
@@ -108,6 +131,13 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
@@ -147,6 +177,13 @@ If you’re on a laptop:
  2) Type “settings” in the search box and select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Accounts** .
 
@@ -210,8 +247,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +254,16 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tinyshot-critique-of-small-scale-recording-app/"><u>[New] 2024 Approved TinyShot Critique of Small-Scale Recording App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-visionary-tech-that-cares-for-the-earth/"><u>[New] 2024 Approved Visionary Tech That Cares for the Earth</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/combining-chords-and-pictures-in-the-cloud-for-2024/"><u>Combining Chords & Pictures in the Cloud for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-compatibility-issues-nvidiaintel-switchable-fixes-on-win10/"><u>Conquering Compatibility Issues: NVIDIA/Intel Switchable Fixes on Win10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-i2c-hid-driver-fixes-a-step-by-step-guide/"><u>Mastering I2C HID Driver Fixes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-highlow-res-display-issues-in-upgraded-windows-10/"><u>Overcoming High/Low-Res Display Issues in Upgraded Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/regaining-access-to-nvidia-screen-controls/"><u>Regaining Access to NVIDIA Screen Controls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/syncing-intel-and-nvidia-gpus-problem-resolved-on-win11/"><u>Syncing Intel & Nvidia GPUs - Problem Resolved on Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transform-your-twitter-experience-with-fresh-tailored-video-previews/"><u>Transform Your Twitter Experience with Fresh, Tailored Video Previews</u></a></li>
+</ul></div>
 

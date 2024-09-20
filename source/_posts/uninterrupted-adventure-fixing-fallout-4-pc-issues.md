@@ -1,7 +1,7 @@
 ---
 title: "Uninterrupted Adventure: Fixing Fallout 4 PC Issues"
-date: 2024-07-12T00:29:19.031Z
-updated: 2024-07-13T00:29:19.031Z
+date: 2024-09-13T16:15:21.795Z
+updated: 2024-09-20T11:18:56.974Z
 tags:
   - win11
   - win10
@@ -68,7 +68,21 @@ thumbnail: https://thmb.techidaily.com/5a47a6a0d1daec39c5712eb645e3012dacc86a9be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -92,6 +106,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
@@ -112,8 +133,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +140,21 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>[New] Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>[New] Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-discovering-the-essentials-of-exceptional-tiktok-campaigns/"><u>[New] In 2024, Discovering the Essentials of Exceptional TikTok Campaigns</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>[New] In 2024, Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-windows-graphics-by-installing-current-intel-drivers/"><u>Improve Windows Graphics by Installing Current Intel Drivers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p40plus-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-windows-11-screen-size-appearance/"><u>Optimize Windows 11 Screen Size Appearance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-screen-flip-issue-with-windows-11/"><u>Overcoming Screen Flip Issue with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-asus-touchpad-compatibility-on-windows-11-download-the-newest-drivers-here/"><u>Seamless ASUS Touchpad Compatibility on Windows 11 - Download the Newest Drivers Here</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unblocking-the-pathway-for-an-obs-camera-feed/"><u>Unblocking the Pathway for an OBS Camera Feed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-video-experience-post-windows-10-upgrade/"><u>Uninterrupted Video Experience Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-driver-uninstalled-reinstate-windows-10-card/"><u>Wi-Fi Driver Uninstalled? Reinstate Windows 10 Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-missing-adjustments/"><u>Windows 11 Advanced Display Missing Adjustments</u></a></li>
+</ul></div>
 

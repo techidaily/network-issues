@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Display - Resolved Missing Full Screen
-date: 2024-09-07T19:51:37.826Z
-updated: 2024-09-15T06:13:05.165Z
+date: 2024-09-18T02:24:36.408Z
+updated: 2024-09-19T22:35:23.732Z
 tags:
   - win11
   - win10
@@ -104,13 +104,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -133,6 +126,13 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
@@ -142,10 +142,10 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
@@ -153,10 +153,10 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
@@ -193,13 +193,14 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/modified-advanced-display-missing-in-windows-11/"><u>[Modified] Advanced Display Missing in Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[New] 2024 Approved Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-gain-instagram-reel-fame-emulate-top-tiktok-trends-and-insights-for-2024/"><u>[New] Gain Instagram Reel Fame Emulate Top TikTok Trends & Insights for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-quality-8-cam-transformations-for-streaming/"><u>[New] High-Quality 8 Cam Transformations for Streaming</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-laughter-photo-composer-tool/"><u>2024 Approved Elite Laughter Photo Composer Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-gopro-hero5-footage-analysis/"><u>2024 Approved GoPro Hero5 Footage Analysis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-the-end-of-winrts-complications/"><u>Debugged: The End of WinRTS Complications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/explaining-enigmatic-x-failure-in-league-epics/"><u>Explaining Enigmatic X Failure in League Epics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturing-life-on-a-macbook-air-the-comprehensive-guide-to-screen-recording/"><u>[New] 2024 Approved Capturing Life on a MacBook Air The Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>[New] Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-expedite-content-indexing-with-these-7-free-youtube-tag-extractors/"><u>[New] In 2024, Expedite Content Indexing with These 7 FREE YouTube Tag Extractors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-yourself-instagram-live-basics/"><u>[New] Unveiling Yourself Instagram Live Basics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cost-effective-options-top-10-free-high-quality-desktop-recorders/"><u>[Updated] Cost-Effective Options Top 10 Free, High-Quality Desktop Recorders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-config-updated-post-save-fix/"><u>Display Config Updated Post-Save Fix</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-smart-7-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Smart 7 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781896-seamlessly-update-intels-graphic-driver-for-windows-11/"><u>Seamlessly Update Intel's Graphic Driver for Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10.</u></a></li>
 </ul></div>
 

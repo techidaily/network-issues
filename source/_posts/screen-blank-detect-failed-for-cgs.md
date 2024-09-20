@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: Detect Failed for CGs"
-date: 2024-09-11T00:25:48.357Z
-updated: 2024-09-15T00:14:50.639Z
+date: 2024-09-18T07:46:18.026Z
+updated: 2024-09-19T20:02:40.274Z
 tags:
   - win11
   - win10
@@ -75,10 +75,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating driver, restart your PC, and open your game to see if it works.
@@ -88,10 +88,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -102,13 +102,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
@@ -116,6 +109,13 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your PC and open your game again.
 
@@ -139,20 +139,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-comparative-study-vidma-vs-standard-screen-recording-for-2024/"><u>[New] Comparative Study Vidma vs Standard Screen Recording for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/everaging-multiple-channels-to-boost-online-visibility/"><u>[New] Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-breaking-down-zoom-session-division/"><u>[Updated] Breaking Down Zoom Session Division</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-on-new-operating-system/"><u>Dealing with C1900101 on New Operating System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/efficient-correction-guide-non-active-gpu-display-nvidia/"><u>Efficient Correction Guide: Non-Active GPU Display, NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-win10-experience-updated-amd-radeon-hd-6950-drivers/"><u>Elevate Your Win10 Experience: Updated AMD Radeon HD 6950 Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fallout-4s-pc-problems-solved-for-you/"><u>Fallout 4'S PC Problems, Solved for You</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-microsofts-basic-render-in-windows-series/"><u>Fixed Microsoft's Basic Render in Windows Series</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fullscreen-fidelity-recovered-win10-version/"><u>Fullscreen Fidelity Recovered, Win10 Version</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>In 2024, Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-kickstarting-a-successful-social-good-campaign-online/"><u>In 2024, Kickstarting a Successful Social Good Campaign Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-motion-mastery-modules/"><u>In 2024, Premium Motion Mastery Modules</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-repair-steps-unused-gfx-display-nvidia/"><u>Quick Repair Steps: Unused GFX Display NVIDIA</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-data-insights-on-your-site-with-the-innovative-capabilities-of-cookiebot-technology/"><u>Revolutionize Data Insights on Your Site with the Innovative Capabilities of Cookiebot Technology</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-13-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 13</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-tips-for-optimizing-your-srt-setup/"><u>[New] 2024 Approved Expert Tips for Optimizing Your SRT Setup</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-lone-listeners-conundrum-cure-method-for-2024/"><u>[New] Lone Listener's Conundrum Cure Method for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-news-endings-as-a-narrative-tool/"><u>2024 Approved News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/analyzing-amds-role-in-shaping-the-future-of-pc-gaming/"><u>Analyzing AMD's Role in Shaping the Future of PC Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-image-blurriness-for-better-far-cry-play/"><u>Correcting Image Blurriness for Better Far Cry Play</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-gains-traction-on-enhanced-windows-11-interface/"><u>GeForce RTX210 Gains Traction on Enhanced Windows 11 Interface</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-s23plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel S23+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovo-ideapad-3-slim-laptop-evaluation-your-ultra-portable-tech-companion/"><u>Lenovo IdeaPad 3 Slim Laptop Evaluation: Your Ultra-Portable Tech Companion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-wins-graphic-configuration-hurdle/"><u>Overcame Win's Graphic Configuration Hurdle</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-distorted-text-line-issue-in-portable-devices/"><u>Resolve Distorted Text Line Issue in Portable Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/sword-and-shield-the-ultimate-10-game-collection/"><u>Sword and Shield The Ultimate 10-Game Collection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-stop-your-screens-flashing/"><u>Troubleshooting: Stop Your Screen's Flashing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Combat Lag in Virtual Building Game PC
-date: 2024-07-12T00:25:04.677Z
-updated: 2024-07-13T00:25:04.677Z
+date: 2024-09-18T01:29:17.159Z
+updated: 2024-09-20T05:56:05.803Z
 tags:
   - win11
   - win10
@@ -113,6 +113,20 @@ OR
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -137,6 +151,14 @@ OR
 3. Press**ESC** on your keyboard and on the upper left corner of the screen, you’ll see the**three-line** tab. Just click it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
 
@@ -160,13 +182,36 @@ To do so:
 3. Click**PlatformContent** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-45.png)
 4. Click the**PC** folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-46.png)
 5. Click the**textures** folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
  After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Repair system files
 
@@ -194,8 +239,6 @@ Once done, restart your machine and check if it fixes your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,6 +246,23 @@ Once done, restart your machine and check if it fixes your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mastery-guide-critical-tiktok-macos-elements/"><u>2024 Approved Mastery Guide Critical TikTok (macOS) Elements</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressed-expanded-screen-size-issues-for-windows/"><u>Addressed Expanded Screen Size Issues for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-driver-installation-guide-for-nexiq-usb-link-2-version-free-download/"><u>Comprehensive Driver Installation Guide for Nexiq USB-Link 2 Version [Free Download]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-flaky-wi-fi-flow/"><u>Fixing the Flaky Wi-Fi Flow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-preferences-retained-post-update/"><u>Hardware Preferences Retained Post-Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-zero-5g-2023-turbo-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Zero 5G 2023 Turbo FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-of-both-worlds-android-video-editors-on-chromebook/"><u>In 2024, The Best of Both Worlds Android Video Editors on Chromebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/issue-resolved-monitor-shows-portion-not-all-windows-windows-10/"><u>Issue Resolved: Monitor Shows Portion, Not All Windows (Windows 10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-monitor-troubleshooting-no-light/"><u>Lenovo Monitor: Troubleshooting No-Light</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-online-presence-on-leading-networks-facebook-twitter-instagram-and-youtube/"><u>Mastering Online Presence on Leading Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-converter-mudando-formatos-de-imagem-online-de-graca-bmp-para-outros/"><u>Movavi Converter: Mudando Formatos De Imagem Online De Graça - BMP Para Outros</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-on-win11-monitors/"><u>Restored Fullscreen Functionality on Win11 Monitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-downloading-and-updating-d-link-drivers-on-windows/"><u>Successful Installation: Downloading and Updating D-Link Drivers on Windows</u></a></li>
+</ul></div>
 

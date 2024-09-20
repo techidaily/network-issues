@@ -1,7 +1,7 @@
 ---
 title: Overcoming Oscillating Screen Woes in Pro 7
-date: 2024-07-12T00:25:25.500Z
-updated: 2024-07-13T00:25:25.500Z
+date: 2024-09-18T17:39:25.048Z
+updated: 2024-09-19T19:24:34.497Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
 **Automatically (recommended) –** If you are not familiar with installing drivers, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -101,6 +108,13 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -127,6 +141,13 @@ Here’s how you can update your drivers with Driver Easy:
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run the System File Checker
 
  Missing or damaged system files may lead to your Surface Pro 7 screen flickering. Some users find repairing the systems files helped them solve the issue.
@@ -142,6 +163,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -153,6 +181,13 @@ Here’s how you can update your drivers with Driver Easy:
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now check your screen to see if the flickering issue is resolved by now.
 
@@ -184,8 +219,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +226,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-mastering-windows-11-movie-maker-a-step-by-step-guide-for-2024/"><u>[New] Mastering Windows 11 Movie Maker A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-qanda-on-quantum-hdr-technology/"><u>2024 Approved The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieving-compatibility-enhancing-pc-hardware-specs/"><u>Achieving Compatibility: Enhancing PC Hardware Specs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-flicker-secure-your-display/"><u>Banish Flicker: Secure Your Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-screen-wide-line-woes-with-easy-effective-solutions/"><u>Conquering Screen Wide Line Woes with Easy, Effective Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-now-official-free-winx-advanced-dvd-ripping-and-hd-video-converter-suite/"><u>Download Now: Official, FREE WinX - Advanced DVD Ripping and HD Video Converter Suite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-erratic-windows-7-displays/"><u>Eliminating Erratic Windows 7 Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/everything-you-need-to-know-about-samsung-unpacked-2025-event-date-announcements-rumors-exposed/"><u>Everything You Need to Know About Samsung Unpacked 2025 - Event Date, Announcements, Rumors Exposed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hassle-free-upgrade-intel-g3000-graphics-on-win11/"><u>Hassle-Free Upgrade: Intel G3000 Graphics on Win11.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-gionee-f3-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Gionee F3 Pro Phone Without Password?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-pre-upload-best-practices-to-maintain-tiktoks-integrity/"><u>In 2024, Pre-Upload Best Practices to Maintain TikTok's Integrity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-attracting-more-followers-on-xtwitter-easily-and-effectively/"><u>Mastering the Art of Attracting More Followers on X/Twitter Easily and Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-revenue-a-complete-framework-for-tracking-youtube-views-and-income-for-2024/"><u>Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income for 2024</u></a></li>
+</ul></div>
 

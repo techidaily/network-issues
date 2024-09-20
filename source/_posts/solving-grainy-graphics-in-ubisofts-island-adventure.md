@@ -1,7 +1,7 @@
 ---
 title: Solving Grainy Graphics in Ubisoft's Island Adventure
-date: 2024-09-12T23:01:27.394Z
-updated: 2024-09-15T01:28:39.987Z
+date: 2024-09-16T02:01:17.141Z
+updated: 2024-09-19T16:05:34.053Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -113,6 +113,13 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -124,42 +131,16 @@ If this doesn’t help, try the next fix.
 3. Once the game executable is added, click **Options** .  
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t help, there’s one more fix you can try.
 
@@ -175,13 +156,27 @@ If this doesn’t help, there’s one more fix you can try.
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -206,18 +201,19 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elevate-your-online-engagements-the-ultimate-guide-to-slack-and-filmora/"><u>[Updated] 2024 Approved Elevate Your Online Engagements The Ultimate Guide to Slack & Filmora</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-achieving-effortless-seams-in-inshot-videos-for-2024/"><u>[Updated] Achieving Effortless Seams in Inshot Videos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypassing-wow-problem-fix-51900319/"><u>Bypassing WoW Problem: Fix #51900319</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/cut-the-clutter-structuring-videos-with-chapter-tags/"><u>Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gpu-driver-restart-made-simple-with-ddu/"><u>GPU Driver Restart Made Simple with DDU</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-play-7t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Play 7T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/missing-depth-feature-on-iphones-lock-screen-in-ios-16-correct-it-with-our-top-7-fixes/"><u>Missing Depth Feature on iPhone's Lock Screen in iOS 16? Correct It with Our Top 7 Fixes!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-found-overwatch-update-fixes-issue/"><u>No Compatible Graphics Found - Overwatch Update Fixes Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reactivating-silent-gpu-fans/"><u>Reactivating Silent GPU Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refresh-windows-sharpen-screens/"><u>Refresh Windows, Sharpen Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-transparency-to-win11-screens/"><u>Restoring Transparency to Win11 Screens</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-overcome-pc-compatibility-issues-with-modern-warfare/"><u>Troubleshooting Steps: Overcome PC Compatibility Issues with Modern Warfare</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-the-path-starting-with-your-youtube-identity/"><u>[New] 2024 Approved Unveiling the Path Starting with Your YouTube Identity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tactics-for-increasing-campaign-efficiency-with-smart-hashtag-usage-on-fb/"><u>[New] Tactics for Increasing Campaign Efficiency with Smart Hashtag Usage on FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ransforming-ideas-into-engaging-youtube-video-plans/"><u>[New] Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>[Updated] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aspect-ratio-armageddon-over/"><u>Aspect Ratio Armageddon Over</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-blur-from-your-workspace/"><u>Banish Blur From Your Workspace</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gears-grind-gearless-gateway/"><u>Gears Grind Gearless Gateway</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-transition-from-mobile-screen-to-big-tv-with-fb-videos/"><u>In 2024, Transition From Mobile Screen to Big TV with FB Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-find-x6-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo Find X6 Pro support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-driver-hurdle-nvidia-plus-windows-10/"><u>Overcoming Driver Hurdle: Nvidia + Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-expert-tips-for-repairing-world-of-warcrafts-voice-chat-feature/"><u>Overcoming Silence: Expert Tips for Repairing World of Warcraft's Voice Chat Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-win11-update-addressing-atheros-network-errors/"><u>Qualcomm Win11 Update: Addressing Atheros Network Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-instructions-adding-external-wi-fi-compatible-card/"><u>Quick Instructions: Adding External Wi-Fi Compatible Card</u></a></li>
 </ul></div>
 

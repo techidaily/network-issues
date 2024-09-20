@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2024-09-11T00:56:52.948Z
-updated: 2024-09-14T16:12:37.078Z
+date: 2024-09-17T11:57:48.359Z
+updated: 2024-09-20T02:24:16.222Z
 tags:
   - chatgpt
   - open-ai
@@ -62,6 +62,13 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -82,16 +89,16 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -101,25 +108,31 @@ You could use:
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -128,13 +141,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -155,20 +161,19 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/install-now-ultimate-guide-to-downloading-qualcomm-and-atheros-bluetooth-30-ar3011-driver/"><u>[Install Now] Ultimate Guide to Downloading Qualcomm & Atheros Bluetooth 3.0 AR3011 Driver</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cross-platform-movie-recording-pc-mac-and-mobile/"><u>[New] 2024 Approved Cross-Platform Movie Recording PC, Mac & Mobile</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>[New] In 2024, A Synergy for Success Merge Linktree with Your TikTok Bio</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-overcoming-internet-barriers-in-cod-cold-war/"><u>[SOLVED] Overcoming Internet Barriers in CoD Cold War</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-beyond-fun-the-subtle-messages-in-snapchat-emojis/"><u>[Updated] Beyond Fun The Subtle Messages in Snapchat Emojis</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-motion-picture-descriptive-creator/"><u>[Updated] Motion Picture Descriptive Creator</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/digital-recorders-companion-pc-mac-phone-edition-for-2024/"><u>Digital Recorder's Companion PC, Mac, Phone Edition for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974710557-graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 14 Pro Max screen lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-a60-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel A60 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/minimal-troubleshooting-guide-dormant-gpu-display/"><u>Minimal Troubleshooting Guide: Dormant GPU Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-running-videos-on-updated-windows-11-systems/"><u>Smooth-Running Videos on Updated Windows 11 Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solutions-for-stabilizing-acer-lcd/"><u>Solutions for Stabilizing Acer LCD</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-streams-over-sluggish-windows-internet/"><u>Swift Streams over Sluggish Windows Internet</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-protect-privacy-with-fast-facial-masking-on-piscart/"><u>[New] 2024 Approved Protect Privacy with Fast Facial Masking on PiscArt</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causes-winos-bsod-error/"><u>[Resolved] dxgkrnl.sys Causes WinOS BSOD Error</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-condense-cinematography-to-instagrams-max-on-macos/"><u>[Updated] 2024 Approved Condense Cinematography to Instagram's Max on macOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-undo-button-retracing-your-youtube-steps/"><u>[Updated] 2024 Approved The Undo Button Retracing Your YouTube Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximum-value-in-cloud-storage-top-30-pickups-for-1tbplus/"><u>[Updated] Maximum Value in Cloud Storage Top 30 Pickups for 1TB+</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-15-windows-10-recording-applications-reviewed/"><u>2024 Approved Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearer-screens-setup-in-latest-windows-11-os/"><u>Clearer Screens Setup in Latest Windows 11 OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-haunting-solutions-for-non-functional-phasmophobia-vr/"><u>Get Back to Haunting: Solutions for Non-Functional Phasmophobia VR</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pixel-problem-gpu-search-failed/"><u>Pixel Problem: GPU Search Failed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-and-solid-fixing-atheros-qca61x4-drivers-on-windows-11/"><u>Secure and Solid: Fixing Atheros QCA61x4 Drivers on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-retrieve-deleted-text-files-on-windows-11-detailed-guide-with-screenshots/"><u>Simple Steps to Retrieve Deleted Text Files on Windows 11 - Detailed Guide with Screenshots</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-screens-overcoming-win11-glitches/"><u>Smoothing Screens: Overcoming Win11 Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-integrate-old-games-with-win11-mypictures/"><u>Steps to Integrate Old Games with Win11 MyPictures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-catching-live-footage-webcam-hd-video-and-sound-by-movavi-recorder/"><u>Ultimate Guide to Catching Live Footage: Webcam HD Video & Sound by Movavi Recorder</u></a></li>
 </ul></div>
 

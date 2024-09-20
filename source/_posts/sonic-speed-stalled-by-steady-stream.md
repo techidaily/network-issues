@@ -1,7 +1,7 @@
 ---
 title: Sonic Speed Stalled by Steady Stream
-date: 2024-07-12T00:24:07.854Z
-updated: 2024-07-13T00:24:07.854Z
+date: 2024-09-13T10:57:30.314Z
+updated: 2024-09-19T21:16:02.300Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update your network adapter driver
 
  If the previous steps didn’t work, it’s time to check if you’re using an outdated network adapter driver. An outdated or incompatible network adapter driver can cause connection problems. To fix it, you should update your drivers and your problem may be solved in no time.
@@ -109,6 +116,14 @@ Here we recommend using Google DNS:
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
@@ -117,6 +132,13 @@ Here we recommend using Google DNS:
 
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
@@ -134,6 +156,19 @@ Here’s how to do this:
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **[HTTP]**
 **HttpTimeout=10**
@@ -153,6 +188,13 @@ Here’s how to do this:
 When it’s all done, resume your download and it should be faster.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
 
@@ -183,8 +225,6 @@ When it’s all done, resume your download and it should be faster.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,6 +232,18 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>[New] 2024 Approved Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-to-improve-your-gopros-power-sustainability/"><u>[New] Tips to Improve Your GoPro's Power Sustainability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-harmonizing-content-with-ig-beats-for-2024/"><u>[Updated] Harmonizing Content with IG Beats for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlock-the-full-potential-of-your-pcgaming-with-obs/"><u>2024 Approved Unlock the Full Potential of Your PC/Gaming with OBS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-energy-icon-for-efficient-power-management-in-windows-11/"><u>How to Restore the Energy Icon for Efficient Power Management in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-system-limitations-enabling-software-installation/"><u>Overcoming System Limitations: Enabling Software Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-unseen-hardware-in-computer-systems/"><u>Reactivating Unseen Hardware in Computer Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silencing-the-sputter-of-windows-11-displays/"><u>Silencing the Sputter of Windows 11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stretch-your-win11-display-to-its-limits/"><u>Stretch Your Win11 Display to Its Limits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-viewable-files-in-outlook-2019-on-a-pc/"><u>Tackling Non-Viewable Files in Outlook 2019 on a PC</u></a></li>
+</ul></div>
 

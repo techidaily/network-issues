@@ -1,7 +1,7 @@
 ---
 title: "Increase Your FPS: Top 6 Optimization Strategies"
-date: 2024-09-09T05:34:53.007Z
-updated: 2024-09-14T19:23:24.502Z
+date: 2024-09-19T07:01:04.843Z
+updated: 2024-09-19T22:24:27.127Z
 tags:
   - win11
   - win10
@@ -70,37 +70,17 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Tip 4: Do a disk clean-up 
 
@@ -110,15 +90,16 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Choose **the drive** you want to free up storage and click **OK** .  
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
 3. Technically, you can tick all **the boxes** . You might also need to check out **Recycle Bin** and see if there’s anything to be restored first. Then click **OK** .  
-![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
-4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
+4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
@@ -130,9 +111,31 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 1. On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png) and **R**   at the same time. Then type **dfrgui.exe**   in the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
 3. Click **Optimize**   if Windows tell you to optimize the drive. Usually the recommended percentage is 5% or higher.
 4. Wait until the Windows defragments the drive successfully and **restart**   your computer.
@@ -140,16 +143,10 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Tip 6: Install the latest patch
@@ -180,20 +177,21 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-turn-any-device-into-a-youtube-livestream-capturing-tool/"><u>[Updated] 2024 Approved How to Turn Any Device Into a YouTube Livestream Capturing Tool</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-nine-powerful-microphone-capture-options-decoded/"><u>[Updated] 2024 Approved Nine Powerful Microphone Capture Options Decoded</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-fine-tune-youtube-video-pacing-desktopmobile/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-recorders-unite-compete-for-2024/"><u>[Updated] Recorders Unite, Compete for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars/"><u>Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boosting-speed-tackling-sluggish-wi-fi-on-win/"><u>Boosting Speed: Tackling Sluggish Wi-Fi on WIN</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-the-notorious-error-code-0x803f8001-in-your-windows-11-or-10-minecraft-launcher/"><u>Comprehensive Fixes for the Notorious Error Code 0X803F8001 in Your Windows 11 or 10 Minecraft Launcher</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-resolution-non-active-gpu-monitor/"><u>Effortless Resolution: Non-Active GPU Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gl-error-fixable-nvidia-gpu-update/"><u>GL ERROR: Fixable - Nvidia GPU Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-to-download-movie-cast-releases/"><u>In 2024, Free-to-Download Movie Cast Releases</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>In 2024, The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-unseen-stream-anomalies/"><u>Tackling Unseen Stream Anomalies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ui-glitch-on-graphicswin-system-fixed/"><u>UI Glitch on GraphicsWin System (Fixed)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unnoticed-gpu-pinpoint-and-patch-issue-in-device-manager/"><u>Unnoticed GPU: Pinpoint and Patch Issue in Device Manager</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/story-your-stage-youtube-video-mastery/"><u>Your Story, Your Stage YouTube Video Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-behind-the-scenes-recording-your-facebook-live-stream/"><u>[New] 2024 Approved Behind the Scenes Recording Your Facebook Live Stream</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-building-your-screencasting-skills-from-the-ground-up/"><u>[New] Building Your Screencasting Skills From the Ground Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-wifi-keeps-disconnecting-or-dropping-out/"><u>[SOLVED] WiFi Keeps Disconnecting or Dropping Out</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>[Updated] 2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streamlining-the-process-dells-way-to-screen-recording/"><u>[Updated] 2024 Approved Streamlining the Process Dell's Way to Screen Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope-for-2024/"><u>[Updated] Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-live-feed-select-from-the-ultimate-9-filter-list/"><u>[Updated] Transform Your Live Feed Select From the Ultimate 9 Filter List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>2024 Approved Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-n-os-x/"><u>最適なビデオ圧縮ツールと方法をWindows N OS Xで利用するための完全ガイド</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-issues-a-solution-to-hybrid-gpu-problem-with-intellnvidia/"><u>Ending Issues: A Solution to Hybrid GPU Problem with Intell/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exclusive-driver-update-for-windows-pcs-with-nvidia-210/"><u>Exclusive Driver Update for Windows PCs with Nvidia 210</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-guide-to-counteracting-wow-bug-519/"><u>Expert Guide to Counteracting WoW Bug #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-success-desktop-lightness-fluctuates-stopped/"><u>Repair Success: Desktop Lightness Fluctuates Stopped</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-integrating-separate-tunes-using-audacity-to-create-an-elongated-soundtrack/"><u>Step-by-Step Guide: Integrating Separate Tunes Using Audacity to Create an Elongated Soundtrack</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-blackout-ended-now/"><u>Window's 10 Blackout: Ended Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-unexpectedly-missing-wi-fi/"><u>Windows 11: Unexpectedly Missing Wi-Fi?</u></a></li>
 </ul></div>
 

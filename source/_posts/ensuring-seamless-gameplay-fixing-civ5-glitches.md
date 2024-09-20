@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Seamless Gameplay: Fixing CIV5 Glitches"
-date: 2024-09-08T03:41:05.970Z
-updated: 2024-09-14T23:59:13.184Z
+date: 2024-09-15T10:37:50.482Z
+updated: 2024-09-19T20:45:43.332Z
 tags:
   - win11
   - win10
@@ -70,20 +70,15 @@ Here’s how to do it:
 1. On your keyboard, press **the** **Windows logo key**  , then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -92,16 +87,10 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
@@ -129,20 +118,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[New] 2024 Approved The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-cutting-to-the-beat-making-short-films-on-your-iphone/"><u>[Updated] 2024 Approved Cutting to the Beat Making Short Films on Your iPhone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-crafting-success-on-facebook-a-beginners-and-pro-guide-compilation/"><u>2024 Approved Crafting Success on Facebook A Beginner's & Pro Guide Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>2024 Approved From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-windows-to-fresh-intel-hd-driver/"><u>Adjusting Windows to Fresh Intel HD Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/apex-crash-cure-immediate-and-easy-steps/"><u>Apex Crash Cure: Immediate & Easy Steps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cutting-out-pauses-perfect-video-performance-on-new-os/"><u>Cutting Out Pauses: Perfect Video Performance on New OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-eliminating-stringing-issues-in-your-3d-print-projects/"><u>Effective Solutions for Eliminating Stringing Issues in Your 3D Print Projects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-mixed-graphics-quality-in-ubisofts-new-world/"><u>Fixing Mixed Graphics Quality in Ubisoft's New World</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2020-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2020) to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/intervention-for-persistent-hp-screen-blinking/"><u>Intervention for Persistent HP Screen Blinking</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-setup-error-code-c1900101-in-new-os/"><u>Overcoming Setup Error: Code C1900101 in New OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-reactivate-gpu-fan-spins/"><u>Steps to Reactivate GPU Fan Spins</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tracking-historical-prices-on-amazon-a-step-by-step-guide/"><u>Tracking Historical Prices on Amazon - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-computer-spontaneously-boot-up-solutions-for-windows-11-devices/"><u>Why Is My Computer Spontaneously Boot Up? Solutions for Windows 11 Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>[New] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-into-the-details-the-quickest-ways-to-zoom-in-minecraft/"><u>[New] Step Into the Details The Quickest Ways to ZOOM in Minecraft</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-mastering-the-digital-persona-shift-ultimate-guide-to-changing-your-tiktok-handle/"><u>[Updated] 2024 Approved Mastering the Digital Persona Shift Ultimate Guide to Changing Your TikTok Handle</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-to-origins-the-step-by-step-image-trackback/"><u>[Updated] In 2024, Instagram to Origins The Step-by-Step Image Trackback</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-temporal-trials-inverting-and-rewinding-your-vids-on-iphone/"><u>2024 Approved Temporal Trials Inverting and Rewinding Your Vids on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>2024 Approved Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-troublesome-error-code-0x8024eb3f6-in-windows-11-updates-effortlessly/"><u>Fixing the Troublesome Error Code 0X8024eb3f6 in Windows 11 Updates Effortlessly!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-installation-smooth-sailing-for-nvidia/"><u>Hardware Installation: Smooth Sailing for NVIDIA</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-nvidiaintel-graphic-mix-up-a-solution-for-windows-10/"><u>Tackling NVIDIA/Intel Graphic Mix-Up: A Solution for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocked-gl-issues-nvidia-driver-armored-fix/"><u>Unlocked GL Issues - NVIDIA Driver Armored Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-upgrades-say-goodbye-to-streaming-issues/"><u>Windows 10 Upgrades: Say Goodbye to Streaming Issues</u></a></li>
 </ul></div>
 

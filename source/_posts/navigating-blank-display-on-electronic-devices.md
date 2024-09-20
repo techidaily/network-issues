@@ -1,7 +1,7 @@
 ---
 title: Navigating Blank Display on Electronic Devices
-date: 2024-09-10T00:49:47.658Z
-updated: 2024-09-15T03:11:55.224Z
+date: 2024-09-14T08:34:14.393Z
+updated: 2024-09-20T09:00:42.095Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ You may have change some settings or installed a program on your computer, which
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Reinstall your memory
 
 It is also possible that your laptop screen issue comes from your laptop memory (RAM).
@@ -66,10 +73,16 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Laptop memory
@@ -77,16 +90,10 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Have your laptop serviced
@@ -111,13 +118,6 @@ And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
@@ -129,16 +129,10 @@ You may get various hardware issues (not just this black screen one) if your dev
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
@@ -165,20 +159,17 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-best-hidden-downloaders-1-8-unveiled-for-2024/"><u>[New] Best Hidden Downloaders - #1-8 Unveiled for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-construct-chuckles-adobe-meme-creation/"><u>[New] Construct Chuckles Adobe Meme Creation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-merge-soundtracks-and-cinematography-in-premiere-pro/"><u>[Updated] 2024 Approved Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ending-grey-shades-in-live-stream-translations/"><u>2024 Approved Ending Grey Shades in Live Stream Translations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-init-issue-resolved/"><u>Direct3D Init Issue Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-disappearing-wi-fi-on-windows-11-revealed/"><u>Fix: Disappearing Wi-Fi on Windows 11 Revealed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/heal-screen-pixel-misalignments/"><u>Heal Screen Pixel Misalignments</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-pocofrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your PocoFRP Lock</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974860747-instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-lackluster-display-no-more/"><u>Lenovo's Lackluster Display No More</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-correcting-crossbow-issues-in-minecraft/"><u>Step-by-Step Guide to Correcting Crossbow Issues in Minecraft</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974749003-swiftly-improve-intels-graphic-driver-in-ws11-environment/"><u>Swiftly Improve Intel's Graphic Driver in WS11 Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-persistent-issue-of-error-code-0x8024200d-in-windows-updates/"><u>Understanding & Fixing the Persistent Issue of Error Code 0X8024200D in Windows Updates</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-dongle-setup-and-enablement-guide/"><u>Wi-Fi Dongle Setup & Enablement Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-youtube-comeback-kid-jake-pauls-story/"><u>[New] 2024 Approved The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-streamline-your-youtube-shorts-thumbnail-process/"><u>[Updated] 2024 Approved Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tactics-for-success-amidst-facebooks-algorithm-evolution-for-2024/"><u>[Updated] Tactics for Success Amidst Facebook’s Algorithm Evolution for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-funny-image-makers-for-ios-and-android-users-for-2024/"><u>[Updated] Top Funny Image Makers for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-displays-no-more-flashing-fears/"><u>Dell Displays: No More Flashing Fears</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-image-quality-on-displays/"><u>Improve Image Quality on Displays</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sns-vs-competitors-a-critical-hdr-software-comparison/"><u>In 2024, SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-wi-fi-card-reconnect-via-windows-10-settings/"><u>Missing Wi-Fi Card? Reconnect via Windows 10 Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/persian-past-unveiled-the-power-of-knowing-it/"><u>Persian Past Unveiled: The Power of Knowing It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974755070-stabilized-mobile-monitor-reflections-victory/"><u>Stabilized Mobile Monitor Reflections - Victory!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-logitech-g230-microphone-issues/"><u>Troubleshooting Tips: Fixing Logitech G230 Microphone Issues</u></a></li>
 </ul></div>
 

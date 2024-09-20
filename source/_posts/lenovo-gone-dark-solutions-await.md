@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2024-09-10T03:08:30.152Z
-updated: 2024-09-15T07:07:51.640Z
+date: 2024-09-17T08:27:18.071Z
+updated: 2024-09-20T00:08:13.213Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -86,6 +79,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -98,6 +98,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -107,13 +114,6 @@ Here is how to do it:
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
@@ -133,27 +133,26 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -162,10 +161,10 @@ So you can try disabling fast startup to see if it does the trick:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
@@ -187,6 +186,13 @@ So you can try disabling fast startup to see if it does the trick:
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -214,20 +220,21 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-dimensions-demystified-a-complete-aspect-ratio-handbook/"><u>[New] YouTube Dimensions Demystified A Complete Aspect Ratio Handbook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-command-and-conquer-4-launch-fail-xbox-error/"><u>[RESOLVED] Command & Conquer 4 Launch Fail - Xbox Error</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-efficient-screen-capture-devices-for-education-for-2024/"><u>[Updated] Efficient Screen Capture Devices for Education for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-vdx-quickcapture-evaluation-guide-comprehensive-review/"><u>[Updated] VDX QuickCapture Evaluation Guide Comprehensive Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-to-written-world-superior-convert-tools-online/"><u>[Updated] YouTube to Written World Superior Convert Tools Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-leading-the-charge-in-macwin-srt-modifications/"><u>2024 Approved Leading the Charge in Mac/Win SRT Modifications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dell-screen-stabilizing-after-glitch-fix/"><u>Dell Screen Stabilizing After Glitch Fix</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-reno-10-proplus-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo Reno 10 Pro+ 5G Face Lock?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live-for-2024/"><u>Masterclass Splitting Your Screen for Maximum Impact on Facebook Live for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-amd-radeon-r9-driver-hurdles-in-win11/"><u>Overcoming AMD Radeon R9 Driver Hurdles in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pixel-void-graphics-card-not-found/"><u>Pixel Void: Graphics Card Not Found</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/quick-recording-tips-for-your-next-google-meet-video-call-for-2024/"><u>Quick Recording Tips for Your Next Google Meet Video Call for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-green-screen-glitches-on-youtube/"><u>Removing Green Screen Glitches on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shadow-of-the-tombs-trail-troubled-transfers/"><u>Shadow of the Tomb's Trail: Troubled Transfers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-at-minecraft-overcoming-gpu-driver-troubles/"><u>Winning at Minecraft: Overcoming GPU Driver Troubles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-nuclear-dawn-update-issue-xbox-launch-failure/"><u>[FIXED] Nuclear Dawn Update Issue - Xbox Launch Failure</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>[New] Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>[New] Mobile Streams on YouTube Less Than 1000 Subs? No Problem</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-burst-into-action-the-art-of-engaging-instagram-boomers-for-2024/"><u>[Updated] Burst Into Action The Art of Engaging Instagram Boomers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-failures-in-saving-display-configurations/"><u>Addressing Failures in Saving Display Configurations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-restored-on-windows-11-by-qualcomm/"><u>Atheros Wi-Fi Drivers Restored on Windows 11 by Qualcomm</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/formulating-engaging-instagram-story-titles-for-2024/"><u>Formulating Engaging Instagram Story Titles for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-mix-text-and-video-on-a-shoestring-budget/"><u>How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/implement-a-free-personalized-windows-gpt-replica/"><u>Implement a Free, Personalized Windows GPT Replica</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-google-pixel-7a-by-drfone-android/"><u>In 2024, How to Bypass FRP from Google Pixel 7a?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 13 Pro to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-ready-for-download-and-installation/"><u>Latest Canon PIXMA TS3322 Printer Drivers Ready for Download & Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-issue-ceased-windows-operation-resolution-achieved/"><u>NVIDIA Issue: Ceased Window's Operation, Resolution Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recovering-unrecognized-pc-gpu-compatibility-issue/"><u>Recovering Unrecognized PC GPU Compatibility Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-tips-standby-gpu-display-nvidia/"><u>Straightforward Adjustment Tips: Standby GPU Display, NVIDIA</u></a></li>
 </ul></div>
 

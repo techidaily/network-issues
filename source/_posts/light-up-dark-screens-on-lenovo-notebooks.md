@@ -1,7 +1,7 @@
 ---
 title: Light Up Dark Screens on Lenovo Notebooks
-date: 2024-09-08T06:17:12.314Z
-updated: 2024-09-15T03:30:13.397Z
+date: 2024-09-18T02:51:19.363Z
+updated: 2024-09-19T20:16:52.965Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -91,10 +84,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -116,10 +109,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
@@ -136,19 +129,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -156,6 +136,13 @@ So you can try disabling fast startup to see if it does the trick:
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -184,15 +171,22 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -220,20 +214,15 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-high-quality-audio-excellence-with-these-mics/"><u>[Updated] 2024 Approved High-Quality Audio Excellence with These Mics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-flickering-on-your-acer-laptop-screen/"><u>Correcting Flickering on Your Acer Laptop Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-a-festive-new-years-eve-message-a-step-by-step-guide-to-crafting-and-sending-your-joyful-seasonal-greetings/"><u>Creating a Festive New Year's Eve Message: A Step-by-Step Guide to Crafting & Sending Your Joyful Seasonal Greetings</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-gaming-better-performance-on-roblox-windows-edition/"><u>Elevate Your Gaming: Better Performance on Roblox Windows Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/explaining-high-definition-superiority-4k/"><u>Explaining High-Definition Superiority: 4K</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-glitch-full-windows-show-on-screen-windows-10/"><u>Fixed Monitor Glitch - Full Windows Show on Screen (Windows 10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-edge-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Edge 2023 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-complete-no-issues-found/"><u>Installation Complete: No Issues Found</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-to-these-6-ideal-destinations-for-watching-music-videoclips-web-based/"><u>Navigate to These 6 Ideal Destinations for Watching Music Videoclips Web-Based</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reintroducing-forgotten-nvidia-or-amd-hardware/"><u>Reintroducing Forgotten NVIDIA or AMD Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-windows-boot-up-missing-executable-file-issue/"><u>Step-by-Step Solutions for Fixing Windows Boot Up: Missing Executable File Issue</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719153446795-the-cryptic-connection-zuckerberg-goats-and-crypto-names/"><u>The Cryptic Connection: Zuckerberg, Goats & Crypto Names</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-graphics-potential-windows-10-now-features-nvidia-210/"><u>Unleash Graphics Potential: Windows 10 Now Features Nvidia 210</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[New] Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-habits-to-embrace-with-podcasts-playing/"><u>[New] Perfect Habits to Embrace with Podcasts Playing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-role-of-workspace-dynamics-in-employee-output/"><u>[New] The Role of Workspace Dynamics in Employee Output</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-youtube-success-mastery-with-tubebuddy/"><u>[Updated] 2024 Approved Boosting YouTube Success Mastery with TubeBuddy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>[Updated] Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-edge-precision-in-display/"><u>Balance Edge Precision in Display</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-fullscape-synergy-the-smart-mcn-picking-game/"><u>In 2024, FullScape Synergy The Smart MCN Picking Game</u></a></li>
+<li><a href="https://network-issues.techidaily.com/never-ending-wi-fi-troubleshooting/"><u>Never-Ending Wi-Fi Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/powering-through-intel-graphics-updates-win-7-edition-insights-and-tips/"><u>Powering Through Intel Graphics Updates: Win 7 Edition Insights and Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/shortcuts-how-to-skip-ongoing-password-prompts-on-pc/"><u>Shortcuts: How to Skip Ongoing Password Prompts on PC</u></a></li>
 </ul></div>
 

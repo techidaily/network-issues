@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] AO3 Crash at Start - DirectX Compatibility Problem"
-date: 2024-07-12T00:26:14.710Z
-updated: 2024-07-13T00:26:14.710Z
+date: 2024-09-15T00:21:14.907Z
+updated: 2024-09-20T05:21:54.468Z
 tags:
   - win11
   - win10
@@ -101,10 +101,25 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -132,6 +147,14 @@ If this fix doesn’t work, move to the next one.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -144,8 +167,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +174,18 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[Updated] Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-tier-mp4-director-for-facebook/"><u>2024 Approved Top-Tier MP4 Director for Facebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debugged-opengl-error-nvidia-graphics-armoried/"><u>Debugged OpenGL Error: NVIDIA Graphics Armoried</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-fixed-nvidia-related-stoppage-in-windows-os/"><u>Error Fixed: Nvidia-Related Stoppage in Windows OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-x9b-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor X9b? Try These Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-resolution-achieved-post-error-normalization/"><u>Graphic Resolution Achieved: Post-Error Normalization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>In 2024, 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimal-screen-resolution-fix-available-windows-10/"><u>Optimal Screen Resolution: Fix Available, Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-dark-windows-11-issue/"><u>Overcoming the Dark Windows 11 Issue</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-purity-drive-excluding-polityfaith-talk/"><u>Social Media Purity Drive: Excluding Polity/Faith Talk</u></a></li>
+</ul></div>
 

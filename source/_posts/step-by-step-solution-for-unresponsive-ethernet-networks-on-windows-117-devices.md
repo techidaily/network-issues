@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2024-09-09T16:13:56.076Z
-updated: 2024-09-14T19:56:17.233Z
+date: 2024-09-19T06:10:24.843Z
+updated: 2024-09-19T21:33:38.941Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -77,19 +84,6 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -103,13 +97,21 @@ Follow the steps below:
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -119,13 +121,6 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -160,12 +155,20 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-whatsapp-talk-mechanics/"><u>2024 Approved Deciphering WhatsApp Talk Mechanics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-amd-gpio-device-driver-today/"><u>Download the Latest AMD GPIO Device Driver Today!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>In 2024, Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8 Plus</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>[Updated] 2024 Approved Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-the-latest-version-of-amd-radeon-drivers-for-windows-8-without-cost/"><u>Access the Latest Version of AMD Radeon Drivers for Windows 8 Without Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-earnings-in-the-world-of-podcasting/"><u>Average Earnings in the World of Podcasting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/connection-error-laptops-showcase-unseen-by-tv/"><u>Connection Error: Laptop's Showcase Unseen by TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debating-top-talkers-gpt-vs-huggingchats-clash/"><u>Debating Top Talkers: GPT vs HuggingChat's Clash</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-question-of-authorship-how-is-copyright-assigned-in-the-realm-of-artificial-intelligence/"><u>Demystifying the Question of Authorship: How Is Copyright Assigned in the Realm of Artificial Intelligence?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-your-skills-with-the-pinnacle-of-flight-technology-the-dji-air/"><u>Elevating Your Skills with the Pinnacle of Flight Technology - The DJI Air</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-pixel-rhythms-the-ideal-online-source-for-2024/"><u>Google Pixel Rhythms The Ideal Online Source for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-techniques-to-remove-audio-from-updated-avi-software-file/"><u>In 2024, Techniques to Remove Audio From Updated AVI Software File</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-level-graphics-performance-in-nvidia-210-driver/"><u>Next-Level Graphics Performance in Nvidia 210 Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-flicker-anomaly/"><u>Overcoming Windows 10 Flicker Anomaly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-hybrid-gpu-issues-nvidiaintel-fix-for-windows-10/"><u>Tackling Hybrid GPU Issues: NVIDIA/Intel Fix for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleash-smooth-anthem-experience/"><u>Unleash Smooth Anthem Experience</u></a></li>
 </ul></div>
 

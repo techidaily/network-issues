@@ -1,7 +1,7 @@
 ---
 title: Restoring Brightness to Lenovo’s Invisible Display
-date: 2024-07-12T00:25:32.757Z
-updated: 2024-07-13T00:25:32.757Z
+date: 2024-09-17T22:23:36.695Z
+updated: 2024-09-20T04:24:09.039Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -115,6 +122,19 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -122,6 +142,13 @@ So you can try disabling fast startup to see if it does the trick:
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -133,6 +160,19 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -140,6 +180,13 @@ So you can try disabling fast startup to see if it does the trick:
  1) On your keyboard, press the**Windows logo key** and type**system restore** , then click on**Create a restore point** once it shows up as a matching result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
 
@@ -170,8 +217,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,6 +224,22 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-time-lapse-screen-recorder/"><u>[New] 2024 Approved Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[Updated] 2024 Approved Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-dead-after-upgrading-graphics-card/"><u>Display Dead After Upgrading Graphics Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-erratic-views-on-win7/"><u>Eliminating Erratic Views on Win7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-driver-revision-a-windows-11-enhancement/"><u>GeForce RTX210 Driver Revision: A Windows 11 Enhancement</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-s23-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel S23 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-camon-20-premier-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Camon 20 Premier 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-your-instagram-with-funny-flair-a-complete-guide-to-gif-memes/"><u>In 2024, Infuse Your Instagram with Funny Flair – A Complete Guide to GIF Memes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>Podcast Scriptwriting Made Easy Techniques and Illustrative Templates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-rectify-apex-legends-glitches-now/"><u>Quick Fix: Rectify Apex Legends Glitches Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-overshoot-on-displays/"><u>Rectify Overshoot on Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/render-error-gpu-unavailable-2020/"><u>Render Error: GPU Unavailable 2020</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/strategic-broadcasting-link-twitch-to-facebook-feeds-for-2024/"><u>Strategic Broadcasting Link Twitch to Facebook Feeds for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-processor-update-completed/"><u>Visual Processor Update Completed</u></a></li>
+</ul></div>
 

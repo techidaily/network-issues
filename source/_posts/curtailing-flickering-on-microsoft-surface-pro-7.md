@@ -1,7 +1,7 @@
 ---
 title: Curtailing Flickering on Microsoft Surface Pro 7
-date: 2024-07-12T00:27:18.003Z
-updated: 2024-07-13T00:27:18.003Z
+date: 2024-09-13T11:38:37.815Z
+updated: 2024-09-20T07:51:43.454Z
 tags:
   - win11
   - win10
@@ -76,9 +76,23 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -101,6 +115,13 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -108,6 +129,13 @@ Here’s how you can update your drivers with Driver Easy:
  1) Right-click on the**Start Men** u of your desktop screen and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Within settings, select**System** .
 
@@ -118,6 +146,13 @@ Here’s how you can update your drivers with Driver Easy:
  4) Under**Multiple displays** , select**Advanced display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Display adapter properties** .
 
@@ -184,8 +219,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +226,19 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-unparalleled-costless-pixel-perfection-software/"><u>[New] Unparalleled, Costless Pixel Perfection Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-brilliance-in-display-top-5-for-grading-professionals/"><u>[Updated] In 2024, Brilliance in Display TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-fails-conquer-crashing-on-windows/"><u>Fallout Fails: Conquer Crashing on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-end-displays-revived-with-windows-update/"><u>High-End Displays Revived with Windows Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-and-use-the-group-policy-editor-gpmcgpp-on-windows-10-home-pcs/"><u>How to Enable and Use the Group Policy Editor (GPMC/GPP) on Windows 10 Home PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-12-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 12 Pro without Security Questions?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone XS Max?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-display-saved-settings-freeze-in-windows-oses/"><u>Overcoming Display Saved Settings Freeze in Windows OSes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-highlow-res-errors/"><u>Overcoming Windows 10 High/Low-Res Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-to-prevent-sudden-shutdowns-enhancing-stability-for-state-of-decay-2-players/"><u>Top Strategies to Prevent Sudden Shutdowns: Enhancing Stability for State of Decay 2 Players</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-reducing-extra-screen-real-estate/"><u>Windows 11: Reducing Extra Screen Real Estate</u></a></li>
+</ul></div>
 

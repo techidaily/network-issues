@@ -1,7 +1,7 @@
 ---
 title: "[TROUBLESHOOTED] Online Links Issues with CoD Cold War"
-date: 2024-07-12T00:27:07.010Z
-updated: 2024-07-13T00:27:07.010Z
+date: 2024-09-13T11:11:08.871Z
+updated: 2024-09-20T03:30:09.063Z
 tags:
   - win11
   - win10
@@ -88,11 +88,26 @@ If you are not sure where your game is installed, take these steps:
 1. Exit your launcher.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
 Then it’ll launch in admin mode.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network adapter driver
 
@@ -135,6 +150,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
@@ -158,6 +181,13 @@ To see if a new DNS address helps, you can follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
 
  If you haven’t linked your Activision and Blizzard accounts, you may not be able to connect to the online services. So to eradicate the error message, follow the steps below to link your accounts:
@@ -171,6 +201,13 @@ To see if a new DNS address helps, you can follow the instructions below:
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, launch your game and check if you can connect to online services.
 
@@ -192,8 +229,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,6 +236,23 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3-for-2024/"><u>[New] Ensuring Data Privacy While Transforming YouTube Video Audio to MP3 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>[New] In 2024, Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-halo-infinite-not-launching-due-to-directx12-error/"><u>[SOLVED] Halo Infinite Not Launching Due to DirectX12 Error</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elevate-your-presentations-with-voiceovers/"><u>[Updated] 2024 Approved Elevate Your Presentations with Voiceovers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-perfecting-sound-with-ideal-cam-mics-list/"><u>[Updated] 2024 Approved Perfecting Sound with Ideal Cam Mics List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-culinary-video-production/"><u>[Updated] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-uneven-line-presence-with-simplified-fix-techniques/"><u>Correcting Uneven Line Presence with Simplified Fix Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevated-cinematography-mastering-drone-use/"><u>Elevated Cinematography Mastering Drone Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-backward-screen-display-order/"><u>Fixing Backward Screen Display Order</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-failure-zero-output-latest-model/"><u>Graphics Failure: Zero Output, Latest Model</u></a></li>
+<li><a href="https://network-issues.techidaily.com/outrun-game-freeze-anthem-lag-cure/"><u>Outrun Game Freeze: Anthem Lag Cure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-pixel-real-estate-win11-edition/"><u>Perfecting Pixel Real Estate: Win11 Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/snapshot-styles-a-guide-to-using-old-school-vhs-in-modern-editing/"><u>Snapshot Styles A Guide to Using Old-School VHS in Modern Editing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-torrent-websites-techniques-to-overcome-censorship-and-discover-substitutes/"><u>Unlocking Torrent Websites: Techniques to Overcome Censorship and Discover Substitutes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wifi-adapter-driver-download-and-install-for-windows-1110/"><u>WiFi Adapter Driver Download and Install for Windows 11/10</u></a></li>
+</ul></div>
 

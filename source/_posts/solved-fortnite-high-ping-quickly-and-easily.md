@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | Fortnite High Ping | Quickly & Easily!"
-date: 2024-09-08T23:58:16.763Z
-updated: 2024-09-15T04:31:36.694Z
+date: 2024-09-17T23:54:42.006Z
+updated: 2024-09-20T07:50:18.910Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -74,20 +67,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -109,6 +95,14 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
@@ -123,8 +117,24 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
@@ -138,25 +148,18 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
@@ -200,21 +203,16 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expand-your-knowledge-elite-15-sci-yt-channels-list-for-2024/"><u>[New] Expand Your Knowledge Elite 15 Sci-YT Channels List for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recovered-state-after-glitch-nvidia-shows-stability/"><u>[Recovered State] After Glitch, Nvidia Shows Stability</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-primes-favorites-highest-tweets-and-view-counts-analysis/"><u>[Updated] Prime's Favorites Highest Tweets & View Counts Analysis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/armored-fix-for-gpu-driver-22/"><u>Armored Fix for GPU DRIVER #22</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/budget-friendly-obs-optimization-techniques/"><u>Budget-Friendly OBS Optimization Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/edge-persistent-operation-on-win11/"><u>Edge: Persistent Operation on Win11?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fine-tune-focus-effective-minecraft-zooming-strategies/"><u>Fine-Tune Focus Effective Minecraft Zooming Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flawless-streams-instant-fix-needed/"><u>Flawless Streams, Instant Fix Needed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-tackle-c1900101-during-win11-setup-process/"><u>How To Tackle C1900101 During Win11 Setup Process</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-remedy-to-horizontal-line-phenomenon-in-laptops/"><u>Immediate Remedy to Horizontal Line Phenomenon in Laptops</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-play-8t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Play 8T to Another | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-outperforming-vimeo-with-these-superior-alternatives/"><u>In 2024, Outperforming Vimeo with These Superior Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maintaining-anonymity-online-how-to-delete-your-entire-history-with-microsofts-chatbot-gpt/"><u>Maintaining Anonymity Online: How to Delete Your Entire History with Microsoft's Chatbot, GPT</u></a></li>
-<li><a href="https://network-issues.techidaily.com/patched-erroneous-windows-graphics-link/"><u>Patched Erroneous Windows Graphics Link</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-flicker-phenomenon-in-pro-7/"><u>Quelling Flicker Phenomenon in Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-win1110-now-lacks-amd-graphics-drivers/"><u>[RESOLVED] Win11/10 Now Lacks AMD Graphics Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>[Updated] The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-silent-sounds-garagebands-volume-control-magic/"><u>2024 Approved Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-texture-detail-for-better-far-cry-experience/"><u>Enhancing Texture Detail for Better Far Cry Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-digital-magic-enhancing-vhs-photos-online/"><u>Exploring Digital Magic Enhancing VHS Photos Online</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-camon-20-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Camon 20 to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-display-laptop-hdmi-not-recognized-by-tv/"><u>Invisible Display: Laptop HDMI Not Recognized By TV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-hp-monitor-flicker-phenomenon/"><u>Preventing HP Monitor Flicker Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transforming-visuals-on-win10-with-newest-amd-graphics-drivers/"><u>Transforming Visuals on Win10 with Newest AMD Graphics Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-restore-lost-geforce-preferences/"><u>Troubleshooting Guide: How to Restore Lost GeForce Preferences</u></a></li>
 </ul></div>
 

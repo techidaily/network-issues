@@ -1,7 +1,7 @@
 ---
 title: Overcoming C1900101 in Win10 Preparation
-date: 2024-09-11T20:19:50.779Z
-updated: 2024-09-14T18:58:11.024Z
+date: 2024-09-16T22:30:41.945Z
+updated: 2024-09-19T19:21:57.404Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
@@ -60,13 +67,6 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
 ## Method 4: Do a clean boot
@@ -74,6 +74,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 Clean boot requires only the very basic and built-in drivers and programs to run your computer. Therefore, it usually tells if the installed software is conflicting with others when you update, install or run it. If you’re having the 0xC1900101 error code, we recommend that you do a clean boot and see if you’re able to upgrade to or update your Windows 10 from there. **IMPORTANT**: You must log in as**administrator**to do the clean boot. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**msconfig**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
@@ -84,28 +91,15 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
@@ -119,20 +113,27 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
-When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
 sfc /scannow
 
 Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
@@ -141,19 +142,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -178,16 +166,16 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-imageslice-cutter/"><u>[New] ImageSlice Cutter</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-reach-optimal-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 2024 Approved Elevate Reach Optimal Strategies for Crafting YouTube Titles & Tags</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-elevate-your-live-streaming-expert-camrecorder-guidance/"><u>[Updated] 2024 Approved Elevate Your Live Streaming Expert CamRecorder Guidance</u></a></li>
-<li><a href="https://facebook.techidaily.com/can-facebooks-reel-challenge-succeed-against-tiktoks-appeal/"><u>Can Facebook’s Reel Challenge Succeed Against TikTok's Appeal?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-basic-render-drivers-for-win-versions-11-to-7/"><u>Fixed: Basic Render Drivers for Win Versions 11 to 7</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-creative-potential-with-pexels-visuals/"><u>In 2024, Unlocking Creative Potential with Pexels Visuals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-process-concluded-smoothly-for-nvidia/"><u>Installation Process Concluded Smoothly for NVIDIA</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13t-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13T Phone FRP Lock</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smoothly-reactivate-your-bluetooth-with-this-guide-win1111/"><u>Smoothly Reactivate Your Bluetooth with This Guide, Win11/11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-easier-screens-on-any-size-device/"><u>Win11: Easier Screens on Any Size Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-now-packs-enhanced-driver-for-amds-radeon-hd-6950-gpu/"><u>Windows 11 Now Packs Enhanced Driver for AMD's Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-choices-free-and-paid-screen-recorder-tools-for-google-meet-for-2024/"><u>[New] Top Choices Free & Paid Screen Recorder Tools for Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-becoming-a-trendsetter-viral-tactics-for-fb/"><u>[Updated] 2024 Approved Becoming a Trendsetter Viral Tactics for FB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-budget-friendly-recorder-choices-for-youtube-vloggers/"><u>[Updated] In 2024, Budget-Friendly Recorder Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-flicker-on-win11-displays/"><u>Eliminate Flicker on Win11 Displays</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-8-tools-for-quick-subs-to-srt-on-windows-osx-and-more-for-2024/"><u>Essential 8 Tools for Quick Subs to SRT on Windows, OSX and More for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-screen-gaps-during-games/"><u>Stop Screen Gaps During Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-x8b-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor X8b IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-end-battlefront-iis-crashing-problem-on-windows/"><u>Ultimate Troubleshooting Guide: End Battlefront II's Crashing Problem on Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-elevate-your-storytelling-easy-video-creation-with-ezvid-on-mac/"><u>Updated 2024 Approved Elevate Your Storytelling Easy Video Creation with Ezvid on Mac</u></a></li>
 </ul></div>
 

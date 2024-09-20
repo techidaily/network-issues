@@ -1,7 +1,7 @@
 ---
 title: Hustle Past Game Hold-Ups
-date: 2024-09-12T03:31:15.254Z
-updated: 2024-09-15T07:04:31.074Z
+date: 2024-09-13T11:17:16.126Z
+updated: 2024-09-19T22:20:06.810Z
 tags:
   - win11
   - win10
@@ -136,10 +136,10 @@ So you can follow the steps below to disable CPU core parking:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
@@ -166,13 +166,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -180,6 +173,13 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -190,10 +190,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
@@ -225,19 +225,21 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-achieving-financial-gains-via-snapchat/"><u>[New] In 2024, Achieving Financial Gains via Snapchat</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>[Updated] 2024 Approved Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-overview-of-dji-flyer-x20-virtual-reality-lenses-for-2024/"><u>[Updated] Overview of DJi Flyer X20 Virtual Reality Lenses for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-drama-to-film-shaping-realistic-dialogue/"><u>2024 Approved From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-instantaneous-accurate-image-browser-win11/"><u>2024 Approved Instantaneous, Accurate Image Browser Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-disruptions-a-definitive-guide-to-fixing-persistent-fifa-20-pc-crashes-learn-the-essential-techniques/"><u>Eliminate Game Disruptions: A Definitive Guide to Fixing Persistent FIFA 20 PC Crashes - Learn the Essential Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-and-configure-your-pcs-dashboard-windows-10-instructions/"><u>Find and Configure Your PC's Dashboard - Windows 10 Instructions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphicinterface-lockup-in-win-os-worked-out/"><u>GraphicInterface Lockup in Win OS (Worked Out)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-apex-productions-audit-studio-25-breakdown-2023/"><u>In 2024, Apex Productions Audit Studio 25 Breakdown, 2023</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-radeon-r9-drivers-for-new-windows-11/"><u>Navigating Radeon R9 Drivers for New Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-graphics-driver-deployment-roadblocks/"><u>Overcoming Graphics Driver Deployment Roadblocks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/sharpness-achieved-screen-fix/"><u>Sharpness Achieved: Screen Fix</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-merger-software-alternatives-online-tools-you-need/"><u>Updated 2024 Approved Free Video Merger Software Alternatives Online Tools You Need</u></a></li>
+<li><a href="https://network-issues.techidaily.com/finalized-fixing-cod-cold-war-online-disconnects/"><u>[FINALIZED] Fixing CoD Cold War Online Disconnects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crafting-engaging-content-with-added-vocal-dimensions-in-tiktok-videos-for-2024/"><u>[New] Crafting Engaging Content with Added Vocal Dimensions in TikTok Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-error-windows-blue-screen-fix/"><u>dxgkrnl.sys Error: Windows Blue Screen Fix</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-a59-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on A59 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-multimedia-channels-and-platforms/"><u>Inside Look at LG's Multimedia Channels and Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instantaneous-accurate-image-browser-win11/"><u>Instantaneous, Accurate Image Browser Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-screen-extension-in-w11-os/"><u>Mastering Screen Extension in W11 OS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-merge-like-a-pro-the-top-5-free-online-video-editors/"><u>New 2024 Approved Merge Like a Pro The Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-level-gaming-rtx210-drivers-for-windows-11-update/"><u>Next-Level Gaming - RTX210 Drivers for Windows 11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-suitable-cg-available-fix-needed/"><u>No Suitable CG Available, Fix Needed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauled-erratic-code-22-in-drivers/"><u>Overhauled Erratic Code 22 in Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a05s-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A05s? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purging-unwanted-windows-screen-flashes/"><u>Purging Unwanted Windows Screen Flashes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/streamlining-tiktok-posts-for-facebook-exposure/"><u>Streamlining TikTok Posts for Facebook Exposure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-intel-optane-performance-the-ultimate-resource-for-downloading-and-updating-windows-drivers/"><u>Troubleshooting Intel Optane Performance: The Ultimate Resource for Downloading and Updating Windows Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-mastering-dvd-extraction-with-winx-dvd-ripper-pro-for-mac/"><u>Ultimate Guide: Mastering DVD Extraction with WinX DVD Ripper Pro for Mac</u></a></li>
 </ul></div>
 

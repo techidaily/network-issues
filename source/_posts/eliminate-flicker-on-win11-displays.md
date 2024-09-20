@@ -1,7 +1,7 @@
 ---
 title: Eliminate Flicker on Win11 Displays
-date: 2024-09-07T22:38:28.615Z
-updated: 2024-09-14T16:56:20.674Z
+date: 2024-09-13T09:59:13.837Z
+updated: 2024-09-20T08:48:31.413Z
 tags:
   - win11
   - win10
@@ -64,6 +64,19 @@ There are mainly two ways to update your display driver:
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change the refresh rate
 
  The refresh rate of a display is the number of times per second that your monitor draws a new image. If your display refresh rate is not set properly, you may encounter screen flickering issues in Windows 11\. To fix it, you can change the refresh rate. Here’s how:
@@ -77,6 +90,13 @@ If the issue remains, check out the next fix.
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update or uninstall incompatible apps
 
  The app developers often release updates to tackle compatibility issues with the new operating system. If your apps are still running in an old version, you may encounter a flickering screen on your Windows 11 PC. To fix the potential problem, you need to update all your apps to the latest version.
@@ -86,14 +106,22 @@ If the issue remains, check out the next fix.
 1. Click**Start** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
@@ -147,13 +175,6 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-new-DWORD.jpg)  
  Then rename the file as**DisableHWAcceleration** .**Double-click** on the file and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
 4. Close Registry Editor and restart your computer.
 
@@ -166,21 +187,7 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
@@ -198,6 +205,13 @@ If this fix doesn’t do the trick, try the next one below.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2: Use the System File Checker tool to repair system files
 
  System File Checker is a built-in tool that allows users to scan for and restore corrupted Windows system files. To perform SFC scan and repair Windows image:
@@ -211,13 +225,6 @@ If this fix doesn’t do the trick, try the next one below.
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
@@ -246,20 +253,21 @@ Once done, check if your problem has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-insiders-secret-to-viral-tiktok-edits/"><u>[Updated] 2024 Approved The Insider's Secret to Viral TikTok Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>2024 Approved Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-display-glitches-tips-and-tricks/"><u>Banishing Display Glitches: Tips & Tricks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-m6-pro-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco M6 Pro 4G?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-12-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 12</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-identify-the-best-8-services-to-enhance-youtube-engagement/"><u>In 2024, Identify the Best 8 Services to Enhance YouTube Engagement</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-amd-hd-6950-driver-release-for-win11/"><u>New AMD HD 6950 Driver Release for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-hardware-configuration-flawless-installation/"><u>NVIDIA Hardware Configuration: Flawless Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-win11-screen-glitches/"><u>Quick Fix for Win11 Screen Glitches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-steamvr-problems-instantly-expert-tips-inside/"><u>Resolve SteamVR Problems Instantly – Expert Tips Inside!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-essential-routine-for-updating-intel-drivers-in-win-7/"><u>The Essential Routine for Updating Intel Drivers in Win 7</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-gamer-writes-top-7-fps-games-list/"><u>Ultimate Gamer' Writes Top 7 FPS Games List</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-drivers-geforce-rtx210-and-windows-11-fusion/"><u>Upgraded Drivers: GeForce RTX210 and Windows 11 Fusion</u></a></li>
-<li><a href="https://games-able.techidaily.com/visual-triumph-and-tribulations-in-pimax-crystal-headset/"><u>Visual Triumph and Tribulations in Pimax Crystal Headset</u></a></li>
+<li><a href="https://network-issues.techidaily.com/curbing-window-10-size-excesses/"><u>Curbing Window 10 Size Excesses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-switchable-graphics-problem-a-success-for-windows-11-users/"><u>End of Switchable Graphics Problem - A Success for Windows 11 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-neo-5-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme GT Neo 5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-mov-swf/"><u>Google에서 찾아보세요! 원본 동영상 크기를 줄이고, MOV SWF로 전환하는 무료 솔루션</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-to-reactivate-unseen-graphics-card-in-pc/"><u>Guide to Reactivate Unseen Graphics Card in PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-p40-by-drfone-android/"><u>How to Bypass FRP from Itel P40?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-s17t-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo S17t Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/itunes/"><u>ITunes プレイリスト管理に困難が発生した場合の解決策：作成、編集、追加不能時の対策方法</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-graphics-resolved-in-win11/"><u>Nvidia/Intel Hybrid Graphics Resolved in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-frequent-display-flickering/"><u>Remedy Frequent Display Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-3080-takedown-fixing-game-failures/"><u>RTX 3080 Takedown: Fixing Game Failures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-system-maintenance-executing-safe-mode-and-gpu-removal/"><u>Secure System Maintenance: Executing Safe Mode and GPU Removal</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-purpose-of-vessel-monitoring-systems-vms-and-automatic-identification-system-ais-explain-how-they-provide-real-time-data-on-the-vessels-identity-positio37/"><u>The Purpose of Vessel Monitoring Systems (VMS) and Automatic Identification System (AIS): Explain How They Provide Real-Time Data on the Vessel's Identity, Position, Speed, Course, and Navigational Status, Which Aids in Maritime Safety and Security.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-rejoices-with-fixed-nvidiaintel-graphics-card-pairing/"><u>Windows 10 Rejoices with Fixed Nvidia/Intel Graphics Card Pairing</u></a></li>
 </ul></div>
 

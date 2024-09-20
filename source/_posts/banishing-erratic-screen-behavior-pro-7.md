@@ -1,7 +1,7 @@
 ---
 title: Banishing Erratic Screen Behavior (Pro 7)
-date: 2024-07-12T00:26:30.515Z
-updated: 2024-07-13T00:26:30.515Z
+date: 2024-09-13T05:43:39.804Z
+updated: 2024-09-19T20:35:39.238Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
 **Automatically (recommended) –** If you are not familiar with installing drivers, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -101,6 +108,13 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -125,7 +139,21 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -141,6 +169,13 @@ Here’s how you can update your drivers with Driver Easy:
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -184,8 +219,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +226,20 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>[Updated] In 2024, Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-error-methods-to-reconnect-with-outlook-seamlessly/"><u>Fixing the Error: Methods to Reconnect with Outlook Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-fix-hunter-worlds-beast-down/"><u>Graphics Fix: Hunter World's Beast Down</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-f25-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo F25 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps/"><u>In 2024, NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/redirecting-faulty-nvidia-displays-settings-links/"><u>Redirecting Faulty NVIDIA Displays Settings Links</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revealed-top-windows-11-gems-that-could-boost-your-user-performance-for-2024/"><u>Revealed Top Windows 11 Gems That Could Boost Your User Performance for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/skys-dynamic-range-showcase-websites-ranked-1-10-for-2024/"><u>Sky's Dynamic Range Showcase - Websites Ranked 1-10 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-refresh-intel-g3000-driver-on-win11/"><u>Swiftly Refresh Intel G3000 Driver on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stuck-at-default-screen-res/"><u>Win11: Stuck at Default Screen Res</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/wonder-workshops-dash-a-connected-interactive-toy-ready-to-roll-into-action/"><u>Wonder Workshop's Dash - A Connected, Interactive Toy Ready to Roll Into Action!</u></a></li>
+</ul></div>
 

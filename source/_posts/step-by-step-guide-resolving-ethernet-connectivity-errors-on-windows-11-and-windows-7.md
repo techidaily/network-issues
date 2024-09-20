@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7"
-date: 2024-09-09T18:43:41.568Z
-updated: 2024-09-14T23:14:04.644Z
+date: 2024-09-17T16:31:52.751Z
+updated: 2024-09-19T20:23:19.677Z
 tags:
   - win11
   - win10
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
@@ -95,22 +95,15 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
@@ -134,6 +127,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Superfast internet and up to $250 in reward cards
 
  Order online and get up to a $200 reward card—plus an extra $50 reward card when you enter promo code **FALL50** at checkout.
@@ -155,15 +155,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-effortless-android-screenshot-and-screen-record/"><u>[Updated] 2024 Approved Effortless Android Screenshot & Screen Record</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-screen-snapper-unlocking-zd-softwares-potential/"><u>2024 Approved Ultimate Screen Snapper Unlocking ZD Software's Potential</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-and-instagram-synergy-posting-content-easily/"><u>2024 Approved YouTube and Instagram Synergy Posting Content Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-inaccessible-video-preferences-on-nvidia/"><u>Fixing Inaccessible Video Preferences on NVIDIA</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-studio-tips-the-pathway-to-impressive-time-lapse-video-for-2024/"><u>GoPro Studio Tips The Pathway to Impressive Time Lapse Video for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus 11 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-4g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 10 4G Phone without Any Data Loss</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-upload-horizontal-videos-to-igtv-3-ways-for-2024/"><u>How to Upload Horizontal Videos to IGTV [3 Ways] for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-interrupted-by-nvidia-error-no-longer-halted/"><u>Windows Interrupted By NVIDIA Error, No Longer Halted</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevate-your-gaming-advanced-techniques-for-recording-minecraft-for-2024/"><u>[New] Elevate Your Gaming Advanced Techniques for Recording Minecraft for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ree-high-quality-youtube-banner-samples-inside/"><u>[New] Free High-Quality YouTube Banner Samples Inside!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-live-streaming-360-video-to-youtube/"><u>[New] How to Live Streaming 360 Video to Youtube</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tango-app-evaluation-enjoy-complimentary-texting-calling-and-chatting/"><u>Comprehensive Tango App Evaluation: Enjoy Complimentary Texting, Calling & Chatting</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-email-protected-for-hp-officejet-pro-69-series/"><u>Easy Installation: [Email Protected] for HP Officejet Pro 69 Series</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-preventing-sudden-deletion-of-personal-videos-from-fb/"><u>In 2024, Preventing Sudden Deletion of Personal Videos From FB</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-clarity-fixed-dell-monitor-glitch/"><u>Restoring Clarity: Fixed Dell Monitor Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revived-adventure-monster-hunt-error-cleared/"><u>Revived Adventure: Monster Hunt Error Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-dead-asus-webcam/"><u>Reviving Dead Asus Webcam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-nvidias-secrets-to-prevent-rtx-3080-failures/"><u>Unlock NVIDIA's Secrets to Prevent RTX 3080 Failures</u></a></li>
 </ul></div>
 

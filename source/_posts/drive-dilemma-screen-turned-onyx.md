@@ -1,7 +1,7 @@
 ---
 title: "Drive Dilemma: Screen Turned Onyx"
-date: 2024-07-12T00:25:53.321Z
-updated: 2024-07-13T00:25:53.321Z
+date: 2024-09-16T10:52:18.692Z
+updated: 2024-09-19T23:33:23.855Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Clean install the graphics card driver
 
  As mentioned, the screen goes black after installing a graphics card driver problem could be caused by a step going wrong during the display card driver installation process, like faulty driver files or incorrect permission granted. To see if this is your case, you can do the following to clean install the display card driver:
@@ -101,7 +108,35 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -126,6 +161,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.4 Restore BIOS settings
 
  Your monitor will remain black if there are some incorrect settings in BIOS, which stop certain firmware and/or software from starting properly. To see if this is your case, you can try to restore your BIOS settings to default.
@@ -137,6 +179,14 @@ To do so, first visit the website of your GPU manufacturer:
 3. On your motherboard, remove your CMOS battery with your fingernail or a non-conductive screwdriver. The CMOS battery looks like this:  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-38.png)
 4. Wait for 5 minutes, and then reinstall your CMOS battery.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 ---
@@ -198,8 +248,6 @@ When you boot into the Safe Mode with networking
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,6 +255,18 @@ When you boot into the Safe Mode with networking
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-problematic-youtube-shorts-thumbnails-display-for-2024/"><u>[Updated] Fixing Problematic YouTube Shorts Thumbnails Display for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-group-video-downloader/"><u>[Updated] In 2024, Facebook Group Video Downloader</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-audiovisual-hints-pack/"><u>[Updated] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-synthesizing-mood-an-ode-to-trailer-tunes/"><u>[Updated] Synthesizing Mood An Ode to Trailer Tunes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-stuttery-screens-on-windows-7/"><u>Addressing Stuttery Screens on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-youtubes-unwanted-green-screen-effects/"><u>Conquering Youtube's Unwanted Green Screen Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-inspection-immersing-in-virtual-reality-with-gear-360/"><u>Full Inspection Immersing in Virtual Reality with Gear 360</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-connect-two-monitors-to-my-laptop/"><u>How to Connect Two Monitors to My Laptop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/investing-5-yields-hundreds-of-new-viewers-now-in-2024/"><u>Investing $5 Yields Hundreds of New Viewers Now, In 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-uninterrupted-media-playback-post-win11-update/"><u>Mastering Uninterrupted Media Playback Post Win11 Update</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vervangen-van-caf-bestanden-door-mp3-een-vrije-online-oplossing-via-movavi/"><u>Vervangen Van CAF-Bestanden Door MP3: Een Vrije, Online Oplossing via Movavi</u></a></li>
+</ul></div>
 

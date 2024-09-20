@@ -1,7 +1,7 @@
 ---
 title: Falcon's Flight Delayed
-date: 2024-09-08T19:40:27.217Z
-updated: 2024-09-14T21:05:14.044Z
+date: 2024-09-15T10:06:39.286Z
+updated: 2024-09-20T11:33:39.065Z
 tags:
   - win11
   - win10
@@ -77,13 +77,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
@@ -109,30 +102,40 @@ Here we recommend using Google DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
-![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
-9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
-![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
-10. Click **Use the following DNS server addresses:**  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
+9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
+10. Click **Use the following DNS server addresses:**  
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -140,9 +143,23 @@ Here we recommend using Google DNS:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
 
@@ -170,13 +187,6 @@ Here’s how to do this:
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Press**Ctrl + S** to save the edits.
 
 When it’s all done, resume your download and it should be faster.
@@ -193,13 +203,6 @@ When it’s all done, resume your download and it should be faster.
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Try downloading your games again.
 
@@ -229,18 +232,19 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dominate-your-digital-space-with-these-10-follower-boosting-hacks-for-2024/"><u>[New] Dominate Your Digital Space with These 10 Follower-Boosting Hacks for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-vrecorder-a-download-and-install-journey/"><u>[Updated] 2024 Approved Mastering VRecorder A Download & Install Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>2024 Approved Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-launch-your-own-fb-stream-on-pc-mac-and-laptop-using-obs/"><u>2024 Approved Launch Your Own FB Stream on PC, Mac & Laptop Using OBS</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crisp-image-window-purity/"><u>Crisp Image: Window Purity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-a-fluid-gaming-session-with-civ-5-on-pc/"><u>Ensuring a Fluid Gaming Session with Civ 5 on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-moments-reel-slomo-app-analysis-2024/"><u>Mastering the Moment's Reel SloMo App Analysis, 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974889342-solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-unveiling-the-top-5-pros-of-52-pi-ice-tower-plus-for-your-raspberry-pi-4/"><u>Ultimate Guide: Unveiling the Top 5 Pros of '52-Pi Ice Tower Plus' For Your Raspberry Pi 4</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-download-adobe-premiere-pro-cs6-for-mac-free-latest-2023-version/"><u>Updated 2024 Approved Download Adobe Premiere Pro CS6 for Mac Free (Latest 2023 Version)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-past-stumbles-in-games/"><u>Zoom Past Stumbles in Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[New] 2024 Approved The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-affordable-storage-solutions-top-30-free-services-with-massive-1tbplus-space-capacity-for-2024/"><u>[New] Affordable Storage Solutions Top 30 Free Services with Massive (1TB+) Space Capacity for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-cutting-edge-tech-analysis-the-best-screen-recorder-roundup/"><u>[New] In 2024, Cutting Edge Tech Analysis The Best Screen Recorder Roundup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-vulkan-runtime-libraries-tips-for-effective-integration-and-usage/"><u>Decoding Vulkan Runtime Libraries: Tips for Effective Integration & Usage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-vulkan-runtime-libraries-tips-and-strategies-for-optimization/"><u>Demystifying Vulkan Runtime Libraries: Tips & Strategies for Optimization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-your-displays-pixel-density-a-simple-guide/"><u>Discover Your Display's Pixel Density: A Simple Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discovering-your-displays-pixels-a-simple-guide-to-check-screen-resolution/"><u>Discovering Your Display's Pixels: A Simple Guide to Check Screen Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effective-solutions-for-resolving-screen-flicker-issues-on-your-asus-notebook/"><u>Effective Solutions for Resolving Screen Flicker Issues on Your Asus Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-your-fps-ultimate-top-6-strategies-for-a-better-gaming-experience/"><u>Enhance Your FPS: Ultimate Top 6 Strategies for a Better Gaming Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722708397617-get-ultimate-hdtv-reception-with-1byones-amplified-indoor-antenna-a-bargain-for-your-broadcast-needs/"><u>Get Ultimate HDTV Reception with 1Byone's Amplified Indoor Antenna - A Bargain for Your Broadcast Needs!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974222223-how-to-fix-failure-in-installing-your-intels-thermal-and-platform-driver-solved/"><u>How to Fix Failure in Installing Your Intel's Thermal and Platform Driver - Solved!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-camon-20-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Camon 20 Pro 5G</u></a></li>
 </ul></div>
 

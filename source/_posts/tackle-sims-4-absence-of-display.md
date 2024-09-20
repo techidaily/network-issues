@@ -1,7 +1,7 @@
 ---
 title: Tackle Sims 4 Absence of Display
-date: 2024-09-14T04:15:17.505Z
-updated: 2024-09-14T21:20:06.993Z
+date: 2024-09-16T09:31:37.143Z
+updated: 2024-09-19T16:41:07.155Z
 tags:
   - win11
   - win10
@@ -91,19 +91,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -114,16 +101,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -139,22 +126,15 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -168,6 +148,13 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -196,6 +183,13 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -221,20 +215,20 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-an-overview-of-different-windows-movie-maker-models/"><u>[New] 2024 Approved An Overview of Different Windows Movie Maker Models</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>[Updated] Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-quick-guide-to-faster-tiktok-creation-for-2024/"><u>[Updated] Quick Guide to Faster TikTok Creation for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-chatgpt-litigations-newly-reworked-google-news-features-and-secrets-to-flawless-mobile-internet-use-away-from-home/"><u>Exploring the Impact of ChatGPT Litigations, Newly Reworked Google News Features & Secrets to Flawless Mobile Internet Use Away From Home</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-quickly-amd-graphic-flaw/"><u>Fix Quickly: AMD Graphic Flaw</u></a></li>
-<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-xs-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone XS without Password?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-image-restoration-discover-the-best-software-solutions-on-pc-and-mac/"><u>Mastering Image Restoration: Discover the Best Software Solutions on PC and Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-graphics-milestone-for-rtx210-on-windows-11-platform/"><u>New Graphics Milestone for RTX210 on Windows 11 Platform</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-installer-error-resolved-successfully/"><u>Nvidia's Installer Error Resolved Successfully</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-win11-no-display-issue/"><u>Solving Win11 No-Display Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/syncing-nforce630a-with-latest-os-release/"><u>Syncing nForce630a with Latest OS Release</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-savings-on-storage-the-ultimate-ssdhard-drive-guide-for-202eby/"><u>Unlock Savings on Storage: The Ultimate SSD/Hard Drive Guide for 202Eby</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zero-output-post-card-driver-change/"><u>Zero Output: Post Card Driver Change</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-cinematic-moments-across-devices-for-2024/"><u>[New] Capturing Cinematic Moments Across Devices for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/icrovid-virtuoso/"><u>[New] MicroVid Virtuoso</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-unblocking-online-access-from-cod-cold-war/"><u>[REPAIRED] Unblocking Online Access From CoD Cold War</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>[Updated] Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-micro-movie-maker/"><u>[Updated] Micro Movie Maker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-blurry-win7-visuals/"><u>Banishing Blurry Win7 Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-diagonals-for-screen-clarity/"><u>Correcting Diagonals for Screen Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-code-404-gpu-not-detected/"><u>Error Code 404: GPU Not Detected</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-google-pixel-7a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Google Pixel 7a Quickly | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-defy-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Defy 2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-erratic-hp-screen-behavior/"><u>Quelling Erratic HP Screen Behavior</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-photographers-companion-to-master-color-correction-top-11-for-2024/"><u>The Photographer's Companion to Master Color Correction (Top 11) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tweak-windows-11-screen-size-settings/"><u>Tweak Windows 11 Screen Size Settings</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-text-generator/"><u>What Is an AI Text Generator?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-updates-fix-atheros-driver-for-quality-connectivity/"><u>Win11 Updates Fix Atheros Driver for Quality Connectivity</u></a></li>
 </ul></div>
 

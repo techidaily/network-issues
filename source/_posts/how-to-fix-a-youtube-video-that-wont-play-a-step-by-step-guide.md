@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide"
-date: 2024-09-11T23:18:46.948Z
-updated: 2024-09-15T03:49:22.409Z
+date: 2024-09-18T19:38:51.085Z
+updated: 2024-09-20T07:06:36.297Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play a video in YouTube to see if it works properly now.
 
@@ -101,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **I’m using Firefox :** 
 
 1. In Firefox, click **the menu button**  \> **Options** .  
@@ -108,16 +108,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
@@ -132,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 5: Delete the app data
 
  Another possible reason for this**video won’t play on YouTube** problem is the corrupted the app data on our browser. So we can try deleting the app data to see if the problem gets fixed. Here we take Google Chrome as an example:
@@ -148,28 +135,42 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Click**AppData** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76707531fa7.jpg)
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Cut-paste**ALL** contents to a safe location in case something wrong comes up. Then delete**EVERYTHING** in this location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76717eb9673.jpg)
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ###  Fix 6: Update your browser
 
@@ -209,21 +210,12 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aughter-lane-top-7-comedy-content-concepts-for-vloggers/"><u>[New] Laughter Lane Top 7 Comedy Content Concepts for Vloggers</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieved-amds-windows-10-driver-load-problem-now-solved/"><u>Achieved: AMD's Windows 10 Driver Load Problem Now Solved!</u></a></li>
-<li><a href="https://facebook.techidaily.com/current-executive-leadership-of-facebook/"><u>Current Executive Leadership of Facebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-erratic-backlight-intervals-fix-achieved/"><u>End of Erratic Backlight Intervals: Fix Achieved</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essentials-of-choosing-top-5-web-based-title-innovators/"><u>Essentials of Choosing Top 5 Web-Based Title Innovators</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-edgeplus-2023-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Edge+ (2023) Quickly | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-note-30-vip-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Note 30 VIP</u></a></li>
-<li><a href="https://extra-support.techidaily.com/interior-illumination-through-natural-sun-exposure-for-2024/"><u>Interior Illumination Through Natural Sun Exposure for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-to-safe-mode-in-windows-11-a-comprehensive-look-at-four-proven-methods-and-supportive-screenshots/"><u>Navigating to Safe Mode in Windows 11: A Comprehensive Look at Four Proven Methods and Supportive Screenshots</u></a></li>
-<li><a href="https://network-issues.techidaily.com/purging-peculiarities-from-win11-monitors/"><u>Purging Peculiarities From Win11 Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-tips-inactive-graphics-card-wnvidia/"><u>Quick-Fix Tips: Inactive Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-window-frame-straightness/"><u>Rectify Window Frame Straightness</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/targeted-approach-carving-out-your-space-on-youtube-for-2024/"><u>Targeted Approach Carving Out Your Space on YouTube for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumph-over-nvidia-and-intels-switchable-graphics-in-latest-win11-patch/"><u>Triumph Over Nvidia & Intel's Switchable Graphics in Latest Win11 Patch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrade-intel-graphics-3000-to-enhance-your-visual-experience-on-w10-seamlessly/"><u>Upgrade Intel Graphics 3000 to Enhance Your Visual Experience on W10 Seamlessly.</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-from-visual-tweets-to-mp3-outputs/"><u>[New] 2024 Approved From Visual Tweets to MP3 Outputs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>[New] In 2024, Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>[Updated] 2024 Approved Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-acceleration-swift-crash-fixes/"><u>Apex Acceleration: Swift Crash Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-black-screen-after-win10-update/"><u>Brightening BLACK SCREEN After Win10 Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-edge-strategies-for-youtube-split-screen-videos/"><u>Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-pc-disasters-fixing-fallout-4-errors/"><u>End of PC Disasters: Fixing Fallout 4 Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Unseen Screen Blackouts
-date: 2024-07-12T00:28:27.879Z
-updated: 2024-07-13T00:28:27.879Z
+date: 2024-09-13T07:44:39.402Z
+updated: 2024-09-19T23:31:33.826Z
 tags:
   - win11
   - win10
@@ -91,6 +91,14 @@ Here’s how you go about it:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
@@ -118,6 +126,14 @@ Here’s how you go about it:
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
@@ -127,6 +143,13 @@ Here’s how you go about it:
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
 
  If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch in or out of hardware acceleration
 
@@ -142,6 +165,14 @@ Here’s how you go about it:
 2. Click the three-vertical-dots icon, then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-3.png)
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
@@ -153,6 +184,14 @@ Here’s how you go about it:
 2. Click**the menu button** \>**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In**General** , uncheck the**Use recommended performance settings** box to expand the section, then for the**Use hardware acceleration when available** box, choose the opposite.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
@@ -174,8 +213,6 @@ Here’s how you go about it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,6 +220,21 @@ Here’s how you go about it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-causing-bsod-on-windows-os/"><u>[Fix]: dxgkrnl.sys Causing BSOD on Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-leading-streaming-tools-for-online-video-games/"><u>[New] 2024 Approved Leading Streaming Tools for Online Video Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-accelerated-learning-path-with-final-cut-pro/"><u>[New] Accelerated Learning Path with Final Cut Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-issue-fixed-reinstalled-amd-graphics-drivers-on-pcs/"><u>[RENDERING ISSUE FIXED] Reinstalled AMD Graphics Drivers on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/2024-flv-windows-10/"><u>2024年版 FLV ビデオプレイヤーの復活！Windows 10用トップテクニックリスト公開</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-hp-lcd-stuttering-events/"><u>Avoiding HP LCD Stuttering Events</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhance-your-omegle-experience-with-quality-webcams-supporting-manycam-technology/"><u>Enhance Your Omegle Experience with Quality Webcams Supporting ManyCam Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>Exploring the Power of LUTs Color Grading Made Easy in Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fast-track-downloading-for-direct3d-hassle-free-technique-inside/"><u>Fast-Track Downloading for Direct3D - Hassle-Free Technique Inside!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>In 2024, Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-maximize-impact-on-snapchat-with-these-15-strategies/"><u>In 2024, Maximize Impact on Snapchat With These 15 Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-wide-monitor-distortion-in-window-os/"><u>Overcome Wide Monitor Distortion in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-setup-error-code-c1900101-on-pc/"><u>Resolving Setup Error Code C1900101 on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-inverted-screen-problem-in-windows-10/"><u>Solving Inverted Screen Problem in Windows 10</u></a></li>
+</ul></div>
 

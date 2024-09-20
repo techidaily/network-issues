@@ -1,7 +1,7 @@
 ---
 title: Smooth Transition to Clear Views
-date: 2024-07-12T00:23:16.540Z
-updated: 2024-07-13T00:23:16.540Z
+date: 2024-09-16T04:53:13.066Z
+updated: 2024-09-20T03:39:50.643Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/f711c5172a110adae3abf928dbe0da94bf3039e13
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable Let Windows try to fix apps so they’re not blurry
 
  When you see the blurriness happen to your computer, usually you’ll see a notification popup saying “**Let Windows try to fix apps so they’re not blurry** “. If you see this notification, agree to let Windows fix the blurry issues.
@@ -92,6 +99,13 @@ Check if your screen becomes normal.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change DPI scaling settings for your monitor
 
  You can also change the DPI scaling settings to fix the blurry screen or blurry apps.
@@ -105,6 +119,13 @@ Check if your screen becomes normal.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, ensure to select**100%** for**Scale and layout** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then Windows will apply the changes. Check and see if your screen gets clear.
 
@@ -128,8 +149,30 @@ Check if your screen is still blurry.
 1. Type the name of the app in the search box on your desktop, right-click on the app and select**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de6b88075.jpg)
 2. Right click on the application setup file, and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
@@ -152,8 +195,6 @@ Check if the blurry problem has been fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +202,18 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-call-of-duty-cold-war-connectivity-issue/"><u>[FIXED] Call of Duty Cold War Connectivity Issue</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-step-by-step-guide-to-joining-and-earning-as-a-tiktok-star/"><u>[New] In 2024, Step-by-Step Guide to Joining & Earning as a TikTok Star</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagrams-hidden-qanda-features-for-2024/"><u>[New] Unlocking Instagram’s Hidden Q&A Features for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-ways-to-archive-voice-transcripts-from-whatsapp-for-2024/"><u>[Updated] Innovative Ways to Archive Voice Transcripts From WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scrutinizing-the-legalities-of-youtube-versus-creative-commons/"><u>[Updated] Scrutinizing the Legalities of Youtube Versus Creative Commons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-demystifying-color-grading-with-powerful-luts/"><u>2024 Approved Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-glitches-with-ease/"><u>End Monitor Glitches with Ease</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-updates-fixing-render-driver-issues-across-windows-series/"><u>Microsoft Updates: Fixing Render Driver Issues Across Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+</ul></div>
 

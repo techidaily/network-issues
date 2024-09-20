@@ -1,7 +1,7 @@
 ---
 title: Quelling Quick Flashes on Windows 7
-date: 2024-09-07T21:55:47.631Z
-updated: 2024-09-14T18:16:03.142Z
+date: 2024-09-14T11:25:54.220Z
+updated: 2024-09-20T04:25:51.255Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ To troubleshoot these hardware issues:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -75,9 +68,30 @@ To troubleshoot these hardware issues:
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -90,35 +104,29 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
@@ -159,21 +167,21 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-optimizing-income-through-youtube-short-tutorials/"><u>[New] In 2024, Optimizing Income Through YouTube Short Tutorials</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-images-to-instagram-made-simple/"><u>[Updated] Adding Images to Instagram Made Simple</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-from-recording-to-broadcasting-the-steam-gamers-path/"><u>[Updated] From Recording to Broadcasting The Steam Gamers' Path</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/herocam-pro-mastering-advanced-features/"><u>HeroCam Pro Mastering Advanced Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-xs-without-icloud-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone XS without icloud</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/internet-disconnection-dilemma/"><u>Internet Disconnection Dilemma</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-13-must-have-gratis-audio-recording-programs-for-windowsmac-users-the-current-selection/"><u>New 13 Must-Have Gratis Audio Recording Programs for Windows/Mac Users - The Current Selection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-problems-starting-cod-black-ops-cold-war-on-your-computer-tips-and-tricks/"><u>No More Problems Starting COD: Black Ops Cold War on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refresh-intels-graphics-prowess-in-your-system-using-windows-10-update/"><u>Refresh Intel's Graphics Prowess in Your System Using Windows 10 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-making-acer-displays-no-longer-flicker/"><u>Steps for Making Acer Displays No Longer Flicker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-best-buy-in-4k-budget-savvy-camera-picks-for-2024/"><u>[New] Best Buy in 4K Budget-Savvy Camera Picks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimizing-screen-captures-expert-techniques-for-hp-laptops-for-2024/"><u>[New] Optimizing Screen Captures Expert Techniques for HP Laptops for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstated-screen-functionality-following-nvidia-error/"><u>[Reinstated] Screen Functionality Following Nvidia Error</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>[Updated] 2024 Approved Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-evaluating-team-communication-tools-does-slack-outshine-discords-benefits/"><u>[Updated] Evaluating Team Communication Tools Does Slack Outshine Discord's Benefits?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-picks-essential-websites-for-free-text-enhancements/"><u>2024 Approved Best Picks Essential Websites for Free Text Enhancements</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-address-error-c1900101-during-setup/"><u>How to Address Error C1900101 During Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/jolting-alive-gpu-fan-revival/"><u>Jolting Alive: GPU Fan Revival</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-windows-screen-detail-with-w11/"><u>Maximize Window's Screen Detail with W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/peeling-back-layers-on-cryptic-direct-x-mishaps-in-leagues/"><u>Peeling Back Layers on Cryptic Direct X Mishaps in Leagues</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/planetary-patrol-panel-sky-archive-support/"><u>Planetary Patrol Panel - Sky Archive Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972754251-ryzen-cpu-firmware-updates-get-your-latest-drivers-here/"><u>Ryzen CPU Firmware Updates - Get Your Latest Drivers Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shadow-of-the-tombs-trail-troubled-transfers/"><u>Shadow of the Tomb's Trail: Troubled Transfers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-display-intensity-drop/"><u>Troubleshooting Lenovo Display Intensity Drop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-xinput1nfdll-error-messages/"><u>Troubleshooting Steps for Resolving xinput1_nf.dll Error Messages</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-bridging-gaps-in-storytelling-effective-scene-connections/"><u>Updated Bridging Gaps in Storytelling Effective Scene Connections</u></a></li>
 </ul></div>
 

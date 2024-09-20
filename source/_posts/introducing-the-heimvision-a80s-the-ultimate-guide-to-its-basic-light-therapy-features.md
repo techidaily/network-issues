@@ -1,7 +1,7 @@
 ---
 title: "Introducing the HeimVision A80S: The Ultimate Guide to Its Basic Light Therapy Features"
-date: 2024-09-11T16:51:45.579Z
-updated: 2024-09-14T22:10:54.119Z
+date: 2024-09-14T04:09:37.746Z
+updated: 2024-09-20T09:32:51.160Z
 categories:
   - BestProducts
 description: "This Article Describes Introducing the HeimVision A80S: The Ultimate Guide to Its Basic Light Therapy Features"
@@ -86,6 +86,13 @@ Andrew Hayward / Lifewire
 
  Andrew Hayward / Lifewire
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tracking and Controllers: Some improvements, some drawbacks
 
  The Oculus Quest 2 uses the same kind of “inside-out” tracking system that relies on four cameras on the visor to track the wireless controllers or even your hands, rather than relying on external tracking sensors as some PC-based systems do. Like the original, it works amazingly well, allowing for fluid, six-degrees-of-freedom movement in games and minimizing both initial setup and the time it takes to get going each session. It also means that you can use the Oculus Quest 2_anywhere_ without the need for any kind of external hardware or accessories.
@@ -93,13 +100,6 @@ Andrew Hayward / Lifewire
  The Quest 2’s wireless, motion-sensing Oculus Touch controllers are identical in function to the original, but are a little heavier and have a larger surface with space to rest your thumb when not in use. That’s handy. Each has an analog stick and two face buttons, along with a trigger button and a grip button. Oculus also swapped out the magnetically-attached battery doors from the first Quest controllers—which would sometimes slide open when I used the original—for ones that simply click into place. That’s a win for function over form.
 
 ![Oculus Quest 2 ](https://www.lifewire.com/thmb/1aG6kdNHMuvnim8p8_i1RwH9QG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-3-eec6cabc11db4ed9be5254aa2bc46ec1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -110,6 +110,13 @@ Andrew Hayward / Lifewire
  That might sound like a lot of griping, but it’s only because some of the key physical design changes on the Quest 2 feel like compromises or downgrades. But for most people, they won’t be significant impediments. And if you’re coming to the new headset without ever using the original Quest, then you should be fine—the new straps are usable, but they aren’t as effective or effortlessly adjustable as before. Luckily, the Quest 2 makes significant strides elsewhere.
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/gwWuuSfTzWNDoS45b-iG9qG32-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-4-27f169e7e71b4372a38e13332b7b1364.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -143,19 +150,6 @@ Andrew Hayward / Lifewire
 
  Plugging in headphones delivers a more closed-off, immersive experience, but the Oculus Quest 2’s built-in speaker does a solid job of delivering audio and music. It does sound a tiny bit louder and fuller than the original Quest’s speaker, but not significantly so. Still, if you want to play without being fully shut-off from your surroundings, it works just fine.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery: You’ll get a couple hours
 
  Like the original headset, the Oculus Quest 2 is rated for 2-3 hours of usage on a full charge. For such a compact, standalone headset, I think that’s reasonable. You get a couple hours to play, and then you can take a breather and do other things while it charges.
@@ -167,16 +161,10 @@ Andrew Hayward / Lifewire
  Andrew Hayward / Lifewire
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Software: Use the headset or connect to PC
@@ -194,13 +182,6 @@ Andrew Hayward / Lifewire
  Andrew Hayward / Lifewire
 
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Games: A good, growing selection
 
@@ -222,6 +203,13 @@ Andrew Hayward / Lifewire
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/TDsFPvRGkhZaFzIaNnKRk1_xO4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-8-Comparison-1b0c51b029da41389167e103a4c4843a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Andrew Hayward / Lifewire
 
 ## Oculus Quest 2 vs. PlayStation VR
@@ -238,18 +226,18 @@ Andrew Hayward / Lifewire
 
  The significant performance upgrade and surprising price drop outweigh some of the annoying design shifts with the Oculus Quest 2, making it the must-have VR headset for just about everyone. Not only does it play a great library of on-headset games, but it can also connect to a powerful PC to play even more games on top of that. Add to that the ease of use, quality gameplay, and immersive visuals, and the Oculus Quest 2 is another brilliant VR game console.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Oculus Rift S](https://www.lifewire.com/oculus-rift-s-review-4764112)
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 * [Valve Index](https://www.lifewire.com/valve-index-review-4775604)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -282,19 +270,18 @@ Andrew Hayward / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-banner-blueprints-a-gamers-design-handbook/"><u>[New] YouTube Banner Blueprints A Gamers' Design Handbook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-stopcapture-screen-freeze-assist/"><u>[Updated] In 2024, StopCapture Screen Freeze Assist</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-ghosted-screen-recognition/"><u>Address Ghosted Screen Recognition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquer-flicker-monitor-shines-steadily-now/"><u>Conquer Flicker: Monitor Shines Steadily Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-a14-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy A14 4G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-gt-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme GT 3 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-pioneering-techniques-to-enhance-fb-video-ads/"><u>In 2024, Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-moto-g04-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Moto G04 Location | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/introducing-enhanced-graphics-driver-for-win10s-nvidia-210/"><u>Introducing Enhanced Graphics Driver for Win10's NVIDIA 210</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-unsaved-display-settings-issue-fixed/"><u>Overcoming Obstacle: Unsaved Display Settings Issue Fixed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-hp-printers-oxc4eb827f-error/"><u>Resolving HP Printer's OXC4EB827F Error</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-like-a-pro-unlocking-squid-game-dialogues-in-korean/"><u>Speak Like a Pro: Unlocking Squid Game Dialogues in Korean</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/0-youtube-intro-creators-for-spectacular-opening-videos-for-2024/"><u>Top 30 YouTube Intro Creators for Spectacular Opening Videos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-camera-savior-quick-fix-tactics-challenges/"><u>Zoom Camera Savior: Quick Fix Tactics Challenges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac/"><u>[Updated] Expert Advice Optimizing VLC for Maximum Efficiency on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-download-your-favorite-podcasts-from-apple/"><u>[Updated] In 2024, Download Your Favorite Podcasts From Apple</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-buffer-delays-from-streams/"><u>Banish Buffer Delays From Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/detailed-insight-into-4k-extreme-screen-quality/"><u>Detailed Insight Into 4K Extreme Screen Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-websites-for-apartment-seekers/"><u>Discover the Ultimate List of Websites for Apartment Seekers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-htc-u23-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For HTC U23 Unlock Without Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-live-photo-reconstruction-into-time-lapse-movies/"><u>In 2024, Live Photo Reconstruction Into Time-Lapse Movies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-wows-issue-519/"><u>Navigating Through WoW's Issue #519</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/overcoming-obstacles-to-display-videos-prominently-for-2024/"><u>Overcoming Obstacles to Display Videos Prominently for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-the-future-with-these-7-premier-live-streaming-apps-iphoneandroid-for-2024/"><u>Step Into the Future with These 7 Premier LIVE Streaming Apps (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-8-best-ai-apps-to-download-on-your-phone-android-and-iphone/"><u>The 8 Best AI Apps to Download on Your Phone (Android and iPhone)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/icks-7-exceptional-android-adblocking-apps/"><u>Top Picks 7 Exceptional Android AdBlocking Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-versions-10-to-7-microsofts-driver-fix/"><u>Windows Versions 10 to 7: Microsoft's Driver Fix</u></a></li>
 </ul></div>
 

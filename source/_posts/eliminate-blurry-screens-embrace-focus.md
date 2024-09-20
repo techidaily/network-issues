@@ -1,7 +1,7 @@
 ---
 title: Eliminate Blurry Screens, Embrace Focus
-date: 2024-07-12T00:25:54.387Z
-updated: 2024-07-13T00:25:54.387Z
+date: 2024-09-19T08:21:51.973Z
+updated: 2024-09-20T08:43:56.760Z
 tags:
   - win11
   - win10
@@ -62,6 +62,14 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 3. In the**Display** section, click**Advanced scaling settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
@@ -85,8 +93,35 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 2. Run Driver Easy and click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e2b88e496.jpg)
 3. Click **Driver Uninstall** , and double click**Display adapters** . Select your graphics card and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if your screen becomes normal.
 
@@ -128,6 +163,14 @@ Check if your screen is still blurry.
 1. Type the name of the app in the search box on your desktop, right-click on the app and select**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de6b88075.jpg)
 2. Right click on the application setup file, and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
@@ -136,6 +179,13 @@ Check if your screen is still blurry.
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if the blurry problem has been fixed.
 
@@ -152,8 +202,6 @@ Check if the blurry problem has been fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +209,18 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/irect-music-upload-top-tools-for-turning-spotify-into-youtube-listings/"><u>[New] Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-transitioning-8-leading-convertors-for-sub-and-srt/"><u>[New] Masterful Transitioning 8 Leading Convertors for Sub and SRT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhance-photography-skills-learning-lightrooms-hdr-processing/"><u>[Updated] Enhance Photography Skills Learning Lightroom's HDR Processing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-exclusive-8-video-download-utilities-guide/"><u>[Updated] In 2024, Exclusive 8 Video Download Utilities Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-route-to-youtube-entrepreneurship-top-10-easy-channels/"><u>[Updated] In 2024, Your Route to YouTube Entrepreneurship Top 10 Easy Channels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-5-ai-powered-writers-to-ignite-imagination-and-ideas/"><u>Best 5 AI-Powered Writers to Ignite Imagination and Ideas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-11-window-width-woes/"><u>Overcoming Windows 11 Window Width Woes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/redefining-efficiency-our-detailed-assessment-of-the-innovative-m1-powered-13-apple-macbook-pro-march-2020/"><u>Redefining Efficiency: Our Detailed Assessment of the Innovative M1-Powered 13 Apple MacBook Pro (March 2020)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-conflicts-between-nvidia-and-windows-11/"><u>Resolving Conflicts Between Nvidia and Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vertex-productions-summary-pinnacle-studio-assessment-2023-for-2024/"><u>Vertex Productions Summary Pinnacle Studio Assessment, 2023 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-detects-adapter-whats-next/"><u>Windows 10 Detects Adapter: What's Next?</u></a></li>
+</ul></div>
 

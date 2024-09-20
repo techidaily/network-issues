@@ -1,7 +1,7 @@
 ---
 title: Steps for Clearing Computer Shutdown Screens
-date: 2024-09-12T00:58:26.553Z
-updated: 2024-09-15T03:24:22.487Z
+date: 2024-09-16T03:09:34.012Z
+updated: 2024-09-19T19:26:46.636Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ You may have change some settings or installed a program on your computer, which
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Reinstall your memory
 
 It is also possible that your laptop screen issue comes from your laptop memory (RAM).
@@ -69,16 +76,16 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Extra tips
 
@@ -91,10 +98,10 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On Windows 10, click**Create a restore** **point**,
@@ -110,17 +117,10 @@ And then in the dialog popping up, click the**System Restore**button.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Update your device driver
@@ -153,18 +153,20 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-display-component-reset-and-reboot/"><u>[Fixed] Display Component Reset and Reboot</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-motion-capture-top-gear-recommendations-for-2024/"><u>[Updated] Mastering Motion Capture - Top Gear Recommendations for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/balancing-the-benefits-and-limitations-of-pidgin-as-an-im-service/"><u>Balancing the Benefits and Limitations of Pidgin as an IM Service</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhancing-facebook-traffic-with-innovative-video-techniques/"><u>Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won’t Turn On Issue</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/harness-the-power-of-editing-for-fashion-hauls/"><u>Harness the Power of Editing for Fashion Hauls</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C12 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-poco-m6-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco M6 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reintroduced-lost-network-interface-on-windows-10-laptop/"><u>Reintroduced Lost Network Interface on Windows 10 Laptop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-unable-to-alter-screen-settings/"><u>Win11: Unable To Alter Screen Settings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-mic-choices-for-4k-cameras-and-clear-audio-capture-for-2024/"><u>[New] Premier Mic Choices for 4K Cameras & Clear Audio Capture for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-building-a-compelling-cinematic-snippet/"><u>[Updated] Building a Compelling Cinematic Snippet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-upgrade-your-ati-graphics-card-on-windows/"><u>Easy Steps to Upgrade Your ATI Graphics Card on Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guidance-for-effortless-addition-of-youtube-playlists-to-your-site-for-2024/"><u>Guidance for Effortless Addition of YouTube Playlists to Your Site for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-determine-your-monitors-sharpness-easy-steps-for-checking-resolution/"><u>How to Determine Your Monitor's Sharpness: Easy Steps for Checking Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-a-youtube-video-that-wont-play-a-step-by-step-guide/"><u>How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-ethernet-not-working-issues-on-windows-10-and-7/"><u>How to Fix Ethernet Not Working Issues on Windows 10 & 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-gtx-query/"><u>How to Fix GTX # Query</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-the-wdf-violation-critical-stop-error-in-windows-11-10-8-and/"><u>How to Fix the 'WDF Violation' Critical Stop Error in Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-your-acer-computers-wi-fi-network-problems-easily/"><u>How to Fix Your Acer Computer's Wi-Fi Network Problems Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resolve-detection-issues-with-your-amd-graphics-card-in-windows-11/"><u>How to Resolve Detection Issues with Your AMD Graphics Card in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lava-yuva-2-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lava Yuva 2 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-insights-top-insta-management-tools-reviewed/"><u>In 2024, Expert Insights Top Insta Management Tools Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-single-tasking-with-background-elimination/"><u>In 2024, Single-Tasking with Background Elimination</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ize-profitability-the-dos-and-donts-of-youtube-monetization/"><u>Maximize Profitability – The Do's and Don'ts of YouTube Monetization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Intervention for Persistent HP Screen Blinking
-date: 2024-09-10T01:33:39.552Z
-updated: 2024-09-15T04:14:09.484Z
+date: 2024-09-14T09:36:30.176Z
+updated: 2024-09-20T00:06:08.426Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change the screen refresh rate
 
  The screen refresh rate is the frequency with which the image on your laptop screen is refreshed. If it’s set on a wrong rate, it may cause the screen flickering or blinking problem. So you can check the current screen refresh rate, experiment with the possible rates to see if there is one more suitable to your screen.
@@ -94,13 +87,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 #### **I’m using Windows 7 or 8.1:**
@@ -110,15 +96,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -132,6 +125,19 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -159,12 +165,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-today-changes-and-what-they-mean-for-you/"><u>[New] In 2024, Facebook Today Changes and What They Mean for You</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-transformational-techniques-bold-borders-on-instagram-photos-for-2024/"><u>[New] Transformational Techniques Bold Borders on Instagram Photos for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capture-chronicles-reviewing-the-best-screencasters/"><u>2024 Approved Capture Chronicles Reviewing the Best Screencasters</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exploring-4k-extreme-visual-fidelity/"><u>Exploring 4K Extreme Visual Fidelity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cross-platform-success-televisions-and-facebook-collaboration/"><u>In 2024, Cross-Platform Success Televisions & Facebook Collaboration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-gdx-creation-failure-in-oswin/"><u>Rectified GDX Creation Failure in OS/Win</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-inverted-lcd-or-led-screen/"><u>Reversing Inverted LCD or LED Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-culinary-comrades-youtubes-best-food-blogs/"><u>[New] 2024 Approved Culinary Comrades YouTube's Best Food Blogs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhance-your-livestream-going-beyond-obs/"><u>[New] 2024 Approved Enhance Your Livestream Going Beyond OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-free-rotate-and-merge-videos-on-android/"><u>[New] How to Free Rotate and Merge Videos on Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-rediscover-classics-at-your-fingertits-pick-from-the-ultimate-5-gb-emulator-list-on-pc/"><u>[Updated] In 2024, Rediscover Classics at Your Fingertits Pick From The Ultimate 5 GB Emulator List on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-gdrivererr22/"><u>Armored Fix: GDRIVER_ERR22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-glitch-full-windows-10-not-on-screen-resolved/"><u>Display Glitch: Full Windows 10, Not on Screen Resolved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-action-captured-by-the-ion-pro-3-camera-for-2024/"><u>High-Quality Action Captured by the ION Pro 3 Camera for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-vivo-x90s-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Vivo X90S?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-approaches-to-macos-subtitles-editing/"><u>In 2024, Innovative Approaches to macOS Subtitles Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-systems-intel-graphics-in-windows/"><u>Optimize Your System's Intel Graphics in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secure-again-combating-2023s-facebook-vulnerability-for-2024/"><u>Secure Again Combating 2023'S Facebook Vulnerability for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-fix-for-win11-absence-of-display/"><u>Unveiling Fix for WIN11 Absence of Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help</u></a></li>
 </ul></div>
 

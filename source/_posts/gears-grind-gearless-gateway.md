@@ -1,7 +1,7 @@
 ---
 title: Gears Grind Gearless Gateway
-date: 2024-09-09T03:49:13.404Z
-updated: 2024-09-15T03:04:40.470Z
+date: 2024-09-12T22:15:25.286Z
+updated: 2024-09-20T07:35:49.474Z
 tags:
   - win11
   - win10
@@ -48,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disconnect other devices
 
  The download issue is sometimes caused by your router struggling with the number of connections due to too many downloads happening simultaneously. To work around this, you need to first restart your router. Simply unplug your router or modem from its power outlet. Wait for 15-20 seconds, then plug it back in.
@@ -70,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  When it’s all done, resume your download and check if it helps you fix the issue. If you’re still experiencing slow download speed or the download is stuck at a certain percent, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Update your network adapter driver
 
@@ -116,6 +96,20 @@ Here we recommend using Google DNS:
 1. In the Windows search box, type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -129,14 +123,22 @@ Here we recommend using Google DNS:
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
@@ -148,6 +150,13 @@ Here we recommend using Google DNS:
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
 
@@ -175,13 +184,6 @@ Here’s how to do this:
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Press**Ctrl + S** to save the edits.
 
 When it’s all done, resume your download and it should be faster.
@@ -200,10 +202,10 @@ When it’s all done, resume your download and it should be faster.
 4. Restart Epic Games Launcher.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try downloading your games again.
@@ -234,18 +236,13 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-ensuring-smooth-streaming-solutions-for-fb-livestream-problems-for-2024/"><u>[New] Ensuring Smooth Streaming Solutions for FB Livestream Problems for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-elusive-display-options/"><u>[Resolve] Elusive Display Options</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-igniting-the-lights-the-procedure-for-starting-a-tiktok-broadcast-from-computer/"><u>[Updated] Igniting the Lights The Procedure for Starting a TikTok Broadcast From Computer</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-tips-for-effective-story-emoji-integration-on-instagram/"><u>[Updated] In 2024, Top Tips for Effective Story Emoji Integration on Instagram</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-reno-11-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Reno 11 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-identifying-the-5-most-common-gpt-scams-online/"><u>Beware: Identifying the 5 Most Common GPT Scams Online</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-reputation-on-the-line-amid-tech-doubts/"><u>Facebook's Reputation on the Line Amid Tech Doubts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-barrier-win10-and-nvidia/"><u>Overcoming Compatibility Barrier: Win10 & Nvidia</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pioneering-youtube-visibility-through-strategic-thumbnails-for-2024/"><u>Pioneering YouTube Visibility Through Strategic Thumbnails for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-rage-of-ares-rigidities/"><u>Resolved: Rage of Ares Rigidities</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-flickering-monitors-in-win7/"><u>Stabilizing Flickering Monitors in Win7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-troubleshoot-ignored-nvidiaamd-card/"><u>Steps to Troubleshoot Ignored NVIDIA/AMD Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-to-prevent-acer-screen-shimmer/"><u>Strategies to Prevent Acer Screen Shimmer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-safe-exit-procedures-for-departing-discord-servers/"><u>[New] Safe Exit Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/basic-driver-tweaks-ms-win-versions-1087-update/"><u>Basic Driver Tweaks: MS Win Versions 10/8/7 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-windows-error-0x8007021/"><u>Decoding and Correcting Windows Error 0X8007021</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ideal-online-tv-shops-a-selection-of-6-leading-choices/"><u>Discover the Ideal Online TV Shops: A Selection of 6 Leading Choices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-uninstall-method-for-graphics-drivers-on-windows/"><u>Efficient Uninstall Method for Graphics Drivers on WIndows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-webcam-drivers-for-windows-7-fast-downloads-and-smooth-operations/"><u>Get the Best Webcam Drivers for Windows 7: Fast Downloads & Smooth Operations!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-pano-way-to-online-visibility-posting-360-photos-through-mobile-apps/"><u>In 2024, The Pano-Way to Online Visibility Posting 360 Photos Through Mobile Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
 </ul></div>
 

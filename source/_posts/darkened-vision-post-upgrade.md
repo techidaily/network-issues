@@ -1,7 +1,7 @@
 ---
 title: Darkened Vision Post-Upgrade
-date: 2024-07-12T00:22:50.575Z
-updated: 2024-07-13T00:22:50.575Z
+date: 2024-09-14T04:07:55.438Z
+updated: 2024-09-19T18:40:56.634Z
 tags:
   - win11
   - win10
@@ -73,6 +73,20 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 Then download and update the display card driver.
@@ -120,6 +134,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Type**`msdt.exe -id DeviceDiagnostic`** into the box and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-1.jpg)
 3. When the troubleshooter window opens, click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-2.jpg)
 4. If any issues are found, follow the on-screen instructions to fix them.
 5. If none are found, close the window and try the next fix below.
@@ -163,6 +185,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
 9. Press**F5** , or**5** to enter the**Safe Mode with networking mode** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
 ### 2.1 Uninstall the graphics card driver in Safe Mode
@@ -172,8 +201,24 @@ When you boot into the Safe Mode with networking
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
@@ -198,8 +243,6 @@ When you boot into the Safe Mode with networking
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,6 +250,23 @@ When you boot into the Safe Mode with networking
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-power-of-collaborations-youtube-shorts-edition/"><u>[New] 2024 Approved The Power of Collaborations YouTube Shorts Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-elden-ring-no-start-error-windows-dx12-issue/"><u>[RESOLVED] Elden Ring No Start Error - Windows DX12 Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-art-of-adding-emojis-to-youtube-comments/"><u>[Updated] 2024 Approved The Art of Adding Emojis to YouTube Comments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722192450282-chatgpt-bodystream-error-here-are-seven-ways-to-fix-it/"><u>ChatGPT Bodystream Error? Here Are Seven Ways to Fix It!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ensuring-gpu-fan-functionality-restoration/"><u>Ensuring GPU Fan Functionality Restoration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expertly-charged-hero5-black-batteries-authenticity-and-counterparts-for-2024/"><u>Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-resolved-in-win11/"><u>Fixing Non-Fullscreen Windows - Resolved in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-troubled-screen-setup-to-smooth-sailing-with-updated-windows-10/"><u>From Troubled Screen Setup to Smooth Sailing with Updated Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>In 2024, Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mobile-recorder-transcribe-calls-iphone-2024/"><u>Mobile Recorder Transcribe Calls - iPhone 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-win11s-vanishing-cursor-act/"><u>Resolving WIN11's Vanishing Cursor Act</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strengthening-gameplay-addressing-pc-based-civ5-issues/"><u>Strengthening Gameplay: Addressing PC-Based CIV5 Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-ultimate-guide-to-boosting-intel-graphics-with-os-updates-win-7/"><u>The Ultimate Guide to Boosting Intel Graphics with OS Updates, Win 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-restoring-microphone-functionality-in-laptops/"><u>Troubleshooting Audio Issues: Restoring Microphone Functionality in Laptops</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Rainbow Six Siege Patch Fail - DX12 Error"
-date: 2024-09-09T01:57:20.577Z
-updated: 2024-09-14T22:03:16.276Z
+date: 2024-09-17T11:49:33.770Z
+updated: 2024-09-20T09:18:37.927Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -108,16 +101,24 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
@@ -148,10 +149,10 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -175,18 +176,21 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-in-depth-strategies-for-organizing-your-windows-mov-collection/"><u>[New] In 2024, In-Depth Strategies for Organizing Your Windows .mov Collection</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[New] In 2024, The Ultimate Microphone Recordings List 9 Reviews of Choice</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-system-installed-gpu-driver-for-win1110/"><u>[REPAIRED SYSTEM] Installed GPU Driver for Win11/10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>2024 Approved Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-voice-personalization-tips-for-instagram-users/"><u>2024 Approved Voice Personalization Tips for Instagram Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cleared-up-windows-stopped-due-to-nvidia-complaint/"><u>Cleared Up: Windows Stopped Due to Nvidia Complaint</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-crafting-a-youtube-video-essential-writing-guide/"><u>In 2024, Crafting a YouTube Video Essential Writing Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/manage-custom-recommendations-for-better-privacy-online/"><u>Manage Custom Recommendations for Better Privacy Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-amd-graphics-hurdle-fast/"><u>Overcome AMD Graphics Hurdle Fast</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-common-issues-fixing-c1900101-error-in-windows-11/"><u>Solving Common Issues: Fixing C1900101 Error in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stability-triumph-fixing-fallout-4-issues/"><u>Stability Triumph: Fixing Fallout 4 Issues</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-repair-guide-fix-corrupted-video-files-by-diy-methods/"><u>Video Repair Guide - Fix Corrupted Video Files by DIY Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-perfecting-high-resolution-views-on-tweet-vids/"><u>[New] In 2024, Perfecting High-Resolution Views on Tweet Vids</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-luminosity-spikes-on-dell-laptop/"><u>[Resolved] Luminosity Spikes on Dell Laptop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevating-your-channel-youtube-backlink-basics/"><u>[Updated] Elevating Your Channel YouTube Backlink Basics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combatting-windows-11-screen-fluctuations/"><u>Combatting Windows 11 Screen Fluctuations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-z-fold-5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy Z Fold 5 Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-raw-to-refined-your-guide-to-youtube-video-edits/"><u>From Raw to Refined Your Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-dim-issue/"><u>How to Fix Lenovo Laptop Screen Dim Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-6-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-windows-7-backside-view-mismatch/"><u>Solving Windows 7 Backside View Mismatch</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/acular-gaming-capture-options/"><u>Spectacular Gaming Capture Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-starting-dolby-digital-audio-drivers-in-windows-10/"><u>Troubleshooting and Starting Dolby Digital Audio Drivers in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleash-potential-with-nvidias-updated-win11-driver/"><u>Unleash Potential with NVIDIA's Updated Win11 Driver</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/where-are-my-displays-in-windows-11/"><u>Where Are My Displays in Windows 11?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-interruptus-your-network-puzzle/"><u>Wi-Fi Interruptus: Your Network Puzzle</u></a></li>
 </ul></div>
 

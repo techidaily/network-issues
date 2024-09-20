@@ -1,7 +1,7 @@
 ---
 title: "Smooth Resolution Switching: No More Display Annoyances on Win 10"
-date: 2024-09-08T21:25:14.377Z
-updated: 2024-09-15T03:28:14.127Z
+date: 2024-09-17T16:50:05.237Z
+updated: 2024-09-20T05:21:03.041Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -90,35 +97,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,14 +142,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-through-the-world-of-directed-interaction/"><u>[Updated] Navigating Through the World of Directed Interaction</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-twisting-tales-a-guide-to-angled-photography-that-captivates-audiences-on-digital-platforms/"><u>2024 Approved Twisting Tales A Guide to Angled Photography that Captivates Audiences on Digital Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-warzone-search-errors-how-to-connect-and-compete-on-pc-successfully/"><u>Addressing 'Warzone Search Errors': How to Connect and Compete on PC Successfully</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>In 2024, Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-gamers-guide-to-faster-reliable-data-connections/"><u>Pro-Gamer's Guide to Faster, Reliable Data Connections</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/pros-and-cons-delving-into-the-world-of-video-downloading-methods-for-2024/"><u>Pros and Cons Delving Into the World of Video Downloading Methods for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-architecting-an-inspiring-tiktok-conclusion/"><u>[New] Architecting an Inspiring TikTok Conclusion</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>[New] In 2024, The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>[New] The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-hdmi-conflict-between-laptop-and-tv/"><u>[Resolved] HDMI Conflict Between Laptop and TV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unleash-your-creativity-creating-memorable-pfps-on-discord/"><u>[Updated] In 2024, Unleash Your Creativity Creating Memorable Pfp's on Discord</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-efficiency-in-human-resources-discover-5-game-changing-chatgpt-shortcuts/"><u>Boost Efficiency in Human Resources: Discover 5 Game-Changing ChatGPT Shortcuts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-f54-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy F54 5G Unlock Without Password</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-tools-for-2/"><u>New The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-image-after-new-graphics-installation/"><u>No Image After New Graphics Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-leap-next-gen-drivers-elevate-win11-experience/"><u>NVIDIA's Leap: Next-Gen Drivers Elevate Win11 Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-experts-selection-top-10-data-recovery-tools-for-iphones-running-ios-17/"><u>The Expert's Selection: Top 10 Data Recovery Tools for iPhones Running iOS 17</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-dark-screen-fix-update/"><u>Windows 10 Dark Screen Fix Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-11-compatible-fast-and-easy-x-total-dvd-ripper-for-converting-discs-to-mp4-video-format/"><u>Windows 11 Compatible Fast & Easy X-Total DVD Ripper for Converting Discs to MP4 Video Format</u></a></li>
 </ul></div>
 

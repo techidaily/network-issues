@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Lag and High Ping in Valorant"
-date: 2024-09-13T05:56:29.841Z
-updated: 2024-09-14T21:33:14.521Z
+date: 2024-09-18T07:57:19.462Z
+updated: 2024-09-19T22:20:30.908Z
 tags:
   - win11
   - win10
@@ -94,6 +94,20 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
@@ -122,26 +136,12 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-dns-server-click-5.jpg)  
  8.8.8.8 and 8.8.4.4 are the most popular DNS servers maintained by Google.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. For the changes to take effect, you need to flush the DNS cache. On your taskbar, type**cmd** in the search box. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 8. In the pop-up window, type in**ipconfig /flushdns** . Press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/cmd-ipconfig-flushdns.jpg)
 
  After changing your DNS server, open Valorant and check if the ping is stable. If this method doesn’t work for you, check out the next trick.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Install all Windows updates
 
@@ -150,10 +150,10 @@ Here’s how to change your DNS settings:
 To check for Windows updates, follow these steps:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 10
@@ -174,25 +174,26 @@ To check for Windows updates, follow these steps:
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve completed this process, open Valorant and see if the ping spikes reappear. If yes, there’s still one last fix you can try.
@@ -232,20 +233,14 @@ Here are some VPN providers we recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-wireless-issues-in-new-windows-update/"><u>[RESOLVED] Wireless Issues in New Windows Update</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-academic-avenue-leading-educators-on-youtube/"><u>[Updated] Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-art-of-causality-loop-demonstrations/"><u>2024 Approved Art of Causality Loop Demonstrations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-start-capturing-high-quality-mov-videos-on-windows-11/"><u>2024 Approved Quick Start Capturing High-Quality MOV Videos on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-screenscape-disturbances-in-pro-7/"><u>Banishing Screenscape Disturbances in Pro 7</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discovering-the-best-our-full-scrutiny-of-inshot-app-for-2024/"><u>Discovering the Best - Our Full Scrutiny of InShot App for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/93166240-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-dark-screen-in-fall-creators-version/"><u>Eliminating Dark Screen in Fall Creators' Version</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-black-screen-woes-fall-creators-update/"><u>Ending Black Screen Woes: Fall Creators Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-concept-to-reality-polarr-photo-editor-simplified-for-2024/"><u>From Concept to Reality Polarr Photo Editor Simplified for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>In 2024, Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-angle-adjustment-victory/"><u>Laptop Angle Adjustment - Victory</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/starting-your-channel-right-top-tier-tech-list-for-2024/"><u>Starting Your Channel Right Top-Tier Tech List for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-enigma-eliminated-solving-the-unknown-direct-x-conundrum-in-lol/"><u>The Enigma Eliminated: Solving the Unknown Direct X Conundrum in LoL</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zero-signal-recent-gpu-upgrade-issue/"><u>Zero Signal: Recent GPU Upgrade Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-overwatch-no-start-on-xbox-directx-issue/"><u>[FIXED] Overwatch No Start on Xbox - DirectX Issue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>[New] The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-screen-woes-in-mtg-arena-heres-how-you-can-get-back-your-gameplay-now/"><u>Black Screen Woes in MTG Arena? Here's How You Can Get Back Your Gameplay Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-k11-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo K11 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-experience-geforce-rtx210-windows-update/"><u>Elevate Your Experience - GeForce RTX210 Windows Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-itel-a60-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Itel A60 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-to-windows-10-black-out-post-update/"><u>Solution to Windows 10 Black Out Post Update</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mlined-simplicity-ayts-quick-ways-to-blur-background/"><u>Streamlined Simplicity AYT's Quick Ways to Blur Background</u></a></li>
 </ul></div>
 

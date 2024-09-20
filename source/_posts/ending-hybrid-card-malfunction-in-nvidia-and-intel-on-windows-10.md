@@ -1,7 +1,7 @@
 ---
 title: Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10
-date: 2024-09-11T00:49:08.833Z
-updated: 2024-09-14T21:38:54.879Z
+date: 2024-09-16T21:16:28.646Z
+updated: 2024-09-19T20:52:15.960Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -83,11 +90,38 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -95,45 +129,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,21 +156,12 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stepwise-tutorial-adding-professional-edges-to-ig-content/"><u>[New] In 2024, Stepwise Tutorial Adding Professional Edges to IG Content</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolution-control-reducing-windows-11-screen-width/"><u>[RESOLUTION CONTROL] Reducing Windows 11 Screen Width</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>[Updated] Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amds-latest-drivers-unleash-full-potential-of-windows-11-hd-6950-gpu/"><u>AMD's Latest Drivers Unleash Full Potential of Windows 11, HD 6950 GPU</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/enhance-zoom-soundscape-with-strategic-settings-tweaks/"><u>Enhance Zoom Soundscape with Strategic Settings Tweaks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/essential-fixes-for-youtubes-green-screen-errors/"><u>Essential Fixes for YouTube's Green Screen Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-for-windows-stopping-due-to-nvidia-device-problem/"><u>Fix for Windows Stopping - Due To NVidia Device Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-crusader-kings-ii-why-it-might-not-be-loading-and-how-to-resolve/"><u>Fix Your Crusader Kings II: Why It Might Not Be Loading & How to Resolve</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-discovering-10-superior-history-educational-videos/"><u>In 2024, Discovering 10 Superior History Educational Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-instagram-storytelling-with-automated-captions/"><u>In 2024, Elevate Your Instagram Storytelling with Automated Captions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-newest-all-in-one-printer-driver-for-your-hp-deskjet-eb3755-on-windows-platforms-windows-10-8-and-7/"><u>Installing the Newest All-in-One Printer Driver for Your HP DeskJet Eb3755 on Windows Platforms (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mystery-behind-missing-monitor-glow/"><u>Mystery Behind Missing Monitor Glow</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-effortless-mkv-trimming-on-mac-the-best-tools/"><u>New In 2024, Effortless MKV Trimming on Mac The Best Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hp-tv-white-zones/"><u>Resolving HP TV White Zones</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unraveling-youtube-green-screen-challenges/"><u>Unraveling YouTube Green Screen Challenges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-five-innovative-ai-applications-to-curate-your-ideal-book-list/"><u>Unveiling Five Innovative AI Applications to Curate Your Ideal Book List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-refining-shots-with-gopros-advanced-color-tools/"><u>[New] Refining Shots with GoPro's Advanced Color Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-turbo-charger-your-win-1110-internet/"><u>[SOLVED] Turbo-Charger Your Win 11/10 Internet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-daily-dosage-of-serenity-top-yoga-channels-for-life/"><u>[Updated] 2024 Approved Daily Dosage of Serenity Top Yoga Channels for Life</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comwin-stability-after-security-patches/"><u>ComWin Stability After Security Patches</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-tasks-with-these-excellent-8-windows-timer-apps/"><u>Master Your Tasks with These Excellent 8 Windows Timer Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-rtx-gaming-fixing-the-fatal-glitch/"><u>Reviving RTX Gaming: Fixing the Fatal Glitch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tailoring-youtube-videos-for-igtv-showcase-3-techniques-for-2024/"><u>Tailoring YouTube Videos for IGTV Showcase 3 Techniques for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Clearing Cloudy Desktop View"
-date: 2024-07-12T00:23:59.121Z
-updated: 2024-07-13T00:23:59.121Z
+date: 2024-09-15T10:18:22.763Z
+updated: 2024-09-19T21:38:28.291Z
 tags:
   - win11
   - win10
@@ -85,8 +85,23 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 2. Run Driver Easy and click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e2b88e496.jpg)
 3. Click **Driver Uninstall** , and double click**Display adapters** . Select your graphics card and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if your screen becomes normal.
 
@@ -114,12 +129,27 @@ Check if your screen becomes normal.
 2. Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -130,6 +160,14 @@ Check if your screen is still blurry.
 2. Right click on the application setup file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
@@ -152,8 +190,6 @@ Check if the blurry problem has been fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +197,18 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-visual-rendering-unit-back-online/"><u>[Fixed]: Visual Rendering Unit Back Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-snip-youtube-videos-effortlessly/"><u>2024 Approved How to Snip YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-problem-code-43-resolved/"><u>Card Problem Code 43 Resolved</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowered-with-cutting-edge-automation-techniques-the-cookiebot-difference/"><u>Empowered with Cutting-Edge Automation Techniques - The Cookiebot Difference</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nubia-z50-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nubia Z50 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-spots-for-free-downloadable-got-ringtones/"><u>In 2024, The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-auto-hdr-techniques-in-modern-cameras/"><u>In 2024, Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-pixels-graphic-device-missing/"><u>Invisible Pixels: Graphic Device Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-fix-approach-non-operating-display-nvidia/"><u>Plain Fix Approach: Non-Operating Display, NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-eliminate-fuzzy-visuals/"><u>Windows: Eliminate Fuzzy Visuals</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 10 & 7
-date: 2024-09-09T21:12:25.560Z
-updated: 2024-09-14T23:54:41.110Z
+date: 2024-09-15T01:11:47.075Z
+updated: 2024-09-20T06:16:46.213Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -94,24 +87,33 @@ Follow the steps below:
 1. Press the**Windows** key and**R** key at the same time. Type**devmgmt.msc** in the run box and click on the**OK** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -120,13 +122,6 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -161,21 +156,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] 2024 Approved Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-sony-s6500-review-latest-improvements-for-2024/"><u>[New] Sony S6500 Review Latest Improvements for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-wifi-keeps-disconnecting-or-dropping-out/"><u>[SOLVED] WiFi Keeps Disconnecting or Dropping Out</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-decoding-ad-revenue-distribution-in-youtubes-economic-model/"><u>[Updated] 2024 Approved Decoding Ad Revenue Distribution in YouTube's Economic Model</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamlining-lenovo-capture-features-for-2024/"><u>[Updated] Streamlining Lenovo Capture Features for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-90-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor 90 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-install-for-gtx-760-drivers/"><u>Easy Install for GTX 760 Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-issues-a-solution-to-hybrid-gpu-problem-with-intellnvidia/"><u>Ending Issues: A Solution to Hybrid GPU Problem with Intell/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exclusive-driver-update-for-windows-pcs-with-nvidia-210/"><u>Exclusive Driver Update for Windows PCs with Nvidia 210</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-guide-to-counteracting-wow-bug-519/"><u>Expert Guide to Counteracting WoW Bug #519</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-your-spotify-campaign-roi-an-expert-guide/"><u>In 2024, Maximize Your Spotify Campaign ROI - An Expert Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-success-desktop-lightness-fluctuates-stopped/"><u>Repair Success: Desktop Lightness Fluctuates Stopped</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-of-the-best-top-rated-free-mpeg-video-splitting-tools/"><u>Updated 2024 Approved Best of the Best Top-Rated Free MPEG Video Splitting Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-blackout-ended-now/"><u>Window's 10 Blackout: Ended Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-unexpectedly-missing-wi-fi/"><u>Windows 11: Unexpectedly Missing Wi-Fi?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-the-crossroads-of-full-time-work-and-youtube/"><u>[New] 2024 Approved Navigating the Crossroads of Full-Time Work & YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders-for-2024/"><u>[New] The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-stealth-video-tactics-for-soundless-capture/"><u>[Updated] In 2024, Stealth Video Tactics for Soundless Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-color-correction-with-easy-techniques/"><u>2024 Approved Streamline Color Correction with Easy Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-no-signage-in-sims-games/"><u>Fix No Signage in Sims Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-behind-the-scenes-crafting-your-next-big-fb-reel/"><u>In 2024, Behind-the-Scenes Crafting Your Next Big FB Reel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-new-era-of-action-filming-with-sj7s-cutting-edge-star-4k-cam/"><u>In 2024, The New Era of Action Filming with SJ7’s Cutting-Edge Star 4K Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-screen-distortion-in-modern-portable-devices/"><u>Navigating Through Screen Distortion in Modern Portable Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/novel-approaches-to-saving-instagram-stories-for-2024/"><u>Novel Approaches to Saving Instagram Stories for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/post-update-success-uninterrupted-video-streaming-on-win10/"><u>Post-Update Success: Uninterrupted Video Streaming on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stepwise-methodology-for-quick-remediation-of-portable-display-lines/"><u>Stepwise Methodology for Quick Remediation of Portable Display Lines</u></a></li>
 </ul></div>
 

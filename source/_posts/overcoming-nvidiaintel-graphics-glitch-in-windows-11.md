@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2024-09-08T23:01:08.217Z
-updated: 2024-09-14T21:42:19.313Z
+date: 2024-09-16T09:42:46.743Z
+updated: 2024-09-19T23:26:26.014Z
 tags:
   - win11
   - win10
@@ -77,13 +77,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -91,10 +84,17 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -102,13 +102,6 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -120,20 +113,27 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,17 +150,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-firefoxs-finest-leading-video-downloads-and-addons-for-facebook/"><u>[New] Firefox's Finest Leading Video Downloads & Addons for Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-understanding-instagrams-video-length-cap-for-2024/"><u>[New] Understanding Instagram's Video Length Cap for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-lose-yourself-to-laughter-best-10-jokes-for-2024/"><u>[Updated] Lose Yourself to Laughter Best 10 Jokes for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-precision-editing-mastery-proven-pc-strategies-for-youtube-success-for-2024/"><u>[Updated] Precision Editing Mastery Proven PC Strategies for YouTube Success for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlimited-legal-fb-beats-access/"><u>2024 Approved Unlimited, Legal FB Beats Access</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-maximizing-b-roll-impact-in-your-edits-for-2024/"><u>[Updated] Maximizing B-Roll Impact in Your Edits for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/180-video-rotation-techniques-how-to-flip-videos-completely/"><u>180° Video Rotation Techniques - How to Flip Videos Completely</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-to-fresh-intel-hd-driver/"><u>Adjusting Windows to Fresh Intel HD Driver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-reasons-behind-iphones-ringless-dialing-and-how-to-solve-them/"><u>Common Reasons Behind iPhone's Ringless Dialing and How to Solve Them</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-play-40c-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor Play 40C Device SIM</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-upside-down-image-issue-on-windows-10/"><u>Fix: Upside Down Image Issue on Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 7 If Youve Tried Everything</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-synthesize-and-add-videos-to-your-listing/"><u>In 2024, Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-setup-error-code-c1900101-in-new-os/"><u>Overcoming Setup Error: Code C1900101 in New OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/polarr-editor-unveiled-ultimate-visual-transformation-for-2024/"><u>Polarr Editor Unveiled Ultimate Visual Transformation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamlessly-update-intels-graphic-driver-for-windows-11/"><u>Seamlessly Update Intel's Graphic Driver for Windows 11</u></a></li>
 </ul></div>
 

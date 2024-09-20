@@ -1,7 +1,7 @@
 ---
 title: "Detected & Armored: OpenGL Bug in Nvidia Driver Armor"
-date: 2024-09-10T00:39:41.863Z
-updated: 2024-09-14T21:47:04.672Z
+date: 2024-09-17T17:29:40.686Z
+updated: 2024-09-19T19:39:49.235Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -82,13 +75,20 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Go to the following registry keys:
@@ -110,16 +110,22 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -145,19 +151,21 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-present-ppt-on-google-meet/"><u>[New] How to Present PPT on Google Meet?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-quality-recording-of-your-roblox-journeys-on-mac-for-2024/"><u>[New] How-To Quality Recording of Your Roblox Journeys on Mac for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>[New] Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-selecting-superior-free-srt-translation-apps-today-for-2024/"><u>[Updated] Selecting Superior Free SRT Translation Apps Today for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-inclusive-guide-what-is-googles-podcast-service-for-2024/"><u>All-Inclusive Guide What Is Google's Podcast Service for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-high-wmi-cpu-usage-woes-on-win11/"><u>Breeze Through High WMI CPU Usage Woes on Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-detection-issues-with-your-amd-graphics-card-on-a-windows-10-pc/"><u>Resolving Detection Issues with Your AMD Graphics Card on a Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-step-by-step-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solution-found-fixing-graphics-system-setup-errors-on-your-pc-or-laptop/"><u>Solution Found: Fixing Graphics System Setup Errors on Your PC or Laptop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-your-youtube-troubles-fix-errors-when-videos-wont-play/"><u>Solve Your YouTube Troubles - Fix Errors When Videos Won't Play</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-connecting-your-seagate-external-to-win-10/"><u>Troubleshooting Guide: Connecting Your Seagate External to Win 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-facebooks-potential-new-title/"><u>Understanding Facebook's Potential New Title</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-speedy-instagram-content-mobile-and-online-solutions/"><u>[New] Speedy Instagram Content Mobile & Online Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gpu-update-panel-unblocked/"><u>[Resolved] GPU Update Panel Unblocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/compress-oversized-screen-in-win10/"><u>Compress Oversized Screen in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crystal-clear-view-lost-in-darkness/"><u>Crystal Clear View: Lost in Darkness?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-reversed-display-orientation-on-win-11/"><u>Fixing Reversed Display Orientation on Win 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-muddled-to-clear-mastering-photo-bg-removal-for-2024/"><u>From Muddled to Clear Mastering Photo Bg Removal for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-driver-upgrade-windows-10-compatibility/"><u>GTX 970 Driver Upgrade: Windows 10 Compatibility</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-live-stream-to-youtube-with-wirecast/"><u>How to Live Stream to Youtube with Wirecast?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c110-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C110 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lost-connection-lost-time/"><u>Lost Connection, Lost Time</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477913-lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-ipad-video-editing-top-5-editors/"><u>New In 2024, The Ultimate Guide to iPad Video Editing Top 5 Editors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quash-amd-graphical-faux-pas/"><u>Quash AMD Graphical Faux Pas</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-missing-data-acquisition-device/"><u>Win OS Missing Data Acquisition Device</u></a></li>
 </ul></div>
 

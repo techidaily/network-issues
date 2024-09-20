@@ -1,7 +1,7 @@
 ---
 title: Addressing Intermittent HP Display Flicker
-date: 2024-07-12T00:27:57.619Z
-updated: 2024-07-13T00:27:57.619Z
+date: 2024-09-18T07:11:46.460Z
+updated: 2024-09-20T04:41:59.658Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
@@ -95,11 +102,31 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -129,8 +156,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +163,18 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-androids-facetime-essentials-explained-for-2024/"><u>[New] Android's FaceTime Essentials Explained for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>[New] Tycoon Titans The #12 Game Series for Budding Business Masters</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-ditching-offline-games-cod-cold-war/"><u>[RESOLVED] Ditching Offline Games: CoD Cold War</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-toy-wheels-tournament-tunes/"><u>[Updated] In 2024, Toy Wheels Tournament Tunes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apc-be600m1-backup-ups-review-optimal-battery-efficiency-and-convenient-usb-charger-feature-for-smartphones-and-tablets/"><u>APC BE600M1 Backup UPS Review: Optimal Battery Efficiency & Convenient USB Charger Feature for Smartphones and Tablets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-windows-7-screen-flickering/"><u>How to Fix Windows 7 Screen Flickering</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 11 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hd-content-playback-in-new-windows-version/"><u>Resolving HD Content Playback in New Windows Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-collection-of-10-advanced-fcp-tools/"><u>The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-amds-radeon-hd-6950-driver-revamp-released/"><u>Windows 11: AMD's Radeon HD 6950 Driver Revamp Released</u></a></li>
+</ul></div>
 

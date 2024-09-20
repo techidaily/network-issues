@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet"
-date: 2024-09-11T23:06:55.359Z
-updated: 2024-09-15T03:51:22.557Z
+date: 2024-09-15T22:46:50.074Z
+updated: 2024-09-19T17:23:48.291Z
 tags:
   - win11
   - win10
@@ -51,16 +51,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
  The following screenshots are taken from Windows 10, but it is also applicable for Windows 7 and 8.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 1 – Test your internet connection
@@ -75,6 +69,13 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Fix 2 – Run the network troubleshooter
 
  Windows Troubleshoot is a built-in tool to automatically find and fix the problem for users.**Network Troubleshooter** aims to solve problems with wireless and other network adapters.
@@ -87,19 +88,6 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-2.jpg)
 3. Scroll down and click**Network Adapter** .  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-3.jpg)
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-4.jpg)
@@ -111,10 +99,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 2. The network troubleshooter will then run.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Apply any fix if it finds any to see if it helps.
@@ -135,6 +123,14 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
@@ -159,13 +155,6 @@ Hope this trick works for you. If not, continue to the next solution.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 5 – Restart router
 
  Another device playing a vital role in network connection is the router. A router is a networking device that forwards data packets between computer networks. To fix Zoom’s unstable connection, restarting the router is also a useful solution.
@@ -175,19 +164,6 @@ Hope this trick works for you. If not, continue to the next solution.
 3. **Plug in** the router and wait at least 2 minutes to let it boot up.
 4. **Test Zoom** to see if the problem remains after regaining the connection.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/04/router-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your router works well but Zoom’s unstable connection error stays, take a look at the next solution.
 
@@ -203,6 +179,13 @@ Hope this trick works for you. If not, continue to the next solution.
 3. Copy and paste**ipconfig /renew** . Press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-7.jpg)
 4. **Restart** your computer and launch Zoom for a test.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -227,20 +210,16 @@ Hope this trick works for you. If not, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-the-field-in-remotely-recorded-content-creation/"><u>[New] 2024 Approved Leading the Field in Remotely Recorded Content Creation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-budget-drone-expeditions-top-5-affordable-options/"><u>[New] Budget Drone Expeditions Top 5 Affordable Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-beginners-guide-seamlessly-installing-the-latest-drivers-for-asus-maximus-x-hero-motherboard/"><u>A Beginner's Guide: Seamlessly Installing the Latest Drivers for ASUS Maximus X Hero Motherboard</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clear-screen-flicker-on-windows-10-issue-solved/"><u>Clear Screen Flicker on Windows 10 Issue Solved</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-how-to-put-echo-dot-in-its-initial-configuration-phase/"><u>Comprehensive Guide: How to Put Echo Dot in Its Initial Configuration Phase</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723807927915-easy-methods-for-directx-update-in-windows-1110-step-by-step-instructions/"><u>Easy Methods for DirectX Update in Windows 11/10 – Step-by-Step Instructions!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-glitch-invisible-display/"><u>Graphic Glitch: Invisible Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-acquire-and-apply-new-fonts-on-ios-devices/"><u>How to Easily Acquire and Apply New Fonts on iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-printer-offline-with-error-code-30-a-comprehensive-guide/"><u>How to Fix Printer Offline with Error Code -30: A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lost-in-the-web-wi-fi-frustrations/"><u>Lost in the Web: Wi-Fi Frustrations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastery-in-managing-display-latency/"><u>Mastery in Managing Display Latency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-frequent-shutdowns-while-playing-monster-hunter-world-on-desktop/"><u>Overcoming Frequent Shutdowns While Playing Monster Hunter World on Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-corrected-no-compatible-graphics-issue/"><u>Overwatch: Corrected No Compatible Graphics Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-vertical-aspect-ratio-issue/"><u>Resolving Vertical Aspect Ratio Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-graphics-performance-post-driver-error/"><u>Restoring Graphics Performance Post-Driver Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-uninstalled-amd-driver-in-win1110/"><u>[FIXED] Uninstalled AMD Driver in Win11/10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-photographers-pathway-transitioning-from-camera-to-computer-screen/"><u>[New] 2024 Approved The Photographer's Pathway Transitioning From Camera to Computer Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-247-real-time-follower-analysis/"><u>[New] In 2024, 24/7 Real-Time Follower Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-lessons-on-screen-essential-classroom-videography-tips/"><u>[Updated] Lessons on Screen Essential Classroom Videography Tips</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-revolutionize-your-tiktok-presence-2-effective-ways-using-filmora-techniques/"><u>[Updated] Revolutionize Your TikTok Presence 2 Effective Ways Using Filmora Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-app-audit-insightful-through-az-capture-for-2024/"><u>Comprehensive App Audit Insightful Through AZ Capture for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-in-sight-nvidia-display-recovers-quickly/"><u>Fix in Sight: Nvidia Display Recovers Quickly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconfiguring-windows-11-display-scaling/"><u>Reconfiguring Windows 11 Display Scaling</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-failed-attempt-to-save-display-preferences/"><u>Reverting Failed Attempt to Save Display Preferences</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
 </ul></div>
 

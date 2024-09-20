@@ -1,7 +1,7 @@
 ---
 title: Overcoming Grainy Graphics on Far Cry 6 Console
-date: 2024-07-12T00:23:04.688Z
-updated: 2024-07-13T00:23:04.688Z
+date: 2024-09-17T05:00:29.331Z
+updated: 2024-09-20T07:50:56.979Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 [4: Clean the DirectX cache](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -98,8 +105,28 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -129,10 +156,26 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 ---
@@ -148,8 +191,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +198,21 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-snappify-your-macs-viewport-for-2024/"><u>[New] How To Snappify Your Mac's Viewport for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[New] In 2024, How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-income-insights-googles-simplified-three-step-strategy-for-monetizing-youtube/"><u>[New] Unlocking Income Insights Google's Simplified Three-Step Strategy for Monetizing YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-connectivity-fixes-for-online-cod-cold-war/"><u>[RESOLVED] Connectivity Fixes for Online CoD Cold War</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>[Updated] 2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-woes-in-eft-simple-cure/"><u>AMD Woes in EFT, Simple Cure</u></a></li>
+<li><a href="https://article-files.techidaily.com/av1s-edge-in-efficiency-over-vp9-for-2024/"><u>AV1's Edge in Efficiency Over VP9 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displaysystem-crashes-on-windows-fix-available/"><u>DisplaySystem Crashes on Windows (Fix Available)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-flickering-on-windows-monitor/"><u>Eradicating Flickering on Windows Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixes-for-unresponsive-laptop-screens/"><u>Fixes for Unresponsive Laptop Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-interruptions-stable-fallout-on-computer/"><u>No More Interruptions: Stable Fallout on Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superlative-frame-storyteller-bundle-for-2024/"><u>Superlative Frame Storyteller Bundle for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-razer-naga-mice-drivers-for-optimal-performance-in-windows-environments/"><u>Update to the Most Recent Razer Naga Mice Drivers for Optimal Performance in Windows Environments</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
-date: 2024-09-08T18:27:21.778Z
-updated: 2024-09-14T16:36:40.911Z
+date: 2024-09-16T16:42:43.170Z
+updated: 2024-09-19T20:44:21.555Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
@@ -79,13 +79,6 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
@@ -93,15 +86,28 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
@@ -118,10 +124,16 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -180,20 +192,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-your-journey-to-zoom-mastery/"><u>[New] Streamline Your Journey to Zoom Mastery</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974794894-ban-buffering-seamless-vids-ahead/"><u>Ban Buffering: Seamless Vids Ahead</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-windows-stutter-reflections/"><u>Correcting Windows Stutter Reflections</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-virtual-journeys-game-edition/"><u>Embark on Virtual Journeys - Game Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-code-404-gpu-not-detected/"><u>Error Code 404: GPU Not Detected</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-tips-on-updating-your-computers-intel-graphics-drivers-win-7/"><u>Expert Tips on Updating Your Computer's Intel Graphics Drivers, Win 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-glitch-gone-victory-in-monster-hunt-world/"><u>Graphic Glitch Gone - Victory in Monster Hunt World</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/htc-vive-headset-review-for-2024/"><u>HTC Vive Headset Review for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-expert-recommendations-for-full-rotation-shots/"><u>In 2024, Expert Recommendations for Full Rotation Shots</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y78t-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y78t</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-fixing-radeon-r9-in-win11/"><u>Mastering the Art of Fixing Radeon R9 in Win11</u></a></li>
-<li><a href="https://techidaily.com/maximize-speed-on-windows-11-for-optimal-functionality-a-step-by-step-tutorial/"><u>Maximize Speed on Windows 11 for Optimal Functionality – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pre-order-now-simulavrs-latest-linux-release-virtual-reality-takes-a-new-turn/"><u>Pre-Order Now: SimulaVR's Latest Linux Release – Virtual Reality Takes a New Turn!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-black-screen-blues-in-win11/"><u>Solving Black Screen Blues in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-hot-40-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Hot 40 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-click-your-way-to-fun-top-12-pc-titles-of-2021-for-2024/"><u>[New] Click Your Way to Fun Top 12 PC Titles of 2021 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716068829189-new-in-2024-eco-friendly-recorder-ads-absolved/"><u>[New] In 2024, Eco-Friendly Recorder - Ads Absolved!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-filmoras-creative-certification-protocol/"><u>[Updated] In 2024, Understanding Filmora's Creative Certification Protocol</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-fb-message-transcription-with-expert-tips/"><u>2024 Approved Streamlining FB Message Transcription with Expert Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-clarity-to-unknown-direct-x-quirks-on-league-of-legends/"><u>Bringing Clarity to Unknown Direct X Quirks on League of Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-civ-5-hiccups-on-personal-computers/"><u>Fixing Civ 5 Hiccups on Personal Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/frequent-wi-fi-hiccups-no-fix-yet/"><u>Frequent Wi-Fi Hiccups, No Fix Yet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-newbie-empty-screen-dilemma/"><u>GPU Newbie: Empty Screen Dilemma</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi 12 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nokia-xr21-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nokia XR21 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-guide-idle-gpu-display/"><u>Quick Fix Guide: Idle GPU Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refresh-intel-graphics-support-for-windows-users/"><u>Refresh Intel Graphics Support for Windows Users</u></a></li>
 </ul></div>
 

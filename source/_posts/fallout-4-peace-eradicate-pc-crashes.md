@@ -1,7 +1,7 @@
 ---
 title: "Fallout 4 Peace: Eradicate PC Crashes"
-date: 2024-07-12T00:26:39.031Z
-updated: 2024-07-13T00:26:39.031Z
+date: 2024-09-17T08:41:11.886Z
+updated: 2024-09-20T08:28:15.114Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -82,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -91,6 +111,13 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
@@ -112,8 +139,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +146,22 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-high-definition-mastery-best-hd-screen-recorder-selections/"><u>[New] In 2024, High Definition Mastery Best HD Screen Recorder Selections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-r-type-final-2-keeps-crashing-on-pc/"><u>[SOLVED] R-Type Final 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/android-without-a-wire-heres-your-free-games-list-in-2024/"><u>Android Without A Wire? Here's Your Free Games List, In 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/delving-into-4k-ultra-definition-and-clarity/"><u>Delving Into 4K Ultra Definition & Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-media-performance-after-win10-installation/"><u>Enhanced Media Performance After Win10 Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guidelines-to-end-lenovo-visual-pulse/"><u>Guidelines to End Lenovo Visual Pulse</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-amd-radeon-graphics-driver-software-available-to-download/"><u>Latest Windows-Compatible AMD Radeon Graphics Driver Software Available to Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-stream-heroes-face-off-xsplit-vs-obs-showcase-for-2024/"><u>Live Stream Heroes Face Off – XSplit Vs. OBS Showcase for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-loading-hurdles-successful-amd-driver-on-win10/"><u>Overcoming Loading Hurdles: Successful AMD Driver on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/roblox-gaming-pace-enhancement-for-pcs/"><u>Roblox Gaming Pace Enhancement for PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-resolve-error-code-0x800f0831-via-windows-updates/"><u>Simple Solutions: Resolve Error Code 0X800f0831 via Windows Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-win11-black-box-quirk/"><u>Tackling Win11 Black Box Quirk</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-blank-screens-solutions-for-computers-that-boot-without-display/"><u>Troubleshooting Blank Screens: Solutions for Computers that Boot Without Display</u></a></li>
+</ul></div>
 
