@@ -1,7 +1,7 @@
 ---
 title: "Win10's New Era: Smooth Video and Audio Playback"
-date: 2024-09-13T22:10:27.453Z
-updated: 2024-09-20T05:42:29.578Z
+date: 2024-09-20T06:22:01.968Z
+updated: 2024-09-26T02:04:22.212Z
 tags:
   - win11
   - win10
@@ -45,11 +45,25 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Update Graphics Driver**
 
@@ -79,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4: Clean Browser Cache**
 
 `` Browser cache files, cookies and temp files can in some case mess up with the proper working of a browser. In this case, you should clean up unwanted files:
@@ -92,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d912ef7ac04-600x212.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``2) Select:
@@ -116,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/clear-browsing-data.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``The settings are similar in other browsers, you might need to do this with all the browsers that you have.
 **``**
 
@@ -139,5 +153,16 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-scale-up-achieving-extended-facebook-coverage/"><u>[New] 2024 Approved Scale Up Achieving Extended Facebook Coverage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-zero-cost-switch-gaming-experience/"><u>[Updated] Premium Zero Cost Switch Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-crashes-in-windows-10/"><u>Conquering AMD Radeon R9 Driver Crashes in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-gaps-in-wide-windows-10/"><u>Fixed Display Gaps in Wide Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-motorola-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Motorola Network Unlock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pathway-to-enlisting-world-class-cinematographers/"><u>In 2024, Pathway to Enlisting World-Class Cinematographers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-tier-hdr-camera-selection-made-easy/"><u>In 2024, Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mending-saving-functionality-for-display-settings-on-windows/"><u>Mending Saving Functionality for Display Settings on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-issue-resolved-all-systems-go/"><u>Nvidia Driver Issue Resolved, All Systems Go</u></a></li>
+</ul></div>
 

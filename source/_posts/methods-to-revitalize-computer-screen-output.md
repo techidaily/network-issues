@@ -1,7 +1,7 @@
 ---
 title: Methods to Revitalize Computer Screen Output
-date: 2024-09-19T04:06:14.119Z
-updated: 2024-09-19T17:33:08.303Z
+date: 2024-09-20T21:40:07.774Z
+updated: 2024-09-25T18:58:23.815Z
 tags:
   - win11
   - win10
@@ -65,16 +65,22 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Laptop memory
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Have your laptop serviced
 
@@ -95,32 +101,44 @@ On Windows 10, click**Create a restore** **point**,
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Update your device driver
@@ -128,6 +146,13 @@ And then in the dialog popping up, click the**System Restore**button.
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
@@ -151,5 +176,23 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nvestigating-top-viewed-comments/"><u>[New] Investigating Top Viewed Comments</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-windows-10-wireless-adapter-missing/"><u>[SOLVED] Windows 10 Wireless Adapter Missing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-youtube-and-brands-united-strategic-collaborative-titles/"><u>[Updated] 2024 Approved YouTube & Brands United Strategic Collaborative Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards/"><u>[Updated] Exclusive Look Top 5 Value-for-Money Gaming Mice & Keyboards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>2024 Approved Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjustment-woes-windows-11-resolution-halted/"><u>Adjustment Woes - Windows 11 Resolution Halted</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-htc-u23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For HTC U23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-window-tearing-phenomena/"><u>End Window Tearing Phenomena</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disabled-amd-freesync-connectivity/"><u>Fixing Disabled AMD FreeSync Connectivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-creative-effortlessly-top-10-sticker-enhancing-apps-for-smartphones-for-2024/"><u>Get Creative, Effortlessly Top 10 Sticker-Enhancing Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-zte-nubia-z60-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your ZTE Nubia Z60 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/perfecting-pc-fortnite-recording-techniques-for-zero-lag-streams-and-screenshots/"><u>Perfecting PC Fortnite Recording: Techniques for Zero-Lag Streams and Screenshots</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-graphics-drivers-windows-8s-safe-mode-guide/"><u>Reversing Graphics Drivers: Windows 8'S Safe Mode Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-operation-taming-amd-radeon-r9-on-windows-11/"><u>Smooth Operation: Taming AMD Radeon R9 on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-quick-flick-in-dell-panels/"><u>Stopping Quick-Flick in Dell Panels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transformative-meme-making-discovering-the-best-8-tools/"><u>Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
+</ul></div>
 

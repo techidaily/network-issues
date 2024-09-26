@@ -1,7 +1,7 @@
 ---
 title: Dial-In Your Desktop Res In Windows 11
-date: 2024-09-19T07:44:26.330Z
-updated: 2024-09-19T17:32:51.847Z
+date: 2024-09-19T18:29:45.521Z
+updated: 2024-09-25T19:14:35.797Z
 tags:
   - win11
   - win10
@@ -62,9 +62,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -75,6 +89,13 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -90,29 +111,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -140,5 +154,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tutorial-transferring-youtube-videos-to-social-media-facebook-edition/"><u>[New] In 2024, Tutorial Transferring YouTube Videos to Social Media - Facebook Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-definitive-guide-for-shoppers-in-the-era-of-virtual-reality/"><u>[New] The Definitive Guide for Shoppers in the Era of Virtual Reality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-embedding-your-pre-recorded-video-in-a-live-facebook-showcase-for-2024/"><u>[Updated] Embedding Your Pre-Recorded Video in a Live Facebook Showcase for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-scriptwriting-the-art-of-utilizing-slug-lines-for-2024/"><u>[Updated] Scriptwriting The Art of Utilizing Slug Lines for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/8-things-to-consider-when-buying-a-tablet/"><u>8 Things to Consider When Buying a Tablet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/craft-a-powerhouse-channel-with-studio-expertise/"><u>Craft a Powerhouse Channel with Studio Expertise</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-visuals-smooth-out-after-repair/"><u>Dell Visuals Smooth Out After Repair</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-simplify-your-life-with-these-tips-on-free-youtube-transcription/"><u>In 2024, Simplify Your Life with These Tips on Free YouTube Transcription</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wifi-adapter-atheros-issue-windows-10-fixed/"><u>Qualcomm WiFi Adapter, Atheros Issue - Windows 10 Fixed</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-operation-failure-0x709-on-pc/"><u>Reversing Operation Failure 0X709 on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-transition-of-windows-11-playback-post-update/"><u>Smooth Transition of Windows 11 Playback Post-Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turning-upside-down-screen-rightside-up/"><u>Turning Upside-Down Screen Rightside Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-update-and-its-companion-service/"><u>Unveiling Windows Update and Its Companion Service</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-a-boost-with-new-geforce-210-graphics-driver/"><u>Windows 10 Gets a Boost with New GeForce 210 Graphics Driver</u></a></li>
+</ul></div>
 

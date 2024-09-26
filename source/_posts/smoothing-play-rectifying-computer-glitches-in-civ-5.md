@@ -1,7 +1,7 @@
 ---
 title: "Smoothing Play: Rectifying Computer Glitches in Civ 5"
-date: 2024-09-16T22:56:34.822Z
-updated: 2024-09-20T00:04:47.375Z
+date: 2024-09-24T22:22:09.860Z
+updated: 2024-09-26T09:42:18.037Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -62,10 +69,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
@@ -78,20 +85,28 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -115,5 +130,21 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/irst-timers-manual-for-cool-mac-crafted-youtube-clips-for-2024/"><u>[New] First-Timer's Manual for Cool, Mac-Crafted YouTube Clips for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-videography-and-storage-assessing-a-high-capacity-memorys-video-limits-for-2024/"><u>[New] Videography & Storage Assessing a High-Capacity Memory's Video Limits for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-apex-alchemy-choosing-the-best-laptops-for-video-wizards/"><u>[Updated] 2024 Approved Apex Alchemy Choosing the Best Laptops for Video Wizards</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-boundless-savings-for-your-captured-moments-for-2024/"><u>[Updated] Boundless Savings for Your Captured Moments for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-xiaomi-redmi-13c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-economical-thermopro-tp67-worth-it-a-look-at-its-accuracy-issues/"><u>Is the Economical ThermoPro TP67 Worth It? A Look at Its Accuracy Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-audio-format-switches-srt-to-ssa-and-more-for-2024/"><u>Mastering Audio Format Switches SRT to SSA & More for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-windows-11-screen-size-appearance/"><u>Optimize Windows 11 Screen Size Appearance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-screen-flip-issue-with-windows-11/"><u>Overcoming Screen Flip Issue with Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/paving-digital-pathways-for-ig-and-tiktok-for-2024/"><u>Paving Digital Pathways for IG & TikTok for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-all-available-screen-configurations-on-gpu/"><u>Reactivating All Available Screen Configurations on GPU</u></a></li>
+<li><a href="https://driver-error.techidaily.com/success-wireless-n-adapter-issue-on-windows-fixed/"><u>Success: Wireless N Adapter Issue on Windows Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hidden-truth-about-wi-fi-absence-in-windows-11/"><u>The Hidden Truth About Wi-Fi Absence in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-missing-adjustments/"><u>Windows 11 Advanced Display Missing Adjustments</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2024-09-12T18:16:25.645Z
-updated: 2024-09-19T22:42:50.409Z
+date: 2024-09-21T10:45:36.258Z
+updated: 2024-09-26T04:50:19.450Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart Fortnite
 
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
@@ -45,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 modem
 
@@ -66,21 +86,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -107,6 +113,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
 ## Fix 5: Disable the proxy server
@@ -117,30 +130,32 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
-![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
@@ -157,13 +172,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
@@ -205,5 +213,24 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-doom-eternal-xbox-crash-directx-problem/"><u>[FIXED] Doom Eternal Xbox Crash - DirectX Problem</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-speaking-into-the-future-iphone-recordings/"><u>[New] Speaking Into the Future - iPhone Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-guide-to-reinventing-facebook-video-coverages-step-by-step-for-2024/"><u>[Updated] Guide to Reinventing Facebook Video Coverages Step-by-Step for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[Updated] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-display-incompatibility-with-freesync/"><u>Addressing Display Incompatibility with FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-render-driver-glitches-in-ms-bd/"><u>Correcting Render Driver Glitches in MS BD</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-repair-error-43-settled/"><u>Device Repair: Error 43 Settled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-the-disturbance-in-win11-display/"><u>Dismiss the Disturbance in Win11 Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-from-marks-acquiring-unmarked-stock-photography-for-2024/"><u>Free From Marks Acquiring Unmarked Stock Photography for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kodi-cant-connect-error-secure-your-streams-now/"><u>How to Fix Kodi Can't Connect Error - Secure Your Streams Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-bluetooth-driver-download-and-update-win-111187/"><u>Microsoft Bluetooth Driver Download & Update - Win 11/11/8/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-drivers-new-era-rtx210-meets-windows-11-standards/"><u>New Drivers, New Era - RTX210 Meets Windows 11 Standards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-for-fixing-non-ejectable-cd-dvd-and-blu-ray-drives/"><u>Step-by-Step Guide for Fixing Non-Ejectable CD, DVD, and Blu-Ray Drives</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722853500401-troubleshooting-tips-for-when-netflix-titles-dont-stream-properly/"><u>Troubleshooting Tips for When Netflix Titles Don't Stream Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-system-potential-safe-mode-and-graphic-card-driver-elimination-in-w8/"><u>Unlocking System Potential: Safe Mode & Graphic Card Driver Elimination in W8</u></a></li>
+</ul></div>
 

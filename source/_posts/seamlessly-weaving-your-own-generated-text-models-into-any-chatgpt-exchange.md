@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange
-date: 2024-09-14T01:26:22.560Z
-updated: 2024-09-20T01:52:10.717Z
+date: 2024-09-20T12:29:59.628Z
+updated: 2024-09-26T03:39:51.096Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -70,12 +91,23 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters/"><u>[New] 2024 Approved Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-10-customizations-elevating-terria-for-2024/"><u>[New] Elite 10 Customizations Elevating Terria for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-startup-complication-remedied/"><u>Direct3D Startup Complication Remedied</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-and-plan-like-a-pro-our-picks-for-the-best-travel-organizer-apps/"><u>Explore and Plan Like a Pro: Our Picks for the Best Travel Organizer Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-err-code-22-resolved/"><u>GPU Err: Code 22 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-with-newest-operating-system/"><u>Harmonizing Nvidia with Newest Operating System</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-way-to-trim-vlc-videos-on-mac-maintain-original-quality/"><u>New The Best Way to Trim VLC Videos on Mac Maintain Original Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-tecno-phantom-v-flip-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Phantom V Flip Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-screen-after-windows-upgrade-fall/"><u>Restore Screen After Windows Upgrade Fall</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-up-graphics-capability-with-an-easy-intel-gpu-update-in-windows-10/"><u>Step up Graphics Capability with an Easy Intel GPU Update in Windows 10.</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/subtlety-in-volume-the-ableton-way-for-2024/"><u>Subtlety in Volume The Ableton Way for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-missing-d3dx9dll-errors-on-your-computer/"><u>Troubleshooting and Repairing Missing d3dx9_^.dll Errors on Your Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-the-mystery-of-rtx-crashes-in-games/"><u>Unraveling the Mystery of RTX Crashes in Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-wizardry-techniques-for-removing-graphics-drivers/"><u>Windows Wizardry: Techniques for Removing Graphics Drivers</u></a></li>
+</ul></div>
 

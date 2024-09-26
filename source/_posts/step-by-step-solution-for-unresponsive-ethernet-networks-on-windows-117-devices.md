@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2024-09-19T06:10:24.843Z
-updated: 2024-09-19T21:33:38.941Z
+date: 2024-09-19T01:52:08.815Z
+updated: 2024-09-26T08:50:23.723Z
 tags:
   - win11
   - win10
@@ -51,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 3: Update the network card driver
 
  The connection problem can be caused by faulty network drivers. To fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with Driver Easy. 
@@ -71,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -94,24 +107,25 @@ Follow the steps below:
 1. Press the**Windows** key and**R** key at the same time. Type**devmgmt.msc** in the run box and click on the**OK** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -127,6 +141,13 @@ Follow the steps below:
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -153,5 +174,23 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-dissecting-youtubes-operational-model-post-upload/"><u>[New] In 2024, Dissecting YouTube's Operational Model Post-Upload</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-mac-hd-frame-gems-guide-char-limit-156/"><u>[Updated] Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974453129-accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-wow-malfunction-no-519/"><u>Conquering WoW Malfunction No. 519</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-latest-intel-hduhd-graphics-drivers-for-windows-11/"><u>Download and Install Latest Intel HD/UHD Graphics Drivers for Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-project-outcomes-using-agile-methodology-learn-the-6-essential-strategies-for-effective-software-design-zdnet/"><u>Elevate Your Project Outcomes Using Agile Methodology: Learn the 6 Essential Strategies for Effective Software Design | ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-engagement-with-cookiebot-technology-integration/"><u>Enhanced Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-new-hp-printer-drivers-compatible-with-windows-10-and-windows-11/"><u>How to Install New HP Printer Drivers: Compatible with Windows 10 and Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-filters-a-comprehensive-guide/"><u>Instagram Filters A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refine-visual-clarity-on-latest-windows-11/"><u>Refine Visual Clarity on Latest Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-installation-no-complaints-for-nvidia/"><u>Successful Installation, No Complaints for NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-nvidia-rtx-3080-glitches-in-games/"><u>Taming NVIDIA RTX 3080 Glitches in Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-eradicate-hp-screensaver-glare/"><u>Techniques to Eradicate HP Screensaver Glare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-emerging-ai-chipsets-revolutionizing-computing/"><u>Top 5 Emerging AI Chipsets Revolutionizing Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-fix-and-restoration-toolkit-for-photocorrector-pro-8-windows-stellar-repair-edition/"><u>Ultimate Fix & Restoration Toolkit for PhotoCorrector Pro 8 (Windows) - Stellar Repair Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visuals-preserved-after-update-attempt/"><u>Visuals Preserved After Update Attempt</u></a></li>
+</ul></div>
 

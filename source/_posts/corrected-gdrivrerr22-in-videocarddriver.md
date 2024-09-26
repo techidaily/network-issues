@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2024-09-15T21:22:35.601Z
-updated: 2024-09-20T02:03:44.914Z
+date: 2024-09-23T05:55:51.995Z
+updated: 2024-09-26T00:08:46.839Z
 tags:
   - win11
   - win10
@@ -59,19 +59,40 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -95,10 +116,10 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -120,5 +141,24 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-cod-cold-war-offline-issues-persist/"><u>[FIXED] CoD Cold War - Offline Issues Persist</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews/"><u>[New] Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-no-smudges-on-screens-keeping-your-gopro-crisp/"><u>[New] No Smudges on Screens Keeping Your GoPro Crisp</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-abc-of-advertising-a-trifecta-strategy-to-drive-engagement-on-fb-platforms-for-2024/"><u>[New] The ABC of Advertising A Trifecta Strategy to Drive Engagement on FB Platforms for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-winos-error-dxgkrnlsys-blue-screen/"><u>[Resolved] WinOS Error: dxgkrnl.sys Blue Screen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed-for-2024/"><u>[Updated] Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjustment-for-large-win10-screens/"><u>Adjustment for Large Win10 Screens</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/byb-e430-led-light-fixture-assessment-expert-insight-on-high-quality-swing-arm-design/"><u>BYB E430 LED Light Fixture Assessment: Expert Insight on High-Quality Swing Arm Design</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-delete-foldersfiles-with-powershell-or-command-prompt-on-windows-11/"><u>Expert Techniques to Delete Folders/Files with PowerShell or Command Prompt on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-oscillating-displays-pro-7/"><u>Rectifying Oscillating Displays (Pro 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refreshing-windows-intel-graphics-firmware/"><u>Refreshing Windows' Intel Graphics Firmware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-visuals-in-windows-after-cu/"><u>Restoring Visuals in Windows After CU</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-asus-rog-phone-7-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Asus ROG Phone 7 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-your-systems-visual-experience-using-the-latest-intel-gpu-driver-in-w10/"><u>Upgrade Your System's Visual Experience Using the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zeroing-downfall-pc-bugs-for-fallout-4/"><u>Zeroing Downfall PC Bugs for Fallout 4</u></a></li>
+</ul></div>
 

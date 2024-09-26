@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dimmed Monitor in Lenovo PC
-date: 2024-09-14T18:04:00.754Z
-updated: 2024-09-19T21:53:35.298Z
+date: 2024-09-20T18:08:15.498Z
+updated: 2024-09-26T07:28:08.144Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -70,13 +77,40 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -97,12 +131,23 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-jocular-images-for-apple-devices/"><u>[New] Jocular Images for Apple Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-graphics-installed-amd-adapter-in-win1110/"><u>[TROUBLESHOOTED GRAPHICS] Installed AMD Adapter in Win11/10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-captivate-audiences-with-perfectly-tailored-youtube-descriptions-for-2024/"><u>[Updated] Captivate Audiences with Perfectly Tailored Youtube Descriptions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-creating-polished-composites-with-skillful-modes-use/"><u>[Updated] Creating Polished Composites with Skillful Modes Use</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovators-crafting-next-gen-virtual-worlds/"><u>[Updated] Innovators Crafting Next-Gen Virtual Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-trust-discords-idleness-status-feedback/"><u>Can You Trust Discord’s Idleness Status Feedback?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-display-on-windows-7/"><u>Correcting Inverted Display on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-interrupt-windows-issue-coming-soon-fix/"><u>GFXUI Interrupt, Windows Issue (Coming Soon Fix)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-asus-rog-phone-7-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Asus ROG Phone 7 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-your-asus-devices-touchpad-controls-for-windows-11/"><u>Step-by-Step Tutorial: Updating Your ASUS Device's Touchpad Controls for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-with-amd-on-windows-driver-load-now-functioning-properly/"><u>Success with AMD on Windows, Driver Load Now Functioning Properly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/time-stretched-pixelation-the-ultimate-guide-to-cam-gear-for-2024/"><u>Time-Stretched Pixelation The Ultimate Guide to Cam Gear for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+</ul></div>
 

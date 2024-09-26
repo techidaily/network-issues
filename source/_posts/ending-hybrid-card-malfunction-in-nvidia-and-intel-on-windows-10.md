@@ -1,7 +1,7 @@
 ---
 title: Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10
-date: 2024-09-16T21:16:28.646Z
-updated: 2024-09-19T20:52:15.960Z
+date: 2024-09-21T16:53:39.210Z
+updated: 2024-09-26T05:45:44.937Z
 tags:
   - win11
   - win10
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -60,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -91,10 +98,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -102,26 +109,6 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -133,6 +120,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
@@ -140,6 +134,13 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,5 +155,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unbeatable-mac-video-grabber-options-listed/"><u>[New] In 2024, Unbeatable Mac Video Grabber Options Listed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-beyond-basic-usage-mastering-instagrams-interrogation-icon-for-2024/"><u>[Updated] Beyond Basic Usage Mastering Instagram's Interrogation Icon for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>[Updated] In 2024, Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-preventing-social-media-platforms-intrusive-ads-for-2024/"><u>[Updated] Preventing Social Media Platform's Intrusive Ads for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-rewind-to-save-incorporating-80s-vhs-in-todays-cinematic-edits/"><u>2024 Approved From Rewind to Save Incorporating 80S VHS in Today's Cinematic Edits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-screen-mirror-fault-in-windows-7/"><u>Addressing Screen Mirror Fault in Windows 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-ways-to-reduce-anxiety-with-the-help-of-chatgpt/"><u>Effective Ways to Reduce Anxiety with the Help of ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ensuring-seamless-viewing-post-upgrade-windows-11-update/"><u>Ensuring Seamless Viewing Post-Upgrade Windows 11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/faulty-nvidiaamd-fixing-crashes-in-minecraft/"><u>Faulty Nvidia/AMD: Fixing Crashes in Minecraft</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-look-into-digiarty-software-with-founder-tony-castley-visionaries-in-tech/"><u>In-Depth Look Into Digiarty Software with Founder Tony Castley: Visionaries in Tech</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-asus-internal-video-problems/"><u>Overcoming Asus Internal Video Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securely-connected-os-and-com-layer/"><u>Securely Connected OS & COM Layer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-steady-views-on-win11-monitors/"><u>Securing Steady Views on Win11 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-your-zoom-camera-hurdles-in-no-time-effortlessly/"><u>Solve Your Zoom Camera Hurdles in No Time, Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-solutions-for-windows-pin-access-issues-10plus11/"><u>Top Solutions for Windows PIN Access Issues (10+11)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-desktop-with-a-new-taskbar-shade/"><u>Transforming Your Windows 11 Desktop with a New Taskbar Shade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vulkan-failsafe-enabled-armored/"><u>Vulkan Failsafe Enabled - Armored</u></a></li>
+</ul></div>
 

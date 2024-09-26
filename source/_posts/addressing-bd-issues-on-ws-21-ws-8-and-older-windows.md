@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2024-09-18T11:04:22.383Z
-updated: 2024-09-20T06:19:42.929Z
+date: 2024-09-23T09:16:19.851Z
+updated: 2024-09-25T20:39:05.659Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -47,22 +54,24 @@ Here’s how to do it:
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
@@ -88,10 +97,10 @@ Here’s how to do it:
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
@@ -112,5 +121,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-camstudio-updates-the-2023-guide-for-screen-recording-pros/"><u>[New] In 2024, CamStudio Updates The 2023 Guide for Screen Recording Pros</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-tips-for-stunning-video-content/"><u>[Updated] Mastering Instagram Tips for Stunning Video Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>2024 Approved Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-crafting-a-viral-identity-the-best-30-innovative-tiktok-handles/"><u>2024 Approved Crafting a Viral Identity The Best 30 Innovative TikTok Handles</u></a></li>
+<li><a href="https://win-info.techidaily.com/convert-and-save-your-favorite-shows-from-arte-plus-7-as-mp4-mov-or-avi-files-using-a-simple-tool/"><u>Convert and Save Your Favorite Shows From ARTE + 7 as MP4, MOV or AVI Files Using a Simple Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-blackout-on-windows-11-post-fall/"><u>Correcting Blackout on Windows 11 Post-Fall</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-entertainment-ideas-how-to-set-up-a-successful-house-karaoke-night/"><u>Home Entertainment Ideas: How To Set Up A Successful House Karaoke Night</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-create-stunning-igtv-video-footage-using-smartphones-and-dslr-for-2024/"><u>How to Create Stunning IGTV Video Footage Using Smartphones and DSLR for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-tecno-spark-10-4g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-full-rotational-photography-versus-3d-scanning/"><u>In 2024, Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monster-hunt-rebooted-crashed-game-restored/"><u>Monster Hunt Rebooted: Crashed Game Restored</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/online-language-evolution-mondly-leads-the-pack-in-germany/"><u>Online Language Evolution: Mondly Leads the Pack in Germany</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-windows-via-intel-gpu-update/"><u>Optimizing Windows via Intel GPU Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-invisible-wireless-adapter-in-windows-11/"><u>Resolved: Invisible Wireless Adapter in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974504839-screen-flicker-no-more/"><u>Screen Flicker, No More!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-screen-flash-a-guide/"><u>Solving Screen Flash: A Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-the-excellence-in-4k-ultra-hds/"><u>Understanding the Excellence in 4K Ultra HDs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-void-in-virtual-ventures/"><u>Visual Void in Virtual Ventures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-transformed-sharper-images/"><u>Windows Transformed: Sharper Images</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Swift Methods: XP, Vista, Win7 to Remove Graphic Drivers"
-date: 2024-09-13T08:13:08.599Z
-updated: 2024-09-20T09:20:33.620Z
+date: 2024-09-20T02:53:34.243Z
+updated: 2024-09-26T07:18:17.083Z
 tags:
   - win11
   - win10
@@ -35,10 +35,33 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Locate and double-click on **Display adapters**  (aka. **Graphics card** , **Video card**). Then right-click on**the item** right below and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
 3. Click**Uninstall** in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: Install the latest graphics driver
 
@@ -58,6 +81,14 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -85,12 +116,17 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/levate-video-appeal-crafting-unforgettable-thumbnail-images/"><u>[New] Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/etting-started-on-youtube-broadcasts-using-obs-for-2024/"><u>[New] Getting Started on YouTube Broadcasts Using OBS for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-undead-unleashed-discovering-the-ultimate-zombie-games/"><u>[New] In 2024, Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-cod-cold-wars-network-issues/"><u>[TROUBLESHOOTED]: CoD Cold War's Network Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-compatibility-issues-on-amd-freesync-display/"><u>Correcting Compatibility Issues on AMD FreeSync Display</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-various-ways-to-earn-on-youtube/"><u>Exploring Various Ways to Earn on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-video-glitches-post-windows-11-launch/"><u>Tackling Video Glitches Post-Windows 11 Launch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-elusive-stable-wi-fi-connection/"><u>The Elusive Stable Wi-Fi Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-must-listen-true-crime-podcast-episodes/"><u>Top 13 Must-Listen True Crime Podcast Episodes</u></a></li>
+</ul></div>
 

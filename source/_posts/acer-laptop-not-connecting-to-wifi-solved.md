@@ -1,7 +1,7 @@
 ---
 title: Acer Laptop Not Connecting to WiFi [Solved]
-date: 2024-09-13T10:16:19.126Z
-updated: 2024-09-20T11:51:31.940Z
+date: 2024-09-19T01:43:28.276Z
+updated: 2024-09-26T08:32:24.729Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Your Acer laptop won’t connect to Wi-Fi and you fail to access the Internet? D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f17e7c46827.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can try the combination of Fn + F3 keys to see if it turns your Wi-Fi on and off.
 
  If you don’t see the Wi-Fi switch on your laptop, and the function keys don’t work, try to turn on the Wi-Fi feature in Settings. Here’s how to do it:
@@ -59,6 +66,14 @@ To do so, follow these steps:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type**services.msc** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-94.png)
 2. Scroll down and double-click**WLAN AutoConfig** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-95.png)
 3. Make sure to set the**Startup type** to**Automatic** , and the**Service status** is**Running** . Then click**Apply** and**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-96.png)
@@ -69,6 +84,13 @@ Now check if your Acer laptop connects to Wi-Fi or not.
 If not, don’t panic. There are other solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Fix 3: Update your wireless network adapter
 
@@ -90,6 +112,13 @@ If not, don’t panic. There are other solutions.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/802.11n-Wireless-LAN-Card.png)
@@ -103,6 +132,13 @@ Now connect your laptop to Wi-Fi and see if it works properly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Fix 4: Modify Power Management settings
 
  Power Management settings for your wireless network adapter relate your Wi-Fi performance to the battery power situation. When your Acer laptop has less power, it may disable your wireless network adapter in order to save power. So you should check and modify the Power Management settings.
@@ -111,25 +147,25 @@ Now connect your laptop to Wi-Fi and see if it works properly.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-409.png)
 2. In Device Manager, double-click**Network adapters** , and right-click on your**wireless network adapter** , and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-410.png)
 3. Click the**Power Management** tab, and uncheck the box next to**Allow the computer to turn off this device to save power** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-411.png)
 4. Restart your laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try connecting to Wi-Fi and see if it works.
 
@@ -148,6 +184,13 @@ Now try connecting to Wi-Fi and see if it works.
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the problem remains, please move on.
 
 ---
@@ -162,13 +205,6 @@ Note: be sure to re-enable the antivirus program later on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 7: Manually connect to a wireless network
 
  If the methods above didn’t resolve your issue, you can try connecting to your Wi-Fi manually in your Acer laptop.
@@ -179,22 +215,8 @@ Note: be sure to re-enable the antivirus program later on.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-89.png)
 3. Click**Set up a new connection or network** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-103.png)
 4. Select**Manually connect to a wireless network** , then click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-104.png)
 5. Enter the required information for your Wi-Fi, including**Network name** ,**Security type** , and**Security Key** . Be sure to check the box next to**Start this connection automatically** , then click**Next** .  
@@ -225,5 +247,26 @@ Then your Acer laptop should be able to connect to wireless networks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/est-webcams-unveiled-a-youtube-livestreamers-handbook/"><u>[New] Best Webcams Unveiled A YouTube Livestreamer's Handbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapshot-to-sequence-capturing-life-in-motion/"><u>2024 Approved Snapshot to Sequence Capturing Life in Motion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-forth-invisible-video-shutdowns/"><u>Bringing Forth Invisible Video Shutdowns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-visual-performance-update-windows-intel-gpu/"><u>Enhance Visual Performance: Update Windows Intel GPU</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-and-populate-tips-for-making-your-instagram-photos-take-up-more-space/"><u>Expand and Populate: Tips for Making Your Instagram Photos Take Up More Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-warning-steer-clear-to-prevent-cybersecurity-infections/"><u>Google Bard Warning: Steer Clear to Prevent Cybersecurity Infections</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opencl-not-found-fixed-now/"><u>OpenCL Not Found, Fixed Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-halted-restoration-complete/"><u>OpenGL Halted, Restoration Complete</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-gdx-setup-on-pc/"><u>Repaired Failed GDX Setup on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gdx-setup-failure-now-functional-on-ws/"><u>Resolved GDX Setup Failure, Now Functional on WS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/web-enabled-proportion-perfection/"><u>Web-Enabled Proportion Perfection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-bluescreen-dxgkrnlsys-troubleshooting/"><u>WinOS BlueScreen - dxgkrnl.sys Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-interop-issue-addressed/"><u>WinOS Interop Issue Addressed</u></a></li>
+</ul></div>
 
