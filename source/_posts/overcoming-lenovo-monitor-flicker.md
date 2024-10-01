@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lenovo Monitor Flicker
-date: 2024-09-20T07:58:11.446Z
-updated: 2024-09-26T02:20:10.036Z
+date: 2024-09-28T17:10:42.155Z
+updated: 2024-10-01T14:10:54.453Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -63,16 +70,10 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -80,22 +81,15 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
@@ -104,10 +98,10 @@ To update the BIOS of your Lenovo laptop:
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -139,17 +133,16 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-advanced-tips-for-sending-fb-videos-via-whatsapp/"><u>[New] 2024 Approved Advanced Tips for Sending FB Videos via WhatsApp</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-clearing-up-your-video-quality-issues-for-2024/"><u>[New] Clearing Up Your Video Quality Issues for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-authenticating-your-instagram-photos/"><u>[New] In 2024, Authenticating Your Instagram Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-tips-for-mac-users-audacitys-audio-recording-features/"><u>[New] In 2024, Expert Tips for Mac Users Audacity's Audio Recording Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-photo-frenzy-stories-of-popularity/"><u>[New] Photo Frenzy Stories of Popularity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-rapid-review-windows-files-made-simple/"><u>[New] Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-driver-enhancement-in-windows-11-by-qualcomm/"><u>Atheros QCA61x4 Driver Enhancement in Windows 11 by Qualcomm</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-network-driver-solved-for-qualcomm-windows-11-compatibility/"><u>Atheros Wi-Fi Network Driver Solved for Qualcomm Windows 11 Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-dark-screen-post-fall-update/"><u>Fixing Dark Screen Post Fall Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hidden-hardware-alert-address-missing-nvidia-card/"><u>Hidden Hardware Alert: Address Missing NVIDIA Card</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/perfecting-your-youtube-contents-first-visual-hook-for-2024/"><u>Perfecting Your YouTube Content's First Visual Hook for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restore-normal-operation-win10-screensaver/"><u>Restore Normal Operation Win10 Screensaver</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-flipboard-celebs-snapchat-reels/"><u>[New] Flipboard Celebs' Snapchat Reels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nline-platforms-embedding-video-playlists-from-youtube/"><u>[New] Online Platforms Embedding Video Playlists From YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beat-hopping-boundaries-linking-service-playlists-together/"><u>[Updated] Beat Hopping Boundaries Linking Service Playlists Together</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-lut-techniques-for-professional-color-grading-and-correction/"><u>[Updated] LUT Techniques for Professional Color Grading and Correction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/counteract-pc-game-lagging-roblox-edition/"><u>Counteract PC Game Lagging: Roblox Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disabling-dark-mode-black-screen-issue/"><u>Disabling Dark Mode BLACK SCREEN Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Google Meet Camera Not Working? Here's How You Can Get It Up and Running Again!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-c12-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia C12 Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversal-of-laptop-viewpoint-overcome/"><u>Reversal of Laptop Viewpoint - Overcome</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-the-mystery-of-c1900101-during-windows-11-upgrade/"><u>Solving the Mystery of C1900101 During Windows 11 Upgrade</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-series-x-review/"><u>Xbox Series X Review</u></a></li>
 </ul></div>
 

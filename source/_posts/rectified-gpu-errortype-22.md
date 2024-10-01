@@ -1,7 +1,7 @@
 ---
 title: Rectified GPU Errortype 22
-date: 2024-09-23T07:36:03.962Z
-updated: 2024-09-26T12:19:11.219Z
+date: 2024-09-26T16:49:08.276Z
+updated: 2024-10-01T05:26:37.362Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -42,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -60,18 +67,18 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -80,13 +87,6 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -109,16 +109,10 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -142,22 +136,24 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/solved-halo-infinite-not-launching-due-to-directx12-error/"><u>[SOLVED] Halo Infinite Not Launching Due to DirectX12 Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-understanding-the-dynamics-of-ig-reels-vs-ig-stories/"><u>[Updated] In 2024, Understanding the Dynamics of IG Reels Vs IG Stories</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-text-inconsistency-ms-resouce-error-win11/"><u>Addressing Text Inconsistency: Ms-Resouce Error, Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-on-sony-convert-mts-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Sony -convert MTS for Sony </u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-device-detection-issues-fixed-for-windows-11-users/"><u>Bluetooth Device Detection Issues Fixed for Windows 11 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clear-visuals-and-high-quality-screen-win10-solution/"><u>Clear Visuals & High-Quality Screen - Win10 Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/computer-upgrades-to-meet-intel-software-minimums/"><u>Computer Upgrades to Meet Intel Software Minimums</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-uneven-line-presence-with-simplified-fix-techniques/"><u>Correcting Uneven Line Presence with Simplified Fix Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/directing-emotions-choosing-sound-for-film-teasers-for-2024/"><u>Directing Emotions Choosing Sound for Film Teasers for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/experience-vivid-graphics-with-a-simple-update-to-intel-hd-graphics-3000/"><u>Experience Vivid Graphics with a Simple Update to Intel HD Graphics 3000</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-backward-screen-display-order/"><u>Fixing Backward Screen Display Order</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nubia-red-magic-9-proplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nubia Red Magic 9 Pro+ to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>In 2024, The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mastering-wax-a-step-by-step-guide-to-free-video-editing-for-2024/"><u>New Mastering Wax A Step-by-Step Guide to Free Video Editing for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-c1900101-error-on-10th-edition/"><u>Remedying C1900101 Error on 10Th Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wifi-adapter-driver-download-and-install-for-windows-1110/"><u>WiFi Adapter Driver Download and Install for Windows 11/10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>[New] 2024 Approved From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-innovative-methods-screen-capturing-on-instagram-for-2024/"><u>[New] Innovative Methods Screen Capturing on Instagram for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-non-athlete-front-rows-the-ultimate-alternative-list/"><u>[Updated] 2024 Approved Non-Athlete Front Rows The Ultimate Alternative List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-clarity-selecting-best-gimbals-for-your-camera-for-2024/"><u>Capture Clarity Selecting Best Gimbals for Your Camera for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-for-aspect-ratio-skew-on-pcs/"><u>Direct Fix for Aspect Ratio Skew on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-blurry-screens-embrace-focus/"><u>Eliminate Blurry Screens, Embrace Focus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunders-gameplay-gains/"><u>God of Thunder's Gameplay Gains</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-processor-error-corrected-operational/"><u>Graphic Processor Error Corrected, Operational</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-s23pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel S23+with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y17smirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y17sMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-and-paid-3d-animation-software-a-comprehensive-review/"><u>In 2024, Free and Paid 3D Animation Software A Comprehensive Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-play-40c-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Play 40C to PC? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/initialization-error-in-direct3d-resolved/"><u>Initialization Error in Direct3D Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-invisible-video-device-snags/"><u>Navigate Invisible Video Device Snags</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shielded-device-from-unpredictable-luminescence/"><u>Shielded Device From Unpredictable Luminescence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-monitor-distortion-problems/"><u>Solve Monitor Distortion Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/straightforward-correction-dormant-gpu-with-nvidia/"><u>Straightforward Correction: Dormant GPU with NVIDIA</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tackling-iphone-lens-failures-with-ease-for-2024/"><u>Tackling iPhone Lens Failures with Ease for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-prevalent-iphone-display-troubles-fixes-inside/"><u>The Ultimate List of Prevalent iPhone Display Troubles - Fixes Inside</u></a></li>
 </ul></div>
 
