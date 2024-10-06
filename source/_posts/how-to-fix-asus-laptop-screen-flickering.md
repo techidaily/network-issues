@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-09-27T05:38:01.863Z
-updated: 2024-10-01T11:04:54.843Z
+date: 2024-09-30T17:31:02.102Z
+updated: 2024-10-06T17:59:51.862Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###   **Fix 1: Change the screen refresh rate**  
@@ -50,13 +50,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
@@ -72,16 +65,30 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 2: Update or delete incompatible apps
 
@@ -106,28 +113,15 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -174,21 +168,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-classic-comedy-compilation-a-goofy-movie-review/"><u>[New] 2024 Approved Classic Comedy Compilation A 'Goofy Movie' Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-effective-strategies-for-twitter-marketing-for-2024/"><u>[Updated] Effective Strategies for Twitter Marketing for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-virtual-impression-sculpting-a-playful-digital-identity/"><u>[Updated] In 2024, Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-yt-cover-art-the-key-to-more-views/"><u>2024 Approved YT Cover Art The Key to More Views</u></a></li>
-<li><a href="https://games-able.techidaily.com/combat-driver-not-starting-frustration-windows-11-guide/"><u>Combat Driver Not Starting Frustration: Windows 11 Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-failure-43-overcome/"><u>Device Failure 43 Overcome</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-qualcomm-wifi-atheros-on-win10-os/"><u>Harmonizing Qualcomm WiFi - Atheros on Win10 OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings/"><u>In 2024, Online Onyx The Monetary Meaningfulness of Pewdiepie's Earnings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-gone-dark-solutions-await/"><u>Lenovo Gone Dark? Solutions Await</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-phosphor-glitches-in-acer-monitors/"><u>Preventing Phosphor Glitches in Acer Monitors</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-rated-black-friday-bargains-get-more-with-your-gift-cards-zdnet-insights/"><u>Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unify-window-border-stability/"><u>Unify Window Border Stability</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] 2024 Approved Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-asgardian-crusade-final-quest/"><u>[New] The Asgardian Crusade Final Quest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-experts-choice-androids-best-large-group-calling-for-2024/"><u>[Updated] Expert's Choice Android's Best Large Group Calling for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-whats-in-your-wallet-from-one-million-youtube-sights-in-2024/"><u>[Updated] What's In Your Wallet From One Million YouTube Sights, In 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-potential-savings-why-inspecting-dvds-before-going-digital-could-reward-you-with-coupons/"><u>Discover Potential Savings: Why Inspecting DVDs Before Going Digital Could Reward You With Coupons</u></a></li>
+<li><a href="https://network-issues.techidaily.com/distinguishing-4k-from-other-video-resolutions/"><u>Distinguishing 4K From Other Video Resolutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-display-quality-instantly-intels-latest-graphics-update-in-windows-10/"><u>Enhance Display Quality Instantly: Intel's Latest Graphics Update in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ensuring-seamless-gameplay-fixing-civ5-glitches/"><u>Ensuring Seamless Gameplay: Fixing CIV5 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/final-fantasy-fiasco-frustratingly-fast/"><u>Final Fantasy Fiasco: Frustratingly Fast</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-note-30-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Note 30 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-fix-up-achieved-desired-fullscreen-on-win11/"><u>Monitor Fix-Up: Achieved Desired FullScreen on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-optimized-driver-update-geforce-210-and-win10/"><u>NVIDIA's Optimized Driver Update: GeForce 210 & WIN10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719266840560-prevent-unwanted-updates-on-your-pc-today/"><u>Prevent Unwanted Updates on Your PC Today!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-pc-gaming-fixing-win-minecraft-graphics-drivers/"><u>Reviving PC Gaming: Fixing Win-Minecraft Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sli-failed-status-improved/"><u>SLI Failed - Status Improved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-correcting-oversight-of-graphics-card/"><u>Strategies for Correcting Oversight of Graphics Card</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sizzling-sequel-an-in-depth-overcooked-2-culinary-critique/"><u>The Sizzling Sequel: An In-Depth Overcooked! 2 Culinary Critique</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59</u></a></li>
 </ul></div>
 

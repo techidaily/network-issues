@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm Wireless Fix: Atheros Driver Win11 Troubles"
-date: 2024-09-25T00:22:52.945Z
-updated: 2024-10-01T01:01:11.055Z
+date: 2024-09-29T20:41:42.324Z
+updated: 2024-10-06T21:04:57.627Z
 tags:
   - win11
   - win10
@@ -31,16 +31,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Disable & Enable your Qualcomm adapter driver
@@ -50,16 +44,24 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 1. Press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**devmgmt.msc** into the box and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
@@ -68,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  Now your Qualcomm wireless network adapter should be available for use again. Open your web browser to see whether the Internet is connected properly. If it isn’t, please read on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Rollback your Qualcomm adapter driver
 
@@ -87,34 +82,47 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
 5. Choose a reason based on your own situation, then click**Yes** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
 
  Open your web browser to check whether the network connection has gone back to normal. If not, you should proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your Qualcomm adapter driver
 
@@ -130,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 
 * **[My network connection is not stable but still works at times](#stable)**
 * **[My network connection doesn’t work at all](#not)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The network connection is not stable but still works at times
 
@@ -183,18 +184,17 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discover-the-power-of-proportions-in-youtube-content-creation-for-2024/"><u>[New] Discover the Power of Proportions in YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streaming-software-showdown-choosing-between-obs-and-streamlabs/"><u>[New] In 2024, Streaming Software Showdown Choosing Between OBS and Streamlabs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-no-signal-on-wireless-card-in-new-os/"><u>[SOLVED] No Signal on Wireless Card in New OS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-immediate-streams-from-obs-to-insta/"><u>[Updated] Immediate Streams From OBS to Insta</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-creative-summit-top-talent-junction/"><u>[Updated] The Creative Summit Top Talent Junction</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-final-say-on-ricohs-theta-s-vision-system/"><u>2024 Approved The Final Say on Ricoh's Theta S Vision System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apk-journey-to-gaming-bliss-funimate-pro-guide-for-2024/"><u>APK Journey to Gaming Bliss Funimate Pro Guide for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ban-buffering-seamless-vids-ahead/"><u>Ban Buffering: Seamless Vids Ahead!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-guide-converting-audio-video-coding-aac-files-into-mp4-format/"><u>Effortless Guide: Converting Audio-Video Coding (AAC) Files Into MP4 Format</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-the-green-glow-on-youtube-videos-effectively/"><u>Eliminating the Green Glow on YouTube Videos Effectively</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/macbook-pros-new-best-friend-inside-out-on-the-no-nonsense-wallet-friendly-procase-sleeve-review/"><u>MacBook Pro's New Best Friend? Inside Out on the No-Nonsense, Wallet-Friendly ProCase Sleeve Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-tips-standby-gpu-display-nvidia/"><u>Straightforward Adjustment Tips: Standby GPU Display, NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninterrupted-viewing-fixing-video-pause-in-new-os/"><u>Uninterrupted Viewing: Fixing Video Pause in New OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fanfare-gaming-patch-for-2024/"><u>[New] Fanfare Gaming Patch for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-understanding-the-inner-workings-of-youtube-post-upload/"><u>[New] In 2024, Understanding the Inner Workings of YouTube Post-Upload</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[Updated] In 2024, Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F04 FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-easily-unlock-honor-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Honor Screen?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimize-lag-for-enjoyable-roblox-on-computer/"><u>Minimize Lag for Enjoyable Roblox on Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-update-renders-previous-gpu-incompatibility-fixes-obsolete/"><u>New Update Renders Previous GPU Incompatibility Fixes Obsolete</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/next-generation-flight-simulation-unveiled-a-comprehensive-review-of-x-plane-ninth-editions-stunning-visuals/"><u>Next-Generation Flight Simulation Unveiled: A Comprehensive Review of X-Plane Ninth Edition's Stunning Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/regulate-unnecessary-window-10-size/"><u>Regulate Unnecessary Window 10 Size</u></a></li>
+<li><a href="https://video-capture.techidaily.com/speedy-strategies-storing-slideshow-scripts/"><u>Speedy Strategies Storing Slideshow Scripts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/synchronize-vertical-edge-alignment/"><u>Synchronize Vertical Edge Alignment</u></a></li>
 </ul></div>
 

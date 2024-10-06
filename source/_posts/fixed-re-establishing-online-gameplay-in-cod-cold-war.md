@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Re-Establishing Online Gameplay in CoD Cold War"
-date: 2024-09-28T11:15:46.403Z
-updated: 2024-09-30T20:44:12.275Z
+date: 2024-09-29T16:26:18.439Z
+updated: 2024-10-06T22:20:22.129Z
 tags:
   - win11
   - win10
@@ -39,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Allow your game through Windows Firewall
 
  The error message is mainly associated with a server or internet connection issue. So in order to fix it, you need to first make sure that your firewall is not blocking your game. To do this, take these steps:
@@ -60,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 ![Windows Defender Firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow an app through windows defender firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Now you need to scroll down until you can find**Call of Duty: Black Ops Cold War** . And also make sure it’s ticked for Private.  
 ![allow Call of Duty Black Ops Cold War through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-the-game-through-Windows-Firewall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your game isn’t on the list and it’s not ticked for Private, it means it doesn’t have access to the internet. If that’s your case, take these steps:
 
@@ -84,6 +71,13 @@ If you are not sure where your game is installed, take these steps:
 2. Click on**GAMES** and head to**Call of Duty: BOCW** . Click on**Options > Show in Explorer** . Then you’ll be brought to your game’s installation directory.  
 
 ![call of duty black ops cold war installation directory](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** .
 
@@ -104,25 +98,11 @@ If you are not sure where your game is installed, take these steps:
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run Blizzard launcher as administrator
 
 1. Exit your launcher.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
@@ -154,10 +134,10 @@ OR
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -165,6 +145,13 @@ OR
  After updating your drivers, restart your computer for them to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Flush your DNS and use Google’s instead
 
@@ -180,22 +167,8 @@ To see if a new DNS address helps, you can follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
@@ -203,6 +176,14 @@ To see if a new DNS address helps, you can follow the instructions below:
 7. Select **Network and Sharing Center** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
@@ -218,6 +199,19 @@ To see if a new DNS address helps, you can follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
 
  If you haven’t linked your Activision and Blizzard accounts, you may not be able to connect to the online services. So to eradicate the error message, follow the steps below to link your accounts:
@@ -228,10 +222,10 @@ To see if a new DNS address helps, you can follow the instructions below:
 3. Then you’ll be redirected to the login page. Now simply enter your details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Once you’re logged in, click**PROFILE** in the top right.  
@@ -239,6 +233,13 @@ To see if a new DNS address helps, you can follow the instructions below:
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, launch your game and check if you can connect to online services.
 
@@ -269,21 +270,24 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-on-the-road-and-recorded-essential-helmet-cams-unveiled-for-bikers-gear/"><u>[New] 2024 Approved On the Road & Recorded - Essential Helmet Cams Unveiled for Bikers' Gear</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-building-a-reliable-routine-for-google-meet-sessions/"><u>[Updated] Building a Reliable Routine for Google Meet Sessions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-the-art-of-borders-in-instagram-photos/"><u>[Updated] Perfecting the Art of Borders in Instagram Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cutting-corners-not-with-quality-square-video-creation-techniques/"><u>Cutting Corners? Not with Quality Square Video Creation Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-on-new-operating-system/"><u>Dealing with C1900101 on New Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-bulk-changing-m4a-audio-into-mp3-format/"><u>Effortless Guide on Bulk Changing M4A Audio Into MP3 Format</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fallout-4s-pc-problems-solved-for-you/"><u>Fallout 4'S PC Problems, Solved for You</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-microsofts-basic-render-in-windows-series/"><u>Fixed Microsoft's Basic Render in Windows Series</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974661693-optimize-system-visuals-effortlessly-by-updating-the-intel-graphics-3000-driver-in-w10/"><u>Optimize System Visuals Effortlessly by Updating the Intel Graphics 3000 Driver in W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-wireless-fix-atheros-adapter-in-windows-10/"><u>Qualcomm Wireless Fix: Atheros Adapter in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-repair-steps-unused-gfx-display-nvidia/"><u>Quick Repair Steps: Unused GFX Display NVIDIA</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solutions-fur-das-beseitigen-von-verspatungen-und-unterbrechungen-wahrend-der-wiedergabe-von-mkv-dateien-unter-windows-and-mac/"><u>Solutions Für Das Beseitigen Von Verspätungen Und Unterbrechungen Während Der Wiedergabe Von MKV-Dateien Unter Windows & Mac</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-approach-to-enhancing-mp4-content-with-srt-captions-for-2024/"><u>Ultimate Approach to Enhancing MP4 Content with SRT Captions for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-your-cameras-full-potential-with-our-fixed-up-guide/"><u>Unlock Your Camera's Full Potential with Our Fixed-Up Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>2024 Approved Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-gpu-restoration-with-armor-feature/"><u>AMD GPU Restoration with Armor Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charming-windows-echoing-winters-joyful-spirit/"><u>Charming Windows: Echoing Winter's Joyful Spirit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ease-up-on-latency-issues-roblox-playing/"><u>Ease Up on Latency Issues - Roblox Playing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-alert-by-device-over-nvidia-windows-stopped-fixed/"><u>Error Alert by Device Over Nvidia, Windows Stopped Fixed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertly-crafted-drama-hub/"><u>Expertly Crafted Drama Hub</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guaranteeing-smooth-play-resolving-civ-5-crashes/"><u>Guaranteeing Smooth Play: Resolving Civ 5 Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-driverpowerstateerrors-easily-and-quickly/"><u>How To Repair DRIVER_POWER_STATE_ERRORS Easily and Quickly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-picshots-magic-for-quick-photo-cohesion/"><u>In 2024, Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-to-tiktok-the-ultimate-connector/"><u>In 2024, Instagram to TikTok The Ultimate Connector</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground-for-2024/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rebooting-device-for-functional-asus-camera/"><u>Rebooting Device for Functional Asus Camera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blank-gpu-not-detected-2020/"><u>Screen Blank: GPU Not Detected 2020</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-windows-8-drivers-removal-via-safe-mode-rehearsal/"><u>Step-By-Step Windows 8 Drivers Removal via Safe Mode Rehearsal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visuals-and-layouts/"><u>Successful Saving of Visuals & Layouts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-gamers-guide-to-the-samsung-q6nq-led-4k-smart-tv-review/"><u>The Ultimate Gamers Guide to the Samsung Q6nQ LED 4K Smart TV Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-aid-issue-cleared/"><u>Visual Aid: Issue Cleared</u></a></li>
 </ul></div>
 

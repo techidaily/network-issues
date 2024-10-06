@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2024-09-27T12:41:41.133Z
-updated: 2024-09-30T16:24:04.318Z
+date: 2024-09-30T20:09:43.150Z
+updated: 2024-10-06T16:32:11.643Z
 tags:
   - chatgpt
   - open-ai
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -59,6 +52,13 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -70,10 +70,10 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -88,6 +88,13 @@ You could use:
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -96,16 +103,16 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -116,10 +123,10 @@ You could use:
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
@@ -127,13 +134,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -162,15 +162,20 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-video-dimensions-for-peak-performance/"><u>[New] 2024 Approved Mastering Instagram Video Dimensions for Peak Performance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-transition-techniques-decreasing-volume-gradually-in-pp/"><u>[New] In 2024, Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-smart-choice-essential-steps-in-upgrading-your-tech/"><u>[New] The Smart Choice Essential Steps in Upgrading Your Tech</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[Updated] Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-freelancers-guide-to-affordable-animation-methods/"><u>[Updated] The Freelancer's Guide to Affordable Animation Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-stutter-and-collapses-in-age-of-wonders-planetfall-a-guide-for-pc-gamers/"><u>Dealing with Stutter and Collapses in 'Age of Wonders: Planetfall': A Guide for PC Gamers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/industrial-grade-secure-data-clearance-get-insight-into-bitrasers-erasure-suite-for-enterprises/"><u>Industrial-Grade Secure Data Clearance: Get Insight Into BitRaser’s Erasure Suite for Enterprises</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-solved-obs-full-screen-not-working-for-2024/"><u>[New] [Solved] OBS Full Screen Not Working for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-master-tweet-management-ultimate-list-of-unfollow-aids/"><u>[New] 2024 Approved Master Tweet Management Ultimate List of Unfollow Aids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>2024 Approved Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-bd-issues-on-ws-21-ws-8-and-older-windows/"><u>Addressing BD Issues on WS-21, WS-8 & Older Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/comprehensively-understanding-azure-speech-to-text/"><u>Comprehensively Understanding Azure Speech to Text</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-demise-laptops-last-stand/"><u>Display Demise: Laptop's Last Stand</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fury-fixed-for-spartans-journey/"><u>Fury Fixed for Spartan's Journey</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-zte-blade-a73-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to ZTE Blade A73 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-straighten-laptop-display/"><u>Quick Fix for Straighten Laptop Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recover-lost-display-settings-easy-way/"><u>Recover Lost Display Settings, Easy Way</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-gaming-analyzing-kinemasters-android-version-for-2024/"><u>Revolutionizing Gaming Analyzing KineMaster's Android Version for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solidify-displays-edge-integrity/"><u>Solidify Display's Edge Integrity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974830104-swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself/"><u>Updated Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself</u></a></li>
 </ul></div>
 

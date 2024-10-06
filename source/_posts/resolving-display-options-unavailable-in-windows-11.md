@@ -1,7 +1,7 @@
 ---
 title: "Resolving: Display Options Unavailable in Windows 11"
-date: 2024-08-15T07:58:47.941Z
-updated: 2024-08-16T07:58:47.941Z
+date: 2024-09-30T22:17:15.574Z
+updated: 2024-10-06T16:46:32.054Z
 tags:
   - win11
   - win10
@@ -26,8 +26,12 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -47,19 +51,12 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -76,26 +73,44 @@ Here’s how to do it:
  2) Click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
@@ -112,8 +127,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +134,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-effortless-editing-secrets-for-fresh-filmmakers/"><u>[New] In 2024, Effortless Editing Secrets for Fresh Filmmakers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-oxygen-not-included-crashing-issues/"><u>[Solved] Oxygen Not Included Crashing Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-become-a-lol-broadcasting-pro-with-these-three-methods-for-2024/"><u>[Updated] Become a LOL Broadcasting Pro with These Three Methods for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-smart-8-hd-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Smart 8 HD Activity | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-lack-of-brightness-on-lenovo-screens/"><u>Addressing Lack of Brightness on Lenovo Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-rectified-in-win11-update/"><u>Atheros Wi-Fi Drivers Rectified in Win11 Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-windows-11-iso-burners-of-2024-top-3-picks-for-full-version-downloads/"><u>Best Free Windows 11 ISO Burners of 2024: Top 3 Picks for Full Version Downloads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-disappearance-fresh-gpu-setup/"><u>Display Disappearance: Fresh GPU Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flaky-video-drivers-prevents-mc-crash/"><u>Fixing Flaky Video Drivers Prevents MC Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-win11-ghost-cursor-problem/"><u>Fixing Win11 Ghost Cursor Problem</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-quality-movie-maker-turn-everyday-video-clips-into-high-quality/"><u>In 2024, Quality Movie Maker Turn Everyday Video Clips Into High Quality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-note-30i-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Note 30i FRP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-cure-amd-in-eft-gameplay/"><u>Instant Cure: AMD in EFT Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-improve-intellgraphics-g3000-on-windows-11/"><u>Quickly Improve IntellGraphics G3000 on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reliable-and-robust-in-depth-analysis-of-the-dbpower-600a-18000mah-peak-portable-power-bank/"><u>Reliable and Robust: In-Depth Analysis of the DBPOWER 600A 18000mAh Peak Portable Power Bank</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-your-zoom-cams-potential-with-these-tips/"><u>Unlock Your Zoom Cam's Potential with These Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-7-superior-ai-programs-for-swift-and-accurate-math-problem-solving/"><u>Unveiling 7 Superior AI Programs for Swift and Accurate Math Problem Solving</u></a></li>
+</ul></div>
 

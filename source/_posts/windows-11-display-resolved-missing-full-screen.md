@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Display - Resolved Missing Full Screen
-date: 2024-09-30T06:35:09.589Z
-updated: 2024-10-01T05:55:33.143Z
+date: 2024-10-03T18:09:53.978Z
+updated: 2024-10-06T16:53:46.307Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -44,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
  In addition to full screen settings,**check if there are resolution settings in that application** . For example, video games in PC always enable users to change the screen resolution to match their demands. So also give it a check.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the display settings in your computer settings
 
@@ -61,40 +61,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can switch to different resolutions and see if it resolves your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
@@ -105,15 +78,22 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
@@ -146,16 +126,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
@@ -169,13 +143,6 @@ Here’s what you need to do:
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -191,9 +158,23 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
@@ -204,6 +185,19 @@ To do so, follow these steps:
 Still no luck? Okay, there is one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
 
@@ -233,18 +227,24 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-ordinary-to-outstanding-mastering-instagram-unboxing-creation/"><u>[New] From Ordinary to Outstanding Mastering Instagram Unboxing Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/better-pc-experience-with-swift-roblox-action/"><u>Better PC Experience with Swift Roblox Action</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-downloads-of-the-logitech-momo-wheel-controller-for-pc-gaming/"><u>Free Downloads of the Logitech MOMO Wheel Controller for PC Gaming</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-mp4-extraction-your-fb-video-fix/"><u>In 2024, Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
-<li><a href="https://win-special.techidaily.com/is-there-a-risk-of-losing-ownership-over-your-brand-post-purchase-learn-more-at-flipbuildercom/"><u>Is There a Risk of Losing Ownership Over Your Brand Post-Purchase? Learn More at FlipBuilder.com</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-sims-4-black-screen-fixes/"><u>Navigate Sims 4 Black Screen Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974407111-resolving-amd-loading-issue-on-windows-10-success-achieved/"><u>Resolving AMD Loading Issue on Windows 10, Success Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-amd-loading-issue-on-windows-10-success-achieved/"><u>Resolving AMD Loading Issue on Windows 10, Success Achieved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-vertical-calibration-on-computers/"><u>Streamline Vertical Calibration on Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-ensure-computer-identifies-gpu/"><u>Techniques to Ensure Computer Identifies GPU</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-definitive-guide-to-10-premium-vector-stockplaces/"><u>The Definitive Guide to 10 Premium Vector Stockplaces</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unlocking-success-top-notch-strategies-for-winning-with-tiktok-campaigns/"><u>Unlocking Success Top-Notch Strategies for Winning with TikTok Campaigns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-no-signal-on-wireless-card-in-new-os/"><u>[SOLVED] No Signal on Wireless Card in New OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-linkedin-profile-video-introduction-scope-dimensions-minutes/"><u>[Updated] 2024 Approved LinkedIn Profile Video Introduction Scope, Dimensions, Minutes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avi-jpg-mp4-avi/"><u>AVI 파일을 JPG 및 MP4로 자유롭게 변환하는 가상화: 제한 없이 AVI 파일 변환기 다운로드</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ban-buffering-seamless-vids-ahead/"><u>Ban Buffering: Seamless Vids Ahead!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bright-windows-clean-views-ahead/"><u>Bright Windows, Clean Views Ahead</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-the-green-glow-on-youtube-videos-effectively/"><u>Eliminating the Green Glow on YouTube Videos Effectively</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-tips-overcoming-hp-officejet-pro-6978-printer-driver-challenges/"><u>Expert Tips: Overcoming HP OfficeJet Pro 6978 Printer Driver Challenges</u></a></li>
+<li><a href="https://extra-information.techidaily.com/film-fragments-the-ultimate-editors-collection/"><u>Film Fragments The Ultimate Editor's Collection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-pauses-smooth-video-screenshots/"><u>Fix Pauses: Smooth Video Screenshots</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-hardware-not-suitable-for-current-overwatch-version/"><u>Graphic Hardware Not Suitable for Current Overwatch Version</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi K70</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g23-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Moto G23 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-depth-insights-into-camstudio-recording-for-2024/"><u>In-Depth Insights Into CamStudio Recording for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-12-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 12 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revolutionizing-display-quality-refreshed-intel-drivers-in-windows-7-systems/"><u>Revolutionizing Display Quality: Refreshed Intel Drivers in Windows 7 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-tips-standby-gpu-display-nvidia/"><u>Straightforward Adjustment Tips: Standby GPU Display, NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-viewing-fixing-video-pause-in-new-os/"><u>Uninterrupted Viewing: Fixing Video Pause in New OS</u></a></li>
 </ul></div>
 

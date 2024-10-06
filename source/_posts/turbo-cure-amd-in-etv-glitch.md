@@ -1,7 +1,7 @@
 ---
 title: "Turbo Cure: AMD in ETV Glitch"
-date: 2024-08-15T07:55:26.784Z
-updated: 2024-08-16T07:55:26.784Z
+date: 2024-10-03T16:28:41.687Z
+updated: 2024-10-06T16:35:18.362Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/c55765d4297ec3f7740baed77892bf0fb723d7f40
 
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Verify integrity of game files
 
  A variety of issues, including graphics glitches, can be caused by corrupted or missing game files. Therefore, you’ll need to perform an integrity check to resolve your problem. Follow the steps below to do so.
@@ -41,13 +38,17 @@ thumbnail: https://thmb.techidaily.com/c55765d4297ec3f7740baed77892bf0fb723d7f40
 2. Locate your profile. Then click on the drop-down and select**Integrity check** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/integrity-check-1.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
  This may take some minutes to redownload and reinstall any missing or corrupted game files.
 
  When the process is finished, relaunch your game and test the gameplay. If it’s still unplayable when it’s raining, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Delete the game cache
 
@@ -68,20 +69,34 @@ thumbnail: https://thmb.techidaily.com/c55765d4297ec3f7740baed77892bf0fb723d7f40
 2. Locate your profile on the top right. Then click on the drop-down and select**Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-temp-folder.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
 
  When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -93,14 +108,6 @@ thumbnail: https://thmb.techidaily.com/c55765d4297ec3f7740baed77892bf0fb723d7f40
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with outdated drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
@@ -114,8 +121,18 @@ After updating drivers, restart your PC and test the gameplay.
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Repair your PC
 
  If none of the methods listed above help fix your issue, it’s time you check if you have corrupted system files, which significantly reduce PC performance. In this case, you can try running a scan of your PC. And for that job, we recommend you use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a **100% legitimate** program that specializes in Windows repair. When you run Fortect, it’ll automatically find, and fix system software issues without losing your data.
@@ -125,6 +142,13 @@ If your game is still unplayable, move on to the next fix.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
@@ -138,8 +162,6 @@ If your game is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,8 +169,22 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-downloader-get-access-on-all-devices-2023-for-2024/"><u>[New] FB Video Downloader Get Access on All Devices, 2023 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-divided-footage-delight-top-cam-discussion/"><u>[Updated] 2024 Approved Divided Footage Delight Top Cam Discussion?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-understanding-facebooks-video-privacy-settings/"><u>[Updated] Understanding Facebook's Video Privacy Settings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-smartphone-to-vr-makeover-tutorial/"><u>2024 Approved The Ultimate Smartphone-to-VR Makeover Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-must-have-protective-phones-shells-for-splashes-and-spills/"><u>2024'S Must-Have Protective Phones Shells for Splashes and Spills</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-initiation-error-rectified/"><u>D3D Initiation Error Rectified</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-play-speed-up-roblox-pc-game/"><u>Efficient Play: Speed up Roblox PC Game</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-phantom-screens-in-dell-units/"><u>Fixing Phantom Screens in Dell Units</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-screen-mirroring/"><u>Fixing Windows 7 Screen Mirroring</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-for-clear-screens/"><u>Immediate Action for Clear Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leaders-in-video-to-file-transformation-the-best-ios-and-pc-tools-8/"><u>In 2024, Leaders in Video to File Transformation The Best iOS & PC Tools #8</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>In 2024, Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-m54-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy M54 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vanquish-sims-4-whiteness-glitches/"><u>Vanquish Sims 4 Whiteness Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-transformed-sharper-images/"><u>Windows Transformed: Sharper Images</u></a></li>
+</ul></div>
 

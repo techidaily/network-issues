@@ -1,7 +1,7 @@
 ---
 title: Addressing Lenovo Visual Currents
-date: 2024-09-28T04:34:01.800Z
-updated: 2024-10-01T01:07:48.315Z
+date: 2024-10-03T19:20:59.757Z
+updated: 2024-10-06T17:06:43.299Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -63,10 +70,10 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -74,10 +81,10 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -85,28 +92,15 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
@@ -139,20 +133,15 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-7-high-impact-workout-videos-that-engage-and-energize-audiences/"><u>[New] In 2024, 7 High-Impact Workout Videos That Engage and Energize Audiences</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-system-installed-gpu-driver-for-win1110/"><u>[REPAIRED SYSTEM] Installed GPU Driver for Win11/10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-app-accuracy-check-through-the-lens-of-vll/"><u>[Updated] In 2024, App Accuracy Check Through the Lens of VLL</u></a></li>
-<li><a href="https://extra-information.techidaily.com/15-creative-ventures-to-pursue-while-youre-heeding-stories/"><u>15 Creative Ventures to Pursue While You're Heeding Stories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-your-net-worth-with-youtube-the-threefold-approach-to-assessing-earnings/"><u>2024 Approved Navigate Your Net Worth with YouTube The Threefold Approach to Assessing Earnings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comprehensive-study-amds-impact-on-the-pc-gaming-market/"><u>Comprehensive Study: AMD's Impact on the PC Gaming Market</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-downloading-the-latest-ftdi-drivers-for-your-windows-pc/"><u>Easy Instructions to Downloading the Latest FTDI Drivers for Your Windows PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-43-no-more/"><u>GPU Error 43, No More</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-spotlight-on-premium-360cameras-for-professionals/"><u>In 2024, Spotlight on Premium 360°Cameras for Professionals</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05FRP Lock</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3-for-2024/"><u>Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3 for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stability-triumph-fixing-fallout-4-issues/"><u>Stability Triumph: Fixing Fallout 4 Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-for-streaming-on-latest-windows-10/"><u>Successful Troubleshooting for Streaming on Latest Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-optimize-photo-quality-on-low-megapixel-iphone-devices/"><u>Tips & Tricks to Optimize Photo Quality on Low-Megapixel iPhone Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/titans-unbound-lags-on-purchase/"><u>Titans Unbound: Lags on Purchase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>[New] Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[Updated] In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225380393-flac-mp3-movavi/"><u>網路上無成本轉換 FLAC到 MP3 - 利用 Movavi 提供的轉換工具</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-invisible-stream-obstacles/"><u>Banishing Invisible Stream Obstacles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-performance-with-intel-update/"><u>Enhancing Visual Performance with Intel Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-meme-mastery-top-ten-template-treasures/"><u>In 2024, Meme Mastery Top Ten Template Treasures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-watch-review/"><u>Samsung Galaxy Watch Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-alignment-of-display-angles/"><u>Seamless Alignment of Display Angles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/thrifty-tunes-how-students-can-enjoy-spotify-at-half-price-your-step-by-step-manual/"><u>Thrifty Tunes: How Students Can Enjoy Spotify at Half Price - Your Step-by-Step Manual</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-atheros-qualcomm-wifi-harmony-achieved/"><u>Win10 & Atheros Qualcomm WiFi Harmony Achieved</u></a></li>
 </ul></div>
 

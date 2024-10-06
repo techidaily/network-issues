@@ -1,7 +1,7 @@
 ---
 title: "Swift Strides: Fixing Anthem Stops"
-date: 2024-09-30T07:24:22.271Z
-updated: 2024-10-01T08:20:02.593Z
+date: 2024-10-03T20:18:35.396Z
+updated: 2024-10-06T20:34:09.140Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Optimize your in-game settings
 
  For the best performance of Anthem and less lag, you can adjust your in-game settings.
@@ -49,10 +42,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
@@ -81,6 +74,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
@@ -101,6 +101,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Disable CPU Core Parking
 
  Core parking is a utility in Windows that helps save power by scaling the number of logical processors in use based on the workload. If enabled, it can cause your CPU to be in a sleep state and decrease the performance of your CPU.
@@ -115,43 +122,37 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
@@ -196,13 +197,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -216,10 +210,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
@@ -259,24 +253,17 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>[New] In 2024, Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-8-virtual-pixel-mashup-software/"><u>[New] No. 8 Virtual Pixel Mashup Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bridging-gap-how-to-fix-ignored-gpu-detection/"><u>Bridging Gap: How to Fix Ignored GPU Detection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buzzing-silence-addressing-laptop-and-headset-issues/"><u>Buzzing Silence: Addressing Laptop & Headset Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/causes-and-cures-for-windows-gpu-glitches-in-mc/"><u>Causes & Cures for Windows GPU Glitches in MC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-inadequate-computer-specs-for-driver-compatibility/"><u>Correcting Inadequate Computer Specs for Driver Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/directdraw-inactive-armor-implemented/"><u>DirectDraw Inactive, Armor Implemented</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-prohibition-of-chatgpt-in-italy-understanding-the-reasoning-behind-it/"><u>Immediate Prohibition of ChatGPT in Italy: Understanding the Reasoning Behind It</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-play-40c-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor Play 40C Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://network-issues.techidaily.com/market-dynamics-understanding-the-shifts-in-gaming-hardware-landscape/"><u>Market Dynamics: Understanding the Shifts in Gaming Hardware Landscape</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-battery-life-how-to-always-maintain-your-iphone-on-ultra-low-power/"><u>Mastering Battery Life: How to Always Maintain Your iPhone on Ultra-Low Power</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-on-audacity-eradicate-the-sound-card-not-recognized-fault-with-these-5-fixes/"><u>Mastering Sound on Audacity: Eradicate the 'Sound Card Not Recognized' Fault with These 5 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-upside-down-error/"><u>Rectifying Window's Upside-Down Error</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-getting-your-epson-printer-ready-in-windows/"><u>Step-by-Step Guide to Getting Your Epson Printer Ready in Windows</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/track-it-like-that-essential-tiktok-raps-you-cant-ignore-for-2024/"><u>Track It Like That Essential TikTok Raps You Can't Ignore for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrading-intel-graphic-compatibility-with-windows/"><u>Upgrading Intel Graphic Compatibility with Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visualinterface-crashes-window-os-fixed-ready-to-go/"><u>VisualInterface Crashes, Window OS Fixed (Ready to Go)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/xfx-resumes-operation-post-error/"><u>XFX Resumes Operation Post-Error</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-masters-picks-highest-rated-cards-for-streaming-on-youtube/"><u>[New] 2024 Approved Master's Picks Highest Rated Cards for Streaming on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-optimize-your-steam-experience-with-a-switch-pro-controller-for-2024/"><u>[New] How to Optimize Your Steam Experience with a Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-iphones-quickest-way-to-record-time-lapse-photos/"><u>[New] In 2024, IPhone's Quickest Way to Record Time-Lapse Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-time-secrets-in-depth-recorder-guide-for-2024/"><u>[Updated] Screen Time Secrets In-Depth Recorder Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-the-boundaries-of-processor-performance-overclocked-ryzen-9-9950x-achieves-unprecedented-67ghz-with-ln2-cooling/"><u>Breaking the Boundaries of Processor Performance: Overclocked Ryzen 9 9950X Achieves Unprecedented 6.7GHz with LN2 Cooling</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-up-blacked-out-screen-win10-fix/"><u>Brightening Up Blacked Out Screen: Win10 Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-amds-difficulty-to-detect-driver-in-windowas-10/"><u>Fixed AMD's Difficulty to Detect Driver in Windowas 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719973927899-fixed-lenovo-tap-glitch-back-to-life/"><u>Fixed Lenovo Tap Glitch, Back to Life!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-gt-5-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme GT 5 FRP Without Computer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-quick-video-pace-adjustments-on-youtube-for-2024/"><u>Mastering Quick Video Pace Adjustments on YouTube for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quenching-windows-reflections-overdrive/"><u>Quenching Windows Reflections Overdrive</u></a></li>
 </ul></div>
 

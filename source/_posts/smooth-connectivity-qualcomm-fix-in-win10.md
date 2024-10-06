@@ -1,7 +1,7 @@
 ---
 title: "Smooth Connectivity: Qualcomm Fix in Win10"
-date: 2024-08-15T07:56:02.698Z
-updated: 2024-08-16T07:56:02.698Z
+date: 2024-10-05T16:30:10.962Z
+updated: 2024-10-06T18:53:39.265Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Disable & Enable your Qualcomm adapter driver
 
  If your PC suddenly loses its network connection, or your wireless adapter fails to detect any available wireless network, you can try this quick fix in the first place.
@@ -40,23 +37,39 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 1. Press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**devmgmt.msc** into the box and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
-![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-215.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now your Qualcomm wireless network adapter should be available for use again. Open your web browser to see whether the Internet is connected properly. If it isn’t, please read on and try the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Rollback your Qualcomm adapter driver
 
  If you lose your network connection right after installing a new driver for the Qualcomm adapter or running a Windows Update, you should roll back your driver to a previous version.
@@ -64,19 +77,29 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 1. Press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**devmgmt.msc** into the box and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Choose a reason based on your own situation, then click**Yes** .  
-![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
 
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
@@ -85,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your Qualcomm adapter driver
 
  If you still can’t get onto the Internet, then chances are your Qualcomm adapter driver is corrupt, outdated, or not compatible with your operating system. To fix the problem, you should try to update your driver.
@@ -103,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 * **[My network connection is not stable but still works at times](#stable)**
 * **[My network connection doesn’t work at all](#not)**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### The network connection is not stable but still works at times
 
  When your computer is connected to the network, you can use Driver Easy to update device drivers the normal way. Here’s how:
@@ -122,8 +139,12 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### My network connection doesn’t work at all
 
  When your network adapter doesn’t work at all, but you still have a second device that can be used for driver download, you can try the**Offline Scan feature** in Driver Easy.
@@ -145,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,8 +173,21 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-10-best-facebook-meme-pages-you-never-know-before/"><u>[New] 2024 Approved 10 Best Facebook Meme Pages You Never Know Before</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-and-compositing-for-youtube-videos-using-premiere-pro-for-2024/"><u>[New] Cutting and Compositing for YouTube Videos Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-preserving-periscope-content-tips-from-the-pros/"><u>[Updated] Preserving Periscope Content Tips From the Pros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>2024 Approved Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-tarkov-bug-amds-guide/"><u>Fix Tarkov Bug - AMD's Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-upside-down-graphics-issue/"><u>Fixed Window's Upside Down Graphics Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-alert-opengl-fault-addressed-and-mended/"><u>GPU Alert: OpenGL Fault Addressed and Mended</u></a></li>
+<li><a href="https://network-issues.techidaily.com/heal-visual-drifting-effects/"><u>Heal Visual Drifting Effects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-dotm-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for .dotm file document</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-m54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy M54 5G FRP Bypass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-basic-render-better-for-ms-win-versions/"><u>Making Basic Render Better for MS Win Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-installation-of-hyper-v-feature-on-microsofts-latest-os/"><u>Master the Installation of Hyper-V Feature on Microsoft's Latest OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-graphic-output-post-latest-purchase/"><u>No Graphic Output Post Latest Purchase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/44k344kn44ki5qmf6io95aplusplus5bplusc44gu54sh5paz44km44kn44ow44kr44ov44ks57ch5y2y44gr44kq44oz44op44kk44oz44gn5asj5oplusb44gz44klic0g44oi44o044kh44ot/"><u>シェア機能対応の無料ウェブカフを簡単にオンラインで変換する - モヴァビ</u></a></li>
+</ul></div>
 

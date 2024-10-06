@@ -1,7 +1,7 @@
 ---
 title: Remedying Screen Malfunctions in Laptops
-date: 2024-09-29T12:34:15.861Z
-updated: 2024-10-01T13:29:14.915Z
+date: 2024-10-01T17:02:45.249Z
+updated: 2024-10-06T20:45:27.911Z
 tags:
   - win11
   - win10
@@ -55,16 +55,16 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
 
@@ -73,10 +73,10 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Laptop memory
@@ -84,26 +84,26 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Restore your system from a restore point
 
@@ -111,16 +111,16 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
@@ -160,18 +160,22 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-full-circle-camera-unboxing-and-tests/"><u>[New] Full Circle Camera Unboxing & Tests</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-simple-procedure-reverse-video-order-via-vlc/"><u>[New] Simple Procedure Reverse Video Order via VLC</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[Updated] Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-googles-artificinas-intelligence-project-gemini/"><u>Dissecting Google's Artificinas Intelligence Project Gemini</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-wi-fi-integration-a-comprehensive-guide-to-os-xwindows/"><u>Effortless Wi-Fi Integration: A Comprehensive Guide to OS X/Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-unsuccessful-gdx-creation-on-vistawin/"><u>Fixed Unsuccessful GDX Creation on VistaWin</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-grainy-graphics-on-far-cry-6-console/"><u>Overcoming Grainy Graphics on Far Cry 6 Console</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions-for-2024/"><u>Sky's the Limit for Your Shots Blend Free Space and Premium Subscriptions for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-backward-facing-displays-in-w11/"><u>Tackling Backward-Facing Displays in W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/transform-your-monitors-layout-on-w11/"><u>Transform Your Monitor's Layout on W11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-roborock-s8-maxv-ultra-a-must-have-luxury-robotic-vacuum/"><u>Ultimate Guide to the Roborock S8 MaxV Ultra: A Must-Have Luxury Robotic Vacuum</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-digital-distortion-made-simple-for-creative-minds/"><u>[New] 2024 Approved Digital Distortion Made Simple for Creative Minds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-googles-technique-for-crystal-clear-speech-translation/"><u>[New] 2024 Approved Google's Technique for Crystal Clear Speech Translation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-your-brand-visibility-with-top-hashtag-strategies/"><u>[New] In 2024, Boost Your Brand Visibility with Top Hashtag Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chromatic-brilliance-for-video-enthusiasts/"><u>[Updated] 2024 Approved Chromatic Brilliance for Video Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-vdsm-video-recorder-prospectus-detailed-study/"><u>[Updated] 2024 Approved VDSM Video Recorder Prospectus Detailed Study</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-youtube-green-screen-faux-pas/"><u>Clearing Up YouTube Green Screen Faux Pas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disarming-display-disturbances-on-pro-7/"><u>Disarming Display Disturbances on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-issue-amdnvidia-missing/"><u>Display Issue: AMD/NVIDIA Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-crt-artifacts-on-desktop/"><u>Eradicate CRT Artifacts on Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-res-displays-not-setting-in-w11/"><u>High-Res Displays Not Setting In W11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-bridging-shadows-and-highlights-the-lightroom-hdr-methodology/"><u>In 2024, Bridging Shadows and Highlights The Lightroom HDR Methodology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-error-12-disappears/"><u>MH World Crisis Averted - Error 12 Disappears</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-blue-screen-error-code-0x0000003b-explained/"><u>Resolved: Blue Screen Error Code 0X0000003B Explained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-steps-to-rectify-display-line-issues-on-notebooks/"><u>Simple Steps to Rectify Display Line Issues on Notebooks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-digital-interaction-the-impact-of-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Interaction: The Impact of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-full-view-issue-screen-fix-confirmed/"><u>Windows 10 Full View Issue: Screen Fix Confirmed</u></a></li>
 </ul></div>
 

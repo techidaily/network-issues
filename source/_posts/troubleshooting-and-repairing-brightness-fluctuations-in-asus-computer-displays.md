@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing Brightness Fluctuations in Asus Computer Displays
-date: 2024-09-25T18:11:48.766Z
-updated: 2024-10-01T13:49:46.962Z
+date: 2024-10-02T22:00:43.316Z
+updated: 2024-10-06T17:33:54.806Z
 tags:
   - win11
   - win10
@@ -40,14 +40,21 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -56,10 +63,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **I’m using Windows 7:** 
@@ -68,21 +75,14 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -100,10 +100,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
@@ -168,18 +168,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-drones-range-spectrum-basic-vs-intermediate-advanced-vs-ultra-hd/"><u>[New] In 2024, DJI Drones Range Spectrum Basic Vs Intermediate, Advanced Vs Ultra HD</u></a></li>
-<li><a href="https://techidaily.com/adapt-chatgpt-to-mirror-your-unique-voice-in-written-communication/"><u>Adapt ChatGPT to Mirror Your Unique Voice in Written Communication</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-blinding-flashes-windows-7s-secret-weapon/"><u>Banish Blinding Flashes: Windows 7'S Secret Weapon</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/beyondbasics-the-futurepost-mycam-cameras/"><u>BeyondBasics The FuturePost-MyCam Cameras</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y100-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y100 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-gpu-errortype-22/"><u>Rectified GPU Errortype 22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-amds-display-driver-anomalies-for-win11/"><u>Resolving AMD's Display Driver Anomalies for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-switchable-graphics-issue-with-intelnvidia-win10-fixes/"><u>Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-pro-7s-flickering-display/"><u>Solving Pro 7'S Flickering Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-ps4-noise-issues-diagnosing-and-repairing-the-cause/"><u>Solving PS4 Noise Issues: Diagnosing and Repairing the Cause</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-designing-and-sharing-your-own-customized-sticker-packs-on-telegram/"><u>Step-by-Step Guide: Designing and Sharing Your Own Customized Sticker Packs on Telegram</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-desktopmobile-communication-alternatives-to-zoom/"><u>[New] In 2024, Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-power-of-politeness-in-growing-your-audience/"><u>[New] In 2024, The Power of Politeness in Growing Your Audience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-adventures-with-panasonic-hx-a1-cam/"><u>[Updated] 2024 Approved Exploring Adventures with Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-titles-that-shine-how-to-innovate-for-2024/"><u>[Updated] Channel Titles That Shine How to Innovate for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation-for-2024/"><u>[Updated] Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-selection-of-high-quality-tiktok-backdrops/"><u>A Selection of High-Quality TikTok Backdrops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-prevent-android-apps-from-consuming-resources-behind-the-scenes/"><u>Effective Techniques to Prevent Android Apps From Consuming Resources Behind the Scenes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-functional-state-for-freesync-devices/"><u>Enabling Functional State for FreeSync Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-sharpness-for-ubisofts-new-virtual-island/"><u>Improving Image Sharpness for Ubisoft's New Virtual Island</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-keeps-flickering-solved/"><u>Laptop Screen Keeps Flickering [SOLVED]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-to-the-forefront-a-guide-to-the-webs-10-giants-in-popularity/"><u>Navigate to the Forefront: A Guide to the Web’s 10 Giants in Popularity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/select-your-graphics-card-model-which-is-geforce-rtx-3060-ti-in-this-case/"><u>Select Your Graphics Card Model, Which Is GeForce RTX 3060 Ti in This Case.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-screen-gaps-during-games/"><u>Stop Screen Gaps During Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-intellgraphics-g3000-upgrade-in-win11/"><u>Streamline IntellGraphics G3000 Upgrade in Win11.</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-exodus-analyzing-four-reasons-for-social-media-dwindle/"><u>The Unseen Exodus: Analyzing Four Reasons for Social Media Dwindle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-fluttering-on-win7-screens/"><u>Troubleshooting Fluttering on Win7 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-hidden-camera-capabilities-in-asus/"><u>Unlocking Hidden Camera Capabilities in Asus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-kernel-fixes-com-failure/"><u>Windows Kernel Fixes COM Failure</u></a></li>
 </ul></div>
 

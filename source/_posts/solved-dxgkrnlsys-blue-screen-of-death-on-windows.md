@@ -1,7 +1,7 @@
 ---
 title: "[Solved] dxgkrnl.sys Blue Screen of Death on Windows"
-date: 2024-08-15T07:55:23.631Z
-updated: 2024-08-16T07:55:23.631Z
+date: 2024-09-30T16:03:36.531Z
+updated: 2024-10-06T21:25:55.611Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  The methods work only when you can boot into your PC desktop. If you are having problem logging into your desktop, you can try a [hard boot](https://tools.techidaily.com/drivereasy/download/) into Advanced Startup Options. From there, choose Safe Mode with Networking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1\. Run Fortect to repair BSOD error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix the blue screen of death error **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys)** . Fortect Windows Repair is tailored to your specific system and is working in a private and automatic way. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings or user data.
@@ -41,19 +48,21 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Fix 2\. Keep Windows 10 Updated
 
  It is always suggested that you keep your system updated so as to avoid any unwanted issues, like this one. So if you have not yet updated your Windows 10 just yet, do it now.
@@ -66,18 +75,26 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f35b1798.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Check for updates** button and Windows will search for the needed patches for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f6328d3b.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If find any available update, just download them and wait for them to be installed. You may need to restart your computer for the change to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3\. Update Graphics Card Driver (Recommended)
 
  As mentioned,**dxgkrnl.sys** stands for **DirectX Graphics Kernel.**  When you see an error code related to your video card, you should first consider updating your graphics card driver.
@@ -93,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f257432e57.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged graphics card device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -103,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f25aff37f6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4\. Check for Possible Hardware Failure
 
  We have seen some cases in which the problem was caused by a faulty motherboard or a RAM module. If you have tried the above methods and the error stays, you may need to take your PC to a repair store to get it checked.
@@ -129,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,8 +147,20 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[Updated] 2024 Approved Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-cards-without-directx-support/"><u>AMD Cards Without DirectX Support</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boost-your-website-traffic-with-automated-conversion-tracking-the-power-of-cookiebot/"><u>Boost Your Website Traffic with Automated Conversion Tracking - The Power of Cookiebot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-error-22-and-restore-device-functionality-in-windows-11/"><u>Bypass Error 22 and Restore Device Functionality in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/interactive-webinar-on-streamlining-accounts-payable-with-ai-technology/"><u>Interactive Webinar on Streamlining Accounts Payable with AI Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kingdom-come-caught-in-queue/"><u>Kingdom Come Caught in Queue</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-governance-temporary-ban-of-trump-appears-rational/"><u>Online Governance: Temporary Ban of Trump Appears Rational</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rocket-league-freeze-error-causes-diagnosis-and-remedies-for-a-smooth-gameplay-experience/"><u>Rocket League Freeze Error: Causes, Diagnosis, and Remedies for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-lenovo-display-glitches/"><u>Tackling Lenovo Display Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-urban-planning-fixing-buildcraft-cities-2-non-startup-dilemma/"><u>Unlocking Urban Planning: Fixing BuildCraft Cities 2 Non-Startup Dilemma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-cant-find-wi-fi-driver-solved/"><u>Win10 Can't Find Wi-Fi Driver, Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-update-features-enhanced-graphics-for-amd-hd-6950/"><u>Windows 11 Update Features Enhanced Graphics for AMD HD 6950</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-ui-freeze-up-graphics-fix-pending/"><u>Windows UI Freeze-Up, Graphics Fix (Pending)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert: Glitchy OpenGL Error Now Corrected"
-date: 2024-09-24T12:59:22.028Z
-updated: 2024-10-01T06:00:58.359Z
+date: 2024-10-01T20:15:51.727Z
+updated: 2024-10-06T18:55:44.743Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What you might concern…
@@ -64,13 +64,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
@@ -90,20 +83,13 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -117,10 +103,24 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
@@ -152,18 +152,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-guide-for-high-quality-presentation-capture/"><u>[New] In 2024, Comprehensive Guide for High-Quality Presentation Capture</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-gnasher-no-cost-and-paid-alternatives-to-lightroom/"><u>[Updated] 2024 Approved Gnasher No-Cost & Paid Alternatives to Lightroom</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unveiling-hidden-potential-edit-wonders-on-snapchat-app/"><u>[Updated] In 2024, Unveiling Hidden Potential Edit Wonders on Snapchat App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725285955643-aipc/"><u>AIを活用した高解像度イラストやアニメーション画像改善のコツ！PCプログラム・ウェブサイトで簡単に学ぶ方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-elusive-obs-recording-glitches-on-windows-operating-system/"><u>Beating Elusive OBS Recording Glitches on Windows Operating System</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-autonomous-command-line-emergence-in-os/"><u>Eliminating Autonomous Command Line Emergence in OS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-fixing-dropped-frames-a-complete-guide-for-obs-studio-users/"><u>In 2024, Fixing Dropped Frames A Complete Guide for OBS Studio Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-elusive-video-system-checks/"><u>Rectify Elusive Video System Checks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-kratoss-gameplay-glitch/"><u>Resolved: Kratos's Gameplay Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-winxs-bsod-with-dxgkrnlsys/"><u>Resolved: WinXs BSOD with dxgkrnl.sys</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-full-brightness-on-lenovo-screens/"><u>Restoring Full Brightness on Lenovo Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-windows-11-playback-after-upgrade-woes-solved/"><u>Smooth Windows 11 Playback After Upgrade Woes Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/understanding-and-fixing-the-wireless-disappearing-act-in-windows-11/"><u>Understanding and Fixing the Wireless Disappearing Act in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aptivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora-for-2024/"><u>[New] Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-experts-choice-top-6-software-solutions-for-signature-erasure/"><u>[New] In 2024, Expert's Choice Top 6 Software Solutions for Signature Erasure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-seamless-integration-of-switch-pro-into-steam-games/"><u>[Updated] Seamless Integration of Switch Pro Into Steam Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-full-course-on-becoming-a-yt-creator-expert/"><u>[Updated] The Full Course on Becoming a YT Creator Expert</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-uploading-subtitles-a-compreenas-guide-for-all-social-media-users-for-2024/"><u>[Updated] Uploading Subtitles A Compreenas Guide for All Social Media Users for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-meta-quest-3-storage-size-do-you-really-need-more-than-128gb/"><u>Choosing Your Meta Quest 3 Storage Size: Do You Really Need More Than 128GB?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-6-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 6 or iPad?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>In 2024, Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-v30-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo V30 Phone Now with These Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-making-acer-displays-no-longer-flicker/"><u>Steps for Making Acer Displays No Longer Flicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
 </ul></div>
 

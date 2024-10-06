@@ -1,7 +1,7 @@
 ---
 title: Battery of Patience with Wi-Fi Drops
-date: 2024-08-15T07:55:05.476Z
-updated: 2024-08-16T07:55:05.476Z
+date: 2024-10-02T19:24:41.274Z
+updated: 2024-10-06T17:01:51.229Z
 tags:
   - win11
   - win10
@@ -46,47 +46,63 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 3. Double-click on**Network and Sharing Center** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-control-panel-network-and-sharing-center.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-25-29.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 5. **Right-click** your WiFi adapter and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-27-14.jpg)
 6. Click**Configure** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-42-21.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-7. Go to the**Power Management** tab.**Untick** the box next to**Allow the computer to turn off this device to save power** . Click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-46-42.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-42-21.jpg)
+7. Go to the**Power Management** tab.**Untick** the box next to**Allow the computer to turn off this device to save power** . Click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-46-42.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Reset the Wi-Fi AutoConfig service
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-48-47.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Locate**WLAN AutoConfig** and double-click it.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-51-55.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-51-55.jpg)
 3. Change the Startup type to**Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-53-00-1.jpg)
 4. Click**Apply** and**OK** to save and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-54-11.jpg)
 5. Check to see if your Wi-Fi connection is back to normal. If not, you need to try the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3: Update network adapter driver
 
@@ -123,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,8 +146,20 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-best-free-user-friendly-srt-translators-online/"><u>2024 Approved Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-tech-talk-gaming-with-a-controller-or-stick/"><u>Battle Tech Talk: Gaming with a Controller or Stick?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blackout-blunder-with-latest-graphics-card/"><u>Blackout Blunder with Latest Graphics Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/curing-black-displays-on-laptop-monitors/"><u>Curing Black Displays on Laptop Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-fixed-repaired-nvidia-driver-failure/"><u>Display Fixed: Repaired NVidia Driver Failure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-brands-instagram-presence-with-these-hacks/"><u>Elevate Your Brand's Instagram Presence with These Hacks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-xp-420-driver-download-and-update/"><u>Epson XP 420 Driver Download & Update</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Phone without Any Data Loss</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-real-time-engagement-proven-strategies-for-facebook-video-screen-sharing/"><u>In 2024, Real-Time Engagement Proven Strategies for Facebook Video Screen Sharing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastered-gpu-settings-entry-point/"><u>Mastered: GPU Settings Entry Point</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-zoom-cameras-common-fixes-and-solutions/"><u>Mastering Zoom Cameras: Common Fixes and Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-non-operational-asus-webcam/"><u>Reactivating Non-Operational Asus Webcam</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-guide-to-the-cost-effective-amazonbasics-6-sheets-cross-cut-destroyer/"><u>User Guide to the Cost-Effective AmazonBasics 6-Sheets Cross Cut Destroyer</u></a></li>
+</ul></div>
 

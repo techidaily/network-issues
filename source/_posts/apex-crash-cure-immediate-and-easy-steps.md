@@ -1,7 +1,7 @@
 ---
 title: "Apex Crash Cure: Immediate & Easy Steps"
-date: 2024-09-29T01:25:08.922Z
-updated: 2024-09-30T16:45:02.651Z
+date: 2024-09-30T17:34:47.701Z
+updated: 2024-10-06T19:59:35.948Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -42,13 +55,6 @@ There’re two ways to update your Nvidia graphics driver:
 Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
 
@@ -62,33 +68,20 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -108,15 +101,22 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
@@ -165,6 +165,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
 #### Fix 5: Install the latest Apex Legends patch
@@ -195,13 +202,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -225,21 +225,20 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-gears3-no-start-on-pc-dx12-hurdle/"><u>[RESOLVED] Gears3 No Start on PC - DX12 Hurdle</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-integrating-picture-in-picture-into-everyday-browsing-habits/"><u>[Updated] 2024 Approved Integrating Picture in Picture Into Everyday Browsing Habits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-content-for-insta-clout-a-9-step-playbook-for-fame/"><u>2024 Approved Crafting Content for Insta Clout A 9-Step Playbook for Fame</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 Pro Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-on-the-samsung-galaxy-fit-perfect-match-for-health-conscious-users/"><u>Comprehensive Guide on the Samsung Galaxy Fit – Perfect Match for Health-Conscious Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutest-drone-companions-for-little-ones/"><u>Cutest Drone Companions for Little Ones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-the-nuances-how-ar-vr-mr-and-xr-stand-out-from-each-other/"><u>Deciphering the Nuances: How AR, VR, MR and XR Stand Out From Each Other</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-movie-and-song-sharing-from-pc-to-tv-the-ultimate-guide-on-connecting-devices-efficiently/"><u>Effortless Movie and Song Sharing From PC to TV: The Ultimate Guide on Connecting Devices Efficiently</u></a></li>
-<li><a href="https://network-issues.techidaily.com/epic-slow-spells-on-purchase/"><u>Epic Slow Spells on Purchase</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-laptop-black-screen-issue/"><u>How to Fix Laptop Black Screen Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a15-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A15 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-ghostly-vram-notifications/"><u>Repair Ghostly VRAM Notifications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-black-screen-on-creators-release/"><u>Reversing BLACK SCREEN on Creators' Release</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-t2-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo T2 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooted-missing-wireless-adapter-in-windows-10/"><u>Troubleshooted Missing Wireless Adapter in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-no-more-amd-radeon-r9-crashes-now/"><u>Win10: No More AMD Radeon R9 Crashes Now</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-secret-sauce-of-compelling-tiktok-footage-on-mac/"><u>[New] 2024 Approved The Secret Sauce of Compelling TikTok Footage on Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tailored-approach-boosting-fans-via-page-ranking-for-2024/"><u>[New] Tailored Approach Boosting Fans via Page Ranking for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-gear-360s-virtual-reality-capability/"><u>[Updated] Comprehensive Scrutiny Gear 360'S Virtual Reality Capability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-lenovo-thunderbolt-3-docking-station-drivers/"><u>Download the Latest Lenovo Thunderbolt 3 Docking Station Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-anthem-playback-handling-lag/"><u>Effortless Anthem Playback: Handling Lag</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-your-way-back-to-deleted-iphone-notecard-information-easily/"><u>Finding Your Way Back to Deleted iPhone Notecard Information Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-detected-none-found-latest-resolution/"><u>GPU Detected: None Found - Latest Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guiding-through-windows-7-screenshake-solutions/"><u>Guiding Through Windows 7 Screenshake Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78t to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-glitch-fix-blinking-solution/"><u>Monitor Glitch Fix: Blinking Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-blackout-after-fall-update/"><u>Overcoming Windows Blackout After Fall Update</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-your-live-stream-our-picks-from-the-top-6-microphones-for-2024/"><u>Perfecting Your Live Stream Our Picks From the Top 6 Microphones for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothen-screen-fluctuations-pro-7/"><u>Smoothen Screen Fluctuations (Pro 7)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-showdown-final-cut-pro-vs-final-cut-express-for-2024/"><u>The Ultimate Showdown Final Cut Pro Vs. Final Cut Express for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/transform-your-revenue-with-youtube-shorts-tips/"><u>Transform Your Revenue with YouTube Shorts Tips</u></a></li>
 </ul></div>
 

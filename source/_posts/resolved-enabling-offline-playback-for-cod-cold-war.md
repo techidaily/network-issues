@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Enabling Offline Playback for CoD Cold War"
-date: 2024-09-28T21:31:26.221Z
-updated: 2024-09-30T20:40:11.057Z
+date: 2024-09-30T18:21:13.829Z
+updated: 2024-10-06T22:20:15.204Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow your game through Windows Firewall
 
  The error message is mainly associated with a server or internet connection issue. So in order to fix it, you need to first make sure that your firewall is not blocking your game. To do this, take these steps:
@@ -46,8 +53,24 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 1. On your keyboard, press the Windows logo key to open the Start menu. Then type in**windows firewall** and click **Windows Defender Firewall**  from the results.  
 ![Windows Defender Firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow an app through windows defender firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Now you need to scroll down until you can find**Call of Duty: Black Ops Cold War** . And also make sure it’s ticked for Private.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow Call of Duty Black Ops Cold War through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-the-game-through-Windows-Firewall.jpg)
 
  If your game isn’t on the list and it’s not ticked for Private, it means it doesn’t have access to the internet. If that’s your case, take these steps:
@@ -75,10 +98,10 @@ If you are not sure where your game is installed, take these steps:
  Granting an application with administrative rights can resolve many issues. If you constantly get the error message “Cannot Connect to Online Services”, you should run your game and launcher as administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run your game as an administrator
@@ -96,6 +119,13 @@ If you are not sure where your game is installed, take these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then it’ll launch in admin mode.
 
@@ -140,42 +170,21 @@ To see if a new DNS address helps, you can follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
@@ -186,13 +195,6 @@ To see if a new DNS address helps, you can follow the instructions below:
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -205,16 +207,10 @@ To see if a new DNS address helps, you can follow the instructions below:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
@@ -226,16 +222,16 @@ To see if a new DNS address helps, you can follow the instructions below:
 ![link activision account](https://images.drivereasy.com/wp-content/uploads/2020/11/LOGIN-activision-account.jpg)
 3. Then you’ll be redirected to the login page. Now simply enter your details.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once you’re logged in, click**PROFILE** in the top right.  
 ![activision profile](https://images.drivereasy.com/wp-content/uploads/2020/11/activision-profile.jpg)
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
 
@@ -268,17 +264,24 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-key-tips-for-configuring-and-measuring-effective-fb-instream-ads/"><u>[New] In 2024, Key Tips for Configuring and Measuring Effective FB Instream Ads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-smart-strategies-to-enhance-your-video-with-customized-end-screen-cards/"><u>[Updated] Smart Strategies to Enhance Your Video with Customized End Screen Cards</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974349923-efficiently-upgrade-intel-g3000-driver-in-windows-11/"><u>Efficiently Upgrade Intel G3000 Driver in Windows 11.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-when-the-screen-wont-work-step-by-step-guide/"><u>How To Fix Your iPhone When The Screen Won't Work – Step By Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-more-twinkling-screens-discover-these-7-tricks-for-fixing-flickering-displays-on-phones/"><u>No More Twinkling Screens: Discover These 7 Tricks for Fixing Flickering Displays on Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-bluetooth-pairing-issues-on-windows-11/"><u>Overcoming Bluetooth Pairing Issues on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pc-perfection-eliminate-fallout-4-errors/"><u>PC Perfection: Eliminate Fallout 4 Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-netflix-and-youtube-pauses-in-new-windows-version/"><u>Resolving Netflix & YouTube Pauses in New Windows Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862676519-score-exclusive-savings-cut-700-from-your-price-tag-for-this-beastly-rtx-4090-gaming-laptop-by-alienware/"><u>Score Exclusive Savings: Cut $700 From Your Price Tag for This Beastly, RTX 4090 Gaming Laptop by Alienware</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-hidden-content-retrieving-lost-facebook-posts/"><u>Unlocking Hidden Content: Retrieving Lost Facebook Posts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-gone-mia-solving-windows-11-problems/"><u>Wi-Fi Gone MIA: Solving Windows 11 Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[New] In 2024, Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-screen-capture-bandicam-vs-camtasia-battle-for-2024/"><u>[New] Mastering Screen Capture Bandicam Vs. Camtasia Battle for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-leading-edge-in-online-advertising-fb-insights-for-2024/"><u>[New] The Leading Edge in Online Advertising FB Insights for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-make-vimeo-videos/"><u>[Updated] In 2024, How to Make Vimeo Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-top-15-funny-youtube-channels-to-watch-when-youre-bored/"><u>[Updated] In 2024, Top 15 Funny YouTube Channels to Watch When You're Bored</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-tier-business-data-haven-selection/"><u>2024 Approved Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-inverted-display-in-windows-10/"><u>Addressing Inverted Display in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoid-wide-text-discrepaninas-tips-and-tricks-for-notebooks/"><u>Avoid Wide Text Discrepaninas: Tips and Tricks for Notebooks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-c51-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of C51</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cut-expenses-create-wow-download-high-quality-templates-for-videos/"><u>Cut Expenses, Create Wow - Download High-Quality Templates for Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-removal-techniques-for-youtubes-green-screen-faults/"><u>Efficient Removal Techniques for Youtube's Green Screen Faults</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a56s-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A56s 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-image-protection-the-art-of-photowatermarking/"><u>In 2024, Instagram Image Protection The Art of Photowatermarking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-precision-lag-free-gaming/"><u>Master Precision: Lag-Free Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-device-report-issue-causing-win-stop/"><u>Resolve: Device Report Issue Causing Win Stop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieving-lost-display-features-windows-10/"><u>Retrieving Lost Display Features, Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-lenovo-non-responsive-tap-problem/"><u>Solved Lenovo Non-Responsive Tap Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/synchronizing-nvidia-7025-with-windows-os/"><u>Synchronizing Nvidia 7025 with Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-visual-glitches-on-far-cry-6-console-port/"><u>Tackling Visual Glitches on Far Cry 6 Console Port</u></a></li>
 </ul></div>
 

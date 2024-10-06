@@ -1,7 +1,7 @@
 ---
 title: "Swift Solution: Rectify Apex Glitches Now!"
-date: 2024-08-15T08:00:15.776Z
-updated: 2024-08-16T08:00:15.776Z
+date: 2024-09-29T18:18:54.454Z
+updated: 2024-10-06T16:00:03.765Z
 tags:
   - win11
   - win10
@@ -54,24 +54,22 @@ Or
  2\. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,6 +83,19 @@ _You can do it for free if you like, but it’s partly manual._
  2\. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 20 Series** ; for “Product”, select **Geforce RTX 2060** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
@@ -153,21 +164,29 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Update Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
@@ -181,8 +200,12 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
@@ -199,8 +222,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,8 +229,21 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-uninstalled-amd-driver-in-win1110/"><u>[FIXED] Uninstalled AMD Driver in Win11/10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sonic-boom-new-technology-reviewed/"><u>[Updated] 2024 Approved Sonic Boom New Technology Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube-for-2024/"><u>[Updated] Enhance Engagement with These Essential FreeGame Hashtags for YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-psd-text-files-unrestricted-zero-price/"><u>[Updated] Top 30 PSD Text Files Unrestricted, Zero Price</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff/"><u>2024 Approved GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-journey-a-camera-buyers-guide-for-2024/"><u>Capturing the Journey A Camera Buyer's Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-in-sight-nvidia-display-recovers-quickly/"><u>Fix in Sight: Nvidia Display Recovers Quickly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-g54-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola G54 5G Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-nokia-105-classic-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nokia 105 Classic Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-lava-storm-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Lava Storm 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-opengl-disruption-nvidia-armored/"><u>Overcoming OpenGL Disruption - NVIDIA Armored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-failed-attempt-to-save-display-preferences/"><u>Reverting Failed Attempt to Save Display Preferences</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
+</ul></div>
 

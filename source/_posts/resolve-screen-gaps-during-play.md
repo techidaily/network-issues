@@ -1,7 +1,7 @@
 ---
 title: Resolve Screen Gaps During Play
-date: 2024-08-15T07:56:42.099Z
-updated: 2024-08-16T07:56:42.099Z
+date: 2024-09-29T20:08:43.063Z
+updated: 2024-10-06T17:56:17.388Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ There are two fixes you can try:
 2. [**Turn on V-Sync**](#b)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Update your drivers
 
  You monitor screen may tear if your device drivers, especially your graphics driver, are wrong or out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,13 +59,14 @@ There are two fixes you can try:
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -69,9 +74,6 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -82,8 +84,12 @@ There are two fixes you can try:
 **Adaptive V-Sync** is a more recommended option. The reason is that it can also prevent your screen from stuttering — an issue often occurs when V-Sync is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### For**Intel** graphics users
@@ -95,9 +101,6 @@ There are two fixes you can try:
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -106,6 +109,13 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
@@ -119,8 +129,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +136,24 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-podcasts-vs-youtube-which-one-is-the-right-choice/"><u>[New] Podcasts Vs. YouTube Which One Is the Right Choice?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-media-presentation-text-and-captions-application-in-microsoft-photos/"><u>[Updated] Elevate Your Media Presentation Text & Captions Application in Microsoft Photos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-inter-service-playlist-shuffling-with-ease/"><u>[Updated] Navigating Inter-Service Playlist Shuffling with Ease</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-gdrivererr22-issue/"><u>Correcting GDRIVER_ERR22 Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/doggone-delightful-pet-and-player-fun/"><u>Doggone Delightful: Pet and Player Fun</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974685281-effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-for-wow-malfunction-no-519/"><u>Expert Tips for WoW Malfunction No. 519</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-showdown-sj6-versus-yi-4k-innovator-for-2024/"><u>High Definition Showdown SJ6 Versus Yi 4K Innovator for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-design-one-of-a-kind-registration-tokens-with-easy-steps/"><u>How to Design One-of-a-Kind Registration Tokens with Easy Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-ipadiphone-soundscape-adding-apple-podcasts/"><u>In 2024, Navigating the iPad/iPhone Soundscape Adding Apple Podcasts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-update-now-displays-fullscreen-correctly/"><u>Monitor Update: Now Displays Fullscreen Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/outrun-game-freeze-anthem-lag-cure/"><u>Outrun Game Freeze: Anthem Lag Cure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/post-upgrade-windows-10-clear-of-video-hurdles/"><u>Post-Upgrade Windows 10: Clear of Video Hurdles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/slow-and-steady-why-does-chatgpt-4-pace-slower/"><u>Slow and Steady: Why Does ChatGPT-4 Pace Slower?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninstall-graphic-drivers-the-ultimate-win-os-guide/"><u>Uninstall Graphic Drivers: The Ultimate Win OS Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-new-potentials-a-detailed-look-at-apples-m1-powered-2020-macbook-air-13-inch-laptop-review/"><u>Unlocking New Potentials: A Detailed Look at Apple's M1 Powered 2020 MacBook Air 13 Inch Laptop Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stabilizes-screen-flicker/"><u>Win11 Stabilizes Screen Flicker</u></a></li>
+</ul></div>
 

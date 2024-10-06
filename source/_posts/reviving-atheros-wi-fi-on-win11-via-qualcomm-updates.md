@@ -1,7 +1,7 @@
 ---
 title: Reviving Atheros Wi-Fi on Win11 via Qualcomm Updates
-date: 2024-09-28T20:31:07.010Z
-updated: 2024-10-01T07:55:42.534Z
+date: 2024-10-05T20:46:21.183Z
+updated: 2024-10-06T18:13:53.588Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Disable & Enable your Qualcomm adapter driver
 
  If your PC suddenly loses its network connection, or your wireless adapter fails to detect any available wireless network, you can try this quick fix in the first place.
@@ -37,31 +50,40 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 1. Press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**devmgmt.msc** into the box and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-215.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now your Qualcomm wireless network adapter should be available for use again. Open your web browser to see whether the Internet is connected properly. If it isn’t, please read on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Rollback your Qualcomm adapter driver
 
@@ -71,19 +93,19 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
 5. Choose a reason based on your own situation, then click**Yes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
@@ -95,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your Qualcomm adapter driver
@@ -116,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 * **[My network connection is not stable but still works at times](#stable)**
 * **[My network connection doesn’t work at all](#not)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The network connection is not stable but still works at times
 
  When your computer is connected to the network, you can use Driver Easy to update device drivers the normal way. Here’s how:
@@ -131,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
@@ -175,24 +183,22 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-10-hilarious-tweets-galore/"><u>[Updated] 2024 Approved Top 10 Hilarious Tweets Galore</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>[Updated] How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>[Updated] Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-en-ligne-gratuite-de-fichier-mp3-vers-wav-tapez-le-chez-movavi/"><u>Conversion en Ligne Gratuite De Fichier MP3 Vers WAV - Tapez-Le Chez Movavi</u></a></li>
-<li><a href="https://solve-info.techidaily.com/expediting-cross-border-trade-the-impact-of-a-five-minute-clearance-gap-at-the-uk-eu-frontier/"><u>Expediting Cross-Border Trade: The Impact of a Five-Minute Clearance Gap at the UK-EU Frontier</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-10-gif-apps-for-iphone-x876/"><u>In 2024, Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-amd-hd-6950-driver-release-for-win11/"><u>New AMD HD 6950 Driver Release for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-hardware-configuration-flawless-installation/"><u>NVIDIA Hardware Configuration: Flawless Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-win11-screen-glitches/"><u>Quick Fix for Win11 Screen Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-resolution-to-amd-woes/"><u>Quick Resolution to AMD Woes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-personal-information-tips-for-securely-utilizing-chatgpt-in-a-professional-setting/"><u>Safeguarding Personal Information: Tips for Securely Utilizing ChatGPT in a Professional Setting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-essential-routine-for-updating-intel-drivers-in-win-7/"><u>The Essential Routine for Updating Intel Drivers in Win 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-uses-for-chatgpts-advanced-coding-capabilities/"><u>Top 6 Uses for ChatGPT's Advanced Coding Capabilities</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-drivers-geforce-rtx210-and-windows-11-fusion/"><u>Upgraded Drivers: GeForce RTX210 and Windows 11 Fusion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wifi-warrior-combatting-slow-windows-1110/"><u>WiFi Warrior: Combatting Slow Windows 11/10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-lore-of-roguelites-amidst-classic-rpgs/"><u>[New] In 2024, The Lore of Roguelites Amidst Classic RPGs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-return-artisan-set/"><u>[Updated] In 2024, Return Artisan Set</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-phone-sleeves-with-integrated-batteries/"><u>[Updated] Phone Sleeves with Integrated Batteries</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-the-process-easy-method-for-windows-graphic-driver-delete/"><u>Bypass the Process: Easy Method for Windows Graphic Driver Delete</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-e-perfetta-da-wmv-a-mp4-mantenere-la-qualita-al-98/"><u>Conversione Gratuita E Perfetta Da WMV a MP4 - Mantenere La Qualità Al 98%!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/downsizing-big-desktop-screens-win10/"><u>Downsizing Big Desktop Screens Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-blinding-flicker-on-your-acer-laptop-screen/"><u>Fixing Blinding Flicker on Your Acer Laptop Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-invisible-to-visible-fix-lenovos-black-out/"><u>From Invisible to Visible: Fix Lenovo’s Black Out</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-install-gone-wrong-dark-display/"><u>Graphics Install Gone Wrong? Dark Display</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-pova-5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Pova 5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-mishaps-fixes-for-rtx-3080-game-crashes/"><u>Mastering Mishaps: Fixes for RTX 3080 Game Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-generative-ai-with-kids-the-essential-handbook-for-parents-on-chatgpt/"><u>Navigating Generative AI with Kids: The Essential Handbook for Parents on ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-broken-hp-laptop-buttons-with-easy-troubleshooting-steps/"><u>Revive Broken HP Laptop Buttons with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974685642-swiftly-update-intel-graphics-3000-for-windows-11/"><u>Swiftly Update Intel Graphics 3000 for Windows 11.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tailoring-content-for-snapchats-luminaries/"><u>Tailoring Content for Snapchat's Luminaries</u></a></li>
 </ul></div>
 

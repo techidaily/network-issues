@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions to YouTube Green Screen Anomalies
-date: 2024-08-15T07:56:24.994Z
-updated: 2024-08-16T07:56:24.994Z
+date: 2024-09-29T16:18:29.643Z
+updated: 2024-10-06T21:14:30.338Z
 tags:
   - win11
   - win10
@@ -44,12 +44,17 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
 1. In Chrome, in the top right corner, click on  the**three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click**Advanced** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Then scroll down to the bottom and in**System** , disable the toggle next to**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. Re-launch Google Chrome, then check to see if the YouTube green screen issue has been solved. If yes, then great! If the issue remains, please move on to**[Fix 2](#F2)** .
 
 #### **I’m usingFirefox :**
@@ -60,31 +65,43 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 3. Re-launch Firefox, then check to see if the YouTube green screen issue has been solved. If yes, then great! If the issue remains, please move on to [](#F2) **[Fix 2](#F2)** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### I’m using Microsoft Edge
 
  2) On your keyboard, press**the Windows logo key** and type**settings** . Then click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-193.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-195.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Display** , then in the right pane, scroll down to**Graphics settings** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-196.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  4) In Choose an app to set preference, choose**Universal app** in the first drop-down, then choose**Microsoft Edge** in the second drop-down and click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-197.png)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Microsoft Edge will be added right after. Click**Options** , then in the**Graphics specifications** window that pops up, choose**Power saving** and click**Save** .
@@ -96,8 +113,12 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong **graphics**  driver or it’s out of date. So you should update your **graphics**  driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -111,21 +132,10 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-166.png)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-167.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -146,8 +156,6 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,8 +163,26 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-discover-the-premier-4k-cameras-of-today-for-2024/"><u>[New] Discover the Premier 4K Cameras of Today for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>[Updated] 2024 Approved Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-gaps-online-effective-techniques-for-screenshare-on-fb/"><u>[Updated] Bridging Gaps Online Effective Techniques for Screenshare on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimizing-video-capture-with-mov-on-windows-10/"><u>[Updated] Optimizing Video Capture with MOV on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-flashing-windows-display/"><u>Conquering Flashing Windows Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-screen-glitch-windows-10-displays-only-sliver-of-windows/"><u>Corrected Screen Glitch: Windows 10 Displays Only Sliver of Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-inquiries-prospective-buyers-should-make-about-evs/"><u>Crucial Inquiries Prospective Buyers Should Make About EVs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974481222-enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-xp-plus-nvidia-geforce-98/"><u>Fixed Windows XP + Nvidia GeForce 98</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Analytics and Personalization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/network-hiccups-persistently/"><u>Network Hiccups Persistently</u></a></li>
+<li><a href="https://network-issues.techidaily.com/performance-enhancement-win10s-ui/"><u>Performance Enhancement: Win10's UI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-geforce-issues-in-windows-10/"><u>Resolving GeForce Issues in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-on-your-steelseries-arctis-pro-headset-expert-advice-and-fixes/"><u>Solving Audio Issues on Your SteelSeries Arctis Pro Headset - Expert Advice & Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/splitcam-analysis-where-does-it-rank-among-recorders/"><u>SplitCam Analysis Where Does It Rank Among Recorders?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 11 Pro 5G Phone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>Updated In 2024, The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-issue-resolved-no-fullscreen/"><u>Win11 Display Issue - Resolved No Fullscreen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-fix-eliminating-screen-dance/"><u>Win11 Fix: Eliminating Screen Dance</u></a></li>
+</ul></div>
 

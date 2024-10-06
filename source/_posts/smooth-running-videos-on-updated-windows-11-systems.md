@@ -1,7 +1,7 @@
 ---
 title: Smooth-Running Videos on Updated Windows 11 Systems
-date: 2024-08-15T07:58:05.288Z
-updated: 2024-08-16T07:58:05.288Z
+date: 2024-10-05T18:03:57.328Z
+updated: 2024-10-06T22:18:23.681Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
  Make sure that you have the installed the correct version for your operating system.
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## **2: Disable Hardware Acceleration**
 
  In some cases, disabling hardware acceleration and restart your browser later helps to fix such a problem.
@@ -47,22 +44,20 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 `` 1) Right-click the**Flash video** that you are watching, and click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## **3: Update Graphics Driver**
 
  It’s important that your graphics card driver is up-to-date especially when it comes to video streaming issues.
@@ -88,11 +83,22 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6f9c972.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4: Clean Browser Cache**
 
@@ -105,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d912ef7ac04-600x212.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``2) Select:
 ``
@@ -123,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/clear-browsing-data.png)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``The settings are similar in other browsers, you might need to do this with all the browsers that you have.
 **``**
@@ -136,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,8 +153,20 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-content-extraction-made-simple-windows-and-macos-for-2024/"><u>[New] FB Content Extraction Made Simple Windows & macOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-open-the-ease-of-access-center-on-windows/"><u>5 Ways to Open the Ease of Access Center on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-huawei-nova-y91-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Huawei Nova Y91 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-update-issues-how-to-unstick-and-resume/"><u>Fixing Windows 10 Update Issues: How to Unstick and Resume</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-shoot-to-spectacle-editing-techniques-for-drones/"><u>From Shoot to Spectacle Editing Techniques for Drones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-drivers-woes-with-win11-tips-and-tricks/"><u>Overcoming Drivers Woes with Win11 Tips & Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screeninterface-fails-in-win-os-resolved/"><u>ScreenInterface Fails in Win OS (Resolved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secured-stable-operations-amds-driver-now-works-on-wndows-10-os/"><u>Secured Stable Operations: AMD's Driver Now Works on Wndows 10 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-thawing-your-windows-robes-taskbar-for-smooth-operation/"><u>Step-by-Step Approach to Thawing Your Windows ˈrōbəs Taskbar for Smooth Operation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>Updated Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-card-recovered-after-driver-stall/"><u>Video Card Recovered After Driver Stall</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
+</ul></div>
 

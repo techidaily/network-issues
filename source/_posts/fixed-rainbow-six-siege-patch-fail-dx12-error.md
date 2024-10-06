@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Rainbow Six Siege Patch Fail - DX12 Error"
-date: 2024-09-30T11:24:48.667Z
-updated: 2024-10-01T08:02:06.257Z
+date: 2024-09-29T21:17:04.871Z
+updated: 2024-10-06T16:26:49.033Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -72,13 +79,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -117,32 +117,18 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -173,7 +159,28 @@ If this fix doesn’t work, move to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -192,16 +199,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mirthful-melodies-top-downloads-for-tones/"><u>[Updated] Mirthful Melodies Top Downloads for Tones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-deciphering-the-code-a-deep-dive-into-recording-whatsapp-messages/"><u>2024 Approved Deciphering the Code A Deep Dive Into Recording WhatsApp Messages</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-qualcomm-atheros-wi-fi-driver-crashes-in-windows-11/"><u>Cure Qualcomm Atheros Wi-Fi Driver Crashes in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-underpowered-systems-for-intel-drivers-success/"><u>Fixing Underpowered Systems for Intel Drivers Success</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-8-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 8 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-perspectives-on-digital-health-promotion/"><u>In 2024, Fresh Perspectives on Digital Health Promotion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-mirrored-screen-effects-in-windows-11/"><u>Overcoming Mirrored Screen Effects in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simplified-method-to-align-lcd-panels/"><u>Simplified Method to Align LCD Panels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10s-graphic-glitch-a-solution-to-intellnvidia-problems/"><u>Win10's Graphic Glitch: A Solution to Intell/NVidia Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-breaking-into-youtubes-top-100-with-effective-seo-for-2024/"><u>[New] Breaking Into YouTube's Top 100 With Effective SEO for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-reactivate-lost-chatter-in-social-media-clips-for-2024/"><u>[New] Reactivate Lost Chatter in Social Media Clips for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-screen-glitches-on-pro-7/"><u>Banishing Screen Glitches on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-challenges-in-win11/"><u>Conquering AMD Radeon R9 Driver Challenges in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-dilemma-dispersed-in-portable-unit/"><u>Dimming Dilemma Dispersed in Portable Unit</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473993396-how-to-resolve-persistent-screen-flashes-on-your-device-try-these-proven-tactics/"><u>How to Resolve Persistent Screen Flashes on Your Device - Try These Proven Tactics</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-13t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi 13T to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959421274-recapitulation-of-hahron-spices-strengths-and-unique-selling-propositions-in-the-chemical-industry/"><u>Recapitulation of HAHRON SPICE's Strengths and Unique Selling Propositions in the Chemical Industry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-elusive-video-system-checks/"><u>Rectify Elusive Video System Checks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-kratoss-gameplay-glitch/"><u>Resolved: Kratos's Gameplay Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-full-brightness-on-lenovo-screens/"><u>Restoring Full Brightness on Lenovo Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-windows-11-playback-after-upgrade-woes-solved/"><u>Smooth Windows 11 Playback After Upgrade Woes Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-and-fixing-the-wireless-disappearing-act-in-windows-11/"><u>Understanding and Fixing the Wireless Disappearing Act in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi K70E | Dr.fone</u></a></li>
 </ul></div>
 

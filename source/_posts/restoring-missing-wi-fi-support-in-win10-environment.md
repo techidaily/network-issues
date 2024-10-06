@@ -1,7 +1,7 @@
 ---
 title: Restoring Missing Wi-Fi Support in Win10 Environment
-date: 2024-09-29T01:14:29.425Z
-updated: 2024-10-01T09:35:13.803Z
+date: 2024-09-30T16:17:09.899Z
+updated: 2024-10-06T18:40:19.031Z
 tags:
   - win11
   - win10
@@ -38,18 +38,40 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, click**View** and select**Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap596.png)
 3. Click**Network adapters** to select it. Click**Action** and click**Scan for hardware changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap597.png)
 4. Double-click**Network adapters** to expand the list. See if your wireless network adapter (usually the adapter whose name contains the word “wireless”) appears among the list.  
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap598.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your adapter appears shows up on the list, double-click on it to open its properties window. See if the adapter is working properly.
 
@@ -64,20 +86,20 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 2. In Device Manager, select the first line (your computer name), then click**Action** on the menu bar and select**Add legacy hardware** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click**Next** to move on.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
@@ -85,39 +107,25 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select**Network adapters** , and click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-64.png)
 6. Make sure you select the correct manufacturer for your wireless network adapter (if you’re not sure which is the correct choice, move on to the**[next fix below](#f3)** for it to be done automatically) on the left side panel, then select your network adapter on the right-side panel, click**Next** for the driver to be installed.  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-65.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if your wireless network adapter appears and works fine. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update the driver for your wireless network adapter
 
@@ -146,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 ## Fix 4: Reset the Winsock settings
@@ -164,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 1. On your keyboard, press **the Windows Logo Key**   and **R**   at the same time to open the Run dialog. Type **cmd**   and press **Ctrl** , **Shift**   and **Enter**   at the same time to **run**  **Command Prompt**  **as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap602.png)
 2. In the Command Prompt, type **netsh winsock reset** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap603.png)
 3. **Restart**  your PC to complete the reset.
@@ -194,16 +202,22 @@ See if your wireless network adapter appears in Device Managers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-infographic-insight-whats-hot-on-23-social-sphere/"><u>[New] Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diminishing-displays-dysfunctions-pro-7/"><u>Diminishing Displays Dysfunctions (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-hiccup-over-nvidia-screen-works-again/"><u>Driver Hiccup Over - Nvidia Screen Works Again</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-buggy-to-beasty-mh-world-purged-problems/"><u>From Buggy to Beasty: MH World Purged Problems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-magic-6-lite-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Magic 6 Lite FRP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-note-30-vip-racing-edition-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Note 30 VIP Racing Edition Lock Screen Password</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-laptops-dark-side-heres-the-fix/"><u>Lenovo Laptop's Dark Side? Here's the Fix</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-reviews-t17239718718633/"><u>Navigating the World of Gadgets with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-easy-guide-how-to-make-talking-head-videos/"><u>New Easy Guide How To Make Talking Head Videos</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-6-popular-animated-emoji-video-effects/"><u>Updated 6 Popular Animated Emoji Video Effects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-meets-the-future-new-amd-radeon-hd-6950-driver-release/"><u>Windows 10 Meets the Future: New AMD Radeon HD 6950 Driver Release</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>[New] In 2024, Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-self-presentation-in-facebook-bios-for-2024/"><u>[New] Mastering the Art of Self-Presentation in Facebook Bios for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-top-11-list-of-soundscape-capturers/"><u>[Updated] Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-free-nintendo-switch-games/"><u>2024 Approved Essential Free Nintendo Switch Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-fix-hunter-worlds-beast-down/"><u>Graphics Fix: Hunter World's Beast Down</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-acer-laptop-screen-flickering/"><u>How To Fix Acer Laptop Screen Flickering</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-technology-review-deep-dive-into-gadgets/"><u>Inside Tom's Technology Review: Deep Dive Into Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-pcs-bios-configuration-key-adjustments-for-optimized-performance/"><u>Mastering Your PC's BIOS Configuration: Key Adjustments for Optimized Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/redirecting-faulty-nvidia-displays-settings-links/"><u>Redirecting Faulty NVIDIA Displays Settings Links</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-ripples-in-win7-displays/"><u>Remedying Ripples in Win7 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-issue-cg-failed-to-show/"><u>Rendering Issue: CG Failed to Show</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-stable-lenovo-screens/"><u>Strategies for Stable Lenovo Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-refresh-intel-g3000-driver-on-win11/"><u>Swiftly Refresh Intel G3000 Driver on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-convert-your-favorite-audible-books-into-epub-format-with-our-top-recommended-tools/"><u>Ultimate Guide: Convert Your Favorite Audible Books Into EPUB Format with Our Top Recommended Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services/"><u>Unlock KineMaster's Full Potential Techniques & 10+ Superior Online Services</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleashing-the-power-of-color-in-final-cut-pro/"><u>Updated In 2024, Unleashing the Power of Color in Final Cut Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stuck-at-default-screen-res/"><u>Win11: Stuck at Default Screen Res</u></a></li>
 </ul></div>
 

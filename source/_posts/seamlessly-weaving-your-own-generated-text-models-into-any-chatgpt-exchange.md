@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange
-date: 2024-09-25T22:41:31.872Z
-updated: 2024-10-01T14:52:42.699Z
+date: 2024-10-05T17:30:06.385Z
+updated: 2024-10-06T22:02:23.441Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -93,21 +93,24 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-create-engaging-youtube-thumbnails/"><u>[New] 2024 Approved Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-self-created-soundtracks-for-your-instagram-alerts/"><u>[New] Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-places-to-access-free-kannada-cinema-watch-and-save-your-favorite-movies/"><u>Best Places to Access FREE Kannada Cinema: Watch & Save Your Favorite Movies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-these-top-5-iphone-friendly-podcast-services/"><u>Discover These Top 5 iPhone-Friendly Podcast Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dispelling-hidden-lcd-glitches/"><u>Dispelling Hidden LCD Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-real-time-play-with-lower-latency/"><u>Enhance Real-Time Play with Lower Latency</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-pop-8-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Pop 8 to Protect Your Individual Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-initial-direct3d-setup-failure/"><u>Overcoming Initial Direct3D Setup Failure</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-aspect-ratio-normalize-screen/"><u>Reverse Aspect Ratio: Normalize Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reviving-rtx-3080-performance-in-video-games/"><u>Reviving RTX 3080 Performance in Video Games</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/simple-guide-recording-a-live-broadcast-on-your-computer/"><u>Simple Guide: Recording a Live Broadcast on Your Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-lenovo-screen-ignoring-inputs/"><u>Solved: Lenovo Screen Ignoring Inputs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-for-quelling-lenovo-screen-shimmers/"><u>Techniques for Quelling Lenovo Screen Shimmers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-commanding-delivery-analysis-update-v8-for-2024/"><u>[New] Commanding Delivery Analysis Update V8 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mobile-broadcasting-share-videos-without-a-retweet-for-2024/"><u>[New] Mobile Broadcasting Share Videos without a Retweet for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-game-launch-issues/"><u>[Solved] Nvidia Game Launch Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dynamic-designs-the-hottest-snapchat-filters-explored/"><u>[Updated] 2024 Approved Dynamic Designs The Hottest Snapchat Filters Explored</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-elevate-your-earning-game-youtube-on-facebook-revenue-strategies/"><u>[Updated] 2024 Approved Elevate Your Earning Game YouTube on Facebook Revenue Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-realm-laughs-and-learns-20plus-creative-meme-making-methods/"><u>[Updated] In 2024, Virtual Realm Laughs & Learns 20+ Creative Meme-Making Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-15-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s18-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S18 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-call-capture-tutorial-is-it-legal-expert-advice-from-zdnet/"><u>IPhone Call Capture Tutorial: Is It Legal? - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-revitalize-computer-screen-output/"><u>Methods to Revitalize Computer Screen Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monster-world-rescued-from-glitch-nightmare/"><u>Monster World Rescued From Glitch Nightmare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-common-pitfalls-in-chatgpt-interactions-and-how-to-resolve-them/"><u>Navigating Common Pitfalls in ChatGPT Interactions and How to Resolve Them</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-screen-malfunctions-in-laptops/"><u>Remedying Screen Malfunctions in Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reset-display-settings-overcoming-win-10-hurdle/"><u>Reset Display Settings: Overcoming Win 10 Hurdle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-wow-error-51900319-quickly/"><u>Solving WoW Error #51900319 Quickly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-of-r9-drivers-on-win10/"><u>Successful Troubleshooting of R9 Drivers on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-plan-to-run-latest-intel-graphics-drivers/"><u>Upgrade Plan to Run Latest Intel Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winui-graphic-breakdown-fix-in-progress/"><u>WinUI Graphic Breakdown (Fix in Progress)</u></a></li>
 </ul></div>
 

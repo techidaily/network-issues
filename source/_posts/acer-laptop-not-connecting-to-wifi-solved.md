@@ -1,7 +1,7 @@
 ---
 title: Acer Laptop Not Connecting to WiFi [Solved]
-date: 2024-09-23T18:44:43.138Z
-updated: 2024-09-30T23:40:14.055Z
+date: 2024-09-29T20:37:39.641Z
+updated: 2024-10-06T20:42:05.226Z
 tags:
   - win11
   - win10
@@ -33,24 +33,18 @@ Your Acer laptop won’t connect to Wi-Fi and you fail to access the Internet? D
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Fix 1: Turn on WLAN feature in your laptop
 
  Newer models of laptops enable people to turn on Wi-Fi with a Wi-Fi switch. So if there is a switch on your laptop, try switching it to**ON** so as to turn on Wi-Fi for your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f17e7c46827.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or you can try the combination of Fn + F3 keys to see if it turns your Wi-Fi on and off.
 
@@ -60,13 +54,6 @@ Your Acer laptop won’t connect to Wi-Fi and you fail to access the Internet? D
 2. Click**Network & Internet** on the left panel, and toggle the Wi-Fi button to**On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/wifi-settings.png)
 3. Restart your Acer laptop and try to connect to Wi-Fi and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -82,6 +69,14 @@ To do so, follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-95.png)
 3. Make sure to set the**Startup type** to**Automatic** , and the**Service status** is**Running** . Then click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-96.png)
 4. Restart your laptop and connect to Wi-Fi.
 
@@ -111,16 +106,29 @@ If not, don’t panic. There are other solutions.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/802.11n-Wireless-LAN-Card.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
@@ -145,22 +153,15 @@ Now connect your laptop to Wi-Fi and see if it works properly.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-411.png)
 4. Restart your laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try connecting to Wi-Fi and see if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fix 5: Reset network settings
@@ -172,16 +173,10 @@ Now try connecting to Wi-Fi and see if it works.
 2. Now type in the following commands and hit **Enter**  after each one.  
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
@@ -212,21 +207,15 @@ Note: be sure to re-enable the antivirus program later on.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-87.png)
 2. Ensure to choose**View by Small icons** or**View by Large icons** , then click**Network and Sharing Center** .  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-89.png)
 3. Click**Set up a new connection or network** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-103.png)
 4. Select**Manually connect to a wireless network** , then click**Next** .  
@@ -234,21 +223,15 @@ Note: be sure to re-enable the antivirus program later on.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-104.png)
 5. Enter the required information for your Wi-Fi, including**Network name** ,**Security type** , and**Security Key** . Be sure to check the box next to**Start this connection automatically** , then click**Next** .  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-105.png)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then your Acer laptop should be able to connect to wireless networks.
 
@@ -275,19 +258,20 @@ Then your Acer laptop should be able to connect to wireless networks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/motionally-enhanced-youtube-commentary/"><u>[New] Emotionally-Enhanced YouTube Commentary</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-gtx-gems-the-best-for-high-res-gaming-for-2024/"><u>[New] GTX Gems The Best for High-Res Gaming for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph/"><u>[Updated] Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-invisible-graphics-cards-your-fix/"><u>Addressing Invisible Graphics Cards: Your Fix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-image-size-retain-resolution-for-2024/"><u>Boost Image Size, Retain Resolution for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovered-backdoor-shadowplay-controls/"><u>Discovered Backdoor: ShadowPlay Controls</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-43-resolved/"><u>GPU Error 43 Resolved</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-14-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-professional-video-lighting-gear-guide-17/"><u>In 2024, Professional Video Lighting Gear Guide (#17)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-missing-from-tvs-panel/"><u>Laptop Image Missing From TV's Panel</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-minimum-requirements-barrier-for-drivers/"><u>Overcoming Minimum Requirements Barrier for Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-access-to-advanced-custom-nlp-tools-discover-our-8-options/"><u>Quick Access to Advanced Custom NLP Tools - Discover Our 8 Options</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ways-to-stop-acer-display-twinkle/"><u>Ways to Stop Acer Display Twinkle</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-boredom-to-chuckles-generating-funny-memes/"><u>[New] From Boredom to Chuckles Generating Funny Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>[New] Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieve-superior-graphical-performance-update-intel-hd-3000-for-windows-10-now/"><u>Achieve Superior Graphical Performance: Update Intel HD 3000 for Windows 10 Now.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-non-responsive-curser-in-windows-10/"><u>Addressing Non-Responsive Curser in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixes-for-lenovo-monitor-flickers/"><u>Fixes for Lenovo Monitor Flickers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78t-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78t Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/insights-into-smooth-sound-transitions-crossfade-for-2024/"><u>Insights Into Smooth Sound Transitions (Crossfade) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-display-drivers-amd-radeon-r9-for-win11/"><u>Mastering Display Drivers: AMD Radeon R9 for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximum-screen-quality-reclaimed-win10/"><u>Maximum Screen Quality Reclaimed, Win10</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-background-generator-in-2024/"><u>New What Is AI Background Generator, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions-for-2024/"><u>Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-10s-c1900101-error/"><u>Resolving Windows 10'S C1900101 Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenfreeze-gfx-window-issue-resolution-ready/"><u>ScreenFreeze, GFX Window Issue (Resolution Ready)</u></a></li>
 </ul></div>
 

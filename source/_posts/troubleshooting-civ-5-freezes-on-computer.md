@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Civ 5 Freezes on Computer
-date: 2024-09-28T19:51:41.291Z
-updated: 2024-10-01T08:39:48.113Z
+date: 2024-10-05T18:25:15.036Z
+updated: 2024-10-06T22:10:57.644Z
 tags:
   - win11
   - win10
@@ -29,16 +29,10 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 3. [**Install the latest DirectX**](#F3)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
@@ -53,10 +47,10 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
@@ -77,13 +71,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
@@ -101,6 +88,13 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
@@ -108,10 +102,10 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
@@ -139,18 +133,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-triggering-winos-bsod-error/"><u>[Fix]: dxgkrnl.sys Triggering WinOS BSOD Error</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>[New] 2024 Approved The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers/"><u>[Updated] A Comprehensive List of Prime Tablets for Photo Editing Lovers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-secrets-to-crafting-compelling-openers-in-game-videos-yt-freepremium/"><u>2024 Approved Secrets to Crafting Compelling Openers in Game Videos (YT Free/Premium)</u></a></li>
-<li><a href="https://fox-place.techidaily.com/best-platforms-for-accessing-and-obtaining-music-mixtapes-without-charge/"><u>Best Platforms for Accessing and Obtaining Music Mixtapes Without Charge</u></a></li>
-<li><a href="https://network-issues.techidaily.com/escaped-firewall-drivers-installation/"><u>Escaped Firewall: Drivers Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-resolved-in-win11/"><u>Fixing Non-Fullscreen Windows - Resolved in Win11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mobilesync-facebook-video-grabber/"><u>Mobilesync Facebook Video Grabber</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-lead-generation-with-our-cookiebot-integrated-tools-and-services/"><u>Revolutionize Lead Generation with Our Cookiebot Integrated Tools and Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-10-escape-room-games-you-should-try-for-2024/"><u>Top 10 Escape Room Games You Should Try for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-google-pixel-8-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Google Pixel 8 for Parents | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-update-qualcomm-atheros-driver-compatibility/"><u>Windows 10 Update: Qualcomm Atheros Driver Compatibility</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-vr-application-in-entertainment-for-2024/"><u>[New] VR Application in Entertainment for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-clicks-and-conversions-the-top-15-powerful-tools-for-fb-data-analysis-for-2024/"><u>[Updated] Boost Clicks & Conversions The Top 15 Powerful Tools for FB Data Analysis for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-audience-connection-best-creative-reacting-techniques/"><u>[Updated] In 2024, Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-parallel-audio-stream-mapping/"><u>[Updated] Parallel Audio Stream Mapping</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-swift-online-journey-despite-slowness/"><u>[WINDOWS] Swift Online Journey Despite Slowness</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-deeper-dives-in-minecraft-gameplay/"><u>2024 Approved Discovering Deeper Dives in Minecraft Gameplay</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-effective-photo-and-document-converters-of-2eighty-four/"><u>Discover the Most Effective Photo & Document Converters of 2Eighty-Four</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-built-in-asus-camera/"><u>Enabling Built-In Asus Camera</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-z-flip-5-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy Z Flip 5 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-made-easy-with-manycam-virtual-camera-software-solutions/"><u>Live Streaming Made Easy with ManyCam: Virtual Camera Software Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-render-improvement-for-versions-1087/"><u>Microsoft Render Improvement for Versions 10/8/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-blurry-backgrounds-in-far-cry-6-gameplay/"><u>Overcoming Blurry Backgrounds in Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-error-in-win10-setup/"><u>Overcoming C1900101 Error in Win10 Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-mastery-overcoming-fallout-4-glitches/"><u>PC Mastery: Overcoming Fallout 4 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-cpu-oversight-gpu-not-detected-issue/"><u>Resolving CPU Oversight: GPU Not Detected Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/spartan-strategies-streamlined/"><u>Spartan Strategies Streamlined</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-preserving-video-clarity-during-online-compression/"><u>Step-by-Step Tutorial on Preserving Video Clarity During Online Compression</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-tips-transforming-chatgpt-into-the-ultimate-rpg-dungeon-master/"><u>Top 6 Tips: Transforming ChatGPT Into the Ultimate RPG Dungeon Master</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-enhanced-atheros-adapter-driver-fixes/"><u>Windows 10 Enhanced: Atheros Adapter Driver Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2024-09-27T23:30:57.364Z
-updated: 2024-10-01T07:49:26.332Z
+date: 2024-10-01T17:17:20.390Z
+updated: 2024-10-06T21:06:26.225Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Restart Fortnite
@@ -57,25 +57,11 @@ modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 wireless router
 
 **Plug in** your network devices again and wait until the indicator lights are back to their normal state. 
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging applications
 
@@ -87,13 +73,20 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -121,20 +114,14 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
 
@@ -163,10 +150,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
@@ -176,6 +163,13 @@ If not, you may need to check if it is a server issue.
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -215,19 +209,19 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-annual-highlights-ultimate-free-lut-download-guide/"><u>[New] Annual Highlights Ultimate Free LUT Download Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-photography-through-editing-knowledge/"><u>[New] In 2024, Elevating Photography Through Editing Knowledge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-streamline-action-camera-upgrades-what-to-buy/"><u>[New] In 2024, Streamline Action Camera Upgrades What to Buy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/wiftly-expand-your-youtube-following-for-minimal-cost/"><u>[New] Swiftly Expand Your YouTube Following for Minimal Cost</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-find-the-good-iphone-photography-angles/"><u>[Updated] In 2024, How to Find the Good iPhone Photography Angles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-latest-podcast-question-bank-for-engaging-audiences/"><u>2024 Approved Latest Podcast Question Bank for Engaging Audiences</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974604348-boost-intel-graphics-3000-performance-with-a-simple-update-in-windows-10/"><u>Boost Intel Graphics 3000 Performance with a Simple Update in Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cut-the-frustration-fix-your-camera-zooms-2024-fix-guide/"><u>Cut the Frustration, Fix Your Camera! ZOOM's 2024 Fix Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-12plus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme 12+ 5G?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-system-safety-with-safe-mode-on-windows-8/"><u>Mastering the Art of System Safety with Safe Mode on Windows 8</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-missing-wi-fi-support-in-win10-environment/"><u>Restoring Missing Wi-Fi Support in Win10 Environment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sculpting-success-in-visual-communications-for-2024/"><u>Sculpting Success in Visual Communications for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrade-to-top-tier-graphics-with-newest-intel-hd-graphics-version-for-windows-10/"><u>Upgrade to Top-Tier Graphics with Newest Intel HD Graphics Version for Windows 10.</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-batch-script-execution-power/"><u>Elevate Your Batch Script Execution Power</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits-for-2024/"><u>From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-effortlessly-access-safe-mode-on-windows-for-drivers-replacement/"><u>How To Effortlessly Access Safe Mode on Windows for Drivers Replacement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/identifying-and-solving-asus-video-compatibility/"><u>Identifying and Solving Asus Video Compatibility</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-edge-40-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola Edge 40 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-x-flip-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo X Flip Phone Now with These Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-techniques-for-no-more-flicker-on-screens/"><u>Master Techniques for No More Flicker on Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-glitch-in-windows-11/"><u>Overcoming Nvidia/Intel Graphics Glitch in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-vertical-display-flip/"><u>Resolving Vertical Display Flip</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-videos-for-free-leading-enhancement-pages/"><u>Transform Videos for Free Leading Enhancement Pages</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transformer-gratuitement-un-fichier-gif-au-format-3gp-sur-internet-convertissez-vos-images-animees-avec-ease/"><u>Transformer Gratuitement Un Fichier GIF Au Format 3GP Sur Internet - Convertissez Vos Images Animées Avec Ease</u></a></li>
 </ul></div>
 

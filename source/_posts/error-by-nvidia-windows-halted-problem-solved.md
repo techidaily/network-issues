@@ -1,7 +1,7 @@
 ---
 title: "Error by NVidia: Windows Halted, Problem Solved"
-date: 2024-09-25T21:08:27.218Z
-updated: 2024-09-30T22:17:28.580Z
+date: 2024-10-05T17:00:37.323Z
+updated: 2024-10-06T19:58:17.504Z
 tags:
   - win11
   - win10
@@ -57,41 +57,18 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-619.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the Nvidia graphics driver.  In the example below, we’ve got NVIDIA Geforce GTX 1080\. This will automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version)
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## **Solution 3: Uninstall the NVIDIA graphics driver**
-
- Your problem is likely due to faulty graphics drivers. As you can see, there’s a yellow mark next to the device name in Device Manager. It’s worth trying to uninstall the NVIDIA graphics card driver using the following steps:
-
- 1) Press**Win+R** (Windows logo key and R key) at the same time to invoke a run command.
-
- Type**devmgmt.msc** then click**OK** . This is to open the Device Manager Window.
-
-![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- 2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
-
-![uninstall nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d7a03426f1b.jpg)
-
- 3) Restart your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
 <span id="1630055">
@@ -105,6 +82,29 @@ Or click **Update All**  to automatically download and install the correct versi
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## **Solution 3: Uninstall the NVIDIA graphics driver**
+
+ Your problem is likely due to faulty graphics drivers. As you can see, there’s a yellow mark next to the device name in Device Manager. It’s worth trying to uninstall the NVIDIA graphics card driver using the following steps:
+
+ 1) Press**Win+R** (Windows logo key and R key) at the same time to invoke a run command.
+
+ Type**devmgmt.msc** then click**OK** . This is to open the Device Manager Window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
+
+![uninstall nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d7a03426f1b.jpg)
+
+ 3) Restart your computer and check to see if the problem is resolved.
 
 ## **Solution 4: Disable the graphics card and discharge the electrical build-up**
 
@@ -121,10 +121,16 @@ Or click **Update All**  to automatically download and install the correct versi
 ![disable nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d79e02d7ee6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Press your power button until your computer shuts down.
@@ -154,18 +160,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-rust-legacy-launch-issue-dx12-failure/"><u>[FIXED] Rust Legacy Launch Issue - DX12 Failure</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-strategies-for-saving-youtube-thumbnails-on-any-os-for-2024/"><u>[New] Efficient Strategies for Saving Youtube Thumbnails on Any OS for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamline-webcam-use-on-modern-devices/"><u>[New] In 2024, Streamline Webcam Use on Modern Devices</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-share-tweets-whatsapp-video-broadcasting-for-2024/"><u>[New] Share Tweets WhatsApp Video Broadcasting for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-twitch-stream-game-with-these-5-steps/"><u>[Updated] Elevate Your Twitch Stream Game with These 5 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-focus-discover-these-8-premier-timers-for-pc-tasks/"><u>Effortless Focus: Discover These 8 Premier Timers For PC Tasks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/garmin-vivomove-hr-watch-review-a-chic-fitness-companion-for-active-lifestyles/"><u>Garmin Vivomove HR Watch Review – A Chic Fitness Companion For Active Lifestyles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-interface-error-cleared-running-smoothly/"><u>Graphic Interface Error Cleared, Running Smoothly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-achieve-financial-stardom-strategies-for-youtube-success-on-fb/"><u>In 2024, Achieve Financial Stardom Strategies for YouTube Success on FB</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-success-story-no-hurdles-for-nvidia/"><u>Installation Success Story: No Hurdles for NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shattering-screen-shimmer-on-win11/"><u>Shattering Screen Shimmer on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-eradicate-lenovo-screen-flashes/"><u>Steps to Eradicate Lenovo Screen Flashes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-your-amd-driver-in-microsofts-latest-operating-systems/"><u>Updating Your AMD Driver in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-broadcasting-to-the-household-watching-facebook-videos/"><u>[Updated] 2024 Approved Broadcasting to the Household Watching Facebook Videos?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-screen-saving-solutions-in-windows-8-edition/"><u>2024 Approved Efficient Screen Saving Solutions in Windows 8 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-transparent-computer-vision/"><u>Effortless: Transparent Computer Vision</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>In 2024, Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a05s-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A05s FRP In 3 Different Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-chat-disruptions-a-step-by-nstep-solution-for-among-us-players-on-pc/"><u>Overcoming Voice Chat Disruptions: A Step-by-nStep Solution for Among Us Players on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-your-data-examining-the-cyber-risks-associated-with-ai-platforms-such-as-chatgpt/"><u>Safeguarding Your Data: Examining the Cyber Risks Associated with AI Platforms Such as ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-screens-on-windows-7-platform/"><u>Stabilizing Screens on Windows 7 Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-language-models-at-your-fingertnails-explore-the-new-chatgpt-app-on-ios/"><u>The Power of Language Models at Your Fingertnails: Explore the New ChatGPT App on iOS!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mitigating Screenscape Disturbances (Pro 7)
-date: 2024-09-30T07:43:14.573Z
-updated: 2024-09-30T18:10:56.072Z
+date: 2024-09-29T20:12:37.186Z
+updated: 2024-10-06T16:23:21.445Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  But there’s more to that. Your Surface Pro 7 screen flickering can also be caused by corrupt system files, out-of-date BIOS, or hardware faults.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  No matter what caused your Surface Pro 7 to screen flicker, you can try the following troubleshooting to fix the issue. You don’t have to try them all, just work your way down the list until you find the one that works for you.
@@ -33,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 3. **[Close unnecessary apps](#h3)**
 4. **[Change the refresh rate](#h4)**
 5. **[Run the System File Checker](#h5)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable adaptive brightness
 
@@ -52,13 +66,6 @@ Here’s how to do it:
 
  You’ll find the Surface Pro 7 screen flickering stops right away. But if not, don’t worry. You should be able to fix it by following these fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your display drivers
 
  Your Surface Pro 7 screen may flicker or blink frequently if you’re using the wrong or outdated device drivers, especially the display drivers. Therefore, you should update these drivers to see if it fixes your problem.
@@ -70,10 +77,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
@@ -89,13 +96,6 @@ Here’s how you can update your drivers with Driver Easy:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -130,29 +130,22 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Within settings, select**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On the side taskbar, click**Display** .
 
  4) Under**Multiple displays** , select**Advanced display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Display adapter properties** .
 
@@ -161,10 +154,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
@@ -204,6 +197,13 @@ Now check your screen to see if the flickering issue is resolved by now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When prompted for permission to make changes to your device, click**Yes** .
 
  3) In the pop-up window of Command Prompt, enter the following command (note that there’s a space between sfc and /):
@@ -235,16 +235,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-crafting-content-masterpieces-with-these-essential-youtube-tips/"><u>[New] 2024 Approved Crafting Content Masterpieces with These Essential YouTube Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-art-of-adding-soundtracks-to-instagram-visuals-for-2024/"><u>[New] The Art of Adding Soundtracks to Instagram Visuals for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-power-of-design-in-audio-branding/"><u>2024 Approved Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-display-incompatibility-with-freesync/"><u>Addressing Display Incompatibility with FreeSync</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-pc-performance-troubleshooting-sluggish-windows-11-issues/"><u>Boost Your PC Performance: Troubleshooting Sluggish Windows 11 Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-render-driver-glitches-in-ms-bd/"><u>Correcting Render Driver Glitches in MS BD</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-f34-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy F34 5G Without PUK Codes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-drivers-new-era-rtx210-meets-windows-11-standards/"><u>New Drivers, New Era - RTX210 Meets Windows 11 Standards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sk-hynix-announces-plans-for-state-of-the-art-hbm-production-facility-in-indiana-investing-387-billion/"><u>SK Hynix Announces Plans for State-of-the-Art HBM Production Facility in Indiana, Investing $3.87 Billion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-your-inner-filmmaker-sports-videos-101-for-2024/"><u>Unleash Your Inner Filmmaker Sports Videos 101 for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlocking-system-potential-safe-mode-and-graphic-card-driver-elimination-in-w8/"><u>Unlocking System Potential: Safe Mode & Graphic Card Driver Elimination in W8</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] In 2024, Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-6950-new-windows-10-driver-release/"><u>AMD Radeon 6950: New Windows 10 Driver Release</u></a></li>
+<li><a href="https://win-blog.techidaily.com/changer-fichier-pef-en-jpeg-gratuitement-sur-internet-avec-movavi/"><u>Changer Fichier PEF en JPEG Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-invisible-display-problems/"><u>Clearing Up Invisible Display Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-gt-3-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme GT 3 to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>In 2024, Google's Take on AR Stickers An Overview & Beyond</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-a05s-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel A05s Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-20-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Spark 20 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-the-mighty-spartans-move-set/"><u>Mastering the Mighty Spartan's Move Set</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overclock-issue-resolved/"><u>Overclock Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-graphics-driver22-hurdle/"><u>Overcoming Graphics DRIVER#22 Hurdle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-displaying-error-missing-graphical-specs/"><u>Overwatch Displaying Error: Missing Graphical Specs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions-for-2024/"><u>Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recover-lost-display-settings-in-win10/"><u>Recover Lost Display Settings in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repairing-saving-mechanism-for-display-configurations-on-windows/"><u>Repairing Saving Mechanism for Display Configurations on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-original-aspect-ratios-in-windows-11/"><u>Restoring Original Aspect Ratios in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-rise-of-new-titans-against-vlc-for-2024/"><u>The Rise of New Titans Against VLC for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-sony-xperia-1-v-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Sony Xperia 1 V Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-higher-engagement-the-power-of-precise-timestamping/"><u>Unlock Higher Engagement The Power of Precise Timestamping</u></a></li>
 </ul></div>
 

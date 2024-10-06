@@ -1,7 +1,7 @@
 ---
 title: Solving Grainy Graphics in Ubisoft's Island Adventure
-date: 2024-09-28T23:32:02.573Z
-updated: 2024-09-30T22:37:25.115Z
+date: 2024-09-29T22:17:14.973Z
+updated: 2024-10-06T19:28:48.051Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -51,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable/Uninstall the HD texture pack
@@ -66,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  If you didn’t use the HD texture pack but you do have sufficient VRAM (>11 GB), you can find the HD texture pack under the DLC section and install it. Some players have reported that the HD texture pack works fine when you have enough VRAM, so it’s definitely worth a try.
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -94,6 +94,19 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -120,13 +133,6 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -136,40 +142,34 @@ If this doesn’t help, try the next fix.
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
@@ -210,19 +210,18 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-innovation-insights-into-vr-gear-designs/"><u>[New] The Innovation Insights Into VR Gear Designs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-content-creation-evolution-studio-vs-innovative-beta/"><u>[Updated] 2024 Approved Content Creation Evolution Studio Vs. Innovative Beta</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exploring-the-best-audio-capture-technology-for-apple-devices/"><u>[Updated] 2024 Approved Exploring the Best Audio Capture Technology for Apple Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-comprehensible-guide-to-swapping-facial-gender-in-snapchat-images-for-2024/"><u>[Updated] Comprehensible Guide to Swapping Facial Gender in Snapchat Images for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 mini After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-13-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 13 without Password?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphones-audio-advantages-for-podcast-lovers/"><u>In 2024, IPhone's Audio Advantages for Podcast Lovers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-core-elements-of-kinetic-visual-storytelling/"><u>In 2024, The Core Elements of Kinetic Visual Storytelling</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-graphics-card-not-showing-in-device-manager-solved/"><u>NVIDIA Graphics Card Not Showing in Device Manager [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-incompatible-graphics-device-in-windows/"><u>Rectified Incompatible Graphics Device in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-accessibility-to-nvidia-screen-configurations/"><u>Restoring Accessibility to NVIDIA Screen Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resurrecting-non-pivoting-gpu-fans/"><u>Resurrecting Non-Pivoting GPU Fans</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-relink-ability-expert-fixes-for-granblue-fantasy-launch-issues/"><u>Unlocking the 'Relink' Ability: Expert Fixes for Granblue Fantasy Launch Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/xfx-driver-recovered-from-halt-state/"><u>XFX Driver Recovered From Halt State</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-by-step-pathway-to-mastering-srt-files/"><u>[Updated] In 2024, Step-by-Step Pathway to Mastering SRT Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram/"><u>[Updated] In 2024, The Ultimate Strategies for Leveraging the Question Sticker on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-instantaneous-effortless-podcast-live/"><u>[Updated] Instantaneous Effortless Podcast Live</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[Updated] The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/calm-the-currents-resolve-dells-flicker/"><u>Calm the Currents: Resolve Dell's Flicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diminishing-disturbance-on-win11-panels/"><u>Diminishing Disturbance on Win11 Panels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-frustrations-fallout-4-stable-on-windows/"><u>End of Frustrations: Fallout 4 Stable on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-moderation-on-users/"><u>Exploring the Impact of AI Chatbot Content Moderation on Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-easier-to-adjust-post-update-in-windows-10/"><u>High-DPI Settings: Easier to Adjust Post-Update in Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-response-from-monitor-post-update/"><u>No Response From Monitor Post Update</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/which-frame-rate-is-ideal-analyzing-benefits-of-30fps-and-60fps/"><u>Which Frame Rate Is Ideal? Analyzing Benefits of 30Fps and 60Fps</u></a></li>
 </ul></div>
 

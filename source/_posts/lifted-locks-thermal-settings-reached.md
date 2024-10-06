@@ -1,7 +1,7 @@
 ---
 title: "Lifted Locks: Thermal Settings Reached"
-date: 2024-08-15T07:55:15.300Z
-updated: 2024-08-16T07:55:15.300Z
+date: 2024-10-04T21:40:23.963Z
+updated: 2024-10-06T18:38:51.492Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 3. [Run the NVIDIA Control Panel as administrator](#m3)
 4. [Close Game Bar](#m4)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Method 1: Update**your NVIDIA graphics driver**
 
  The “Access Denied” problem probably caused by an old, wrong or missing NVIDIA graphics driver. So you should verify that your graphics adapter has the correct driver, and update it if it doesn’t.  
@@ -56,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -66,9 +59,23 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you encounter problems while using Driver Easy, please send an email to [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Run the NVIDIA Control Panel to check if this fixes your problem.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Reinstall your graphics driver
 
@@ -77,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
  1) Run Driver Easy and select**Tools** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/re.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select **Driver Uninstall** . Click**Display adapters** folder and select your NVIDIA graphics driver. Then click the**Uninstall** button. Your graphics driver will be removed soon.
 
@@ -90,8 +104,12 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 **Note** : If you click the**Scan Now** button but your graphics adapter doesn’t appear, you should go to Device Manager and click the button to refresh it first, then back to Driver Easy to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/20-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Run the NVIDIA Control Panel then check whether the “Access Denied” message will appear or not.  
@@ -110,18 +128,25 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/15.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on the**nvcplui.exe** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/14.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Run the NVIDIA Control Panel and check whether the message will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Method 4: Close Games Bar
 
  The Game Bar is a built-in tool in Windows to improve your gaming experience. It is automatically enabled with the Windows update, but it seemed to interfere with the NVIDIA Control Panel. You can try to turn the Games Bar off to solve this problem.
@@ -129,16 +154,10 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
  1) Press the**Windows logo key** +**I** together to open the Windows Settings. Then click**Gaming** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 2) Click the button to turn off the Game Bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Run the NVIDIA Control Panel and check whether the “Access Denied” message will show up.
 
@@ -150,8 +169,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,8 +176,22 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-spotlight-top-tiktok-tweets/"><u>[Updated] 2024 Approved Social Media Spotlight Top TikTok Tweets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/behringer-usb-dac-instrument-driver-get-it-now/"><u>Behringer USB DAC Instrument Driver - Get It Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977641104-corsair-void-pro-drivers-download-and-install-for-windows-easily/"><u>Corsair Void Pro Drivers Download & Install for Windows. EASILY</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-glitches-fallout-4-compatible-with-windows/"><u>End of Glitches: Fallout 4 Compatible with Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-message-no-card-available/"><u>Error Message: No Card Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/future-ready-sound-expert-picks-for-bestsmartspeakers/"><u>Future-Ready Sound: Expert Picks for Best#SmartSpeakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-easily-distribute-games-through-your-steam-library/"><u>How to Easily Distribute Games Through Your Steam Library</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/install-latest-intel-hd-graphics-3000-on-windows-10-swiftly/"><u>Install Latest Intel HD Graphics 3000 on Windows 10 Swiftly.</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audit-findings-on-sound-forges-integration-and-workflow-efficiency/"><u>New In 2024, Audit Findings on Sound Forges Integration and Workflow Efficiency</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-visual-performance-intel-driver-update-guide-for-windows-7-users/"><u>Optimize Visual Performance: Intel Driver Update Guide for Windows 7 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-video-card-errors-for-steady-viewing/"><u>Resolve Video Card Errors for Steady Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-absence-of-wi-fi-adapter-on-windows-11/"><u>Troubleshooting: Absence of Wi-Fi Adapter on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-gopros-capabilities-for-capturing-dynamic-time-lapse-videos-for-2024/"><u>Unveiling GoPro's Capabilities for Capturing Dynamic Time-Lapse Videos for 2024</u></a></li>
+</ul></div>
 

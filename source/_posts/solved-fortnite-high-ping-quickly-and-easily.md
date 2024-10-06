@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | Fortnite High Ping | Quickly & Easily!"
-date: 2024-09-30T06:02:02.999Z
-updated: 2024-10-01T06:25:09.477Z
+date: 2024-09-29T21:27:15.974Z
+updated: 2024-10-06T20:02:20.278Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
@@ -57,10 +64,10 @@ wireless router
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging applications
@@ -74,13 +81,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -111,10 +111,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
@@ -125,24 +125,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
@@ -155,6 +141,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
 Join a squad to see if you’ve resolved the high ping issue.
@@ -162,15 +155,22 @@ Join a squad to see if you’ve resolved the high ping issue.
 If not, you may need to check if it is a server issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -210,24 +210,24 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>[New] 2024 Approved Fine-Tuning Team Call Aesthetics Pre & Post Customization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rom-conference-call-to-youtube-stream-how-to-broadcast-google-meet-for-2024/"><u>[New] From Conference Call to YouTube Stream - How To Broadcast Google Meet for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>[Updated] Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-creative-potential-with-instas-bokeh-effects-for-2024/"><u>[Updated] Unleashing Creative Potential with Insta's Bokeh Effects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-increasing-youtube-video-size/"><u>2024 Approved Techniques for Increasing YouTube Video Size</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-pioneering-facebook-platforms-for-team-driven-projects/"><u>8 Pioneering Facebook Platforms for Team-Driven Projects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-flipped-digital-image-screens/"><u>Correcting Flipped Digital Image Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-hybrid-card-mix-up-a-solution-for-intel-and-nvidia-in-win10/"><u>Correcting Hybrid Card Mix-Up: A Solution for Intel & Nvidia in Win10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-to-follow-guide-accessing-network-resources-via-macos-drives-mapping/"><u>Easy-to-Follow Guide: Accessing Network Resources via macOS Drives Mapping</u></a></li>
-<li><a href="https://network-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/horizontal-monitor-solution-found/"><u>Horizontal Monitor Solution Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-toggle-to-safe-mode-and-delete-graphics-drivers-on-windows-8/"><u>How to Toggle to Safe Mode & Delete Graphics Drivers on Windows 8</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-effortless-media-migration-how-to-send-fb-movies-via-whatsapp/"><u>In 2024, Effortless Media Migration How To Send FB Movies via WhatsApp</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/los-mejores-programas-de-edicion-de-video-para-pc-una-lista-definitiva-de-los-10-mas-destacados/"><u>Los Mejores Programas De Edición De Video Para PC - Una Lista Definitiva De Los 10 Más Destacados</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-in-win10-preparation/"><u>Overcoming C1900101 in Win10 Preparation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blank-detect-failed-for-cgs/"><u>Screen Blank: Detect Failed for CGs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/visionary-video-download-engine-capture-and-save-anywhere-for-2024/"><u>Visionary Video Download Engine - Capture & Save Anywhere for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-no-money-down-best-free-video-chat-platforms/"><u>[New] No Money Down? Best Free Video Chat Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-strategies-for-success-in-the-metaverse-space-for-2024/"><u>[New] Strategies for Success in the Metaverse Space for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac-for-2024/"><u>[Updated] Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-getting-prepared-for-macos-11-big-sur-upgrade-for-2024/"><u>[Updated] Getting Prepared for MacOS 11 Big Sur Upgrade for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-11-pro-level-screen-recorders-for-mac-users-for-2024/"><u>[Updated] Top 11 Pro-Level Screen Recorders for Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-top-3-safe-strategies-for-converting-youtube-videos-into-mp3-files/"><u>2024 Approved Top 3 Safe Strategies for Converting YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screens-on-windows-10/"><u>Correcting Upside-Down Screens on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-visual-glitches-from-far-cry-6-gameplay/"><u>Eliminating Visual Glitches From Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-performance-windows-plus-new-intellgraphic-driver/"><u>Enhance Performance: Windows + New IntellGraphic Driver</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/eradicate-the-chromium-threat-comprehensive-guide-to-cleaning-your-pc-with-malwarefox/"><u>Eradicate the Chromium Threat: Comprehensive Guide to Cleaning Your PC with MalwareFox</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-by-nvidia-windows-halted-problem-solved/"><u>Error by NVidia: Windows Halted, Problem Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-dell-monitor-flashes-rapidly/"><u>Fixing: Dell Monitor Flashes Rapidly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-smart-7-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Smart 7 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974544005-quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-note-30-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Note 30 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-intelnvidia-graphic-mix-up-in-win10-environment/"><u>Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/spartan-written-perfection-pursued/"><u>Spartan' Written: Perfection Pursued</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-gameplay-solve-computer-based-civ5-issues/"><u>Streamlining Gameplay: Solve Computer-Based CIV5 Issues</u></a></li>
 </ul></div>
 

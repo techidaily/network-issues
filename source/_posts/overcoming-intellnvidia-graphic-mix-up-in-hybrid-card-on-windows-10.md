@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intell/Nvidia Graphic Mix-Up in Hybrid Card on Windows 10
-date: 2024-09-24T04:13:34.450Z
-updated: 2024-10-01T06:35:58.344Z
+date: 2024-09-29T18:43:25.048Z
+updated: 2024-10-06T21:32:24.506Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -90,20 +104,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -111,10 +111,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -131,16 +131,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,24 +157,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-missing-network-interface-on-windows-10-notebook/"><u>[FIXED] Missing Network Interface on Windows 10 Notebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-adjusted-installed-driver-for-missing-amd-graphics/"><u>[GRAPHICS ADJUSTED] Installed Driver for Missing AMD Graphics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>[New] 2024 Approved In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[New] In 2024, Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-premier-mp4-converter-for-smooth-fb-integration/"><u>[New] Premier MP4 Converter for Smooth FB Integration</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-enthralling-viewers-stream-with-success-even-if-youre-just-starting-out-for-2024/"><u>[Updated] Enthralling Viewers Stream with Success, Even if You're Just Starting Out for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716070221557-updated-in-2024-snap-and-save-your-android-no-price-tag/"><u>[Updated] In 2024, Snap & Save Your Android - No Price Tag!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-viral-video-vanguard-youtubes-1-24-hours-list-for-2024/"><u>[Updated] Viral Video Vanguard YouTube's #1 24 Hours List for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-dimming-settings-on-lenovo-pcs/"><u>Adjusting Dimming Settings on Lenovo PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrypting-nvidia-rtx-3080-gaming-woes-and-fixes/"><u>Decrypting NVIDIA RTX 3080 Gaming Woes & Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-fluctuating-streams-in-new-windows-11/"><u>Fixing Fluctuating Streams in New Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-7025-with-windows-11-systems/"><u>Harmonizing Nvidia 7025 with Windows 11 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974803428-how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-magic-6-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor Magic 6 Data? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-recovery-fixing-apex-crashes-effortlessly/"><u>Rapid Recovery: Fixing Apex Crashes Effortlessly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-overlooked-gpu-connection/"><u>Repair Overlooked GPU Connection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-print-problem-after-win-11-update/"><u>Resolved Print Problem After Win 11 Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-guide-to-softening-volume-levels-on-lumafusion-for-2024/"><u>The Guide to Softening Volume Levels on Lumafusion for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974543137-the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-step-by-step-guide-to-time-stamping-for-higher-youtube-rankings/"><u>[Updated] In 2024, Step-by-Step Guide to Time Stamping for Higher YouTube Rankings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-vision-enhancement-a-detailed-review/"><u>2024 Approved MAGIX Vision Enhancement A Detailed Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-the-system-cutting-lag-time/"><u>Beat the System: Cutting Lag Time</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cost-efficient-4k-camera-options-(1k-for-2024/"><u>Cost-Efficient 4K Camera Options <$1K for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-stuck-pointer-in-dark-window-w10/"><u>Fix Stuck Pointer in Dark Window, W10</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-z60-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Z60 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/headline-hypnotizer-simulator-for-2024/"><u>Headline Hypnotizer Simulator for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 14 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-wide-view-resolution-fix/"><u>Overcoming Window's Wide View Resolution Fix</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-your-tiktok-presence-mastering-siri-commands-for-video-creation-for-2024/"><u>Perfect Your TikTok Presence - Mastering Siri Commands for Video Creation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-switchable-graphics-issue-with-intel-and-nvidia-win10/"><u>Rectifying Switchable Graphics Issue with Intel & NVIDIA Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-horizontal-line-disruptions/"><u>Resolve Horizontal Line Disruptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-curser-freeze-in-win10/"><u>Solve Curser Freeze in Win10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sony-a6400-video-vanishing-how-to-stop-it/"><u>Sony A6400 Video Vanishing - How to Stop It?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-g22-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia G22 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-disconnects-and-frustrates-us/"><u>Wi-Fi Disconnects and Frustrates Us</u></a></li>
 </ul></div>
 

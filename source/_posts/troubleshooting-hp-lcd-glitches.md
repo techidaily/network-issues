@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting HP LCD Glitches
-date: 2024-08-15T07:59:35.047Z
-updated: 2024-08-16T07:59:35.047Z
+date: 2024-10-03T16:01:59.339Z
+updated: 2024-10-06T18:31:18.034Z
 tags:
   - win11
   - win10
@@ -28,8 +28,12 @@ thumbnail: https://thmb.techidaily.com/bc4e71fa64ffb5cacb645afa1410abd3ad84d4a51
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop screen flickering issue by ruling out the physical factors.
@@ -43,6 +47,13 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -85,16 +96,10 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -103,19 +108,27 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -126,9 +139,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -147,8 +157,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,8 +164,22 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlockingfullpotentialwithyourcamrecorder/"><u>[New] 2024 Approved UnlockingFullPotentialWithYourCamRecorder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fresh-take-on-the-sony-s3700-bdp-performance/"><u>[Updated] Fresh Take on the Sony S3700 BDP Performance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-improve-video-quality-in-zoom-meetings/"><u>[Updated] How to Improve Video Quality in Zoom Meetings?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-box-office-hype-films/"><u>[Updated] In 2024, Ultimate Box Office Hype Films</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elite-recording-tech-premium-podcast-mics/"><u>2024 Approved Elite Recording Tech Premium Podcast Mics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitors-inability-to-show-fullscreen-windows-11/"><u>Fixed Monitor's Inability to Show Fullscreen Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-correction-error-43/"><u>Graphics Correction: Error 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-quality-win11-displays-tweaked/"><u>Improving Image Quality - Win11 Displays Tweaked</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-video-editor-convertire-e-editare-i-tuoi-filmati-con-la-versione-online-gratuita/"><u>Movavi Video Editor: Convertire E Editare I Tuoi Filmati Con La Versione OnLine Gratuita</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-failed-gdx-configuration-fix-available/"><u>Overcome Failed GDX Configuration, Fix Available</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-limitations-in-unsupported-freesync-setup/"><u>Overcoming Limitations in Unsupported FreeSync Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-on-windows-7-fixed/"><u>Screen Upside Down on Windows 7 [FIXED]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sync-twitch-with-snapchat-a-step-by-step-guide/"><u>Sync Twitch with Snapchat A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor X7b? | Dr.fone</u></a></li>
+</ul></div>
 

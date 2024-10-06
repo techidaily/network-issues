@@ -1,7 +1,7 @@
 ---
 title: Blackout Issue After Graphics Card Update
-date: 2024-09-25T09:15:37.421Z
-updated: 2024-09-30T17:34:27.231Z
+date: 2024-10-05T19:28:00.489Z
+updated: 2024-10-06T19:28:42.957Z
 tags:
   - win11
   - win10
@@ -52,40 +52,27 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-34.png)
 3. Select**Browse my computer for drivers** .  
-![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
-4. Select**Let me pick from a list of available drivers on my computer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
+4. Select**Let me pick from a list of available drivers on my computer** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-36.png)
 5. Select**Microsoft Basic Display Adapter** from the list and click**Next** for the driver to be installed.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-37.png)
 6. Your screen might flash a couple of times during the older driver installation, but no need to worry much about it, as it’s normal.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Repeat the same to install the generic display card driver for your other display card should you have one.
 
  Restart your computer to see if your computer screen remains black. If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.2 Clean install the graphics card driver
 
@@ -95,19 +82,47 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then download and update the display card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -154,10 +169,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. When the troubleshooter window opens, click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-2.jpg)
@@ -195,15 +210,16 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-40.png)
 5. Click **Troubleshoot** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-41.png)
 6. Click **Advanced options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-42.png)
 7. Click**Startup Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
@@ -222,28 +238,15 @@ When you boot into the Safe Mode with networking
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
@@ -278,24 +281,20 @@ When you boot into the Safe Mode with networking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-essential-tips-for-online-photo-cropting-for-2024/"><u>[New] Essential Tips for Online Photo Cropting for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unmute-your-social-platforms-audio-a-quick-fix-guide/"><u>[Updated] 2024 Approved Unmute Your Social Platform's Audio A Quick Fix Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-essential-tiktok-strategies-aiming-for-the-top-of-the-list/"><u>[Updated] Essential TikTok Strategies Aiming for the Top of the List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gaming-gains-graphed-income-insights-on-finn/"><u>[Updated] Gaming Gains Graphed Income Insights on Finn</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-corporate-cloud-vault-selection/"><u>[Updated] Leading Corporate Cloud Vault Selection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-narzo-n53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Narzo N53</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-add-external-wireless-capability-with-new-hardware-and-drivers/"><u>How to Add External Wireless Capability with New Hardware & Drivers</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-frame-changer/"><u>In 2024, Twitter Video Frame Changer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-tech-woes-blacked-out-screens/"><u>New Tech Woes: Blacked-Out Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-invisible-gpu-adapter-errors/"><u>Overcome Invisible GPU Adapter Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomms-win11-firmware-update-successful-atheros-compatibility/"><u>Qualcomm's Win11 Firmware Update: Successful Atheros Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-touchscreen-after-troubleshooting/"><u>Rejuvenated Lenovo Touchscreen After Troubleshooting</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolved-instagrams-minor-issue/"><u>Resolved: Instagram's Minor Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-backside-view-issue-in-windows-7/"><u>Solving Backside View Issue in Windows 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-workflow-the-best-plugins-to-combine-chatgpt-and-pdf-handling/"><u>Streamline Your Workflow: The Best Plugins to Combine ChatGPT and PDF Handling</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uncover-stealthy-screen-drop/"><u>Uncover Stealthy Screen Drop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-the-nature-of-4k-uhd-images/"><u>Unveiling the Nature of 4K UHD Images</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-radeon-hd-6950-drivers-enhanced-version-out/"><u>Win11 Radeon HD 6950 Drivers Enhanced Version Out</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-no-available-networks-on-windows-10-tablet/"><u>[FIXED] No Available Networks on Windows 10 Tablet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-quick-and-secure-lecture-capture-methods-for-mac-users/"><u>[New] 2024 Approved Quick and Secure Lecture Capture Methods for Mac Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-detailed-exploration-into-sourcing-high-quality-backdrops/"><u>[New] A Detailed Exploration Into Sourcing High-Quality Backdrops</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-free-easy-hd-download-of-fb-media-library/"><u>[New] Free, Easy HD Download of FB Media Library</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-free-invisible-android-video-recorders/"><u>[Updated] 2024 Approved Best Free, Invisible Android Video Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-extend-youtube-videography-per-requirement/"><u>[Updated] 2024 Approved Extend YouTube Videography Per Requirement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[Updated] Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-animals-in-play-essential-android-titles-reviewed/"><u>2024 Approved Top Animals in Play Essential Android Titles Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/completed-without-glitches-nvidia-setup-perfect/"><u>Completed Without Glitches: NVIDIA Setup Perfect</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-immobilized-gpu-fans/"><u>Correcting Immobilized GPU Fans</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-open-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Open Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>In 2024, Image Editing Essentials The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/jump-over-slowdowns-instantly/"><u>Jump Over Slowdowns Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-quick-fix-techniques-for-vertical-line-displacement-in-notebooks/"><u>Master Quick Fix Techniques for Vertical Line Displacement in Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-critical-setup-error-code-c1900101/"><u>Resolving Critical Setup Error: Code C1900101</u></a></li>
 </ul></div>
 

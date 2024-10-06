@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Gaps During Games
-date: 2024-09-25T13:44:28.452Z
-updated: 2024-10-01T00:28:15.053Z
+date: 2024-10-02T19:58:26.366Z
+updated: 2024-10-06T19:26:28.027Z
 tags:
   - win11
   - win10
@@ -28,19 +28,19 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -55,6 +55,13 @@ There are two fixes you can try:
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -79,10 +86,10 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### For**Intel** graphics users
@@ -92,10 +99,16 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
@@ -109,13 +122,6 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
@@ -139,14 +145,15 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-practical-measures-for-capturing-vimeo-videos/"><u>2024 Approved Practical Measures for Capturing Vimeo Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-init-unsuccessful-resolved/"><u>D3D Init: Unsuccessful, Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-gory-odyssey-mechanics/"><u>Fixed: Gory Odyssey Mechanics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-s24-ultra-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v29e-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V29e to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms/"><u>One Step at a Time How to Create a Skype Group on Both Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-reduce-flickering-in-acer-panels/"><u>Techniques to Reduce Flickering in Acer Panels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-a-dark-monitor-on-pcs/"><u>Troubleshooting a Dark Monitor on PCs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-network-laughter-whos-tops-today/"><u>[New] Cross-Network Laughter Who's Tops Today?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>2024 Approved What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580521776-how-to-learn-ukrainian-fast-in-just-10-minutes-a-day/"><u>How To Learn Ukrainian Fast In Just 10 Minutes A Day</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-driver-no-visibility/"><u>New Driver, No Visibility?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-unavailable-issue-resolved/"><u>OpenGL Unavailable: Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-streaming-obstacles-easily/"><u>Overcoming Windows 10 Streaming Obstacles Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-free-flv-video-editors-for-windows-and-mac/"><u>Top Free FLV Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-m14-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy M14 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-stability-achieved/"><u>Win11 Screen Stability Achieved</u></a></li>
 </ul></div>
 

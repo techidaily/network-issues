@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete Guide: Eliminating Lag and Lowering Ping for an Optimal VALORANT Experience"
-date: 2024-09-29T20:00:28.347Z
-updated: 2024-10-01T05:52:58.616Z
+date: 2024-10-05T20:47:55.740Z
+updated: 2024-10-06T19:36:10.066Z
 tags:
   - win11
   - win10
@@ -38,15 +38,23 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
 1. Unplug both your**router** and**modem** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/netgear-modem.jpg)  
 modem  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/wireless-router.jpg)  
 wireless router
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Wait**60 seconds** and plug them back in. Make sure the indicator lights are back to their normal state.
@@ -64,13 +72,6 @@ You should also make sure the cable is not broken.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/wired-connection.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, if you don’t have the option of shifting connection, you can check out the next fix below.
 
 ##  Fix 3: Close bandwidth-hogging programs
@@ -84,13 +85,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-update-bandwidth-hogging.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When it’s done, open Valorant and see if this solves your high ping issue. If you continue to experience this problem, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -121,10 +129,10 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
@@ -143,13 +151,6 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/control-panel-view-by-category-network-change-dns.jpg)
 3. Click **Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-control-adapter-settings-dns-3.jpg)
 4. **Right-click** your current network and select **Properties** .  
 
@@ -159,8 +160,29 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-14_16-37-58-1.jpg)
 6. Select **Use the following DNS server addresses** :. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-dns-server-click-5.jpg)  
  8.8.8.8 and 8.8.4.4 are the most popular DNS servers maintained by Google.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. For the changes to take effect, you need to flush the DNS cache. On your taskbar, type**cmd** in the search box. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 8. In the pop-up window, type in**ipconfig /flushdns** . Press**Enter** .  
@@ -183,13 +205,6 @@ To check for Windows updates, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -200,20 +215,13 @@ To check for Windows updates, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve completed this process, open Valorant and see if the ping spikes reappear. If yes, there’s still one last fix you can try.
@@ -253,24 +261,19 @@ Here are some VPN providers we recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-master-your-craft-best-drawing-tools-on-the-chromebook-spectrum/"><u>[New] 2024 Approved Master Your Craft Best Drawing Tools on the Chromebook Spectrum</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-intense-review-the-gecata-game-watcher-for-2024/"><u>[New] Intense Review The Gecata Game Watcher for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-subtitle-tactics-for-instagrams-video-feed/"><u>[Updated] 2024 Approved Subtitle Tactics for Instagram's Video Feed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>[Updated] Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tlessly-transform-youtube-tunes-to-mp3-with-mac/"><u>Effortlessly Transform YouTube Tunes to MP3 with Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-effortlessly-access-safe-mode-on-windows-for-drivers-replacement/"><u>How To Effortlessly Access Safe Mode on Windows for Drivers Replacement</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/identifying-and-solving-asus-video-compatibility/"><u>Identifying and Solving Asus Video Compatibility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-29-visionary-metaverse-projects-elucidating-potentialities/"><u>In 2024, 29 Visionary Metaverse Projects Elucidating Potentialities</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-5-multimedia-sensation-apps-iphoneandroid-showdown/"><u>In 2024, Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/local-print-service-on-hold-investigate-now/"><u>Local Print Service On Hold, Investigate Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lost-access-retrieve-your-fb-account-securely-no-emailphone-needed/"><u>Lost Access? Retrieve Your FB Account Securely, No Email/Phone Needed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-glitch-in-windows-11/"><u>Overcoming Nvidia/Intel Graphics Glitch in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-vertical-display-flip/"><u>Resolving Vertical Display Flip</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-windows-10-whiteout-after-cu/"><u>Reversing Windows 10 Whiteout After CU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalize-your-experience-fixing-win11-flicker/"><u>Revitalize Your Experience: Fixing Win11 Flicker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-2023s-best-mobile-emulators-top-choices-for-your-classic-psp-adventures/"><u>2024 Approved 2023'S Best Mobile Emulators Top Choices for Your Classic PSP Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-masterful-methods-for-keeping-track-of-messenger-communications/"><u>2024 Approved Masterful Methods for Keeping Track of Messenger Communications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blackout-issue-after-graphics-card-update/"><u>Blackout Issue After Graphics Card Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defining-4k-ultra-high-definition/"><u>Defining 4K Ultra High Definition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropped-offline-the-internets-lament/"><u>Dropped Offline: The Internet's Lament</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enthralling-3d-experience-selecting-top-blu-ray-decks/"><u>Enthralling 3D Experience Selecting Top Blu-Ray Decks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-a-non-launching-city-skylines-2-expert-tips-and-tricks/"><u>Fixing a Non-Launching City Skylines 2 - Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freelancers-dilemma-choosing-between-bing-chat-and-chatgpt-top-8-deciding-factors/"><u>Freelancer's Dilemma: Choosing Between Bing Chat & ChatGPT – Top 8 Deciding Factors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games/"><u>In 2024, Ideal iOS Options The Finest Selector of Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-direct3d-initialization-failure/"><u>Overcoming Direct3D Initialization Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974836333-swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-wav-sound-files-into-high-quality-m4a-with-these-5-effective-strategies/"><u>Transforming WAV Sound Files Into High-Quality M4A with These 5 Effective Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-techniques-in-windows-accessing-safe-mode-and-graphics-driver-purge/"><u>Troubleshooting Techniques in Windows: Accessing Safe Mode & Graphics Driver Purge</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide-for-2024/"><u>Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide for 2024</u></a></li>
 </ul></div>
 

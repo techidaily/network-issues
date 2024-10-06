@@ -1,7 +1,7 @@
 ---
 title: Solving Faded Screen Brightness on Lenovo Laptops
-date: 2024-08-15T07:58:08.357Z
-updated: 2024-08-16T07:58:08.357Z
+date: 2024-10-03T17:31:49.250Z
+updated: 2024-10-06T20:33:59.733Z
 tags:
   - win11
   - win10
@@ -47,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -60,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -71,29 +79,31 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 **a)**  Press the**Win** and**R** keys on your keyboard at the same time to open the**Run** dialog. Then type “_**regedit**_ ” and hit**Enter** . This will open Registry Editor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -108,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,8 +125,17 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-elite-4-covert-content-retrievers-for-2024/"><u>[Updated] Elite 4 Covert Content Retrievers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-comprehensive-laptop-screenrec-users-handbook/"><u>2024 Approved The Comprehensive Laptop ScreenRec User's Handbook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/empty-vram-no-graphic-support/"><u>Empty VRAM, No Graphic Support</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>In 2024, Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-hidden-behind-tv-shutout/"><u>Laptop Screen Hidden Behind TV Shutout</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones-for-2024/"><u>Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-5-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 5 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-cure-amd-tarkov-glitches/"><u>Swift Cure: AMD Tarkov Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-apex-legends-anti-cheat-error-quickly-and-effectively/"><u>Troubleshooting Guide: Resolving Apex Legends' Anti-Cheat Error Quickly and Effectively</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-shrink-excessive-desktop-size/"><u>Windows 11: Shrink Excessive Desktop Size</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Troubleshoot Ignored NVIDIA/AMD Card
-date: 2024-09-28T14:09:51.538Z
-updated: 2024-10-01T13:27:04.106Z
+date: 2024-09-30T22:01:53.277Z
+updated: 2024-10-06T20:47:16.235Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Add your GPU as a legacy device
 
  When your computer does not detect your GPU, you can try to add it back as a legacy device to see if it helps. To do so:
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
@@ -59,34 +59,49 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the GPU is added back, do the following to update its driver in Device Manager:
 
 1. Double-click the expand**Display adapters** , then right-click the**Microsoft Remote Display Adapter** that you just added back and select**Update device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-14.png)
 2. Click**Search automatically for drivers** , Windows will then initiate a search online for the latest driver update. Follow any additional instructions provided during the driver update process.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-15.png)
 3. When the driver update is done, restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If no driver update is found by Windows for you, please move on to the next step to update the GPU driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update the GPU driver
 
  There are mainly 2 ways you can update your GPU driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -112,6 +127,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -152,21 +174,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -175,10 +183,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Make sure your GPU is correctly seated
@@ -192,28 +200,22 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select**Performance** (the second icon).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-16.png)
 4. If the**GPU** option is available, you should see the information about your computer’s GPU on the right side panel.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-18.png)
 5. When you can see such information, your GPU should be correctly seated.
 
  But there are still possbilities that your GPU can be detected by your computer but is not correctly seated, so you may also want to check your computer case to make sure that your GPU is not lossen or wrongly inserted into the PCIe slots.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final thoughts
 
@@ -241,22 +243,16 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-scripting-journalisms-closing-statements/"><u>[New] 2024 Approved Scripting Journalism's Closing Statements</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb/"><u>[New] In 2024, Decoding Inverse Image Retrieval for Social Networks, Focusing on FB</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/astering-the-market-essential-youtube-finance-channels/"><u>[New] Mastering the Market Essential YouTube Finance Channels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-guide-to-use-luts-in-premiere-pro/"><u>[Updated] Guide to Use LUTs in Premiere Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-start-with-snapseed-a-foundation-for-image-editing/"><u>[Updated] Start with Snapseed A Foundation for Image Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>2024 Approved Prime Picks Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-gpu-restoration-with-armor-feature/"><u>AMD GPU Restoration with Armor Feature</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ease-up-on-latency-issues-roblox-playing/"><u>Ease Up on Latency Issues - Roblox Playing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-alert-by-device-over-nvidia-windows-stopped-fixed/"><u>Error Alert by Device Over Nvidia, Windows Stopped Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guaranteeing-smooth-play-resolving-civ-5-crashes/"><u>Guaranteeing Smooth Play: Resolving Civ 5 Crashes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/immortalizing-sportsmanship-techniques-for-gameplay-videos-for-2024/"><u>Immortalizing Sportsmanship Techniques for Gameplay Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-rtx-2060-super-drivers-update-for-windows-11-systems-get-them-now/"><u>Latest Nvidia RTX 2060 Super Drivers Update for Windows 11 Systems - Get Them Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blank-gpu-not-detected-2020/"><u>Screen Blank: GPU Not Detected 2020</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-windows-8-drivers-removal-via-safe-mode-rehearsal/"><u>Step-By-Step Windows 8 Drivers Removal via Safe Mode Rehearsal</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-saving-of-visuals-and-layouts/"><u>Successful Saving of Visuals & Layouts</u></a></li>
-<li><a href="https://solve-news.techidaily.com/topo-12-melhores-plugins-de-gravacao-de-tela-para-o-navegador-chrome/"><u>Topo 12 Melhores Plugins De Gravação De Tela Para O Navegador Chrome</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visual-aid-issue-cleared/"><u>Visual Aid: Issue Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-x-server-conflict-resolution/"><u>[Resolved] X Server Conflict Resolution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-art-of-hdr-photography-on-iphone/"><u>[Updated] Unveiling the Art of HDR Photography on iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-se-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone SE in Lost Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-update-microsofts-enhancements-across-windows/"><u>BDR Update: Microsoft's Enhancements Across Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flip-screen-resolution-rightside-up/"><u>Flip Screen Resolution Rightside Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-win-os-graphics-device-link/"><u>Repaired Failed Win-OS Graphics Device Link</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-enabling-hosted-mode-wireless-access-points-on-windows-10-devices/"><u>Solutions for Enabling Hosted Mode Wireless Access Points on Windows 10 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-intel-and-nvidia-switchable-graphics-glitch-on-windows-10/"><u>Solving Intel & Nvidia Switchable Graphics Glitch on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-windows-task-scheduler-issues-quickly/"><u>Unblock Windows Task Scheduler Issues Quickly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unheard-film-footage-appraisal-and-parallel-projects/"><u>Unheard Film Footage Appraisal and Parallel Projects</u></a></li>
 </ul></div>
 

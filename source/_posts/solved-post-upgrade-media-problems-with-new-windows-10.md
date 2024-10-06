@@ -1,7 +1,7 @@
 ---
 title: Solved Post-Upgrade Media Problems with New Windows 10
-date: 2024-08-15T07:59:30.930Z
-updated: 2024-08-16T07:59:30.930Z
+date: 2024-10-01T18:06:51.421Z
+updated: 2024-10-06T19:09:50.101Z
 tags:
   - win11
   - win10
@@ -38,8 +38,12 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **2: Disable Hardware Acceleration**
 
  In some cases, disabling hardware acceleration and restart your browser later helps to fix such a problem.
@@ -47,18 +51,26 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 `` 1) Right-click the**Flash video** that you are watching, and click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Update Graphics Driver**
 
@@ -77,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6936efa.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics card device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -88,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6f9c972.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
 ``
 
@@ -123,8 +129,12 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/clear-browsing-data.png)
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``The settings are similar in other browsers, you might need to do this with all the browsers that you have.
@@ -136,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,8 +153,21 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-achieving-maximum-comfort-in-vr-landscape/"><u>[New] Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>[New] Capture Dynamic Artistry Top 9 Tools for Perfect Windows GIFs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-optimize-your-screen-sessions-with-obs-and-skype/"><u>[New] In 2024, Optimize Your Screen Sessions with OBS & Skype</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-quality-in-ppt-recordings/"><u>[New] Maximizing Quality in PPT Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-free-to-use-tools-for-transcribing-digital-conferences/"><u>[Updated] In 2024, Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-backwards-orientation-in-screen/"><u>Correcting Backwards Orientation in Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-monitor-post-driver-update/"><u>Darkened Monitor Post-Driver Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-clean-up-your-pcs-graphics-driver-cache/"><u>How to Clean Up Your PC's Graphics Driver Cache</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-smooth-video-experience-after-win11s-launch/"><u>Mastering Smooth Video Experience After Win11's Launch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-video-driver-setbacks-in-minecraft-on-pc/"><u>Overcoming Video Driver Setbacks in Minecraft on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-for-higher-frame-rates-in-cs-go/"><u>Ultimate Guide for Higher Frame Rates in CS GO</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-black-lcd-mysteries/"><u>Unraveling Black LCD Mysteries</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-lava-yuva-3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Yuva 3 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminating HP LCD Flashes
-date: 2024-08-15T07:57:06.010Z
-updated: 2024-08-16T07:57:06.010Z
+date: 2024-10-01T20:37:05.610Z
+updated: 2024-10-06T18:48:38.222Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop screen flickering issue by ruling out the physical factors.
@@ -45,8 +42,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your display driver
 
  This problem may occur if you are using the wrong display driver or it’s out of date. So you should update your display driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -65,6 +66,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -74,8 +82,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Change the screen refresh rate
 
  The screen refresh rate is the frequency with which the image on your laptop screen is refreshed. If it’s set on a wrong rate, it may cause the screen flickering or blinking problem. So you can check the current screen refresh rate, experiment with the possible rates to see if there is one more suitable to your screen.
@@ -91,9 +103,6 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
@@ -106,13 +115,17 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -126,9 +139,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -147,8 +157,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,8 +164,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-fascinating-vlog-dialogue-structure/"><u>[New] Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-innovate-with-spinning-images-iphone-filming-tactics-for-2024/"><u>[Updated] Innovate with Spinning Images IPhone Filming Tactics for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>In 2024, Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-speed-control-interface-on-snapchat/"><u>In 2024, Navigating The Speed Control Interface on Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spectacularly-in-3d-apt-selection-of-top-decks/"><u>In 2024, Spectacularly in 3D Apt Selection of Top Decks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-woes-blacked-out-screens/"><u>New Tech Woes: Blacked-Out Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-invisible-gpu-adapter-errors/"><u>Overcome Invisible GPU Adapter Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-firmware-update-successful-atheros-compatibility/"><u>Qualcomm's Win11 Firmware Update: Successful Atheros Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/racing-against-lag-easy-fixes/"><u>Racing Against Lag: Easy Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-touchscreen-after-troubleshooting/"><u>Rejuvenated Lenovo Touchscreen After Troubleshooting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoreclipai-intelligent-video-recovery/"><u>RestoreClipAI: Intelligent Video Recovery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-backside-view-issue-in-windows-7/"><u>Solving Backside View Issue in Windows 7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sonic-immersion-for-static-snapshots/"><u>Sonic Immersion for Static Snapshots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722774479882-the-best-rated-high-capacity-battery-for-travelers-and-professionals-with-the-unicharger-maxprotect-design/"><u>The Best Rated High Capacity Battery for Travelers and Professionals with the UniCharger MaxProtect Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uncover-stealthy-screen-drop/"><u>Uncover Stealthy Screen Drop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-nature-of-4k-uhd-images/"><u>Unveiling the Nature of 4K UHD Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-radeon-hd-6950-drivers-enhanced-version-out/"><u>Win11 Radeon HD 6950 Drivers Enhanced Version Out</u></a></li>
+</ul></div>
 

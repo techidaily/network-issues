@@ -1,7 +1,7 @@
 ---
 title: Light Up Dark Screens on Lenovo Notebooks
-date: 2024-09-27T09:22:32.729Z
-updated: 2024-09-30T17:38:46.212Z
+date: 2024-09-29T20:31:50.207Z
+updated: 2024-10-06T21:25:10.081Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/7d541f24f083a78654b60cdafb0ff977b1be425e9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Hard reset your Lenovo laptop
 
  Peripheral devices that are connected to your Lenovo laptop could also be the cause of the black screen issue. If this is the case for you, you may notice that the dots are spinning during the boot-up process. So you should perform a hard reset on your Lenovo laptop to narrow down the possibilities.
@@ -64,10 +71,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -87,10 +94,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -119,13 +126,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -137,10 +137,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
@@ -151,29 +151,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
  Still got a black screen? Please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
 
@@ -186,6 +179,13 @@ So you can try disabling fast startup to see if it does the trick:
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
@@ -221,18 +221,14 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-deciphering-screen-recorders-bandicam-or-camtasia/"><u>[Updated] Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2023-win10-2024/"><u>2023 Win10最佳無償記憶軟件集 [2024新版]</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-popular-tools-to-help-you-distort-audio-for-2024/"><u>5 Popular Tools to Help You Distort Audio for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-graphics-driver-elimination-from-windows/"><u>Effortless Graphics Driver Elimination From WIndows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/freed-upfront-to-vr-headset-settings/"><u>Freed Upfront to VR Headset Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-14-pro-max-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 14 Pro Max Screen | Stellar</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/narrative-power-in-marketing-20-must-use-phrases-for-2024/"><u>Narrative Power in Marketing 20 Must-Use Phrases for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/personalize-and-edit-iphone-ringtones-easily-for-2024/"><u>Personalize & Edit iPhone Ringtones Easily for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quickening-wi-fi-upgrading-win1110-performance/"><u>Quickening Wi-Fi: Upgrading WIN11/10 Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refusing-to-flicker-screen-failure/"><u>Refusing to Flicker: Screen Failure</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-remediation-tips-standby-gfx-with-nvidia/"><u>Simple Remediation Tips: Standby GFX with NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974891586-update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-compatible-newest-drivers-and-update-instructions-for-the-nvidia-geforce-mx150/"><u>Windows Compatible: Newest Drivers & Update Instructions for the Nvidia GeForce MX150</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-paying-creator-status-on-youtube/"><u>[Updated] 2024 Approved High-Paying Creator Status on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-streaming-devices-an-in-depth-look/"><u>Decoding Streaming Devices: An In-Depth Look</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-to-correct-laptop-screen-horizontal-distortions/"><u>Expert Tips to Correct Laptop Screen Horizontal Distortions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/legally-accessing-government-election-coverage-on-demand-for-2024/"><u>Legally Accessing Government Election Coverage on Demand for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
+<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-voice-assistant-feature-in-your-samsung-television-setup/"><u>Turning Off Voice Assistant Feature in Your Samsung Television Setup</u></a></li>
 </ul></div>
 

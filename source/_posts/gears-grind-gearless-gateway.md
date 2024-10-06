@@ -1,7 +1,7 @@
 ---
 title: Gears Grind Gearless Gateway
-date: 2024-09-29T09:09:21.871Z
-updated: 2024-10-01T13:47:43.613Z
+date: 2024-10-02T16:42:49.537Z
+updated: 2024-10-06T18:30:32.170Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the server status
 
  To narrow down the source of the problem, the first thing you need to do is to check the [Epic Games status page](https://status.epicgames.com/) .
@@ -46,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  If there are known server issues going on, they are usually visible on the page. If the problem is not from the server’s end, try the fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Use a wired connection
 
@@ -84,16 +84,16 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -111,6 +111,13 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -127,17 +134,55 @@ Here we recommend using Google DNS:
 8. Click the Internet connection you’re using, then select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
+
+ For **Preferred DNS server** , type **8.8.8.8**  
+ For **Alternate DNS server** , type **8.8.4.4**  
+
+ Check the box next to **Validate settings upon exit**  and then click **OK** .  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now resume your download and check if your problem is solved. If not, try the next fix below.
+
+---
+
+## 6\. Edit your Engine.ini file
+
+ Players report editing some settings in the Engine.ini file can result in better download speeds. So you can give it a shot.
+
+Here’s how to do this:
+
+1. On your keyboard, press the**Windows logo key + R** at the same time to open the Run dialog box. Type**%localappdata%** and press**Enter** .  
+![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
+2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
+
+3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
+![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
+4. Copy and paste the following lines:
 
 <!-- affiliate ads begin -->
 <span id="1975503">
@@ -151,50 +196,6 @@ Here we recommend using Google DNS:
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
- For **Preferred DNS server** , type **8.8.8.8**  
- For **Alternate DNS server** , type **8.8.4.4**  
-
- Check the box next to **Validate settings upon exit**  and then click **OK** .  
-![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
-
- Now resume your download and check if your problem is solved. If not, try the next fix below.
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 6\. Edit your Engine.ini file
-
- Players report editing some settings in the Engine.ini file can result in better download speeds. So you can give it a shot.
-
-Here’s how to do this:
-
-1. On your keyboard, press the**Windows logo key + R** at the same time to open the Run dialog box. Type**%localappdata%** and press**Enter** .  
-![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
-2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
-![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
-4. Copy and paste the following lines:
 
 **[HTTP]**
 **HttpTimeout=10**
@@ -215,6 +216,13 @@ When it’s all done, resume your download and it should be faster.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Set the throttle speed to Unlimited
 
  Setting the default throttle speed in Epic Games Launcher also helps to pick up the download speed. To do so:
@@ -225,13 +233,6 @@ When it’s all done, resume your download and it should be faster.
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Try downloading your games again.
 
@@ -245,19 +246,6 @@ When it’s all done, resume your download and it should be faster.
  2) At checkout, enter the creator tag **`DRIVEREASY`** . Your support is much appreciated!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -274,22 +262,20 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-high-res-screens-for-playstation-5/"><u>[New] Top 5 High-Res Screens for PlayStation 5</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-trending-threads-triumph-top-twitters/"><u>[Updated] In 2024, Trending Threads Triumph Top Twitters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-superior-streams-with-av1-activate-on-youtube/"><u>[Updated] Superior Streams with AV1 Activate on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-toolkit-for-youtube-marketers-banner-mastery-guide/"><u>[Updated] The Ultimate Toolkit for YouTube Marketers Banner Mastery Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-image-blurriness-for-better-far-cry-play/"><u>Correcting Image Blurriness for Better Far Cry Play</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-tips-to-solve-video-hiccups-on-upgraded-pcs/"><u>Expert Tips to Solve Video Hiccups on Upgraded PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fallout-4s-crash-defeated-on-pc/"><u>Fallout 4'S Crash, Defeated on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-rtx210-gains-traction-on-enhanced-windows-11-interface/"><u>GeForce RTX210 Gains Traction on Enhanced Windows 11 Interface</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-driver-crash-averted-now-working-fine/"><u>GPU Driver Crash Averted, Now Working Fine</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/mastering-the-macs-hidden-photo-editor-a-guide-to-using-preview/"><u>Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcame-wins-graphic-configuration-hurdle/"><u>Overcame Win's Graphic Configuration Hurdle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-distorted-text-line-issue-in-portable-devices/"><u>Resolve Distorted Text Line Issue in Portable Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-ways-to-delete-all-previous-chats-from-the-chatgpt-platform/"><u>Secure Ways to Delete All Previous Chats From the ChatGPT Platform</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>Updated In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-display-glitch-resolved/"><u>Windows 10 Display Glitch: Resolved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-capturing-whatsapp-call-data-a-compreayers-guide/"><u>[New] In 2024, Capturing WhatsApp Call Data A Compreayer's Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators/"><u>[Updated] Gain an Edge in Views with These 5 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-remove-images-background-in-canva-for-2024/"><u>[Updated] How to Remove Image's Background In Canva for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-screens-horizontal-boundaries/"><u>Balance Screen's Horizontal Boundaries</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-optimization-across-windows-versions-1087/"><u>BDR Optimization Across Windows Versions 10/8/7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/boost-your-system-with-a-windows-10-pro-transition/"><u>Boost Your System with a Windows 10 Pro Transition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-back-screen-color-fall-update-fix/"><u>Bringing Back Screen Color: Fall Update Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-revolution-nvidias-latest-driver-upgrade-for-win10/"><u>Gaming Revolution: Nvidia's Latest Driver Upgrade for Win10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s17t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S17t Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 6</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gfx-210-driver-enhancement-on-w10-os/"><u>NVIDIA GFX-210 Driver Enhancement on W10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-qca61x4-windows-10-integration-success/"><u>Qualcomm QCA61x4 Windows 10 Integration Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-cpugpu-fan-synchronization/"><u>Strategies for CPU/GPU Fan Synchronization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-macos-11-big-sur-transition-tips-for-2024/"><u>Understanding macOS 11 Big Sur Transition Tips for 2024</u></a></li>
 </ul></div>
 

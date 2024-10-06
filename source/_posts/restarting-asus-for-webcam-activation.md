@@ -1,7 +1,7 @@
 ---
 title: Restarting Asus for Webcam Activation
-date: 2024-08-15T08:00:10.097Z
-updated: 2024-08-16T08:00:10.097Z
+date: 2024-09-29T20:45:54.545Z
+updated: 2024-10-06T19:15:50.061Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/3a6450d38ce892c7535205c29733ff7dff27b71eb
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Press the hotkey to enable the camera
 
  Prior to troubleshooting steps, you can try enabling your Asus camera by pressing the**Fn + F10** at the same time. Check if there’s a “**Camera On** ” message on the desktop.
@@ -45,20 +52,28 @@ thumbnail: https://thmb.techidaily.com/3a6450d38ce892c7535205c29733ff7dff27b71eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3\. Update the webcam driver
 
  If the system settings are not blocking your camera, the main reason why your Asus camera is not working is an outdated/faulty webcam driver.
@@ -72,28 +87,26 @@ thumbnail: https://thmb.techidaily.com/3a6450d38ce892c7535205c29733ff7dff27b71eb
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 After updating your drivers, restart your PC and test the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4\. Reinstall the camera driver
 
  Under some circumstances, your camera may still act up after the related driver is up to date. To fix the issue quickly, you can launch Driver Easy, and click**Uninstall driver** next to your webcam driver, and restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
@@ -108,9 +121,6 @@ After updating your drivers, restart your PC and test the camera.
  3) Right-click **Integrated Camera** and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
 
@@ -130,8 +140,6 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +147,26 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-resolved-windows-no-amd-driver-found/"><u>[CORRECTED] Resolved Windows: No AMD Driver Found</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sharpen-your-photos-pro-tips-for-lunapic-users/"><u>[New] Sharpen Your Photos Pro Tips for LunaPic Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>2024 Approved The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertissage-gratuit-en-ligne-de-fichiers-wma-en-format-avi-movavi/"><u>Convertissage Gratuit en Ligne De Fichiers WMA en Format AVI - Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-freezing-screen-in-win10-os/"><u>Cure Freezing Screen in Win10 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-rich-communication-services-rcs-in-texting-technology/"><u>Demystifying Rich Communication Services (RCS) in Texting Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-the-cause-behind-no-wi-fi-in-windows-11/"><u>Discover the Cause Behind No Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-an-inside-look/"><u>Elden Ring Release Delayed: An Inside Look</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-issue-windows-10-monitors-not-showing-all-windows/"><u>Eliminated Issue - Windows 10 Monitors Not Showing All Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-friendships-through-shared-musical-experiences-on-spotify/"><u>Enhancing Friendships Through Shared Musical Experiences on Spotify</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expand-screen-real-estate-with-wins11-pro/"><u>Expand Screen Real Estate with Wins11 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-anomaly-resolved-in-display-driver-fix/"><u>GPU Anomaly Resolved in Display Driver Fix</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-device-problem-reported-by-nvidia-halted-win/"><u>Overcome: Device Problem Reported by Nvidia Halted Win</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-inconsistent-monitor-behavior/"><u>Overcoming Inconsistent Monitor Behavior</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/screen-partnerships-and-talent-licensing-for-2024/"><u>Screen Partnerships and Talent Licensing for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-rectify-ignored-graphics-card-detection/"><u>Strategies to Rectify Ignored Graphics Card Detection</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+</ul></div>
 

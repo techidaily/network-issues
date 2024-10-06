@@ -1,7 +1,7 @@
 ---
 title: Resolved Error #22, Graphics Driver
-date: 2024-08-15T07:57:21.245Z
-updated: 2024-08-16T07:57:21.245Z
+date: 2024-10-04T21:56:35.667Z
+updated: 2024-10-06T19:33:16.253Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 Be careful you don’t mistype, or press the wrong keys!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -55,8 +52,12 @@ Be careful you don’t mistype, or press the wrong keys!
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
@@ -64,30 +65,29 @@ Example – CMOS battery on a desktop PC
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -104,6 +104,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
@@ -119,8 +127,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +134,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-free-video-communication-apps-for-iphone-and-android-users/"><u>[New] 2024 Approved Best Free Video Communication Apps for iPhone & Android Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-obs-chronology-control-building-a-personalized-countdown-for-2024/"><u>[New] Obs Chronology Control Building a Personalized Countdown for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-decoding-windows-11-new-functionality/"><u>[Updated] Decoding Windows 11 New Functionality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[Updated] Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-resolving-no-video-issue-on-sony-a6400-device/"><u>[Updated] Resolving No-Video Issue on Sony A6400 Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-home-movie-experience-starter-pack-ideas/"><u>Affordable Home Movie Experience Starter Pack Ideas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-enhances-radeon-hd-6950-graphics-for-windows-11-with-new-driver-rollout/"><u>AMD Enhances Radeon HD 6950 Graphics for Windows 11 with New Driver Rollout</u></a></li>
+<li><a href="https://windows11.techidaily.com/broken-binkey-bastion-proceed-prudently-not-promptly/"><u>Broken Binkey Bastion: Proceed Prudently, Not Promptly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-compatibility-issues-nvidiaintel-switchable-fixes-on-win10/"><u>Conquering Compatibility Issues: NVIDIA/Intel Switchable Fixes on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/countering-hp-lcd-backlight-variability/"><u>Countering HP LCD Backlight Variability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-intermittent-windows-display-flashes/"><u>Ending Intermittent Windows Display Flashes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exclusive-endorsements-premier-portals-for-procuring-snapalert-rhythms/"><u>In 2024, Exclusive Endorsements Premier Portals for Procuring SnapAlert Rhythms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-hidden-reasons-behind-imovies-cuts/"><u>In 2024, The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-the-art-of-display-latency-reduction/"><u>Master the Art of Display Latency Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-or-minimize-windows-11-taskbar/"><u>Maximize or Minimize Windows 11 Taskbar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-image-flip-for-windows-10-users/"><u>Resolving Backward Image Flip for Windows 10 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-your-windows-experience-via-intel-graphic-update/"><u>Streamline Your Windows Experience via Intel Graphic Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/syncing-intel-and-nvidia-gpus-problem-resolved-on-win11/"><u>Syncing Intel & Nvidia GPUs - Problem Resolved on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-persistent-asus-webcam-failures/"><u>Troubleshooting Persistent Asus Webcam Failures</u></a></li>
+</ul></div>
 

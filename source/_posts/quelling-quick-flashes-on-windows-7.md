@@ -1,7 +1,7 @@
 ---
 title: Quelling Quick Flashes on Windows 7
-date: 2024-09-26T23:33:21.892Z
-updated: 2024-10-01T08:22:17.611Z
+date: 2024-10-02T18:48:45.585Z
+updated: 2024-10-06T17:13:37.153Z
 tags:
   - win11
   - win10
@@ -43,15 +43,16 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
-4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
+4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
 
@@ -76,16 +77,22 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -99,26 +106,34 @@ To troubleshoot these hardware issues:
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
-4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
+4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
@@ -128,13 +143,6 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -169,17 +177,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-audiovisual-appeal-essential-tips-for-podcast-logos-for-2024/"><u>[Updated] Audiovisual Appeal Essential Tips for Podcast Logos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-vs-se-future-search-landscape/"><u>AI vs SE: Future Search Landscape?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-zte-axon-40-lite-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your ZTE Axon 40 Lite Is Unlocked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-instantly-access-all-episodes-premium-downloader-tools-reviewed/"><u>In 2024, Instantly Access All Episodes Premium Downloader Tools Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-makeovers-picarts-backdrop-banishment-guide/"><u>In 2024, Masterful Makeovers PicArt’s Backdrop Banishment Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/jumpstart-your-stationary-machine-fix-canon-printer-offline/"><u>Jumpstart Your Stationary Machine: Fix Canon Printer Offline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-legal-landscape-of-ai-innovation-exploring-ownership-rights-in-machine-generated-works/"><u>Navigating the Legal Landscape of AI Innovation: Exploring Ownership Rights in Machine-Generated Works</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx-nightmare-buster-your-gaming-rescue-plan/"><u>RTX Nightmare Buster - Your Gaming Rescue Plan</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-non-spinning-gpu-fan-issues/"><u>Tackling Non-Spinning GPU Fan Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-asus-rog-phone-7-ultimate-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Asus ROG Phone 7 Ultimate Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unblocking-windows-11-post-creators-fix/"><u>Unblocking Windows 11 Post-Creators Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-the-secret-to-smooth-graphic-switching-in-windows-11/"><u>Unveiling the Secret to Smooth Graphic Switching in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-essential-guide-for-diy-gif-makers-youtube-to-visual-storytelling/"><u>[New] The Essential Guide for DIY GIF Makers YouTube to Visual Storytelling</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-disrupted-tunes-the-best-audio-rippers/"><u>[Updated] 2024 Approved Disrupted Tunes The Best Audio Rippers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-all-in-one-screen-capture-az-insights-and-alternatives-for-2024/"><u>[Updated] All-in-One Screen Capture - AZ Insights & Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>[Updated] Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973273523-bluetooth-connectivity-for-evo-devices-secure-drivers-here/"><u>Bluetooth Connectivity for EvO Devices – Secure Drivers Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-screen-flashing-issue-on-win11-resolved/"><u>Clear: Screen Flashing Issue on Win11 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-monitor-refresh-rate-glitches/"><u>Combat Monitor Refresh Rate Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initiation-hiccup-fixed-now/"><u>Direct3D Initiation Hiccup, Fixed Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispel-sims-4-no-signage-mistakes/"><u>Dispel Sims 4 No-Signage Mistakes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-momo-steering-wheel-gamepad-for-windows-pc/"><u>Download Logitech MOMO Steering Wheel Gamepad for Windows PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-implement-wi-fi-expansion-device-for-computer-systems/"><u>Effortlessly Implement Wi-Fi Expansion Device for Computer Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/experience-vivid-graphics-with-a-simple-update-to-intel-hd-graphics-3000/"><u>Experience Vivid Graphics with a Simple Update to Intel HD Graphics 3000</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-insufficient-specs-a-driver-installation-guide/"><u>Navigating Insufficient Specs: A Driver Installation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/network-interface-misplaced-finding-wireless-adapter-in-windows-10/"><u>Network Interface Misplaced: Finding Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy S23 Tactical Edition</u></a></li>
 </ul></div>
 

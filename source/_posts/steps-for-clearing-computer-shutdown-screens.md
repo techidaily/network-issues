@@ -1,7 +1,7 @@
 ---
 title: Steps for Clearing Computer Shutdown Screens
-date: 2024-09-26T18:07:33.067Z
-updated: 2024-09-30T16:33:24.854Z
+date: 2024-10-04T19:31:55.529Z
+updated: 2024-10-06T18:06:42.609Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Laptop memory
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
@@ -84,6 +77,13 @@ If none of the methods above could help you, your issue may be a hardware proble
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restore your system from a restore point
 
 Once your laptop recovers, you can restore your Windows from a system restore point. This can prevent your computer from getting issues resulting from the previous changes you have made. _Note that you can restore your system only when you have previously created a restore point._To restore your operating system:**1)**Click the**Start**button in the bottom left corner of your screen. Then type “_**restore**_“.**2)**Open the System Restore wizard from the list of result. _The process is different depending on the operating system you use, and you will see from the following the different steps on Windows 7 and Windows 10._On Windows 7, just click**System Restore**in the search result:
@@ -91,30 +91,37 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Update your device driver
 
@@ -122,28 +129,15 @@ You may get various hardware issues (not just this black screen one) if your dev
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b1606c48.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can download and install your drivers by using either Free or [**Pro** **version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes only**2** clicks (and you get**full support**and a**30-day money back guarantee**).
@@ -166,20 +160,16 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-video-driver-fixes-acknowledged/"><u>[Resolved] Video Driver Fixes Acknowledged</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-building-captivating-instagram-feed-layouts/"><u>[Updated] 2024 Approved Building Captivating Instagram Feed Layouts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-editors-treasure-trove-curated-list-of-iconic-80s-vhs-hacks-for-editing/"><u>[Updated] The Editor's Treasure Trove Curated List of Iconic 80S VHS Hacks for Editing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-chromebooks-ultimate-sniping-software-our-5-favorites/"><u>2024 Approved Chromebook's Ultimate Sniping Software Our 5 Favorites</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amend-unseen-display-unit-errors/"><u>Amend Unseen Display Unit Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-erratic-screen-behavior-pro-7/"><u>Banishing Erratic Screen Behavior (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-the-undetermined-dx-fault-in-lol/"><u>Demystifying the Undetermined DX Fault in LoL</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-t2x-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo T2x 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-recognition-troubleshooting/"><u>GPU Recognition Troubleshooting</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-6-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 6? Find the Best Solution Here</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/masterful-post-placement-to-surge-video-views-for-2024/"><u>Masterful Post Placement to Surge Video Views for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reconnecting-lost-asus-webcam/"><u>Reconnecting Lost Asus Webcam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-anthem-lags-quick-solutions/"><u>Tackling Anthem Lags: Quick Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-essential-guide-to-mac-screen-recording-with-shortcuts-for-2024/"><u>The Essential Guide to Mac Screen Recording with Shortcuts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mirthful-methodology-making-memes-for-free/"><u>[New] 2024 Approved Mirthful Methodology Making Memes for Free</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-personalization-updating-user-status-and-images-in-discord/"><u>[Updated] 2024 Approved Unveiling Personalization Updating User Status and Images in Discord</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-basics-of-youtube-compliance-guidelines-for-2024/"><u>[Updated] The Basics of YouTube Compliance Guidelines for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-for-flawless-vids/"><u>Immediate Action for Flawless Vids</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-glare-irregularity-in-notebook-display/"><u>Rectified Glare Irregularity in Notebook Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-laffaire-anonyme-du-direct-x-en-lol/"><u>Solving L'Affaire Anonyme Du Direct X en LoL</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-noticing-and-acting-upon-minor-user-details-fb/"><u>Strategies: Noticing and Acting upon Minor User Details, FB</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-fix-for-sims-4-blackout/"><u>Swift Fix for Sims 4 Blackout</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nubia-red-magic-8s-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nubia Red Magic 8S Pro Phone Network-Ready</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
 </ul></div>
 

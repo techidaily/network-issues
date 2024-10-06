@@ -1,7 +1,7 @@
 ---
 title: Card Problem Solution - Error 43
-date: 2024-08-15T07:57:39.976Z
-updated: 2024-08-16T07:57:39.976Z
+date: 2024-09-30T16:51:50.786Z
+updated: 2024-10-06T21:12:48.055Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you’re using the wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,11 +48,24 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the**Graphics Device Driver Error Code 43** error has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
@@ -57,32 +77,25 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Locate and double-click on **Display adapters**  (aka. **Graphics card** , **Video card**). Then right-click on **the item** right below and click **Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
 3. Click **Uninstall**   in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. After the uninstall, right-click on**the name of your PC** and click**Scan for hardware changes** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b838add712.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b838add712.jpg)
 5. Double-click on**your graphics card** again to check if you can see “This device is working properly” on Device Manager. If yes, then congrats – you’ve fixed the problem. If it is still the same**Graphics Device Driver Error Code 43** message, please try**Fix 3** , below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b841ab4dd2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Power cycle your PC
 
  Sometimes the **Windows has stopped this device because it has reported problems (** **code 43)** issue can be fixed by **power cycling your PC** , which is mainly about shutting down your PC and then disconnecting it from the power source before you turn it back on again. To do so:
@@ -123,8 +136,6 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,8 +143,19 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/resolved-overheat-monitor-access-denied/"><u>[Resolved] Overheat Monitor Access Denied</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-roblox-lagging-on-pc-2024/"><u>[SOLVED] Roblox Lagging on PC 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-camera-shake-in-photographyvideo-what-you-need-to-know/"><u>[Updated] 2024 Approved Camera Shake In Photography/Video | What You Need to Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamline-your-channels-customized-end-screen-templates-for-2024/"><u>[Updated] Streamline Your Channels Customized End Screen Templates for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Edge 40</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-practices-for-streaming-live-cricket-events/"><u>In 2024, Prime Practices for Streaming Live Cricket Events</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Asus ROG Phone 7 Ultimate Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-diagonal-discrepancies-in-pc-monitors/"><u>Resolve Diagonal Discrepancies in PC Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-the-veiled-truth-behind-puzzling-dx-errors-in-league-of-legends/"><u>Revealing the Veiled Truth Behind Puzzling DX Errors in League of Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenfreeze-windows-graphic-system-cured/"><u>ScreenFreeze Windows Graphic System (Cured)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+</ul></div>
 

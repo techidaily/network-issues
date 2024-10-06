@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Black Screen After Fall Creators Update [Solved]
-date: 2024-08-15T07:56:53.581Z
-updated: 2024-08-16T07:56:53.581Z
+date: 2024-09-30T17:18:05.538Z
+updated: 2024-10-06T20:47:20.911Z
 tags:
   - win11
   - win10
@@ -24,40 +24,56 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 2\. Reinstall display card driver
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Update display card driver
 
 If the above method doesn’t help, you need to check if there is newer version of driver for you display card. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -66,8 +82,6 @@ If the above method doesn’t help, you need to check if there is newer version 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -75,8 +89,24 @@ If the above method doesn’t help, you need to check if there is newer version 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mobile-security-focused-the-leading-10-free-video-calling-applications/"><u>[New] Mobile Security-Focused The Leading 10 Free Video Calling Applications</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-schedule-smarter-the-art-of-youtube-content-timing/"><u>[Updated] Schedule Smarter The Art of YouTube Content Timing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-maximize-ps5-space-premier-top-10-hdds/"><u>2024 Approved Maximize PS5 Space Premier Top 10 HDDs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-c1900101-errors-when-setting-up-new-windows-11/"><u>Addressing C1900101 Errors When Setting Up New Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-troubleshoot-driver-detection-errors-cleared-in-win10/"><u>AMD Troubleshoot: Driver Detection Errors Cleared in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-graphics-issue-driver-reset-successful/"><u>Corrected Graphics Issue: Driver Reset Successful</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dramatic-lighting-in-hdr-portrait-photography/"><u>Dramatic Lighting in HDR Portrait Photography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fast-and-simple-guide-transferring-dvds-to-your-iphone-x-or-11-in-no-time/"><u>Fast & Simple Guide: Transferring DVDs to Your iPhone X or 11 in No Time</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-video-output-glitches-without-hiring-help/"><u>Fixing Video Output Glitches Without Hiring Help</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>In 2024, Boost Your Buzz Telegram Tactics for Impactful Promotion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-exclusive-iphone-filming-software-list/"><u>In 2024, Exclusive iPhone Filming Software List</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-improved-graphics-driver-for-win10s-nvidia-210/"><u>New Improved Graphics Driver for Win10's Nvidia 210</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-11-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-incompatibility-fixed-graphics-update-successful/"><u>Overwatch Incompatibility Fixed: Graphics Update Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-win7-screen-pulsation-issue/"><u>Solutions for Win7 Screen Pulsation Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-fbs-topest-latest-perks-for-2024/"><u>Unveiling FB's Topest Latest Perks for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-beginners-guide-to-video-editing-best-software-choices-for-2024/"><u>Updated Beginners Guide to Video Editing Best Software Choices for 2024</u></a></li>
+</ul></div>
 

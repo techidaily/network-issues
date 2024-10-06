@@ -1,7 +1,7 @@
 ---
 title: Horizontal Monitor Setup - Done
-date: 2024-09-28T12:48:52.784Z
-updated: 2024-10-01T05:48:45.449Z
+date: 2024-09-29T19:21:07.189Z
+updated: 2024-10-06T16:19:32.434Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -41,13 +41,6 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -59,14 +52,20 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -82,14 +81,22 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -111,18 +118,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-exodus-of-followers-instagrams-new-map/"><u>[Updated] 2024 Approved The Exodus of Followers Instagram's New Map</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-proven-methods-to-prevent-photos-app-freezes-in-windows-10-for-2024/"><u>[Updated] Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-win-customer-trust-incorporating-these-20-marketing-expressions/"><u>2024 Approved Win Customer Trust Incorporating These 20 Marketing Expressions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-screen-shutdown-in-fall-update/"><u>Clearing Screen Shutdown in Fall Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891632158-elevate-your-digital-experience-with-our-selection-of-the-best-free-email-services/"><u>Elevate Your Digital Experience with Our Selection of the Best FREE Email Services!</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-screen-sharpness-solution/"><u>Immediate Screen Sharpness Solution</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-video-polishing-with-youtube-studio-tools/"><u>In 2024, The Art of Video Polishing with YouTube Studio Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-failure-rectified-system-running-smoothly/"><u>Nvidia Failure Rectified, System Running Smoothly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-invisible-card-errors/"><u>Resolve Invisible Card Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-index-downloading-your-preferred-chime-files/"><u>Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-infinity-series-ultra-hd-single-touch-display-for-2024/"><u>[New] Infinity Series – Ultra HD, Single Touch Display for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-online-presence-with-this-all-inclusive-youtube-upload-manual-for-2024/"><u>[Updated] Elevate Your Online Presence with This All-Inclusive YouTube Upload Manual for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-influential-facebook-video-marketing/"><u>[Updated] The Art of Influential Facebook Video Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-toontime-insightful-review-and-tutorials-2024/"><u>[Updated] ToonTime Insightful Review & Tutorials 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/computer-glare-halts-solved/"><u>Computer Glare Halts - Solved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-captivating-stories-with-chatgpt-insider-secrets-uncovered/"><u>Crafting Captivating Stories with ChatGPT: Insider Secrets Uncovered</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-fixed-blue-screen-on-windows/"><u>dxgkrnl.sys Fixed: Blue Screen on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-volume-interplay-using-sony-vegas-pro-tips/"><u>Dynamic Volume Interplay Using Sony Vegas Pro Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-amd-radeon-r9-faults-on-windows-10/"><u>Fixing AMD Radeon R9 Faults on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-failed-d3d-initiation-process/"><u>Fixing Failed D3D Initiation Process</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-a2-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi Redmi A2.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-x-fold-2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo X Fold 2 Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/max-display-settings-regained-on-windows-10/"><u>Max Display Settings Regained on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-visuals-back-after-creators-release/"><u>Win10 Visuals Back After Creators' Release</u></a></li>
 </ul></div>
 

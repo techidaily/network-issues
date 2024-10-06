@@ -1,7 +1,7 @@
 ---
 title: "[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War"
-date: 2024-09-25T12:04:23.820Z
-updated: 2024-09-30T21:31:16.055Z
+date: 2024-10-05T22:24:00.546Z
+updated: 2024-10-06T19:09:01.828Z
 tags:
   - win11
   - win10
@@ -47,23 +47,9 @@ thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e
 ![Windows Defender Firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allow an app through windows defender firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Now you need to scroll down until you can find**Call of Duty: Black Ops Cold War** . And also make sure it’s ticked for Private.  
 ![allow Call of Duty Black Ops Cold War through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-the-game-through-Windows-Firewall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your game isn’t on the list and it’s not ticked for Private, it means it doesn’t have access to the internet. If that’s your case, take these steps:
 
@@ -78,13 +64,6 @@ If you are not sure where your game is installed, take these steps:
 2. Click on**GAMES** and head to**Call of Duty: BOCW** . Click on**Options > Show in Explorer** . Then you’ll be brought to your game’s installation directory.  
 
 ![call of duty black ops cold war installation directory](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** .
 
@@ -105,26 +84,25 @@ If you are not sure where your game is installed, take these steps:
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run Blizzard launcher as administrator
 
 1. Exit your launcher.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then it’ll launch in admin mode.
 
@@ -149,13 +127,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
@@ -177,32 +148,48 @@ To see if a new DNS address helps, you can follow the instructions below:
 2. Click **Yes**  to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
@@ -216,9 +203,23 @@ To see if a new DNS address helps, you can follow the instructions below:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if COD Cold War’s can’t connect to server error remains. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
 
@@ -232,6 +233,13 @@ To see if a new DNS address helps, you can follow the instructions below:
 4. Once you’re logged in, click**PROFILE** in the top right.  
 ![activision profile](https://images.drivereasy.com/wp-content/uploads/2020/11/activision-profile.jpg)
 5. If you haven’t linked with your Battle.net Account, simply click on it and follow the on-screen instructions to link your account.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
 
@@ -264,19 +272,18 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4/"><u>[New] 2024 Approved From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mini-marvels-ultimate-game-hunt-for-2024/"><u>[New] Mini Marvels' Ultimate Game Hunt for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cultivate-creativity-20plus-inspiring-youtube-concepts/"><u>[Updated] 2024 Approved Cultivate Creativity 20+ Inspiring YouTube Concepts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-complete-srt-encyclopedia-key-facts-explored/"><u>[Updated] 2024 Approved The Complete SRT Encyclopedia Key Facts Explored</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-best-compact-cameras-for-1000-or-less-4k/"><u>[Updated] In 2024, Best Compact Cameras for $1000 or Less (4K)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-ranked-4k-screen-recorders-summarized/"><u>2024 Approved Top-Ranked 4K Screen Recorders Summarized</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862843691-building-computers-made-easy-with-diy-compatible-motherboards-no-expertise-needed/"><u>Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise Needed!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crisp-image-window-purity/"><u>Crisp Image: Window Purity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-anthem-playback-handling-lag/"><u>Effortless Anthem Playback: Handling Lag</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/free-top-chromebook-recording-software-for-2024/"><u>Free Top Chromebook Recording Software for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-glitch-fix-blinking-solution/"><u>Monitor Glitch Fix: Blinking Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-blackout-after-fall-update/"><u>Overcoming Windows Blackout After Fall Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[New] Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-windows-to-default-vision/"><u>Aligning Windows to Default Vision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/curbing-window-10-size-excesses/"><u>Curbing Window 10 Size Excesses</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-smart-7-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Infinix Smart 7 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race-for-2024/"><u>Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-graphics-resolved-in-win11/"><u>Nvidia/Intel Hybrid Graphics Resolved in Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-in-motion-select-smartphones-that-enhance-videography-effortlessly/"><u>Precision in Motion Select Smartphones that Enhance Videography Effortlessly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-system-maintenance-executing-safe-mode-and-gpu-removal/"><u>Secure System Maintenance: Executing Safe Mode and GPU Removal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-communication-mastering-gmails-message-filtering-and-address-addition/"><u>Streamline Your Communication: Mastering Gmail's Message Filtering and Address Addition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-assistance-vital-developments-to-bring-to-chatgpts-extensions-shop/"><u>The Future of AI Assistance: Vital Developments to Bring to ChatGPT's Extensions Shop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/uniting-viewers-facebook-live-on-the-big-screen-for-2024/"><u>Uniting Viewers Facebook Live on the Big Screen for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-cam-connection-made-easy-get-the-right-drivers-today/"><u>USB Cam Connection Made Easy: Get the Right Drivers Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Address Windows Display Glitches
-date: 2024-08-15T07:55:01.256Z
-updated: 2024-08-16T07:55:01.256Z
+date: 2024-10-04T19:58:09.388Z
+updated: 2024-10-06T19:10:30.480Z
 tags:
   - win11
   - win10
@@ -28,15 +28,19 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -55,13 +59,14 @@ There are two fixes you can try:
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -69,8 +74,12 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
@@ -89,6 +98,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
@@ -100,14 +116,8 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
   
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
@@ -119,8 +129,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +136,23 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pro-level-snap-tech-free-from-any-delaying-hiccups-for-2024/"><u>[New] Pro-Level Snap Tech Free From Any Delaying Hiccups for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages-for-2024/"><u>[New] Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-lost-connection-to-wi-fi-on-windows-11/"><u>[REPAIRED] Lost Connection to Wi-Fi on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-6-best-youtube-to-mp3-downloader-for-android-for-2024/"><u>[Updated] FREE 6 Best YouTube to MP3 Downloader for Android for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-channel-graphics-icons-banners-and-thumbnails/"><u>[Updated] In 2024, Crafting Channel Graphics Icons, Banners & Thumbnails</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-key-elements-of-successful-youtube-channel-imagery-for-2024/"><u>[Updated] Key Elements of Successful YouTube Channel Imagery for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stream-your-spotify-hits-on-youtube-with-these-select-tools/"><u>[Updated] Stream Your Spotify Hits on YouTube with These Select Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/changing-display-in-w11-encountered-errors-resolved/"><u>Changing Display in W11 Encountered Errors [Resolved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-win11-and-geforce-7025-hardware-clash/"><u>Fixing Win11 & GeForce 7025 Hardware Clash</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-boost-your-brand-twitter-ads-guide/"><u>In 2024, Boost Your Brand Twitter Ads Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-fb-groups-the-power-of-channels/"><u>Navigating FB Groups: The Power of Channels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-graphics-disablement-overcome/"><u>Nvidia Graphics Disablement Overcome</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rendering-armored-post-fix/"><u>Nvidia Rendering Armored Post-Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-display-settings-configuration-functionality/"><u>Restoring Display Settings Configuration Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-operation-post-creators-patch/"><u>Win11 Resume Operation Post Creator's Patch</u></a></li>
+</ul></div>
 

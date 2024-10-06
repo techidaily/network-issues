@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-09-29T09:28:21.993Z
-updated: 2024-10-01T02:28:46.388Z
+date: 2024-09-30T18:18:51.265Z
+updated: 2024-10-06T17:46:01.180Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -66,9 +59,23 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -91,13 +98,6 @@ _You can do it for free if you like, but it’s partly manual._
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -142,10 +142,10 @@ Here we list its minimum system requirements for you to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Wait until the verifying process completes.
@@ -153,10 +153,10 @@ Here we list its minimum system requirements for you to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
@@ -173,16 +173,22 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -219,20 +225,16 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-traffic-ethically-youtubes-best-practices/"><u>[Updated] Elevate Your Traffic Ethically YouTube's Best Practices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-easy-way-to-embed-youtube-into-google-slides-for-2024/"><u>[Updated] The Easy Way to Embed YouTube Into Google Slides for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-accidental-video-loadout-on-tiktok-find-again/"><u>2024 Approved Accidental Video Loadout on TikTok – Find Again?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-12-erased-hunter-quest-returns-fully-operational/"><u>Error 12 Erased, Hunter Quest Returns Fully Operational</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-expat-network-a-double-edged-sword/"><u>Facebook's Expat Network – A Double-Edged Sword?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-leverage-agentgpt-for-browser-integrated-ai-agent-setup-and-controls/"><u>How to Leverage AgentGPT for Browser-Integrated AI Agent Setup and Controls</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-galaxy-m54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Galaxy M54 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-subtleties-with-title-texts/"><u>In 2024, Sculpting Subtleties with Title Texts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/problem-solved-windows-10-monitors-not-displaying-full-windows/"><u>Problem Solved: Windows 10 Monitors Not Displaying Full Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-internet-explorer-is-no-longer-supported-error-a-comprehensive-guide/"><u>Resolving the 'Internet Explorer Is No Longer Supported' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974890628-smooth-graphics-experience-via-easy-intel-3000-update-on-windows-10/"><u>Smooth Graphics Experience via Easy Intel 3000 Update on Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-stop-hp-screensaver-blankout/"><u>Steps to Stop HP Screensaver Blankout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-unplugged-nvidia-pro/"><u>Straightforward Adjustment: Unplugged NVIDIA Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-to-overcome-black-outage-issues/"><u>Strategies to Overcome Black Outage Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-13-ways-to-get-your-fb-videos-spotlighted/"><u>[New] In 2024, 13 Ways to Get Your FB Videos Spotlighted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/freed-upfront-to-vr-headset-settings/"><u>Freed Upfront to VR Headset Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y28-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y28 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders/"><u>In 2024, Livestream Excellence Unveiling the Best Practices for Facebook Recorders</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-google-pixel-fold-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Google Pixel Fold Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-explanatory-tutorial-clean-install-of-gpu-drivers/"><u>In-Depth Explanatory Tutorial: Clean Install of GPU Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iphone-vs-android-costs-are-smartphones-really-equal-in-price/"><u>IPhone Vs. Android Costs: Are Smartphones Really Equal in Price?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-detected-overwatch-patch-successful/"><u>No Compatible Graphics Detected - Overwatch Patch Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essence-of-4k-super-hd-resolution/"><u>The Essence of 4K Super HD Resolution</u></a></li>
 </ul></div>
 

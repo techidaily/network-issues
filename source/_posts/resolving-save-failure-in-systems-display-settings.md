@@ -1,7 +1,7 @@
 ---
 title: Resolving Save Failure in System's Display Settings
-date: 2024-09-28T05:22:13.518Z
-updated: 2024-10-01T05:55:17.363Z
+date: 2024-09-29T19:06:07.352Z
+updated: 2024-10-06T19:20:07.972Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -42,29 +49,28 @@ To do so:
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -81,10 +87,10 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
@@ -112,24 +118,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/xpert-reviews-best-game-capture-apps/"><u>[New] Expert Reviews Best Game Capture Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[New] Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>[New] Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-the-latest-viral-tiktok-stunts/"><u>[Updated] 2024 Approved Mastering the Latest Viral TikTok Stunts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-pioneering-video-exchange-strategies-within-discord-networks/"><u>2024 Approved Pioneering Video Exchange Strategies Within Discord Networks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-wi-fi-driver-fix-confirmed-for-windows-11/"><u>Atheros QCA61x4 Wi-Fi Driver Fix Confirmed for Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-the-hurdle-a-step-by-step-guide-when-your-iphone-wont-show-up-in-itunesfinder/"><u>Bypass the Hurdle: A Step-by-Step Guide When Your iPhone Won't Show Up in iTunes/Finder</u></a></li>
-<li><a href="https://network-issues.techidaily.com/combat-lag-in-virtual-building-game-pc/"><u>Combat Lag in Virtual Building Game PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-epson-xp-330-obtain-compatible-printer-drivers-here/"><u>Easy Setup for Epson XP-330: Obtain Compatible Printer Drivers Here</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-operational-amd-freesync/"><u>Enabling Operational AMD FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-faint-laptop-screen-issue-in-lenovo/"><u>Fixing Faint Laptop Screen Issue in Lenovo</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-visual-stutter-in-pro-7/"><u>Fixing Visual Stutter in Pro 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/immediate-remedies-to-reactivate-emoji-prediction-feature-on-ios-devices/"><u>Immediate Remedies to Reactivate Emoji Prediction Feature on iOS Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-display-not-reacting-repair-successful/"><u>Lenovo Display Not Reacting - Repair Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mouse-pointer-on-black-window-issue/"><u>Mouse Pointer On Black Window Issue</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-lcd-display-issues-in-notebooks/"><u>Resolving LCD Display Issues in Notebooks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-leading-nexus-one-software-tools-for-seamless-video-format-transformation/"><u>Top 5 Leading Nexus One Software Tools for Seamless Video Format Transformation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tvs-blank-face-laptop-lights-on-despite-connection/"><u>TV's Blank Face, Laptop Lights On Despite Connection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grand-revelations-in-cinema-trailers/"><u>[New] Grand Revelations in Cinema Trailers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-techniques-to-prevent-dropouts-in-obs-studio/"><u>[Updated] Techniques to Prevent Dropouts in OBS Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-storage-capacity-64gb-vs-128gb-for-video-files/"><u>2024 Approved Storage Capacity 64GB vs 128GB for Video Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-gif-apps-for-iphone-x876/"><u>2024 Approved Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-operating-system-and-gpu-properly/"><u>Aligning Operating System and GPU Properly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-inclusive-vsco-lens-manual/"><u>All-Inclusive VSCO Lens Manual</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-lags-to-victory/"><u>Banish Lags to Victory</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-minimum-requirement-hurdles-with-upgrades/"><u>Bypassing Minimum Requirement Hurdles with Upgrades</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-resolution-for-high-end-monitors-win10/"><u>Correct Resolution for High-End Monitors - Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-mismatch-na-in-graphics/"><u>Display Mismatch: N/A in Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-windows-blue-screen-fixed/"><u>dxgkrnl.sys: Windows Blue Screen Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-arcane-the-mystery-disappeared-from-lols-x-factor/"><u>Explaining the Arcane: The Mystery Disappeared From LoL's X-Factor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-m54-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy M54 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-compatibility-issues-in-freesync/"><u>Reverting Compatibility Issues in FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-freeze-no-accelerator-detected/"><u>Screen Freeze: No Accelerator Detected</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-windows-podcasting-software-top-8-choices/"><u>Superior Windows Podcasting Software - Top 8 Choices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-expert-analysis-on-1password-high-quality-password-management-solutions-that-deliver-value/"><u>Top-Ranked Expert Analysis on 1Password - High-Quality Password Management Solutions That Deliver Value</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-ffpm-in-firefox-today/"><u>Understanding FFPM in Firefox Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-finding-wi-fi-passwords-on-windows-11/"><u>Unlocking the Secrets: Finding Wi-Fi Passwords on Windows 11</u></a></li>
 </ul></div>
 

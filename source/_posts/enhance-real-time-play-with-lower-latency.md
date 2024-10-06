@@ -1,7 +1,7 @@
 ---
 title: Enhance Real-Time Play with Lower Latency
-date: 2024-09-25T13:57:57.871Z
-updated: 2024-10-01T00:59:53.278Z
+date: 2024-10-02T18:59:45.305Z
+updated: 2024-10-06T16:01:55.553Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The game lagging is generally a sign of a slow game. This can be caused by having too many high-power programs using your system resources. For the most optimal experience, it is recommended that when you run Roblox, you close those other programs. To do this, take these steps:
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![delete temp files to remove edit delay on Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-select-delete.jpg)
 4. If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/PC-delete-temp-files.jpg)
 5. Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  After deleting the temp files, launch Roblox to check if the lag is reduced. If the problem persists, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -93,13 +100,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/de-update-all-network-6.0.jpg)
@@ -110,6 +110,13 @@ OR
  See if you can launch Roblox now. If the problem persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Use a wired connection
 
@@ -126,25 +133,26 @@ OR
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -158,10 +166,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Reduce the graphics quality
@@ -176,27 +184,20 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, click**Resume Game** to return to your game.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-2.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Delete the textures folder
 
@@ -222,6 +223,13 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
  After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
@@ -236,13 +244,6 @@ To do so:
 2. Launch Fortect and run a complete scan.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. You’ll get a scan summary listing all the issues it detects. Click **START REPAIR** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
@@ -269,16 +270,18 @@ Once done, restart your machine and check if it fixes your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>[New] In 2024, Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-motivating-hr-chronicles-the-best-ten-vids/"><u>[New] Motivating HR Chronicles - The Best Ten Vids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-producing-shareable-videos-as-memes-on-social-media-for-2024/"><u>[New] Step-by-Step Producing Shareable Videos as Memes on Social Media for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-expert-choices-for-terraria/"><u>2024 Approved Top 10 Expert Choices for Terraria</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquer-the-kitchen-7-applications-of-ai-in-cooking/"><u>Conquer the Kitchen: 7 Applications of AI in Cooking</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convertir-archivos-ppt-a-pdf-gratis-online-con-movavi-tu-solucion-de-conversion-libre/"><u>Convertir Archivos PPT a PDF Gratis Online Con Movavi - ¡Tu Solución De Conversión Libre!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/maximize-frames-per-second-fps-experts-guide-with-6-key-techniques/"><u>Maximize Frames Per Second (FPS): Expert's Guide with 6 Key Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/nextgen-hd-optimizer-multiplatform-compatible/"><u>NextGen HD Optimizer Multiplatform Compatible</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-code-43-failure-for-nvidia-geforce-gtx-950-on-windows-11-systems-solutions-proven-effective/"><u>Overcoming 'Code 43' Failure for NVIDIA GeForce GTX 950 on Windows 11 Systems - Solutions Proven Effective</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-the-challenge-of-a-shaky-internet-during-video-calls-on-zoom-now-solved/"><u>Overcoming the Challenge of a Shaky Internet During Video Calls on Zoom - Now Solved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-guide-eliminating-excessive-latency-for-smoother-gameplay-on-fortnite/"><u>Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-masterclass-for-viral-talent/"><u>[New] 2024 Approved Masterclass for Viral Talent</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fortnite-high-ping-quickly-and-easily/"><u>[SOLVED] | Fortnite High Ping | Quickly & Easily!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pinnacle-mac-recording-options-top-5-for-clarity/"><u>[Updated] Pinnacle Mac Recording Options Top 5 for Clarity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-12-5g-frp-bypass-by-drfone-android/"><u>About Realme 12 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-guide-on-implementing-googles-text-conversion-service/"><u>Comprehensive Guide on Implementing Google's Text Conversion Service</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-15-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 15 Pro Max Smoothly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/meditative-harmony-top-free-no-copyright-playlists/"><u>Meditative Harmony – Top Free, No-Copyright Playlists</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-bsod-issues-caused-by-wdf-violations-on-various-versions-of-windows/"><u>Resolving BSoD Issues Caused by WDF Violations on Various Versions of Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvstream-user-agent-exe-issues-in-windows-a-comprehensive-guide/"><u>Resolving NVStream User Agent Exe Issues in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-comprehensive-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-undetected-amd-graphics-card-issue-in-windows-11-troubleshooting-steps/"><u>Resolving Undetected AMD Graphics Card Issue in Windows 11: Troubleshooting Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fixing-initialization-issues-in-graphics-systems/"><u>Solved: Fixing Initialization Issues in Graphics Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens
-date: 2024-09-29T01:49:43.408Z
-updated: 2024-10-01T12:27:34.528Z
+date: 2024-10-04T18:25:52.289Z
+updated: 2024-10-06T16:17:01.853Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -41,25 +48,26 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. In**Related settings** , click**Advanced display** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
-5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
  **I’m using Windows 7:** 
 
@@ -67,26 +75,32 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 2: Update or delete incompatible apps
 
@@ -132,13 +146,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
 
 Once finished with the repair, check if the error has been resolved.
@@ -166,19 +173,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/electing-perfect-game-starting-scenes-on-youtube-no-cost-yes-value/"><u>[New] Selecting Perfect Game Starting Scenes on YouTube No Cost, Yes Value?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-get-started-windows-11-sound-capture/"><u>[Updated] 2024 Approved How to Get Started Windows 11 Sound Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-essential-guide-to-simple-iphone-screen-recording/"><u>2024 Approved The Essential Guide to Simple Iphone Screen Recording</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-blur-from-your-workspace/"><u>Banish Blur From Your Workspace</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gears-grind-gearless-gateway/"><u>Gears Grind Gearless Gateway</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c22-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C22 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimizar-tus-archivos-de-forma-segura-y-gratuita-convertir-gb-a-tb-facilmente-con-la-herramienta-en-linea-de-movavi/"><u>Optimizar Tus Archivos De Forma Segura Y Gratuita: Convertir GB a TB Fácilmente Con La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-driver-hurdle-nvidia-plus-windows-10/"><u>Overcoming Driver Hurdle: Nvidia + Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-win11-update-addressing-atheros-network-errors/"><u>Qualcomm Win11 Update: Addressing Atheros Network Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-instructions-adding-external-wi-fi-compatible-card/"><u>Quick Instructions: Adding External Wi-Fi Compatible Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smoothing-play-rectifying-computer-glitches-in-civ-5/"><u>Smoothing Play: Rectifying Computer Glitches in Civ 5</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-must-have-add-ons-for-iphone-users/"><u>Ultimate Guide: Must-Have Add-Ons for iPhone Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-dynamics-of-chatgpt-management-by-openai/"><u>Understanding the Dynamics of ChatGPT Management by OpenAI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-adventure-in-baldurs-gate-iii-starting-problem-solved/"><u>Unlock the Adventure in Baldur's Gate III – Starting Problem Solved!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-audio-techniques-in-audacity-for-professionals/"><u>[New] Expert Audio Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-sprucing-up-photos-top-10-mobile-apps-list/"><u>[New] Expert Tips for Sprucing Up Photos Top 10 Mobile Apps List</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-windows-7-screen-flipping-error/"><u>Addressing Windows 7 Screen Flipping Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-crash-cure-immediate-and-easy-steps/"><u>Apex Crash Cure: Immediate & Easy Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cutting-out-pauses-perfect-video-performance-on-new-os/"><u>Cutting Out Pauses: Perfect Video Performance on New OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-meta-quest-3-breaking-down-the-latest-news-valuation-details-go-to-market-date-and-specifications/"><u>Discovering Meta Quest 3 - Breaking Down the Latest News, Valuation Details, Go-to-Market Date & Specifications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone XS | Stellar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-iphone-applications-a-step-by-step-guide/"><u>How To Recover Lost Iphone Applications: A Step-By-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>In 2024, Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/interrupting-real-time-recording-on-quicktime-for-2024/"><u>Interrupting Real-Time Recording on QuickTime for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intervention-for-persistent-hp-screen-blinking/"><u>Intervention for Persistent HP Screen Blinking</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-computer-potential-upgrade-to-corsairs-icue-link-and-see-the-difference/"><u>Maximize Your Computer Potential - Upgrade to Corsair's iCUE Link and See the Difference</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-graphics-driver-version-unveiled-amd-radeon-hd-6950-for-win11/"><u>New Graphics Driver Version Unveiled: AMD Radeon HD 6950 for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974827199-smooth-screenshot-experience-now/"><u>Smooth Screenshot Experience Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-reactivate-gpu-fan-spins/"><u>Steps to Reactivate GPU Fan Spins</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-prevent-lenovo-screen-shakes/"><u>Techniques to Prevent Lenovo Screen Shakes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-solutions-for-correcting-the-unwanted-blue-hue-on-your-television-display/"><u>Top 8 Solutions for Correcting the Unwanted Blue Hue on Your Television Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovos-unresponsive-touchpad/"><u>Troubleshooting Lenovo's Unresponsive Touchpad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-you-seeing-siri-suggestions-fix-it-now-with-these-iphone-tricks/"><u>Why Aren't You Seeing Siri Suggestions? Fix It Now with These iPhone Tricks</u></a></li>
 </ul></div>
 

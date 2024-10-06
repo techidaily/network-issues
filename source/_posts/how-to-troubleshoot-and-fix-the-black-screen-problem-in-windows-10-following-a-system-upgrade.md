@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade
-date: 2024-09-27T12:36:00.108Z
-updated: 2024-10-01T11:01:31.275Z
+date: 2024-10-05T22:15:25.407Z
+updated: 2024-10-06T22:09:39.281Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ A quick fix to your black screen problem would be:
 **key+Ctrl+Shift + B**  .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
@@ -60,10 +60,10 @@ If this produces no results, you can move on to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics card driver
@@ -84,38 +84,11 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 4: Uninstall third party Windows theming software
 
@@ -128,15 +101,15 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2297bbde3.jpg)
 3. Click the**File** tab, then**Run new task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
@@ -148,13 +121,6 @@ If this produces no results, you can move on to Fix 3.
 7. **Restart** your PC to check if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 5: Log in using a different user account
 
@@ -174,8 +140,23 @@ If this produces no results, you can move on to Fix 3.
 2. In the bottom left corner of your screen, click the**Start** button, then the**Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Accounts** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
@@ -185,15 +166,16 @@ If this produces no results, you can move on to Fix 3.
 1. Type**cmd** in the Windows search box, right click**Command Prompt** , then select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf346d3db95.jpg)
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
-3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
+3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
 
 ---
 
@@ -208,8 +190,24 @@ If this produces no results, you can move on to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
 
 ---
@@ -234,22 +232,22 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-elevate-your-talk-the-leading-web-based-speech-conversion-services/"><u>[New] In 2024, Elevate Your Talk The Leading Web-Based Speech Conversion Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-epic-games-download-slow-download-stuck/"><u>[SOLVED] Epic Games Download Slow /Download Stuck</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-visionary-flicks-that-empower-you/"><u>2024 Approved 10 Visionary Flicks That Empower You</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-6-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 6</u></a></li>
-<li><a href="https://network-issues.techidaily.com/battery-of-patience-with-wi-fi-drops/"><u>Battery of Patience with Wi-Fi Drops</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-up-for-youtube-success-cross-platform-strategies/"><u>Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-7windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 7/Windows/Mac</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-s23-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel S23</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Phone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/install-completed-without-nvidia-errors/"><u>Install Completed Without NVIDIA Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installing-latest-intel-graphic-drivers-in-windows/"><u>Installing Latest Intel Graphic Drivers in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/leap-over-delays-in-your-gaming/"><u>Leap Over Delays in Your Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-sync-problem-addressed/"><u>Nvidia Sync: Problem Addressed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-amd-radeon-r9-hurdles-with-ease-on-win11/"><u>Overcoming AMD Radeon R9 Hurdles with Ease on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-inverted-display-issue-in-wins11-update/"><u>Overcoming Inverted Display Issue in Wins11 Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-integration-of-hd-audio-post-update/"><u>Seamless Integration of HD Audio Post-Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-superior-animation-suites-top-3d-modelers/"><u>[Updated] In 2024, Superior Animation Suites Top 3D Modelers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-vivid-visions-harnessing-light-to-captivate-audiences/"><u>[Updated] Vivid Visions Harnessing Light to Captivate Audiences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-image-sharing-on-instagram/"><u>2024 Approved Smart Image Sharing on Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/basic-driver-tweaks-ms-win-versions-1087-update/"><u>Basic Driver Tweaks: MS Win Versions 10/8/7 Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-hot-40-pro-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Infinix Hot 40 Pro.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/detection-hiccup-for-amd-on-win10-now-working-smoothly/"><u>Detection Hiccup for AMD on Win10, Now Working Smoothly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-config-updated-post-save-fix/"><u>Display Config Updated Post-Save Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-uninstall-method-for-graphics-drivers-on-windows/"><u>Efficient Uninstall Method for Graphics Drivers on WIndows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-gaming-experience-by-fixing-civ-5-glitches/"><u>Enhance Gaming Experience by Fixing Civ 5 Glitches</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fb-video-extraction-techniques-for-pc-and-mac/"><u>In 2024, FB Video Extraction Techniques for PC & Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-newest-targus-displaylink-software-for-windows-1187/"><u>Install Newest Targus DisplayLink Software for Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quality-scandal-rocks-aio-radiator-industry-as-caseking-pulls-barrow-dabel-products-off-the-market-after-unsettling-test-results-revealed-presence-of-harmfu6/"><u>Quality Scandal Rocks AIO Radiator Industry as CaseKing Pulls Barrow Dabel Products Off the Market After Unsettling Test Results Revealed Presence of Harmful Materials</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781896-seamlessly-update-intels-graphic-driver-for-windows-11/"><u>Seamlessly Update Intel's Graphic Driver for Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-12-pro-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 12 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/jpeg-pgm-movavi/"><u>무료 JPEG 로드에 적합한 PGM 이미지 전환 - 웹사이트용 Movavi 소프트웨어</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Skyrim Speed: Snagging Files"
-date: 2024-09-30T10:24:25.671Z
-updated: 2024-10-01T13:59:00.772Z
+date: 2024-10-01T18:18:11.759Z
+updated: 2024-10-06T17:33:54.818Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update your network adapter driver
 
  If the previous steps didn’t work, it’s time to check if you’re using an outdated network adapter driver. An outdated or incompatible network adapter driver can cause connection problems. To fix it, you should update your drivers and your problem may be solved in no time.
@@ -94,6 +87,19 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Switch Domain Name Systems (DNS)
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can effectively slow your connection. Switching your DNS can result in better connectivity and performance for your internet connection and save you time troubleshooting.
@@ -107,33 +113,32 @@ Here we recommend using Google DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
@@ -144,6 +149,13 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
 
@@ -151,28 +163,15 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
 
@@ -188,13 +187,6 @@ Here’s how to do this:
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **[HTTP]**
 **HttpTimeout=10**
 **HttpConnectionTimeout=10**
@@ -208,11 +200,25 @@ Here’s how to do this:
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Press**Ctrl + S** to save the edits.
 
 When it’s all done, resume your download and it should be faster.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
 
@@ -226,13 +232,6 @@ When it’s all done, resume your download and it should be faster.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Try downloading your games again.
 
 ---
@@ -245,6 +244,13 @@ When it’s all done, resume your download and it should be faster.
  2) At checkout, enter the creator tag **`DRIVEREASY`** . Your support is much appreciated!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -261,17 +267,18 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-public-domain-paintings-insights-and-links/"><u>[Updated] Unveiling Public Domain Paintings Insights & Links</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-picprankster-laughlens-lab/"><u>2024 Approved PicPrankster LaughLens Lab</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-downloads-installing-dell-latitude-e6420-drivers/"><u>Fast and Simple Downloads: Installing Dell Latitude E6420 Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-display-settings-save-achieved/"><u>Fix: Display Settings Save Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-config-updated-saved/"><u>Hardware Config Updated, Saved</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-google-pixel-4a-a-smart-choice-for-everyday-use/"><u>In-Depth Analysis of the Google Pixel 4A: A Smart Choice for Everyday Use</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-troubleshooting-disconnected-gpu-display/"><u>Instant Troubleshooting: Disconnected GPU Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-touchpad-issues-in-windows-1187-easy-fixes-and-solutions/"><u>Laptop Touchpad Issues in Windows 11/8/7 – Easy Fixes and Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-latest-optimize-win11-with-rtx210-driver-enhancements/"><u>NVIDIA's Latest: Optimize Win11 with RTX210 Driver Enhancements</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connection-hurdles-making-your-bluetooth-keyboard-compatible-with-your-pc-again/"><u>Overcoming Connection Hurdles: Making Your Bluetooth Keyboard Compatible with Your PC Again</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-win-10-display-resize-success/"><u>Troubleshooting Win 10 Display Resize Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-unavailable-desktop-in-windows-system-profile-settings/"><u>Understanding and Fixing 'Unavailable' Desktop in Windows System Profile Settings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-captivating-video-narratives-for-youtube-success-for-2024/"><u>[Updated] Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-curve-images-in-photoshop/"><u>2024 Approved How to Curve Images in Photoshop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thriving-despite-cyberbullying-and-scathing-feedback/"><u>2024 Approved Thriving Despite Cyberbullying and Scathing Feedback</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerated-adjustment-overcome-loot-mishaps/"><u>Accelerated Adjustment: Overcome Loot Mishaps</u></a></li>
+<li><a href="https://solve-news.techidaily.com/convert-wmv-a-html-libre-de-coste-guia-detallada-con-movavi/"><u>Convert WMV a HTML Libre De Coste: Guía Detallada Con Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-blank-display-problems/"><u>Dismiss Blank-Display Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-failure-graphics-device-missing/"><u>Display Failure: Graphics Device Missing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-how-nintendos-wii-u-became-an-iconic-gaming-console/"><u>Exploring How Nintendo's Wii U Became an Iconic Gaming Console</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-swiftly-rectify-screen-lines-at-laptop-level/"><u>Guide: Swiftly Rectify Screen Lines at Laptop Level</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-windows-update-end-video-buffering-and-jitter/"><u>New Windows Update: End Video Buffering & Jitter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/outstanding-evaluation-and-alternative-paths-for-2024/"><u>Outstanding Evaluation & Alternative Paths for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-anomaly-bug-519/"><u>Overcoming WOW Anomaly: Bug #519</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-stuck-or-unresponsive-buttons-on-an-hp-laptop-solutions-at-hand/"><u>Quick Fixes for Stuck or Unresponsive Buttons on an HP Laptop – Solutions at Hand</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overhauled Erratic Code 22 in Drivers
-date: 2024-08-15T08:00:47.421Z
-updated: 2024-08-16T08:00:47.421Z
+date: 2024-10-04T18:45:49.323Z
+updated: 2024-10-06T20:37:47.862Z
 tags:
   - win11
   - win10
@@ -41,14 +41,6 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
 Be careful you don’t mistype, or press the wrong keys!
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -60,27 +52,33 @@ Be careful you don’t mistype, or press the wrong keys!
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
@@ -99,14 +97,23 @@ Example – CMOS battery on a laptop
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -121,8 +128,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,8 +135,26 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-music-for-instagram-videos-here-is-all-you-need-to-know/"><u>[Updated] In 2024, Music for Instagram Videos - Here Is All You Need to Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-art-of-inverted-lookups-on-instagram-posts/"><u>[Updated] Mastering the Art of Inverted Lookups on Instagram Posts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-the-buffering-blues/"><u>Banish the Buffering Blues</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-steam-content-unavailable-glitches/"><u>Bypassing Steam Content Unavailable Glitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/character-crafting-mastery-gpt-and-pixel-perfect-artistry-in-rpgs/"><u>Character Crafting Mastery: GPT and Pixel-Perfect Artistry in RPGs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-fix-for-amd-in-tarkov/"><u>Fast-Fix for AMD in Tarkov</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-display-settings-return-in-windows-11/"><u>Hidden Display Settings Return in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-can-you-get-a-full-reimbursement-for-games-not-meeting-expectations-on-steam/"><u>How Can You Get a Full Reimbursement For Games Not Meeting Expectations on Steam?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/illuminating-the-darkness-surrounding-elusive-dx-faults-in-lol/"><u>Illuminating the Darkness Surrounding Elusive DX Faults in LOL</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-gpu-drivers-removal-on-windows/"><u>Mastering GPU Drivers Removal on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-tackle-non-functional-keys-on-windows-11-pc/"><u>Mend: Tackle Non-Functional Keys on Windows 11 PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-windows-8-video-editor-edit-mp4-files-with-ease/"><u>New 2024 Approved Windows 8 Video Editor Edit MP4 Files with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/opusmp4movavi/"><u>OPUS到MP4转换：Movavi免费线上解码服务</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win11-blinky-black-error/"><u>Overcoming Win11 Blinky Black Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-enhanced-drivers-for-windows-11-launched/"><u>Radeon HD 6950 Enhanced Drivers for Windows 11 Launched</u></a></li>
+<li><a href="https://review-topics.techidaily.com/section-2a-introduction-to-fire-safety-systems/"><u>Section 2A: Introduction to Fire Safety Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-visual-power-new-amd-hd-6950-driver-for-windows-10/"><u>Unleashing Visual Power: New AMD HD 6950 Driver for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-mystery-of-missing-wireless-on-windows-11/"><u>Unveiling: The Mystery of Missing Wireless on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sideways Display: Problem Solved"
-date: 2024-09-24T11:19:32.768Z
-updated: 2024-10-01T13:22:42.936Z
+date: 2024-10-05T19:27:21.793Z
+updated: 2024-10-06T16:25:42.209Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -34,6 +41,13 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -46,20 +60,13 @@ To rotate your screen in your system display settings:
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -75,21 +82,14 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -112,21 +112,24 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-dive-into-the-world-of-youtube-shorts-mastering-video-creation/"><u>[New] 2024 Approved Dive Into the World of YouTube Shorts Mastering Video Creation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rafting-content-that-captivates-youtube-keyword-mastery/"><u>[New] Crafting Content that Captivates YouTube Keyword Mastery</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-picture-perfect-instagram-carousel/"><u>[New] In 2024, Picture-Perfect Instagram Carousel</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-checklist-for-using-zoom-on-your-windows-pc/"><u>[New] The Essential Checklist for Using Zoom on Your Windows PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12plus-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12+ 5G</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974762276-elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-glitch-fixed-successfully/"><u>GeForce Glitch Fixed Successfully</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-compatibility-secured/"><u>Hardware Compatibility Secured</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-goal-setting-with-microsoft-word-a-unique-twist-on-digital-bullet-journaling/"><u>Mastering the Art of Goal-Setting with Microsoft Word: A Unique Twist on Digital Bullet Journaling</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-lenovos-black-monitor-myth/"><u>Overcome Lenovo's Black Monitor Myth</u></a></li>
-<li><a href="https://network-issues.techidaily.com/racing-through-internet-speed-on-windows-xp7/"><u>Racing Through Internet Speed on Windows XP/7</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalize-your-clockwork-restore-missing-windows-server-time/"><u>Revitalize Your Clockwork: Restore Missing Windows Server Time</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secure-qualcomms-wireless-capability-with-atheros-fix-in-win11/"><u>Secure Qualcomm's Wireless Capability with Atheros Fix in Win11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/smart-tvs-vs-firestick-future-prospects/"><u>Smart TVs vs FireStick: Future Prospects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strengthening-system-requirements-for-drivers-success/"><u>Strengthening System Requirements for Drivers' Success</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-5-ausgezeichnete-4k-ultra-hd-videospieler-fur-windows-und-mac-os-herunterladen-and-bewertung/"><u>Top 5 Ausgezeichnete 4K Ultra HD-Videospieler Für Windows Und Mac OS - Herunterladen & Bewertung</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-prevent-freezing-of-streamed-videos-in-chrome/"><u>[New] 2024 Approved Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-striking-visuals-that-move-us-top-20-instagram-photos/"><u>[New] 2024 Approved Striking Visuals that Move Us Top 20 Instagram Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-musics-big-screen-facebooks-top-ten-vids/"><u>[Updated] 2024 Approved Music's Big Screen Facebook's Top Ten Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-high-quality-banners-free-for-content-developers-for-2024/"><u>[Updated] Harness High-Quality Banners – Free for Content Developers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-youtubes-systems-after-video-upload/"><u>2024 Approved Navigating YouTube's Systems After Video Upload</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flashy-windows-7-visuals/"><u>Correcting Flashy Windows 7 Visuals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc-for-2024/"><u>Download Twitter GIF 3 Ways to Download GIFs From Twitter on Your PC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-print-to-pdf-not-working-in-microsoft-windows-1011/"><u>Easy Fixes for 'Print to PDF Not Working' In Microsoft Windows 10/11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-amds-loading-issue-windowas-10-system-operates-normally/"><u>Fixed AMD's Loading Issue, Windowas 10 System Operates Normally</u></a></li>
+<li><a href="https://win-web.techidaily.com/free-access-best-hong-kong-drama-series-in-english-dubbing-top-picks-to-binge/"><u>Free Access: Best Hong Kong Drama Series in English Dubbing - Top Picks to Binge!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-resolution-apex-loot-errors/"><u>Immediate Resolution: Apex Loot Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-amd-freesync-incompatibility-hurdles/"><u>Overcoming AMD FreeSync Incompatibility Hurdles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-lenovo-screen-twinkles/"><u>Preventing Lenovo Screen Twinkles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reclaiming-vision-on-lenovos-black-monitors/"><u>Reclaiming Vision on Lenovo's Black Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-gpu-err-22-glitch/"><u>SOLVED: GPU ERR 22 Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-lift-gpu-fan-stagnation/"><u>Steps to Lift GPU Fan Stagnation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/surviving-nvidias-nightmayer-with-rtx-3080-games/"><u>Surviving NVIDIA's Nightmayer with RTX 3080 Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mousepad-issues-on-windows-1087-fixes-and-solutions/"><u>Troubleshooting Lenovo Mousepad Issues on Windows 10/8/7: Fixes and Solutions</u></a></li>
 </ul></div>
 

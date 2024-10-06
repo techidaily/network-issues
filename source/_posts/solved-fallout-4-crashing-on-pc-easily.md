@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Fallout 4 Crashing on PC [Easily]"
-date: 2024-08-15T07:55:25.661Z
-updated: 2024-08-16T07:55:25.661Z
+date: 2024-10-04T18:44:25.678Z
+updated: 2024-10-06T19:01:34.900Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -36,8 +33,12 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -45,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -73,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer and open your Fallout 4.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### **4\. Temporarily disable the antivirus program**
 
  As known, the antivirus program in your computer is possible incompatible with your Steam games, including Fallout 4\. So you can check your antivirus program. To do so, follow these steps:
@@ -95,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -107,8 +112,12 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
@@ -131,8 +140,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,8 +147,20 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-spotting-absent-communications-on-chatface-for-2024/"><u>[New] Spotting Absent Communications on Chatface for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>[Updated] In 2024, Livestream Quality Decision Opt for Streamlabs or OBS?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-towards-excellent-free-photography-choices/"><u>2024 Approved Navigating Towards Excellent Free Photography Choices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-rejuvenated-with-latest-update/"><u>AMD Radeon HD 6950: Rejuvenated with Latest Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-monitor-layouts/"><u>Correcting Inverted Monitor Layouts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-personal-numbers-on-the-web-legal-and-ethical-techniques/"><u>Discovering Personal Numbers on the Web: Legal and Ethical Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/engage-more-eyeballs-in-your-area-leverage-oodles-no-fee-local-listings-platform/"><u>Engage More Eyeballs in Your Area – Leverage Oodle’s No-Fee Local Listings Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-shadow-window-on-windows-11/"><u>Eradicating Shadow Window on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-selected-top-cordless-devices-to-upgrade-your-home/"><u>Expertly Selected Top Cordless Devices to Upgrade Your Home</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-adventure-uncovering-joyful-experiences-in-pokemon-platinum/"><u>Exploring Adventure: Uncovering Joyful Experiences in Pokemon Platinum</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-enhancement-tools-for-the-modern-ps5-user/"><u>Game Enhancement Tools for the Modern PS5 User</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-integration-of-geforce-210-with-windows-10-os/"><u>Seamless Integration of GeForce 210 with Windows 10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-detecting-missing-gpu-on-pc-platforms/"><u>Tips for Detecting Missing GPU on PC Platforms</u></a></li>
+</ul></div>
 

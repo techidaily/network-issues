@@ -1,7 +1,7 @@
 ---
 title: Where Are My Display Options? Windows 11 Help
-date: 2024-08-15T07:55:27.811Z
-updated: 2024-08-16T07:55:27.811Z
+date: 2024-10-05T17:01:19.184Z
+updated: 2024-10-06T21:19:05.064Z
 tags:
   - win11
   - win10
@@ -26,9 +26,12 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -48,17 +51,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
@@ -76,9 +80,6 @@ Here’s how to do it:
  2) Click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
@@ -88,19 +89,27 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
@@ -112,8 +121,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +128,23 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>[New] Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-prime-stabilization-techniques-for-youtubers/"><u>[New] In 2024, Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-add-music-to-instagram-reel/"><u>[Updated] How to Add Music to Instagram Reel</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-10-best-camcorder-ultimate-review/"><u>2024 Approved 10 Best Camcorder [Ultimate Review]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-seize-your-online-sessions-the-ultimate-browser-recording-tools-list/"><u>2024 Approved Seize Your Online Sessions The Ultimate Browser Recording Tools List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-your-partner-in-excel-data-management/"><u>ChatGPT: Your Partner in Excel Data Management</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-blackout-on-windows-11-post-fall/"><u>Correcting Blackout on Windows 11 Post-Fall</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-apowersoft-recording-software-overview/"><u>In 2024, Apowersoft Recording Software Overview</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monster-hunt-rebooted-crashed-game-restored/"><u>Monster Hunt Rebooted: Crashed Game Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-windows-via-intel-gpu-update/"><u>Optimizing Windows via Intel GPU Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-invisible-wireless-adapter-in-windows-11/"><u>Resolved: Invisible Wireless Adapter in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974504839-screen-flicker-no-more/"><u>Screen Flicker, No More!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-screen-flash-a-guide/"><u>Solving Screen Flash: A Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gamecrashes-in-windows-11-and-10-solutions-for-a-smooth-gaming-experience/"><u>Troubleshooting GameCrashes in Windows 11 and 10: Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-the-excellence-in-4k-ultra-hds/"><u>Understanding the Excellence in 4K Ultra HDs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-have-chatgpt-escapes-stopped-working-here-are-7-insights-explained/"><u>Why Have ChatGPT Escapes Stopped Working? Here Are 7 Insights Explained</u></a></li>
+</ul></div>
 

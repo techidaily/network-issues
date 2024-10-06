@@ -1,7 +1,7 @@
 ---
 title: Strategies to Prevent Acer Screen Shimmer
-date: 2024-09-26T08:49:01.858Z
-updated: 2024-10-01T12:59:43.506Z
+date: 2024-10-03T21:29:50.941Z
+updated: 2024-10-06T18:44:34.885Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 3. **[Update your graphics driver](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**
@@ -49,13 +49,6 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
@@ -63,6 +56,19 @@ Here is how to change the screen refresh rate:
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
@@ -80,9 +86,23 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
@@ -99,13 +119,6 @@ Here is how to change the screen refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -119,13 +132,6 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -161,19 +167,20 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-industrys-choice-our-miniature-dvd-players-guide/"><u>[New] In 2024, Industry's Choice Our Miniature DVD Players Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-simplifying-image-editing-with-picsarts-background-tool/"><u>[New] Simplifying Image Editing with Picsart's Background Tool</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reinstated-screen-functionality-following-nvidia-error/"><u>[Reinstated] Screen Functionality Following Nvidia Error</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>[Updated] In 2024, Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-address-error-c1900101-during-setup/"><u>How to Address Error C1900101 During Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211262113-how-to-resolve-error-code-0x80073712-in-windows-10-expert-solutions-revealed/"><u>How to Resolve 'Error Code 0X80073712' In Windows 10 – Expert Solutions Revealed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/jolting-alive-gpu-fan-revival/"><u>Jolting Alive: GPU Fan Revival</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/language-bridge-builders-top-18-tools-that-turn-videos-into-text/"><u>Language Bridge Builders Top 18 Tools That Turn Videos Into Text</u></a></li>
-<li><a href="https://network-issues.techidaily.com/maximize-windows-screen-detail-with-w11/"><u>Maximize Window's Screen Detail with W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/peeling-back-layers-on-cryptic-direct-x-mishaps-in-leagues/"><u>Peeling Back Layers on Cryptic Direct X Mishaps in Leagues</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/youtube-playback-a-comprehensive-screencast-guide-at-no-cost/"><u>Save YouTube Playback A Comprehensive Screencast Guide at No Cost</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-effortlessly-transforming-audio-files-from-aac-to-ogg-format/"><u>Simple Steps: Effortlessly Transforming Audio Files From AAC to OGG Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-quick-climb-top-5-chatgpt-accelerators/"><u>Unveiling the Quick Climb: Top 5 ChatGPT Accelerators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015346082-windows-10/"><u>Windows 10에서 고조도를 유지하는 방법: 소음이 중단되는 문제의 해결 가능성</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-engaging-vlogger-subjects-each-day-for-2024/"><u>[New] Engaging Vlogger Subjects Each Day for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income-for-2024/"><u>[Updated] Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-your-music-collection-youtube-playlists-guide/"><u>2024 Approved Crafting Your Music Collection YouTube Playlists Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-sturdy-tiktok-bio-with-direct-url-integration-for-2024/"><u>Crafting a Sturdy TikTok Bio with Direct URL Integration for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-methods-refreshing-intel-drivers-on-windows-7-pcs/"><u>Efficient Methods: Refreshing Intel Drivers on Windows 7 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974754808-fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-strategies-to-resolve-chatgpts-body-stream-glitches/"><u>Five Strategies to Resolve ChatGPT's Body Stream Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>In 2024, 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>In 2024, Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intensify-gaming-with-geforce-210-driver-on-windows-10-platform/"><u>Intensify Gaming with GeForce 210 Driver on Windows 10 Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-game-crashes-during-halo-infinite-sessions-on-pcs-now-fixed/"><u>Overcome: Game Crashes During Halo Infinite Sessions on PCs - Now Fixed!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-the-art-of-hybrid-graphics-card-functionality-on-windows-11/"><u>Perfecting the Art of Hybrid Graphics Card Functionality on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-video-hue-correction-11-steps-for-2024/"><u>The Essential Guide to Video Hue Correction (11 Steps) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-display-brightness-loss/"><u>Troubleshooting Lenovo Display Brightness Loss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unfreeze-pointer-on-win10-system-failure/"><u>Unfreeze Pointer on Win10 System Failure</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dimmed Monitor in Lenovo PC
-date: 2024-09-29T18:37:31.667Z
-updated: 2024-09-30T21:27:22.169Z
+date: 2024-09-30T16:18:18.875Z
+updated: 2024-10-06T19:15:40.749Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -55,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 **b)**  Press the power button to**start up** your laptop. In the meantime, press and hold the**brightness-up key** on the keyboard, which is usually a**function key** (**F1-** **F12**).
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3) Modify Registry
 
@@ -66,44 +86,30 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -127,24 +133,16 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-exploring-the-depths-of-asmr-audio-magic/"><u>[New] 2024 Approved Exploring the Depths of ASMR Audio Magic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>[New] In 2024, Directed Focus YouTube's Easy Ways for Smoother Borders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ios-and-android-youtube-autoplay-tricks/"><u>[New] In 2024, IOS & Android YouTube AutoPlay Tricks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-effortless-webinar-capture-techniques-for-os-xwindows-enthusiasts/"><u>[Updated] In 2024, Effortless Webinar Capture Techniques for OS X/Windows Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-tips-for-easy-powerpoint-version-updates/"><u>Essential Tips for Easy PowerPoint Version Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-msi-bios-with-successful-windows-driver-update/"><u>Harmonizing MSI BIOS with Successful Windows Driver Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-a-youtube-video-that-wont-play-a-step-by-step-guide/"><u>How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-ethernet-not-working-issues-on-windows-10-and-7/"><u>How to Fix Ethernet Not Working Issues on Windows 10 & 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-gtx-query/"><u>How to Fix GTX # Query</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-the-wdf-violation-critical-stop-error-in-windows-11-10-8-and/"><u>How to Fix the 'WDF Violation' Critical Stop Error in Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-your-acer-computers-wi-fi-network-problems-easily/"><u>How to Fix Your Acer Computer's Wi-Fi Network Problems Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-resolve-video-unavailable-on-youtube-step-by-step-guide/"><u>How to Resolve 'Video Unavailable on YouTube': Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-resolve-detection-issues-with-your-amd-graphics-card-in-windows-11/"><u>How to Resolve Detection Issues with Your AMD Graphics Card in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-restore-wifi-access-on-your-acer-laptop-comprehensive-guide-for-a-permanent-solution/"><u>How to Restore WiFi Access on Your Acer Laptop - Comprehensive Guide for a Permanent Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-troubleshoot-and-fix-the-black-screen-problem-in-windows-10-following-a-system-upgrade/"><u>How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://facebook.techidaily.com/intuitive-interface-for-the-modern-social-feed/"><u>Intuitive Interface for the Modern Social Feed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-the-basics-a-comprehensive-guide-to-yt-shorts-for-2024/"><u>Mastering the Basics A Comprehensive Guide to YT Shorts for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-a05s-by-fonelab-android-recover-data/"><u>Undelete lost data from A05s</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-is-photoshops-shake-control-a-game-changer/"><u>[New] 2024 Approved Is Photoshop's Shake Control a Game Changer?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-video-requirement-aspect-ratio/"><u>[New] 2024 Approved Twitter Video Requirement - Aspect Ratio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-puzzles-crafted-spark-joy-and-inspiration/"><u>2024 Approved Photo Puzzles Crafted Spark Joy and Inspiration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-bw-16d1x-u-blu-ray-player-assessment-elegant-design-with-notable-idiosyncrasies/"><u>Asus BW-16D1X-U Blu-Ray Player Assessment: Elegant Design with Notable Idiosyncrasies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/brief-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-the-world-of-superior-no-cost-webm-viewers/"><u>Dive Into the World of Superior No-Cost WebM Viewers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>In 2024, Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-the-gtx-code-43-issue-in-windows-10-complete-guide/"><u>Resolve the GTX #code-43 Issue in Windows 10 – Complete Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-fixing-connectivity-issues-with-zoom-on-an-intermittent-internet/"><u>Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overcoming-initialization-issues-with-the-graphics-system/"><u>Resolved: Overcoming Initialization Issues with the Graphics System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-troubleshooting-steps-when-your-amd-gpu-is-unrecognized-in-windows-10/"><u>Resolved: Troubleshooting Steps When Your AMD GPU Is Unrecognized in Windows 10</u></a></li>
 </ul></div>
 

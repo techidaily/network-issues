@@ -1,7 +1,7 @@
 ---
 title: Mending Display Settings Saving Problems in Win
-date: 2024-08-15T07:55:50.131Z
-updated: 2024-08-16T07:55:50.131Z
+date: 2024-10-02T22:09:51.904Z
+updated: 2024-10-06T19:01:25.476Z
 tags:
   - win11
   - win10
@@ -30,8 +30,12 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -42,21 +46,26 @@ To do so:
 
 1. Right-click on**any empty space** on your desktop and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This**Unable to save display settings** error may occur if you are using the wrong  graphics  driver or it’s out of date. So you should update your graphics driver  to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -68,16 +77,17 @@ To do so:
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install**Driver Easy** .
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and see if the problem is solved.
 
 ---
@@ -92,8 +102,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +109,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-premium-designers-stellar-instagram-hlv-page-builders/"><u>[New] Premium Designers Stellar Instagram HLV Page Builders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-troubleshoot-offline-mode-for-cod-cold-war/"><u>[SOLVED]: Troubleshoot Offline Mode for CoD Cold War</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-your-gaming-presence-with-these-top-14-video-ideas/"><u>[Updated] In 2024, Boost Your Gaming Presence with These Top 14 Video Ideas</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-harnessing-success-with-freefire-hashtag-tips/"><u>[Updated] In 2024, Harnessing Success with FreeFire Hashtag Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discover-luminous-brilliance-for-your-android-videos/"><u>2024 Approved Discover Luminous Brilliance for Your Android Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerated-repair-resolve-apex-crash/"><u>Accelerated Repair: Resolve Apex Crash</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-more-effective-successors-to-the-classic-turing-test/"><u>Are There More Effective Successors to the Classic Turing Test?</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-adjustment-save-and-fix-completed/"><u>Display Adjustment: Save & Fix Completed</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-nforce630a-work-seamlessly-in-new-os/"><u>Making nForce630a Work Seamlessly in New OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-10-hologram-error/"><u>Rectifying Windows 10 Hologram Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-monitors-temporary-blackouts/"><u>Resolving Monitor's Temporary Blackouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-clear-view-on-win11-panels/"><u>Restoring Clear View on WIN11 Panels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-updated-dell-v3ebit-inc-xps-305-all-in-one-printer-driver-for-windows-7-operating-system/"><u>Step-by-Step Guide: Installing Updated Dell V3ebit, Inc. XPS 305 All-in-One Printer Driver for Windows 7 Operating System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-business-potentials-with-these-leading-15-facebook-market-analyzers/"><u>Unlock Business Potentials With These Leading 15 Facebook Market Analyzers</u></a></li>
+</ul></div>
 

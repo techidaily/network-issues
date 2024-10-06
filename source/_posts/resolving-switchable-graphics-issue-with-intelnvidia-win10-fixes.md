@@ -1,7 +1,7 @@
 ---
 title: Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes
-date: 2024-09-27T23:13:01.934Z
-updated: 2024-10-01T11:30:35.868Z
+date: 2024-10-05T19:19:06.856Z
+updated: 2024-10-06T18:37:21.841Z
 tags:
   - win11
   - win10
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -92,10 +85,16 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -111,10 +110,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -127,15 +126,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -157,18 +163,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[New] 2024 Approved Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-visuals-8-creative-color-grading-ideas/"><u>[Updated] In 2024, Digital Visuals 8 Creative Color Grading Ideas</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-and-science-of-hand-movement-tracking/"><u>[Updated] The Art and Science of Hand Movement Tracking</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dimmed-display-defying-desktop/"><u>Dimmed Display, Defying Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gaming-gone-wrong-tame-your-rtx-3080-crash/"><u>Gaming Gone Wrong? Tame Your RTX 3080 Crash</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-smart-7-hd-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 7 HD Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-writable-registry-for-hidden-themes/"><u>Mastering Windows 11' Writable Registry for Hidden Themes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfect-playback-every-time-correcting-your-games-audio-problems-with-these-proven-strategies/"><u>Perfect Playback Every Time: Correcting Your Game's Audio Problems with These Proven Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-slow-wi-fi-woes-uncovering-the-top-7-reasons-for-mobile-internet-delays/"><u>Solve Slow Wi-Fi Woes: Uncovering the Top 7 Reasons for Mobile Internet Delays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-10-ultimate-websites-for-stunning-hdr-skies/"><u>[New] In 2024, 10 Ultimate Websites for Stunning HDR Skies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-jumping-from-sdr-to-hdr-the-ultimate-transformation-guide/"><u>[New] In 2024, Jumping From SDR to HDR The Ultimate Transformation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-radeon-r9-drivers-on-new-windows-11/"><u>Fixing Radeon R9 Drivers on New Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-complete-analysis-lg-27-oled-screens-visual-edge/"><u>In 2024, Complete Analysis LG 27 OLED Screen's Visual Edge</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-instagrams-silent-frames-no-more-a-sound-fix/"><u>In 2024, Instagram's Silent Frames No More – A Sound Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-gaming-mobile-good-or-bad/"><u>Is Gaming Mobile Good or Bad?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-fixed-qualcomms-atheros-wi-fi-drivers-on-win11/"><u>Quickly Fixed Qualcomm's Atheros Wi-Fi Drivers on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shine-and-shimmer-no-more-dells-new-normal/"><u>Shine and Shimmer No More: Dell's New Normal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-enhanced-viewport-management/"><u>Windows 11: Enhanced Viewport Management</u></a></li>
 </ul></div>
 

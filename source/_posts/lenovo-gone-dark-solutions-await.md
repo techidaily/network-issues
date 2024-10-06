@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2024-09-27T22:07:46.719Z
-updated: 2024-10-01T13:48:54.958Z
+date: 2024-10-01T18:24:12.687Z
+updated: 2024-10-06T19:13:51.766Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
@@ -86,15 +86,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -115,13 +122,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
@@ -141,32 +141,26 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -195,10 +189,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
@@ -227,24 +221,20 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-star-citizen-crash-on-pc-directx-hurdle/"><u>[CORRECTED] Star Citizen Crash on PC - DirectX Hurdle</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>[New] In 2024, Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-luminous-landscapes-designing-visuals-that-dazzle-viewers-for-2024/"><u>[New] Luminous Landscapes Designing Visuals that Dazzle Viewers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comparing-the-best-updated-review-of-gopro-and-yi-action-cams/"><u>[Updated] Comparing the Best Updated Review of GoPro and Yi Action Cams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-most-popular-free-photography-and-film-archives/"><u>[Updated] In 2024, Most Popular Free Photography and Film Archives</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-non-competitive-front-row-fun-ranking-the-top-ten/"><u>[Updated] Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-cameras-perfect-for-podcasts/"><u>[Updated] Premium Cameras Perfect for Podcasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-50-creative-free-youtube-advertising-options/"><u>[Updated] Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-your-earning-potential-youtubes-latest-rules/"><u>2024 Approved Understanding Your Earning Potential - YouTube's Latest Rules</u></a></li>
-<li><a href="https://network-issues.techidaily.com/avoiding-common-video-editing-green-screen-failures-on-youtube/"><u>Avoiding Common Video Editing Green Screen Failures on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/code-43-graphics-card-diagnosed/"><u>Code 43: Graphics Card Diagnosed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correct-inverted-monitor-viewing-angle/"><u>Correct Inverted Monitor Viewing Angle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-non-supported-freesync-connection/"><u>Correcting Non-Supported FreeSync Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-res-settings-reinstated-in-win10/"><u>High-Res Settings Reinstated in Win10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a79-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A79 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-a56s-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo A56s 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-monitor-refresh-rate-issues/"><u>Repair Monitor Refresh Rate Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-update-graphics-card-regains-functionality/"><u>Repair Update: Graphics Card Regains Functionality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-shutdown-after-driver-upgrade/"><u>Silent Shutdown After Driver Upgrade</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-leading-eights-imagery-fusion-platform/"><u>[New] The Leading Eight’s Imagery Fusion Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-your-blueprint-for-downloading-youtube-srt-in-3-steps-for-2024/"><u>[New] Your Blueprint for Downloading YouTube SRT in 3 Steps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-cod-cold-war-no-internet-links/"><u>[RESOLVED] CoD Cold War: No Internet Links</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leverage-youtubes-potential-through-strategic-backlinking/"><u>2024 Approved Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects-for-2024/"><u>A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-error-driver-unresponsive-in-windows-10-fixed/"><u>AMD Error: Driver Unresponsive in Windows 10 - Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-cryptic-dx-hurdle-from-lol-gameplay/"><u>Decoding Cryptic DX Hurdle From LoL Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-advice-on-zapping-zoom-issues-right-away/"><u>Expert Advice on Zapping Zoom Issues Right Away</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-podcast-live-the-straightforward-fix/"><u>In 2024, Podcast Live The Straightforward Fix</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-r9-display-driver-bugs-in-windows-10/"><u>Resolving R9 Display Driver Bugs in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solutions-for-legends-crash-fix/"><u>Swift Solutions for Legends Crash Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-now-supports-amds-radeon-hd-6950-latest-drivers-update/"><u>Windows 11 Now Supports AMD's Radeon HD 6950: Latest Drivers Update</u></a></li>
 </ul></div>
 

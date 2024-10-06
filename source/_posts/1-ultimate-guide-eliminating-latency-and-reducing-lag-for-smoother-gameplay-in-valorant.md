@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Eliminating Latency & Reducing Lag for Smoother Gameplay in Valorant"
-date: 2024-09-25T00:53:20.871Z
-updated: 2024-10-01T12:43:42.757Z
+date: 2024-10-04T18:06:13.934Z
+updated: 2024-10-06T20:21:12.683Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Reboot your network
 
  Whether you’re on WiFi or Ethernet, one of the easiest and quickest way to solve the network problem is to**restart your network** . It’ll free up RAM on your router and renew your IP address, which may also fix your high ping issue. Here’s how to do it:
@@ -46,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/netgear-modem.jpg)  
 modem  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/wireless-router.jpg)  
 wireless router
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Wait**60 seconds** and plug them back in. Make sure the indicator lights are back to their normal state.
@@ -80,6 +66,13 @@ You should also make sure the cable is not broken.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/wired-connection.jpg) 
 
  However, if you don’t have the option of shifting connection, you can check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging programs
 
@@ -118,9 +111,23 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
 
@@ -137,15 +144,16 @@ Here’s how to change your DNS settings:
 2. **View** the Control Panel **by Category** . Under **Network and Internet** section, click **View network status and tasks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/control-panel-view-by-category-network-change-dns.jpg)
 3. Click **Change adapter settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-control-adapter-settings-dns-3.jpg)
-4. **Right-click** your current network and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-control-adapter-settings-dns-3.jpg)
+4. **Right-click** your current network and select **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/ethernet-adapter-properties-dns-change.jpg)
 5. Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
@@ -155,27 +163,27 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-dns-server-click-5.jpg)  
  8.8.8.8 and 8.8.4.4 are the most popular DNS servers maintained by Google.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. For the changes to take effect, you need to flush the DNS cache. On your taskbar, type**cmd** in the search box. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 8. In the pop-up window, type in**ipconfig /flushdns** . Press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/cmd-ipconfig-flushdns.jpg)
 
  After changing your DNS server, open Valorant and check if the ping is stable. If this method doesn’t work for you, check out the next trick.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Install all Windows updates
 
@@ -202,23 +210,16 @@ To check for Windows updates, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
- Once you’ve completed this process, open Valorant and see if the ping spikes reappear. If yes, there’s still one last fix you can try.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you’ve completed this process, open Valorant and see if the ping spikes reappear. If yes, there’s still one last fix you can try.
 
 ## Fix 7: Use a VPN
 
@@ -255,24 +256,20 @@ Here are some VPN providers we recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[New] 2024 Approved Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-overcoming-internet-barriers-in-cod-cold-war/"><u>[SOLVED] Overcoming Internet Barriers in CoD Cold War</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-construct-chuckles-adobe-meme-creation/"><u>[Updated] 2024 Approved Construct Chuckles Adobe Meme Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>[Updated] Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screen-in-windows-11-update/"><u>Correcting Upside-Down Screen in Windows 11 Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-stealthy-camera-alerts-on-windows-11/"><u>Disabling Stealthy Camera Alerts on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-zte-axon-40-lite-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974710557-graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-inspiration-boost-with-leading-hr-tapes/"><u>In 2024, Inspiration Boost with Leading HR Tapes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/minimal-troubleshooting-guide-dormant-gpu-display/"><u>Minimal Troubleshooting Guide: Dormant GPU Display</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-media-converter-transform-flv-files-into-mpeg-format-for-free/"><u>Movavi Media Converter - Transform FLV Files Into MPEG Format for Free!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-unwavering-light-on-laptop-screen/"><u>Restored Unwavering Light on Laptop Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-running-videos-on-updated-windows-11-systems/"><u>Smooth-Running Videos on Updated Windows 11 Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-streams-over-sluggish-windows-internet/"><u>Swift Streams over Sluggish Windows Internet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-overcome-sims-4-monochrome-errors/"><u>Swiftly Overcome Sims 4 Monochrome Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-avc-player-on-devices/"><u>Ultimate AVC Player on Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-expenses-in-music-video-creation/"><u>Understanding Expenses in Music Video Creation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oppo-a78-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A78 5G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>[Updated] 2024 Approved Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-adding-emojis-in-youtube-discussions-for-2024/"><u>[Updated] Adding Emojis in YouTube Discussions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquer-flicker-monitor-shines-steadily-now/"><u>Conquer Flicker: Monitor Shines Steadily Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-tecno-pova-5-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Tecno Pova 5</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone XS Max and iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-patches-for-nvidia-geforce-rtx-1660-super-download-now/"><u>Latest Graphics Card Software Patches for NVIDIA GeForce RTX 1660 Super - Download Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operative-systems-now-error-free/"><u>Operative Systems Now Error-Free</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-unsaved-display-settings-issue-fixed/"><u>Overcoming Obstacle: Unsaved Display Settings Issue Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-post-upgrade-media-problems-with-new-windows-10/"><u>Solved Post-Upgrade Media Problems with New Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-buffering-problems-in-discord-streaming-services/"><u>Troubleshooting Continuous Buffering Problems in Discord Streaming Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-quenched-issue-solved/"><u>Win11 Screen Quenched Issue Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-savior-quick-fix-tactics-challenges/"><u>Zoom Camera Savior: Quick Fix Tactics Challenges</u></a></li>
 </ul></div>
 

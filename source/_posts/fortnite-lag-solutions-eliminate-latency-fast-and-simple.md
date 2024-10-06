@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Lag Solutions: Eliminate Latency Fast and Simple"
-date: 2024-09-25T19:12:30.026Z
-updated: 2024-09-30T23:33:34.484Z
+date: 2024-10-01T20:07:07.747Z
+updated: 2024-10-06T18:10:38.964Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Reboot your network
 
  One of the easiest fixes for high ping issues is to simply**restart your network** . By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve the high ping issue. Here is how to do it: 
@@ -56,13 +63,6 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -73,20 +73,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -117,13 +110,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable the proxy server
 
  If you’re using a proxy server, this issue may also occur.**Try disabling your proxy server** and maybe this issue can be resolved. Here is how to do it: 
@@ -131,25 +117,53 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
 
@@ -161,13 +175,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
 
@@ -215,15 +222,24 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-screen-share-problem-between-laptop-and-tv/"><u>[Fixed] Screen Share Problem Between Laptop & TV</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[New] In 2024, Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos-for-2024/"><u>[Updated] Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-nvidiaintel-switch-failure-a-solution-for-win10-users/"><u>Eliminating NVIDIA/Intel Switch Failure: A Solution for Win10 Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-rune-stones-of-assassins-creed-valhalla-epic-medieval-saga-unleashed/"><u>Exploring the Rune Stones of Assassin's Creed: Valhalla - Epic Medieval Saga Unleashed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/garmin-vivomove-hr-unveiled-the-sophisticated-daily-wearable-that-tracks-your-fitness-journey/"><u>Garmin Vivomove HR Unveiled: The Sophisticated Daily Wearable that Tracks Your Fitness Journey</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-cut-and-trim-videos-for-free-the-best-software/"><u>In 2024, Cut and Trim Videos for Free The Best Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/lenovos-stronghold-the-latest-on-the-legion-go/"><u>Lenovo's Stronghold: The Latest on the Legion Go</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-dimmed-monitor-in-lenovo-pc/"><u>Troubleshooting Dimmed Monitor in Lenovo PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974738613-windows-10-cant-change-resolution-solved/"><u>Windows 10 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[New] 2024 Approved The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-techniques-for-effective-webp-to-jpeg-change/"><u>[New] Leading Techniques for Effective WebP to JPEG Change</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-excellence-the-top-5-editing-strategies/"><u>[New] OBS Studio Excellence The Top 5 Editing Strategies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-design-top-5-3d-intro-makers/"><u>[Updated] Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ultimate-beginners-guide-to-convenient-game-edit-software/"><u>[Updated] In 2024, Ultimate Beginner's Guide to Convenient Game Edit Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-enhancements-on-ws-21-ws-10-and-older-windows/"><u>BDR Enhancements on WS-21, WS-10, and Older Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ended-amds-challenge-of-unloading-driver-on-wndows-10/"><u>Ended AMD's Challenge of Unloading Driver on Wndows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-not-recognizing-nvidia-video-hardware/"><u>Fixed: Windows Not Recognizing NVIDIA Video Hardware</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Meizu 21 Pro Bootloader Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-spreadsheet-tasks-with-excel-beyond-chatgpts-capabilities/"><u>Mastering Spreadsheet Tasks with Excel Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-and-intel-graphic-card-harmony-achieved-on-win11/"><u>Nvidia & Intel Graphic Card Harmony Achieved on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-incompatible-freesync-display/"><u>Rectifying Incompatible FreeSync Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-windows-10s-installation-hurdle-code-c1900101/"><u>Remedying Windows 10'S Installation Hurdle - Code C1900101</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-sims-4-absence-of-display/"><u>Tackle Sims 4 Absence of Display</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-funny-image-makers-for-ios-and-android-users/"><u>Top Funny Image Makers for iOS and Android Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
 

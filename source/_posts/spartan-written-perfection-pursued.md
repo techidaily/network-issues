@@ -1,7 +1,7 @@
 ---
 title: "Spartan' Written: Perfection Pursued"
-date: 2024-09-26T08:48:27.367Z
-updated: 2024-10-01T05:35:09.183Z
+date: 2024-09-29T16:24:09.044Z
+updated: 2024-10-06T19:09:20.510Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 * [Fix 3: Verify game files](#h-fix-3-verify-game-files)
 * [Fix 4: Check for system updates](#fix6)
 * [Fix 5: Repair system files](#block-628daa0c-75c9-4796-b5ca-d131e3878f6e)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check the system requirements
 
@@ -64,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify game files
 
  Verifying the game files is a useful fix to solve game issues, especially when game are crashing or having terrible performance. As a new game, God of War has new patches roll out almost every day, verifying your game files may resolve installation corruption that prevents you from being able to play the game.
@@ -78,26 +78,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t fix the problem, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Check for system updates
@@ -108,20 +95,27 @@ If this doesn’t fix the problem, take a look at the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -136,15 +130,15 @@ If the latest updates don’t work for you, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -168,18 +162,22 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-speedy-engagement-the-how-to-for-video-speed-in-stories/"><u>[New] Speedy Engagement The How-To for Video Speed in Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-pro-tech-reviews-sharex-and-more/"><u>[Updated] In 2024, Pro Tech Reviews ShareX & More</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-sync-your-sound-instagrams-musical-world/"><u>[Updated] In 2024, Sync Your Sound Instagram's Musical World</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-g24-power-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola G24 Power</u></a></li>
-<li><a href="https://network-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-correct-c1900101-error-in-win10/"><u>How to Correct C1900101 Error in Win10</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-12-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 12 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715854889341-in-2024-how-to-record-a-voice-over-for-a-video/"><u>In 2024, How To Record A Voice Over For A Video?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-video-edits-with-adobe-premiere/"><u>In 2024, Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-rectify-acer-screen-glarespeed/"><u>Steps to Rectify Acer Screen Glarespeed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-when-madden-22-stops-working/"><u>Troubleshooting Tips for When Madden 22 Stops Working</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-frustration-ended-heres-how-to-fix-it/"><u>Zoom Frustration Ended: Here's How to Fix It</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assassins-creed-valhalla-navigating-through-an-epic-norse-saga-in-the-medieval-era/"><u>'Assassin's Creed: Valhalla' - Navigating Through an Epic Norse Saga in the Medieval Era!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-gaining-ground-on-competitors-with-your-instagram-videos/"><u>[Updated] 2024 Approved Gaining Ground on Competitors with Your Instagram Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-missing-graphics-configuration-screens/"><u>Addressing Missing Graphics Configuration Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/big-bulky-minipcs-with-brainy-bare-performance/"><u>Big, Bulky Minipcs with Brainy Bare Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits-and-rising-economic-growth-over-the-next-six-months-to-drive-further-gain149/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits and Rising Economic Growth over the Next Six Months to Drive Further Gains</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-mirrored-display-in-windows-10/"><u>Correcting Mirrored Display in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-limitation-in-overwatch-cleared-update-completed/"><u>GPU Limitation in Overwatch Cleared, Update Completed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-80-pro-straight-screen-edition-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor 80 Pro Straight Screen Edition for Free? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-amd-radeon-r9-drivers-in-win11/"><u>Mastering AMD Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/non-edge-processes-lurking-in-task-manager/"><u>Non-Edge Processes Lurking in Task Manager</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-common-green-screen-hiccups-in-video-editing/"><u>Overcoming Common Green Screen Hiccups in Video Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-gpu-shortage-in-overwatch/"><u>Overcoming GPU Shortage in Overwatch</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-10-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 10 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-magic-6-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-triumph/"><u>Qualcomm Adapter Compatibility - Windows 10 Triumph</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-management-made-easy-the-best-practices-in-mov-on-win-11-for-2024/"><u>Video Management Made Easy The Best Practices in .MOV on Win 11 for 2024</u></a></li>
 </ul></div>
 

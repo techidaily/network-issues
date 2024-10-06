@@ -1,7 +1,7 @@
 ---
 title: No Suitable CG Available, Fix Needed
-date: 2024-08-15T08:00:46.408Z
-updated: 2024-08-16T08:00:46.408Z
+date: 2024-09-29T20:41:04.235Z
+updated: 2024-10-06T18:17:03.852Z
 tags:
   - win11
   - win10
@@ -30,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 2. [Update graphics card driver](#Solution2)
 3. [Delete the config.dat file of your game](#Solution3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## What is Graphics Card and why this problem happens
 
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
 
  No Suitable Graphics Card Found error occurs usually because the developer changes the settings of the game, or your graphics card adapter is not suitable for the display anymore. So you can follow the solutions below to solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your PC
 
  Restarting your PC helps your PC to check through the system and automatically update your Windows, then the problem may be automatically resolved.
@@ -55,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -76,8 +74,12 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
  2) Run Driver Easy and click **Scan Now**  . Then Driver Easy will scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
@@ -91,9 +93,12 @@ Or click **Update All**  to automatically download and install the correct versi
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -103,13 +108,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  1) Go to**Documents**  \>**My Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
@@ -128,8 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,8 +144,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-your-iphones-creative-edge-top-10-best-no-cost-collages-and-editing-tools/"><u>[New] 2024 Approved Your iPhone’s Creative Edge – Top 10 Best, No-Cost Collages & Editing Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-advanced-methods-save-vimeo-content/"><u>[New] In 2024, Advanced Methods Save Vimeo Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-macs-2023-update-youtube-audio-to-mp3-step-by-step/"><u>[New] In 2024, Mac's 2023 Update YouTube Audio to MP3 Step-by-Step</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-no-signal-on-windows-11-wi-fi-adapter/"><u>[SOLVED] No Signal on Windows 11 Wi-Fi Adapter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-extra-space-on-windows-monitors/"><u>Eliminated Extra Space on Windows Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-x232x-not-functioning-armored/"><u>GeForce X232X Not Functioning, Armored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-xr-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-devices-to-desktops-proven-file-transfer-ways/"><u>In 2024, From Devices to Desktops Proven File Transfer Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-moto-g14-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Moto G14 Phone that is Locked?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-p55-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel P55 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-zte-nubia-z60-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your ZTE Nubia Z60 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-original-screen-aspect-ratio/"><u>Restore Original Screen Aspect Ratio</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-accessibility-to-visual-preferences-in-nvidia/"><u>Restoring Accessibility to Visual Preferences in Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-solution-guide-idle-graphics-card-wnvidia/"><u>Simple Solution Guide: Idle Graphics Card W/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-transition-between-intelnvidia-cards-in-win11-now/"><u>Smooth Transition Between Intel/Nvidia Cards in Win11 Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-streaming-disruptions-with-windows-11-update/"><u>Triumph Over Streaming Disruptions with Windows 11 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-when-voice-chat-fails-to-function/"><u>Troubleshooting Steps for Black Ops Cold War When Voice Chat Fails to Function</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-quickly-and-effectively-convert-youtube-content-into-mp3-format-for-offline-listening/"><u>Ultimate Guide: Quickly and Effectively Convert YouTube Content Into MP3 Format for Offline Listening</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-ui-freeze-up-graphics-fix-solutions-nearby/"><u>WinOS UI Freeze-Up, Graphics Fix (Solutions Nearby)</u></a></li>
+</ul></div>
 

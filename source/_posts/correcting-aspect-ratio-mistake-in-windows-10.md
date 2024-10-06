@@ -1,7 +1,7 @@
 ---
 title: Correcting Aspect Ratio Mistake in Windows 10
-date: 2024-08-15T07:59:50.296Z
-updated: 2024-08-16T07:59:50.296Z
+date: 2024-09-30T16:03:39.510Z
+updated: 2024-10-06T17:21:18.088Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 **Note** : It would be so uncomfortable to search from Google and follow the solutions on your computer screen, so we recommend using another computer or mobile phone to search and follow the instructions below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Method 1: Fix screen upside down with keyboard shortcuts
 
  This is a simple and easy way to fix screen upside in Windows 10 computer/laptop. Before getting started, you should make sure that Hot Keys are enabled in your Windows 10 computer. Here’s how to do it:
@@ -42,15 +39,16 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  1) Right click on the empty area on your desktop, and select**Graphics Settings** or**Graphics Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On your keyboard, simultaneously press**Ctrl** +**Alt** +**Arrow** key.
@@ -63,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Method 2: Fix screen upside down via Display settings
 
  You can also modify the Display settings in Windows 10 to fix the**screen upside down issue** . To do so:
@@ -70,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  1) Right click on any empty area on your desktop, and select**Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
@@ -103,9 +108,12 @@ There are two options to update drivers in Windows 10:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
@@ -131,8 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,8 +146,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-ramp-up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>[New] Ramp Up Visibility Strategies for Engaging Shorts on YouTub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-insider-written-by-an-experienced-video-editor/"><u>[Updated] Exclusive Insider' Written by an Experienced Video Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-tech-manual-for-game-screen-recording-win10/"><u>[Updated] The Complete Tech Manual for Game Screen Recording Win10</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-unwanted-screen-flashing/"><u>Eliminate Unwanted Screen Flashing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-win10-and-geforce-98nvidia/"><u>Mastering Win10 & GeForce 98/Nvidia</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-on-facebook-in-just-five-steps/"><u>Maximizing Productivity on Facebook in Just Five Steps!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-patch-atheros-qca61x4-networking-fixed-in-win11/"><u>Qualcomm's Patch: Atheros QCA61x4 Networking Fixed in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-magic-vs-2-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Magic Vs 2 has been deleted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remove-delays-in-live-streaming-videos/"><u>Remove Delays in Live Streaming Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-incompatible-device-errors-in-windows/"><u>Resolved Incompatible Device Errors in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smart-1080p-touch-screen-msi-desktop-with-advanced-artificnial-intelligence-features/"><u>Smart 1080P Touch Screen MSI Desktop with Advanced Artificnial Intelligence Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-stable-hp-display-function/"><u>Steps for Stable HP Display Function</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-fallout-4-pc-issues-effortlessly/"><u>Taming Fallout 4 PC Issues Effortlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-t2x-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo T2x 5G Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974411432-zero-tolerance-for-zoom-cameras-gone-wrong-weve-got-the-fixes/"><u>Zero Tolerance for Zoom Cameras Gone Wrong? We've Got the Fixes</u></a></li>
+</ul></div>
 

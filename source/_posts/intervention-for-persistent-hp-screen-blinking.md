@@ -1,7 +1,7 @@
 ---
 title: Intervention for Persistent HP Screen Blinking
-date: 2024-09-27T02:28:25.602Z
-updated: 2024-09-30T18:27:54.224Z
+date: 2024-10-05T18:11:12.528Z
+updated: 2024-10-06T18:25:40.756Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -47,13 +47,6 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -72,6 +65,13 @@ Here is how to do it:
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -101,13 +101,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 #### **I’m using Windows 7 or 8.1:**
@@ -115,6 +108,13 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
@@ -134,10 +134,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -166,19 +166,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-prime-time-action-film-transcription/"><u>[New] 2024 Approved Prime Time Action Film Transcription</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-guide-to-troubleshoot-instagram-videos/"><u>[Updated] 2024 Approved Quick Guide to Troubleshoot Instagram Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-saturation-savvy-professionals-secrets-revealed/"><u>2024 Approved Saturation Savvy Professionals' Secrets Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/4-pro-strategies-to-record-facebook-calls-professionally/"><u>4 Pro Strategies to Record Facebook Calls Professionally</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boosted-gaming-experience-nvidia-210-for-win10-os/"><u>Boosted Gaming Experience: NVIDIA 210 for WIN10 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disentangled-power-management-options/"><u>Disentangled: Power Management Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-dilemma-solved-nvidia-stable-now/"><u>Display Dilemma Solved: Nvidia Stable Now</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/enhancing-digital-marketing-strategies-the-efficiency-of-cookiebot-technology/"><u>Enhancing Digital Marketing Strategies: The Efficiency of Cookiebot Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/essential-steps-for-eradicating-uneven-screen-horizontal-lines/"><u>Essential Steps for Eradicating Uneven Screen Horizontal Lines</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-win11-dark-mode-post-creators-fix/"><u>Fixing Win11 Dark Mode Post-Creators Fix</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-visuals-after-win10-fall-update/"><u>Restoring Visuals After Win10 Fall Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smart-image-management-on-ios-devices/"><u>Smart Image Management on iOS Devices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transform-your-vocabulary-with-mondly-top-app-of-2022/"><u>Transform Your Vocabulary with Mondly - Top App of 2022</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maintain-anonymity-in-fb-narratives/"><u>[New] 2024 Approved Maintain Anonymity in FB Narratives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastery-in-radio-theatre-craftsm-written-for-2024/"><u>[Updated] Mastery in Radio-Theatre Craftsm Written for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726227653987-avi/"><u>如何輕鬆壓縮AVI影片：用捷速方式縮小大型文件</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-stuttery-screens-on-windows-7/"><u>Addressing Stuttery Screens on Windows 7</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-online-presence-using-cookiebot-solutions/"><u>Elevate Online Presence Using Cookiebot Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quick-tips-for-nvidia-screen-capturing/"><u>In 2024, Quick Tips for NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-find-x7-ultra-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Find X7 Ultra Android SIM Unlock APK</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-uninterrupted-media-playback-post-win11-update/"><u>Mastering Uninterrupted Media Playback Post Win11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-windows-10-blurry-image-issue/"><u>Solving Windows 10 Blurry Image Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-au-addon-for-iptv-streaming-in-kodi-with-over-30-australian-free-tv-channel-options/"><u>Step-by-Step Guide: Setting Up the AU Addon for IPTV Streaming in Kodi with Over 30 Australian Free TV Channel Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-overcome-c1900101-installation-hiccup/"><u>Steps to Overcome C1900101 Installation Hiccup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-content-creators-ally-exploring-9-benefits-of-integrating-chatgpt-into-your-workflow/"><u>The Content Creator's Ally: Exploring 9 Benefits of Integrating ChatGPT Into Your Workflow</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-using-obs-and-streamlabs-together-mac-for-2024/"><u>The Ultimate Guide to Using OBS and Streamlabs Together (Mac) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-enhanced-graphics-support-amds-radeon-hd-6950-update/"><u>Win11 Enhanced Graphics Support - AMD's Radeon HD 6950 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-version-updates-fixed-bd-issues-in-ms-driver/"><u>Windows Version Updates: Fixed BD Issues in MS DRIVER</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-dxgkrnlsys-error-resolved-blue-screen/"><u>WinOS dxgkrnl.sys Error Resolved - Blue Screen</u></a></li>
 </ul></div>
 

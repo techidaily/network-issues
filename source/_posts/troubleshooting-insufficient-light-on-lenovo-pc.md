@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Insufficient Light on Lenovo PC
-date: 2024-08-15T07:56:51.484Z
-updated: 2024-08-16T07:56:51.484Z
+date: 2024-10-01T17:26:20.102Z
+updated: 2024-10-06T19:24:00.226Z
 tags:
   - win11
   - win10
@@ -47,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -60,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -71,31 +79,32 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
 **a)**  Press the**Win** and**R** keys on your keyboard at the same time to open the**Run** dialog. Then type “_**regedit**_ ” and hit**Enter** . This will open Registry Editor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -109,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,8 +125,26 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/gained-entry-to-gpu-preferences-panel/"><u>[Gained] Entry to GPU Preferences Panel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-beginners-blueprint-for-yourwebcamrecord/"><u>[New] 2024 Approved Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-price-tracker-finding-the-best-cloud-services/"><u>[New] Price Tracker Finding the Best Cloud Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-real-time-recording-made-easy-for-your-skype-sessions/"><u>[New] Real-Time Recording Made Easy for Your Skype Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/1717306115489-new-top-6-youtube-outro-makers-lots-of-free-options/"><u>[New] Top 6 YouTube Outro Makers-Lots of FREE Options!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screenflow-extensive-review-unveiling-the-mac-experience/"><u>[Updated] ScreenFlow Extensive Review Unveiling the Mac Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>2024 Approved Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-impressive-initiations-podcasting-prose-poems/"><u>2024 Approved Impressive Initiations Podcasting Prose Poems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieving-compatibility-perfection-win10-plus-nvidia/"><u>Achieving Compatibility Perfection: Win10 + Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-windows-11-screen-post-update-fix/"><u>Fix Windows 11 Screen Post Update Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guiding-gpu-fan-repair-process/"><u>Guiding GPU Fan Repair Process</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-silliness-set-to-sound-10-hilarious-hits/"><u>In 2024, Silliness Set to Sound 10 Hilarious Hits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-screen-ignored-repair-success-reported/"><u>Lenovo Screen Ignored: Repair Success Reported</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-11-window-width-woes/"><u>Overcoming Windows 11 Window Width Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-conflicts-between-nvidia-and-windows-11/"><u>Resolving Conflicts Between Nvidia and Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/settling-the-riddle-peculiar-x-error-in-lol-unraveled/"><u>Settling the Riddle: Peculiar X Error in LoL Unraveled</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-internet-portals-into-windows-apps/"><u>Transforming Internet Portals Into Windows Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-solutions-for-a-blackout-on-android-phones-expert-fixes/"><u>Unlocking Solutions for a Blackout on Android Phones - Expert Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-detects-adapter-whats-next/"><u>Windows 10 Detects Adapter: What's Next?</u></a></li>
+</ul></div>
 

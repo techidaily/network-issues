@@ -1,7 +1,7 @@
 ---
 title: Improving Image Sharpness for Ubisoft's New Virtual Island
-date: 2024-09-25T18:22:53.580Z
-updated: 2024-09-30T20:19:44.481Z
+date: 2024-10-03T18:55:45.470Z
+updated: 2024-10-06T21:36:04.730Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -51,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable/Uninstall the HD texture pack
@@ -105,8 +112,22 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -120,36 +141,23 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
-3. Once the game executable is added, click **Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
+3. Once the game executable is added, click **Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t help, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -160,27 +168,20 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -204,16 +205,20 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-doom-eternal-xbox-crash-directx-problem/"><u>[FIXED] Doom Eternal Xbox Crash - DirectX Problem</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-thumbnail-size-mastery-for-higher-traffic-videos/"><u>[New] 2024 Approved Thumbnail Size Mastery for Higher Traffic Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-propel-your-instagram-videos-into-the-public-eye/"><u>[Updated] In 2024, Propel Your Instagram Videos Into the Public Eye</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>[Updated] Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>2024 Approved Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-music-law-guide-for-instagram-users/"><u>2024 Approved The Music Law Guide for Instagram Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/correct-printer-configuration-errors-in-w11/"><u>Correct Printer Configuration Errors in W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-repair-error-43-settled/"><u>Device Repair: Error 43 Settled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dismiss-the-disturbance-in-win11-display/"><u>Dismiss the Disturbance in Win11 Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/speaking-globally-how-to-harness-chatgpts-abilities-for-multilingual-interaction/"><u>Speaking Globally: How to Harness ChatGPT's Abilities for Multilingual Interaction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-in-class-slideshow-maker-xi-to-x-series-iphones/"><u>[New] Best-in-Class Slideshow Maker XI to X Series iPhones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-strategies-for-capturing-starlit-self-portraits/"><u>[Updated] Essential Strategies for Capturing Starlit Self-Portraits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-apple-device-exclusive-reviews-top-voice-recorders-unveiled/"><u>[Updated] In 2024, Apple Device Exclusive Reviews Top Voice Recorders Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beyond-cyberlink-hunt-for-the-ultimate-screen-recording-app/"><u>[Updated] In 2024, Beyond Cyberlink Hunt for the Ultimate Screen Recording App</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-backups-fix-desktop-upside-down/"><u>Aligning Backups: Fix Desktop Upside Down</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blink-no-more-notebook-screen-stabilized/"><u>Blink No More: Notebook Screen Stabilized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-inverted-screens-on-microsofts-windows-10/"><u>Fix: Inverted Screens on Microsoft's Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/frame-rate-dilemma-30-vs-60-fps-in-video-production/"><u>Frame Rate Dilemma 30 Vs. 60 FPS in Video Production</u></a></li>
+<li><a href="https://win-able.techidaily.com/identifying-and-solving-continuous-crashes-with-the-rust-language/"><u>Identifying and Solving Continuous Crashes with the Rust Language</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-list-of-ten-soaring-youtube-creations-with-speed-and-purpose/"><u>In 2024, A List of Ten Soaring YouTube Creations with Speed and Purpose</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 8 Plus How to Bypass?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-3080-troubleshooting-resurrect-your-gaming-experience/"><u>RTX 3080 Troubleshooting: Resurrect Your Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiled-fix-for-msdn-error-nvidia-card-missing/"><u>Unveiled Fix for MSDN Error - NVIDIA Card Missing</u></a></li>
 </ul></div>
 

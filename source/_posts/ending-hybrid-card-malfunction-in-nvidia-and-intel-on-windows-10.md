@@ -1,7 +1,7 @@
 ---
 title: Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10
-date: 2024-09-25T13:56:18.693Z
-updated: 2024-10-01T09:35:46.051Z
+date: 2024-10-01T18:12:12.225Z
+updated: 2024-10-06T18:15:43.102Z
 tags:
   - win11
   - win10
@@ -37,21 +37,35 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -90,38 +104,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -131,16 +131,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,16 +157,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-fb-slideshows-for-content-sharing/"><u>[New] In 2024, Mastering FB Slideshows for Content Sharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-xbox-power-up-with-these-top-hard-drives-rankings-for-2024/"><u>[New] Xbox Power-Up with These Top Hard Drives Rankings for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expertly-edited-content-choosing-the-best-editor/"><u>[Updated] 2024 Approved Expertly Edited Content Choosing The Best Editor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nikon-d500-and-its-stance-on-high-quality-imaging/"><u>[Updated] Nikon D500 and Its Stance on High-Quality Imaging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-blueprinting-a-thrilling-film-flashpoint/"><u>In 2024, Blueprinting a Thrilling Film Flashpoint</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nightfall-on-screen-with-new-driver/"><u>Nightfall on Screen with New Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-oscillating-screen-woes-in-pro-7/"><u>Overcoming Oscillating Screen Woes in Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gdrivererr22-issue/"><u>Resolved GDRIVER_ERR#22 Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-ultimate-media-value-for-10month-verizon-users-enjoy-netflix-and-max-extras/"><u>Unlock Ultimate Media Value: For $10/Month, Verizon Users Enjoy Netflix and Max Extras!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-grasping-fcp-obtain-it-at-no-cost/"><u>[New] Grasping FCP Obtain It at No Cost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-obs-studio-edge-top-5-video-enhancements-unveiled-for-2024/"><u>[New] OBS Studio Edge Top 5 Video Enhancements Unveiled for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-most-effective-budget-friendly-video-collaboration-tools-for-companies-and-classrooms-for-2024/"><u>[Updated] Unveiling the Most Effective Budget-Friendly Video Collaboration Tools For Companies & Classrooms for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>2024 Approved Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-videos-from-mp4-to-wmv-or-vice-versa-quick-and-reliable-online-tool/"><u>Convert Videos From MP4 to WMV or Vice Versa - Quick & Reliable Online Tool</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-magic-5-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor Magic 5 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-knowledge-for-recording-movies-anywhere/"><u>In 2024, Essential Knowledge for Recording Movies Anywhere</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/issue-overcome-windows-10s-screen-shows-only-fractional-windows/"><u>Issue Overcome - Windows 10'S Screen Shows Only Fractional Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimize-windows-10-resolution-highs/"><u>Minimize Windows 10 Resolution Highs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-flickering-on-surface-pro-7/"><u>Preventing Flickering on Surface Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974215162-streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10.</u></a></li>
 </ul></div>
 
