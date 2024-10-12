@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems"
-date: 2024-09-29T17:42:31.118Z
-updated: 2024-10-06T17:03:25.155Z
+date: 2024-10-11T01:16:39.416Z
+updated: 2024-10-11T17:55:20.958Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
     
@@ -96,6 +96,13 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
@@ -103,10 +110,10 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -118,10 +125,16 @@ Follow the steps below:
 2. Now type in the following commands and hit **Enter**  after each one.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
@@ -131,10 +144,10 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -142,13 +155,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -171,14 +177,20 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-inside-the-core-a-thorough-insight-into-xstudio-video-studio-for-2024/"><u>[Updated] Inside the Core A Thorough Insight Into XStudio Video Studio for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-11/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/essential-mac-shortcuts-mastering-the-keyboard-for-email-efficiency/"><u>Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-itel-p55-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Itel P55 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/how-to-fix-nvidia-geforce-error-0x0003-a-comprehensive-guide/"><u>How to Fix NVIDIA GeForce Error 0X0003 - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-insiders-choice-the-best-fb-video-tools/"><u>In 2024, Insider's Choice The Best FB Video Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-7025-and-nforce630a-resolved-windows-issue/"><u>Nvidia 7025 & nForce630a: Resolved Windows Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-troubleshooting-windows-system-error-resolved/"><u>Nvidia Troubleshooting - Window's System Error Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-r9-graphics-issues-for-windows-10-users/"><u>Troubleshooting R9 Graphics Issues for Windows 10 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-10-best-video-calling-software-on-phone-and-pc/"><u>[New] 2024 Approved 10 Best Video Calling Software on Phone and PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-fb-video-calls-best-practices-for-2024/"><u>[New] The Ultimate Guide to FB Video Calls Best Practices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/a-lista-dos-melhores-software-de-edicao-de-video-para-profissionais-no-ano-de-2e-2024/"><u>A Lista Dos Melhores Software De Edição De Vídeo Para Profissionais No Ano De 2E 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-yuva-3-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Yuva 3</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disarming-display-disturbances-on-pro-7/"><u>Disarming Display Disturbances on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-issue-amdnvidia-missing/"><u>Display Issue: AMD/NVIDIA Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-crt-artifacts-on-desktop/"><u>Eradicate CRT Artifacts on Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-res-displays-not-setting-in-w11/"><u>High-Res Displays Not Setting In W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-insider-written-by-an-experienced-video-editor/"><u>In 2024, Exclusive Insider' Written by an Experienced Video Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-zoom-livestream-setup-guide-for-youtube-enthusiasts/"><u>In 2024, Step-by-Step Zoom Livestream Setup Guide for YouTube Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-javascriptdll-file-missing-issues-comprehensive-troubleshooting-guide/"><u>Resolving 'JavaScript.dll File Missing' Issues - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-steps-to-rectify-display-line-issues-on-notebooks/"><u>Simple Steps to Rectify Display Line Issues on Notebooks</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-your-social-scene-top-tips-for-a-personalized-fb-experience/"><u>Tailoring Your Social Scene: Top Tips for a Personalized FB Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-reno-11-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo Reno 11 5G Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-full-view-issue-screen-fix-confirmed/"><u>Windows 10 Full View Issue: Screen Fix Confirmed</u></a></li>
 </ul></div>
 

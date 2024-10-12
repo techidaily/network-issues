@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Anthem Performance
-date: 2024-10-04T17:34:30.668Z
-updated: 2024-10-06T22:28:23.769Z
+date: 2024-10-11T05:10:52.872Z
+updated: 2024-10-11T18:32:32.793Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
  6) In**Graphics Quality** , choose**Custom** ;  
@@ -78,13 +71,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Adjust your PC settings
 
  You can also tweak your system settings to make the best of your PC. Here’re the instructions on how to**limit the number of startup apps** ,**disable CPU Parking** ,**update your graphics driver:**
@@ -101,6 +87,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Disable CPU Core Parking
 
  Core parking is a utility in Windows that helps save power by scaling the number of logical processors in use based on the workload. If enabled, it can cause your CPU to be in a sleep state and decrease the performance of your CPU.
@@ -111,15 +104,22 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
@@ -127,10 +127,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the**System Configuration** window, click**OK** .  
@@ -160,10 +160,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -194,13 +194,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -208,6 +201,13 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -218,10 +218,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
@@ -253,22 +253,19 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-look-camstudios-full-screen-capabilities/"><u>[New] Comprehensive Look CamStudio's Full Screen Capabilities</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-tunefab-revolutionizing-the-art-of-video-capture-for-2024/"><u>[New] Tunefab Revolutionizing the Art of Video Capture for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooted-cod-cold-wars-network-issues/"><u>[TROUBLESHOOTED]: CoD Cold War's Network Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1-seamless-conversion-of-gifs-to-high-quality-m4v-files-free-service-by-movavi/"><u>1. Seamless Conversion of GIFs to High-Quality M4V Files - Free Service by Movavi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-compatibility-issues-on-amd-freesync-display/"><u>Correcting Compatibility Issues on AMD FreeSync Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-setup-flaw-eliminated/"><u>Direct3D Setup Flaw Eliminated</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-amd-eft-graphical-snags/"><u>Fix AMD EFT Graphical Snags</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform-for-2024/"><u>How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-12-ideal-video-cameras-for-aspiring-and-seasoned-vloggers/"><u>In 2024, 12 Ideal Video Cameras for Aspiring and Seasoned Vloggers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-kinemasters-transition-playbook-for-cinematic-excellence/"><u>In 2024, Kinemaster’s Transition Playbook for Cinematic Excellence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-non-functional-subtitles-on-roku-streamers/"><u>Quick Fixes for Non-Functional Subtitles on Roku Streamers</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-v14-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.4 File using PDF Repair Tool</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-installation-for-nvidia-hardware-supported/"><u>Seamless Installation for Nvidia Hardware Supported</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-video-glitches-post-windows-11-launch/"><u>Tackling Video Glitches Post-Windows 11 Launch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-elusive-stable-wi-fi-connection/"><u>The Elusive Stable Wi-Fi Connection</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-files-preventing-read-only-in-win11/"><u>Unlocking Your Files: Preventing Read-Only in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-screen-fix-achieved-desired-fullscreen/"><u>Win11 Screen Fix: Achieved Desired Fullscreen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-youtube-seo-optimization/"><u>[New] The Ultimate Guide to YouTube SEO Optimization</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>[Updated] In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-nintendo-switchs-ultimate-hd-gameplay/"><u>[Updated] Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-local-group-policy-editor-in-windows-11/"><u>10 Ways to Open the Local Group Policy Editor in Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-15-groundbreayer-tiktok-challenges-to-master-now/"><u>2024 Approved 15 Groundbreayer TikTok Challenges to Master Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-perfecting-your-video-with-story-remix-and-windows-photos/"><u>2024 Approved Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-sweep-viewers-off-their-feet-templates-that-work-wonders/"><u>2024 Approved Sweep Viewers Off Their Feet Templates That Work Wonders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-7-reversal-bug-fix/"><u>Adjusting Windows 7 Reversal Bug Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-youtubes-green-tint-troubles-in-post-production/"><u>Eliminating YouTube's Green Tint Troubles in Post-Production</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-wow51900319-in-world-of-warcraft/"><u>How To Fix WOW51900319 In World Of Warcraft</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-speed-say-goodbye-to-lags/"><u>Lightning Speed: Say Goodbye to Lags</u></a></li>
+<li><a href="https://network-issues.techidaily.com/modify-unwanted-windows-display-extent/"><u>Modify Unwanted Windows Display Extent</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-virtual-construction-gameplay-speed/"><u>Optimize Virtual Construction Gameplay Speed</u></a></li>
 </ul></div>
 

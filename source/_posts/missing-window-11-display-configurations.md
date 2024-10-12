@@ -1,7 +1,7 @@
 ---
 title: Missing Window 11 Display Configurations
-date: 2024-10-03T21:55:41.246Z
-updated: 2024-10-06T20:19:41.016Z
+date: 2024-10-10T08:35:56.446Z
+updated: 2024-10-11T23:09:37.503Z
 tags:
   - win11
   - win10
@@ -26,10 +26,16 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
@@ -59,22 +65,15 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -88,15 +87,28 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
@@ -130,16 +142,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-screenshoting-made-easy-leveraging-ezvid-video-maker-for-2024/"><u>[Updated] Screenshoting Made Easy Leveraging Ezvid Video Maker for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-viral-click-title-genie/"><u>[Updated] Ultimate Viral Click Title Genie</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>2024 Approved Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-account-deletion-a-step-by-step-how-to-guide/"><u>ChatGPT Account Deletion - A Step-by-Step How-To Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974390546-effortlessly-enhance-intel-graphics-3000-via-windows-10-driver-upgrade/"><u>Effortlessly Enhance Intel Graphics 3000 via Windows 10 Driver Upgrade</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-premier-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 Premier 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-civilization-v-performance-on-pc/"><u>Optimizing Civilization V Performance on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quickening-wi-fi-upgrading-win1110-performance/"><u>Quickening Wi-Fi: Upgrading WIN11/10 Performance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-rust-issues-effective-solutions-to-wake-up-non-responsive-projects/"><u>Resolving Rust Issues: Effective Solutions to Wake Up Non-Responsive Projects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secure-and-streamlined-os-functionality/"><u>Secure and Streamlined OS Functionality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/timely-driver-updates-for-optimized-windows-and-intel-performance/"><u>Timely Driver Updates for Optimized Windows & Intel Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-magix-vision-enhancement-a-detailed-review/"><u>[New] MAGIX Vision Enhancement A Detailed Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>[Updated] 2024 Approved A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-gourmet-guide-culinary-video-production/"><u>[Updated] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-strategies-to-successfully-broadcast-facespace-lives-on-tv/"><u>[Updated] In 2024, Strategies to Successfully Broadcast Facespace Lives on TV</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-syncopating-stories-a-how-to-for-music-on-instagram/"><u>[Updated] In 2024, Syncopating Stories A How-To for Music on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/como-habilitar-la-transferencia-automatica-de-archivos-entre-carpetas-locales-y-su-nas-synology-mediante-windows/"><u>Cómo Habilitar La Transferencia Automática De Archivos Entre Carpetas Locales Y Su NAS Synology Mediante Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-prevent-android-apps-from-operating-in-the-background/"><u>Effective Techniques to Prevent Android Apps From Operating in the Background</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-digital-cash-kings-leading-youtube-creators/"><u>In 2024, Digital Cash Kings Leading YouTube Creators</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Missing Component Alert: Spot and Fix NVIDIA GPU Absence"
-date: 2024-08-22T13:39:09.184Z
-updated: 2024-08-23T13:39:09.184Z
+date: 2024-10-09T22:46:19.651Z
+updated: 2024-10-12T00:52:24.484Z
 tags:
   - win11
   - win10
@@ -36,7 +36,21 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
@@ -52,13 +66,17 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update the NVIDIA Graphics Driver
 
  If Method 1 doesn’t resolve the problem, it’s suggested that you update the driver to the latest version.
@@ -74,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -84,18 +99,16 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 4: Update BIOS**
 
  You can go to the motherboard manufacturer’s website or the PC manufacturer’s website to check for and download the latest BIOS version that you can update. Contact your PC manufacturer or technician whom you could ask for assistance to help with this, as updating BIOS incorrectly can cause serious problems .
@@ -106,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,8 +126,26 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-quick-fix-tweeter-conversion-for-social-sharing/"><u>[New] 2024 Approved Quick-Fix Tweeter Conversion for Social Sharing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ntering-the-fullscreen-realm-choosing-a-cms/"><u>[New] Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-online-gaming-earnings-in-the-future/"><u>[Updated] Online Gaming Earnings in the Future</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-find-x6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo Find X6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blinking-error-screen-invisible/"><u>Blinking Error: Screen Invisible</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinema-kings-and-queens-iphones-leading-8-freepluspaid-watching-options-for-2024/"><u>Cinema Kings & Queens IPhone's Leading 8 FREE+Paid Watching Options for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-screen-visibility-in-lenovo-laptops/"><u>Improving Screen Visibility in Lenovo Laptops</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-f15-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy F15 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nokia-c32-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nokia C32 Phone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/international-law/"><u>International Law</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quenched-flicker-phantom-screen-stabilized/"><u>Quenched Flicker Phantom: Screen Stabilized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-resolution-clearing-up-loot-crash-in-apex/"><u>Rapid Resolution: Clearing Up Loot Crash in Apex</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-amds-detection-driver-now-functions-on-win10/"><u>Smooth Sailing: AMD's Detection Driver Now Functions on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-hybrid-gpu-issues-nvidiaintel-fix-for-windows-10/"><u>Tackling Hybrid GPU Issues: NVIDIA/Intel Fix for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-nikon-video-editing-tutorial-for-beginners-and-pros/"><u>The Ultimate Nikon Video Editing Tutorial for Beginners and Pros</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-boosted-by-amd-radeon-driver-v20/"><u>Windows 10 Gets Boosted by AMD Radeon Driver V2.0</u></a></li>
+</ul></div>
 

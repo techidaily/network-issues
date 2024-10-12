@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error"
-date: 2024-10-03T16:07:51.396Z
-updated: 2024-10-06T19:27:08.121Z
+date: 2024-10-09T07:55:32.970Z
+updated: 2024-10-12T05:42:53.178Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -73,13 +66,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -117,22 +117,8 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
@@ -151,6 +137,13 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -164,16 +157,24 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -192,20 +193,21 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quick-guide-to-saving-switch-gameplay-videos/"><u>[New] 2024 Approved Quick Guide to Saving Switch Gameplay Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-10-wireless-adapter-missing/"><u>[SOLVED] Windows 10 Wireless Adapter Missing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-dialogue-engaging-your-youtube-fans/"><u>[Updated] Mastering Dialogue Engaging Your YouTube Fans</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-tricks-for-smooth-auditory-paths-for-2024/"><u>[Updated] Top Tricks for Smooth Auditory Paths for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-cards-without-directx-support/"><u>AMD Cards Without DirectX Support</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-utorrent-speed-game-win-friendly-tips/"><u>Elevate Your uTorrent Speed Game - Win-Friendly Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-disabled-amd-freesync-connectivity/"><u>Fixing Disabled AMD FreeSync Connectivity</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-13-mini-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 13 mini in Lost Mode</u></a></li>
-<li><a href="https://network-issues.techidaily.com/keeping-windows-intel-graphic-pace-setter/"><u>Keeping Windows Intel Graphic Pace-Setter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/music-to-video-seamless-audio-import-for-inshot/"><u>Music to Video Seamless Audio Import for InShot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pushing-boundaries-the-future-of-generative-systems/"><u>Pushing Boundaries: The Future of Generative Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-lenovo-display-glitches/"><u>Tackling Lenovo Display Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-a-world-of-immersive-gameplay-configuring-xbox-sx-to-its-fullest-potential/"><u>Unveiling a World of Immersive Gameplay: Configuring Xbox SX to Its Fullest Potential</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-ui-freeze-up-graphics-fix-pending/"><u>Windows UI Freeze-Up, Graphics Fix (Pending)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-adopting-a-simple-yet-powerful-approach-to-advertising-content/"><u>[New] Adopting a Simple Yet Powerful Approach to Advertising Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gif-magic-transformations-without-extra-files-downloaded/"><u>[New] GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comment-resoudre-le-dysfonctionnement-de-la-mise-en-miroir-entre-dropbox-et-windows-11/"><u>Comment Résoudre Le Dysfonctionnement De La Mise en Miroir Entre Dropbox Et Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722900909463-easy-steps-to-type-a-love-heart-emoji-with-just-your-keyboard/"><u>Easy Steps to Type a Love Heart Emoji with Just Your Keyboard!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-nvidia-7025nforce630a-windows-error/"><u>Fixing Nvidia 7025/nForce630a Windows Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-quality-win11-displays-tweaked/"><u>Improving Image Quality - Win11 Displays Tweaked</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>In 2024, Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://win11.techidaily.com/integrated-email-accessibility-pinning-google-writes-on-taskbar/"><u>Integrated Email Accessibility: Pinning Google' Writes on Taskbar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-limitations-in-unsupported-freesync-setup/"><u>Overcoming Limitations in Unsupported FreeSync Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win7-display-jitter/"><u>Overcoming Win7 Display Jitter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-fail-screen-turned-black/"><u>Silent Fail: Screen Turned Black</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-system-graphics-update-on-windows/"><u>Streamlining System Graphics Update on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-windows-11-shutdown-issues/"><u>Troubleshooting Guide: Solving Windows 11 Shutdown Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-efficiency-on-facebook-with-our-5-effective-techniques/"><u>Unleashing Efficiency on Facebook with Our 5 Effective Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgraded-realtek-wireless-network-driver-for-enhanced-connectivity-on-windows-11-and-7-devices/"><u>Upgraded Realtek Wireless Network Driver for Enhanced Connectivity on Windows 11 and 7 Devices</u></a></li>
 </ul></div>
 

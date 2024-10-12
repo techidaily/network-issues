@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolve Ethernet Connection Problems in Windows 10/7"
-date: 2024-10-01T17:57:53.928Z
-updated: 2024-10-06T18:33:39.871Z
+date: 2024-10-11T11:57:05.967Z
+updated: 2024-10-11T19:28:46.942Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/99cdcd52a97cf614f8201c2f6c1548a1b624555fb
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/99cdcd52a97cf614f8201c2f6c1548a1b624555fb
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/99cdcd52a97cf614f8201c2f6c1548a1b624555fb
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
     
@@ -103,18 +103,32 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -123,19 +137,6 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -148,13 +149,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -177,15 +171,22 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-first-steps-in-telegram-marketing-an-initiation-handbook-for-2024/"><u>[New] First Steps in Telegram Marketing An Initiation Handbook for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>[New] High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-nvidias-most-recent-geforce-rtx-3080-drivers-optimized-for-windows-xp-to-windows-10/"><u>Download NVIDIA's Most Recent GeForce RTX 3080 Drivers: Optimized for Windows XP to Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flawless-cross-sound-mixing-in-audacity-pro/"><u>Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-rtx210-a-leap-forward-in-graphics-for-win11-users/"><u>GeForce RTX210: A Leap Forward in Graphics for Win11 Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/guide-to-overcoming-mobile-video-sending-problems-in-fb-chat-for-2024/"><u>Guide to Overcoming Mobile Video Sending Problems in FB Chat for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-horizontal-line-displacement/"><u>Rectify Horizontal Line Displacement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-web-chats-with-these-7-must-have-chatgpt-browser-extensions/"><u>Revolutionize Your Web Chats with These 7 Must-Have ChatGPT Browser Extensions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tap-out-lags-not-bugs/"><u>Tap Out Lags, Not Bugs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-upgrade-how-reaching-500-viewers-propelts-monetization-for-2024/"><u>[New] Channel Upgrade How Reaching 500 Viewers Propelts Monetization for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>[Updated] Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-light-back-to-black-lenovo-laptop-screen/"><u>Bringing Light Back to Black Lenovo Laptop Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-to-easily-setting-up-razer-mice-with-the-latest-windows-driver-support/"><u>Complete Guide to Easily Setting Up Razer Mice with the Latest Windows Driver Support</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-tips-for-capturing-and-saving-igtv-on-handhrani/"><u>Expert Tips for Capturing and Saving IGTV on Handhrani</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flicker-in-win11-visuals/"><u>Fixing Flicker in Win11 Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-armor-repaired-opengl-error-addressed/"><u>GPU Armor Repaired: OpenGL Error Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-hiccup-no-more-code-43/"><u>Hardware Hiccup No More - Code 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-wipe-your-pcs-graphics-driver-away/"><u>How to Wipe Your PC's Graphics Driver Away</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719973988124-improve-graphic-performance-with-an-easy-update-to-your-intel-3000-graphics-on-w10/"><u>Improve Graphic Performance with an Easy Update to Your Intel 3000 Graphics on W10.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-smart-8-plus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Smart 8 Plus FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-edge-40-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Edge 40 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-shots-start-with-the-right-camera-and-lens-selection/"><u>In 2024, Perfect Shots Start With The Right Camera & Lens Selection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-interruptions-stable-fallout-4-on-computer/"><u>No More Interruptions: Stable Fallout 4 on Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-10s-installation-obstacle-c1900101/"><u>Overcoming Windows 10'S Installation Obstacle C1900101</u></a></li>
+<li><a href="https://solve-news.techidaily.com/top-timeless-love-classics-ultimate-vintage-movie-selection-for-your-perfect-date-evening/"><u>Top Timeless Love Classics: Ultimate Vintage Movie Selection for Your Perfect Date Evening</u></a></li>
+<li><a href="https://article-files.techidaily.com/video-soundtracks-hub-discovering-audio-scores-for-2024/"><u>Video Soundtracks Hub Discovering Audio Scores for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dial-In Your Desktop Res In Windows 11
-date: 2024-10-02T21:02:44.781Z
-updated: 2024-10-06T21:10:29.428Z
+date: 2024-10-07T02:20:14.753Z
+updated: 2024-10-12T10:15:48.628Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -76,13 +69,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -91,6 +77,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -98,10 +91,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
@@ -127,6 +120,13 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -156,18 +156,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-luminalabs-exploring-affordable-video-editors/"><u>[New] In 2024, LuminaLabs Exploring Affordable Video Editors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-gaining-momentum-how-igtv-hashtags-drive-fan-base-expansion/"><u>[Updated] 2024 Approved Gaining Momentum How IGTV Hashtags Drive Fan Base Expansion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-top-15-high-res-recording-devices/"><u>[Updated] Premium Top 15 High-Res Recording Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-wow-flaw-code-issue-51900319/"><u>Decoding WoW Flaw Code: Issue #51900319</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-problem-to-solution-amd-driver-now-detectable-on-wndows-10/"><u>From Problem to Solution: AMD Driver Now Detectable on Wndows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-zte-blade-a73-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do ZTE Blade A73 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-v30t-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on V30T</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-asus-dvd-player-drivers-for-smooth-compatibility-free-downloads-available/"><u>Latest ASUS DVD Player Drivers for Smooth Compatibility – Free Downloads Available</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-setup-unhindered-success/"><u>Nvidia Setup: Unhindered Success</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-gpu-fan-operation-blockade/"><u>Overcoming GPU Fan Operation Blockade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securing-win-minecraft-stability-by-addressing-driver-issues/"><u>Securing Win-Minecraft Stability by Addressing Driver Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-non-detecting-video-component/"><u>Tackle Non-Detecting Video Component</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-best-mobile-writing-tools-for-iosandroid-images-for-2024/"><u>10 Best Mobile Writing Tools for iOS/Android Images for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-image-display-on-windows-7/"><u>Correcting Inverted Image Display on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-windows-issues-in-civilization-v/"><u>Eliminate Windows Issues in Civilization V</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974437083-enhance-visual-clarity-install-updated-intel-hd-graphics-3000-for-windows-10-now/"><u>Enhance Visual Clarity: Install Updated Intel HD Graphics 3000 for Windows 10 Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-card-support-issue-settled/"><u>Graphics Card Support: Issue Settled</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-10-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 10 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>In 2024, Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-movies-the-best-18-4k-recorder-list-for-2024/"><u>Mastering Movies The Best 18 4K Recorder List for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pioneering-youtube-visibility-through-strategic-thumbnails-for-2024/"><u>Pioneering YouTube Visibility Through Strategic Thumbnails for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-available-display-options-nvidia/"><u>Restoring Available Display Options NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-screen-after-graphics-switch/"><u>Unresponsive Screen After Graphics Switch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-intova-xs-action-potential/"><u>Unveiling Intova X's Action Potential</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974432958-win10-no-more-amd-radeon-r9-crashes-now/"><u>Win10: No More AMD Radeon R9 Crashes Now!</u></a></li>
 </ul></div>
 

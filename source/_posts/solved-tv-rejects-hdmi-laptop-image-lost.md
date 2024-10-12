@@ -1,7 +1,7 @@
 ---
 title: "[Solved] TV Rejects HDMI, Laptop Image Lost"
-date: 2024-08-22T13:41:32.119Z
-updated: 2024-08-23T13:41:32.119Z
+date: 2024-10-05T07:16:39.408Z
+updated: 2024-10-12T07:14:00.609Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -44,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -61,13 +72,21 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver in your laptop can stop HDMI from your laptop to TV from working, especially your graphics card driver and USB driver. To rule it out as the cause for your problem, you should update your device drivers to the latest version.
@@ -86,15 +105,9 @@ The difference between each mode is as follows:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -109,8 +122,6 @@ The difference between each mode is as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,8 +129,24 @@ The difference between each mode is as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-zoom-camera-not-working-2024-guide/"><u>[Fixed] Zoom Camera Not Working 2024 Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-discreet-insta-story-enthusiasts-best-5-tools/"><u>[New] In 2024, Discreet Insta-Story Enthusiast's Best 5 Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[New] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-superior-sonic-aligner-android-version-for-2024/"><u>[New] Superior Sonic Aligner, Android Version for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-age-of-empires-ii-launch-pc-compatibility-woes/"><u>[RESOLVED] Age of Empires II Launch - PC Compatibility Woes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>[Updated] 2024 Approved Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-securing-a-spot-in-the-future-with-windows-11/"><u>2024 Approved Securing a Spot in the Future with Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-barrier-amd-succeeds-in-loading-driver-on-win10/"><u>Breaking Barrier: AMD Succeeds in Loading Driver on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-to-fix-you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu/"><u>Easy To Fix You Are Not Currently Using a Display Attached to an NVIDIA GPU</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-employment-search-the-ultimate-6-step-guide-with-chatgpt/"><u>Elevate Your Employment Search: The Ultimate 6-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974250939-enhance-visual-performance-swiftly-update-your-pcs-intel-gpu-driver-in-w10-today/"><u>Enhance Visual Performance Swiftly: Update Your PC's Intel GPU Driver in W10 Today.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-a78-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-intellnvidia-graphic-mix-up-in-hybrid-card-on-windows-10/"><u>Overcoming Intell/Nvidia Graphic Mix-Up in Hybrid Card on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-redmi-note-13-proplus-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Redmi Note 13 Pro+ 5G on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-screen-stutter-phenomenon/"><u>Resolving Windows Screen Stutter Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-mirror-effect-displays-in-windows-11-pro/"><u>Solving Mirror Effect Displays in Windows 11 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-restoring-functionality-to-your-steelseries-arctis-7s-microphone/"><u>Step-by-Step Tutorial: Restoring Functionality to Your SteelSeries Arctis 7'S Microphone</u></a></li>
+</ul></div>
 

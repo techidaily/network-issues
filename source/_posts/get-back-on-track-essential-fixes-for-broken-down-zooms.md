@@ -1,7 +1,7 @@
 ---
 title: "Get Back on Track: Essential Fixes for Broken-Down Zooms"
-date: 2024-08-15T08:02:02.542Z
-updated: 2024-08-16T08:02:02.542Z
+date: 2024-10-11T03:44:26.456Z
+updated: 2024-10-11T18:08:26.862Z
 tags:
   - win11
   - win10
@@ -42,24 +42,22 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 1. On your keyboard, press the**Windows logo key** +**I** at the same time to open the Settings menu. Then, click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/privacy.jpg)
 2. In the left pane, click**Camera** to open the Camera privacy settings. Click**Change** and make sure Camera access for this device is on.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-22_15-58-26.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-22_15-58-26.jpg)
 3. Check **Allow apps to access your camera & Allow desktop apps to access your camera** toggle is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-22_16-45-31.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  So now you’ve finished granting the access. Then check if your microphone can pick up your voice as intended. If not, please proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your camera driver
 
  It’s possible the incorrect or outdated device drivers or graphic drivers cause the Zoom camera not working issue. In addition to fix the issue, updating drivers will improve your computer performance, so there’s nothing to worry about.
@@ -87,11 +85,15 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -99,20 +101,35 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall the Zoom client
 
 Reinstall Zoom may help you solve the issue.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Right-click**Zoom** and click**Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 3. Complete the uninstallation process.
 4. Restart your computer and delete all components.
 5. Download Zoom from the **[official website](https://zoom.us/download)**  .
@@ -129,8 +146,6 @@ Reinstall Zoom may help you solve the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,8 +153,18 @@ Reinstall Zoom may help you solve the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-10-best-free-video-conferencing-services-with-screen-sharing/"><u>[Updated] In 2024, 10 Best Free Video Conferencing Services with Screen Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-youtubes-privacy-controls-for-video-accessibility/"><u>[Updated] Navigating YouTube's Privacy Controls for Video Accessibility</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/50-and-below-a-comprehensive-review-of-iseebells-video-doorbells/"><u>$50 and Below - A Comprehensive Review of ISeeBell's Video Doorbells</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>2024 Approved The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-windows-11-desktop-size-preferences/"><u>Balance Windows 11 Desktop Size Preferences</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606435-flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y27s-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y27s 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-and-upgrade-amd-radeon-rx-590-drivers-on-your-windows-pc/"><u>How to Easily Install and Upgrade AMD Radeon RX 590 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-sharing-subtitle-files-socially/"><u>The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshoot-lenovos-dimming-display/"><u>Troubleshoot Lenovo's Dimming Display</u></a></li>
+</ul></div>
 

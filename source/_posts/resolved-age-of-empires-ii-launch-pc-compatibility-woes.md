@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Age of Empires II Launch - PC Compatibility Woes"
-date: 2024-09-29T22:02:14.029Z
-updated: 2024-10-06T16:21:23.193Z
+date: 2024-10-10T07:36:10.612Z
+updated: 2024-10-11T21:29:50.570Z
 tags:
   - win11
   - win10
@@ -66,19 +66,26 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -111,28 +118,30 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
@@ -148,13 +157,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -174,13 +176,6 @@ If this fix doesn’t work, move to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -198,21 +193,24 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/adjusted-advanced-display-settings-missing/"><u>[Adjusted] Advanced Display Settings MISSING</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-flashing-issues-in-dell-screens/"><u>[Solved]: Flashing Issues in Dell Screens</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/acer-cb3-15-chromebook-assessment-topnotch-large-display-chrome-os-device/"><u>Acer CB3-15 Chromebook Assessment: Topnotch Large Display Chrome OS Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-intermittent-hp-display-flicker/"><u>Addressing Intermittent HP Display Flicker</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/alexa-and-google-assistant-face-off-determining-the-superior-voice-ai-for-you/"><u>Alexa and Google Assistant Face-Off: Determining the Superior Voice AI For You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-to-size-choosing-the-ultimate-8-windows-video-editing-tools/"><u>Cut Down to Size: Choosing the Ultimate 8 Windows Video Editing Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/discovering-japanese-style-snap-creativity-on-snapchat-for-2024/"><u>Discovering Japanese-Style Snap Creativity on Snapchat for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-screenshaking-glitch/"><u>Fixing Windows 10 Screenshaking Glitch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 11 Pro | Stellar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-14-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 14 Pro Max without Password?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-find-x6-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Find X6 Pro FRP Without Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-officejet-5740-printer-drivers-installed-in-a-flash/"><u>Quick Download: HP OfficeJet 5740 Printer Drivers Installed in a Flash</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-eradicate-white-blankness/"><u>Quick Eradicate White Blankness</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-start-how-to-get-your-chromecast-ready-for-streaming/"><u>Quick Start: How to Get Your Chromecast Ready for Streaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-direct3d-launch-problem/"><u>Resolving Direct3D Launch Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-amd-radeon-r9-driver-functionality-in-w10/"><u>Restoring AMD Radeon R9 Driver Functionality in W10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc/"><u>[New] 2024 Approved Download Twitter GIF 3 Ways to Download GIFs From Twitter on Your PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-start-to-finish-itunes-video-logging-for-2024/"><u>[New] From Start to Finish ITunes Video Logging for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-television-or-projector-for-peak-4k-performance/"><u>[New] Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>[Updated] Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-editing-essentials-cut-out-unwanted-borders-smoothly/"><u>[Updated] Photo Editing Essentials Cut Out Unwanted Borders Smoothly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-guide-seamless-youtube-and-twitch-streaming/"><u>2024 Approved OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi Redmi Note 12 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-comprehensive-guide-to-intel-graphics-enhancements-in-windows-7/"><u>A Comprehensive Guide to Intel Graphics Enhancements in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banished-bug-mh-worlds-graphics-scare-over/"><u>Banished Bug: MH World's Graphics Scare Over</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-dilemma-defeated-screen-regains-steady-light/"><u>Dimming Dilemma Defeated: Screen Regains Steady Light</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-methods-to-overcome-bluetooth-compatibility-issues-in-windows-11/"><u>Efficient Methods to Overcome Bluetooth Compatibility Issues in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-supported-mode-for-amd-freesync-monitor/"><u>Enabling Supported Mode for AMD FreeSync Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/find-missing-display-settings-on-windows-11/"><u>Find Missing Display Settings on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme .</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quash-whiteout-errors-in-sims/"><u>Quash Whiteout Errors in Sims</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resetting-settings-to-use-asus-cam/"><u>Resetting Settings to Use Asus Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-unlocked-nvidia-control-center/"><u>Success: Unlocked Nvidia Control Center</u></a></li>
+<li><a href="https://win-web.techidaily.com/transfer-music-library-seamlessly-to-your-new-pc-windows-11-10-and-8-guide/"><u>Transfer Music Library Seamlessly to Your New PC - Windows 11, 10 & 8 Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-win11-dark-display-update-issue/"><u>Troubleshooting Win11 Dark Display Update Issue</u></a></li>
 </ul></div>
 

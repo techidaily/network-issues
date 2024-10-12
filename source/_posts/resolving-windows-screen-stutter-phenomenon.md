@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Screen Stutter Phenomenon
-date: 2024-09-30T19:20:48.639Z
-updated: 2024-10-06T16:37:11.242Z
+date: 2024-10-10T01:39:35.719Z
+updated: 2024-10-12T14:38:34.497Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -43,17 +50,24 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
@@ -85,13 +99,6 @@ Here is how to change the monitor refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -102,33 +109,20 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
@@ -137,10 +131,10 @@ To do so:
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -187,10 +181,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -220,19 +214,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-best-instagram-highlights-covers-apps/"><u>[New] 2024 Approved Best Instagram Highlights Covers Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ending-dark-mode-glitches-on-playback/"><u>[Updated] 2024 Approved Ending Dark Mode Glitches on Playback</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/asistencia-y-apoyo-online-para-el-software-de-extraccion-y-conversion-de-winx-dvd-ripper/"><u>Asistencia Y Apoyo Online Para El Software De Extracción Y Conversión De WinX DVD Ripper</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ergodriven-topo-mat-review-a-step-towards-a-comfortable-and-healthy-office-life-with-the-best-standing-desk-accessory/"><u>Ergodriven Topo Mat Review: A Step Towards a Comfortable and Healthy Office Life with the Best Standing Desk Accessory.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-tips-to-solve-video-hiccups-on-upgraded-pcs/"><u>Expert Tips to Solve Video Hiccups on Upgraded PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fallout-4s-crash-defeated-on-pc/"><u>Fallout 4'S Crash, Defeated on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-driver-crash-averted-now-working-fine/"><u>GPU Driver Crash Averted, Now Working Fine</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-mp4-to-mp3-conversion-software-for-windows-and-mac/"><u>In 2024, The Best MP4 to MP3 Conversion Software for Windows and Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974407111-resolving-amd-loading-issue-on-windows-10-success-achieved/"><u>Resolving AMD Loading Issue on Windows 10, Success Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-amd-loading-issue-on-windows-10-success-achieved/"><u>Resolving AMD Loading Issue on Windows 10, Success Achieved!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-a60-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-your-videos-on-iphone-effortlessly-using-the-ultimate-free-video-converter-app/"><u>Transform Your Videos on iPhone Effortlessly Using the Ultimate Free Video Converter App!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-display-glitch-resolved/"><u>Windows 10 Display Glitch: Resolved</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-create-a-youtube-music-playlist/"><u>[New] In 2024, How to Create a YouTube Music Playlist</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-master-techniques-for-improving-chrome-web-video-quality-for-2024/"><u>[New] Master Techniques for Improving Chrome Web Video Quality for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-solving-shorts-thumbnail-absence-on-youtube/"><u>[Updated] 2024 Approved Solving Shorts Thumbnail Absence on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-improve-obs-rendering-speed-and-quality/"><u>[Updated] Improve OBS Rendering Speed and Quality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-ipad-360-video-creation-for-facebook/"><u>[Updated] The Ultimate iPad 360 Video Creation for Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-banishing-bogus-buddies-from-instagram-social-structure/"><u>2024 Approved Banishing Bogus Buddies From Instagram Social Structure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-clear-stickers-in-video-for-2024/"><u>Comprehensive Guide to Clear Stickers in Video for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-graphics-issue-driver-reset-successful/"><u>Corrected Graphics Issue: Driver Reset Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10s-critical-c1900101-error/"><u>Fixing Windows 10'S Critical C1900101 Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful!</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-win11-screensaver-failures-effectively/"><u>Handling WIN11 Screensaver Failures Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a24-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A24</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-wows-issue-519-with-ease/"><u>Navigating WoW's Issue #519 With Ease</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-error-12-monster-quest-restored/"><u>Resolved Error 12 - Monster Quest Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-and-tricks-eliminating-flickering-on-acer-devices/"><u>Tips & Tricks: Eliminating Flickering on Acer Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-error-for-win10/"><u>Troubleshooting C1900101 Error for Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8-securely-accessing-safe-mode-and-removing-gpu-drivers/"><u>Windows 8: Securely Accessing Safe Mode & Removing GPU Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Immediate Action: Addressing Apex Glitches"
-date: 2024-08-22T13:39:44.215Z
-updated: 2024-08-23T13:39:44.215Z
+date: 2024-10-11T04:24:57.334Z
+updated: 2024-10-11T21:55:54.103Z
 tags:
   - win11
   - win10
@@ -55,13 +55,24 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -84,17 +95,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apex Legends still keeps crashing?
 
  If Apex Legends still keeps crashing after you update your graphics, don’t worry. There’re some other fixes for you to try.
@@ -137,12 +141,16 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -159,15 +167,23 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
 #### Fix 6: Reinstall Apex Legends
@@ -194,8 +210,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,8 +217,26 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-for-a-full-screen-facebook-video-experience/"><u>[New] In 2024, Tips for a Full-Screen Facebook Video Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-size-adjustments-on-igtv-for-2024/"><u>[New] Mastering Video Size Adjustments on IGTV for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-navigating-zoomed-in-shots-avoiding-common-pitfalls-with-videoleap/"><u>[Updated] 2024 Approved Navigating Zoomed-In Shots Avoiding Common Pitfalls with VideoLeap</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-review-of-the-latest-picsart-updates/"><u>[Updated] A Comprehensive Review of the Latest PicsArt Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-infuse-melodies-into-powerpoint-visuals-for-2024/"><u>[Updated] Infuse Melodies Into PowerPoint Visuals for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-definitive-guide-for-choosing-best-youtube-visual-elements-for-2024/"><u>[Updated] The Definitive Guide for Choosing Best YouTube Visual Elements for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/comprehensive-survey-life-through-the-spinning-sphere-of-samsung-for-2024/"><u>Comprehensive Survey Life Through the Spinning Sphere of Samsung for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/detailed-insight-into-4k-extreme-screen-quality/"><u>Detailed Insight Into 4K Extreme Screen Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ifo-mp4-202-cuisine/"><u>IFO 파일로 MP4를 쉽게 바꾸고, 202 Cuisine</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-k11x-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo K11x Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y100-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-wows-issue-519/"><u>Navigating Through WoW's Issue #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-glitch-no-519/"><u>Overcoming WoW Glitch No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-solution-for-compatible-atheros-drivers-in-windows-11/"><u>Qualcomm's Solution for Compatible Atheros Drivers in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-system-deficiencies-pre-software-deployment/"><u>Tackling System Deficiencies Pre-Software Deployment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tactics-to-regain-visual-presentation-on-systems/"><u>Tactics to Regain Visual Presentation on Systems</u></a></li>
+</ul></div>
 

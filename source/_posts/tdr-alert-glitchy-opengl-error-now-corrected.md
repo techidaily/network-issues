@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert: Glitchy OpenGL Error Now Corrected"
-date: 2024-10-01T20:15:51.727Z
-updated: 2024-10-06T18:55:44.743Z
+date: 2024-10-04T17:11:43.523Z
+updated: 2024-10-11T22:00:03.192Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What you might concern…
@@ -68,6 +68,19 @@ Here’s how you can do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -83,10 +96,10 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
@@ -103,30 +116,23 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -152,19 +158,21 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/aptivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora-for-2024/"><u>[New] Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-experts-choice-top-6-software-solutions-for-signature-erasure/"><u>[New] In 2024, Expert's Choice Top 6 Software Solutions for Signature Erasure</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-seamless-integration-of-switch-pro-into-steam-games/"><u>[Updated] Seamless Integration of Switch Pro Into Steam Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-full-course-on-becoming-a-yt-creator-expert/"><u>[Updated] The Full Course on Becoming a YT Creator Expert</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-uploading-subtitles-a-compreenas-guide-for-all-social-media-users-for-2024/"><u>[Updated] Uploading Subtitles A Compreenas Guide for All Social Media Users for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-your-meta-quest-3-storage-size-do-you-really-need-more-than-128gb/"><u>Choosing Your Meta Quest 3 Storage Size: Do You Really Need More Than 128GB?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-6-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 6 or iPad?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>In 2024, Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-v30-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo V30 Phone Now with These Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-making-acer-displays-no-longer-flicker/"><u>Steps for Making Acer Displays No Longer Flicker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-warframe-crashing-launch-directx-issue/"><u>[CORRECTED] Warframe Crashing Launch - DirectX Issue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[New] Nikon D500 at a Glance The Frontiers of 4K HD</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-dissecting-dji-flyer-x20-fpv-headset-capabilities/"><u>[Updated] 2024 Approved Dissecting DJi Flyer X20 FPV Headset Capabilities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-hidden-display-adjustments-in-windows-11/"><u>Discover Hidden Display Adjustments in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-opinion-on-slomo-recording-softwares-latest-version-for-2024/"><u>Expert Opinion on SloMo Recording Software's Latest Version for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-nvidia-card-resolution-on-pcs-device-list/"><u>Hidden NVIDIA Card: Resolution on PC's Device List</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x9a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X9a</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-memories-in-motion-the-premier-archive-for-tweeter-gifs/"><u>In 2024, Memories in Motion The Premier Archive for Tweeter GIFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instaboomtown-building-community-with-loop-videos/"><u>InstaBoomtown Building Community with Loop Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantaneous-innovation-cure-legends-errors/"><u>Instantaneous Innovation: Cure Legends Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantly-enhance-video-smoothness/"><u>Instantly Enhance Video Smoothness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-video-format-conversion-tool-convert-videos-effortlessly/"><u>Online Video Format Conversion Tool: Convert Videos Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stability-achieved-windows-11-screen-fixes/"><u>Stability Achieved: Windows 11 Screen Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-free-youtube-subtitle-extractors-and-downloaders-for-2024/"><u>Top 10 Free YouTube Subtitle Extractors & Downloaders for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-pixel-spike-cured/"><u>Windows 10 Pixel Spike Cured</u></a></li>
 </ul></div>
 

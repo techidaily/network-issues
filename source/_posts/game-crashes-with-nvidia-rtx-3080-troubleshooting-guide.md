@@ -1,7 +1,7 @@
 ---
 title: Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide
-date: 2024-10-04T20:44:18.847Z
-updated: 2024-10-06T21:45:22.499Z
+date: 2024-10-09T10:05:11.753Z
+updated: 2024-10-11T19:40:48.163Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 4. **[Keep the GPU fed](#h4)**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Perform a clean installation of NVIDIA drivers
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
@@ -98,14 +98,20 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now launch your game again to see if this method works for you.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Keep the GPU fed
 
@@ -145,18 +151,24 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/eading-selection-of-10-free-video-subtitle-extractors/"><u>[New] Leading Selection of 10 Free Video Subtitle Extractors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-smart-choice-essential-steps-in-upgrading-your-tech-for-2024/"><u>[New] The Smart Choice Essential Steps in Upgrading Your Tech for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-30-mobile-video-edits-using-dji-technology-for-2024/"><u>[New] Top 30 Mobile Video Edits Using DJi Technology for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-urban-to-agrarian-journey-stardew-titles-traced-for-2024/"><u>[New] Urban to Agrarian Journey Stardew Titles Traced for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-accelerate-android-videos-from-sluggish-to-swift/"><u>2024 Approved Accelerate Android Videos From Sluggish to Swift</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-display-defects-in-windows/"><u>Banish Display Defects in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-blurry-textures-in-far-cry-6-gameplay/"><u>Clearing Up Blurry Textures in Far Cry 6 Gameplay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-dark-windows-display-post-update/"><u>Ending Dark Windows Display Post-Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-absent-display-preferences-on-nvidia-graphics/"><u>Fixing Absent Display Preferences on Nvidia Graphics</u></a></li>
-<li><a href="https://games-able.techidaily.com/four-prevalent-graphics-card-issues-how-to-fix-them/"><u>Four Prevalent Graphics Card Issues: How To Fix Them</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-crafting-the-podcast-intros-captivating-your-audience-from-the-start/"><u>In 2024, Crafting the Podcast Intros Captivating Your Audience From the Start</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-buzz-unveiling-potential-features-and-estimates-for-googles-upcoming-watch-model/"><u>Tech Buzz: Unveiling Potential Features & Estimates for Google's Upcoming Watch Model</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-file-explorer-on-windows-10-expert-advice-awaits/"><u>Unlocking the Potential of File Explorer on Windows 10: Expert Advice Awaits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blueprinting-breathtaking-film-prologues/"><u>[Updated] Blueprinting Breathtaking Film Prologues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-y200-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo Y200 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/celebrating-success-amd-driver-loads-perfectly-on-wndows-10/"><u>Celebrating Success: AMD Driver Loads Perfectly on Wndows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-out-dark-mode-difficulties/"><u>Clear Out Dark Mode Difficulties</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-visual-seams-and-ripples/"><u>Combat Visual Seams and Ripples</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-visuals-a-win10-solution-unlocked/"><u>Enhanced Visuals: A Win10 Solution Unlocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-extended-display-troubles-in-windows-10/"><u>Fixed Extended Display Troubles in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-13-pro-max-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 13 Pro Max and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-x7b-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor X7b to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-solve-the-apple-watch-lte-connectivity-problem-quickly-and-easily/"><u>How to Solve the 'Apple Watch LTE Connectivity' Problem Quickly and Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-rectification-of-diagonal-distortion/"><u>Immediate Rectification of Diagonal Distortion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-8-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-lenovo-driver-updates-for-windows-7-and-10-secure-bluetooth-setup-instructions/"><u>Official Lenovo Driver Updates for Windows 7 and 10: Secure Bluetooth Setup Instructions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconnected-to-network-without-adapter-on-win10-system/"><u>Reconnected to Network Without Adapter on Win10 System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/starting-a-new-chapter-establishing-an-enterprise-ig-page/"><u>Starting a New Chapter Establishing an Enterprise IG Page</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unify-monitor-edges-seamlessly/"><u>Unify Monitor Edges Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ovara-panaranaramanae-ma-bthal-aapaka-abha-taka-sagathata-kaya-gaya-ha/"><u>ओवर-पुनर्निर्माण में बदला: आपके अभी तक संगठित किया गया है</u></a></li>
 </ul></div>
 

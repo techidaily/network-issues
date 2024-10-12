@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing Initialization Issues in Graphics Systems"
-date: 2024-10-04T16:52:13.285Z
-updated: 2024-10-06T18:55:42.731Z
+date: 2024-10-04T22:17:29.150Z
+updated: 2024-10-12T07:31:45.680Z
 tags:
   - win11
   - win10
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Method 2: Run the game in compatibility mode
 
  Many users find it works by simply running the game in compatibility mode. To do it here is how:
@@ -84,6 +77,19 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Method 3: Change your display resolution settings
 
 1. Try a different in-game resolution.
@@ -92,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/change-resolution.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To change system screen resolution on Windows 11:
@@ -105,6 +111,13 @@ To change system screen resolution on Windows 11:
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the problem remains, please move on.
 
@@ -123,20 +136,13 @@ If the problem remains, please move on.
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try your game again to see if the Unable to Initialize Graphics System problem persists. If the problem remains, please move on to the next fix.
 
@@ -154,20 +160,26 @@ If the problem remains, please move on.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -198,16 +210,24 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-re-establishing-online-gameplay-in-cod-cold-war/"><u>[FIXED] Re-Establishing Online Gameplay in CoD Cold War</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ideal-selfie-sticks-for-iphone-users/"><u>[New] In 2024, Ideal Selfie Sticks for iPhone Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-pros-choice-a-list-of-17-superior-video-to-text-converters-for-2024/"><u>[New] The Pro's Choice A List of 17 Superior Video-to-Text Converters for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieve-flawless-display-setups-with-win11/"><u>Achieve Flawless Display Setups with Win11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/animatedapps-review-full-guide-24-year-for-2024/"><u>AnimatedApps Review - Full Guide '24 Year for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-computer-specs-for-intel-driver-compatibility/"><u>Enhancing Computer Specs for Intel Driver Compatibility</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-g24-power-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola G24 Power Location by Number | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/keeping-your-pc-powered-upgrading-intel-drivers-on-windows-7/"><u>Keeping Your PC Powered: Upgrading Intel Drivers on Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-playback-jitters-fast/"><u>Resolve Playback Jitters Fast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-directvid-snapper-for-video-calls/"><u>[New] DirectVid Snapper for Video Calls</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/avigating-youtube-skip-the-top-8-novice-missteps-for-2024/"><u>[New] Navigating YouTube Skip the Top 8 Novice Missteps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-ios-psp-gamepads-emulation-2023s-best-list/"><u>[New] Top iOS PSP Gamepads Emulation - 2023'S Best List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-iosandroid-comparison-youtube-app-explored/"><u>[Updated] 2024 Approved IOS/Android Comparison YouTube App Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-insiders-guide-to-pro-windows-10-expertise/"><u>2024 Approved Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerated-adjustment-overcome-loot-mishaps/"><u>Accelerated Adjustment: Overcome Loot Mishaps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-blank-display-problems/"><u>Dismiss Blank-Display Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-failure-graphics-device-missing/"><u>Display Failure: Graphics Device Missing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-spark-10c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Spark 10C Phone? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-phosphor-sparks-quickly/"><u>End Monitor Phosphor Sparks Quickly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-swiftly-rectify-screen-lines-at-laptop-level/"><u>Guide: Swiftly Rectify Screen Lines at Laptop Level</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-a34-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy A34 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-a23-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy A23 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mortal-kombats-wait-woes/"><u>Mortal Kombat's Wait Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-windows-update-end-video-buffering-and-jitter/"><u>New Windows Update: End Video Buffering & Jitter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-anomaly-bug-519/"><u>Overcoming WOW Anomaly: Bug #519</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-free-mp4-conversion-software-choosing-the-best-online-options/"><u>The Ultimate Guide to Free MP4 Conversion Software: Choosing the Best Online Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-tailor-desktop-size-to-preference/"><u>Windows 11: Tailor Desktop Size to Preference</u></a></li>
 </ul></div>
 

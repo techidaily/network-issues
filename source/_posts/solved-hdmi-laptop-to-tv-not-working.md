@@ -1,7 +1,7 @@
 ---
 title: "[Solved] HDMI Laptop to TV Not Working"
-date: 2024-08-22T13:38:32.038Z
-updated: 2024-08-23T13:38:32.038Z
+date: 2024-10-08T04:02:13.955Z
+updated: 2024-10-11T22:50:37.058Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -44,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -61,13 +72,14 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver in your laptop can stop HDMI from your laptop to TV from working, especially your graphics card driver and USB driver. To rule it out as the cause for your problem, you should update your device drivers to the latest version.
@@ -86,15 +98,17 @@ The difference between each mode is as follows:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -109,8 +123,6 @@ The difference between each mode is as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,8 +130,26 @@ The difference between each mode is as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-building-wealth-through-video-content-revenue/"><u>[New] Building Wealth Through Video Content Revenue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[New] Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>2024 Approved A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-shaking-no-more-evaluating-photoshops-anti-shake-feature/"><u>2024 Approved Shaking No More Evaluating Photoshop's Anti-Shake Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-bsod-dxgkrnlsys-fix-for-windows-os/"><u>BlueScreen of Death (BSOD) - dxgkrnl.sys Fix for Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/celebrating-success-amd-driver-loads-perfectly-on-wndows-10/"><u>Celebrating Success: AMD Driver Loads Perfectly on Wndows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-out-dark-mode-difficulties/"><u>Clear Out Dark Mode Difficulties</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-checklist-for-incorporating-srt-in-mp4-files/"><u>Comprehensive Checklist for Incorporating SRT in MP4 Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-error-43-repaired/"><u>Display Driver Error 43 Repaired</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-rectification-of-diagonal-distortion/"><u>Immediate Rectification of Diagonal Distortion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-e-identity-revamp-personal-cartoon-character-blueprint/"><u>In 2024, E-Identity Revamp Personal Cartoon Character Blueprint</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/introducing-an-effortless-upgrade-for-intel-hd-graphics-on-windows-10-devices/"><u>Introducing an Effortless Upgrade for Intel HD Graphics on Windows 10 Devices.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-level-action-cams-for-clear-unwavering-videos/"><u>Pro-Level Action Cams for Clear, Unwavering Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconnected-to-network-without-adapter-on-win10-system/"><u>Reconnected to Network Without Adapter on Win10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-interference-effective-techniques-to-eliminate-speaker-buzz/"><u>Resolving Audio Interference: Effective Techniques to Eliminate Speaker Buzz</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-youtube-channels-crafting-brands-that-attract-viewers/"><u>The Art of YouTube Channels Crafting Brands That Attract Viewers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unify-monitor-edges-seamlessly/"><u>Unify Monitor Edges Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
+</ul></div>
 

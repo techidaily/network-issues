@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-10-05T17:41:23.479Z
-updated: 2024-10-06T22:01:53.155Z
+date: 2024-10-08T05:22:41.625Z
+updated: 2024-10-12T02:18:54.461Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -74,10 +81,16 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
@@ -85,22 +98,15 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
@@ -127,22 +133,20 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-speak-and-stun-on-snapchat-voice-change-made-simple/"><u>[New] In 2024, Speak and Stun on Snapchat Voice Change Made Simple</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-top-group-video-chat-apps-for-video-conferences-and-meetings/"><u>[New] In 2024, Top Group Video Chat Apps For Video Conferences and Meetings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-11-wireless-adapter-missing/"><u>[SOLVED] Windows 11 Wireless Adapter Missing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooted-driver-installed-gpu-adapter-in-win1110/"><u>[TROUBLESHOOTED DRIVER] Installed GPU Adapter in Win11/10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-shortcuts-for-efficient-mac-screen-recording/"><u>2024 Approved Essential Shortcuts for Efficient Mac Screen Recording</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-save-issues-in-win-107-default-settings/"><u>Addressing Save Issues in Win 10/7 Default Settings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-black-screen-errors-win10/"><u>Correcting Black Screen Errors Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-lenovo-monitor-flicker/"><u>Correcting Lenovo Monitor Flicker</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-infinix-smart-8-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Infinix Smart 8</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/protecting-adolescent-online-presence-facebook-privacy-tips/"><u>Protecting Adolescent Online Presence - Facebook Privacy Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-overwatch-gpu-compatibility-concerns/"><u>Resolved: Overwatch GPU Compatibility Concerns</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-pathway-to-start-elevated-powershell-on-win11-systems/"><u>Secure Pathway to Start Elevated PowerShell on Win11 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/speak-up-how-you-can-start-a-conversation-with-chatgpt-today/"><u>Speak Up! How You Can Start a Conversation with ChatGPT Today</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-flicker-free-vision-achieved/"><u>Win11: Flicker-Free Vision Achieved</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-the-best-of-facebooks-vid-scene/"><u>[New] 2024 Approved Unveiling the Best of Facebook's Vid Scene</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-structuring-engaging-online-vignettes/"><u>[New] Structuring Engaging Online Vignettes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-explore-the-power-of-vce-22-for-impeccable-video-clarity-for-2024/"><u>[Updated] Explore the Power of VCE 2.2 for Impeccable Video Clarity for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-freefb-audio-treasures-collection/"><u>[Updated] FreeFB Audio Treasures Collection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-newbies-guide-to-channels-and-cashflow-creation/"><u>[Updated] In 2024, Youtube Newbie's Guide to Channels and Cashflow Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-process-of-avi-to-gif-conversion-using-filmora-software/"><u>[Updated] Navigating the Process of AVI-to-GIF Conversion Using Filmora Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-the-enigma-the-hidden-dx-blunder-on-lol/"><u>Deciphering the Enigma: The Hidden DX Blunder on LoL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-win11-screen-disturbances/"><u>Ending Win11 Screen Disturbances</u></a></li>
+<li><a href="https://network-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flipped-screen-the-solution-found/"><u>Flipped Screen: The Solution Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-correct-c1900101-error-in-win10/"><u>How to Correct C1900101 Error in Win10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-create-professional-gopro-vlogs-for-2024/"><u>How to Create Professional Gopro Vlogs for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-rectify-acer-screen-glarespeed/"><u>Steps to Rectify Acer Screen Glarespeed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-frustration-ended-heres-how-to-fix-it/"><u>Zoom Frustration Ended: Here's How to Fix It</u></a></li>
 </ul></div>
 

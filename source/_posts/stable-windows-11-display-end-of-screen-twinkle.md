@@ -1,7 +1,7 @@
 ---
 title: Stable Windows 11 Display - End of Screen Twinkle
-date: 2024-09-29T17:26:55.387Z
-updated: 2024-10-06T20:43:40.225Z
+date: 2024-10-10T17:20:33.894Z
+updated: 2024-10-11T19:52:08.447Z
 tags:
   - win11
   - win10
@@ -41,16 +41,10 @@ Here is how to change the monitor refresh rate:
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
@@ -59,20 +53,13 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -98,10 +85,10 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -125,21 +112,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -149,6 +129,13 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -193,6 +180,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -220,20 +214,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-skyrocket-view-counts-with-youtube-short-creation-techniques-for-2024/"><u>[Updated] Skyrocket View Counts with YouTube Short Creation Techniques for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-8-immersive-titles-with-oculus-support/"><u>2024 Approved Top 8 Immersive Titles with Oculus Support</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-screen-display-saved-preferences-errors/"><u>Correcting Screen Display Saved Preferences Errors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/die-ultimativen-11-tipps-fur-die-mobilfotografieren-ubernahme-von-einem-iphone-auf-den-pc-mit-einfacheren-methoden-als-itunes/"><u>Die Ultimativen 11 Tipps Für Die Mobilfotografieren Übernahme Von Einem iPhone Auf Den PC Mit Einfacheren Methoden Als iTunes!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-ch340g-usb-to-serial-adapter-software-compatible-with-windows-11/"><u>Download & Update CH340G USB-to-Serial Adapter Software Compatible with Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/erase-windows-graphics-without-complications-or-confusion/"><u>Erase Windows Graphics Without Complications or Confusion</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-axon-40-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From ZTE Axon 40 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-pova-5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Pova 5 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-10-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 10 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pc-companion-resolving-fallout-4-glitches/"><u>PC Companion: Resolving Fallout 4 Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recovery-of-intel-me-operations/"><u>Recovery of Intel ME Operations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/safe-mode-protocol-and-gpu-driver-removal-in-windows-8/"><u>Safe Mode Protocol & GPU Driver Removal in Windows 8</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solidify-computer-screen-lines-alignment/"><u>Solidify Computer Screen Lines' Alignment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshoot-horizontal-display-glitches-on-notebooks/"><u>Troubleshoot Horizontal Display Glitches on Notebooks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-screen-setup-no-issues-now/"><u>Update Screen Setup, No Issues Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-hdmi-disruption-laptops-view-on-tv/"><u>[Fixed] HDMI Disruption: Laptop's View on TV</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-3-techniques-to-retrieve-and-save-youtubes-iconic-images-for-2024/"><u>[New] 3 Techniques to Retrieve & Save YouTube's Iconic Images for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-guide-to-the-best-bridal-films-8-from-youtube-plus-vimeo/"><u>[New] A Guide to the Best Bridal Films (8 From YouTube + Vimeo)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crafting-your-ultimate-style-haul-video/"><u>[Updated] 2024 Approved Crafting Your Ultimate Style Haul Video</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-7-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 7 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-blank-screen-after-fall-windows-fix/"><u>Cure Blank Screen After Fall Windows Fix</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579212463-dive-into-hindi-mastery-with-8-compelling-mondly-advantages/"><u>Dive Into Hindi Mastery with 8 Compelling Mondly Advantages!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-has-stopped-working-on-windows-solved/"><u>GfxUI Has Stopped Working on Windows [Solved]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287088074-gom-player/"><u>GOM Player対策!信頼できるセキュリティを備えた代替動画再生ソフトウェアを見つけましょう</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-haze-on-windows/"><u>No More Haze on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974786398-optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/righting-the-sideways-screen-error/"><u>Righting the Sideways Screen Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleash-the-potential-mastering-intelers-gpu-driver-enhancement-win-7-style/"><u>Unleash the Potential: Mastering Inteler's GPU Driver Enhancement, Win 7 Style</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-creme-de-la-creme-5-prime-offroad-and-circuit-car-games-of-2024-no-internet-required/"><u>Unveiling the Crème De La Crème: 5 Prime Offroad and Circuit Car Games of 2024 – No Internet Required</u></a></li>
 </ul></div>
 

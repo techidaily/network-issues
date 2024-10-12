@@ -1,7 +1,7 @@
 ---
 title: WinOS UI Freeze-Up, Graphics Fix (Solutions Nearby)
-date: 2024-08-15T08:01:47.038Z
-updated: 2024-08-16T08:01:47.038Z
+date: 2024-10-10T06:43:28.854Z
+updated: 2024-10-12T00:46:35.511Z
 tags:
   - win11
   - win10
@@ -43,10 +43,12 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
  If turning on .NET Framework 3.5 fails to solve this problem for you, the cause can be outdated or missing Intel Graphics card driver. You can update the Intel driver to the latest version to see if the problem is fixed.
@@ -64,22 +66,33 @@ The powerful video editing program for your Windows PC</a>
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/de-scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged Intel video card to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Clean Reinstall Intel Graphics Card Driver
 
  If updating your graphics card driver to the latest version fails to solve the problem for you, you need to perform a clean re-install of your Intel display card driver.
@@ -87,16 +100,17 @@ The powerful video editing program for your Windows PC</a>
  1) Use Display Driver Uninstaller(DDU) or similar programs to do a clean uninstall of your current display driver. You should do the uninstall in Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the option that restart automatically after the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  3) Windows will search for and update the latest version of the display driver it can find for your PC.
 
@@ -113,8 +127,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,8 +134,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-secrets-unveiled-saving-twitter-gifs-for-later-use/"><u>[Updated] 2024 Approved Secrets Unveiled Saving Twitter GIFs for Later Use</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streaming-facebook-movies-via-apple-tv/"><u>[Updated] 2024 Approved Streaming Facebook Movies via Apple TV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-olympic-speed-skating-sprint-games-best-performances/"><u>[Updated] Olympic Speed Skating Sprint Games' Best Performances</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-higher-rankings-essential-tips-to-elevate-your-yt-content/"><u>2024 Approved Unlock Higher Rankings Essential Tips to Elevate Your YT Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-bd-render-on-ws-21-ws-10-and-beyond/"><u>Improving BD Render on WS-21, WS-10, and Beyond</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-narzo-n53-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme Narzo N53 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-woes-solving-crash-issues/"><u>Nvidia RTX Woes - Solving Crash Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-refresh-of-the-intellg3000-on-win11-systems/"><u>Rapid Refresh of the IntellG3000 on Win11 Systems.</u></a></li>
+<li><a href="https://facebook.techidaily.com/refining-your-facebook-presence-for-success/"><u>Refining Your Facebook Presence for Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screeninterface-fails-in-win-os-resolved/"><u>ScreenInterface Fails in Win OS (Resolved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secured-stable-operations-amds-driver-now-works-on-wndows-10-os/"><u>Secured Stable Operations: AMD's Driver Now Works on Wndows 10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-acer-display-flashing-issue/"><u>Solving Acer Display Flashing Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-8t-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y36i-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y36i IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-card-recovered-after-driver-stall/"><u>Video Card Recovered After Driver Stall</u></a></li>
+</ul></div>
 

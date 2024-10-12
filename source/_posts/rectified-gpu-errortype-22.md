@@ -1,7 +1,7 @@
 ---
 title: Rectified GPU Errortype 22
-date: 2024-10-03T21:30:19.913Z
-updated: 2024-10-06T17:35:11.620Z
+date: 2024-10-10T18:07:56.672Z
+updated: 2024-10-12T09:43:49.135Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -53,38 +67,17 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
@@ -106,14 +99,21 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -137,20 +137,21 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-desktop-preservation-on-windows-8/"><u>[New] 2024 Approved Mastering Desktop Preservation on Windows 8</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-guide-unraveling-ios-screen-capture-magic/"><u>[New] Essential Guide Unraveling IO's Screen Capture Magic</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-advanced-tips-for-professionally-changing-image-hues/"><u>[New] In 2024, Advanced Tips for Professionally Changing Image Hues</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-capture-youtubes-subtitles-on-no-cost-platforms/"><u>[New] In 2024, Capture YouTube's Subtitles on No-Cost Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premiere-samsung-gear-vr-playlist-for-2024/"><u>[New] Premiere Samsung Gear VR Playlist for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-6-empowering-metaverse-instances-explained/"><u>[Updated] 6 Empowering Metaverse Instances Explained</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-wi-fi-driver-fix-confirmed-for-windows-11/"><u>Atheros QCA61x4 Wi-Fi Driver Fix Confirmed for Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/combat-lag-in-virtual-building-game-pc/"><u>Combat Lag in Virtual Building Game PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-operational-amd-freesync/"><u>Enabling Operational AMD FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-faint-laptop-screen-issue-in-lenovo/"><u>Fixing Faint Laptop Screen Issue in Lenovo</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-display-not-reacting-repair-successful/"><u>Lenovo Display Not Reacting - Repair Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-5-strategies-to-experience-gpt-4s-power-for-zero-dollars/"><u>Unlock 5 Strategies to Experience GPT- 4'S Power for Zero Dollars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-click-through-rates-with-youtube-images-for-2024/"><u>[Updated] Maximizing Click-Through Rates with Youtube Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>2024 Approved Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-graphics-snag-with-amd-fixes/"><u>Bypass Graphics Snag with AMD Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defeating-win11-blank-screen-anomaly/"><u>Defeating WIN11 Blank Screen Anomaly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-v30-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme V30 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-photo-techniques-mastering-leading-lines/"><u>In 2024, IPhone Photo Techniques Mastering Leading Lines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-free-tools-for-flawless-srt-conversion/"><u>In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-pixels-graphic-device-missing/"><u>Invisible Pixels: Graphic Device Missing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-video-content-conversion-xml-ssa-and-ttml-to-srt-guide/"><u>Mastering Video Content Conversion XML, SSA & TTML to SRT Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-fix-approach-non-operating-display-nvidia/"><u>Plain Fix Approach: Non-Operating Display, NVIDIA</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-examples-14-dynamic-text-animations/"><u>Prime Examples 14 Dynamic Text Animations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-puzzle-of-programmed-passion-can-ai-grasp-the-heartache/"><u>The Puzzle of Programmed Passion: Can AI Grasp the Heartache?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-the-potential-amd-hd-6950-update-v20-on-windows-10/"><u>Unleashing the Potential: AMD HD 6950 Update v2.0 on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-eliminate-fuzzy-visuals/"><u>Windows: Eliminate Fuzzy Visuals</u></a></li>
 </ul></div>
 

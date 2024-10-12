@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle"
-date: 2024-09-30T16:04:36.613Z
-updated: 2024-10-06T16:31:08.268Z
+date: 2024-10-05T08:19:11.882Z
+updated: 2024-10-12T05:40:21.903Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -66,19 +73,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -87,10 +81,10 @@ To do so, first visit the website of your GPU manufacturer:
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
@@ -123,20 +117,27 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
-If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 ### Fix 4: Edit your file name
 
@@ -164,22 +165,15 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -198,18 +192,18 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>[New] 2024 Approved Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-pinnacle-of-emoji-creation-for-discord-channels/"><u>[Updated] 2024 Approved The Pinnacle of Emoji Creation for Discord Channels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>2024 Approved Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-complimentary-universal-media-server-application-for-apple-computers-a-guide/"><u>Best Complimentary Universal Media Server Application for Apple Computers: A Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dampening-discoloration-in-win7-output/"><u>Dampening Discoloration in Win7 Output</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>In 2024, From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gateways-to-googles-advertising-on-youtube-platforms/"><u>In 2024, Gateways to Google's Advertising on YouTube Platforms</u></a></li>
-<li><a href="https://win-bits.techidaily.com/master-the-art-of-printing-your-iphones-contact-information-with-these-expert-techniques/"><u>Master the Art of Printing Your iPhone's Contact Information with These Expert Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repair-guide-for-aoc-screen-malfunction-compatibility-with-windows-11-devices/"><u>Repair Guide for AOC Screen Malfunction Compatibility with Windows 11 Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revamping-bdr-for-win-versions-11-to-7/"><u>Revamping BDR for Win Versions 11 to 7</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-gif-pace-managers-expert-picks-for-online-and-mobile-use-for-2024/"><u>Updated GIF Pace Managers Expert Picks for Online and Mobile Use for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visual-configuration-saved-and-fixed/"><u>Visual Configuration Saved & Fixed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-video-resolution-in-youtube-for-2024/"><u>[New] Elevating Video Resolution in YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-manipulating-fonts-in-visual-media/"><u>[New] In 2024, Manipulating Fonts in Visual Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfectly-pairing-photos-step-by-step-guide/"><u>[New] Perfectly Pairing Photos - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streamsurf-skimming-above-dacast/"><u>[New] StreamSurf Skimming Above DaCast</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>[Updated] From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/5-ways-to-record-streaming-audio-online/"><u>5 Ways to Record Streaming Audio Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ergonomic-gamepad-options/"><u>Best Ergonomic Gamepad Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-visual-clarity-and-gaming-performance-using-updated-intel-gpu-driver-for-w10/"><u>Boost Visual Clarity and Gaming Performance Using Updated Intel GPU Driver for W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-play-fixing-crashes-in-fallout-4/"><u>Effortless Play: Fixing Crashes in Fallout 4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-phantasm-captures-action-tech-diary/"><u>In 2024, Phantasm Captures Action Tech Diary</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-of-latest-intel-hd-drivers-in-windows/"><u>Installation of Latest Intel HD Drivers in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-amd-driver-release-optimized-performance-on-win11-and-radeon-hd-6950/"><u>New AMD Driver Release: Optimized Performance on Win11 and Radeon HD 6950</u></a></li>
+<li><a href="https://techidaily.com/vivo-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Vivo Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2024-09-30T20:09:43.150Z
-updated: 2024-10-06T16:32:11.643Z
+date: 2024-10-07T04:34:02.615Z
+updated: 2024-10-12T08:24:22.882Z
 tags:
   - chatgpt
   - open-ai
@@ -52,13 +52,6 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -68,13 +61,6 @@ You could use:
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
 
@@ -87,13 +73,6 @@ You could use:
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
 
@@ -108,25 +87,32 @@ You could use:
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
@@ -135,6 +121,13 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Not Being Clear and Specific With Your Instructions
 
  To get the best responses from ChatGPT, you'll need to be as specific and as unambiguous as possible in your instructions. Unfortunately, ambiguity opens your prompts to multiple interpretations, making it difficult for ChatGPT to provide a specific and accurate response.
@@ -142,6 +135,13 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -162,20 +162,21 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-solved-obs-full-screen-not-working-for-2024/"><u>[New] [Solved] OBS Full Screen Not Working for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-master-tweet-management-ultimate-list-of-unfollow-aids/"><u>[New] 2024 Approved Master Tweet Management Ultimate List of Unfollow Aids</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>2024 Approved Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-bd-issues-on-ws-21-ws-8-and-older-windows/"><u>Addressing BD Issues on WS-21, WS-8 & Older Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensively-understanding-azure-speech-to-text/"><u>Comprehensively Understanding Azure Speech to Text</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-demise-laptops-last-stand/"><u>Display Demise: Laptop's Last Stand</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fury-fixed-for-spartans-journey/"><u>Fury Fixed for Spartan's Journey</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-zte-blade-a73-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to ZTE Blade A73 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-straighten-laptop-display/"><u>Quick Fix for Straighten Laptop Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recover-lost-display-settings-easy-way/"><u>Recover Lost Display Settings, Easy Way</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionizing-gaming-analyzing-kinemasters-android-version-for-2024/"><u>Revolutionizing Gaming Analyzing KineMaster's Android Version for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solidify-displays-edge-integrity/"><u>Solidify Display's Edge Integrity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974830104-swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself/"><u>Updated Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-online-connectivity-woes-cod-cold-war/"><u>[FIXING]: Online Connectivity Woes - CoD Cold War</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-no-cost-recording-solutions-windows-tech-hacks/"><u>[New] 2024 Approved No-Cost Recording Solutions Windows Tech Hacks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-securely-shutting-down-your-instagram-presence-forever/"><u>[New] In 2024, Securely Shutting Down Your Instagram Presence Forever</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-gpu-fan-resistance-issues/"><u>Addressing GPU Fan Resistance Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-random-hp-monitor-flickering/"><u>Addressing Random HP Monitor Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/align-screen-horizons-uniformly/"><u>Align Screen Horizons Uniformly</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/downtime-for-disturbed-windows-11-displays/"><u>Downtime for Disturbed Windows 11 Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-robloxs-access-denied-error-403-on-windows/"><u>How to Overcome Roblox's Access Denied (Error 403) on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-error-12-solved-monsters-rejoice/"><u>MH World Error 12 Solved - Monsters Rejoice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reactivating-your-screen-essential-tips-for-bringing-back-power-to-your-roku-device/"><u>Reactivating Your Screen: Essential Tips for Bringing Back Power to Your Roku Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-no-signal-on-wi-fi-in-windows-11/"><u>Resolved: No Signal on Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snapchats-best-practices-for-image-and-video-zooming-for-2024/"><u>Snapchat's Best Practices for Image and Video Zooming for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-driverpowerstateerror-on-your-computer/"><u>Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-transforming-your-videos-into-itunes-compatible-format-with-youtube-conversion-masterclass/"><u>Ultimate Guide: Transforming Your Videos Into iTunes Compatible Format with YouTube Conversion Masterclass</u></a></li>
 </ul></div>
 

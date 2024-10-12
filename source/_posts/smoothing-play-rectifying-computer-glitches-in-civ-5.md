@@ -1,7 +1,7 @@
 ---
 title: "Smoothing Play: Rectifying Computer Glitches in Civ 5"
-date: 2024-10-01T20:35:19.142Z
-updated: 2024-10-06T19:21:20.230Z
+date: 2024-10-07T14:49:48.879Z
+updated: 2024-10-12T13:18:54.364Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify your game integrity
 
  Sometimes**CIV 5 crashes** because there’re broken or missing files on your system. So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the**CIV 5 crashing**  issue.
@@ -45,16 +38,24 @@ Here’s how to do it:
 2. Click**Library** , then locate and right-click on**Sid Meier’s Civilizatio** n in your list of games and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -69,13 +70,6 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -94,6 +88,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
  **To update the DirectX to the latest version on your computer:**
@@ -106,10 +107,10 @@ Here’s how to do it:
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -135,19 +136,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-examining-librevid-recorder-for-live-streaming/"><u>[New] 2024 Approved Examining LibreVid Recorder for Live Streaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-garageband-tutorial-for-podcast-creation/"><u>[New] Step-by-Step GarageBand Tutorial for Podcast Creation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[Updated] In 2024, Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-how-to-sharing-videos-from-youtube-on-instagram-for-2024/"><u>[Updated] The Essential How-To Sharing Videos From YouTube on Instagram for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>2024 Approved Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-radeon-hd-6950-version-20/"><u>AMD Graphics Drivers: Radeon HD 6950, Version 2.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-media-stutter-win11s-stream-success-story/"><u>Conquering Media Stutter: Win11's Stream Success Story</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-missing-full-screen-on-11-window-monitors/"><u>Fixed Missing Full Screen on 11 Window Monitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-ground-to-heavens-a-mobile-panorama-journey-for-2024/"><u>From Ground to Heavens A Mobile Panorama Journey for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-experience-not-working-solved/"><u>GeForce Experience Not Working [SOLVED]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-screen-jitter-on-windows-7/"><u>Overcoming Screen Jitter on Windows 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-mode-a-step-by-step-fix/"><u>Win11 Dark Mode: A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-works-on-pc-fix-successful/"><u>Xbox One Controller Works on PC - Fix Successful</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-spreading-smiles-crafting-visual-jokes-for-fbinstagram-shares/"><u>[New] In 2024, Spreading Smiles Crafting Visual Jokes for FB/Instagram Shares</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>Beyond Zoom The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-moto-g04-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Moto G04?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/compatibility-secured-qualcomm-atheros-on-win10-os/"><u>Compatibility Secured: Qualcomm Atheros on Win10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-curser-halt-in-win10-dark-mode/"><u>Fix Curser Halt in Win10 Dark Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxsystem-crash-on-windows-screen-patch-ready/"><u>GFXSystem Crash on Windows Screen (Patch Ready)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-problem-windows-10s-full-screen-missing/"><u>Monitor Problem - Windows 10'S Full-Screen Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-intermittent-hp-monitor-glow/"><u>Remedying Intermittent HP Monitor Glow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieving-lost-display-features-windows-10/"><u>Retrieving Lost Display Features, Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-visual-glitches-on-far-cry-6-console-port/"><u>Tackling Visual Glitches on Far Cry 6 Console Port</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-rejuvenation-routine-top-13-methods-for-restoring-windows/"><u>The Rejuvenation Routine: Top 13 Methods for Restoring Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-purity-restored-to-windows/"><u>Visual Purity Restored to Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-print-to-pdf-working-fixes-for-windows-1011-users-of-microsoft-office/"><u>Why Isn’t 'Print to PDF' Working? Fixes for Windows 10/11 Users of Microsoft Office</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
 

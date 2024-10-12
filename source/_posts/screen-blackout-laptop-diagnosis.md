@@ -1,7 +1,7 @@
 ---
 title: "Screen Blackout: Laptop Diagnosis"
-date: 2024-08-22T13:38:28.120Z
-updated: 2024-08-23T13:38:28.120Z
+date: 2024-10-11T06:38:59.570Z
+updated: 2024-10-12T03:53:56.428Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/3f6c6bea7939b70a1c035d96c63060bf36a01be87
 2. [**Connect your laptop to an external monitor**](#b)
 3. [**Have your laptop serviced**](#c)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-enable your screen
 
  Your laptop screen may have accidentally been disabled. You should re-enable your laptop screen so you’re able to use it.
@@ -37,8 +44,12 @@ thumbnail: https://thmb.techidaily.com/3f6c6bea7939b70a1c035d96c63060bf36a01be87
  Now check to see if you’re able to turn on your laptop screen. If not, don’t worry. There are still other fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Connect your laptop to an external monitor
 
  If your laptop screen is still not working, you should try connecting your laptop to a monitor. If the external monitor is working, then there are a few things you should try:
@@ -53,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/3f6c6bea7939b70a1c035d96c63060bf36a01be87
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c14afed043cd.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -76,8 +87,12 @@ thumbnail: https://thmb.techidaily.com/3f6c6bea7939b70a1c035d96c63060bf36a01be87
  If the methods above still didn’t repair your laptop screen, you may need to…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Have your laptop serviced
 
  You may be experiencing hardware issues with your laptop screen so it’s not working properly. You should contact your laptop manufacturer support or a repair store and ask them for advice.
@@ -92,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/3f6c6bea7939b70a1c035d96c63060bf36a01be87
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +114,22 @@ thumbnail: https://thmb.techidaily.com/3f6c6bea7939b70a1c035d96c63060bf36a01be87
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-moto-z2-play-smartphone-review/"><u>[New] MOTO Z2 Play Smartphone Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>2024 Approved Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974349923-efficiently-upgrade-intel-g3000-driver-in-windows-11/"><u>Efficiently Upgrade Intel G3000 Driver in Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-inability-to-preserve-display-configuration-state/"><u>Fixing Inability to Preserve Display Configuration State</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-online-wav-wisseling-van-au-naar-wav-professioneel-zorgvuldig-het-doen-movavi/"><u>Gratis Online Wav-Wisseling Van Au Naar Wav - Professioneel Zorgvuldig Het Doen - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/quick-and-simple-guide-converting-videos-for-mobile-viewing-with-speed/"><u>Quick & Simple Guide: Converting Videos for Mobile Viewing with Speed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974840427-quickly-improve-intellgraphics-g3000-on-windows-11/"><u>Quickly Improve IntellGraphics G3000 on Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reduce-overly-large-screen-on-win10/"><u>Reduce Overly Large Screen on Win10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-camon-20-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Camon 20 Phone Pattern Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-issues-on-legacy-processors/"><u>Troubleshooting Windows 11 Issues on Legacy Processors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-a-well-prepared-summer-everyday-carry-kit-top-7-insider-tips/"><u>Unlocking the Secrets to a Well-Prepared Summer Everyday Carry Kit: Top 7 Insider Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-gone-mia-solving-windows-11-problems/"><u>Wi-Fi Gone MIA: Solving Windows 11 Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-display-settings-adjustment/"><u>Win10 Display Settings Adjustment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-resolution-adjustment-issue-fixed/"><u>Windows 11 Resolution Adjustment Issue - Fixed</u></a></li>
+</ul></div>
 

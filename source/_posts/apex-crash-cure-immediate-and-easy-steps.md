@@ -1,7 +1,7 @@
 ---
 title: "Apex Crash Cure: Immediate & Easy Steps"
-date: 2024-09-30T17:34:47.701Z
-updated: 2024-10-06T19:59:35.948Z
+date: 2024-10-06T08:27:18.609Z
+updated: 2024-10-12T02:20:40.579Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -69,10 +56,10 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -97,27 +84,20 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -161,15 +141,22 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
@@ -189,6 +176,19 @@ You can follow the instructions below to install the latest game patch:
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -225,20 +225,15 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-secret-sauce-of-compelling-tiktok-footage-on-mac/"><u>[New] 2024 Approved The Secret Sauce of Compelling TikTok Footage on Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-tailored-approach-boosting-fans-via-page-ranking-for-2024/"><u>[New] Tailored Approach Boosting Fans via Page Ranking for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-gear-360s-virtual-reality-capability/"><u>[Updated] Comprehensive Scrutiny Gear 360'S Virtual Reality Capability</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-lenovo-thunderbolt-3-docking-station-drivers/"><u>Download the Latest Lenovo Thunderbolt 3 Docking Station Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-anthem-playback-handling-lag/"><u>Effortless Anthem Playback: Handling Lag</u></a></li>
-<li><a href="https://fox-that.techidaily.com/finding-your-way-back-to-deleted-iphone-notecard-information-easily/"><u>Finding Your Way Back to Deleted iPhone Notecard Information Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-detected-none-found-latest-resolution/"><u>GPU Detected: None Found - Latest Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guiding-through-windows-7-screenshake-solutions/"><u>Guiding Through Windows 7 Screenshake Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78t to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-glitch-fix-blinking-solution/"><u>Monitor Glitch Fix: Blinking Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-blackout-after-fall-update/"><u>Overcoming Windows Blackout After Fall Update</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfecting-your-live-stream-our-picks-from-the-top-6-microphones-for-2024/"><u>Perfecting Your Live Stream Our Picks From the Top 6 Microphones for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smoothen-screen-fluctuations-pro-7/"><u>Smoothen Screen Fluctuations (Pro 7)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-showdown-final-cut-pro-vs-final-cut-express-for-2024/"><u>The Ultimate Showdown Final Cut Pro Vs. Final Cut Express for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/transform-your-revenue-with-youtube-shorts-tips/"><u>Transform Your Revenue with YouTube Shorts Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[New] 2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-shooting-with-a-green-screen/"><u>[Updated] The Complete Guide to Shooting with a Green Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-huawei-nova-y71-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Huawei Nova Y71 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-record-gameplay-in-samsung-galaxy-phones/"><u>In 2024, How to Record Gameplay in Samsung Galaxy Phones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-the-simple-steps-to-update-your-networks-banner-image/"><u>In 2024, Unveiling the Simple Steps to Update Your Network's Banner Image</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-amd-radeon-r9-drivers-in-win11/"><u>Mastering AMD Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-common-green-screen-hiccups-in-video-editing/"><u>Overcoming Common Green Screen Hiccups in Video Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-triumph/"><u>Qualcomm Adapter Compatibility - Windows 10 Triumph</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-digital-acknowledgements-recognizing-when-your-text-messages-are-read/"><u>Understanding Digital Acknowledgements: Recognizing when Your Text Messages Are Read</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
 </ul></div>
 

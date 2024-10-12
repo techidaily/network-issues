@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 11 & 7
-date: 2024-10-01T16:37:02.028Z
-updated: 2024-10-06T21:53:38.587Z
+date: 2024-10-08T22:34:10.899Z
+updated: 2024-10-11T19:42:11.221Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -73,29 +66,16 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -106,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 5: Make sure the Ethernet is enabled
 
  After trying the tips above, if the problem persists, check if the Ethernet is disabled.
@@ -115,18 +102,19 @@ Follow the steps below:
 1. Press the**Windows** key and**R** key at the same time. Type**devmgmt.msc** in the run box and click on the**OK** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -142,6 +130,13 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
@@ -149,10 +144,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
@@ -176,22 +171,20 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-immersive-exploration-mastering-close-up-views-in-minecraft/"><u>[New] 2024 Approved Immersive Exploration Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-addressing-youtube-shorts-no-image-upload-issue/"><u>[New] In 2024, Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-online-marketplace-for-profitable-yt-content/"><u>[Updated] Navigating the Online Marketplace for Profitable YT Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-to-4k-capturing-applications-for-2024/"><u>[Updated] Ultimate Guide to 4K Capturing Applications for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-guide-for-selecting-tiktok-wallpapers/"><u>2024 Approved Master Guide for Selecting TikTok Wallpapers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-compre-written-in-sounds-youtube-playlists-decoded/"><u>A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-r9-driver-issues-for-enhanced-performance-in-w10/"><u>Fixing R9 Driver Issues for Enhanced Performance in W10</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-interactive-display-malfunction-now-operational/"><u>Lenovo Interactive Display Malfunction - Now Operational</u></a></li>
-<li><a href="https://win-blog.techidaily.com/oculus-graphics-glitches-top-solutions-for-optimal-vr-performance/"><u>Oculus Graphics Glitches - Top Solutions for Optimal VR Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-monitor-flipped-image-issue/"><u>Overcoming Monitor Flipped Image Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-size-adjustment-glitches-for-wide-view-windows/"><u>Solved Size Adjustment Glitches for Wide-View Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-add-fun-filters-and-graphics-to-your-snapchat-story/"><u>Step-by-Step Guide to Add Fun Filters and Graphics to Your Snapchat Story</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-update-renders-wincom-safe/"><u>System Update Renders WinCOM Safe</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-wi-fi-connection-conundrum/"><u>The Wi-Fi Connection Conundrum</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tv-rejects-hdmi-input-from-laptop-screen/"><u>TV Rejects HDMI Input From Laptop Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-calibration-resolution-fix/"><u>Win11 Display Calibration Resolution Fix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-music-a-youtube-playlist-journey/"><u>[New] 2024 Approved Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-activate-grid-in-google-meet-for-full-participant-display-for-2024/"><u>[New] Activate Grid in Google Meet for Full-Participant Display for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-10-capture-cards-for-youtube-you-should-know-for-2024/"><u>[New] The Top 10 Capture Cards for YouTube You Should Know for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-addressing-the-internet-disconnect-in-cod-cold-war/"><u>[REPAIRED] Addressing the Internet Disconnect in CoD Cold War</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/best-laughter-inducing-flicks-your-guide-to-free-viewing-and-downloads-of-comedy-classics/"><u>Best Laughter-Inducing Flicks: Your Guide to Free Viewing & Downloads of Comedy Classics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-dark-windows-display-post-update/"><u>Ending Dark Windows Display Post-Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-800-on-vpn-effective-solutions-for-client-and-server-connection-woes/"><u>Error 800 on VPN: Effective Solutions for Client and Server Connection Woes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-errors-in-the-finals-game-for-windows-users/"><u>Fixing Persistent Errors in The Finals Game for Windows Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-windows-graphics-by-installing-current-intel-drivers/"><u>Improve Windows Graphics by Installing Current Intel Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauling-amd-radeon-r9-driver-stability-in-w10/"><u>Overhauling AMD Radeon R9 Driver Stability in W10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/resolving-skewed-online-video-quality/"><u>Resolving Skewed Online Video Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-video-experience-post-windows-10-upgrade/"><u>Uninterrupted Video Experience Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-driver-uninstalled-reinstate-windows-10-card/"><u>Wi-Fi Driver Uninstalled? Reinstate Windows 10 Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-missing-adjustments/"><u>Windows 11 Advanced Display Missing Adjustments</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat High Server Lag in Fortnite: Fast Fixes and Solutions"
-date: 2024-10-05T17:19:11.126Z
-updated: 2024-10-06T17:37:29.751Z
+date: 2024-10-04T23:50:58.165Z
+updated: 2024-10-11T19:21:41.322Z
 tags:
   - win11
   - win10
@@ -32,11 +32,25 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart Fortnite
 
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Reboot your network
 
@@ -47,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 modem
@@ -63,19 +77,6 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -87,13 +88,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -130,6 +124,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
@@ -145,6 +146,12 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
+
+Join a squad to see if you’ve resolved the high ping issue.
+
+If not, you may need to check if it is a server issue.
+
 <!-- affiliate ads begin -->
 <a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
   <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
@@ -152,28 +159,15 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 <img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Join a squad to see if you’ve resolved the high ping issue.
-
-If not, you may need to check if it is a server issue.
-
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
@@ -214,18 +208,17 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-new-frontiers-in-gaming-top-titles-for-rift-vive-and-playstation-vr/"><u>[New] Exploring New Frontiers in Gaming Top Titles for Rift, Vive, and PlayStation VR</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-embarking-on-a-youtube-venture-user-setup-essentials/"><u>[Updated] In 2024, Embarking on a YouTube Venture User Setup Essentials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-video-repository-explorator/"><u>[Updated] In 2024, Video Repository Explorator</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosting-your-gameplay-ultimate-guide-to-increasing-frames-per-second-fps-on-pc/"><u>Boosting Your Gameplay: Ultimate Guide to Increasing Frames Per Second (FPS) on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-innovative-screen-capture-on-mac-top-5-methods/"><u>In 2024, Innovative Screen Capture on Mac, Top 5 Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-world-of-computing-insights-from-toms-hardware/"><u>Inside the World of Computing: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nab-amd-graphics-snafu-now/"><u>Nab AMD Graphics Snafu Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-hybrid-graphic-performance-in-windows-11s-latest-update/"><u>Resolved Hybrid Graphic Performance in Windows 11'S Latest Update</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-verdict-on-the-xp-pen-artist-16-pro-a-detailed-drawing-tablet-assessment/"><u>The Definitive Verdict on the XP-Pen Artist 16 Pro: A Detailed Drawing Tablet Assessment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unable-to-pair-with-wireless-adapter-in-win10/"><u>Unable to Pair with Wireless Adapter in Win10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/window-graphics-issue-fixed/"><u>Window Graphics Issue Fixed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[New] In 2024, All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-recommended-frame-rates-for-professional-slow-motion-videos/"><u>[Updated] Recommended Frame Rates for Professional Slow-Motion Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-wi-fi-integration-a-comprehensive-guide-to-os-xwindows/"><u>Effortless Wi-Fi Integration: A Comprehensive Guide to OS X/Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011361025-fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-resolved-the-bug-that-made-my-software-misbehave-guide/"><u>How I Resolved The Bug That Made My Software Misbehave [GUIDE]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-two-factor-sign-in-security-feature-in-gmail-accounts/"><u>How to Set Up Two-Factor Sign-In Security Feature in Gmail Accounts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-x50i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor X50i to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-failed-d3d-initialization/"><u>Resolving Failed D3D Initialization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-transition-to-clear-views/"><u>Smooth Transition to Clear Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-win11-blackout-post-fall-creators-fix/"><u>Solving Win11 Blackout Post Fall Creator's Fix</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-windows-registry-explained-how-it-affects-software-management/"><u>The Windows Registry Explained: How It Affects Software Management</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-lenovo-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Lenovo Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

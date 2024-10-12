@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2024-10-03T21:13:57.364Z
-updated: 2024-10-06T19:51:30.024Z
+date: 2024-10-07T17:28:13.596Z
+updated: 2024-10-12T03:17:20.628Z
 tags:
   - win11
   - win10
@@ -26,10 +26,16 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
@@ -60,11 +66,25 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -72,15 +92,21 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -99,22 +125,8 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -137,24 +149,17 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-creations-get-free-high-quality-templates-today/"><u>2024 Approved Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722017278701-biking-directions/"><u>Biking Directions:</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-visual-performance-update-windows-intel-gpu/"><u>Enhance Visual Performance: Update Windows Intel GPU</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-cooling-get-the-best-for-just-33-thermalrights-peerless-assassin-n120-se-cpu-air-cooler/"><u>Experience Unmatched Cooling: Get the Best for Just $33 - Thermalright's Peerless Assassin N120 SE CPU Air Cooler</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opencl-not-found-fixed-now/"><u>OpenCL Not Found, Fixed Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opengl-halted-restoration-complete/"><u>OpenGL Halted, Restoration Complete</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quick-engagement-techniques-for-zooms-camera-shots/"><u>Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reactivating-silent-gpu-fans/"><u>Reactivating Silent GPU Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refresh-windows-sharpen-screens/"><u>Refresh Windows, Sharpen Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gdx-setup-failure-now-functional-on-ws/"><u>Resolved GDX Setup Failure, Now Functional on WS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-vector-databases-in-advancing-artificial-intelligence-technologies/"><u>The Role of Vector Databases in Advancing Artificial Intelligence Technologies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-diamond-wizard-backup-solution-analysis-with-detailed-guide-on-installation-and-new-functioning-web-address/"><u>Ultimate Diamond Wizard Backup Solution Analysis with Detailed Guide on Installation & New Functioning Web Address</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-the-latest-dota-2-valve-anti-cheat-vac-errors-solutions-gaming-community/"><u>Understanding the Latest Dota 2 Valve Anti-Cheat (VAC) Errors: Solutions Gaming Community</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlock-creative-potential-with-expert-macro-video-cinematography-guidance-for-2024/"><u>Unlock Creative Potential with Expert Macro Video Cinematography Guidance for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974620349-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-bluescreen-dxgkrnlsys-troubleshooting/"><u>WinOS BlueScreen - dxgkrnl.sys Troubleshooting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-interop-issue-addressed/"><u>WinOS Interop Issue Addressed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-5-best-title-makers-online/"><u>[New] 5 Best Title Makers Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-delight-in-motion-capturing-irresistible-culinary-shots-for-2024/"><u>[Updated] Delight in Motion Capturing Irresistible Culinary Shots for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-f54-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy F54 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a78-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A78 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-fast-internet-fix-for-win-1110/"><u>Lightning-Fast Internet Fix for WIN 11/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-fix-overcoming-fallout-4-glitches/"><u>PC Fix: Overcoming Fallout 4 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-c1900101-during-windows-11-installation/"><u>Remedy for C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-c1900101-error-in-win11-setup/"><u>Resolving C1900101 Error in Win11 Setup</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Hot 40i</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-8-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 8 Without Passcode Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/web-warriors-championing-screen-recording-tools-for-2024/"><u>Web Warriors Championing Screen Recording Tools for 2024</u></a></li>
 </ul></div>
 

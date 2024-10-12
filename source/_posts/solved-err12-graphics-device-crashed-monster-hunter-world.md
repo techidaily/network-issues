@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Err12 Graphics Device Crashed Monster Hunter World"
-date: 2024-08-22T13:42:12.632Z
-updated: 2024-08-23T13:42:12.632Z
+date: 2024-10-05T05:31:00.392Z
+updated: 2024-10-12T03:58:04.765Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 1. **[Update your graphics driver (nearly always fixes the problem)](#F1)**
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
@@ -50,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Roll back your graphics driver
 
  Some users also report the latest graphics driver to be the culprit of the err 12: graphics card crashed problem. If you’ve recently updated your graphics driver and the problem occurs subsequently, then it’s probable that the up-to-date driver is to blame. So you can roll it back to see if it fixes the issue.
@@ -68,8 +72,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
@@ -77,8 +85,12 @@ Here’s how to do it:
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair system files
 
  Missing, corrupt, or damaged system files may cause games to crash. Many Monster Hunter World players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -103,8 +115,12 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -119,18 +135,12 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -152,8 +162,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,8 +169,20 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-secure-continuous-streaming-in-obs/"><u>2024 Approved How To Secure Continuous Streaming In OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>2024 Approved Streamline Your Social Networking Joining Instagram & Facebook Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-the-lag-in-fortnite-instant-fixes-for-optimal-gameplay-performance/"><u>Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-video-overlays-top-10-essentials/"><u>Creative Video Overlays Top 10 Essentials</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/imperator-rome-analysis-constructing-dominion-or-facing-demise/"><u>Imperator Rome Analysis: Constructing Dominion or Facing Demise</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y100t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y100t? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/introducing-the-heimvision-a80s-the-ultimate-guide-to-its-basic-light-therapy-features/"><u>Introducing the HeimVision A80S: The Ultimate Guide to Its Basic Light Therapy Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-success-mastering-6-strategies-for-prosperity-amidst-rising-artificial-intelligence/"><u>Navigating Success: Mastering 6 Strategies for Prosperity Amidst Rising Artificial Intelligence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-realtek-bluetooth-driver-version-compatible-with-windows-11-and-10-download-now/"><u>Newest Realtek Bluetooth Driver Version Compatible with Windows 11 & 10: Download Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-graphics-system-startup-problems-a-compreh-grove-guide/"><u>Resolving Graphics System Startup Problems - A Compreh Grove Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/your-comprehensive-guide-to-tablet-buying-by-assessing-display-area-and-portable-design/"><u>Your Comprehensive Guide to Tablet Buying by Assessing Display Area and Portable Design</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Clear Out Sims 4 Darkness Dilemma
-date: 2024-10-05T18:48:56.378Z
-updated: 2024-10-06T19:58:46.947Z
+date: 2024-10-07T04:49:53.973Z
+updated: 2024-10-11T18:53:57.477Z
 tags:
   - win11
   - win10
@@ -47,25 +47,11 @@ thumbnail: https://thmb.techidaily.com/9778d11b1aebf28352d7990f8df2285fbb44be756
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -78,6 +64,13 @@ Here is how to do it:
 2) Click **My Game Library** , then right-click on **The Sims 4** and click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
 
@@ -99,18 +92,24 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -121,13 +120,6 @@ Here are the steps:
  1) In Origin, click**Origin** \>**Application Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
@@ -147,16 +139,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -171,10 +163,10 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
@@ -196,6 +188,13 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
@@ -203,6 +202,13 @@ Here is how to check if your computer spec has met the requirements:
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -229,14 +235,22 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/45-funniest-tiktok-puzzles-and-jokes-for-2024/"><u>45 Funniest TikTok Puzzles & Jokes for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/counteract-pc-game-lagging-roblox-edition/"><u>Counteract PC Game Lagging: Roblox Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disabling-dark-mode-black-screen-issue/"><u>Disabling Dark Mode BLACK SCREEN Issue</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-upgrade-your-asus-wifi-adapters-bluetooth-driver-with-this-simple-tutorial/"><u>Download & Upgrade Your ASUS WiFi Adapter's Bluetooth Driver with This Simple Tutorial</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversal-of-laptop-viewpoint-overcome/"><u>Reversal of Laptop Viewpoint - Overcome</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simplified-guide-uninstalling-graphics-drivers-in-windows/"><u>Simplified Guide: Uninstalling Graphics Drivers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-blue-screen-error-interrupt-not-handled/"><u>Techniques for Resolving Blue Screen Error: Interrupt Not Handled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-potential-our-picks-for-the-most-inspiring-films-for-2024/"><u>Unleash Potential Our Picks for the Most Inspiring Films for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-complete-walkthrough-to-emoji-enriched-discord-statuses/"><u>[New] 2024 Approved The Complete Walkthrough to Emoji-Enriched Discord Statuses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-calculating-storage-total-gb-for-a-days-long-film/"><u>[New] Calculating Storage Total GB for a Day's Long Film</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-use-video-titles-and-youtube-tags-for-more-views/"><u>[New] How to Use Video Titles and YouTube Tags for More Views?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations/"><u>[New] In 2024, Dynamic Dividends Boosting Social Media ROI with FB Ad Animations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-vertical-vistas-to-virtual-viewers-fb-live-streaming-w-dji/"><u>[New] In 2024, From Vertical Vistas to Virtual Viewers FB Live Streaming W/ DJI</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-youtube-end-screen-templates-for-content-makers/"><u>[Updated] 2024 Approved Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diagnosing-and-rectifying-dead-asus-video-features/"><u>Diagnosing and Rectifying Dead Asus Video Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displaysystem-crashes-on-windows-fix-available/"><u>DisplaySystem Crashes on Windows (Fix Available)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-flickering-on-windows-monitor/"><u>Eradicating Flickering on Windows Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-unique-logos-using-complimentary-stock-graphics/"><u>In 2024, Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-screenplays-to-screens-youtubes-filmmaker-training/"><u>In 2024, From Screenplays to Screens YouTube's Filmmaker Training</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-interruptions-stable-fallout-on-computer/"><u>No More Interruptions: Stable Fallout on Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reducing-delays-roblox-on-computer/"><u>Reducing Delays: Roblox on Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-troubleshooting-of-wide-text-lines-on-laptops/"><u>Seamless Troubleshooting of Wide Text Lines on Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secured-endless-flicker-in-portable-computing-panel/"><u>Secured: Endless Flicker in Portable Computing Panel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vertical-view-fixed-for-laptops/"><u>Vertical View Fixed for Laptops</u></a></li>
 </ul></div>
 

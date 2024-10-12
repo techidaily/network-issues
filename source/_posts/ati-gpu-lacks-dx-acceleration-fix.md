@@ -1,7 +1,7 @@
 ---
 title: ATI GPU Lacks DX Acceleration Fix
-date: 2024-10-02T18:35:56.253Z
-updated: 2024-10-06T22:18:44.965Z
+date: 2024-10-08T17:23:14.464Z
+updated: 2024-10-11T17:26:03.046Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/71d273f8b15957f17fdeb3b0aae3c0885fe07f2dc
 2. Type****dxdiag**and click****OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8b3e75161.png)
 3. In DirectX Diagnostic Tool, click on the****Display**tab to check if your Direct3D Acceleration is****enabled** . If not, click to enable it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8c1f7496a.jpg)
 4. Click on the**System** tab to check your**DirectX Version** .  If it doesn’t meet the requirement (DirectX 9.0 and later), you should update your DirectX version in your system. Updating DirectX varies from Windows versions.  
 
@@ -52,16 +60,10 @@ thumbnail: https://thmb.techidaily.com/71d273f8b15957f17fdeb3b0aae3c0885fe07f2dc
 5. Check if your problem is now resolved. If not, try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -84,26 +86,26 @@ OR
 3. Click**Update**  next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All**  to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfcc47398702.jpg)
 4. Restart your computer and check if your program is now resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -114,13 +116,6 @@ OR
 
 1. Press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  +  
  **R** key  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  to open the Run box.
 2. Type**appwiz.cpl** and click**OK** .  
@@ -156,16 +151,18 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-educational-gaming-content-on-youtube-for-2024/"><u>[New] Educational Gaming Content on YouTube for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-resolving-the-internet-gap-in-cod-cold-war/"><u>[SOLVED] Resolving the Internet Gap in CoD Cold War</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-chuckle-champions-humor-hunt-on-twitter/"><u>[Updated] 2024 Approved Chuckle-Champions Humor Hunt on Twitter</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs/"><u>[Updated] 2024 Approved Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-finding-the-best-sound-editing-software-for-video-makers/"><u>2024 Approved Finding the Best Sound Editing Software for Video Makers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-diagnose-and-repair-freezing-errors-in-borderlands-3/"><u>Comprehensive Guide to Diagnose and Repair Freezing Errors in Borderlands 3</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974211832-easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c51-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C51 Location | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974328874-zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-walkthrough-for-console-gaming-pc-recordings/"><u>[New] The Complete Walkthrough for Console Gaming PC Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premier-vr-movies-for-immersive-viewing/"><u>[Updated] 2024 Approved Premier VR Movies for Immersive Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-webcam-innovation-for-everyday-life/"><u>[Updated] Webcam Innovation for Everyday Life</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-masterclass-in-glamour-beauty-tutorials-for-all/"><u>2024 Approved Masterclass in Glamour Beauty Tutorials for All</u></a></li>
+<li><a href="https://network-issues.techidaily.com/awaken-your-displays-true-colors/"><u>Awaken Your Display's True Colors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delving-into-history-accessible-copyrighted-canvases/"><u>Delving Into History Accessible, Copyrighted Canvases</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicated-oversized-view-on-windows-pcs/"><u>Eradicated Oversized View on Windows PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-8-best-screen-recorders-without-lag/"><u>In 2024, Top 8 Best Screen Recorders without Lag</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-initial-d3d-errors-successfully/"><u>Overcoming Initial D3D Errors Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-screenscape-regain-normal-view/"><u>Reverse Screenscape: Regain Normal View</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-in-windows-11-fixed/"><u>Screen Upside Down in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/setting-adjustments-stored-effectively/"><u>Setting Adjustments Stored Effectively</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-essential-movie-trailer-apps-for-your-iphone-or-ipad/"><u>Updated 2024 Approved 10 Essential Movie Trailer Apps for Your iPhone or iPad</u></a></li>
 </ul></div>
 

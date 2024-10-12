@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: Detect Failed for CGs"
-date: 2024-10-03T18:25:27.192Z
-updated: 2024-10-06T17:22:24.221Z
+date: 2024-10-11T03:07:30.322Z
+updated: 2024-10-11T20:09:41.935Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 2. [Update graphics card driver](#Solution2)
 3. [Delete the config.dat file of your game](#Solution3)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Graphics Card and why this problem happens
 
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
@@ -54,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  If the problem persists, please try the following solutions until you find the way that works.
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -89,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
@@ -107,6 +87,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -116,15 +109,22 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
@@ -152,22 +152,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/1719974219233-solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-troubleshoot-offline-mode-for-cod-cold-war/"><u>[SOLVED]: Troubleshoot Offline Mode for CoD Cold War</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-and-simple-18-vlogging-projects/"><u>2024 Approved Innovative & Simple 18 Vlogging Projects</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/audio-restoration-on-visual-posts-from-twitter/"><u>Audio Restoration on Visual Posts From Twitter</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-revolutionize-mental-health-support-for-the-better-or-is-it-a-step-towards-deterioration/"><u>Can AI Revolutionize Mental Health Support for the Better, or Is It a Step Towards Deterioration?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disable-blank-window-mode-on-win10/"><u>Disable Blank Window Mode on Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-rescue-correcting-driver-issue-successfully/"><u>Display Rescue: Correcting Driver Issue Successfully</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-hp-printer-drivers-optimized-for-windows-10-11/"><u>Download the Most Recent HP Printer Drivers - Optimized for Windows 10, 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-to-fix-guide-unused-graphics-card-wnvidia/"><u>Easy-to-Fix Guide: Unused Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-gigabyte-z370p-up-to-speed-with-these-essential-drivers/"><u>Get Your Gigabyte Z370P Up To Speed With These Essential Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/high-end-streaming-gear-for-professionals/"><u>High-End Streaming Gear for Professionals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-gear-for-shooting-top-10-high-res-shoulder-rigs/"><u>In 2024, Best Gear for Shooting Top 10 High-Res Shoulder Rigs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-free-vob-player-for-pc-and-mac/"><u>In 2024, Free VOB Player for PC and Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/making-nforce630a-work-seamlessly-in-new-os/"><u>Making nForce630a Work Seamlessly in New OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-clear-view-on-win11-panels/"><u>Restoring Clear View on WIN11 Panels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/titans-triumph-god-of-war-enhanced/"><u>Titan's Triumph: God of War Enhanced</u></a></li>
-<li><a href="https://games-able.techidaily.com/whats-new-nvidias-integration-of-ai-into-dlss-35/"><u>What's New: Nvidia's Integration of AI Into DLSS 3.5?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhancing-classroom-learning-through-recorders/"><u>[New] 2024 Approved Enhancing Classroom Learning Through Recorders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>2024 Approved Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-5-free-swf-player-apps-compatible-with-mac-and-windows-10-your-ultimate-guide-for-animation-and-game-enthusiasts/"><u>Best 5 Free SWF Player Apps Compatible with Mac and Windows 10: Your Ultimate Guide for Animation & Game Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-note-13-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi Note 13 5G Location | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-uneven-hp-monitor-brightness/"><u>Mitigating Uneven HP Monitor Brightness</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-free-dvd-players-for-windows-10/"><u>New 2024 Approved Best Free DVD Players for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-switchable-gpu-issues-windows-11-update-complete/"><u>No More Switchable GPU Issues: Windows 11 Update Complete!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-installer-now-functioning-as-expected/"><u>Nvidia's Installer Now Functioning as Expected</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/personalizing-your-feed-with-soundtracks-android-and-ios-tips-for-2024/"><u>Personalizing Your Feed with Soundtracks - Android & iOS Tips for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-guide-dealing-with-uneven-text-lines-on-portable-devices/"><u>Quick-Fix Guide: Dealing with Uneven Text Lines on Portable Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenating-your-system-replacing-outdated-windows-cards/"><u>Rejuvenating Your System: Replacing Outdated Windows Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-operational-status-of-freesync-device/"><u>Restoring Operational Status of FreeSync Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-display-on-updated-creators-fall/"><u>Reviving Display on Updated Creator's Fall</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974427795-step-up-graphics-capability-with-an-easy-intel-gpu-update-in-windows-10/"><u>Step up Graphics Capability with an Easy Intel GPU Update in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-apple-watch-ultra-2-sneak-peek-estimated-price-points-expected-arrival-date-and-potential-features-discussed/"><u>The Apple Watch Ultra 2 Sneak Peek - Estimated Price Points, Expected Arrival Date & Potential Features Discussed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-verdict-on-sony-dsc-w800-quality-and-price-ratio/"><u>The Ultimate Verdict on Sony DSC-W800 Quality & Price Ratio</u></a></li>
 </ul></div>
 

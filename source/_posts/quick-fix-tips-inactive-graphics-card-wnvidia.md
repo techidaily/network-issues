@@ -1,7 +1,7 @@
 ---
 title: "Quick-Fix Tips: Inactive Graphics Card W/NVIDIA"
-date: 2024-08-22T13:40:40.194Z
-updated: 2024-08-23T13:40:40.194Z
+date: 2024-10-09T14:47:26.755Z
+updated: 2024-10-12T09:22:29.168Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 2. [**Reinstall your NVIDIA driver**](#F2)
 3. [**Check if your monitor is plugged into the NVidia GPU port**](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your NVIDIA drivers (nearly always fixes the problem)
 
  This error message may occur if you’re using the wrong or outdated NVIDIA drivers. So you should update your NVIDIA drivers to see if it fixes the problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  
@@ -47,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall your NVIDIA driver
 
 It’s also possible that your current NVIDIA  driver is corrupted or in conflict with your Windows system and triggers the   **You are not currently using a display attached to an NVIDIA GPU** error message. We can try uninstalling the driver before reinstalling it to see if it fixes the problem.
@@ -59,33 +63,45 @@ To do so:
 1. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be134536fb44.png)
 2. Locate and double-click on  **Display adapters**  (aka.  **Graphics card** , **Video card**). Then right-click on **your NVIDIA product** right below and click **Uninstall device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14ec2c9c6b.jpg)
 3. Click **Yes** to confirm the uninstall.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 4. **Restart**   your computer.
 5. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be134536fb44.png)
 6. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1370e59dcf.jpg)
 7. Check if**NVIDIA Control Panel** opens fine this time.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Check if your monitor is plugged into the NVidia GPU port
 
  If the fixes above didn’t help solve the error, then you might want to check the back of your PC to see if the monitor is plugged into the NVIDIA GPU port. Be sure to leave it with professional hands if you’re not comfortable playing around with computer hardwares.
@@ -103,8 +119,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,8 +126,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-connectivity-glitches-in-cod-cold-war/"><u>[FIXED] Connectivity Glitches in CoD Cold War</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-premiere-gear-optimal-panoramic-recorders/"><u>[New] 2024 Approved Premiere Gear Optimal Panoramic Recorders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-facebooks-most-impressive-new-additions-decoded/"><u>[New] In 2024, Facebook's Most Impressive New Additions Decoded</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-video-extraction-techniques-for-pc-and-mac/"><u>[Updated] In 2024, FB Video Extraction Techniques for PC & Mac</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/competitive-edge-how-amd-graphics-drives-winning-performance/"><u>Competitive Edge: How AMD Graphics Drives Winning Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-launch-attempt-failed-fixed/"><u>Direct3D Launch Attempt Failed, Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-for-pc-a-guide-to-resolving-game-freezing-issues/"><u>Guilty Gear Strive for PC: A Guide to Resolving Game Freezing Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-13-ultra-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi 13 Ultra FRP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-graphics-conflict-intel-and-nvidia-fix-on-windows-10-systems/"><u>Tackling Graphics Conflict: Intel & NVIDIA Fix on Windows 10 Systems</u></a></li>
+</ul></div>
 

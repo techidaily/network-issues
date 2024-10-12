@@ -1,7 +1,7 @@
 ---
 title: Eliminating Visual Glitches From Far Cry 6 Gameplay
-date: 2024-10-05T19:41:09.157Z
-updated: 2024-10-06T21:07:28.908Z
+date: 2024-10-05T23:13:34.745Z
+updated: 2024-10-11T16:40:25.380Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -79,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 [4: Clean the DirectX cache](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -108,24 +115,10 @@ If this doesn’t help, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Turn on high graphics performance setting for the game
 
@@ -141,22 +134,22 @@ If this doesn’t help, try the next fix.
 4. Select **High performance** , then click **Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -168,16 +161,10 @@ If this doesn’t help, there’s one more fix you can try.
 3. Click**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
@@ -187,6 +174,13 @@ If this doesn’t help, there’s one more fix you can try.
 5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -210,24 +204,20 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>[New] 2024 Approved Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-profit-beginners-guide-on-periscope-earning/"><u>[New] From Zero to Profit Beginner’s Guide on Periscope Earning</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-through-ingenious-animated-texts-top-14-snapshots/"><u>2024 Approved Journey Through Ingenious Animated Texts Top 14 Snapshots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-flash-of-stardom-video-examination/"><u>A Flash of Stardom - Video Examination</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721827238894-explore-the-top-9-chatgpt-extensions-boost-your-interaction-today/"><u>Explore the Top 9 ChatGPT Extensions: Boost Your Interaction Today</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-error-43-on-gpu/"><u>Fixing Error 43 on GPU</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/grandmaster-gaming-evaluating-the-best-7-total-war-experiences/"><u>Grandmaster Gaming Evaluating the Best 7 Total War Experiences</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-100-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor 100 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New In 2024, The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-obstacles-in-way-post-nvidia-installer-install/"><u>No Obstacles in Way Post-Nvidia Installer Install</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-installer-all-clear-proceed-with-install/"><u>Nvidia Installer: All Clear, Proceed With Install</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-troubleshoot-restore-your-gameplay/"><u>NVIDIA RTX 3080 Troubleshoot - Restore Your Gameplay</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-graphics-cards-not-detected-in-computers/"><u>Remedying Graphics Cards Not Detected in Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-elusive-screen-blanks/"><u>Revealing Elusive Screen Blanks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilize-line-artwork-precision/"><u>Stabilize Line Artwork Precision</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlining-laptop-display-correction-a-quick-fix-methodology/"><u>Streamlining Laptop Display Correction: A Quick Fix Methodology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/void-on-viewport-latest-card-installation/"><u>Void on Viewport: Latest Card Installation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-windows-11-video-creation-and-editing-techniques/"><u>[New] 2024 Approved Mastering Windows 11 Video Creation & Editing Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-broadcasting-made-simple-a-practical-guide/"><u>[New] Live Broadcasting Made Simple A Practical Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-note-30-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Note 30 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>2024 Approved Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-it-focus-quick-apex-bug-busting/"><u>Fix-It Focus: Quick Apex Bug Busting</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-create-a-lifestyle-video-to-inspire-your-audience/"><u>How to Create a Lifestyle Video to Inspire Your Audience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-xs-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone XS Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-visibility-post-card-update/"><u>No Visibility Post Card Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-stability-restored-post-error/"><u>Nvidia Driver Stability Restored Post-Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/proven-approaches-to-amass-elite-copyright-free-imagery-for-2024/"><u>Proven Approaches to Amass Elite, Copyright-Free Imagery for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975602361-resolving-intels-dynamic-platform-and-thermal-framework-driver-setup-issues-tips-and-tricks/"><u>Resolving Intel's Dynamic Platform and Thermal Framework Driver Setup Issues - Tips & Tricks!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/selecting-the-best-5-monitors-for-ps5-games-for-2024/"><u>Selecting the Best 5 Monitors for PS5 Games for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-out-gameplay-overcoming-delays-in-anthem/"><u>Smooth Out Gameplay: Overcoming Delays in Anthem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-no-more-video-disruptions/"><u>Swift Remedy: No More Video Disruptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-anomaly-cleared/"><u>Win11 Display Anomaly Cleared</u></a></li>
 </ul></div>
 

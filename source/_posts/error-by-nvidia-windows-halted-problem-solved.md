@@ -1,7 +1,7 @@
 ---
 title: "Error by NVidia: Windows Halted, Problem Solved"
-date: 2024-10-05T17:00:37.323Z
-updated: 2024-10-06T19:58:17.504Z
+date: 2024-10-06T10:56:21.369Z
+updated: 2024-10-11T20:04:27.774Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 5) Reboot your computer and check to see if the problem is resolved. If you’re still getting the error, you can move on to our next suggestion.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 2: Update the driver**
 
  A faulty graphics driver may be what’s causing the error, so you should try to update the driver to the latest version . If you don’t have the time, patience or computer skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-619.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the Nvidia graphics driver.  In the example below, we’ve got NVIDIA Geforce GTX 1080\. This will automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version)
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.
@@ -71,16 +71,23 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 3: Uninstall the NVIDIA graphics driver**
@@ -94,10 +101,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
@@ -119,19 +126,6 @@ Or click **Update All**  to automatically download and install the correct versi
  2) Right-click on the NVIDIA device name. The context menu will pop up. Click**Disable**  on the context menu.
 
 ![disable nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d79e02d7ee6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Press your power button until your computer shuts down.
 
@@ -160,18 +154,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-broadcasting-to-the-household-watching-facebook-videos/"><u>[Updated] 2024 Approved Broadcasting to the Household Watching Facebook Videos?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-screen-saving-solutions-in-windows-8-edition/"><u>2024 Approved Efficient Screen Saving Solutions in Windows 8 Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-transparent-computer-vision/"><u>Effortless: Transparent Computer Vision</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>In 2024, Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a05s-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A05s FRP In 3 Different Ways</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-voice-chat-disruptions-a-step-by-nstep-solution-for-among-us-players-on-pc/"><u>Overcoming Voice Chat Disruptions: A Step-by-nStep Solution for Among Us Players on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-your-data-examining-the-cyber-risks-associated-with-ai-platforms-such-as-chatgpt/"><u>Safeguarding Your Data: Examining the Cyber Risks Associated with AI Platforms Such as ChatGPT</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-screens-on-windows-7-platform/"><u>Stabilizing Screens on Windows 7 Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-of-language-models-at-your-fingertnails-explore-the-new-chatgpt-app-on-ios/"><u>The Power of Language Models at Your Fingertnails: Explore the New ChatGPT App on iOS!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-gourmet-guide-culinary-video-production/"><u>[New] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-guide-integrating-instagram-with-tiktok-for-2024/"><u>[New] Seamless Guide Integrating Instagram with TikTok for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dimensions-and-edits-the-imovie-crop-enigma/"><u>[Updated] 2024 Approved Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cleared-up-why-my-nvidia-gpu-isnt-showing/"><u>Cleared Up: Why My NVIDIA GPU Isn't Showing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-sims-4-monochrome-issues/"><u>End Sims 4 Monochrome Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-flickering-on-your-visual-display-unit/"><u>Eradicate Flickering on Your Visual Display Unit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ghosting-visuals-recent-gpu-upgrade/"><u>Ghosting Visuals: Recent GPU Upgrade?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-xcover-7-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy XCover 7 FRP Locks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-privacy-protection-in-videos-a-guide-to-obscuring/"><u>In 2024, Privacy Protection in Videos A Guide to Obscuring</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-pro-7s-unstable-screen/"><u>Overcoming Pro 7'S Unstable Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-winterminals-background-design/"><u>Redefine WinTerminal’s Background Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-hardware/"><u>Unveiling the Latest in Computing: Insights From Tom's Hardware</u></a></li>
 </ul></div>
 

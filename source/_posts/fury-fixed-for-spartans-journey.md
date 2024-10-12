@@ -1,7 +1,7 @@
 ---
 title: Fury Fixed for Spartan's Journey
-date: 2024-09-29T19:08:48.365Z
-updated: 2024-10-06T17:22:38.730Z
+date: 2024-10-06T03:09:51.665Z
+updated: 2024-10-12T04:07:03.965Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -57,6 +64,19 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify game files
 
  Verifying the game files is a useful fix to solve game issues, especially when game are crashing or having terrible performance. As a new game, God of War has new patches roll out almost every day, verifying your game files may resolve installation corruption that prevents you from being able to play the game.
@@ -67,17 +87,25 @@ Here’s how:
 2. Right-click **God of War** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
-If this doesn’t fix the problem, take a look at the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If this doesn’t fix the problem, take a look at the next fix.
 
 ## Fix 4: Check for system updates
 
@@ -94,13 +122,6 @@ If this doesn’t fix the problem, take a look at the next fix.
 
 If the latest updates don’t work for you, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War performance issues or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -114,31 +135,17 @@ If the latest updates don’t work for you, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -160,24 +167,20 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-resident-evil-village-not-starting-dx12-problem/"><u>[FIXED] Resident Evil Village Not Starting - DX12 Problem</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-punpals-create-hilarious-memes-now/"><u>[New] PunPals - Create Hilarious Memes Now</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-budget-friendly-tactics-to-increase-your-youtube-video-impact-for-2024/"><u>[Updated] Budget-Friendly Tactics to Increase Your YouTube Video Impact for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-swiftly-swiveling-how-to-improve-video-viewability-in-vlc/"><u>[Updated] Swiftly Swiveling How to Improve Video Viewability in VLC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advanced-apple-tv-4k-version-3-assessment-for-tech-enthusiasts/"><u>Advanced Apple TV 4K Version 3 Assessment for Tech Enthusiasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-compatibility-hurdle-for-nvidia-7025/"><u>Conquering Compatibility Hurdle for Nvidia 7025</u></a></li>
-<li><a href="https://network-issues.techidaily.com/drive-dilemma-screen-turned-onyx/"><u>Drive Dilemma: Screen Turned Onyx</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gateway-broken-geforce-experience-opened/"><u>Gateway Broken: GeForce Experience Opened</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-asus-ax6000-rt-ax88u-smart-wi-fi-6-router-packed-with-advanced-features/"><u>In-Depth Review: Asus AX6000 RT-AX88U Smart Wi-Fi 6 Router Packed With Advanced Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-selfies-on-iphone-try-these-best-free-enhancers-for-2024/"><u>Mastering Selfies on iPhone? Try These Best Free Enhancers for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximizing-storage-efficiently-clearing-disk-space-on-windows-11-with-revo-uninstaller/"><u>Maximizing Storage: Efficiently Clearing Disk Space on Windows 11 with Revo Uninstaller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mic-troubles-overcome-in-discord/"><u>Mic Troubles Overcome in Discord</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monstrous-error-hunter-worlds-glitch-fixed-fast/"><u>Monstrous Error: Hunter World's Glitch Fixed Fast</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-loading-issue-for-amd-on-windows-now-functioning-correctly/"><u>Overcome Loading Issue for AMD on Windows, Now Functioning Correctly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-7-reverse-image-problem/"><u>Rectifying Windows 7 Reverse Image Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-the-power-behind-4k-uhd-visuals/"><u>Revealing the Power Behind 4K UHD Visuals</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/troubleshooting-apple-tv-for-facebook-content/"><u>Troubleshooting Apple TV for Facebook Content</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-upgrades-no-more-video-lags-or-pauses/"><u>Win10 Upgrades: No More Video Lags or Pauses</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-10-best-video-tools-perfect-your-webcam-vids/"><u>[New] 10 Best Video Tools Perfect Your Webcam Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-your-device-free-android-recorder/"><u>[New] In 2024, Capture Your Device – Free Android Recorder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-valorant-crash-at-startup-directx-compatibility/"><u>[RESOLVED] Valorant Crash at Startup - DirectX Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-display-driver-igfx-stopped-responding-and-has-successfully-recovered/"><u>[SOLVED] Display Driver Igfx Stopped Responding and Has Successfully Recovered</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-5-engaging-book-promo-videos/"><u>[Updated] Exploring 5 Engaging Book Promo Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quality-streaming-balancing-webcam-and-gaming-recordings/"><u>[Updated] In 2024, Quality Streaming Balancing Webcam & Gaming Recordings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-trending-video-reactions/"><u>2024 Approved Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-conversation-continuity-issues-in-chatgpt-for-a-smoother-interaction/"><u>Fixing Conversation Continuity Issues in ChatGPT for a Smoother Interaction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-your-youtube-experience-stop-previews/"><u>In 2024, Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-idle-new-gpu-nonfunctional/"><u>Monitor Idle: New GPU Nonfunctional?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-improve-intellgraphics-g3000-on-windows-11/"><u>Quickly Improve IntellGraphics G3000 on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconfiguring-system-to-fix-asus-cam-not-working/"><u>Reconfiguring System to Fix Asus Cam Not Working</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-wow-error-code-51900319/"><u>Resolving WoW Error Code: 51900319</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-graphic-device-functionality-winos/"><u>Restored Graphic Device Functionality - WinOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-alert-audews-reliable-and-functional-portable-air-pump-the-perfect-travel-companion/"><u>Review Alert: Audew's Reliable and Functional Portable Air Pump – The Perfect Travel Companion</u></a></li>
 </ul></div>
 

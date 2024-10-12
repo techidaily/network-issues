@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2024-10-05T19:24:47.745Z
-updated: 2024-10-06T19:07:05.555Z
+date: 2024-10-07T05:40:56.898Z
+updated: 2024-10-12T10:10:25.569Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -71,23 +78,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -108,24 +102,24 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -142,18 +136,24 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -176,22 +176,24 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-rust-legacy-2-not-starting-dx12-compatibility-hurdle/"><u>[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-battlefield-v-update-crash-xbox-directx-conflict/"><u>[FIXED] Battlefield V Update Crash - Xbox DirectX Conflict</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-your-works-discover-the-elite-6-in-nft-creativity/"><u>[New] 2024 Approved Elevate Your Works Discover the Elite 6 in NFT Creativity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-missing-lan-card-on-win10/"><u>[RESOLVED] Missing LAN Card on Win10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-become-a-pro-at-utilizing-zoom-for-windows-11-users/"><u>[Updated] 2024 Approved Become a Pro at Utilizing Zoom for Windows 11 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-y17s-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Y17s</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-lcd-precision-with-a-tweak/"><u>Enhance LCD Precision with a Tweak</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-7-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 7 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Spark 10 5G?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>In 2024, The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/perfecting-fatal-errors-radeon-r9-and-windows-11/"><u>Perfecting Fatal Errors: Radeon R9 & Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-itel-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Itel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-usb-device-constantly-drops-connection/"><u>Solving the Issue: Why Your USB Device Constantly Drops Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-stabilization-correct-loot-errors-quickly/"><u>Swift Stabilization: Correct Loot Errors Quickly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-strides-fixing-anthem-stops/"><u>Swift Strides: Fixing Anthem Stops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unravelled-perplexing-x-error-on-league-of-legends/"><u>Unravelled: Perplexing X-Error on League of Legends</u></a></li>
-<li><a href="https://video-capture.techidaily.com/your-ultimate-guide-to-mac-audio-capture-via-audacity-for-2024/"><u>Your Ultimate Guide to Mac Audio Capture via Audacity for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-video-driver-fixes-acknowledged/"><u>[Resolved] Video Driver Fixes Acknowledged</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-windows-11-wireless-adapter-missing/"><u>[SOLVED] Windows 11 Wireless Adapter Missing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-converting-iphones-solo-vids-into-duos/"><u>[Updated] Converting iPhones' Solo Vids Into Duos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expanding-your-audience-stream-successfully-across-30plus-outlets/"><u>[Updated] In 2024, Expanding Your Audience Stream Successfully Across 30+ Outlets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-steady-panning-for-smooth-cinematography/"><u>2024 Approved Steady Panning for Smooth Cinematography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-talkers-theme-transformer/"><u>2024 Approved Top Talkers' Theme Transformer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>2024 Approved Transform Your Content Expert Tips for Bokeh on Social Media</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-save-issues-in-win-107-default-settings/"><u>Addressing Save Issues in Win 10/7 Default Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-high-definition-top-mirrorless-cameras-(1k/"><u>Affordable High-Definition Top Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amend-unseen-display-unit-errors/"><u>Amend Unseen Display Unit Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-black-screen-errors-win10/"><u>Correcting Black Screen Errors Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-screen-rotation/"><u>Correcting Windows 10 Screen Rotation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-the-undetermined-dx-fault-in-lol/"><u>Demystifying the Undetermined DX Fault in LoL</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-smart-7-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Smart 7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g84-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G84 5G FRP Locks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-recognition-troubleshooting/"><u>GPU Recognition Troubleshooting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/idle-geniuses-top-12-pc-classics-for-2024/"><u>Idle Geniuses Top 12 PC Classics for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconnecting-lost-asus-webcam/"><u>Reconnecting Lost Asus Webcam</u></a></li>
 </ul></div>
 

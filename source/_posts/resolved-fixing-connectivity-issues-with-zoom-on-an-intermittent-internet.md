@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet"
-date: 2024-10-02T16:34:32.169Z
-updated: 2024-10-06T18:54:50.497Z
+date: 2024-10-04T22:07:59.531Z
+updated: 2024-10-12T05:47:25.494Z
 tags:
   - win11
   - win10
@@ -46,16 +46,16 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 
  For the first two reasons,**moving closer** and**disabling those devices and programs** will help you out. For the third reason, 6 solutions are listed below for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to fix the Zoom unstable connection?
 
  The following screenshots are taken from Windows 10, but it is also applicable for Windows 7 and 8.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 1 – Test your internet connection
 
@@ -64,6 +64,13 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
  You can also google**internet speed test** to check your Internet speed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-08_16-02-49.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this is not the matter troubling your connection, give a shoot to the next one.
 
@@ -79,33 +86,26 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-1.jpg)
 2. Click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-2.jpg)
 3. Scroll down and click**Network Adapter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-3.jpg)
 4. Click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-4.jpg)
 
 #### On Windows 11
 
@@ -118,19 +118,6 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
  Wait and see if this tool helps you locate the problem and fix it. If not, go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 3 – Update your network drivers
 
@@ -179,9 +166,23 @@ Hope this trick works for you. If not, continue to the next solution.
 4. **Test Zoom** to see if the problem remains after regaining the connection.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/04/router-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your router works well but Zoom’s unstable connection error stays, take a look at the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 6 – Refresh IP address
 
@@ -192,10 +193,10 @@ Hope this trick works for you. If not, continue to the next solution.
 2. Copy and paste**ipconfig /release** on Command Prompt, and then hit**Enter** . Wait for the cursor appear again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Copy and paste**ipconfig /renew** . Press**Enter** .  
@@ -203,10 +204,10 @@ Hope this trick works for you. If not, continue to the next solution.
 4. **Restart** your computer and launch Zoom for a test.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -232,17 +233,19 @@ Hope this trick works for you. If not, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] 2024 Approved From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>2024 Approved Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-failure-43-overcome/"><u>Device Failure 43 Overcome</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-my-selection-the-ultimate-list-of-8-free-music-apps-for-ios-devices/"><u>Explore My Selection: The Ultimate List of 8 FREE Music Apps for iOS Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/flawless-approach-securing-gotomeeting-recordings/"><u>Flawless Approach Securing GoToMeeting Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fresh-talents-guide-to-2024s-entry-level-cams/"><u>Fresh Talent's Guide to 2024’S Entry-Level Cams</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y78-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y78 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Bootloader Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-gone-dark-solutions-await/"><u>Lenovo Gone Dark? Solutions Await</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-phosphor-glitches-in-acer-monitors/"><u>Preventing Phosphor Glitches in Acer Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unify-window-border-stability/"><u>Unify Window Border Stability</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-insiders-list-google-pixel-tone-sources/"><u>[New] 2024 Approved Insider's List Google Pixel Tone Sources</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos/"><u>[New] 2024 Approved Streamlining Screen Shots Efficiently Documenting Your Roblox Adventures on MacOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-deciphering-youtubes-subscriber-code/"><u>[New] In 2024, Deciphering YouTube's Subscriber Code</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-chuckle-champs-twitters-humor-heap/"><u>[Updated] Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-script-innovation-place/"><u>2024 Approved Best Script Innovation Place</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fast-forward-features-unveiled-the-editors-guidebook/"><u>Fast-Forward Features Unveiled The Editor's Guidebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>In 2024, The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-restrictions-audio-settings/"><u>Overcame Restrictions: Audio Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overturned-monitor-display-correction/"><u>Overturned Monitor Display Correction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-pc-graphics-through-updated-intel-drivers/"><u>Revitalize PC Graphics Through Updated Intel Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silencing-the-screenscape-shudder-pro-7-edition/"><u>Silencing the Screenscape Shudder: Pro 7 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-elusive-stream-shadows/"><u>Solutions for Elusive Stream Shadows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-green-screen-blues-a-youtube-guide/"><u>Tackling Green Screen Blues: A YouTube Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tech-upgrade-essentials-experience-the-best-with-a-dell-screen-top-tier-anc-earpieces-and-high-definition-webcam/"><u>Tech Upgrade Essentials: Experience the Best with a Dell Screen, Top-Tier ANC Earpieces, and High-Definition Webcam</u></a></li>
 </ul></div>
 
