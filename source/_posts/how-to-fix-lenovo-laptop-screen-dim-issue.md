@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-10-15T10:31:22.056Z
-updated: 2024-10-18T09:22:18.925Z
+date: 2024-10-18T02:13:32.367Z
+updated: 2024-10-24T07:34:30.521Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -73,22 +80,15 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
@@ -127,20 +127,24 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-capture-and-share-immedienas-unprecedented-journey-with-dslr-and-facebook-live/"><u>[New] 2024 Approved Capture and Share Immedienas Unprecedented Journey with DSLR & Facebook LIVE</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size-for-2024/"><u>[New] Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-the-math-of-youtube-ratio-perfection/"><u>[New] In 2024, Demystifying the Math of YouTube Ratio Perfection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-video-interface-stability-restored/"><u>[Resolved] Video Interface Stability Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-the-chaos-of-nvidias-rtx-3080-in-games/"><u>Conquering the Chaos of Nvidia's RTX 3080 in Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/cut-through-background-distraction-for-pro-images-for-2024/"><u>Cut Through Background Distraction for Pro Images for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-guide-to-youtubes-premier-unboxers/"><u>Essential Guide to YouTube's Premier Unboxers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-guide-365-days-of-no-cost-text-files-for-2024/"><u>Exclusive Guide 365 Days of No-Cost Text Files for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-and-fortified-comwins-new-era/"><u>Fixed and Fortified: ComWin's New Era</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/jump-cut-mastery-unlocking-the-secrets-of-final-cut-pro-x/"><u>Jump Cut Mastery Unlocking the Secrets of Final Cut Pro X</u></a></li>
-<li><a href="https://network-issues.techidaily.com/leveraging-w8s-safe-mode-to-revise-and-remove-gpu-drivers/"><u>Leveraging W8's Safe Mode to Revise and Remove GPU Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/navigating-corporate-mobility-and-stress-relief-with-pet-reptiles-expert-tips-from-abbyys-latest-blog-post/"><u>Navigating Corporate Mobility and Stress Relief with Pet Reptiles - Expert Tips From ABBYY's Latest Blog Post</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-switchable-gpu-issues-windows-11-update-complete/"><u>No More Switchable GPU Issues: Windows 11 Update Complete!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-amd-and-windows-10-successfully-load-detection-driver/"><u>Overcoming Obstacle: AMD and Windows 10 Successfully Load Detection Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reviving-display-on-updated-creators-fall/"><u>Reviving Display on Updated Creator's Fall</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-8-affordable-video-communication-apps-for-pc-and-mac/"><u>[New] In 2024, Unveiling 8 Affordable Video Communication Apps for PC and MAC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximizing-streaming-is-sub4sub-effective/"><u>[Updated] In 2024, Maximizing Streaming Is Sub4Sub Effective?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets-for-2024/"><u>[Updated] The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-visionary-views-top-tweets-bypassing-the-screen/"><u>[Updated] Visionary Views Top Tweets Bypassing the Screen</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-play-7t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-xbox-ultimate-screen-capture-tips/"><u>2024 Approved Mastering Xbox Ultimate Screen Capture Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974806015-boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-init-unsuccessful-resolved/"><u>D3D Init: Unsuccessful, Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-gory-odyssey-mechanics/"><u>Fixed: Gory Odyssey Mechanics</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-methods-disconnected-graphics-card-wnvidia/"><u>Quick Fix Methods: Disconnected Graphics Card W/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-screen-expansion-glitches-for-windows/"><u>Rectified Screen Expansion Glitches for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-the-power-behind-4k-uhd-visuals/"><u>Revealing the Power Behind 4K UHD Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilized-mobile-monitor-reflections-victory/"><u>Stabilized Mobile Monitor Reflections - Victory</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-reduce-flickering-in-acer-panels/"><u>Techniques to Reduce Flickering in Acer Panels</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-trick-to-enhancing-gameplay-fluidity-with-high-frame-rates/"><u>The Ultimate Trick to Enhancing Gameplay Fluidity with High Frame Rates</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/transferring-your-vital-health-information-4-key-techniques-for-moving-to-a-new-iphone/"><u>Transferring Your Vital Health Information: 4 Key Techniques for Moving to a New iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-a-dark-monitor-on-pcs/"><u>Troubleshooting a Dark Monitor on PCs</u></a></li>
 </ul></div>
 

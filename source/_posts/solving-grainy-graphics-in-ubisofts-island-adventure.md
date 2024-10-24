@@ -1,7 +1,7 @@
 ---
 title: Solving Grainy Graphics in Ubisoft's Island Adventure
-date: 2024-10-15T22:50:00.545Z
-updated: 2024-10-18T02:51:26.425Z
+date: 2024-10-20T04:36:34.556Z
+updated: 2024-10-24T00:15:50.860Z
 tags:
   - win11
   - win10
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -79,19 +79,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
 [4: Clean the DirectX cache](#fix4)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -102,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 If this doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -125,6 +112,13 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -132,6 +126,13 @@ If this doesn’t help, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn on high graphics performance setting for the game
 
@@ -141,21 +142,14 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
@@ -165,13 +159,6 @@ If this doesn’t help, try the next fix.
 
 If this doesn’t help, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -180,6 +167,14 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
@@ -210,24 +205,22 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-voice-recording-mastery-with-ipad-tools-for-2024/"><u>[New] Voice Recording Mastery with iPad Tools for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/running-smooth-windows-1110-now-has-amd-graphics-drivers/"><u>[RUNNING SMOOTH] Windows 11/10 Now Has AMD Graphics Drivers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-chats-complete-fbm-conversation-history-for-2024/"><u>[Updated] Capturing Chats Complete FBM Conversation History for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-20-free-public-license-pubg-gallery-mixes/"><u>[Updated] In 2024, Best 20 Free Public License PUBG Gallery Mixes</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/easily-transform-avi-videos-into-mp4-cost-free-conversion-guides-for-windows-and-mac-users/"><u>Easily Transform AVI Videos Into MP4: Cost-Free Conversion Guides for Windows and Mac Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-to-prevent-microsoft-edge-from-crashing-under-windows-10/"><u>Effective Fixes to Prevent Microsoft Edge From Crashing Under Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974349923-efficiently-upgrade-intel-g3000-driver-in-windows-11/"><u>Efficiently Upgrade Intel G3000 Driver in Windows 11.</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/explore-the-best-of-both-worlds-with-these-5-cams-for-2024/"><u>Explore the Best of Both Worlds with These 5 Cams for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-inability-to-preserve-display-configuration-state/"><u>Fixing Inability to Preserve Display Configuration State</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-persistent-windows-11-update-errors-a-step-by-step-guide/"><u>Fixing Persistent Windows 11 Update Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726027649411-mp3wav/"><u>MP3への効果的なWAVファイル大量変換手順</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pioneering-video-structuring-methods-on-youtube-for-2024/"><u>Pioneering Video Structuring Methods on YouTube for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974840427-quickly-improve-intellgraphics-g3000-on-windows-11/"><u>Quickly Improve IntellGraphics G3000 on Windows 11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-cure-no-stutter-all-play/"><u>Rapid Cure: No Stutter, All Play</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reduce-overly-large-screen-on-win10/"><u>Reduce Overly Large Screen on Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-eliminate-black-screen-complications/"><u>Steps to Eliminate Black Screen Complications</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-detailed-look-at-samsungs-wellness-focused-smartwatch-galaxy-active/"><u>Unveiling the Benefits: A Detailed Look at Samsung's Wellness-Focused Smartwatch, Galaxy Active</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-display-settings-adjustment/"><u>Win10 Display Settings Adjustment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-resolution-adjustment-issue-fixed/"><u>Windows 11 Resolution Adjustment Issue - Fixed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-simplified-steps-for-crafting-professional-srt-files-for-2024/"><u>[New] Simplified Steps for Crafting Professional SRT Files for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-seamlessly-blend-apple-music-and-videos/"><u>[Updated] In 2024, Seamlessly Blend Apple Music & Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-pathway-to-a-powerful-instagram-influence/"><u>2024 Approved The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-6-screen-recorder-no-ads-for-android/"><u>2024 Approved Top 6 Screen Recorder No Ads for Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-dynamo-unleashing-videoviral-impact/"><u>Digital Dynamo Unleashing #VideoViral Impact</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-nvidia-unresponsive-now-functional/"><u>Driver NVidia Unresponsive, Now Functional</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptops-lost-luster-looking-for-light/"><u>Laptop's Lost Luster, Looking for Light</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/master-time-reverse-techniques-for-ios-users/"><u>Master Time-Reverse Techniques for iOS Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nailing-display-placement-for-win11-users/"><u>Nailing Display Placement for Win11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-success-story/"><u>Qualcomm Adapter Compatibility - Windows 10 Success Story</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-found-partial-window-views-all-w10-windows-missing/"><u>Resolution Found: Partial Window Views, All W10 Windows Missing</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/selecting-the-right-gear-a-filmmakers-checklist-for-2024/"><u>Selecting the Right Gear A Filmmaker's Checklist for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-for-failed-direct3d-start-up/"><u>Successful Fix for Failed Direct3D Start-Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-lenovo-interface-solved-here/"><u>Unresponsive Lenovo Interface - Solved Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-seamless-integration-with-atheros-adapter/"><u>Windows 10 Seamless Integration with Atheros Adapter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypassed: Restrictions on X Server"
-date: 2024-08-31T10:22:40.200Z
-updated: 2024-09-01T10:22:40.200Z
+date: 2024-10-17T22:16:12.755Z
+updated: 2024-10-24T00:03:48.648Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -71,16 +78,17 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/re.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  2) Select **Driver Uninstall** . Click**Display adapters** folder and select your NVIDIA graphics driver. Then click the**Uninstall** button. Your graphics driver will be removed soon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/re2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Restart your computer. Then press the**Windows logo key** and **E** to open**File Explorer** .
 
  4) Go to **C:Program Files (x86)** and **C:Program Files** , then delete all the **NVIDIA folders** .
@@ -103,15 +111,23 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Under the Compatibility tab, tick**Run this program as an administrator** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Right-click on the**nvcplui.exe** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/14.jpg)
@@ -126,16 +142,17 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Click the button to turn off the Game Bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Run the NVIDIA Control Panel and check whether the “Access Denied” message will show up.
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
@@ -146,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,8 +170,22 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-all-about-srt-essential-information-made-easy/"><u>[New] All About SRT Essential Information Made Easy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/normalization-achieved-graphic-output-back-to-baseline-after-driver-hiccup/"><u>[Normalization Achieved] Graphic Output Back to Baseline After Driver Hiccup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-get-the-best-free-pc-sound-logger-download-x-recorder/"><u>[Updated] 2024 Approved Get the Best Free PC Sound Logger – Download X-Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-your-one-stop-guide-30-prime-websites-offering-free-vectr-and-graphic-services/"><u>2024 Approved Your One-Stop Guide 30 Prime Websites Offering Free Vectr & Graphic Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crafting-audio-magic-a-windows-10-sound-journey-for-2024/"><u>Crafting Audio Magic A Windows 10 Sound Journey for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/diving-into-tech-showdown-discovering-how-ipad-pro-stands-against-microsoft-surface-pro/"><u>Diving Into Tech Showdown: Discovering How iPad Pro Stands Against Microsoft Surface Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-lag-and-crashes-in-outriders-tips-and-tricks-to-optimize-playtime-on-pc/"><u>Eliminating Lag and Crashes in Outriders: Tips & Tricks to Optimize Playtime on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4-stability-achieved-on-pc/"><u>Fallout 4 Stability Achieved on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-settings-persistence-issue/"><u>Fixed Display Settings Persistence Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-running-civ-5-on-your-pc/"><u>Smooth Running: Civ 5 on Your PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/steering-clear-of-mundane-channel-names-in-a-crowded-space-for-2024/"><u>Steering Clear of Mundane Channel Names in a Crowded Space for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-recovery-correcting-graphics-driver-errors/"><u>System Recovery: Correcting Graphics Driver Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-gt-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme GT 5 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-annoyance-constantly-disconnected/"><u>Wi-Fi Annoyance: Constantly Disconnected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-stops-over-nvidia-device-complaint-fixed/"><u>Win Stops Over NVIDIA Device Complaint Fixed</u></a></li>
+</ul></div>
 

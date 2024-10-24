@@ -1,7 +1,7 @@
 ---
 title: Eliminate Flicker on Win11 Displays
-date: 2024-10-14T13:54:38.729Z
-updated: 2024-10-18T10:20:55.788Z
+date: 2024-10-19T16:01:44.967Z
+updated: 2024-10-24T04:20:31.757Z
 tags:
   - win11
   - win10
@@ -58,6 +58,19 @@ There are mainly two ways to update your display driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/NVIDIA-GeForce-RTX-3090-Ti-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your display driver, restart your device and check if the screen flickering issue is resolved or not.
@@ -71,13 +84,6 @@ If the issue remains, check out the next fix.
 1. On your desktop,**right-click** an empty space and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
@@ -94,6 +100,13 @@ If the issue remains, check out the next fix.
 1. Click**Start** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
@@ -112,13 +125,6 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-background.jpg)
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
 
@@ -127,14 +133,14 @@ If the issue remains, check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable animation effects
 
@@ -146,10 +152,10 @@ If the issue remains, check out the next fix.
 3. **Turn off** Animation effects.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-turn-off-animation-effects.jpg)
@@ -167,6 +173,13 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-regedit.jpg)
 2. In Registry Editor, navigate to**HKEY\_CURRENT\_USER\\SOFTWARE\\Microsoft\\Avalon.Graphics** .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Under Avalon.Graphics, on the right pane, check to see if there is a key named**DisableHWAcceleration** .  
 
@@ -188,20 +201,19 @@ If this fix doesn’t do the trick, try the next one below.
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
@@ -219,6 +231,13 @@ If this fix doesn’t do the trick, try the next one below.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2: Use the System File Checker tool to repair system files
 
  System File Checker is a built-in tool that allows users to scan for and restore corrupted Windows system files. To perform SFC scan and repair Windows image:
@@ -227,13 +246,6 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
@@ -241,16 +253,16 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once done, check if your problem has been resolved.
 
@@ -275,22 +287,21 @@ Once done, check if your problem has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-discovering-the-prime-6-headgear-choices-for-capturing-life-with-gopro-for-2024/"><u>[New] Discovering the Prime 6 Headgear Choices for Capturing Life with GoPro for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-essentials-facebooks-breakthrough-features-unveiled/"><u>[New] Essentials Facebook's Breakthrough Features Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-bsod-due-to-dxgkrnlsys-on-windows/"><u>[Resolved]: BSOD Due to dxgkrnl.sys on Windows</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-conquer-the-financial-frontier-of-tiktok-with-these-8-money-making-techniques/"><u>[Updated] 2024 Approved Conquer the Financial Frontier of TikTok with These 8 Money-Making Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ideal-mac-screenshot-guide-5-streamlined-and-effective-methods/"><u>[Updated] In 2024, Ideal Mac Screenshot Guide 5 Streamlined and Effective Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/advanced-graphics-fixed-in-latest-win10/"><u>Advanced Graphics Fixed in Latest Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-gdx-setup-failure-on-os-x/"><u>Corrected GDX Setup Failure on OS X</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-the-strengths-and-weaknesses-of-pidgin-chat-application/"><u>Decoding the Strengths and Weaknesses of Pidgin Chat Application</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-stability-improved-with-driver-correction/"><u>Display Stability Improved with Driver Correction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/flawless-facial-effects-seamlessly-incorporating-motion-blur-with-picsart/"><u>Flawless Facial Effects Seamlessly Incorporating Motion Blur with Picsart</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-most-recent-netgear-wi-fi-card-software-downloads-and-setup-guide/"><u>How to Get the Most Recent NETGEAR Wi-Fi Card Software: Downloads & Setup Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c67-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme C67 4G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-tap-issue-now-solved/"><u>Lenovo Tap Issue, Now Solved</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/secure-every-moment-on-fb-with-these-video-downloader-tools/"><u>Secure Every Moment on FB with These Video Downloader Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-rectify-youtube-video-background-imperfections/"><u>Steps to Rectify YouTube Video Background Imperfections</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-low-resolution-textures-in-ubisofts-island/"><u>Troubleshooting Low-Resolution Textures in Ubisoft's Island</u></a></li>
-<li><a href="https://network-issues.techidaily.com/updating-intel-gpu-software-for-windows/"><u>Updating Intel GPU Software for Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-picture-the-essence-of-google-podcasts-app/"><u>[New] Full Picture The Essence of Google Podcasts App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>[New] Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-2023-panorama-of-facebooks-micro-videos-insights-and-impact-for-2024/"><u>[New] The 2023 Panorama of Facebook's Micro-Videos Insights and Impact for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/advanced-monitoring-systems-like-fiber-optic-strain-sensors-are-increasingly-used-to-provide-detailed-feedback-on-tunnel-behavior-during-construction-allowi49/"><u>Advanced Monitoring Systems Like Fiber Optic Strain Sensors Are Increasingly Used to Provide Detailed Feedback on Tunnel Behavior During Construction, Allowing for Immediate Adjustments and Enhanced Safety Protocols.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-crashes-in-windows-10/"><u>Conquering AMD Radeon R9 Driver Crashes in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-gaps-in-wide-windows-10/"><u>Fixed Display Gaps in Wide Windows 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/food-fans-unite-these-15-top-rated-tiktok-culinary-adventures-worth-trying-out-for-2024/"><u>Food Fans Unite! These 15 Top-Rated TikTok Culinary Adventures Worth Trying Out for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-end-visuals-repaired-windows-update/"><u>High-End Visuals Repaired: Windows Update</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-simple-approach-to-youtube-statistics-review/"><u>In 2024, A Simple Approach to YouTube Statistics Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>In 2024, Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mending-saving-functionality-for-display-settings-on-windows/"><u>Mending Saving Functionality for Display Settings on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-issue-resolved-all-systems-go/"><u>Nvidia Driver Issue Resolved, All Systems Go</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rainbow-six-extraction-optimization-guide-overcoming-drops-in-frames-per-second-fps/"><u>Rainbow Six Extraction Optimization Guide: Overcoming Drops in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-high-end-displays-successful-update/"><u>Restore High-End Displays - Successful Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieving-missing-video-controls-for-nvidia-devices/"><u>Retrieving Missing Video Controls for NVIDIA Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-revolution-device-connection-ended-forever/"><u>Wacom Revolution: Device Connection Ended Forever</u></a></li>
 </ul></div>
 

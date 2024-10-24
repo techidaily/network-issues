@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Rainbow Six Siege Patch Fail - DX12 Error"
-date: 2024-10-16T14:50:14.873Z
-updated: 2024-10-17T20:39:40.496Z
+date: 2024-10-19T16:41:37.742Z
+updated: 2024-10-23T19:27:43.438Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -104,33 +111,33 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -143,13 +150,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -164,15 +164,15 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -193,18 +193,16 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-how-much-video-can-64gb128gb-hold-in-2024/"><u>[New] How Much Video Can 64GB/128GB Hold, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-focused-communication-tips-for-virtual-teams-for-2024/"><u>[Updated] Focused Communication Tips for Virtual Teams for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>[Updated] In 2024, Amplify Your Influence on IG How to Gain 1K Followers Monthly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bizarre-vertical-reversal-in-insta-videos-a-glitch/"><u>Bizarre Vertical Reversal in Insta Videos – A Glitch?</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-content-12-best-for-insta-edits/"><u>Crafting Content 12 Best for Insta Edits</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 14 to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-a1-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo A1 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-2024-your-pathway-to-fixed-up-zoom-cameras/"><u>Navigating 2024: Your Pathway to Fixed-Up Zoom Cameras</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedies-for-resolving-acer-monitor-ripples/"><u>Remedies for Resolving Acer Monitor Ripples</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-concealed-cause-behind-dx-faux-pas-in-legends/"><u>Revealing Concealed Cause Behind DX Faux Pas in Legends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-monitor-stuttering-in-pcs/"><u>Stop Monitor Stuttering in PCs</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionize-your-content-delivery-with-live-streaming-expertise/"><u>[Updated] Revolutionize Your Content Delivery with Live Streaming Expertise</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-every-moment-top-budget-friendly-cam-recorders-for-2024/"><u>Capture Every Moment Top Budget-Friendly Cam Recorders for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craftsmanship-in-focus-leading-android-collage-tools-for-2024/"><u>Craftsmanship in Focus – Leading Android Collage Tools for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-view-post-driver-change/"><u>Darkened View Post-Driver Change</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-error-43-fixed/"><u>Display Driver, Error 43 Fixed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/examining-vivocuts-impact-on-the-video-editor-writes-of-2024/"><u>Examining VivoCut's Impact on the Video Editor' Writes of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-lenovo-ideapad-100-drivers-for-windows-10-download-guide-and-update-instructions/"><u>Get the Newest Lenovo IdeaPad 100 Drivers for Windows 10 - Download Guide and Update Instructions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-control-panel-lockout-issue/"><u>Overcame: Control Panel Lockout Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-graphic-performance-seamlessly-update-intel-hd-graphics-3000-driver-for-w10/"><u>Revitalize Graphic Performance: Seamlessly Update Intel HD Graphics 3000 Driver for W10.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-taking-control-of-your-workflow-xml-files-in-fcpx-explained/"><u>Updated Taking Control of Your Workflow XML Files in FCPX Explained</u></a></li>
 </ul></div>
 

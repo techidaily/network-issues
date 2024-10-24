@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2024-10-16T11:56:17.406Z
-updated: 2024-10-18T03:47:18.279Z
+date: 2024-10-23T06:30:25.017Z
+updated: 2024-10-24T00:30:40.727Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -34,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 2. [Update your graphics card driver](#F2)
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Enable your dedicated graphics card
 
@@ -54,38 +54,32 @@ Here’s how to do it:
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
@@ -131,18 +125,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-laughter-library-selecting-witty-content-for-short-youtube-videos/"><u>[New] In 2024, Laughter Library Selecting Witty Content for Short YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-overcome-artificial-watches-for-natural-views-for-2024/"><u>[Updated] Overcome Artificial Watches for Natural Views for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-decoding-popularity-a-truthful-look-at-reels-on-instagram/"><u>2024 Approved Decoding Popularity A Truthful Look at Reels on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-evaluated-and-ranked-the-best-iphone-photo-watermarkers/"><u>2024 Approved Evaluated and Ranked The Best iPhone Photo Watermarkers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-wmv-video-splitter-free-download-top-choices/"><u>2024 Approved WMV Video Splitter Free Download Top Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-anydvd-substitutes-explored-discover-the-most-effective-dvd-conversion-tools/"><u>Best AnyDVD Substitutes Explored: Discover the Most Effective DVD Conversion Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cooling-system-optimized/"><u>Cooling System Optimized</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-c1900101-error-in-win11-deployment/"><u>Eliminating C1900101 Error in Win11 Deployment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-nvidiawindows-xp-integration-issue/"><u>Fixed Nvidia/Windows XP Integration Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revive-your-wi-fi-solved-issue-in-windows-11/"><u>Revive Your Wi-Fi: Solved Issue in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12 4G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-visual-recovery-after-new-cu/"><u>Win10 Visual Recovery After New CU</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/xiaomi-11-series-capture-life-in-high-definition-for-2024/"><u>Xiaomi 11 Series Capture Life in High Definition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-amazing-appraisal-and-backup-options/"><u>[New] Amazing Appraisal & Backup Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-repair-error-43-settled/"><u>Device Repair: Error 43 Settled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-the-disturbance-in-win11-display/"><u>Dismiss the Disturbance in Win11 Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-pc-to-meet-software-and-hardware-criteria/"><u>Elevate PC to Meet Software and Hardware Criteria</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-inactive-cameras-on-asus-laptops/"><u>Enabling Inactive Cameras on Asus Laptops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>In 2024, Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-xcover-6-pro-tactical-edition-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy XCover 6 Pro Tactical Edition Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-s23-fe-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy S23 FE to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-conversation-a-guide-on-leveraging-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation: A Guide on Leveraging ChatGPT From Microsoft</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/positive-interaction-not-pressure-a-subscription-success-story/"><u>Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
 </ul></div>
 

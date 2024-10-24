@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Advanced Display Adjustment"
-date: 2024-10-13T19:03:44.674Z
-updated: 2024-10-17T21:41:06.198Z
+date: 2024-10-17T16:07:41.670Z
+updated: 2024-10-23T19:04:40.189Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -59,22 +52,15 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -92,20 +78,34 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -130,20 +130,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-trim-and-cut-vimeo-videos/"><u>[Updated] In 2024, How to Trim and Cut Vimeo Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-journey-to-visual-impact-with-simple-lenses/"><u>[Updated] In 2024, Journey to Visual Impact with Simple Lenses</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tricking-out-genuine-from-fraudulent-instagram-pals-for-2024/"><u>[Updated] Tricking Out Genuine From Fraudulent Instagram Pals for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-in-windows-solved-by-dxgkrnlsys-fix/"><u>BlueScreen of Death in Windows Solved by dxgkrnl.sys Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-the-502-gateway-problem-tips-for-quick-recovery/"><u>Demystifying the 502 Gateway Problem: Tips for Quick Recovery</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disarrayed-displays-dilemma/"><u>Disarrayed Displays Dilemma</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-forgotten-vram-signal/"><u>Eradicate Forgotten VRAM Signal</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-roblox-e277-mistake-on-your-desktop-ultimate-guide/"><u>Fix Roblox E277 Mistake on Your Desktop: Ultimate Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-find-n3-flip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Find N3 Flip to iPhone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-key-sites-for-innovative-font-design/"><u>In 2024, Key Sites for Innovative Font Design</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-invisible-monitor-mishaps/"><u>Overcoming Invisible Monitor Mishaps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-setback-window-full-display-unachieved-in-windows-10/"><u>Screen Setback: Window Full Display Unachieved in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/window-display-fix-in-windows-10-not-all-are-shown/"><u>Window Display Fix in Windows 10 - Not All Are Shown</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-strategy-fixing-gpu-drivers-to-prevent-crashes/"><u>Winning Strategy: Fixing GPU Drivers to Prevent Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-evolution-of-drones-present-impact-and-future-prospects/"><u>2024 Approved The Evolution of Drones Present Impact and Future Prospects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-stargazers-guide-to-best-sky-imaging-websites/"><u>Digital Stargazers' Guide to Best Sky Imaging Websites</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-unregistered-display-unit/"><u>Fix Unregistered Display Unit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-r9-driver-errors-in-the-heart-of-windows-10/"><u>Fixing R9 Driver Errors in the Heart of Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-gpu-installation-failure-now-ready-on-ws/"><u>Overcame GPU Installation Failure, Now Ready on WS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-undetected-gigabyte-hardware-on-system/"><u>Remedying Undetected Gigabyte Hardware on System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-successful-gdx-setup-in-windows-os/"><u>Restored Successful GDX Setup in Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-repair-manual-for-hp-monitors-that-wont-start/"><u>Step-by-Step Repair Manual for HP Monitors That Won't Start</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-battle-of-live-streamers-twitch-versus-youtube-for-2024/"><u>The Battle of Live Streamers Twitch Versus YouTube for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-serenity-a-guide-to-reducing-anxiety-via-chatgpt/"><u>Unlocking Serenity: A Guide to Reducing Anxiety via ChatGPT</u></a></li>
 </ul></div>
 

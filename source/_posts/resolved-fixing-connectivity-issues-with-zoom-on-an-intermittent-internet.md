@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet"
-date: 2024-10-13T03:11:04.135Z
-updated: 2024-10-18T05:21:15.521Z
+date: 2024-10-18T02:43:04.670Z
+updated: 2024-10-23T18:18:54.700Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 
  You may not need to try them all. Just work your way down the list until you find the one that works. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why is my Zoom internet connection unstable?
 
  You might get a frozen screen, poor audio or video quality, or**an** interrupted meeting when you are notified with the error Your Internet Connection is Unstable. Many factors relate to this issue:
@@ -50,13 +57,6 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 
  The following screenshots are taken from Windows 10, but it is also applicable for Windows 7 and 8.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 1 – Test your internet connection
 
  An unstable connection in Zoom can happen with a weak or unstable internet connection. To check it, try to use other devices to connect to**the same network** and see if the internet works. If not, talk to your ISP ([**Internet service provider**](https://en.wikipedia.org/wiki/Internet%5Fservice%5Fprovider)) for help.
@@ -66,16 +66,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-08_16-02-49.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this is not the matter troubling your connection, give a shoot to the next one.
@@ -83,10 +77,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 2 – Run the network troubleshooter
@@ -99,15 +93,21 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-1.jpg)
 2. Click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-2.jpg)
 3. Scroll down and click**Network Adapter** .  
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-3.jpg)
 4. Click**Run the troubleshooter** .  
@@ -121,10 +121,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 2. The network troubleshooter will then run.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Apply any fix if it finds any to see if it helps.
@@ -146,30 +146,23 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
 
  If you’re sure that all your updates have been completed but the Zoom unstable connection error still occurs, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 4 – Reboot modem
 
@@ -197,6 +190,13 @@ Hope this trick works for you. If not, continue to the next solution.
  If your router works well but Zoom’s unstable connection error stays, take a look at the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 6 – Refresh IP address
 
@@ -233,22 +233,16 @@ Hope this trick works for you. If not, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-expert-group-chat-options-for-virtual-gatherings-for-2024/"><u>[New] Expert Group Chat Options for Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recognizing-invisible-social-presence/"><u>[New] In 2024, Recognizing Invisible Social Presence</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-facebook-slide-in-content-access/"><u>[New] Unlock Facebook Slide-In Content Access</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mobile-mastery-saving-igtv-videos-on-your-device/"><u>[Updated] Mobile Mastery Saving IGTV Videos on Your Device</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-building-a-skype-group-discussion-in-windowsos-x/"><u>2024 Approved Building a Skype Group Discussion in Windows/OS X</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-up-blacked-out-screen-win10-fix/"><u>Brightening Up Blacked Out Screen: Win10 Fix</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-and-record-like-a-pro-phones-excelling-in-image-stability-features/"><u>Capture & Record Like a Pro Phones Excelling in Image Stability Features</u></a></li>
-<li><a href="https://techidaily.com/enhancing-conversational-ai-with-a-human-touch-strategies-for-naturalizing-chatgpt-outputs/"><u>Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-amds-difficulty-to-detect-driver-in-windowas-10/"><u>Fixed AMD's Difficulty to Detect Driver in Windowas 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-hybrid-gpu-glitch-resolving-issues-with-intellnvidia-in-win10/"><u>Fixed Hybrid GPU Glitch: Resolving Issues with Intell/Nvidia in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-c1900101-during-windows-installation/"><u>Fixing C1900101 During Windows Installation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-google-pixel-fold-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Google Pixel Fold Phone that is Locked?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-usechatgpts-co-pilot-expands-ai-capabilities-in-conversations/"><u>How UseChatGPT's Co-Pilot Expands AI Capabilities in Conversations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-corrected-graphical-hardware-error/"><u>Overwatch: Corrected Graphical Hardware Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-media-playback-after-upgrading-to-windows-11/"><u>Seamless Media Playback After Upgrading to Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-win11-flashy-monitor-problems/"><u>Solve Win11 Flashy Monitor Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-game-experience-with-voice-alteration-on-ps45/"><u>[Updated] 2024 Approved Enhancing Game Experience with Voice Alteration on PS4/5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-android-moba-gems-discovering-the-classics/"><u>2024 Approved Android MOBA Gems Discovering the Classics</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/cafogg/"><u>CAF至OGG自由下載 - 移順無條件移動者</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-change-voc-audio-into-mp3-format-across-pcs-and-macs/"><u>Easy Steps to Change VOC Audio Into MP3 Format Across PCs & Macs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-gpu-fans-not-spinning/"><u>How to Fix GPU Fans Not Spinning</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-reno-8t-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo Reno 8T 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/integrated-triumph-of-nvidia-and-windows-os/"><u>Integrated Triumph of Nvidia & Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mystery-of-missing-monitor-magenta/"><u>Mystery of Missing Monitor Magenta</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-switch-fail-in-windows-10/"><u>Overcoming NVIDIA/Intel Graphics Switch Fail in Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-insights-into-magix-acid-pro-and-alternatives-for-2024/"><u>Professional Insights Into Magix ACID Pro and Alternatives for 2024</u></a></li>
 </ul></div>
 

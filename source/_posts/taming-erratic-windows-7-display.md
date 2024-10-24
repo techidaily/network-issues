@@ -1,7 +1,7 @@
 ---
 title: Taming Erratic Windows 7 Display
-date: 2024-10-16T13:12:43.797Z
-updated: 2024-10-17T20:27:36.171Z
+date: 2024-10-17T00:08:39.998Z
+updated: 2024-10-24T04:30:43.257Z
 tags:
   - win11
   - win10
@@ -44,14 +44,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -67,6 +74,13 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -75,28 +89,8 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -113,15 +107,15 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
@@ -129,15 +123,15 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -178,24 +172,14 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-earning-equation-finns-financial-frequency/"><u>[Updated] In 2024, Earning Equation Finn's Financial Frequency</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/"><u>[Updated] Kids' Car Clubbing Capers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-premier-guide-to-top-notch-gear/"><u>2024 Approved YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bem-vindo-ao-conversor-de-videos-gratuito-ogv-para-mpeg-facil-download-e-uso-no-site-movavi/"><u>Bem-Vindo Ao Conversor De Vídeos Gratuito OGV Para MPEG: Fácil Download E Uso No Site Movavi</u></a></li>
-<li><a href="https://discover-community.techidaily.com/effective-techniques-for-transforming-various-video-and-audio-file-types/"><u>Effective Techniques for Transforming Various Video and Audio File Types</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-k70e-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi K70E Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improving-screen-visibility-in-lenovo-laptops/"><u>Improving Screen Visibility in Lenovo Laptops</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-itel-s23plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Itel S23+ without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/lenovo-hdd-ssd/"><u>Lenovo笔记本如何提高性能——有效将 HDD 数据迁移至 SSD并实现直接开机功能</u></a></li>
-<li><a href="https://network-issues.techidaily.com/next-level-graphics-performance-in-nvidia-210-driver/"><u>Next-Level Graphics Performance in Nvidia 210 Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-flicker-anomaly/"><u>Overcoming Windows 10 Flicker Anomaly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-motorola-moto-g24-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola Moto G24, is it possible?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-resolution-clearing-up-loot-crash-in-apex/"><u>Rapid Resolution: Clearing Up Loot Crash in Apex</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-hybrid-gpu-issues-nvidiaintel-fix-for-windows-10/"><u>Tackling Hybrid GPU Issues: NVIDIA/Intel Fix for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-smooth-anthem-experience/"><u>Unleash Smooth Anthem Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-gets-boosted-by-amd-radeon-driver-v20/"><u>Windows 10 Gets Boosted by AMD Radeon Driver V2.0</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-comprehensive-guide-to-streaming-and-archiving-minecraft-on-mac/"><u>2024 Approved Comprehensive Guide to Streaming and Archiving Minecraft on Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-for-aspect-ratio-skew-on-pcs/"><u>Direct Fix for Aspect Ratio Skew on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freely-stream-your-films-easy-to-use-mov-player-software-for-2024/"><u>Freely Stream Your Films Easy-to-Use MOV PLAYER Software for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-processor-error-corrected-operational/"><u>Graphic Processor Error Corrected, Operational</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/initialization-error-in-direct3d-resolved/"><u>Initialization Error in Direct3D Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shielded-device-from-unpredictable-luminescence/"><u>Shielded Device From Unpredictable Luminescence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-apple-declined-to-implement-ai-capabilities-in-older-iphones/"><u>Why Apple Declined to Implement AI Capabilities in Older iPhones</u></a></li>
 </ul></div>
 

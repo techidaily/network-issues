@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Unable to Initialize Graphics System"
-date: 2024-10-14T06:38:25.736Z
-updated: 2024-10-18T14:38:55.574Z
+date: 2024-10-19T03:29:22.120Z
+updated: 2024-10-24T06:39:45.535Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 * **[Method 3: Change resolution settings](https://tools.techidaily.com/drivereasy/download/)**
 * **[Method 4: Update Windows](https://tools.techidaily.com/drivereasy/download/)**
 * **[Method 5: Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your graphics driver
 
@@ -63,19 +56,6 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
 
 4) Restart your computer for the changes to take effect.
@@ -83,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
  If the method doesn’t work, you can open Device Manager again, right-click your graphics driver and**Disable** it, and then restart your computer. Easy as the method may seem, it has proved very useful for many users.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method 2: Run the game in compatibility mode
 
@@ -95,14 +82,14 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method 3: Change your display resolution settings
 
@@ -118,10 +105,10 @@ To change system screen resolution on Windows 11:
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
@@ -139,21 +126,14 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -173,10 +153,24 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **support@fortect.com** 
@@ -204,22 +198,22 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-10-exclusive-iphone-photo-editors-enhance-selfies-without-spending/"><u>[New] Top 10 Exclusive iPhone Photo Editors Enhance Selfies Without Spending</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rendering-fixed-added-amd-drivers-to-win10-system/"><u>[RENDERING FIXED] Added AMD Drivers to Win10 System</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/cut-to-the-chase-download-fb-videos-as-mp4-for-2024/"><u>Cut to the Chase - Download FB Videos as MP4 for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/diminishing-decibels-a-guide-to-quieter-soundscapes-in-lumafusion/"><u>Diminishing Decibels A Guide to Quieter Soundscapes in Lumafusion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/displayerror-in-windows-ui-graphic-system-ready-for-resolution/"><u>DisplayError in WIndows UI Graphic System (Ready for Resolution)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-flipped-display-problem/"><u>Fixing the Flipped Display Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-running-your-favorite-android-apps-on-a-windows-10-pc/"><u>Guide: Running Your Favorite Android Apps on a Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-dpi-settings-fixed-on-win-10-systems/"><u>High-DPI Settings Fixed on Win 10 Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 12 mini</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-humor-personalize-with-kinemaster/"><u>In 2024, Tailoring Humor Personalize with KineMaster</u></a></li>
-<li><a href="https://fox-links.techidaily.com/peak-performance-pfv-settings-for-easy-movement/"><u>Peak Performance PFV Settings for Easy Movement</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-display-aspect-ratios/"><u>Rectify Display Aspect Ratios</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-startup-routines-in-modern-windows/"><u>Streamlined Startup Routines in Modern Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-crt-refresh-rate-glitches/"><u>Tackle CRT Refresh Rate Glitches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-your-view-with-the-hp-envy-27-monitor/"><u>Transforming Your View with the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-post-update-video-hiccups-no-more-glitches/"><u>Win11: Post-Update Video Hiccups - No More Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-connectivity-glitches-in-cod-cold-war/"><u>[FIXED] Connectivity Glitches in CoD Cold War</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-restoring-windows-photo-viewer-on-win-11-for-2024/"><u>[Updated] The Ultimate Guide to Restoring Windows Photo Viewer on Win 11 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridge-ghost-graphics-discrepancy/"><u>Bridge Ghost Graphics Discrepancy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/competitive-edge-how-amd-graphics-drives-winning-performance/"><u>Competitive Edge: How AMD Graphics Drives Winning Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-shrinkiso/"><u>DVD ShrinkによるISOファイルの最適化手順</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flipped-image-remedy-for-windows-display-issue/"><u>Flipped Image Remedy for Window's Display Issue</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-restoring-functionality-in-obs-capture-device/"><u>In 2024, Restoring Functionality in OBS Capture Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-graphics-purchase-blacked-out-monitor/"><u>Latest Graphics Purchase: Blacked-Out Monitor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/obtain-pl2303-compatible-driver-software-for-your-windows-machine/"><u>Obtain PL2303 Compatible Driver Software for Your Windows Machine</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-setting-failures-on-windows-7-and-10/"><u>Resolving Display Setting Failures on Windows 7 & 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-endless-launches-solutions-for-a-constant-loading-fiasco-in-minecraft/"><u>Resolving Endless Launches: Solutions for a Constant 'Loading' Fiasco in Minecraft</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenshutdown-window-graphics-ui-fix-exists/"><u>ScreenShutdown, Window Graphics UI (Fix Exists)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-graphics-conflict-intel-and-nvidia-fix-on-windows-10-systems/"><u>Tackling Graphics Conflict: Intel & NVIDIA Fix on Windows 10 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-securing-mouse-device-drivers-for-windows-7-users/"><u>Troubleshooting and Securing Mouse Device Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-auditory-adventures-installing-apple-podcasts-app-for-2024/"><u>Unleash Your Auditory Adventures Installing Apple Podcasts App for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-sound-glitch-solved-swift-strategies-for-immediate-results/"><u>Windows 10 Sound Glitch Solved - Swift Strategies for Immediate Results</u></a></li>
 </ul></div>
 

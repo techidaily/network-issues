@@ -1,7 +1,7 @@
 ---
 title: Patching Flaws in Civilization V PC Edition
-date: 2024-08-31T10:21:37.816Z
-updated: 2024-09-01T10:21:37.816Z
+date: 2024-10-17T20:11:20.352Z
+updated: 2024-10-24T06:05:54.858Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -55,15 +62,30 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
@@ -77,27 +99,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the** **Windows logo key**  , then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
 ---
@@ -112,8 +130,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +137,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-incremental-audio-fading-using-garageband/"><u>[New] 2024 Approved Incremental Audio Fading Using Garageband</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-velocity-video-tape-echoes-included/"><u>[New] 2024 Approved Velocity Video Tape Echoes Included</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-decoding-veiled-content-on-youtube-for-2024/"><u>[Updated] Decoding Veiled Content on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-apowersofts-place-in-the-screen-capture-market/"><u>[Updated] In 2024, Apowersoft's Place in the Screen Capture Market</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-review-of-movavi-video-editor-plus-users/"><u>[Updated] The Complete Review of Movavi Video Editor Plus Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-10-monitor-hiding-full-screen-windows-views/"><u>Fixed: Windows 10 Monitor Hiding Full-Screen Windows Views</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guia-detallada-para-transferir-todo-tu-sistema-operativo-windows-10-a-un-nuevo-disco-ssd-nvme-mediante-el-metodo-de-clonado/"><u>Guía Detallada Para Transferir Todo Tu Sistema Operativo Windows 10 a Un Nuevo Disco SSD NVMe Mediante El Método De Clonado</u></a></li>
+<li><a href="https://network-issues.techidaily.com/highlanders-hurdle-steady-stream/"><u>Highlander's Hurdle: Steady Stream?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immerse-in-high-fidelity-gaming-with-updated-geforce-210/"><u>Immerse in High-Fidelity Gaming with Updated GeForce 210</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-resistance-quick-fixed/"><u>Lenovo Tap Resistance: Quick Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-eradicate-absence-of-displays/"><u>Methods to Eradicate Absence of Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-display-configs-in-windows-11-fix-guide/"><u>Missing Display Configs in Windows 11 Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-ripple-on-windows-7-screens/"><u>Rectifying Ripple on Windows 7 Screens</u></a></li>
+<li><a href="https://facebook.techidaily.com/thread-feature-to-vanish-by-end-dec-month/"><u>Thread Feature to Vanish by End-Dec Month</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tighten-monitor-sharpness-settings/"><u>Tighten Monitor Sharpness Settings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-online-photo-grid-creators-for-enhanced-clarity-for-2024/"><u>Top Online Photo Grid Creators for Enhanced Clarity for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-why-downloading-chatgpt-on-your-phone-may-not-be-ideal/"><u>Understanding Why Downloading ChatGPT on Your Phone May Not Be Ideal</u></a></li>
+</ul></div>
 

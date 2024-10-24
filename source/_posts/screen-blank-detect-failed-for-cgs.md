@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: Detect Failed for CGs"
-date: 2024-10-14T08:44:58.662Z
-updated: 2024-10-17T22:33:31.594Z
+date: 2024-10-21T05:49:08.906Z
+updated: 2024-10-23T17:32:53.103Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 2. [Update graphics card driver](#Solution2)
 3. [Delete the config.dat file of your game](#Solution3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Graphics Card and why this problem happens
 
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  If the problem persists, please try the following solutions until you find the way that works.
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -88,17 +95,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -109,16 +109,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
@@ -146,20 +146,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-expert-advice-on-free-youtube-events-without-extra-cost/"><u>[Updated] Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-11/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-win11-dark-mode-glitch/"><u>Clearing Up Win11 Dark Mode Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake-in-windows-10/"><u>Correcting Aspect Ratio Mistake in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-route-to-flawless-nvidia-drivers-revision/"><u>Direct Route to Flawless Nvidia Drivers Revision</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-7-greatest-alarm-clock-apps-for-your-smartphone/"><u>Discover the 7 Greatest Alarm Clock Apps for Your Smartphone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-setup-not-appearing-in-windows-11/"><u>Display Setup Not Appearing in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Magic 6 Lite?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mouthwatering-movies-how-to-make-your-food-videography-shine/"><u>In 2024, Mouthwatering Movies How to Make Your Food Videography Shine</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-troubleshooting-windows-system-error-resolved/"><u>Nvidia Troubleshooting - Window's System Error Resolved</u></a></li>
-<li><a href="https://article-helps.techidaily.com/realistic-movement-rendering-for-images-for-2024/"><u>Realistic Movement Rendering for Images for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx210-update-boosts-windows-11-performance/"><u>RTX210 Update Boosts Windows 11 Performance</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-3-ultimate-multi-user-video-platforms/"><u>Top 3 Ultimate Multi-User Video Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-r9-graphics-issues-for-windows-10-users/"><u>Troubleshooting R9 Graphics Issues for Windows 10 Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[New] 2024 Approved The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-method-for-pushing-twitter-videos-through-whatsapp-channels-for-2024/"><u>[New] Method for Pushing Twitter Videos Through WhatsApp Channels for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-cash-flow-maximizing-income-through-content-marketing-for-2024/"><u>[New] Vimeo Cash Flow Maximizing Income Through Content Marketing for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-cod-cold-war-no-internet-links/"><u>[RESOLVED] CoD Cold War: No Internet Links</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-xfx-interrupt-terminated-successfully/"><u>[Resolved] XFX Interrupt Terminated Successfully</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-customer-commendations-boosting-brands/"><u>2024 Approved Customer Commendations Boosting Brands</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-mp4-devices-roundup/"><u>2024 Approved The Best MP4 Devices Roundup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/alleviating-visual-fluctuations-pro-7/"><u>Alleviating Visual Fluctuations (Pro 7)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-advice-on-zapping-zoom-issues-right-away/"><u>Expert Advice on Zapping Zoom Issues Right Away</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-resolution-steps-inactive-gpu-screen-wnvidia/"><u>Instant Resolution Steps: Inactive GPU Screen W/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-r9-display-driver-bugs-in-windows-10/"><u>Resolving R9 Display Driver Bugs in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solutions-for-legends-crash-fix/"><u>Swift Solutions for Legends Crash Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-dvds-a-archivos-mkv-sin-coste-alguno-con-nuestro-servicio-online-sencillo/"><u>Transformar DVDs a Archivos MKV Sin Coste Alguno Con Nuestro Servicio Online Sencillo</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-popular-radio-ambiance/"><u>Updated The Ultimate Guide to Popular Radio Ambiance</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-a05-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy A05? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-now-supports-amds-radeon-hd-6950-latest-drivers-update/"><u>Windows 11 Now Supports AMD's Radeon HD 6950: Latest Drivers Update</u></a></li>
 </ul></div>
 

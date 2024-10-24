@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | Fortnite High Ping | Quickly & Easily!"
-date: 2024-10-14T14:03:49.315Z
-updated: 2024-10-17T17:54:47.258Z
+date: 2024-10-16T22:30:31.530Z
+updated: 2024-10-23T23:01:55.741Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart Fortnite
 
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
@@ -47,15 +54,28 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -72,6 +92,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**Ctrl** , **Shift,** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
@@ -96,30 +123,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
@@ -131,19 +138,26 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
 
@@ -154,27 +168,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
 
@@ -222,21 +216,22 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-earnings-analysis-youtube-views-vs-financial-gain/"><u>[New] In 2024, Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>[Updated] Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-visual-stories-for-successful-fb-covers/"><u>2024 Approved Crafting Visual Stories for Successful FB Covers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-new-era-of-personal-health-monitoring-fitbit-sense-as-the-superior-alternative-to-apple-watch/"><u>A New Era of Personal Health Monitoring: Fitbit Sense as the Superior Alternative to Apple Watch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gone-greyware-on-great-display/"><u>Gone Greyware on Great Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improving-visual-fidelity-for-far-cry-6-sequel/"><u>Improving Visual Fidelity for Far Cry 6 Sequel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>In 2024, Beatboxing Basics Add Audio to Windows 11 Projects with Ease</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-optimize-your-social-media-presence-post-facebook-change/"><u>In 2024, How to Optimize Your Social Media Presence Post-Facebook Change</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-lightless-lamentation/"><u>Laptop Lightless Lamentation</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-windows-security-add-safe-websites-now/"><u>Optimize Windows Security: Add Safe Websites Now</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/page-cannot-be-located-understanding-the-404-error/"><u>Page Cannot Be Located: Understanding the 404 Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-backward-facing-displays-on-win11-pro/"><u>Resolving Backward-Facing Displays on Win11 Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-stability-issues-with-civ-5pc/"><u>Resolving Stability Issues with Civ 5/PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-clarity-restored-for-win10-users/"><u>Screen Clarity Restored for Win10 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-playback-on-upgraded-windows-10-systems/"><u>Smooth Playback on Upgraded Windows 10 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-initiated-graphic-output-regained-after-driver-malfunction/"><u>[Fix Initiated] Graphic Output Regained After Driver Malfunction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-ios-tools-replicating-ps2-games/"><u>[New] 2024 Approved Premier iOS Tools Replicating PS2 Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-hd-stream-to-local-storage-for-2024/"><u>[New] FB HD Stream to Local Storage for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-captivating-clips-transforming-footage-vertically-in-final-cut-x/"><u>[Updated] 2024 Approved Captivating Clips Transforming Footage Vertically in Final Cut X</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-vlc-users-guide-to-screen-capturing/"><u>[Updated] In 2024, VLC User's Guide to Screen Capturing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-webcam-innovations-for-enhanced-connectivity/"><u>[Updated] Webcam Innovations for Enhanced Connectivity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-4k-video-sharpness/"><u>Demystifying 4K Video Sharpness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/light-up-dark-screens-on-lenovo-notebooks/"><u>Light Up Dark Screens on Lenovo Notebooks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-protecting-identities-top-video-editing-tools-for-face-blurring-for-2024/"><u>New Protecting Identities Top Video Editing Tools for Face Blurring for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-11/"><u>NVIDIA GeForce 210 Drivers Update for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimized-screen-clarity/"><u>Optimized Screen Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-bluescreen-and-recover-cursor/"><u>Resolve BlueScreen & Recover Cursor</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-13-ultra-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 13 Ultra Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-civ-5-freezes-on-computer/"><u>Troubleshooting Civ 5 Freezes on Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turbocharge-anthem-performance/"><u>Turbocharge Anthem Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-best-stop-motion-animation-apps-for-mobile/"><u>Updated In 2024, Unleash Your Creativity Best Stop Motion Animation Apps for Mobile</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/winxdvd-pro-expert-dvd-extraction-and-ai-enhanced-video-conversion-tools-compatible-with-iphones/"><u>WinXDVD Pro: Expert DVD Extraction & AI-Enhanced Video Conversion Tools Compatible with iPhones</u></a></li>
 </ul></div>
 

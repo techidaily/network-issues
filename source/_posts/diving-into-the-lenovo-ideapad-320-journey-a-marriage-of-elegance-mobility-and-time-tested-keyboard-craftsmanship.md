@@ -1,7 +1,7 @@
 ---
 title: "Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
-date: 2024-10-15T03:05:26.697Z
-updated: 2024-10-17T18:30:09.741Z
+date: 2024-10-20T22:19:11.050Z
+updated: 2024-10-24T07:22:54.572Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
@@ -41,6 +41,13 @@ Lifewire / Emily Isaacs
 
 4.4
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
@@ -71,6 +78,13 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  One unique feature of the Sculpt we loved was the function switch. Located on the upper-right hand side of the keyboard, this switch allows you to toggle the functionality of the top row keys, replacing the function key. Options include refreshing the active page, navigating to the home page in web, opening up the computer’s settings, a play/pause button, switching between active windows, and increasing or decreasing volume.
@@ -80,16 +94,10 @@ Lifewire / Emily Isaacs
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Batteries required**
@@ -97,13 +105,6 @@ Lifewire / Emily Isaacs
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -116,13 +117,6 @@ Lifewire / Emily Isaacs
  Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design make this keyboard a surefire winner.
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Great for the features**
 
@@ -157,16 +151,10 @@ Lifewire / Emily Isaacs
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -199,20 +187,24 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-immediate-fixes-s-facebook-password-woes/"><u>[New] Immediate Fixes 'S Facebook Password Woes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-size-adjust-windows-11-display-dimensions/"><u>[SCREEN SIZE] Adjust Windows 11 Display Dimensions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-xchange-your-thoughts-on-better-alternatives/"><u>[Updated] XChange Your Thoughts on Better Alternatives</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974220841-breeze-through-apex-errors-instantly/"><u>Breeze Through Apex Errors, Instantly!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-control-external-hard-drive-usage/"><u>Effective Strategies to Control External Hard Drive Usage</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/efficiently-setting-up-your-hp-printer-via-win32-api/"><u>Efficiently Setting Up Your HP Printer via Win32 API</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-common-lcd-sync-issues/"><u>Fixing Common LCD Sync Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures/"><u>In 2024, Cameras That Complement Best Hats for Capturing Motorcycle Adventures</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-monetization-mastery-elevating-your-youtube-earning-strategy/"><u>In 2024, Monetization Mastery Elevating Your YouTube Earning Strategy</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-made-easy-mastering-manycam-with-virtual-camera-capabilities/"><u>Live Streaming Made Easy: Mastering ManyCam with Virtual Camera Capabilities</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repairing-monitor-blink-anomalies/"><u>Repairing Monitor Blink Anomalies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-the-shadowy-surface-of-lenovo-portable/"><u>Solve the Shadowy Surface of Lenovo Portable</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-potential-new-drivers-merge-rtx210-and-windows-11/"><u>Unleash Potential - New Drivers Merge RTX210 & Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-a-swift-submission-into-apple-catalog/"><u>[New] Tips for a Swift Submission Into Apple Catalog</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transforming-followers-into-loyalists-with-instagram-videos-for-2024/"><u>[New] Transforming Followers Into Loyalists with Instagram Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-hd-video-memory-creators-for-2024/"><u>[New] Ultimate HD Video Memory Creators for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gpu-update-panel-unblocked/"><u>[Resolved] GPU Update Panel Unblocked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-iphone-hdr-photos-made-easy/"><u>[Updated] Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transform-your-hauls-into-visual-stories-for-2024/"><u>[Updated] Transform Your Hauls Into Visual Stories for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/compress-oversized-screen-in-win10/"><u>Compress Oversized Screen in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crystal-clear-view-lost-in-darkness/"><u>Crystal Clear View: Lost in Darkness?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning-for-2024/"><u>Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-reversed-display-orientation-on-win-11/"><u>Fixing Reversed Display Orientation on Win 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lost-connection-lost-time/"><u>Lost Connection, Lost Time</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/melodypulse-recorder-downloads-guide/"><u>Melodypulse Recorder Downloads Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-online-convertir-contenido-multimedia-facilmente-desde-mp3-hasta-flv-sin-costo-alguno/"><u>Movavi Online: Convertir Contenido Multimedia Fácilmente Desde MP3 Hasta FLV Sin Costo Alguno</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precise-adjustment-for-lcd-aspect-ratios/"><u>Precise Adjustment for LCD Aspect Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quash-amd-graphical-faux-pas/"><u>Quash AMD Graphical Faux Pas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-clearing-computer-shutdown-screens/"><u>Steps for Clearing Computer Shutdown Screens</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-tips-resolving-no-photos-error-in-iphone-gallery/"><u>Troubleshooting Tips: Resolving 'No Photos' Error in iPhone Gallery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/warframe-game-crashes-linked-to-intel-overclockable-core-i9-and-i7-cpus-dev-reveals-80-failure-rate/"><u>Warframe Game Crashes Linked to Intel Overclockable Core I9 & I7 CPUs, Dev Reveals 80% Failure Rate</u></a></li>
 </ul></div>
 

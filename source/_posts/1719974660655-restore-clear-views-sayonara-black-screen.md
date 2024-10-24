@@ -1,7 +1,7 @@
 ---
 title: Restore Clear Views, Sayonara Black Screen
-date: 2024-10-16T10:48:48.176Z
-updated: 2024-10-18T12:04:11.134Z
+date: 2024-10-17T19:00:50.425Z
+updated: 2024-10-24T06:35:30.254Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
@@ -43,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -86,23 +86,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -111,6 +97,13 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -121,6 +114,13 @@ Here is how to do it:
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
@@ -136,22 +136,15 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
@@ -168,6 +161,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -175,13 +175,6 @@ So you can try disabling fast startup to see if it does the trick:
  1) On your keyboard, press the**Windows logo key** and type**system restore** , then click on**Create a restore point** once it shows up as a matching result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
 
@@ -194,6 +187,13 @@ So you can try disabling fast startup to see if it does the trick:
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -221,22 +221,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-stardew-valley-no-start-on-pc-dx12-error/"><u>[CORRECTED] Stardew Valley No Start on PC - DX12 Error</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-recovering-lost-linkages-restore-facebook-video-suggestions-for-2024/"><u>[New] Recovering Lost Linkages Restore Facebook Video Suggestions for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-invisible-snapshotting-hidden-image-recording-on-snapchat/"><u>2024 Approved Invisible Snapshotting Hidden Image Recording on Snapchat</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ban-the-white-screen-in-sims/"><u>Ban the White Screen in Sims</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-review-lg-27ud88-w-oled-4k-hdr-tv-for-2024/"><u>Comprehensive Review LG 27UD88-W OLED 4K HDR TV for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-inverted-image-display-on-windows-7/"><u>Correcting Inverted Image Display on Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974437083-enhance-visual-clarity-install-updated-intel-hd-graphics-3000-for-windows-10-now/"><u>Enhance Visual Clarity: Install Updated Intel HD Graphics 3000 for Windows 10 Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-card-support-issue-settled/"><u>Graphics Card Support: Issue Settled</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23 Ultra?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-asuss-proart-pa-329q-a-comprehensive-evaluation-of-a-top-tier-monitoring-solution/"><u>In 2024, Asus’s ProArt PA 329Q A Comprehensive Evaluation of a Top-Tier Monitoring Solution</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-7-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 7 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-12-proplus-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 12 Pro+ 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>In 2024, Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-available-display-options-nvidia/"><u>Restoring Available Display Options NVIDIA</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-infinite-circle-secrets-to-overcoming-challenges-in-black-existence/"><u>The Infinite Circle: Secrets to Overcoming Challenges in Black Existence</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unresponsive-screen-after-graphics-switch/"><u>Unresponsive Screen After Graphics Switch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-revival-comprehensive-solutions-to-common-zoom-problems/"><u>Zoom Revival: Comprehensive Solutions to Common Zoom Problems</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[Updated] 2024 Approved Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-primepickings-top-twitters-and-top-viewers-favorites/"><u>[Updated] In 2024, PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-video-ideas-for-beauty-gurus/"><u>2024 Approved Video Ideas for Beauty Gurus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-step-by-step-guide-on-fixing-c1900101-error-in-windows-11/"><u>A Step-by-Step Guide on Fixing C1900101 Error in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-limitation-humans-dominate-with-craft-and-nuance/"><u>AI's Limitation: Humans Dominate with Craft and Nuance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-battlefield-how-to-quickly-overcome-warzone-x-ray-troubles/"><u>Bypassing Battlefield: How to Quickly Overcome Warzone X-Ray Troubles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-installing-the-latest-ati-driver-for-windows-systems/"><u>Easy Tutorial: Installing the Latest ATI Driver for Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-function-key-modifications-in-windows-1011/"><u>Effortless Function Key Modifications in Windows 10/11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974762276-elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-track-to-faster-net-with-win-1011-fixes/"><u>Fast Track to Faster Net with Win 10/11 Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-apply-intels-latest-graphics-driver-updates-for-optimal-performance-on-windows-10-11/"><u>Find and Apply Intel's Latest Graphics Driver Updates for Optimal Performance on Windows 10 / 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-glitch-fixed-successfully/"><u>GeForce Glitch Fixed Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-compatibility-secured/"><u>Hardware Compatibility Secured</u></a></li>
+<li><a href="https://windows11.techidaily.com/legacys-latest-look-instructions-for-windows-11-using-to-go-and-rufus-technology/"><u>Legacy's Latest Look: Instructions for Windows 11, Using To Go & Rufus Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-lenovos-black-monitor-myth/"><u>Overcome Lenovo's Black Monitor Myth</u></a></li>
+<li><a href="https://network-issues.techidaily.com/racing-through-internet-speed-on-windows-xp7/"><u>Racing Through Internet Speed on Windows XP/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-malfunctioning-keyboard-typing-issues/"><u>Resolved: Malfunctioning Keyboard Typing Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-qualcomms-wireless-capability-with-atheros-fix-in-win11/"><u>Secure Qualcomm's Wireless Capability with Atheros Fix in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strengthening-system-requirements-for-drivers-success/"><u>Strengthening System Requirements for Drivers' Success</u></a></li>
 </ul></div>
 

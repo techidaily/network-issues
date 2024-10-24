@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2024-10-17T09:28:05.024Z
-updated: 2024-10-18T11:25:23.961Z
+date: 2024-10-17T18:08:07.020Z
+updated: 2024-10-24T02:32:51.065Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -53,13 +60,6 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
@@ -67,10 +67,10 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -83,10 +83,10 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -107,10 +107,10 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -137,21 +137,22 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-precision-in-motion-learning-to-record-perfect-screens-on-macos/"><u>[New] 2024 Approved Precision in Motion Learning to Record Perfect Screens on macOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-the-ultimate-guide-to-borders-on-insta-pics/"><u>[New] 2024 Approved Step-By-Step The Ultimate Guide to Borders on Insta Pics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dive-deep-into-high-quality-video-capture-technology/"><u>[New] In 2024, Dive Deep Into High-Quality Video Capture Technology</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-transform-your-digital-assets-top-7-tools-to-create-nfts-for-2024/"><u>[Updated] Transform Your Digital Assets - Top 7 Tools to Create NFTs for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-lack-of-visual-feedback-in-computers/"><u>Addressing Lack of Visual Feedback in Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breaking-down-4k-ultra-definition-benefits/"><u>Breaking Down 4K Ultra Definition Benefits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-backup-and-restore-for-display-configurations/"><u>Enabling Backup and Restore for Display Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/god-of-war-performance-peak/"><u>God of War: Performance Peak</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-music-video-shoot-estimated-financial-outlay/"><u>In 2024, Music Video Shoot - Estimated Financial Outlay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reconciling-windows-11-and-nforce630a-hardware/"><u>Reconciling Windows 11 and nForce630a Hardware</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-problem-call-of-duty-warzone-image-display-errors/"><u>Resolved Problem: Call of Duty Warzone Image Display Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steamvr-e-308-expert-strategies-to-overcome-the-common-virtual-reality-setback/"><u>SteamVR E-308: Expert Strategies to Overcome the Common Virtual Reality Setback</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/testing-revealed-apples-top-durable-iphone-case-with-unique-security-feature-insider-tech-at-zdnet/"><u>Testing Revealed! Apple's Top Durable iPhone Case with Unique Security Feature | Insider Tech at ZDNET</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-no-more-screen-shivering/"><u>Win11: No More Screen Shivering</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-lost-wi-fi-connection-found-solution/"><u>Windows 11: Lost Wi-Fi Connection, Found Solution</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-chaptered-cinema-the-essential-guide-to-vimeo-editing/"><u>[New] 2024 Approved Chaptered Cinema The Essential Guide to Vimeo Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>[New] The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-decoding-av1-and-vp9-codec-showdown/"><u>[Updated] In 2024, Decoding AV1 and VP9 Codec Showdown</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-marker-techniques-for-efficient-video-cutting/"><u>[Updated] Mastering Marker Techniques for Efficient Video Cutting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1-how-to-fix-an-unreliable-zoom-connection-a-comprehensive-guide/"><u>1. How to Fix an Unreliable Zoom Connection: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1-ultimate-guide-eliminating-latency-and-reducing-lag-for-smoother-gameplay-in-valorant/"><u>1. Ultimate Guide: Eliminating Latency & Reducing Lag for Smoother Gameplay in Valorant</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-elite-tips-for-professional-music-video-editing/"><u>2024 Approved Elite Tips for Professional Music Video Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/acer-laptop-not-connecting-to-wifi-solved/"><u>Acer Laptop Not Connecting to WiFi [Solved]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-bluetooth-drivers-free-downloads-and-latest-updates-quick-and-simple-guide/"><u>ASUS Bluetooth Drivers: Free Downloads and Latest Updates – Quick & Simple Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-nonfunctional-headphone-setups-in-windows-7-systems/"><u>Diagnosing and Repairing Nonfunctional Headphone Setups in Windows 7 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/itop-reviewed-leading-pc-screen-recorders-face-off/"><u>ITop Reviewed Leading PC Screen Recorders Face Off</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-solutions-to-stop-unexpected-flashing-on-asus-laptop-screens/"><u>Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-fixing-gtx-graphics-card-error-code-43-for-windows-10-users/"><u>Troubleshooting and Fixing GTX Graphics Card Error Code 43 for Windows 10 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-repairing-brightness-fluctuations-in-asus-computer-displays/"><u>Troubleshooting and Repairing Brightness Fluctuations in Asus Computer Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-resolving-ethernet-connectivity-problems-in-windows-107/"><u>Troubleshooting and Resolving Ethernet Connectivity Problems in Windows 10/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-steps-resolve-ethernet-connection-problems-in-windows-107/"><u>Troubleshooting Steps: Resolve Ethernet Connection Problems in Windows 10/7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-toolkit-capture-windows-11-displays/"><u>Ultimate Toolkit Capture Windows 11 Displays</u></a></li>
 </ul></div>
 

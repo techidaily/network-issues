@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange
-date: 2024-10-11T04:05:04.339Z
-updated: 2024-10-18T10:25:22.556Z
+date: 2024-10-21T21:56:56.699Z
+updated: 2024-10-23T18:37:35.545Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -70,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -99,15 +93,22 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-accelerate-how-to-swiftly-broadcast-playlists-for-2024/"><u>[New] Accelerate How To Swiftly Broadcast Playlists for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-expert-list-top-10-advanced-recording-software-tools/"><u>[New] In 2024, The Expert List Top 10 Advanced Recording Software Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securely-transforming-youtube-videos-top-3-reliable-methods/"><u>2024 Approved Securely Transforming YouTube Videos Top 3 Reliable Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beat-amds-graphics-bug-tarkov/"><u>Beat AMD's Graphics Bug, Tarkov</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/boost-collaboration-in-slack-select-your-ideal-10-free-apps/"><u>Boost Collaboration in Slack Select Your Ideal 10 Free Apps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/digital-illustration-turning-your-favorite-vimeo-videos-into-gifs-for-2024/"><u>Digital Illustration Turning Your Favorite Vimeo Videos Into GIFs for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pacmans-plunge-digital-drag/"><u>Pacman's Plunge - Digital Drag?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restarting-as-solution-to-non-working-asus-cam/"><u>Restarting as Solution to Non-Working Asus Cam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-streaming-disruptions-in-new-windows-era/"><u>Tackling Streaming Disruptions in New Windows Era</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-simple-path-to-iphone-screen-shots/"><u>[New] In 2024, The Simple Path to IPhone Screen Shots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategies-for-perfect-screenshots-at-your-fingertips-for-2024/"><u>[New] Strategies for Perfect Screenshots at Your Fingertips for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-into-the-arena-joining-lives-on-tiktok-for-2024/"><u>[Updated] Step Into the Arena Joining Lives on TikTok for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-lives-10-cinematic-inspirations/"><u>[Updated] Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-simplifying-cross-platform-sharing-instagram-and-facebook-integration/"><u>2024 Approved Simplifying Cross-Platform Sharing Instagram & Facebook Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/after-the-iphone-13-and-15-pro-top-alternatives-to-consider-now-insights-from-tech-analysts-at-zdnet/"><u>After the iPhone 13 and 15 Pro: Top Alternatives to Consider Now - Insights From Tech Analysts at ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flipped-digital-image-screens/"><u>Correcting Flipped Digital Image Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/horizontal-monitor-solution-found/"><u>Horizontal Monitor Solution Found</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-p60-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei P60 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-luts-utilization-in-movie-color-grading/"><u>In 2024, Luts Utilization in Movie Color Grading</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-in-win10-preparation/"><u>Overcoming C1900101 in Win10 Preparation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blank-detect-failed-for-cgs/"><u>Screen Blank: Detect Failed for CGs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-transforming-youtube-clips-into-flac-audio-format-with-minimal-hassle/"><u>Step-by-Step Guide to Transforming YouTube Clips Into FLAC Audio Format with Minimal Hassle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
 </ul></div>
 

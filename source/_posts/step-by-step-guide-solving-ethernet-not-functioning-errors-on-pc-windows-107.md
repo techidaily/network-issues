@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2024-10-15T13:04:40.270Z
-updated: 2024-10-18T07:19:28.615Z
+date: 2024-10-20T05:24:20.468Z
+updated: 2024-10-24T00:47:20.569Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -79,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -94,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
@@ -116,13 +109,6 @@ Follow the steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 6: Run network commands
 
  Corrupted DNS cache matters can prevent you from connecting to the internet because it can cause a mismatch in your IP address. Therefore, you might need to flush the DNS cache to fix the internet that is connected but not working issue.
@@ -131,6 +117,13 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
@@ -138,10 +131,10 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -149,6 +142,13 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -171,15 +171,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-video-and-photography-makers-who-mix-sounds/"><u>[New] 2024 Approved Essential Video & Photography Makers Who Mix Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-discovering-free-srt-excellence-our-top-8-picks-for-2024/"><u>[New] Discovering Free SRT Excellence Our Top 8 Picks for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-decoding-automatic-clips-in-imovie/"><u>2024 Approved Decoding Automatic Clips in iMovie</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-decoding-the-mechanics-a-deep-dive-into-webcam-tech/"><u>2024 Approved Decoding the Mechanics A Deep Dive Into Webcam Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-more-with-less-lgs-360-camera-redefined-and-reviewed-for-2024/"><u>Capturing More with Less - LG's 360 Camera Redefined & Reviewed for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-the-laptops-sideways-display/"><u>Correcting the Laptop's Sideways Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-update-intel-hd-graphics-drivers-on-windows/"><u>How to Update Intel HD Graphics Drivers on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-clear-windows-10-displays/"><u>Restoring Clear Windows 10 Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-in-to-windows-8s-secure-environment-graphics-driver-detachment/"><u>Step-In-To Windows 8’S Secure Environment: Graphics Driver Detachment</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-xs-game-on-the-wallet/"><u>Xbox Series X/S: Game on the Wallet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-laughs-in-layout-designer/"><u>[New] Best Laughs in Layout Designer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-digital-diving-into-youtubes-veiled-video-vaults-for-2024/"><u>[New] Digital Diving Into YouTube’s Veiled Video Vaults for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-forge-viral-content-adobe-memes/"><u>2024 Approved Forge Viral Content Adobe Memes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ati-gpu-lacks-dx-acceleration-fix/"><u>ATI GPU Lacks DX Acceleration Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974604348-boost-intel-graphics-3000-performance-with-a-simple-update-in-windows-10/"><u>Boost Intel Graphics 3000 Performance with a Simple Update in Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-and-intel-graphic-card-harmony-achieved-on-win11/"><u>Nvidia & Intel Graphic Card Harmony Achieved on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-hassle-free-windows-printer-software-download/"><u>Quick and Hassle-Free Windows Printer Software Download</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-windows-10s-installation-hurdle-code-c1900101/"><u>Remedying Windows 10'S Installation Hurdle - Code C1900101</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/resolve-iwidget-issues-quickly-10-expert-fixes-for-apple-devices/"><u>Resolve iWidget Issues Quickly: 10 Expert Fixes for Apple Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvidia-screen-options-unavailability/"><u>Resolving NVIDIA Screen Options Unavailability</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-animators-odyssey-crafting-your-own-fx-realm-for-2024/"><u>The Animator's Odyssey Crafting Your Own FX Realm for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforma-videos-tta-directamente-en-mp3-gratuitos-usando-la-herramienta-en-linea-de-movavi/"><u>Transforma Videos Tta Directamente en Mp3 Gratuitos Usando La Herramienta en Línea De Movavi.</u></a></li>
 </ul></div>
 
