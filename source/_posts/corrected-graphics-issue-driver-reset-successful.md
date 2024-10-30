@@ -1,7 +1,7 @@
 ---
 title: "Corrected Graphics Issue: Driver Reset Successful"
-date: 2024-09-09T02:25:46.773Z
-updated: 2024-09-10T02:25:46.773Z
+date: 2024-10-26T01:13:26.203Z
+updated: 2024-10-29T20:49:54.160Z
 tags:
   - win11
   - win10
@@ -35,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fdc6095a244.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click**Change advanced power settings** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fdc662f10a7.png)
@@ -49,18 +43,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fdc6a8bb61b.png)
   
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Solution 2: Fix Faulty Graphics Card Driver**
   
  The error may be caused by faulty Nvidia graphics driver. So the first thing you can do is uninstall the graphics driver then update the driver to the latest version.  
@@ -90,12 +72,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fda0c612fb9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Solution 3: Add Two Related Registry Keys**
   
  If neither of Solution 1 and Solution 2 doesn’t work for you, try adding two related registry keys to the this location:  HKEY\_LOCAL\_MACHINE/SYSTEM/CurrentControlSet/Control/GraphicsDrivers.
@@ -110,24 +86,12 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/02/img_56d1514256cf9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Browse to and then click the following registry subkey:
 
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers**
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/02/img_56d15158994b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   4\. On the**Edit** menu in the right pane, right-click on the blank place. Click**New** , and then select the following registry value from the drop-down menu specific to your version of Windows.
 
  If your PC is running**32-bit** operating system, follow these steps:  
@@ -136,28 +100,10 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/02/img_56d151767ad5b.png)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   b. Type**TdrDelay** as the**Name** and click**Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/02/img_56d15185e69a6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  c. Double-click TdrDelay and add “20” for the Value data and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fdcefb5f556.png)
@@ -174,12 +120,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/02/img_56d151caa9437.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   c. Double-click TdrDelay and add “20” for the Value data and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fdd06cb443f.png)
@@ -204,8 +144,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,8 +151,28 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz/"><u>[New] Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>[New] In 2024, From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>[New] Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-select-the-best-free-mobile-video-platforms-of-2023/"><u>[Updated] Select the Best Free Mobile Video Platforms of 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-windows-11-unveiled-pro-level-hacks-and-tips/"><u>[Updated] Windows 11 Unveiled Pro-Level Hacks and Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-scene-reduction-unveiling-imovies-cropping-logic/"><u>2024 Approved Scene Reduction Unveiling iMovie's Cropping Logic</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-roblox-interactivity-on-your-computer/"><u>Boost Roblox Interactivity on Your Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-rtx-3070-graphics-driver-for-windows-1110-get-the-best-performance-now/"><u>Download Updated NVIDIA RTX 3070 Graphics Driver for Windows 11/10 - Get the Best Performance Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-gta-5-online-up-and-running-fixes-for-common-errors/"><u>Get Your 'GTA 5 Online' Up and Running – Fixes for Common Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-fixes-for-windows-11-photo-app-freezes/"><u>Quick Fixes for Windows 11 Photo App Freezes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-high-latency-in-virtual-construction-platform/"><u>Solving High Latency in Virtual Construction Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-roblox-slowness-at-pc-level/"><u>Tackle Roblox Slowness at PC Level</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unshackled-bios-configuration-access/"><u>Unshackled: BIOS Configuration Access</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-graphics-fault-ui-stops-resolved-quickly/"><u>WinOS Graphics Fault, UI Stops (Resolved Quickly)</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

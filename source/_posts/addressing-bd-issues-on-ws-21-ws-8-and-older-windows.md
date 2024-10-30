@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2024-10-23T06:30:25.017Z
-updated: 2024-10-24T00:30:40.727Z
+date: 2024-10-29T03:53:04.907Z
+updated: 2024-10-30T03:18:03.843Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -54,33 +47,39 @@ Here’s how to do it:
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
- If this method doesn’t work for you, don’t worry. There’s something else to try.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 ### Fix 2: Update your graphics card driver
 
@@ -100,6 +99,13 @@ Here’s how to do it:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
@@ -125,16 +131,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-amazing-appraisal-and-backup-options/"><u>[New] Amazing Appraisal & Backup Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-repair-error-43-settled/"><u>Device Repair: Error 43 Settled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dismiss-the-disturbance-in-win11-display/"><u>Dismiss the Disturbance in Win11 Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-pc-to-meet-software-and-hardware-criteria/"><u>Elevate PC to Meet Software and Hardware Criteria</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-inactive-cameras-on-asus-laptops/"><u>Enabling Inactive Cameras on Asus Laptops</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>In 2024, Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-xcover-6-pro-tactical-edition-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy XCover 6 Pro Tactical Edition Face Lock?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-s23-fe-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy S23 FE to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-conversation-a-guide-on-leveraging-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation: A Guide on Leveraging ChatGPT From Microsoft</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/positive-interaction-not-pressure-a-subscription-success-story/"><u>Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-academic-journey-across-time-top-10-history-youtubers/"><u>[New] 2024 Approved Academic Journey Across Time Top 10 History YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eco-filmmaking-simplified-youtubes-green-screen-wonders/"><u>[New] In 2024, Eco-Filmmaking Simplified YouTube's Green Screen Wonders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximizing-impact-adjusting-facebook-video-sizes-correctly/"><u>[Updated] 2024 Approved Maximizing Impact Adjusting Facebook Video Sizes Correctly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-fixing-blank-sequences-during-obs-recording-for-2024/"><u>[Updated] Fixing Blank Sequences During OBS Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boost-your-instagram-influence-5-key-tactics-for-enhanced-followers/"><u>2024 Approved Boost Your Instagram Influence 5 Key Tactics for Enhanced Followers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>2024 Approved Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dial-in-your-desktop-res-in-windows-11/"><u>Dial-In Your Desktop Res In Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-monitor-adjustments-in-the-new-windows-11/"><u>Effortless Monitor Adjustments in the New Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ipodipodand/"><u>IPodで遊べない動画があれば、この方法でiPod仕様に変換&再生</u></a></li>
+<li><a href="https://network-issues.techidaily.com/merging-operating-system-gpu-flawlessly/"><u>Merging Operating System, GPU Flawlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-mirror-discreprancy-in-windows-7/"><u>Rectifying Mirror Discreprancy in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-skype-sound-capabilities-tackling-microphone-troubles-in-windows-11/"><u>Restoring Skype Sound Capabilities: Tackling Microphone Troubles in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-windows-8-troubleshooting-with-safe-mode-and-clean-reinstalls/"><u>Step-by-Step Windows 8: Troubleshooting with Safe Mode & Clean Reinstalls</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-price-of-proximity-evaluating-online-platform-pitfalls/"><u>The Price of Proximity: Evaluating Online Platform Pitfalls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-triad-of-artifical-intelligence-comparing-public-private-and-personal-ai-systems/"><u>The Triad of Artifical Intelligence: Comparing Public, Private, and Personal AI Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tricking-a-dormant-asus-camera/"><u>Tricking a Dormant Asus Camera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-compatibility-windows-and-nvidia/"><u>Triumph Over Compatibility: Windows & Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
 </ul></div>
 

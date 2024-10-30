@@ -1,7 +1,7 @@
 ---
 title: "Successful Troubleshooting: Radeon R9 & Win11"
-date: 2024-09-09T02:24:23.120Z
-updated: 2024-09-10T02:24:23.120Z
+date: 2024-10-24T19:34:06.390Z
+updated: 2024-10-29T16:37:18.648Z
 tags:
   - win11
   - win10
@@ -46,22 +46,10 @@ Before we proceed with the following resolutions, please make sure that you have
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586482f8af0b5.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with administrator permission, press**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the command prompt window, type in the following command:
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -80,28 +68,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586482f8af0b5.png)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with administrator permission, press**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the command prompt window, type in command:**SFC /SCANNOW**. Make sure that you have made no typo and hit**Enter**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e300e3c1.jpg)
@@ -116,12 +86,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e5733e51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) If you are with AMD processors, select**Catalyst Control Center**and choose**Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648f8f4dd21.jpg)
@@ -136,12 +100,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9af8c728.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Under**Driver**tab, choose**Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9dcb005b.jpg)
@@ -150,34 +108,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ab747efcd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Reboot your PC.
   
  7) Then**download** the AMD Clean Uninstall Utility from its support website. Then double click the**AMDCleanUtility.exe** icon to run the application.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ac776f616.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then just follow the instructions on screen to get all your AMD driver and application components removed.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864acd59401a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your computer will restart when the whole process if finished.
   
 **Note** : If you already have a trusted application or driver remover, you can use it to do the full uninstall too.
@@ -196,12 +136,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e897add407d.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to enjoy more features such as driver backup and driver restore, as well as professional tech support waiting to solve your driver problems, you can have a try at the [**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . If you are not satisfied with it, you can always ask for a refund thirty days within the purchase. Guaranteed.
   
  What’s with the waiting, come on and have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) now!
@@ -214,8 +148,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,8 +155,28 @@ DISM /Online /Cleanup-Image /RestoreHealth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-accelerating-the-playback-of-instagram-videos-tips/"><u>[Updated] Accelerating the Playback of Instagram Videos (Tips)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[Updated] The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bad-pool-caller-error-on-windows-11-solved/"><u>Bad Pool Caller Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-your-health-journey-experience-a-new-level-of-motivation-and-tracking-with-the-fitbit-versa-s-3-featuring-inbuilt-gps-technology-and-fitness-applicati161/"><u>Boost Your Health Journey: Experience a New Level of Motivation and Tracking with the Fitbit Versa S 3, Featuring Inbuilt GPS Technology and Fitness Applications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-in-windows-10/"><u>Correcting Aspect Ratio in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-pause-and-stutter-in-videos/"><u>Eliminate Pause and Stutter in Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-intelnvidia-conflict-in-switchable-graphic-cards-on-win11/"><u>End of Intel/Nvidia Conflict in Switchable Graphic Cards on Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimize-your-shots-with-pro-light-tips-for-iphones/"><u>In 2024, Optimize Your Shots with Pro Light Tips for IPhones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-ace-3-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Ace 3 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-problem-full-screen-windows-not-visible-on-monitor-windows-10/"><u>Rectified Problem: Full-Screen Windows Not Visible on Monitor (Windows 10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenate-graphics-performance-in-windows-10-through-updated-intel-gpu-driver/"><u>Rejuvenate Graphics Performance in Windows 10 Through Updated Intel GPU Driver.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-turning-on-bluetooth-functionality-in-windows-7/"><u>Step-by-Step Tutorial for Turning On Bluetooth Functionality in Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-edge-of-convenience-how-the-chatgpt-desktop-app-triumphs-over-its-website-rival/"><u>The Edge of Convenience: How the ChatGPT Desktop App Triumphs Over Its Website Rival</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-transform-your-videos-the-9-best-free-online-video-enhancement-software-for-2024/"><u>Updated Transform Your Videos The 9 Best Free Online Video Enhancement Software for 2024</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

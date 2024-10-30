@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-10-18T02:13:32.367Z
-updated: 2024-10-24T07:34:30.521Z
+date: 2024-10-26T01:50:02.413Z
+updated: 2024-10-29T16:56:40.873Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Modify Registry
@@ -84,27 +84,27 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -127,24 +127,22 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-8-affordable-video-communication-apps-for-pc-and-mac/"><u>[New] In 2024, Unveiling 8 Affordable Video Communication Apps for PC and MAC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximizing-streaming-is-sub4sub-effective/"><u>[Updated] In 2024, Maximizing Streaming Is Sub4Sub Effective?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets-for-2024/"><u>[Updated] The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-visionary-views-top-tweets-bypassing-the-screen/"><u>[Updated] Visionary Views Top Tweets Bypassing the Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-play-7t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-xbox-ultimate-screen-capture-tips/"><u>2024 Approved Mastering Xbox Ultimate Screen Capture Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974806015-boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-init-unsuccessful-resolved/"><u>D3D Init: Unsuccessful, Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-gory-odyssey-mechanics/"><u>Fixed: Gory Odyssey Mechanics</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-methods-disconnected-graphics-card-wnvidia/"><u>Quick Fix Methods: Disconnected Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-screen-expansion-glitches-for-windows/"><u>Rectified Screen Expansion Glitches for Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-the-power-behind-4k-uhd-visuals/"><u>Revealing the Power Behind 4K UHD Visuals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilized-mobile-monitor-reflections-victory/"><u>Stabilized Mobile Monitor Reflections - Victory</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-reduce-flickering-in-acer-panels/"><u>Techniques to Reduce Flickering in Acer Panels</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-trick-to-enhancing-gameplay-fluidity-with-high-frame-rates/"><u>The Ultimate Trick to Enhancing Gameplay Fluidity with High Frame Rates</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/transferring-your-vital-health-information-4-key-techniques-for-moving-to-a-new-iphone/"><u>Transferring Your Vital Health Information: 4 Key Techniques for Moving to a New iPhone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-a-dark-monitor-on-pcs/"><u>Troubleshooting a Dark Monitor on PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-guide-to-top-notch-webcam-filming/"><u>[New] In 2024, Step-by-Step Guide to Top-Notch Webcam Filming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-5-essential-browser-recording-apps-unveiled/"><u>[Updated] 5 Essential Browser Recording Apps Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-steps-for-documenting-online-meetings-for-2024/"><u>[Updated] Advanced Steps for Documenting Online Meetings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-harmonizing-sound-dynamics-in-ableton/"><u>[Updated] Harmonizing Sound Dynamics in Ableton</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-multimedia-software-vlcs-stand-against-mx-for-2024/"><u>Comparing Multimedia Software VLC's Stand Against MX for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detailed-steps-to-correct-errors-when-your-system-cant-find-d3dx9-28dll/"><u>Detailed Steps to Correct Errors When Your System Can't Find D3dx9_ 28.dll</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-nullified-in-wincom-framework/"><u>Error Nullified in WinCOM Framework</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exclusive-magazine-insert-special-edition-cd-and-dvd-bundle-from-digiarty-software/"><u>Exclusive Magazine Insert: Special Edition CD & DVD Bundle From DigiArty Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-why-wont-farming-simulator-22-launch-find-out-here/"><u>Fix Guide: Why Won't Farming Simulator 22 Launch? Find Out Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-recovery-addressing-loot-issues-in-legends/"><u>Quick Recovery: Addressing Loot Issues in Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bdr-errors-on-ws-21-ws-10-ws-8-ws-7/"><u>Resolved: BDR Errors on WS-21, WS-10, WS-8, WS-7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-intermittent-backlit-beam-in-device/"><u>Resolved: Intermittent Backlit Beam in Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/speedy-solution-eliminate-loot-errors-in-apex/"><u>Speedy Solution: Eliminate Loot Errors in Apex</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-visual-boundary-stability/"><u>Streamline Visual Boundary Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/syncing-geforce-7025-with-win11-hardware-standard/"><u>Syncing GeForce 7025 with Win11 Hardware Standard</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-free-extended-xbox-game-pass-ultimate-access-at-just-36-exclusive-tips-and-tricks/"><u>Unlock Free Extended Xbox Game Pass Ultimate Access at Just $36: Exclusive Tips and Tricks!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974328874-zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Reversed Display Orientation on Win 11
-date: 2024-10-18T17:46:23.555Z
-updated: 2024-10-23T17:09:37.795Z
+date: 2024-10-22T23:59:48.930Z
+updated: 2024-10-29T16:03:12.140Z
 tags:
   - win11
   - win10
@@ -40,28 +40,15 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On your keyboard, simultaneously press**Ctrl** +**Alt** +**Arrow** key.
@@ -74,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Method 2: Fix screen upside down via Display settings
 
  You can also modify the Display settings in Windows 10 to fix the**screen upside down issue** . To do so:
@@ -82,15 +76,28 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
@@ -121,13 +128,6 @@ There are two options to update drivers in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -154,21 +154,16 @@ There are two options to update drivers in Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simplified-methods-for-logging-videos-on-vimeo/"><u>[New] 2024 Approved Simplified Methods for Logging Videos on Vimeo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-asus-display-a-journey-through-precision-and-color/"><u>[New] 2024 Approved The Ultimate ASUS Display A Journey Through Precision and Color</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features/"><u>[New] In 2024, Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beating-the-blues-of-youtubes-green-screen/"><u>Beating the Blues of YouTube's Green Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-win11-blank-display-post-creators/"><u>Fixing Win11 Blank Display Post-Creators</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-x9b-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X9b Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-composing-captivating-cutting-edge-synopses/"><u>In 2024, Composing Captivating Cutting-Edge Synopses</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-truthgpt-revelations-and-insights-police-investigation-at-mullvad-vpn-topno-logo-free-gaming-on-pcs-demystifying-mechanical-keyboard-tech/"><u>Inside TruthGPT: Revelations & Insights | Police Investigation at Mullvad VPN | Topno Logo-Free Gaming on PCs | Demystifying Mechanical Keyboard Tech</u></a></li>
-<li><a href="https://network-issues.techidaily.com/missing-window-11-display-configurations/"><u>Missing Window 11 Display Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974877664-refresh-intels-graphics-prowess-in-your-system-using-windows-10-update/"><u>Refresh Intel's Graphics Prowess in Your System Using Windows 10 Update!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-nvidia-7025-on-win10-compatibility/"><u>Resolved Nvidia 7025 on Win10 Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-wow-error-51900319-quickly/"><u>Solving WoW Error #51900319 Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-kid-friendly-websites-offering-free-films/"><u>Top 6 Kid-Friendly Websites Offering Free Films</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-resume-after-fall-creators-blue-screen/"><u>Win11 Resume After Fall Creators Blue Screen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/yuneecs-breakthrough-in-high-res-aerial-vision/"><u>Yuneec's Breakthrough in High-Res Aerial Vision</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements/"><u>[New] Picture Perfectionism Top Tools & Sites for Adding Frame Elements</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-rated-3d-tools-for-youtube-video-startups/"><u>[Updated] 2024 Approved Top-Rated 3D Tools for YouTube Video Startups</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effective-group-meetings-googles-top-solutions-4/"><u>[Updated] Effective Group Meetings Google's Top Solutions (#4)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deactivating-incessant-led-glare/"><u>Deactivating Incessant LED Glare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diy-solutions-to-youtube-green-screen-anomalies/"><u>DIY Solutions to YouTube Green Screen Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-guide-to-upgrade-your-computers-wireless-connection/"><u>Essential Guide to Upgrade Your Computer's Wireless Connection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/navigating-screen-customization-a-google-meet-essentials-guide-for-2024/"><u>Navigating Screen Customization A Google Meet Essentials Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-challenge-when-installing-windows-11/"><u>Overcoming C1900101 Challenge When Installing Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-fix-for-atheros-network-errors/"><u>Qualcomm's Win11 Fix for Atheros Network Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-d3dx924dll-missing-or-corruption-problems/"><u>The Ultimate Fix for 'd3dx9_24.dll' Missing or Corruption Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-armor-gear-macbook-pro-13-inch-laptop-case-review/"><u>Urban Armor Gear MacBook Pro 13-Inch Laptop Case Review</u></a></li>
 </ul></div>
 

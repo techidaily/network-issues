@@ -1,7 +1,7 @@
 ---
 title: Fury Fixed for Spartan's Journey
-date: 2024-10-22T05:19:16.527Z
-updated: 2024-10-24T01:56:43.478Z
+date: 2024-10-26T03:16:46.547Z
+updated: 2024-10-30T01:03:20.099Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 * [Fix 5: Repair system files](#block-628daa0c-75c9-4796-b5ca-d131e3878f6e)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the system requirements
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -58,15 +65,15 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -85,6 +92,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this doesn’t fix the problem, take a look at the next fix.
 
 ## Fix 4: Check for system updates
@@ -95,13 +109,6 @@ If this doesn’t fix the problem, take a look at the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -109,13 +116,6 @@ If this doesn’t fix the problem, take a look at the next fix.
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -130,17 +130,17 @@ If the latest updates don’t work for you, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -162,21 +162,21 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>[Updated] 2024 Approved Perfect Your Pics Ideal Apps List for iPhones/Androids</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-marketing-mastery-for-affiliate-success-for-2024/"><u>[Updated] Video Marketing Mastery for Affiliate Success for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-restoration-in-windows-11-with-drivers-upgrade/"><u>Audio Restoration in Windows 11 with Drivers Upgrade</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-vector-illustration-software-a-must-have-list-for-artists/"><u>Best Vector Illustration Software A Must-Have List for Artists</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721994307953-discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-screen-geometry-realignment/"><u>Effortless Screen Geometry Realignment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-scale-funds-assessment-kickstarting-your-podcast-dream-for-2024/"><u>Full-Scale Funds Assessment Kickstarting Your Podcast Dream for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-premier-recommendations-best-iphone-tones-designers/"><u>In 2024, Premier Recommendations Best iPhone Tones Designers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-a2plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi A2+ Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-display-not-reacting-repair-successful/"><u>Lenovo Display Not Reacting - Repair Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nightfall-on-screen-with-new-driver/"><u>Nightfall on Screen with New Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-oscillating-screen-woes-in-pro-7/"><u>Overcoming Oscillating Screen Woes in Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gdrivererr22-issue/"><u>Resolved GDRIVER_ERR#22 Issue</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uncover-the-benefits-of-an-ergodriven-topo-mat-effective-anti-fatigue-solution-for-prolonged-standing-work/"><u>Uncover the Benefits of an Ergodriven Topo Mat - Effective Anti-Fatigue Solution for Prolonged Standing Work</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-elite-mobile-apps-for-high-quality-android-screenshots/"><u>[New] 2024 Approved Elite Mobile Apps for High-Quality Android Screenshots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-tips-for-font-addition-in-after-effects/"><u>[Updated] Essential Tips for Font Addition in After Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>[Updated] In 2024, A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-the-pack-the-premier-camera-lenses-of-2024-in-order/"><u>[Updated] Leading the Pack The Premier Camera Lenses of 2024, in Order</u></a></li>
+<li><a href="https://solve-news.techidaily.com/12-effective-methods-for-capturing-screenshots-on-your-hp-device-with-movavi-a-step-by-step-guide/"><u>12 Effective Methods for Capturing Screenshots on Your HP Device with Movavi - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-12r-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus 12R Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-launch-lines-a-practical-roadmap-for-product-review-channel-founders/"><u>2024 Approved Quick Launch Lines A Practical Roadmap for Product Review Channel Founders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressed-windows-10-extended-display-flaws/"><u>Addressed Windows 10 Extended Display Flaws</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-22-in-gpu-drivers-addressed/"><u>Error 22 in GPU Drivers Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-void-card-search-error/"><u>Graphics Void: Card Search Error</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-symphony-of-selection-trailer-music-mastery/"><u>In 2024, The Symphony of Selection Trailer Music Mastery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-kinks-cured-for-combat/"><u>Kratos Kinks Cured for Combat</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-youtubes-unwanted-green-mistakes/"><u>Navigating Through YouTube's Unwanted Green Mistakes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls-for-2024/"><u>The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tighten-monitor-border-clarity/"><u>Tighten Monitor Border Clarity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/trim-vertical-lines-on-computer-screens/"><u>Trim Vertical Lines on Computer Screens</u></a></li>
 </ul></div>
 
