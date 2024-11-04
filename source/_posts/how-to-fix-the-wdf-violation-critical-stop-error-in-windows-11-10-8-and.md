@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'WDF Violation' Critical Stop Error in Windows 11, 10, 8 &
-date: 2024-10-23T16:06:08.728Z
-updated: 2024-10-29T20:13:57.232Z
+date: 2024-10-29T17:09:12.994Z
+updated: 2024-11-04T18:14:04.583Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2: Use Driver Verifier
 
 **Warning** : You must be in the Administrators group on the computer to use Driver Verifier. In the middle of the session, your PC could**crash** . So, it must be used when you have backed up all your important data and files.
@@ -70,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
  1) On your keyboard, press the**Windows Logo key** , type in**command prompt** , and click**Run as administrator** .
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When prompted to provide administrator permission, click **Yes** . 
 
@@ -88,18 +74,18 @@ When prompted to provide administrator permission, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910350abaafc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Choose**Automatically select all drivers installed on this computer** . Then click the**Finish** button to start the verification. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59103553b4fa3.jpg) 
 
  When the detect process finishes, just follow the instructions to get rid of the WDF\_VIOLATION blue screen error fixed. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Run a Windows repair
 
@@ -137,22 +123,30 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
@@ -176,24 +170,20 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-picks-hd-recording-with-nintendo-switch/"><u>[New] In 2024, Top Picks HD Recording with Nintendo Switch</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essentials-of-excellence-superior-editing-tips-for-obs-studios-for-2024/"><u>[Updated] Essentials of Excellence Superior Editing Tips for OBS Studios for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/challenge-cleared-combat-corrected/"><u>Challenge Cleared: Combat Corrected</u></a></li>
-<li><a href="https://network-issues.techidaily.com/connection-error-laptops-showcase-unseen-by-tv/"><u>Connection Error: Laptop's Showcase Unseen by TV</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deploying-ai-browsers-mastering-the-utilization-of-agentgpt/"><u>Deploying AI Browsers: Mastering the Utilization of AgentGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-top-free-virtual-private-networks-for-202ecky-heres-a-blog-post-with-an-seo-title-that-communicates-excitement-and-engagement/"><u>Exploring the Top Free Virtual Private Networks for 202Ecky, Here's a Blog Post with an SEO Title that Communicates Excitement and Engagement:</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-7-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 7?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-sony-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Sony Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://network-issues.techidaily.com/next-level-graphics-performance-in-nvidia-210-driver/"><u>Next-Level Graphics Performance in Nvidia 210 Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-flicker-anomaly/"><u>Overcoming Windows 10 Flicker Anomaly</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-image-clarity-issues-in-ubisofts-new-island/"><u>Resolving Image Clarity Issues in Ubisoft's New Island</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-hybrid-gpu-issues-nvidiaintel-fix-for-windows-10/"><u>Tackling Hybrid GPU Issues: NVIDIA/Intel Fix for Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-smooth-anthem-experience/"><u>Unleash Smooth Anthem Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-blackout-window-after-upgrade-fall/"><u>Unlock Blackout Window After Upgrade Fall</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-the-power-of-live-videos-on-facebook-for-2024/"><u>Unlock the Power of Live Videos on Facebook for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-streaming-software-showdown-wirecast-vs-obs-explored/"><u>[New] In 2024, Streaming Software Showdown Wirecast vs OBS Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-renowned-20-free-public-domain-pubg-sets-for-2024/"><u>[New] Renowned 20 Free, Public Domain PUBG Sets for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nokia-g42-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nokia G42 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-free-access-of-c-spans-broadcasted-content/"><u>A Guide to Free Access of C-Span's Broadcasted Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-the-buffering-blues/"><u>Banish the Buffering Blues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-horizontal-distortion-a-diagnostic-strategy-for-portable-screens/"><u>Bypassing Horizontal Distortion: A Diagnostic Strategy for Portable Screens</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/error-404-unable-to-locate-the-webpage/"><u>Error 404: Unable to Locate the Webpage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-fix-for-amd-in-tarkov/"><u>Fast-Fix for AMD in Tarkov</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speed-kings-and-queens-of-2022/"><u>In 2024, Speed Kings and Queens of 2022</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-gpu-drivers-removal-on-windows/"><u>Mastering GPU Drivers Removal on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-enhanced-drivers-for-windows-11-launched/"><u>Radeon HD 6950 Enhanced Drivers for Windows 11 Launched</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/record-like-a-pro-top-10-webcam-software-for-windows-10/"><u>Record Like a Pro Top 10 Webcam Software for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-visual-power-new-amd-hd-6950-driver-for-windows-10/"><u>Unleashing Visual Power: New AMD HD 6950 Driver for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-mystery-of-missing-wireless-on-windows-11/"><u>Unveiling: The Mystery of Missing Wireless on Windows 11</u></a></li>
 </ul></div>
 

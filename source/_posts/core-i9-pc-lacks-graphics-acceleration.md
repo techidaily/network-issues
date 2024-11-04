@@ -1,7 +1,7 @@
 ---
 title: Core I9 PC Lacks Graphics Acceleration
-date: 2024-09-09T02:29:02.367Z
-updated: 2024-09-10T02:29:02.367Z
+date: 2024-10-29T19:07:30.824Z
+updated: 2024-11-04T17:03:36.009Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Core I9 CPU Performance Issues,Graphic Card Inadequacy for Gaming Lapt
 thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3df9ba6a1aa455dbcac03eedf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Core I9 PC Lacks Graphics Acceleration
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8b866db5e.png)
@@ -47,25 +41,28 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  and  
  **R** key at the same time to invoke the Run box.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Type****dxdiag**and click****OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8b3e75161.png)
 3. In DirectX Diagnostic Tool, click on the****Display**tab to check if your Direct3D Acceleration is****enabled** . If not, click to enable it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8c1f7496a.jpg)
 4. Click on the**System** tab to check your**DirectX Version** .  If it doesn’t meet the requirement (DirectX 9.0 and later), you should update your DirectX version in your system. Updating DirectX varies from Windows versions.  
  If you’re using Windows 10, 8 or 8.1, you’ll need to update and install the latest DirectX; if you’re using Windows 7, Vista or XP, you should install a service pack to update. Check the Microsoft support to update DirectX in different Windows system: [How to install the latest version of DirectX](https://support.microsoft.com/en-us/help/179113/how-to-install-the-latest-version-of-directx)  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8d336b3d4.jpg)
 5. Check if your problem is now resolved. If not, try Solution 2, below.
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -88,51 +85,42 @@ OR
 3. Click**Update**  next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All**  to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  . You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfcc47398702.jpg)
 4. Restart your computer and check if your program is now resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 3, below.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 3: Reinstall Visual C++ Redistributables
 
  You can also try reinstalling the Visual C++ Redistributables packages on your computer:
 
 1. Press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  +  
  **R** key  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  to open the Run box.
 2. Type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7baf1906244.png)
 3. You can see a list of **Microsoft Visual C++ Redistributable packages**  installed on your computer. Right click on the one you want to uninstall, and click **Uninstall**  , then follow the on-screen instructions to uninstall it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7baf7492bc3.jpg)
 4. When the uninstallation is finished, you can go to the [Windows download page](https://support.microsoft.com/en-hk/help/2977003/the-latest-supported-visual-c-downloads)  to download the corresponding Visual C++ Redistributable packages.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on the downloaded file to begin the installation process.
 6. Restart your computer and check if the application where you encountered the error message now works properly.
 
@@ -151,8 +139,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,8 +146,26 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free/"><u>[Updated] 2024 Approved Cloaked Consumption The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-quick-guide-syncing-images-and-movies-between-iphones/"><u>[Updated] 2024 Approved Quick Guide Syncing Images & Movies Between iPhones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfected-methods-for-capturing-live-hulu-on-different-devices/"><u>[Updated] Perfected Methods for Capturing Live Hulu on Different Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-user-interface-for-comment-management/"><u>[Updated] YouTube's User Interface for Comment Management</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-transform-your-macbook-writable-screen-with-these-wallpapers/"><u>2024 Approved Transform Your MacBook' Writable Screen with These Wallpapers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-etape-par-etape-recuperation-des-donnees-perdues-sur-carte-sd-endommagee-methodes-de-sauvegarde-efficaces/"><u>Guide Étape Par Étape : Récupération Des Données Perdues Sur Carte SD Endommagée - Méthodes De Sauvegarde Efficaces</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-fast-internet-fix-for-win-1110/"><u>Lightning-Fast Internet Fix for WIN 11/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-new-technology-with-toms-hardware-insights/"><u>Navigate Through New Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-issue-addressed-windows-ceases-operation/"><u>NVIDIA Issue Addressed - Windows Ceases Operation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-fix-overcoming-fallout-4-glitches/"><u>PC Fix: Overcoming Fallout 4 Glitches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-of-hp-drivers-your-guide/"><u>Quick & Easy Installation of HP Drivers: Your Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-c1900101-during-windows-11-installation/"><u>Remedy for C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-c1900101-error-in-win11-setup/"><u>Resolving C1900101 Error in Win11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-dormant-recyclebin-icon-in-windows-11/"><u>Reviving Dormant Recyclebin Icon in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-screen-newer-gpus-mystery/"><u>Silent Screen: Newer GPU's Mystery?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-why-cant-i-get-tekken-8-running-on-my-computer/"><u>Solving the Issue: Why Can't I Get Tekken 8 Running on My Computer?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-inverted-image-feature-in-w11-system/"><u>Tackling Inverted Image Feature in W11 System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-geforce-symbiosis-a-solution-found/"><u>Win10 & GeForce Symbiosis - A Solution Found</u></a></li>
+</ul></div>
 

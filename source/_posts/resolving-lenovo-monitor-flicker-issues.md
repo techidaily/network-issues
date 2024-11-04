@@ -1,7 +1,7 @@
 ---
 title: Resolving Lenovo Monitor Flicker Issues
-date: 2024-09-13T01:18:50.434Z
-updated: 2024-09-14T18:35:27.542Z
+date: 2024-11-03T19:59:01.285Z
+updated: 2024-11-04T17:39:10.331Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -70,11 +77,32 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -103,12 +131,24 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhanced-video-capture-on-pcmac-with-top-apps/"><u>[New] 2024 Approved Enhanced Video Capture on PC/Mac with Top Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-constructing-your-own-high-definition-pc-for-immersive-video-creation/"><u>[New] Constructing Your Own High-Definition PC for Immersive Video Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-decoding-subtitles-from-srt-to-xml-ssa-and-more/"><u>[Updated] In 2024, Decoding Subtitles From SRT to XML, SSA & More</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-journey-to-storytelling-gear-selection-guide/"><u>[Updated] In 2024, Journey to Storytelling Gear Selection Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boosting-performance-windows-10-gains-from-amds-hd-6950-update-v20/"><u>Boosting Performance: Windows 10 Gains From AMD's HD 6950 Update V2.0</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bringing-your-voice-to-life-mastering-siri-in-tiktok-videos/"><u>Bringing Your VOICE to Life Mastering Siri in TikTok Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-gameplay-geforce-210-and-win10-combined-power/"><u>Elevate Your Gameplay: GeForce 210 & WIN10 Combined Power</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-22-resolved-in-video-card-driver/"><u>Error 22 Resolved in Video Card Driver</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-high-quality-suspense-and-horror-sound-effects-download-guide-no-loss-in-audio-clarity/"><u>Free High-Quality Suspense & Horror Sound Effects Download Guide – No Loss in Audio Clarity!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-motion-clearer-captures/"><u>Mastering Motion Clearer Captures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-wow-problem-solving-no-519/"><u>Mastering WoW Problem Solving No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximizing-monitor-space-on-wins11-pcs/"><u>Maximizing Monitor Space on Wins11 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoration-of-screen-configuration-achieved/"><u>Restoration of Screen Configuration Achieved</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-lenovo-laptop-camera-functionality-with-easy-repair-steps/"><u>Revive Your Lenovo Laptop Camera Functionality with Easy Repair Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tap-out-lag-not-pauses/"><u>Tap Out Lag, Not Pauses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-deciphered-nvidia-opengl-armored-solution/"><u>TDR Alert Deciphered: NVidia OpenGL Armored Solution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-entrepreneurs-guide-to-youtube-earnings-thriving-without-ad-support/"><u>The Entrepreneur’s Guide to YouTube Earnings Thriving Without Ad Support</u></a></li>
+</ul></div>
 
