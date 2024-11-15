@@ -1,7 +1,7 @@
 ---
 title: Laptop'ayer Screen Ghosted, TV Stays Black
-date: 2024-09-15T06:25:10.270Z
-updated: 2024-09-19T17:58:31.415Z
+date: 2024-11-07T16:11:24.202Z
+updated: 2024-11-15T02:55:10.802Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 6. Power on the devices.
 
 Now check and see if your laptop to TV by HDMI works.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Configure your Display Settings
 
@@ -57,20 +71,14 @@ The difference between each mode is as follows:
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
- Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 ### Fix 3: Update available drivers
 
@@ -91,16 +99,16 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -122,5 +130,26 @@ The difference between each mode is as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-disconnecting-woes-cod-cold-wars-offline-issue/"><u>[FIXED] Disconnecting Woes: CoD Cold War's Offline Issue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-fixing-iphones-persistent-out-of-focus-photos/"><u>[New] Fixing iPhone's Persistent Out-of-Focus Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-chimes-discover-the-top-tone-websites/"><u>[New] In 2024, Digital Chimes Discover the Top Tone Websites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-what-is-virtual-reality-and-how-does-it-work-for-2024/"><u>[New] What Is Virtual Reality and How Does It Work for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accessing-display-settings-on-nvidia-graphics/"><u>Accessing Display Settings on NVIDIA Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ceasing-windows-10-stuttering-display/"><u>Ceasing Windows 10 Stuttering Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-to-stable-dell-screen-fixes/"><u>Dimming to Stable: Dell Screen Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exclusive-solutions-for-nvidias-rtx-3080-crashes/"><u>Exclusive Solutions for NVIDIA's RTX 3080 Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-hardware-selection-from-toms-tech-insight/"><u>Expert Advice on Hardware Selection From Tom's Tech Insight</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-your-gameplay-choosing-mouse-sensitivity/"><u>Fine-Tuning Your Gameplay: Choosing Mouse Sensitivity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-faulty-graphics-software-for-smooth-mc-gaming/"><u>Fixing Faulty Graphics Software for Smooth MC Gaming</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigate-through-apples-best-in-class-virtual-reality-games/"><u>In 2024, Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-instagram-potential-with-video-descriptions/"><u>In 2024, Unlocking Instagram Potential with Video Descriptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-card-no-signal-troubleshooting-needed/"><u>New Card, No Signal: Troubleshooting Needed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-internal-display-flutter/"><u>Overcoming Internal Display Flutter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-screenscape-regain-normal-view/"><u>Reverse Screenscape: Regain Normal View</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-video-editors-compare-the-best-software-for-pc-and-mobile/"><u>Top Free Video Editors: Compare the Best Software for PC and Mobile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unbeatable-accessories-elevating-vr-games/"><u>Unbeatable Accessories Elevating VR Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-the-potential-of-harmonics-in-your-facebook-videos-for-2024/"><u>Unlocking the Potential of Harmonics in Your Facebook Videos for 2024</u></a></li>
+</ul></div>
 

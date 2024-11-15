@@ -1,7 +1,7 @@
 ---
 title: Successfully Installed GPU, Win Issue Fixed
-date: 2024-11-09T18:27:55.503Z
-updated: 2024-11-13T21:12:07.834Z
+date: 2024-11-12T17:09:41.987Z
+updated: 2024-11-14T21:38:08.043Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ Here’re the fixes for you to try. You don’t need to try them all; just work 
 
 **Note** : All the screenshots below are from Windows 10, but the fixes apply to Windows 8 & 7.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is Failed to create a graphics device?
 
 As the error message suggested, there is something wrong with your graphics card configurations, or with the programs related to graphics. This error is also displayed as**Failed to create graphics device**, or**Unable to create graphics device**.
@@ -51,18 +38,25 @@ As the error message suggested, there is something wrong with your graphics card
 
 As many errors and issues can be solved by restarting the system, it works like a charm for many users. Just**close your game**,**restart** **your PC**, and**open your game again**to see if it works properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 2: Uninstall your graphics card driver**
 
 If the error occurs again after restarting Windows, you can try reinstalling your graphics card to fix the error. 1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)** and**R**at the same time to invoke the Run command. 2) Type**devmgmt.msc**and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa0d3ef63ef1.png) 3) Double click**Display** **adapters**to expand it, and right click on your**graphics card device**, then select**Uninstall device**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10a4aacd66.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Check the box next to**Delete the driver software for this device**, then click**Uninstall**to confirm.
 
@@ -70,36 +64,24 @@ If the error occurs again after restarting Windows, you can try reinstalling you
 
 5) Restart your computer/laptop, then Windows will automatically install the video card driver for you. 6) Open your game again to see if it works now.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 3: Update your graphics driver**
 
 The missing or outdated graphics driver can also cause the error. You can try update your graphics card driver to**fix Failed to create a graphics device**. There are two ways you can update your keyboard driver:**manually**and**automatically**.**Manually update the driver**– You can update your video adapter driver manually by going to the**manufacturer’s website**of your graphics card, and searching for the**latest driver**for your video card. Make sure that the driver is matched with your Windows OS and your laptop model. This requires time and computer skills.**Automatically update the driver**– If you don’t have time or patience to manually update the driver, you can do that automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**Driver Easy will automatically recognize your Windows system and find the correct driver for your video adapter. You don’t need to risk downloading the wrong video card driver. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa0d53e5ec14.png) 3) Click the**Update**button next to the flagged graphics card device name to automatically download and install the correct version of those driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer and open your game to see if it works. These are the 3 easy ways to**fix Failed to create graphics device**in your Windows. If you have any questions or thoughts, feel free to comment below and we’ll see what more we can do to help.
@@ -121,22 +103,24 @@ The missing or outdated graphics driver can also cause the error. You can try up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-causing-bsod-on-windows-os/"><u>[Fix]: dxgkrnl.sys Causing BSOD on Windows OS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-embrace-your-journey-the-best-inspirational-cinematic-experience/"><u>[New] Embrace Your Journey The Best Inspirational Cinematic Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[New] In 2024, Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/erfect-pixels-selecting-best-cameras-for-yt-for-2024/"><u>[New] Perfect Pixels Selecting Best Cameras For YT for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-virtual-teamwork-made-simple-on-facebook-live-for-2024/"><u>[Updated] Virtual Teamwork Made Simple on Facebook Live for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-skype-into-zoom-meetings-made-simple/"><u>2024 Approved Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disabling-problematic-drivers-improves-mc-gameplay/"><u>Disabling Problematic Drivers, Improves MC Gameplay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-and-windows-blue-screen-error-fix/"><u>dxgkrnl.sys and Windows Blue Screen Error Fix</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-to-success-top-hashtags-for-6-figure-views-on-youtube-for-2024/"><u>Elevate to Success Top Hashtags for 6-Figure Views on YouTube for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/enhance-web-analytics-with-the-power-of-cookiebot-technology/"><u>Enhance Web Analytics with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-ui-controls-win10-screen-glitch-fixed/"><u>Enhanced UI Controls: Win10 Screen Glitch Fixed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-storing-image-frames-from-videos-on-windows-11/"><u>In 2024, Storing Image Frames From Videos on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-fixed-gpu-incompatibility-problems/"><u>Overwatch: Fixed GPU Incompatibility Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-for-when-your-epic-games-app-fails-to-load/"><u>Quick Solutions for When Your Epic Games App Fails to Load</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-standard-screen-aspect-ratio/"><u>Restoring Standard Screen Aspect Ratio</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversal-fix-for-inverted-displays-in-w11/"><u>Reversal Fix for Inverted Displays in W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-set-ideal-screen-resolution/"><u>Windows 11: Set Ideal Screen Resolution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-typography-online-a-curated-list-of-the-best-9-websites-for-innovative-texts/"><u>[New] Pioneering Typography Online A Curated List of The Best 9 Websites for Innovative Texts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-skys-boldest-workhorses-top-10-drones/"><u>[New] The Sky's Boldest Workhorses - Top 10 Drones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-precision-trimming-elevating-your-youtube-video-quality/"><u>[Updated] In 2024, Precision Trimming Elevating Your YouTube Video Quality</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fuse-melodies-into-your-youtube-digital-realm/"><u>2024 Approved Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct2d-not-active-armor-applied/"><u>Direct2D Not Active, Armor Applied</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-windows-10-screen-image-flip-fix/"><u>Enhancing Windows 10 Screen Image Flip Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10s-erroneous-code-c1900101/"><u>Fixing Windows 10'S Erroneous Code: C1900101</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxsystem-crash-on-windows-screen-patch-ready/"><u>GFXSystem Crash on Windows Screen (Patch Ready)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-charting-a-new-course-for-creative-vr-content/"><u>In 2024, Charting a New Course for Creative VR Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-dissecting-the-huawei-p10s-battery-life-and-efficiency/"><u>In 2024, Dissecting the Huawei P10’s Battery Life & Efficiency</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-stop-hp-screen-blinking/"><u>Methods to Stop HP Screen Blinking</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-all-things-about-adding-effects-in-kinemaster/"><u>New All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-quivering-windows-7-graphics/"><u>Quelling Quivering Windows 7 Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-stretched-screens-on-windows-os/"><u>Rectified Stretched Screens on Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-intermittent-hp-monitor-glow/"><u>Remedying Intermittent HP Monitor Glow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-against-why-organizations-banish-chatgpts-services/"><u>The Case Against: Why Organizations Banish ChatGPT's Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-evolution-and-relevance-of-4k-uhd-video/"><u>The Evolution and Relevance of 4K UHD Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-must-have-video-editing-software-for-macos-sierra-for-2024/"><u>Top 5 Must-Have Video Editing Software for macOS Sierra for 2024</u></a></li>
 </ul></div>
 
