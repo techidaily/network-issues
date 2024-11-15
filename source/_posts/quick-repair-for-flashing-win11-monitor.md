@@ -1,7 +1,7 @@
 ---
 title: Quick Repair for Flashing Win11 Monitor
-date: 2024-10-13T00:11:59.283Z
-updated: 2024-10-18T14:46:12.949Z
+date: 2024-11-08T20:51:33.875Z
+updated: 2024-11-13T19:57:44.061Z
 tags:
   - win11
   - win10
@@ -41,37 +41,17 @@ Here is how to change the monitor refresh rate:
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
@@ -93,6 +73,13 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -106,10 +93,10 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
@@ -122,25 +109,25 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
@@ -148,6 +135,13 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -219,24 +213,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-enhancing-your-facebook-experience-mastering-story-uploads/"><u>[New] 2024 Approved Enhancing Your Facebook Experience Mastering Story Uploads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ow-to-build-successful-youtube-advertisements-for-free/"><u>[New] How to Build Successful YouTube Advertisements for Free?</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>[New] In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-troubleshooting-techniques-for-sudden-facebook-live-freezes/"><u>[New] Troubleshooting Techniques for Sudden Facebook Live Freezes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-luminosity-spikes-on-dell-laptop/"><u>[Resolved] Luminosity Spikes on Dell Laptop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mysterious-rotation-of-videos-on-the-social-app/"><u>[Updated] Mysterious Rotation of Videos on the Social App</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/combatting-windows-11-screen-fluctuations/"><u>Combatting Windows 11 Screen Fluctuations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-dim-issue/"><u>How to Fix Lenovo Laptop Screen Dim Issue</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-best-of-the-best-in-drone-following-capabilities/"><u>In 2024, Best of the Best in Drone Following Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-directx-initialization-troubleshooting-tips-for-a-smooth-launch/"><u>Mastering DirectX Initialization: Troubleshooting Tips for a Smooth Launch</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/programming-proficiency-showdown-chatgpt-vs-gemini-the-ultimate-coding-challenge/"><u>Programming Proficiency Showdown: ChatGPT Vs. Gemini – The Ultimate Coding Challenge</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-vanished-screen-blackouts/"><u>Solving Vanished Screen Blackouts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-windows-7-backside-view-mismatch/"><u>Solving Windows 7 Backside View Mismatch</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/understanding-why-we-use-4k-super-hd-graphics/"><u>Understanding Why We Use 4K Super HD Graphics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-potential-with-nvidias-updated-win11-driver/"><u>Unleash Potential with NVIDIA's Updated Win11 Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/where-are-my-displays-in-windows-11/"><u>Where Are My Displays in Windows 11?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-interruptus-your-network-puzzle/"><u>Wi-Fi Interruptus: Your Network Puzzle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974543137-the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unleashing-video-power-the-galaxy-s8-in-4k/"><u>[New] Unleashing Video Power The Galaxy S8 in 4K</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unpacking-magix-video-editor-features-for-2024/"><u>[Updated] Unpacking MAGIX Video Editor Features for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-startup-steps-for-stream-money-in-periscope/"><u>2024 Approved Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-smart-8-hd-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Smart 8 HD? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-the-system-cutting-lag-time/"><u>Beat the System: Cutting Lag Time</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ensure-your-pets-never-miss-a-meal-with-the-advanced-arf-auto-feeder-system/"><u>Ensure Your Pets Never Miss a Meal with the Advanced Arf Auto-Feeder System</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-unresponsive-to-new-graphics-card/"><u>Monitor Unresponsive to New Graphics Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-switchable-graphics-issue-with-intel-and-nvidia-win10/"><u>Rectifying Switchable Graphics Issue with Intel & NVIDIA Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-screen-hiccups-on-windows-11/"><u>Resolving Screen Hiccups on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-spreadsheet-workflow-with-our-expert-advice-on-consolidating-two-excel-columns/"><u>Simplify Your Spreadsheet Workflow with Our Expert Advice on Consolidating Two Excel Columns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-curser-freeze-in-win10/"><u>Solve Curser Freeze in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-visual-capabilities-windows-plus-new-intel-hd-driver/"><u>Upgrade Visual Capabilities: Windows + New Intel HD Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-disconnects-and-frustrates-us/"><u>Wi-Fi Disconnects and Frustrates Us</u></a></li>
 </ul></div>
 

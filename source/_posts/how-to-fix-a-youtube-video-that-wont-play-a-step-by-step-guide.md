@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide"
-date: 2024-11-02T19:06:09.900Z
-updated: 2024-11-04T16:28:46.429Z
+date: 2024-11-12T16:51:53.798Z
+updated: 2024-11-13T22:57:10.049Z
 tags:
   - win11
   - win10
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 5. [**Delete the app data**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Update your browser**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 1: Check your Internet connection
 
  Sometimes poor Internet connection is behind this YouTube video black screen problem. So make sure your computer is well connected to a working Internet connection. Then re-launch your browser to see if this fixes the video not showing on YouTube issue.
@@ -64,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
@@ -88,31 +75,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play a video in YouTube to see if it works properly now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 4: Change the hardware acceleration
 
@@ -142,6 +108,20 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5822606a534.jpg)
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
 
  **I’m using Internet Explorer:** 
@@ -151,14 +131,21 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -174,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76707531fa7.jpg)
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
 
@@ -182,10 +176,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -202,10 +196,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 3. Google Chrome automatically detects if there’s an update available:
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
@@ -236,19 +230,24 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-advice-on-flawless-ipad-screen-captures/"><u>[New] Expert Advice on Flawless iPad Screen Captures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-1110-slow-internet/"><u>[SOLVED] Windows 11/10 Slow Internet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/armor-up-slowing-downloads/"><u>Armor Up! - Slowing Downloads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/automating-communication-a-complete-guide-to-planned-text-messages-on-your-iphone/"><u>Automating Communication: A Complete Guide to Planned Text Messages on Your iPhone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/best-free-software-for-transcoding-dvds-on-windows-1011-mp4-avi-and-wmv-formats-made-easy/"><u>Best Free Software for Transcoding DVDs on Windows 10/11 - MP4, AVI, and WMV Formats Made Easy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/failed-d3d-start-up-success-achieved/"><u>Failed D3D Start-Up: Success Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-intervention-overcome-opengl-flaw-with-nvidia/"><u>GPU Intervention: Overcome OpenGL Flaw with Nvidia</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-tackle-the-user-login-problems-in-counter-strike-global-offensive-a-5-step-guide/"><u>How to Tackle the User Login Problems in Counter-Strike Global Offensive - A 5 Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/making-the-right-choice-for-your-media-needs-dvds-vs-blu-rays-vs-digital-is-it-time-to-upgrade/"><u>Making the Right Choice for Your Media Needs: DVDs Vs. Blu-Rays Vs. Digital - Is It Time to Upgrade?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-update-intel-graphics-3000-for-windows-11/"><u>Swiftly Update Intel Graphics 3000 for Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-connection-how-to-tell-if-nintendo-switch-online-is-down/"><u>Troubleshooting Your Connection: How to Tell If Nintendo Switch Online Is Down</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-3-ways-to-download-youtubes-standardized-thumbnails/"><u>Unlock 3 Ways to Download YouTube’s Standardized Thumbnails</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-card-driver-restored-post-crash/"><u>Video Card Driver Restored Post Crash</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-iphone-techniques-for-stunning-scenery-shots/"><u>[New] Expert iPhone Techniques for Stunning Scenery Shots</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-achieving-teleportation-magic-illusions/"><u>[Updated] Achieving Teleportation Magic Illusions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-revolutionary-mac-screenshot-tools-a-five-step-guide-for-2024/"><u>[Updated] Revolutionary Mac Screenshot Tools A Five-Step Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/a-beginners-walkthrough-to-update-your-windows-machines-motherboard-drivers/"><u>A Beginner’s Walkthrough to Update Your Windows Machine's Motherboard Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blinking-error-screen-invisible/"><u>Blinking Error: Screen Invisible</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-and-comparisons-by-tom/"><u>Expert Hardware Analysis and Comparisons by Tom</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-update-error-code-0xc1900208-a-step-by-step-guide/"><u>How to Fix Windows 11 Update Error Code 0Xc1900208: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-thrustmaster-t300-racing-game-drivers-on-your-windows-10-or-11-pc/"><u>How to Get Thrustmaster T300 Racing Game Drivers on Your Windows 10 or 11 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-explained-ideals-and-implementation/"><u>Hugging Face Explained: Ideals and Implementation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-screen-visibility-in-lenovo-laptops/"><u>Improving Screen Visibility in Lenovo Laptops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-cost-free-image-refinement-toolkit/"><u>In 2024, Optimal, Cost-Free Image Refinement Toolkit</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/no-more-excuses-learn-any-language-today/"><u>No More Excuses - Learn Any Language Today!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quenched-flicker-phantom-screen-stabilized/"><u>Quenched Flicker Phantom: Screen Stabilized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-resolution-clearing-up-loot-crash-in-apex/"><u>Rapid Resolution: Clearing Up Loot Crash in Apex</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-amds-detection-driver-now-functions-on-win10/"><u>Smooth Sailing: AMD's Detection Driver Now Functions on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-hybrid-gpu-issues-nvidiaintel-fix-for-windows-10/"><u>Tackling Hybrid GPU Issues: NVIDIA/Intel Fix for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-boosted-by-amd-radeon-driver-v20/"><u>Windows 10 Gets Boosted by AMD Radeon Driver V2.0</u></a></li>
 </ul></div>
 

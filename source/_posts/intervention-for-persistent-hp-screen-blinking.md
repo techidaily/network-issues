@@ -1,7 +1,7 @@
 ---
 title: Intervention for Persistent HP Screen Blinking
-date: 2024-10-11T09:49:35.628Z
-updated: 2024-10-18T12:48:15.342Z
+date: 2024-11-07T23:46:12.646Z
+updated: 2024-11-13T16:03:28.202Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -62,6 +62,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -73,13 +80,6 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -101,13 +101,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 #### **I’m using Windows 7 or 8.1:**
@@ -120,13 +113,26 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -166,19 +172,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[Updated] Elevate Your YouTube Presence Strategic Tagging and Titling Techniques for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-tips-eliminate-signature-bg-in-minutes/"><u>[Updated] In 2024, Quick Tips Eliminate Signature Bg in Minutes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-computer-power-enabling-intel-graphics-compatibility/"><u>Boost Computer Power: Enabling Intel Graphics Compatibility</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-ipad-pro-and-macbook-pro-key-features-and-distinctions/"><u>Comparing iPad Pro and MacBook Pro: Key Features & Distinctions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-to-rl-streaming-setup-for-2024/"><u>Comprehensive Guide to RL Streaming Setup for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-toshiba-laptop-graphics-drivers-on-windows/"><u>Download & Update Toshiba Laptop Graphics Drivers on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-issue-no-signal-for-wireless-on-windows-10-pc/"><u>Fixed Issue: No Signal for Wireless on Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-not-recognizing-nvidia-video-hardware/"><u>Fixed: Windows Not Recognizing NVIDIA Video Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-cyberpunk-2077-wont-start-up/"><u>Fixing the Issue: Why Cyberpunk 2077 Won't Start Up</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hilarityhub-design-memes-with-ease-and-speed/"><u>In 2024, HilarityHub Design Memes with Ease and Speed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-enthralling-try-on-haul-videos/"><u>In 2024, Techniques for Enthralling Try-On Haul Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-sims-4-absence-of-display/"><u>Tackle Sims 4 Absence of Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-signal-slipping-away/"><u>Wi-Fi Signal Slipping Away</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-troubleshooting-offline-play-for-cod-cold-war/"><u>[FIXED] Troubleshooting Offline Play for CoD Cold War</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-speed-recording-tool-with-guided-soundtracks-for-2024/"><u>[Updated] High-Speed Recording Tool with Guided Soundtracks for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-iconic-video-titles-youtubes-most-watched-lore-for-2024/"><u>[Updated] Iconic Video Titles YouTube's Most-Watched Lore for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-repairing-broken-system-files-in-windows-10-11/"><u>Comprehensive Solutions for Repairing Broken System Files in Windows 10, 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-display-issue-windows-11-now-shows-fullscreen/"><u>Corrected Display Issue - Windows 11 Now Shows Fullscreen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-enhanced-support-for-windows-11/"><u>GeForce RTX210: Enhanced Support for Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>In 2024, Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-ace-3-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Ace 3? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-imovie-no-problem-top-5-free-online-video-editors/"><u>New In 2024, No iMovie? No Problem! Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-response-to-laptop-screen-horizontal-distortion-issues/"><u>Rapid Response to Laptop Screen Horizontal Distortion Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-stabilized-post-gpu-interruption/"><u>System Stabilized Post GPU Interruption</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-poco-x5-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Poco X5 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winstopscausedbynvidiaerror-now-fixed/"><u>WinStopsCausedByNvidiaError, Now Fixed</u></a></li>
 </ul></div>
 

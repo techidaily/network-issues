@@ -1,7 +1,7 @@
 ---
 title: "Enhanced UI Controls: Win10 Screen Glitch Fixed"
-date: 2024-09-13T01:18:43.472Z
-updated: 2024-09-15T02:42:55.146Z
+date: 2024-11-10T23:44:25.511Z
+updated: 2024-11-13T16:06:03.207Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -67,13 +74,34 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
@@ -100,12 +128,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-instagram-influencer-blueprint-from-few-to-a-thousand-fans/"><u>[New] 2024 Approved The Instagram Influencer Blueprint From Few to a Thousand Fans</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-soundbank-freeness-central/"><u>[New] FB Soundbank Freeness Central</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-economical-growth-methodology-subscribe-now/"><u>[New] In 2024, Economical Growth Methodology - Subscribe Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-will-2023-see-an-increase-in-televising-video-content-in-2024/"><u>[Updated] Will 2023 See an Increase in Televising Video Content, In 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discover-fresh-korean-drama-episodes-locate-and-download-them-without-payment/"><u>Discover Fresh Korean Drama Episodes - Locate & Download Them Without Payment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-gaming-nvidias-rtx210-win11-driver-upgrade/"><u>Elevate Gaming: NVIDIA's RTX210 Win11 Driver Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-incompatibility-resolved-in-recent-overwatch-patch/"><u>GPU Incompatibility Resolved in Recent Overwatch Patch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-creating-an-eye-catching-collage/"><u>In 2024, Step-by-Step Guide to Creating an Eye-Catching Collage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-gen-windows-driver-amd-radeon-graphics-drivers-v20/"><u>Next-Gen Windows Driver: AMD Radeon Graphics Drivers V2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-display-settings-updates/"><u>Resolved Display Settings Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-dark-display-on-lenovo-notebook/"><u>Resolving Dark Display on Lenovo Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-windows-11-high-res-settings/"><u>Streamline Windows 11 High-Res Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-ais-mystery-inside-black-box-mechanics/"><u>Unveiling AI's Mystery: Inside Black Box Mechanics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-fix-achieved-desired-fullscreen/"><u>Win11 Screen Fix: Achieved Desired Fullscreen</u></a></li>
+</ul></div>
 

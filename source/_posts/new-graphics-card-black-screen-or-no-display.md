@@ -1,7 +1,7 @@
 ---
 title: New Graphics Card Black Screen or No Display
-date: 2024-10-11T12:43:19.809Z
-updated: 2024-10-18T05:46:32.367Z
+date: 2024-11-07T00:09:29.239Z
+updated: 2024-11-13T20:30:52.511Z
 tags:
   - win11
   - win10
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check the cable and PCIe connections
@@ -47,13 +53,20 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. See if an additional power supply is required
@@ -73,6 +86,13 @@ If this is not the problem, please move on.
  If your new graphics card can’t connect to your monitor without a converter, please buy a new cable instead.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Boot with the integrated display card
 
@@ -102,10 +122,10 @@ If this is not the problem, please move on.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -115,6 +135,13 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -127,10 +154,16 @@ If this is not the problem, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
@@ -145,13 +178,6 @@ Here are the things you should pay extra attention to:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -165,13 +191,6 @@ Here are the things you should pay extra attention to:
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
@@ -182,13 +201,6 @@ Here are the things you should pay extra attention to:
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -219,18 +231,16 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/etting-up-video-size-on-youtube-complete-tutorial/"><u>[New] Setting Up Video Size on YouTube Complete Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-picks-9-innovative-mobile-video-conferencing-tools-iphoneandroid-for-2024/"><u>[New] Top Picks 9 Innovative Mobile Video Conferencing Tools iPhone/Android for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-10-best-free-passport-photo-maker-online-and-desktop/"><u>[Updated] 10 Best Free Passport Photo Maker Online and Desktop</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-snap-and-save-professional-screen-recording-11-version/"><u>[Updated] Snap & Save Professional Screen Recording 11-Version</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-potential-with-the-q500-drone/"><u>2024 Approved Unleashing Potential with the Q500 Drone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-dealing-with-missing-or-unavailable-wininetdll-files/"><u>Effective Solutions: Dealing with Missing or Unavailable wininet.dll Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-auto-gpt-vs-chatgpt-what-sets-them-apart/"><u>Exploring the World of Auto-GPT vs ChatGPT: What Sets Them Apart?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instantly-elevate-your-systems-intellg3000-on-win11/"><u>Instantly Elevate Your System's IntellG3000 on Win11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-setup-no-issues-encountered-during-install/"><u>NVIDIA Setup: No Issues Encountered During Install</u></a></li>
-<li><a href="https://network-issues.techidaily.com/purge-latency-in-win1110-with-easy-fixes/"><u>Purge Latency in Win11/10 with Easy Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-conflict-geforce-and-windows-11-compatibility/"><u>Resolving Conflict: GeForce & Windows 11 Compatibility</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-download-royalty-free-videos-from-these-top-websites/"><u>Updated 2024 Approved Download Royalty-Free Videos From These Top Websites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-download-youtube-srt-subtitles-with-3-actionable-ways/"><u>[New] 2024 Approved How to Download YouTube SRT Subtitles with 3 Actionable Ways?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-memories-facebook-look-back-editing-steps/"><u>[New] 2024 Approved Unlocking Memories Facebook Look Back Editing Steps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>[Updated] In 2024, Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-amd-glitches-tarkov/"><u>Eliminate AMD Glitches, Tarkov</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-networking-adding-a-wireless-lan-card-in-windowsmacos/"><u>Enhance Networking: Adding a Wireless LAN Card in Windows/macOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-video-display-laptop-to-tv-hdmi-misalignment/"><u>No Video Display - Laptop to TV HDMI Misalignment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-gpu-fan-non-operational-state/"><u>Remedying GPU Fan Non-Operational State</u></a></li>
+<li><a href="https://fox-place.techidaily.com/schritt-fur-schritt-anleitung-zum-ausfuhren-eines-hitzeklons-auf-einem-physischen-server-oder-in-einer-vmware-umgebung/"><u>Schritt-Für-Schritt Anleitung Zum Ausführen Eines Hitzeklons Auf Einem Physischen Server Oder in Einer VMware-Umgebung</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-to-absent-screen-behavior-on-devices/"><u>Solutions to Absent Screen Behavior on Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-zero-cost-digital-picture-upscaler/"><u>Top-Tier Zero-Cost Digital Picture Upscaler</u></a></li>
 </ul></div>
 

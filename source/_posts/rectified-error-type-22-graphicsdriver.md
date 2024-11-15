@@ -1,7 +1,7 @@
 ---
 title: Rectified Error Type 22, GraphicsDriver
-date: 2024-10-17T11:55:56.005Z
-updated: 2024-10-18T14:13:52.207Z
+date: 2024-11-12T17:45:06.332Z
+updated: 2024-11-13T17:09:02.596Z
 tags:
   - win11
   - win10
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -60,13 +53,6 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
@@ -79,21 +65,28 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -116,6 +109,13 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -137,24 +137,24 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieving-precision-with-obs-implementing-timer-functionality/"><u>[New] 2024 Approved Achieving Precision with OBS Implementing Timer Functionality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-conquer-the-social-scene-top-tools-for-post-and-follower-boost/"><u>[New] Conquer the Social Scene Top Tools for Post and Follower Boost</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-step-by-step-precise-screen-recording-on-dell-laptops-for-2024/"><u>[New] Step-by-Step Precise Screen Recording on Dell Laptops for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gpu-update-panel-unblocked/"><u>[Resolved] GPU Update Panel Unblocked</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-transforming-vision-into-visual-storytelling-with-windows-11-techniques-for-2024/"><u>[Updated] Transforming Vision Into Visual Storytelling with Windows 11 Techniques for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/compress-oversized-screen-in-win10/"><u>Compress Oversized Screen in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crystal-clear-view-lost-in-darkness/"><u>Crystal Clear View: Lost in Darkness?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-reversed-display-orientation-on-win-11/"><u>Fixing Reversed Display Orientation on Win 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-windows-server-srver-2003-data-protection-tools-top-picks/"><u>Free Windows Server ˈsɛrvər 2003 Data Protection Tools: Top Picks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets/"><u>In 2024, Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-software-compatible-with-windows-11-get-your-free-copy/"><u>Latest Intel USB 3.0 Software Compatible with Windows 11 - Get Your Free Copy!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lost-connection-lost-time/"><u>Lost Connection, Lost Time</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quash-amd-graphical-faux-pas/"><u>Quash AMD Graphical Faux Pas</u></a></li>
-<li><a href="https://win-news.techidaily.com/three-effective-methods-to-stop-your-pc-from-self-deleting-files/"><u>Three Effective Methods to Stop Your PC From Self-Deleting Files</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-free-windows-7-backup-solutions-compatible-with-32-bit-and-64-bit-systems/"><u>Top Free Windows 7 Backup Solutions: Compatible with 32-Bit & 64-Bit Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10s-new-era-smooth-video-and-audio-playback/"><u>Win10's New Era: Smooth Video and Audio Playback</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-why-my-instagram-videos-turned-upside-down-whats-going-on-in-2024/"><u>[New] Why My Instagram Videos Turned Upside Down – What's Going On, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-list-the-10-leading-vimeo-downloaders-web/"><u>2024 Approved Essential List The 10 Leading Vimeo Downloaders Web</u></a></li>
+<li><a href="https://network-issues.techidaily.com/an-unknown-direct-x-error-has-occurred-on-league-of-legends-solved/"><u>An Unknown Direct X Error Has Occurred on League of Legends [Solved]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/breakdown-of-features-in-the-latest-microsoft-surface-laptop-setting-new-standards/"><u>Breakdown of Features in the Latest Microsoft Surface Laptop - Setting New Standards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-right-apple-laptop-in-depth-comparison-of-macbook-pro-vs-macbook-air-techradar/"><u>Choosing the Right Apple Laptop: In-Depth Comparison of MacBook Pro Vs. MacBook Air | TechRadar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-screen-fix-for-fall-creators-release/"><u>Dark Screen Fix for Fall Creators' Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-amd-radeon-r9-faults-on-windows-10/"><u>Fixing AMD Radeon R9 Faults on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-a-free-150-apple-perk-when-purchasing-mac-or-ipad-for-classroom-learning-techzn/"><u>Get A Free $150 Apple Perk When Purchasing Mac or iPad for Classroom Learning | TechZN</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/imgur-meme-generator/"><u>Imgur Meme Generator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-pc-vr-headsets-ranked/"><u>In 2024, Best PC VR Headsets Ranked</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mkvtoolnix-mac-a-user-friendly-video-editing-solution-for-2024/"><u>MKVtoolnix Mac A User-Friendly Video Editing Solution for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-screen-flickering-troubleshooting/"><u>Navigating Through Screen Flickering Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-code-1900101-during-windows-installation/"><u>Overcoming Obstacle Code 1900101 During Windows Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-youtubes-background-glitches-with-precision/"><u>Overcoming YouTube's Background Glitches with Precision</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/productivity-hacks-unleashing-the-power-of-chatgpt-in-professional-life/"><u>Productivity Hacks: Unleashing the Power of ChatGPT in Professional Life</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solutions-for-amds-eft-glitch/"><u>Swift Solutions for AMD's EFT Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-on-windows-11/"><u>Troubleshooting C1900101 on Windows 11</u></a></li>
 </ul></div>
 

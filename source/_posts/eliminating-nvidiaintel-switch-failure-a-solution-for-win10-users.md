@@ -1,7 +1,7 @@
 ---
 title: "Eliminating NVIDIA/Intel Switch Failure: A Solution for Win10 Users"
-date: 2024-10-29T20:15:28.959Z
-updated: 2024-11-04T18:24:50.814Z
+date: 2024-11-12T20:17:20.204Z
+updated: 2024-11-13T17:35:17.284Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -37,25 +44,11 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -98,10 +98,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -116,26 +116,26 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -157,22 +157,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-master-your-tiktok-income-leading-money-calculators/"><u>[New] 2024 Approved Master Your TikTok Income Leading Money Calculators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-play-to-pause-save-games-via-obs/"><u>[New] From Play to Pause Save Games via OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>[New] In 2024, Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-extend-gopro-battery-hours/"><u>2024 Approved Strategies to Extend GoPro Battery Hours</u></a></li>
-<li><a href="https://os-tips.techidaily.com/automate-a-new-vibe-change-iphones-background-regularly/"><u>Automate a New Vibe - Change iPhones Background Regularly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/bypassing-avi-format-errors-in-adobe-premiere-pro-a-comprehensive-guide/"><u>Bypassing AVI Format Errors in Adobe Premiere Pro - A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disconnected-display-laptop-to-tv-unresponsive-via-hdmi/"><u>Disconnected Display: Laptop to TV Unresponsive via HDMI</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dispelling-screen-shadow-phenomenon/"><u>Dispelling Screen Shadow Phenomenon</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-blinding-flicker-on-your-acer-laptop-screen/"><u>Fixing Blinding Flicker on Your Acer Laptop Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>In 2024, Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimized-graphics-engine-nvidia-210-ready-for-win10-users/"><u>Optimized Graphics Engine: Nvidia 210 Ready For WIN10 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapidly-upgrade-intel-g3000-in-win11-systems/"><u>Rapidly Upgrade Intel G3000 in Win11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-bypass-windows-admin-installation-restriction-error/"><u>Steps to Bypass Windows 'Admin Installation Restriction' Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-hp-display-flicker-and-blinking/"><u>Tackling HP Display Flicker and Blinking</u></a></li>
-<li><a href="https://network-issues.techidaily.com/titans-triumph-god-of-war-fixes/"><u>Titans Triumph: God of War Fixes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-no-installation-required-10-free-online-video-compressors/"><u>Updated No Installation Required 10 Free Online Video Compressors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-fixed-graphic-device-creation-errors/"><u>WinOS: Fixed Graphic Device Creation Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-critical-channels-for-asmr-lovers/"><u>[New] In 2024, Critical Channels for ASMR Lovers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[New] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-eye-candy-roundup-the-best-and-worst-of-8k-tv-tech-for-2024/"><u>[Updated] Eye Candy Roundup The Best and Worst of 8K TV Tech for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-maximizing-stability-the-art-of-tripod-placement-in-vlogs/"><u>2024 Approved Maximizing Stability The Art of Tripod Placement in Vlogs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y100t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y100t Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-driver-elimination-from-windows/"><u>Effortless Graphics Driver Elimination From WIndows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/freed-upfront-to-vr-headset-settings/"><u>Freed Upfront to VR Headset Settings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-diversifying-from-googles-ar-enhancements/"><u>In 2024, Diversifying From Google's AR Enhancements</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-online-music-potential-with-imovie-and-youtube/"><u>In 2024, Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-detected-overwatch-patch-successful/"><u>No Compatible Graphics Detected - Overwatch Patch Successful</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-lava-storm-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Lava Storm 5G has been deleted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refusing-to-flicker-screen-failure/"><u>Refusing to Flicker: Screen Failure</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolving-the-issue-when-an-excel-spreadsheet-vanishes-post-save/"><u>Resolving the Issue When an Excel Spreadsheet Vanishes Post-Save</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-remediation-tips-standby-gfx-with-nvidia/"><u>Simple Remediation Tips: Standby GFX with NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essence-of-4k-super-hd-resolution/"><u>The Essence of 4K Super HD Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974891586-update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
 </ul></div>
 

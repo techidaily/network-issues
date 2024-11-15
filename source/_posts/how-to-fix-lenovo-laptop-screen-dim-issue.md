@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-10-26T01:50:02.413Z
-updated: 2024-10-29T16:56:40.873Z
+date: 2024-11-07T23:48:06.866Z
+updated: 2024-11-13T21:49:16.438Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -80,31 +73,38 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -127,22 +127,17 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-guide-to-top-notch-webcam-filming/"><u>[New] In 2024, Step-by-Step Guide to Top-Notch Webcam Filming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-5-essential-browser-recording-apps-unveiled/"><u>[Updated] 5 Essential Browser Recording Apps Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-steps-for-documenting-online-meetings-for-2024/"><u>[Updated] Advanced Steps for Documenting Online Meetings for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-harmonizing-sound-dynamics-in-ableton/"><u>[Updated] Harmonizing Sound Dynamics in Ableton</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-multimedia-software-vlcs-stand-against-mx-for-2024/"><u>Comparing Multimedia Software VLC's Stand Against MX for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/detailed-steps-to-correct-errors-when-your-system-cant-find-d3dx9-28dll/"><u>Detailed Steps to Correct Errors When Your System Can't Find D3dx9_ 28.dll</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-nullified-in-wincom-framework/"><u>Error Nullified in WinCOM Framework</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exclusive-magazine-insert-special-edition-cd-and-dvd-bundle-from-digiarty-software/"><u>Exclusive Magazine Insert: Special Edition CD & DVD Bundle From DigiArty Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-guide-why-wont-farming-simulator-22-launch-find-out-here/"><u>Fix Guide: Why Won't Farming Simulator 22 Launch? Find Out Here</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-recovery-addressing-loot-issues-in-legends/"><u>Quick Recovery: Addressing Loot Issues in Legends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-bdr-errors-on-ws-21-ws-10-ws-8-ws-7/"><u>Resolved: BDR Errors on WS-21, WS-10, WS-8, WS-7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-intermittent-backlit-beam-in-device/"><u>Resolved: Intermittent Backlit Beam in Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/speedy-solution-eliminate-loot-errors-in-apex/"><u>Speedy Solution: Eliminate Loot Errors in Apex</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-visual-boundary-stability/"><u>Streamline Visual Boundary Stability</u></a></li>
-<li><a href="https://network-issues.techidaily.com/syncing-geforce-7025-with-win11-hardware-standard/"><u>Syncing GeForce 7025 with Win11 Hardware Standard</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-free-extended-xbox-game-pass-ultimate-access-at-just-36-exclusive-tips-and-tricks/"><u>Unlock Free Extended Xbox Game Pass Ultimate Access at Just $36: Exclusive Tips and Tricks!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974328874-zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elite-highlight-extravaganza-iosandroid-instagram-coverage-tools/"><u>[New] 2024 Approved Elite Highlight Extravaganza IOS/Android Instagram Coverage Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-troubleshooted-resolved-no-amd-graphics-on-windows-10/"><u>[SYSTEM TROUBLESHOOTED] Resolved No AMD Graphics on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-perfect-videos-in-total-quietude/"><u>[Updated] How To Record Perfect Videos in Total Quietude</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-vlog-with-these-elite-12-cameras-for-2024/"><u>[Updated] Revolutionize Your Vlog with These Elite 12 Cameras for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-screen-display-on-windows-7/"><u>Correcting Inverted Screen Display on Windows 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-error-code-0xc0000185-insights-into-troubleshooting-and-solutions-for-a-smooth-fix/"><u>Decoding Error Code 0xC0000185: Insights Into Troubleshooting and Solutions for a Smooth Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-create-a-flash-flipping-book-with-flipbuilder-can-individual-pages-be-transformed/"><u>How to Create a Flash Flipping Book with FlipBuilder - Can Individual Pages Be Transformed?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-savings-during-jackerys-holiday-offers-up-to-40-off-portable-charging-units-cyber-monday-specials/"><u>Maximize Savings During Jackery's Holiday Offers: Up to 40% Off Portable Charging Units - Cyber Monday Specials!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reestablishing-gpu-fan-movement/"><u>Reestablishing GPU Fan Movement</u></a></li>
 </ul></div>
 

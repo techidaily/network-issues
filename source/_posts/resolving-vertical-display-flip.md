@@ -1,7 +1,7 @@
 ---
 title: Resolving Vertical Display Flip
-date: 2024-10-12T01:07:26.041Z
-updated: 2024-10-17T20:37:23.080Z
+date: 2024-11-08T16:31:18.032Z
+updated: 2024-11-13T23:12:11.792Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -50,30 +50,17 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This should restore your laptop screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -88,14 +75,21 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -119,21 +113,15 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-your-missing-wi-fi-adapter-in-windows-11/"><u>[FIXED] Your Missing Wi-Fi Adapter in Windows 11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-primes-trending-series-twitters-choice-2023/"><u>[Updated] 2024 Approved Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simplifying-tasks-with-ez-grabber-techniques/"><u>[Updated] 2024 Approved Simplifying Tasks with EZ Grabber Techniques</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-decoding-the-art-of-youtube-playlist-recalibration/"><u>[Updated] Decoding the Art of YouTube Playlist Recalibration</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-formulating-a-singular-hashtag-for-your-tiktok-sphere/"><u>[Updated] Formulating a Singular Hashtag for Your TikTok Sphere</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-quality-recording-of-your-roblox-journeys-on-mac-for-2024/"><u>[Updated] How-To Quality Recording of Your Roblox Journeys on Mac for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/aimp-pro-541-wmsps-advanced-desktop-companion-for-2024/"><u>AIMP Pro 5.41 WMSP's Advanced Desktop Companion for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blending-windows-10-with-nvidia-performance/"><u>Blending Windows 10 with NVIDIA Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-stability-rectifying-civ-5-problems/"><u>Enhancing Stability: Rectifying Civ 5 Problems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expedite-lexmark-printer-driver-adaptations/"><u>Expedite Lexmark Printer Driver Adaptations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gl-anomaly-detected-and-resolved-by-nvidia-driver-fixes/"><u>GL Anomaly Detected & Resolved by NVIDIA Driver Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-device-is-unreachable-error-in-windows/"><u>Mastering the Art of Rectifying Device Is Unreachable Error in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719973974168-radeon-ready-all-good/"><u>Radeon Ready, All Good!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-operation-fallout-4-on-computer/"><u>Seamless Operation: Fallout 4 on Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-amd-freesync-system/"><u>Troubleshooting Non-Functional AMD FreeSync System</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-list-best-livestream-shopping-apps-of/"><u>Updated Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rom-template-to-tutorial-gamers-channel-design/"><u>[New] From Template to Tutorial Gamers' Channel Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-video-driver-fixes-acknowledged/"><u>[Resolved] Video Driver Fixes Acknowledged</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ghostly-glimpses-video-review/"><u>[Updated] Ghostly Glimpses Video Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amend-unseen-display-unit-errors/"><u>Amend Unseen Display Unit Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ancien-cadre-chez-hp-et-microsoft-robert-youngjohns-devient-le-nouveau-president-du-conseil-dadministration-dabbyy/"><u>Ancien Cadre Chez HP Et Microsoft, Robert Youngjohns Devient Le Nouveau Président Du Conseil D'Administration D'ABBYY</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-erratic-screen-behavior-pro-7/"><u>Banishing Erratic Screen Behavior (Pro 7)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comprendre-le-debit-binaire-video-guide-complet-pour-les-amateurs-de-multimedia/"><u>Comprendre Le Débit Binaire Vidéo : Guide Complet Pour Les Amateurs De Multimédia</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-interactive-ebooks-a-comprehensive-guide-to-creating-a-seamless-photo-slideshow-with-flipbuilder/"><u>Mastering Interactive Ebooks: A Comprehensive Guide to Creating a Seamless Photo Slideshow with FlipBuilder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-anthem-lags-quick-solutions/"><u>Tackling Anthem Lags: Quick Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-contender-innovative-leaks-reveal-googles-unique-tv-streaming-solution-beyond-the-traditional-chromecast/"><u>Unveiling the New Contender: Innovative Leaks Reveal Google's Unique TV Streaming Solution, Beyond the Traditional Chromecast</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved OpenGL Issue on Nvidia Graphics Hardware
-date: 2024-10-13T00:54:05.937Z
-updated: 2024-10-18T08:58:09.869Z
+date: 2024-11-09T16:48:51.277Z
+updated: 2024-11-13T16:50:17.953Z
 tags:
   - win11
   - win10
@@ -37,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -66,13 +53,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -80,13 +60,6 @@ Here’s how you can do it:
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -104,6 +77,13 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -117,10 +97,10 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
@@ -128,7 +108,21 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
@@ -158,14 +152,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-tips-for-nvidia-recorded-content-for-2024/"><u>[New] Advanced Tips for NVIDIA Recorded Content for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-brilliant-visuals-uncover-the-magic-in-these-7-grades/"><u>2024 Approved Brilliant Visuals Uncover the Magic in These 7 Grades</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-miniscreen-capture-scrutiny-and-replacements/"><u>2024 Approved MiniScreen Capture Scrutiny and Replacements</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/a-comprehensive-guide-to-online-podcast-recording/"><u>A Comprehensive Guide to Online Podcast Recording</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blackout-issue-after-graphics-card-update/"><u>Blackout Issue After Graphics Card Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dropped-offline-the-internets-lament/"><u>Dropped Offline: The Internet's Lament</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-potential-of-chatgpt-to-devise-safe-personal-training-plans/"><u>Evaluating the Potential of ChatGPT to Devise Safe Personal Training Plans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-direct3d-initialization-failure/"><u>Overcoming Direct3D Initialization Failure</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974836333-swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-characters-animation-basics-in-wmm/"><u>[New] 2024 Approved Crafting Characters Animation Basics in WMM</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>[New] 2024 Approved Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-transforming-ideas-into-visuals-the-template-method-for-impressive-tiktoks/"><u>[New] 2024 Approved Transforming Ideas Into Visuals The Template Method for Impressive TikToks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-youtubes-potential-the-25-step-guide/"><u>[New] Unlocking YouTube's Potential The 25-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-11s-best-pc-webcam-recorders-reviewed/"><u>[Updated] In 2024, Windows 11'S Best PC Webcam Recorders Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-bug-busters-efficiently-resolve-crashes/"><u>Apex Bug Busters: Efficiently Resolve Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/glitch-uncovered-nvidia-opengl-repaired/"><u>Glitch Uncovered: Nvidia OpenGL Repaired</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-address-screen-reflections-in-acer-notebooks/"><u>How to Address Screen Reflections in Acer Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-media-streaming-in-newest-microsoft-operating-system/"><u>Perfecting Media Streaming in Newest Microsoft Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seeking-stability-in-wireless-signal/"><u>Seeking Stability in Wireless Signal</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wpt-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wpt file documents online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-guide-to-tunefabs-screen-capturing-for-2024/"><u>The Complete Guide to Tunefab's Screen Capturing for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-1011-enable-and-setup-external-wi-fi-interface-driver/"><u>Windows 10/11 - Enable and Setup External Wi-Fi Interface Driver</u></a></li>
 </ul></div>
 

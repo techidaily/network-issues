@@ -1,7 +1,7 @@
 ---
 title: "Sideways Display: Problem Solved"
-date: 2024-10-31T19:46:15.524Z
-updated: 2024-11-04T20:42:42.381Z
+date: 2024-11-07T20:31:24.161Z
+updated: 2024-11-13T18:07:39.782Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -41,6 +34,13 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -50,23 +50,22 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -82,14 +81,21 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -113,24 +119,15 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-persona-3-reload-crashing-on-pc/"><u>[Fixed] Persona 3 Reload Crashing on PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smilesphere-explore-limitless-meme-landscapes/"><u>[New] SmileSphere Explore Limitless Meme Landscapes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-experience-adding-vimeo-videos-for-2024/"><u>[Updated] The Instagram Experience Adding Vimeo Videos for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-hits-for-tiktok-stardom-for-2024/"><u>[Updated] The Ultimate Hits for TikTok Stardom for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-understanding-youtubes-content-crafting-environment/"><u>[Updated] Understanding YouTube's Content Crafting Environment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/a-comprehensive-critique-of-rayman-legends-masterfully-crafted-side-scrolling-fun/"><u>A Comprehensive Critique of Rayman Legends - Masterfully Crafted Side-Scrolling Fun!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/best-in-class-untethered-phone-options-available-in-202e/"><u>Best-in-Class Untethered Phone Options Available in 202E</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-the-most-advanced-tracking-running-wristbands-of-2024/"><u>Discover the Most Advanced Tracking Running Wristbands of 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diving-into-the-lenovo-ideapad-320-journey-a-marriage-of-elegance-mobility-and-time-tested-keyboard-craftsmanship/"><u>Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-performance-with-new-graphics-cards-tips-and-tricks/"><u>Enhancing Performance with New Graphics Cards: Tips and Tricks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-time-lapse-a-guide-with-gopro-studio-for-2024/"><u>Mastering Time-Lapse A Guide with GoPro Studio for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perplexity-ai-the-secret-weapon-in-ai-driven-google-search-youre-missing-out-on/"><u>Perplexity AI: The Secret Weapon in AI-Driven Google Search You're Missing Out On</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-weaving-your-own-generated-text-models-into-any-chatgpt-exchange/"><u>Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-ultimate-guide-to-enjoying-your-favorite-tunes-with-nests-cutting-edge-audio-experience/"><u>The Ultimate Guide to Enjoying Your Favorite Tunes with Nest's Cutting-Edge Audio Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-star-wars-saga-sequentially-on-disneyplus-stream/"><u>The Ultimate Guide: Viewing Star Wars Saga Sequentially on Disney+ Stream</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-monoprices-value-graphic-pen-display-quality-meets-affordability/"><u>Unveiling Monoprice's Value Graphic Pen Display – Quality Meets Affordability</u></a></li>
-<li><a href="https://network-issues.techidaily.com/your-comprehensive-guide-to-tablet-buying-by-assessing-display-area-and-portable-design/"><u>Your Comprehensive Guide to Tablet Buying by Assessing Display Area and Portable Design</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/youtube-to-mp3-2024-12/"><u>YouTube to MP3 轉換器: 2024年最佳 12 款適用的音訊轉換軟件推荐單</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-leading-brands-car-compatible-viewing-devices/"><u>[New] In 2024, Leading Brands' Car-Compatible Viewing Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>[New] Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>[Updated] In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-zebra-mpls-errors-in-windows-11/"><u>Address Zebra MPLS Errors in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974604348-boost-intel-graphics-3000-performance-with-a-simple-update-in-windows-10/"><u>Boost Intel Graphics 3000 Performance with a Simple Update in Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cut-the-frustration-fix-your-camera-zooms-2024-fix-guide/"><u>Cut the Frustration, Fix Your Camera! ZOOM's 2024 Fix Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-6s-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 6s from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-the-ways-to-share-youtube-listings/"><u>In 2024, Navigating the Ways to Share YouTube Listings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-missing-wi-fi-support-in-win10-environment/"><u>Restoring Missing Wi-Fi Support in Win10 Environment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-to-top-tier-graphics-with-newest-intel-hd-graphics-version-for-windows-10/"><u>Upgrade to Top-Tier Graphics with Newest Intel HD Graphics Version for Windows 10.</u></a></li>
 </ul></div>
 

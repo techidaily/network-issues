@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert: Glitchy OpenGL Error Now Corrected"
-date: 2024-10-27T19:25:44.907Z
-updated: 2024-10-30T02:11:38.198Z
+date: 2024-11-08T22:11:37.637Z
+updated: 2024-11-14T00:14:08.557Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -67,13 +60,6 @@ Here’s how you can do it:
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -89,7 +75,21 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -109,24 +109,24 @@ See how to do it:
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -152,22 +152,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ready-for-sub4sub-start-with-our-expert-advice/"><u>2024 Approved Ready for Sub4sub? Start with Our Expert Advice</u></a></li>
-<li><a href="https://network-issues.techidaily.com/balance-screens-horizontal-boundaries/"><u>Balance Screen's Horizontal Boundaries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>[New] Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-nanofilm-whiz/"><u>[Updated] 2024 Approved NanoFilm Whiz</u></a></li>
 <li><a href="https://network-issues.techidaily.com/bdr-optimization-across-windows-versions-1087/"><u>BDR Optimization Across Windows Versions 10/8/7</u></a></li>
 <li><a href="https://network-issues.techidaily.com/bright-windows-clean-views-ahead/"><u>Bright Windows, Clean Views Ahead</u></a></li>
 <li><a href="https://network-issues.techidaily.com/bringing-back-screen-color-fall-update-fix/"><u>Bringing Back Screen Color: Fall Update Fix</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-apowersofts-latest-update-the-new-version-40-of-streaming-audio-recorder/"><u>Download Apowersoft's Latest Update: The New Version 4.0 of Streaming Audio Recorder</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/from-windows-11-32-bit-to-a-64-bit-operating-system/"><u>From Windows 11 (32-Bit) to a 64-Bit Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-15-free-software-removal-tools/"><u>Discover the Ultimate Selection of 15 Free Software Removal Tools!</u></a></li>
 <li><a href="https://network-issues.techidaily.com/graphic-hardware-not-suitable-for-current-overwatch-version/"><u>Graphic Hardware Not Suitable for Current Overwatch Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210125306-how-to-fix-failure-configuring-windows-updates-error/"><u>How to Fix Failure Configuring Windows Updates Error</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-gfx-210-driver-enhancement-on-w10-os/"><u>NVIDIA GFX-210 Driver Enhancement on W10 OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y200e-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y200e 5G Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://network-issues.techidaily.com/qualcomm-qca61x4-windows-10-integration-success/"><u>Qualcomm QCA61x4 Windows 10 Integration Success</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210411315-9781722526993-seedtime-and-harvest/"><u>Seedtime and Harvest | Free Book</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/sims-4-gametime-the-recorders-handbook-for-2024/"><u>Sims 4 Gametime The Recorder's Handbook for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-for-cpugpu-fan-synchronization/"><u>Strategies for CPU/GPU Fan Synchronization</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721459395199-trouble-with-siri-suggestions-on-your-iphone-discover-the-quick-fix/"><u>Trouble with Siri Suggestions on Your iPhone? Discover the Quick Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-wow-lagging-issues-what-you-need-to-know/"><u>Troubleshooting and Fixing WoW Lagging Issues - What You Need to Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revolutionizing-display-quality-refreshed-intel-drivers-in-windows-7-systems/"><u>Revolutionizing Display Quality: Refreshed Intel Drivers in Windows 7 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secrets-to-amplifying-gopro-power-life-span/"><u>Secrets to Amplifying GoPro Power Life Span</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/setting-the-mood-fading-to-black/"><u>Setting the Mood Fading To Black</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiled-top-5-visual-treats-on-social-medias-giant-for-2024/"><u>Unveiled Top 5 Visual Treats on Social Media's Giant for 2024</u></a></li>
 </ul></div>
 

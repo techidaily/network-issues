@@ -1,7 +1,7 @@
 ---
 title: Fixing Win11 Blank Display Post-Creators
-date: 2024-10-12T23:17:33.930Z
-updated: 2024-10-18T05:43:08.312Z
+date: 2024-11-08T18:15:24.285Z
+updated: 2024-11-13T23:18:07.073Z
 tags:
   - win11
   - win10
@@ -25,16 +25,10 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -42,10 +36,16 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
@@ -53,10 +53,10 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -65,16 +65,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,24 +91,19 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/modified-advanced-display-missing-in-windows-11/"><u>[Modified] Advanced Display Missing in Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comparative-study-of-youtubes-and-dailymentions/"><u>[New] In 2024, Comparative Study of YouTubes and DailyMentions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-elusive-display-options/"><u>[Resolve] Elusive Display Options</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-your-inner-comedian-9gag-meme-creation-guide/"><u>2024 Approved Unleash Your Inner Comedian 9GAG Meme Creation Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-compreenhensive-guide-to-everyones-gpt-4/"><u>A Compreenhensive Guide to Everyone's GPT-4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-100-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor 100 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-the-end-of-winrts-complications/"><u>Debugged: The End of WinRTS Complications</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/erstellen-von-filmen-und-videos-einfach-verstehen-windows-movie-maker-kostenlose-version-abrufen-profi-tipps-and-tricks/"><u>Erstellen Von Filmen Und Videos Einfach Verstehen: Windows Movie Maker Kostenlose Version Abrufen - Profi Tipps & Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-recommendations-the-ultimate-list-of-5-premium-video-editors-unveiled/"><u>Expert Recommendations: The Ultimate List of 5 Premium Video Editors Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/explaining-enigmatic-x-failure-in-league-epics/"><u>Explaining Enigmatic X Failure in League Epics</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-latest-trend-ray-ban-stories-revealed/"><u>Facebook's Latest Trend: Ray-Ban Stories Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-tecno-spark-10-4g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Tecno Spark 10 4G?</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-unveiling-10-innovative-audio-processing-platforms-for-scalable-performance-for-2024/"><u>New Unveiling 10 Innovative Audio Processing Platforms for Scalable Performance for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-barrier-win10-and-nvidia/"><u>Overcoming Compatibility Barrier: Win10 & Nvidia</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-rage-of-ares-rigidities/"><u>Resolved: Rage of Ares Rigidities</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-flickering-monitors-in-win7/"><u>Stabilizing Flickering Monitors in Win7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-troubleshoot-ignored-nvidiaamd-card/"><u>Steps to Troubleshoot Ignored NVIDIA/AMD Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-to-prevent-acer-screen-shimmer/"><u>Strategies to Prevent Acer Screen Shimmer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[New] 2024 Approved Dividing Opinions Is Mirrorless Better than DSLR for Vids?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-highlighting-twitvideos-twitters-viral-video-trends/"><u>[Updated] 2024 Approved Highlighting TwitVideos Twitter's Viral Video Trends</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-selected-10-best-gimbals-for-smartphone-and-dslr-cameras/"><u>[Updated] Expertly Selected 10 Best Gimbals for Smartphone & DSLR Cameras</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-cards-without-directx-support/"><u>AMD Cards Without DirectX Support</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028096365-dvdiso/"><u>DVDのコピープロテクトを解除してISOファイル作成手順</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-image-transformation-with-polarr-editors-power/"><u>In 2024, Ultimate Image Transformation with Polarr Editor's Power</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kingdom-come-caught-in-queue/"><u>Kingdom Come Caught in Queue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sims-4-documentation-cutting-edge-methods-to-preserve-gaming-experiences/"><u>Sims 4 Documentation Cutting-Edge Methods to Preserve Gaming Experiences</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-lenovo-display-glitches/"><u>Tackling Lenovo Display Glitches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/understanding-facebook-reels-and-their-production-techniques/"><u>Understanding Facebook Reels and Their Production Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-twists-new-twitter-scheme-exposed-and-innovative-meta-verification-rollout/"><u>Unveiling the Latest Twists: New Twitter Scheme Exposed & Innovative Meta Verification Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-cant-find-wi-fi-driver-solved/"><u>Win10 Can't Find Wi-Fi Driver, Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-update-features-enhanced-graphics-for-amd-hd-6950/"><u>Windows 11 Update Features Enhanced Graphics for AMD HD 6950</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-ui-freeze-up-graphics-fix-pending/"><u>Windows UI Freeze-Up, Graphics Fix (Pending)</u></a></li>
 </ul></div>
 

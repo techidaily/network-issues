@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet"
-date: 2024-10-29T20:13:52.918Z
-updated: 2024-11-04T18:28:30.161Z
+date: 2024-11-12T19:45:37.416Z
+updated: 2024-11-13T16:37:52.662Z
 tags:
   - win11
   - win10
@@ -63,10 +63,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 2 – Run the network troubleshooter
@@ -82,22 +82,8 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-2.jpg)
 3. Scroll down and click**Network Adapter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-3.jpg)
 4. Click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-4.jpg)
 
@@ -107,18 +93,18 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://www.drivereasy.com/wp-content/uploads/2022/04/network-diagnostic.png)
 2. The network troubleshooter will then run.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Apply any fix if it finds any to see if it helps.
 
  Wait and see if this tool helps you locate the problem and fix it. If not, go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 3 – Update your network drivers
 
@@ -133,10 +119,24 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
 
@@ -145,16 +145,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 4 – Reboot modem
@@ -185,10 +179,16 @@ Hope this trick works for you. If not, continue to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 6 – Refresh IP address
@@ -204,10 +204,16 @@ Hope this trick works for you. If not, continue to the next solution.
 4. **Restart** your computer and launch Zoom for a test.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -233,22 +239,18 @@ Hope this trick works for you. If not, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-tutorial-for-speech-transcription-in-word/"><u>[New] A Step-by-Step Tutorial for Speech Transcription in Word</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-skyborne-a-deep-dive-into-h501s-x4/"><u>2024 Approved Next-Gen Skyborne A Deep Dive Into H501S X4</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blending-windows-10-with-nvidia-performance/"><u>Blending Windows 10 with NVIDIA Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/deactivating-incessant-led-glare/"><u>Deactivating Incessant LED Glare</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dive-into-english-grammars-depth-with-9-essential-hints-from-an-experienced-esl-expert/"><u>Dive Into English Grammar's Depth with 9 Essential Hints From an Experienced ESL Expert</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diy-solutions-to-youtube-green-screen-anomalies/"><u>DIY Solutions to YouTube Green Screen Anomalies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-stability-rectifying-civ-5-problems/"><u>Enhancing Stability: Rectifying Civ 5 Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gl-anomaly-detected-and-resolved-by-nvidia-driver-fixes/"><u>GL Anomaly Detected & Resolved by NVIDIA Driver Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-watching-streaming-services-like-netflix-on-the-portable-switch-device/"><u>Guide to Watching Streaming Services Like Netflix on the Portable Switch Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-enhances-everyday-living-a-nine-point-guide/"><u>How ChatGPT Enhances Everyday Living: A Nine-Point Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-simulated-reality-ills-strategies-and-tips/"><u>In 2024, Avoiding Simulated Reality Ills Strategies and Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-challenge-when-installing-windows-11/"><u>Overcoming C1900101 Challenge When Installing Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719973974168-radeon-ready-all-good/"><u>Radeon Ready, All Good!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-best-bandicam-mac-alternatives-top-5-tools/"><u>The Best Bandicam Mac Alternatives [Top 5 Tools]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-premier-selection-of-chatbot-initiation-prompts-curated-from-githubs-best-contributions/"><u>The Premier Selection of Chatbot Initiation Prompts Curated From GitHub's Best Contributions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-amd-freesync-system/"><u>Troubleshooting Non-Functional AMD FreeSync System</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>[New] A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-failed-to-load-hardware-monitor-driver/"><u>[SOLVED] Failed to Load Hardware Monitor Driver</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>[Updated] The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-the-buffering-blues/"><u>Banish the Buffering Blues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/detailed-look-logitechs-elite-4k-webcam-review-for-2024/"><u>Detailed Look Logitech’s Elite 4K Webcam Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-freeform-as-a-revolutionary-idea-generating-technique/"><u>Discover the Power of Freeform as a Revolutionary Idea-Generating Technique .</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-fix-for-amd-in-tarkov/"><u>Fast-Fix for AMD in Tarkov</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-chatgpt-on-mobile-a-comprehensive-guide-for-android-and-iphone-owners/"><u>Get Started with ChatGPT on Mobile - A Comprehensive Guide for Android & iPhone Owners</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-gpu-drivers-removal-on-windows/"><u>Mastering GPU Drivers Removal on Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-12-best-online-animation-makers-to-create-amazing-videos-for-2024/"><u>New 12 Best Online Animation Makers to Create Amazing Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-a60s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel A60s Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-mystery-of-missing-wireless-on-windows-11/"><u>Unveiling: The Mystery of Missing Wireless on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-go-to-guide-for-micromobility-significant-milestnones-fresh-information-rumors-and-comprehensive-coverage/"><u>Your Go-To Guide for Micromobility: Significant Milestnones, Fresh Information, Rumors & Comprehensive Coverage</u></a></li>
 </ul></div>
 

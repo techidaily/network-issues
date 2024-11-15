@@ -1,7 +1,7 @@
 ---
 title: Nvidia & Intel Graphic Card Harmony Achieved on Win11
-date: 2024-10-16T04:39:51.114Z
-updated: 2024-10-17T23:04:29.320Z
+date: 2024-11-10T19:03:27.429Z
+updated: 2024-11-13T19:50:50.361Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -38,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -51,15 +58,22 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -91,25 +105,11 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -127,16 +127,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -157,15 +157,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-role-of-tags-in-boosting-video-popularity/"><u>[New] 2024 Approved The Role of Tags in Boosting Video Popularity</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-navigate-the-metaverse-with-these-7-key-technologies/"><u>2024 Approved Navigate the Metaverse with These 7 Key Technologies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/a-comprehensive-critique-of-rayman-legends-masterfully-crafted-side-scrolling-fun/"><u>A Comprehensive Critique of Rayman Legends - Masterfully Crafted Side-Scrolling Fun!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/die-besten-13-youtube-umwandlungen-in-mp3-format-effizientes-konvertieren-mithilfe-von-movavi/"><u>Die Besten 13 YouTube-Umwandlungen in MP3 Format - Effizientes Konvertieren Mithilfe Von Movavi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diving-into-the-lenovo-ideapad-320-journey-a-marriage-of-elegance-mobility-and-time-tested-keyboard-craftsmanship/"><u>Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-dota-2-wont-start-and-loading-screen-fixes/"><u>Effective Solutions for Dota 2 Won’t Start & Loading Screen Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-performance-with-new-graphics-cards-tips-and-tricks/"><u>Enhancing Performance with New Graphics Cards: Tips and Tricks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/schlank-und-effizient-beheben-sie-startende-probleme-bei-windows-mit-zwei-praktischen-losungen/"><u>Schlank Und Effizient: Beheben Sie Startende Probleme Bei Windows Mit Zwei Praktischen Lösungen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-ultimate-guide-to-enjoying-your-favorite-tunes-with-nests-cutting-edge-audio-experience/"><u>The Ultimate Guide to Enjoying Your Favorite Tunes with Nest's Cutting-Edge Audio Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/virtual-reality-streaming-who-to-watch-for-2024/"><u>Virtual Reality Streaming Who to Watch for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maintaining-softness-fading-effects-in-fl-studio-mixes/"><u>[New] Maintaining Softness Fading Effects in FL Studio Mixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-explore-2023-finding-out-what-youve-lately-watched-on-fb/"><u>[Updated] Explore 2023 Finding Out What You've Lately Watched on Fb</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-shift-from-rgb-to-srgb-in-digital-imaging-for-2024/"><u>[Updated] The Shift From Rgb to Srgb in Digital Imaging for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-premium-online-vectors-image-repositories-for-2024/"><u>10 Premium Online Vectors Image Repositories for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake/"><u>Correcting Aspect Ratio Mistake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-black-screen-on-latest-windows-update/"><u>Fix for BLACK SCREEN on Latest Windows Update</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-review-best-text-plugins-for-your-after-effects-projects/"><u>In 2024, A Review Best Text Plugins For Your After Effects Projects</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-low-quality-textures-for-island-adventure/"><u>Rectifying Low-Quality Textures for Island Adventure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-obstacles-fixing-drivers-of-r9-on-win10/"><u>Removing Obstacles: Fixing Drivers of R9 on Win10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-messages-on-icloud-using-top-performing-methods/"><u>Reviving Your Messages on iCloud Using Top-Performing Methods</u></a></li>
 </ul></div>
 

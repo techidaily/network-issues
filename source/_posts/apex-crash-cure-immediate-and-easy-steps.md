@@ -1,7 +1,7 @@
 ---
 title: "Apex Crash Cure: Immediate & Easy Steps"
-date: 2024-10-31T20:48:55.270Z
-updated: 2024-11-04T18:49:32.815Z
+date: 2024-11-11T22:18:17.883Z
+updated: 2024-11-13T23:42:54.860Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Or
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
@@ -63,10 +63,10 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -76,6 +76,19 @@ Or
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -100,16 +113,10 @@ _You can do it for free if you like, but it’s partly manual._
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
@@ -154,13 +161,6 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -179,19 +179,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
@@ -207,6 +194,13 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -231,19 +225,22 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-masterclass-in-length-management-youtube-vids-for-2024/"><u>[Updated] Masterclass in Length Management YouTube Vids for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-finding-influential-voices-in-your-space-for-2024/"><u>[Updated] Mastering the Art of Finding Influential Voices in Your Space for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-10-ps5-external-hard-drives-you-can-find-for-2024/"><u>[Updated] Top 10 Ps5 External Hard Drives You Can Find for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-guide-repairing-non-functional-ethernet-adapters-on-win10-and-win7-systems/"><u>Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-locate-and-restore-the-elusive-msvcr70dll-file/"><u>How to Locate and Restore the Elusive MSVCR70.DLL File</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-video-showdown-determining-the-best-among-obs-and-twitch-hubs/"><u>In 2024, Video Showdown Determining the Best Among OBS and Twitch Hubs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/integrating-photos-and-videos-a-guide-to-using-storyremix-in-windows-11-for-2024/"><u>Integrating Photos & Videos A Guide to Using StoryRemix in Windows 11 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pairing-oculus-quest-2-with-mobile-a-comprehensive-walkthrough/"><u>Pairing Oculus Quest 2 with Mobile: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/resolving-lg-tv-playback-problems-a-step-by-step-guide-for-mkv-videos/"><u>Resolving LG TV Playback Problems: A Step-by-Step Guide for MKV Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-the-gtx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screenhalt-on-graphicwinos-interface-under-repair/"><u>ScreenHalt on GraphicWinOS Interface (Under Repair)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-and-solving-wired-network-connection-problems-in-windows-117/"><u>Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M34 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vitamin-ds-pivotal-role-in-immune-regulation-insights-into-innate-and-adaptive-responses/"><u>Vitamin D's Pivotal Role in Immune Regulation: Insights Into Innate and Adaptive Responses</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-step-by-step-guide-to-rewind-a-livestream-with-these-ten-approaches-for-2024/"><u>[New] A Step-by-Step Guide to Rewind a Livestream with These Ten Approaches for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-leading-steadicam-choices-for-improved-dslr-footage/"><u>[New] In 2024, Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquering-the-complexities-of-360-video-post-production-in-premiere/"><u>[Updated] Conquering the Complexities of 360° Video Post-Production in Premiere</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-evaluating-active-8-does-it-match-best-recording-standards-in-2024/"><u>[Updated] Evaluating Active 8 - Does It Match Best Recording Standards, In 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-launch-attempt-succeeded-after-fixed/"><u>Direct3D Launch Attempt Succeeded After Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-setup-fixed-errors/"><u>GeForce Setup Fixed Errors</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-error-cleared-no-further-action-needed/"><u>GPU Error Cleared: No Further Action Needed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974452598-horizontal-monitor-setup-done/"><u>Horizontal Monitor Setup - Done</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a38-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A38 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>In 2024, Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/odyssey-optimized-for-odin/"><u>Odyssey Optimized for Odin</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-issues-with-unsupported-amd-freesync/"><u>Resolving Issues with Unsupported AMD FreeSync</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-unverified-device-drivers-in-windows/"><u>Step-by-Step Guide: Correcting Unverified Device Drivers in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-glitchy-opengl-error-now-corrected/"><u>TDR Alert: Glitchy OpenGL Error Now Corrected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveil-the-hidden-screen-brightness-lenovo/"><u>Unveil the Hidden Screen Brightness, Lenovo</u></a></li>
 </ul></div>
 

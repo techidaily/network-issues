@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-10-29T21:03:17.975Z
-updated: 2024-11-04T17:39:09.436Z
+date: 2024-11-08T16:02:16.825Z
+updated: 2024-11-13T16:39:19.396Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Or
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
@@ -62,9 +62,23 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
@@ -88,23 +102,9 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -152,6 +152,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
 #### Fix 5: Install the latest Apex Legends patch
@@ -167,10 +174,10 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Wait until you see the following message. Then click**Close** .
@@ -188,19 +195,6 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -225,20 +219,21 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-action-sequels-the-best-games-like-grand-theft-auto/"><u>[Updated] 2024 Approved Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-weibo-stars-quick-chats-on-snapchat-for-2024/"><u>[Updated] Weibo Stars Quick Chats on Snapchat for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correction-achieved-partial-window-view-all-w10-missing/"><u>Correction Achieved: Partial Window View, All W10 Missing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-p40plus-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove P40+ PIN</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-list-iphone-video-recording-hacks/"><u>In 2024, A-List iPhone Video Recording Hacks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-luminosity-calmed-issue-over/"><u>Laptop Luminosity Calmed - Issue Over</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-unseen-on-tv-via-hdmi/"><u>Laptop Screen Unseen on TV via HDMI</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mitigating-screenscape-disturbances-pro-7/"><u>Mitigating Screenscape Disturbances (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974854754-revitalize-graphic-performance-seamlessly-update-intel-hd-graphics-3000-driver-for-w10/"><u>Revitalize Graphic Performance: Seamlessly Update Intel HD Graphics 3000 Driver for W10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719292309532-revolutionize-incompatibility-on-windows-without-tools/"><u>Revolutionize Incompatibility on Windows without Tools!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-reactivate-your-dysfunctional-bose-speakers/"><u>Step-by-Step Solutions to Reactivate Your Dysfunctional Bose Speakers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successfully-installed-gpu-win-issue-fixed/"><u>Successfully Installed GPU, Win Issue Fixed</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>Updated Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/what-is-4k-resolution/"><u>What Is 4K Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-halo-tt-fail-to-launch-dx12-windows-error/"><u>[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-cross-media-sharing-power-twitterfacebook/"><u>[Updated] 2024 Approved Unlocking Cross-Media Sharing Power (Twitter/Facebook)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>2024 Approved Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-master-class-extracting-and-saving-vimeo-videos/"><u>2024 Approved Master Class Extracting and Saving Vimeo Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-buffering-issues-win11-streams-now-fluid/"><u>Ending Buffering Issues: Win11 Streams Now Fluid</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-become-a-headline-hero-proven-strategies-in-focus/"><u>In 2024, Become a Headline Hero Proven Strategies in Focus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimize-frame-rates-for-maximum-gameplay-immersion/"><u>Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connection-hurdles-in-the-world-of-league-of-legends/"><u>Overcoming Connection Hurdles in the World of League of Legends</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quickly-update-your-amd-ryzen-cufflinks-5-2600-drivers-with-these-tips/"><u>Quickly Update Your AMD Ryzen Cufflinks 5 2600 Drivers With These Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-win11-display-with-no-more-twinkles/"><u>Revitalize Win11 Display with No More Twinkles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-stability-achieved-for-dell-systems/"><u>Screen Stability Achieved for Dell Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-integration-of-intelnvidia-gpu-in-win11-resolved/"><u>Seamless Integration of Intel/Nvidia GPU in Win11 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-defeat-wow-bug-519/"><u>Strategies to Defeat WoW Bug 519</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/swift-transformation-how-to-change-your-avi-videos-into-compatible-quicktime-mov-format/"><u>Swift Transformation: How to Change Your AVI Videos Into Compatible QuickTime MOV Format</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transparency-achieved-demystifying-hidden-errors-affecting-direct-x-in-league/"><u>Transparency Achieved: Demystifying Hidden Errors Affecting Direct X in League</u></a></li>
 </ul></div>
 

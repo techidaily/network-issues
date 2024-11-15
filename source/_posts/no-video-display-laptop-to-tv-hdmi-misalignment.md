@@ -1,7 +1,7 @@
 ---
 title: No Video Display - Laptop to TV HDMI Misalignment
-date: 2024-09-08T20:24:44.310Z
-updated: 2024-09-15T02:48:04.252Z
+date: 2024-11-08T21:11:53.745Z
+updated: 2024-11-13T18:43:36.857Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
 Now check and see if your laptop to TV by HDMI works.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -57,14 +64,20 @@ The difference between each mode is as follows:
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
- Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 ### Fix 3: Update available drivers
 
@@ -84,15 +97,23 @@ The difference between each mode is as follows:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
@@ -115,5 +136,22 @@ The difference between each mode is as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-no-network-interface-for-wireless-in-windows-10/"><u>[FIXED] No Network Interface for Wireless in Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-protecting-privacy-during-youtube-to-mp4-conversion/"><u>[New] 2024 Approved Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-best-picture-editing-dynamic-wallpaper-finder/"><u>[New] In 2024, Best Picture Editing Dynamic Wallpaper Finder</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-top-techniques-for-turning-yt-order-upside-down-for-2024/"><u>[New] The Top Techniques for Turning YT Order Upside-Down for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-comprehensive-mac-recorder-plus-audio/"><u>[Updated] 2024 Approved Comprehensive Mac Recorder Plus Audio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premier-11-sound-capture-gadgets/"><u>[Updated] Premier 11 Sound Capture Gadgets</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-visual-leap-the-newest-win10-compatible-driver-from-nvidia-210/"><u>A Visual Leap: The Newest WIN10-Compatible Driver From Nvidia 210</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dark-souls-iii-update-eliminating-the-persistent-crash-issues-once-and-for-all/"><u>Dark Souls III Update: Eliminating the Persistent Crash Issues Once and For All</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-nvidia-unresponsive-now-functional/"><u>Driver NVidia Unresponsive, Now Functional</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-v29e-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo V29e FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-civ-5-crashing-issues-on-pc/"><u>Fix CIV 5 Crashing Issues On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995040674-how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-found-partial-window-views-all-w10-windows-missing/"><u>Resolution Found: Partial Window Views, All W10 Windows Missing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-post-creators-patching/"><u>Win11 Resume Post-Creators Patching</u></a></li>
+</ul></div>
 

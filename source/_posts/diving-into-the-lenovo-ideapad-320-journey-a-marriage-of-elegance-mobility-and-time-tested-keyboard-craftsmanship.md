@@ -1,7 +1,7 @@
 ---
 title: "Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
-date: 2024-11-01T20:44:02.911Z
-updated: 2024-11-04T16:37:41.889Z
+date: 2024-11-08T21:34:39.285Z
+updated: 2024-11-13T16:20:26.417Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
@@ -42,10 +42,16 @@ Lifewire / Emily Isaacs
 4.4
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Sculpt Ergonomic Keyboard
@@ -72,18 +78,18 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -94,10 +100,10 @@ Lifewire / Emily Isaacs
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Batteries required**
@@ -105,13 +111,6 @@ Lifewire / Emily Isaacs
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -132,6 +131,13 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -187,24 +193,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-explore-2023-finding-out-what-youve-lately-watched-on-fb/"><u>[New] Explore 2023 Finding Out What You've Lately Watched on Fb</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-expert-strategies-for-vocal-identity-on-instagram/"><u>[New] In 2024, Expert Strategies for Vocal Identity on Instagram</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-quick-fixes-to-design-delight-canvas-top-10-tips/"><u>[Updated] 2024 Approved Quick Fixes to Design Delight Canva's Top 10 Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-full-sphere-videos-on-iphone-ideal-for-facebook/"><u>[Updated] Crafting Full-Sphere Videos on iPhone, Ideal for Facebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvd-usb-type-c-surface-hubmacbook-chromebook-pixel/"><u>如何適配DVD以兼容 USB Type-C 裝置：Surface Hub、MacBook 及 Chromebook Pixel</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-4k-video-sharpness/"><u>Demystifying 4K Video Sharpness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/light-up-dark-screens-on-lenovo-notebooks/"><u>Light Up Dark Screens on Lenovo Notebooks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mend-screen-blurring-issues/"><u>Mend Screen Blurring Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-blank-display-on-electronic-devices/"><u>Navigating Blank Display on Electronic Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-resolution-of-windows-store-error-0x80073d26/"><u>Navigating the Resolution of Windows Store Error 0X80073D26</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/overcoming-the-top-4-barriers-in-your-gpt-account/"><u>Overcoming the Top 4 Barriers in Your GPT Account</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-bluescreen-and-recover-cursor/"><u>Resolve BlueScreen & Recover Cursor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-persistent-monitor-blankouts/"><u>Resolving Persistent Monitor Blankouts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-windows-7-back-image-issue/"><u>Resolving Windows 7 Back Image Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-moving-your-contacts-converting-excel-data-for-use-in-outlook/"><u>Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/securing-perfect-images-on-pc-check-out-these-top-5-tools/"><u>Securing Perfect Images on PC? Check Out These Top 5 Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-transforming-audio-files-from-wav-to-mp3-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming Audio Files From WAV to MP3 Using VLC Media Player</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-civ-5-freezes-on-computer/"><u>Troubleshooting Civ 5 Freezes on Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/turbocharge-anthem-performance/"><u>Turbocharge Anthem Performance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-tips-for-trending-topic-inquiry-on-instagram-stories/"><u>[New] In 2024, Quick Tips for Trending Topic Inquiry on Instagram Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-top-ten-webcam-enhancers-master-stream-quality/"><u>[New] In 2024, The Top-Ten Webcam Enhancers Master Stream Quality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-infusing-youtube-soundtracks-within-multimedia/"><u>[New] Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-overcoming-internet-barriers-in-cod-cold-war/"><u>[SOLVED] Overcoming Internet Barriers in CoD Cold War</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>[Updated] In 2024, Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-latest-in-video-capturing-apeaksoft-2023-edition-analysis/"><u>[Updated] In 2024, The Latest in Video Capturing Apeaksoft 2023 Edition Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-desktopmobile-communication-alternatives-to-zoom-for-2024/"><u>[Updated] Prime Desktop/Mobile Communication Alternatives to Zoom for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-vivo-x-fold-2-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Vivo X Fold 2.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-fix-for-smooth-video-viewing/"><u>Immediate Fix for Smooth Video Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimal-troubleshooting-guide-dormant-gpu-display/"><u>Minimal Troubleshooting Guide: Dormant GPU Display</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safeguarding-your-privacy-erasing-iphone-and-ipad-contents-from-afar/"><u>Safeguarding Your Privacy: Erasing iPhone & iPad Contents From Afar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-running-videos-on-updated-windows-11-systems/"><u>Smooth-Running Videos on Updated Windows 11 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-stabilizing-acer-lcd/"><u>Solutions for Stabilizing Acer LCD</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-strategies-for-harnessing-the-power-of-chatgpts-visual-ai-capabilities/"><u>Top 8 Strategies for Harnessing the Power of ChatGPT's Visual AI Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Instant Solution to Diagonal Screen Issues
-date: 2024-09-09T19:55:08.605Z
-updated: 2024-09-14T19:07:20.513Z
+date: 2024-11-12T20:22:19.789Z
+updated: 2024-11-13T23:38:01.848Z
 tags:
   - win11
   - win10
@@ -40,15 +40,36 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -75,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
@@ -108,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[New] Creating Memorable Beginnings IMovie Tips for YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-foremost-gallery-storage-solutions/"><u>[New] Foremost Gallery Storage Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-increasing-clarity-and-detail-in-team-meets/"><u>2024 Approved Increasing Clarity and Detail in Team Meets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974863177-enhance-your-systems-graphical-power-with-a-quick-intel-graphics-3000-update-on-w10/"><u>Enhance Your System's Graphical Power with a Quick Intel Graphics 3000 Update on W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-recovered-after-driver-malfunction-fix/"><u>Graphics Recovered After Driver Malfunction Fix</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-intel-drivers-refresh-in-windows-7-os/"><u>Mastering the Art of Intel Drivers Refresh in Windows 7 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-load-times-in-game-development-3d/"><u>Reducing Load Times in Game Development (3D)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-corrective-actions-with-undetected-gpus/"><u>Steps for Corrective Actions with Undetected GPUs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Tablets - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-steps-to-resolve-c1900101-in-windows-11/"><u>Troubleshooting Steps to Resolve C1900101 in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-hidden-black-screens/"><u>Unveiling Hidden Black Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-hugging-face-understanding-its-purpose-and-applications/"><u>Unveiling Hugging Face: Understanding Its Purpose & Applications</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone-for-2024/"><u>Updated Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updated-graphics-hardware-now-supports-overwatch/"><u>Updated Graphics Hardware Now Supports Overwatch</u></a></li>
+</ul></div>
 

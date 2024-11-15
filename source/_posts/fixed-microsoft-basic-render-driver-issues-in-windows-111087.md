@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Microsoft Basic Render Driver Issues in Windows 11/10/8/7"
-date: 2024-09-11T07:09:39.783Z
-updated: 2024-09-14T17:30:01.047Z
+date: 2024-11-12T19:17:05.729Z
+updated: 2024-11-13T16:29:08.214Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -45,6 +52,14 @@ Here’s how to do it:
 2. In Device Manager, double click**Display adapters** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
@@ -53,10 +68,10 @@ Here’s how to do it:
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
@@ -82,10 +97,10 @@ Here’s how to do it:
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
@@ -106,5 +121,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-star-citizen-crash-on-pc-directx-hurdle/"><u>[CORRECTED] Star Citizen Crash on PC - DirectX Hurdle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-enhancing-synchronization-between-cameras-and-obs/"><u>[New] 2024 Approved Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-shopback-up-specialists-judgment-for-2024/"><u>[Updated] ShopBack Up Specialists' Judgment for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-youtube-captions-3-easy-methods-of-srt-extraction/"><u>2024 Approved Capturing YouTube Captions 3 Easy Methods of SRT Extraction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-common-video-editing-green-screen-failures-on-youtube/"><u>Avoiding Common Video Editing Green Screen Failures on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/code-43-graphics-card-diagnosed/"><u>Code 43: Graphics Card Diagnosed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-supported-freesync-connection/"><u>Correcting Non-Supported FreeSync Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-disaster-to-delight-windows-minecraft-no-more-crashes/"><u>Drive Disaster to Delight: Windows Minecraft No More Crashes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-and-restore-mic-functionality-during-google-meet-sessions-on-windows-11-and-10/"><u>Fix and Restore Mic Functionality During Google Meet Sessions on Windows 11 & 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-compact-guide-to-creating-viral-music-on-youtube/"><u>In 2024, The Compact Guide to Creating Viral Music on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/innovative-acoustic-link-for-speakers-for-2024/"><u>Innovative Acoustic Link for Speakers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-easily-install-latest-drivers-for-your-lenovos-power-unit/"><u>Quick Fix: How To Easily Install Latest Drivers For Your Lenovo's Power Unit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-monitor-refresh-rate-issues/"><u>Repair Monitor Refresh Rate Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-update-graphics-card-regains-functionality/"><u>Repair Update: Graphics Card Regains Functionality</u></a></li>
+<li><a href="https://win-online.techidaily.com/simplify-storage-transfer-and-protect-your-outlook-emails-with-onedrive/"><u>Simplify Storage: Transfer and Protect Your Outlook Emails with OneDrive</u></a></li>
+</ul></div>
 

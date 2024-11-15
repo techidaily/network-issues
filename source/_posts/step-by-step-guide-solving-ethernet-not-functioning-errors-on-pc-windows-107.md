@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2024-11-03T20:22:50.361Z
-updated: 2024-11-04T18:47:43.124Z
+date: 2024-11-06T16:43:14.907Z
+updated: 2024-11-13T19:23:04.769Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 3: Update the network card driver
 
  The connection problem can be caused by faulty network drivers. To fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with Driver Easy. 
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
@@ -93,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 5: Make sure the Ethernet is enabled
 
  After trying the tips above, if the problem persists, check if the Ethernet is disabled.
@@ -103,25 +96,25 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -138,10 +131,10 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -149,6 +142,13 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -171,22 +171,24 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-rust-legacy-2-not-starting-dx12-compatibility-hurdle/"><u>[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-battlefield-v-update-crash-xbox-directx-conflict/"><u>[FIXED] Battlefield V Update Crash - Xbox DirectX Conflict</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-get-fb-videos-down-as-mp4-swiftly-and-simply-for-2024/"><u>[New] Get FB Videos Down as MP4 – Swiftly & Simply for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximize-your-mobile-top-10-free-image-enhancement-tools/"><u>[New] Maximize Your Mobile Top 10 Free Image Enhancement Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-gear-for-ultimate-vr-glove-experience/"><u>[New] Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>[New] Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-all-about-youtube-micro-videos/"><u>[Updated] In 2024, All About YouTube Micro Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-windows-display-skewness-issues/"><u>Corrected Windows Display Skewness Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-init-failure-issue-now-addressed/"><u>D3D Init Failure: Issue Now Addressed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/detected-and-armored-opengl-bug-in-nvidia-driver-armor/"><u>Detected & Armored: OpenGL Bug in Nvidia Driver Armor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-lcd-precision-with-a-tweak/"><u>Enhance LCD Precision with a Tweak</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-k11-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo K11 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-strides-fixing-anthem-stops/"><u>Swift Strides: Fixing Anthem Stops</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-home-energy-storage-solutions-industry-experts-verdicts-techinsights/"><u>Top-Rated Home Energy Storage Solutions - Industry Experts' Verdicts | TechInsights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unravelled-perplexing-x-error-on-league-of-legends/"><u>Unravelled: Perplexing X-Error on League of Legends</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar/"><u>[New] 2024 Approved Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-making-yourself-laugh-with-snapchats-animated-filters/"><u>[New] 2024 Approved Making Yourself Laugh with Snapchat's Animated Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods-for-2024/"><u>[New] Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nter-the-world-of-online-promotion-exclusive-free-youtube-banner-access-for-2024/"><u>[New] Enter the World of Online Promotion Exclusive Free YouTube Banner Access for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-edge-precision-in-display/"><u>Balance Edge Precision in Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comwin-harmony-achieved-post-update/"><u>ComWin Harmony Achieved Post-Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-low-brightness-display-problems-with-lenovo/"><u>Correcting Low-Brightness Display Problems with Lenovo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-iphone-videos-time-lapse-masterclass/"><u>Elevate iPhone Videos Time-Lapse Masterclass</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enabling-hyper-v-on-windows-10-the-complete-guide-with-installation-steps/"><u>Enabling Hyper-V on Windows 10 – The Complete Guide with Installation Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-angle-adjustment-successful/"><u>Laptop Angle Adjustment - Successful</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-call-top-saving-opportunities-on-gaming-products-for-best-october-prime-day-2eve-up-to-1k-off/"><u>Last Call: Top Saving Opportunities on Gaming Products for Best October Prime Day 2Eve - Up to $1K Off!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/never-ending-wi-fi-troubleshooting/"><u>Never-Ending Wi-Fi Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/powering-through-intel-graphics-updates-win-7-edition-insights-and-tips/"><u>Powering Through Intel Graphics Updates: Win 7 Edition Insights and Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restarting-asus-for-webcam-activation/"><u>Restarting Asus for Webcam Activation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-gpu-shuffling-now-fixes-apply-to-win11/"><u>Say Goodbye to GPU Shuffling - Now Fixes Apply to Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-factors-contributing-to-the-escalation-of-generative-ai-security-challenges/"><u>Top 8 Factors Contributing to the Escalation of Generative AI Security Challenges</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-editing-essentials-how-to-resize-and-crop-videos-for-2024/"><u>Updated Video Editing Essentials How to Resize and Crop Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-interrupted-by-nvidia-error-no-longer-halted/"><u>Windows Interrupted By NVIDIA Error, No Longer Halted</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-twitch-journey-essential-skills-for-successful-streaming/"><u>Your Twitch Journey: Essential Skills for Successful Streaming</u></a></li>
 </ul></div>
 

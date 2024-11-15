@@ -1,7 +1,7 @@
 ---
 title: Efficient Virtual Construction on Your Computer
-date: 2024-10-12T08:54:36.200Z
-updated: 2024-10-18T14:36:36.645Z
+date: 2024-11-09T17:37:46.846Z
+updated: 2024-11-13T21:51:30.962Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The game lagging is generally a sign of a slow game. This can be caused by having too many high-power programs using your system resources. For the most optimal experience, it is recommended that when you run Roblox, you close those other programs. To do this, take these steps:
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Delete temporary files
 
  Temporary files created by Windows or programs you use could take up some hard drive space, which slows down your computer. So to make your computer and the programs run smoother, you should delete those temp files. Here’s how you can do this:
@@ -57,27 +71,20 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files.jpg)
 3. Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![delete temp files to remove edit delay on Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-select-delete.jpg)
 4. If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/PC-delete-temp-files.jpg)
@@ -89,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
  After deleting the temp files, launch Roblox to check if the lag is reduced. If the problem persists, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -112,13 +126,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/de-update-all-network-6.0.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  See if you can launch Roblox now. If the problem persists, please move on.
@@ -133,6 +140,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Change your DNS settings
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can slow your connection a little bit. And that might be the reason that your Roblox is so laggy. To save you time troubleshooting, you’re supposed to change your DNS settings. Here we recommend the DNS addresses from Google:
@@ -142,13 +156,6 @@ OR
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -177,17 +184,17 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, click**Resume Game** to return to your game.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-2.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Delete the textures folder
 
@@ -196,10 +203,10 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To do so:
@@ -207,13 +214,6 @@ To do so:
 1. Press the**Windows logo key** and type**Roblox player** , then**Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-43.png)
 2. Right-click the execution file for**Roblox Player** and select**Open file location** again.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-44.png)
 3. Click**PlatformContent** .  
@@ -226,10 +226,10 @@ To do so:
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
@@ -272,22 +272,14 @@ Once done, restart your machine and check if it fixes your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-free-guide-to-windows-desktop-captures-and-recordings-for-2024/"><u>[New] Free Guide to Windows Desktop Captures & Recordings for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-harmonizing-visuals-and-sounds-with-canvas-audio-features/"><u>[New] In 2024, Harmonizing Visuals & Sounds with Canva's Audio Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-small-shop-success-through-social-video-content/"><u>[Updated] 2024 Approved Small Shop Success Through Social Video Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-practices-integrating-timers-into-live-streaming-software/"><u>[Updated] Best Practices Integrating Timers Into Live Streaming Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-deciding-the-best-skype-audio-capture-of-2023/"><u>[Updated] Deciding the Best Skype Audio Capture of 2023</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-overcoming-slow-connectivity-issues/"><u>[WINDOWS] Overcoming Slow Connectivity Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquer-whiteout-sims-errors/"><u>Conquer Whiteout Sims Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correction-achieved-partial-window-view-all-w10-missing/"><u>Correction Achieved: Partial Window View, All W10 Missing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensure-static-screens-in-windows-11-settings/"><u>Ensure Static Screens in Windows 11 Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exceptional-artificial-intelligence-tools-transforming-the-way-you-search-the-world-wide-web/"><u>Exceptional Artificial Intelligence Tools Transforming the Way You Search the World Wide Web</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-performance-restored/"><u>Graphics Performance Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-luminosity-calmed-issue-over/"><u>Laptop Luminosity Calmed - Issue Over</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mitigating-screenscape-disturbances-pro-7/"><u>Mitigating Screenscape Disturbances (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-driver-release-amd-radeon-hd-6950-for-win10/"><u>New Driver Release: AMD Radeon HD 6950 for Win10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-care-quality-at-athenahealth-with-cutting-edge-ehr-technologies-expert-advice-on-patient-contentment-from-abbyy-blog/"><u>Optimizing Care Quality at Athenahealth with Cutting-Edge EHR Technologies | Expert Advice on Patient Contentment From ABBYY Blog</u></a></li>
-<li><a href="https://os-tips.techidaily.com/remove-pictures-from-your-whatsapp-chat-top-5-easy-methods-for-iphone-and-android-users/"><u>Remove Pictures From Your WhatsApp Chat: Top 5 Easy Methods for iPhone & Android Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-list-of-6-instagram-reel-enhancers/"><u>The Ultimate List of 6 Instagram Reel Enhancers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-pro-video-essentials-the-finest-portable-laptop-brands/"><u>[New] In 2024, Pro Video Essentials The Finest Portable Laptop Brands</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>[New] Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-darkened-displays-in-lenovo-devices/"><u>Fix Darkened Displays in Lenovo Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-fixed-on-win-10-systems/"><u>High-DPI Settings Fixed on Win 10 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-setting-up-and-using-an-exterior-hard-disk-for-xbox-gaming/"><u>Step-by-Step Tutorial: Setting Up and Using an Exterior Hard Disk for Xbox Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-crt-refresh-rate-glitches/"><u>Tackle CRT Refresh Rate Glitches</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1168807-9781577318651-the-power-of-stillness/"><u>The Power of Stillness | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-mastering-screenshots-on-computers/"><u>Ultimate Tutorial: Mastering Screenshots on Computers</u></a></li>
 </ul></div>
 
