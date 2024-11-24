@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2024-11-11T22:22:30.591Z
-updated: 2024-11-15T00:01:22.588Z
+date: 2024-11-17T02:07:47.715Z
+updated: 2024-11-24T04:08:05.216Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart Fortnite
 
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -63,6 +64,10 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -74,13 +79,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -104,16 +102,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -121,14 +110,11 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
- If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
 ## Fix 5: Disable the proxy server
 
@@ -137,6 +123,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
@@ -156,27 +146,17 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -216,19 +196,20 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-perfect-pairings-blending-tracks-with-cubase-essentials/"><u>[New] 2024 Approved Perfect Pairings Blending Tracks with Cubase Essentials</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-5-capture-tools-dethroning-bandicam-on-apple-devices/"><u>[New] Top 5 Capture Tools Dethroning Bandicam on Apple Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-become-a-wizard-elevating-the-art-of-ppt-to-video-conversion/"><u>2024 Approved Become a Wizard Elevating the Art of PPT to Video Conversion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-method-for-modifying-fish-vocal-patterns/"><u>2024 Approved Streamlined Method for Modifying Fish Vocal Patterns</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ati-gpu-lacks-dx-acceleration-fix/"><u>ATI GPU Lacks DX Acceleration Fix</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-access-to-up-to-date-drivers-for-epson-xp-440-download-instructions-here/"><u>Easy Access to Up-to-Date Drivers for Epson XP-440 - Download Instructions Here</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ended-amds-challenge-of-unloading-driver-on-wndows-10/"><u>Ended AMD's Challenge of Unloading Driver on Wndows 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-lava-blaze-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Lava Blaze Pro 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-and-intel-graphic-card-harmony-achieved-on-win11/"><u>Nvidia & Intel Graphic Card Harmony Achieved on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-windows-10s-installation-hurdle-code-c1900101/"><u>Remedying Windows 10'S Installation Hurdle - Code C1900101</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-nvidia-screen-options-unavailability/"><u>Resolving NVIDIA Screen Options Unavailability</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mac-video-metadata-mastery-8-essential-editor-tools/"><u>Updated In 2024, Mac Video Metadata Mastery 8 Essential Editor Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-causing-bsod-on-windows-os/"><u>[Fix]: dxgkrnl.sys Causing BSOD on Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-issue-fixed-reinstalled-amd-graphics-drivers-on-pcs/"><u>[RENDERING ISSUE FIXED] Reinstalled AMD Graphics Drivers on PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-compelling-gopro-livestreams-on-facebook-and-periscope/"><u>2024 Approved Crafting Compelling GoPro Livestreams on Facebook & Periscope</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unraveling-the-mystery-of-ad-driven-content-creation-cpm/"><u>2024 Approved Unraveling the Mystery of Ad-Driven Content Creation (CPM)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/add-extra-security-layers-to-gmail-with-a-comprehensive-guide-on-activating-two-step-verification/"><u>Add Extra Security Layers to Gmail with a Comprehensive Guide on Activating Two-Step Verification</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-hp-lcd-stuttering-events/"><u>Avoiding HP LCD Stuttering Events</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehve-steps-to-restore-sound-on-a-silent-pc-or-mac-speaker-system/"><u>Comprehve Steps to Restore Sound on a Silent PC or Mac Speaker System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-mobile-experience-with-these-8-premier-multi-number-apps/"><u>Enhance Your Mobile Experience with These 8 Premier Multi-Number Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discovering-the-hottest-templates-for-social-media-vfx/"><u>In 2024, Discovering the Hottest Templates for Social Media VFX</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-wide-monitor-distortion-in-window-os/"><u>Overcome Wide Monitor Distortion in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-setup-error-code-c1900101-on-pc/"><u>Resolving Setup Error Code C1900101 on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/shut-down-fbs-tracking-off-fb-workflow-guide/"><u>Shut Down Fb's Tracking - Off-FB Workflow Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-inverted-screen-problem-in-windows-10/"><u>Solving Inverted Screen Problem in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-atheros-qca61x4drivers-fixed/"><u>Windows 11 Atheros QCA61x4Drivers Fixed</u></a></li>
 </ul></div>
 

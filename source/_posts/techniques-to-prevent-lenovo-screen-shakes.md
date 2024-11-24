@@ -1,7 +1,7 @@
 ---
 title: Techniques to Prevent Lenovo Screen Shakes
-date: 2024-10-11T13:04:03.273Z
-updated: 2024-10-18T07:16:38.730Z
+date: 2024-11-21T03:19:06.998Z
+updated: 2024-11-23T17:26:18.644Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -42,11 +46,23 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -62,47 +78,23 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -133,24 +125,19 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hilarious-hits-for-iphones/"><u>[New] Hilarious Hits for iPhones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-chat-on-google-meet/"><u>[New] How to Chat on Google Meet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>[Updated] 2024 Approved Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-sparkle-and-shine-tips-to-preserve-your-snapstreak/"><u>[Updated] Sparkle and Shine Tips to Preserve Your Snapstreak</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-the-open-box-phenomenon/"><u>2024 Approved Innovating the Open-Box Phenomenon</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-photo-editing-unveiling-background-eraser-in-adobe-photoshop/"><u>2024 Approved Mastering Photo Editing Unveiling Background Eraser in Adobe Photoshop</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11s-visual-keyboard-assistant/"><u>Accessing Windows 11'S Visual Keyboard Assistant</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bending-space-and-time-vrs-cinematic-innovation-for-2024/"><u>Bending Space and Time VR's Cinematic Innovation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-communication-intel-unison-and-windows-11-collaboration/"><u>Cutting-Edge Communication: Intel Unison and Windows 11 Collaboration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-drivers-fixed-code-22/"><u>Debugged: Drivers' Fixed Code #22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-image-quality-in-far-cry-6-console-edition/"><u>Enhancing Image Quality in Far Cry 6 Console Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-12-erased-hunter-quest-returns-fully-operational/"><u>Error 12 Erased, Hunter Quest Returns Fully Operational</u></a></li>
-<li><a href="https://network-issues.techidaily.com/problem-solved-windows-10-monitors-not-displaying-full-windows/"><u>Problem Solved: Windows 10 Monitors Not Displaying Full Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974890628-smooth-graphics-experience-via-easy-intel-3000-update-on-windows-10/"><u>Smooth Graphics Experience via Easy Intel 3000 Update on Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-stop-hp-screensaver-blankout/"><u>Steps to Stop HP Screensaver Blankout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-unplugged-nvidia-pro/"><u>Straightforward Adjustment: Unplugged NVIDIA Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-to-overcome-black-outage-issues/"><u>Strategies to Overcome Black Outage Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-restoration-rectify-legends-glitches/"><u>Swift Restoration: Rectify Legends Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-windows-update-service-stuck-or-disabled/"><u>Troubleshooting Guide: How to Fix Windows Update Service Stuck or Disabled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-the-lag-in-fortnite-instant-fixes-for-optimal-gameplay-performance/"><u>Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boosting-frame-rate-performance-essential-guide-and-best-practices/"><u>Boosting Frame Rate Performance: Essential Guide & Best Practices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-steps-to-determine-your-monitors-resolution-what-you-need-to-know/"><u>Easy Steps to Determine Your Monitor's Resolution: What You Need to Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-application-error-for-nvstreamuseragentsexe-on-windows-systems-easily/"><u>Fixing the 'Application Error' For nvstreamuseragents.exe on Windows Systems Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-install-new-drivers-on-an-asus-maximus-x-hero-motherboard/"><u>How To Seamlessly Install New Drivers on an ASUS Maximus X Hero Motherboard</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Edge 40 Neo?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/introducing-the-heimvision-a80s-the-ultimate-guide-to-its-basic-light-therapy-features/"><u>Introducing the HeimVision A80S: The Ultimate Guide to Its Basic Light Therapy Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pushing-boundaries-in-network-speed-and-stability-with-the-asus-rog-rapture-gt-ax11000-for-gamers/"><u>Pushing Boundaries in Network Speed and Stability with the Asus ROG Rapture GT-AX11000 for Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-graphics-system-startup-problems-a-compreh-grove-guide/"><u>Resolving Graphics System Startup Problems - A Compreh Grove Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secure-and-save-with-these-10-top-rated-video-chat-apps-on-your-smartphone/"><u>Secure and Save with These 10 Top-Rated Video Chat Apps on Your Smartphone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-screen-a-guide-for-pro-7-owners/"><u>Steady Screen: A Guide for Pro 7 Owners</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210709974-9780876127551-the-science-of-religion/"><u>The Science of Religion | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-nubia-red-magic-9-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nubia Red Magic 9 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-new-font-addition-strategies-for-ae-for-2024/"><u>Unleashing Creativity New Font Addition Strategies for AE for 2024</u></a></li>
 </ul></div>
 

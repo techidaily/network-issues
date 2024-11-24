@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA Fixed: System Paused Over Device Error"
-date: 2024-07-12T00:16:25.580Z
-updated: 2024-07-13T00:16:25.580Z
+date: 2024-11-22T23:36:13.019Z
+updated: 2024-11-24T03:02:24.550Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  Solution 3:[**Uninstall the NVIDIA graphics driver**](#solution3)
  Solution 4: **[Disable the graphics card and discharge the electrical build-up](#solution4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Perform a power reset**
 
  To resolve the problem, you can try to perform a power reset. This is the easiest solution and may work like a charm. Here’s what you need to do:
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 4) Plug the charger back and put the battery back into place.
 
 5) Reboot your computer and check to see if the problem is resolved. If you’re still getting the error, you can move on to our next suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the driver**
 
@@ -63,6 +71,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 3: Uninstall the NVIDIA graphics driver**
 
  Your problem is likely due to faulty graphics drivers. As you can see, there’s a yellow mark next to the device name in Device Manager. It’s worth trying to uninstall the NVIDIA graphics card driver using the following steps:
@@ -72,6 +84,10 @@ Or click **Update All**  to automatically download and install the correct versi
  Type**devmgmt.msc** then click**OK** . This is to open the Device Manager Window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
 
@@ -88,6 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
  Type**devmgmt.msc** then click**OK** . This is to open the Device Manager Window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on the NVIDIA device name. The context menu will pop up. Click**Disable**  on the context menu.
 
@@ -111,8 +131,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +138,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop/"><u>[New] From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>[Updated] 2024 Approved 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-shuttered-creations-sudden-delete-incidents/"><u>[Updated] 2024 Approved Shuttered Creations Sudden Delete Incidents</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-fast-track-on-friend-finding-in-facebook-land/"><u>[Updated] In 2024, Unlocking Fast Track on Friend-Finding in Facebook Land</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimmed-display-defying-desktop/"><u>Dimmed Display, Defying Desktop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-epubor-software-solutions-for-your-digital-publishing-needs/"><u>Discover the Best EPUBOR Software Solutions for Your Digital Publishing Needs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disoriented-windows-screen-placement/"><u>Fixing Disoriented Window's Screen Placement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-gone-wrong-tame-your-rtx-3080-crash/"><u>Gaming Gone Wrong? Tame Your RTX 3080 Crash</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-become-a-tiktok-trendsetter-perfecting-reactions-with-filmoras-advanced-techniques/"><u>In 2024, Become a TikTok Trendsetter Perfecting Reactions with Filmora’s Advanced Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 8T</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-the-art-of-youtube-thumbnails-on-macos-for-2024/"><u>Mastering the Art of YouTube Thumbnails on macOS for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-vanishing-act-uncover-the-truth-with-device-hub/"><u>NVIDIA Vanishing Act? Uncover the Truth with Device Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/resolving-computer-malfunctions-keep-your-battlefield-2042-run-smoothly-without-crashes/"><u>Resolving Computer Malfunctions: Keep Your Battlefield 2042 Run Smoothly Without Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-solves-qualcomm-adapter-connection-issue/"><u>Windows 10 Solves: Qualcomm Adapter Connection Issue</u></a></li>
+</ul></div>
 

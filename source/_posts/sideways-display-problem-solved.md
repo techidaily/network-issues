@@ -1,7 +1,7 @@
 ---
 title: "Sideways Display: Problem Solved"
-date: 2024-11-07T18:48:42.112Z
-updated: 2024-11-14T23:10:30.306Z
+date: 2024-11-22T12:32:19.027Z
+updated: 2024-11-24T01:07:48.499Z
 tags:
   - win11
   - win10
@@ -28,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -42,13 +39,6 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -57,29 +47,21 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -97,6 +79,10 @@ This should restore your laptop screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -119,20 +105,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-mediasphere-app-user-experience-report/"><u>[New] In 2024, MediaSphere App User Experience Report</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-pixlr-essentials-10-pro-tips-to-transform-your-images-for-2024/"><u>[New] Pixlr Essentials 10 Pro Tips to Transform Your Images for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-engaging-instagram-reels-step-by-step/"><u>[Updated] Crafting Engaging Instagram Reels Step-by-Step</u></a></li>
-<li><a href="https://network-issues.techidaily.com/a-step-by-step-guide-on-fixing-c1900101-error-in-windows-11/"><u>A Step-by-Step Guide on Fixing C1900101 Error in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/battle-royale-concrete-fists-vs-digital-screens/"><u>Battle Royale Concrete Fists vs Digital Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fast-track-to-faster-net-with-win-1011-fixes/"><u>Fast Track to Faster Net with Win 10/11 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-210-drivers-next-gen-windows-compatibility/"><u>GeForce 210 Drivers: Next-Gen Windows Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/halting-windows-flickering-on-monitor/"><u>Halting Windows Flickering on Monitor</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y78t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y78t Phones with/without a PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-latest-microsoft-surface-pro-4-drivers-for-seamless-performance-on-windows-systems/"><u>Installing the Latest Microsoft Surface Pro 4 Drivers for Seamless Performance on Windows Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-discrepinas-in-win10-and-nvidia-software/"><u>Resolving Discrepinas in Win10 & Nvidia Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secure-qualcomms-wireless-capability-with-atheros-fix-in-win11/"><u>Secure Qualcomm's Wireless Capability with Atheros Fix in Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-radeon-r9-driver-issues-on-latest-win11-os/"><u>Solving Radeon R9 Driver Issues on Latest Win11 OS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/standing-and-implementing-cc-licenses-wisely/"><u>Understanding & Implementing CC Licenses Wisely</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-shorts-effective-income-strategies/"><u>[New] 2024 Approved Mastering YouTube Shorts Effective Income Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-compreeved-guide-converting-webp-to-quality-jpg-format-for-2024/"><u>[Updated] Compreeved Guide Converting WebP to Quality JPG Format for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-blur-apps-for-clear-portraits-for-2024/"><u>[Updated] Mastering Blur Apps for Clear Portraits for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-windows-10-screen-image-flip-fix/"><u>Enhancing Windows 10 Screen Image Flip Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-glitch-repair-complete/"><u>Graphics Glitch Repair Complete</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-7windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 7/Windows/Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/implementing-exact-timestamp-features-for-youtube/"><u>Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-images-android-iphone-file-transfer-guide/"><u>In 2024, Syncing Images Android-iPhone File Transfer Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-conversation-gpt-3s-top-updates-unveiled/"><u>New Era of Conversation: GPT-3’s Top Updates Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-quivering-windows-7-graphics/"><u>Quelling Quivering Windows 7 Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-inverted-image-feature-from-w11/"><u>Removing Inverted Image Feature From W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-settings-save-issue/"><u>Resolving Display Settings Save Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-black-screen-phenomenon-in-portables/"><u>Reversing Black Screen Phenomenon in Portables</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-screen-resizing-quirks-in-window-10/"><u>Tackled Screen Resizing Quirks in Window 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-compatible-solutions-for-a-malfunctioning-laptop-touchpad-fixes-for-1187/"><u>Windows-Compatible Solutions for a Malfunctioning Laptop Touchpad: Fixes for 11/8/7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win11 Hybrid Graphics Bug: Now Solved"
-date: 2024-07-12T00:16:08.840Z
-updated: 2024-07-13T00:16:08.840Z
+date: 2024-11-17T09:36:09.768Z
+updated: 2024-11-23T17:44:57.011Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -43,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -89,11 +101,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -113,8 +133,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,6 +140,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-tom-clancys-rainbow-six-siege-update-dx12-crash/"><u>[FIXED] Tom Clancy's Rainbow Six: Siege Update - DX12 Crash</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effective-strategies-to-mute-unwanted-voices-in-gomeet-for-2024/"><u>[New] Effective Strategies to Mute Unwanted Voices in GoMeet for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension-for-2024/"><u>[Updated] Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-civ-5-problems-on-a-pc/"><u>Addressing Civ 5 Problems on a PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cessation-of-inconsistent-lcd-patterns/"><u>Cessation of Inconsistent LCD Patterns</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/collageknights-syncing-videos-across-devices/"><u>CollageKnights Syncing Videos Across Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-garmin-forerunner-945-the-ultimate-gps-fitness-watch/"><u>Comprehensive Analysis of the Garmin Forerunner ⌚️945: The Ultimate GPS Fitness Watch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/comprehensive-hands-on-experience-of-the-cutting-edge-arlo-protection-gear/"><u>Comprehensive Hands-On Experience of the Cutting-Edge Arlo Protection Gear</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>In 2024, Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-fix-for-uninterrupted-streaming/"><u>Rapid Fix for Uninterrupted Streaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-freeze-problem-windows-pointer/"><u>Resolve Freeze Problem: Windows Pointer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-subtlety-garagebands-audio-softening-for-2024/"><u>The Art of Subtlety Garageband's Audio Softening for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-graphic-glitch-rectified/"><u>Win11 Graphic Glitch Rectified</u></a></li>
+</ul></div>
 

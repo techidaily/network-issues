@@ -1,7 +1,7 @@
 ---
 title: Override Solid-Color Screen Errors
-date: 2024-11-08T20:44:35.444Z
-updated: 2024-11-14T19:04:37.140Z
+date: 2024-11-22T06:24:47.789Z
+updated: 2024-11-24T01:01:25.628Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 ## Override Solid-Color Screen Errors
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -43,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -72,19 +69,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -105,18 +89,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -133,15 +114,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -153,16 +135,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -175,6 +154,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -194,13 +177,6 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -235,20 +211,20 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-power-of-jump-cuts-in-engaging-videos/"><u>[New] 2024 Approved The Power of Jump Cuts in Engaging Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ultimate-plugins-list-after-effects-edition/"><u>[New] 2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>[New] The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-7-essential-free-audio-tracks-for-youtubers/"><u>[Updated] 2024 Approved Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-incredible-method-unlock-mac-using-apple-watch/"><u>[Updated] Incredible Method Unlock Mac Using Apple Watch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerating-video-conversion-youtube-to-mpeg-edition/"><u>Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-atk0110-motherboard-obtain-your-compatible-acpi-drivers-at-no-cost/"><u>ASUS ATK0110 Motherboard: Obtain Your Compatible Acpi Drivers at No Cost</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correct-computer-screen-edge-artifacts/"><u>Correct Computer Screen Edge Artifacts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-ultimate-techniques-how-to-retrieve-lost-documents-on-your-pc-with-windows-1011/"><u>Discover the Ultimate Techniques: How to Retrieve Lost Documents on Your PC with Windows 10/11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/explore-the-best-free-passport-picture-creation-services-online/"><u>Explore the Best Free Passport Picture Creation Services Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/finalizing-setup-nvidia-fails-no-more/"><u>Finalizing Setup: NVIDIA Fails No More</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monster-hunter-unleashed-crash-conqueror-found/"><u>Monster Hunter Unleashed: Crash Conqueror Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repairing-shimmery-windows-7-displays/"><u>Repairing Shimmery Windows 7 Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlocking-windows-11-mastery-of-radeon-r9-drivers/"><u>Unlocking Windows 11: Mastery of Radeon R9 Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unresponsive-upscreen-unlock-secrets/"><u>Unresponsive Upscreen, Unlock Secrets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-action-cam-battle-max-360-vs-hero-11-review/"><u>[New] Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-captivating-your-curbsides-glow-inside-your-house/"><u>[Updated] In 2024, Captivating Your Curbside's Glow Inside Your House</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-race-games-collection-guide/"><u>[Updated] In 2024, Elite Race Games Collection Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-synchronized-sound-and-picture-zone-online/"><u>2024 Approved Synchronized Sound & Picture Zone Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-display-effortlessly-thanks-to-win-10-fixes/"><u>Adjusting Display Effortlessly, Thanks to Win 10 Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-amazon-halo-a-deep-dive-into-personal-health-and-fitness-monitoring/"><u>Discover Amazon Halo: A Deep Dive Into Personal Health and Fitness Monitoring</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfx-device-initialization-corrected-in-windows/"><u>GFX Device Initialization Corrected in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphicwindow-interruption-in-window-os-under-repair/"><u>GraphicWindow Interruption in Window OS (Under Repair)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guides-to-uncover-hidden-computer-displays/"><u>Guides to Uncover Hidden Computer Displays</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-for-stabilizing-acer-lcd-brightness/"><u>Methods for Stabilizing Acer LCD Brightness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-solution-smooth-video-screenshots/"><u>Quick Solution: Smooth Video Screenshots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/refund-policy-explained-understanding-movavis-terms-of-return/"><u>Refund Policy Explained: Understanding Movavi's Terms of Return</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repairing-failed-saves-for-default-display-profiles/"><u>Repairing Failed Saves for Default Display Profiles</u></a></li>
 </ul></div>
 

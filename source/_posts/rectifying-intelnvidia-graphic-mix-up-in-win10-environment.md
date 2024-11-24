@@ -1,7 +1,7 @@
 ---
 title: Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment
-date: 2024-11-08T23:28:38.512Z
-updated: 2024-11-14T20:16:30.303Z
+date: 2024-11-19T18:43:35.429Z
+updated: 2024-11-24T09:43:03.508Z
 tags:
   - win11
   - win10
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
@@ -43,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  Step 2:[**Update graphic cards drivers (Recommended)**](#m3)
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
 
@@ -62,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -83,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
@@ -117,6 +101,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -124,10 +112,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -157,21 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-revolutionizing-vr-experiences-with-newest-game-engines-for-2024/"><u>[New] Revolutionizing VR Experiences with Newest Game Engines for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-every-click-with-spring-screen-recorder-for-2024/"><u>[Updated] Capture Every Click with Spring Screen Recorder for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-language-free-top-8-srt-translation-websites/"><u>2024 Approved Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
-<li><a href="https://network-issues.techidaily.com/calm-the-currents-resolve-dells-flicker/"><u>Calm the Currents: Resolve Dell's Flicker</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-how-the-multi-functional-omnicharge-omni-20-revolutionizes-mobile-power-with-qi-wireless-technology/"><u>Comprehensive Review: How the Multi-Functional Omnicharge Omni 20 Revolutionizes Mobile Power with Qi Wireless Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diminishing-disturbance-on-win11-panels/"><u>Diminishing Disturbance on Win11 Panels</u></a></li>
-<li><a href="https://driver-download.techidaily.com/downloadable-pci-interface-drivers-compatible-with-windows-111087/"><u>Downloadable PCI Interface Drivers Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easing-pro-7s-shimmering-issue/"><u>Easing Pro 7'S Shimmering Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-frustrations-fallout-4-stable-on-windows/"><u>End of Frustrations: Fallout 4 Stable on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-dpi-settings-easier-to-adjust-post-update-in-windows-10/"><u>High-DPI Settings: Easier to Adjust Post-Update in Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-guide-to-premium-free-mobile-video-calls-ios-and-android-edition/"><u>In 2024, Guide to Premium-Free Mobile Video Calls - iOS & Android Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b/"><u>In 2024, LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B</u></a></li>
-<li><a href="https://network-issues.techidaily.com/jive-without-jitters-anti-lag-tactics/"><u>Jive Without Jitters: Anti-Lag Tactics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-response-from-monitor-post-update/"><u>No Response From Monitor Post Update</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rotational-realities-how-to-captivate-with-instagrams-sideways-videos-for-2024/"><u>Rotational Realities How to Captivate with Instagram's Sideways Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-securing-computer-against-unauthorized-usb-clip-attacks/"><u>Steps for Securing Computer Against Unauthorized USB Clip Attacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-crafting-facebook-slideshow-an-instagram-style-storytelling-guide/"><u>[New] 2024 Approved Crafting Facebook SlideShow An Instagram-Style Storytelling Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-instagrams-sideways-video-phenomenon-investigation-required/"><u>[Updated] 2024 Approved Instagram's Sideways Video Phenomenon - Investigation Required</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-basic-techniques-transforming-fishy-chatter-in-the-win-world/"><u>2024 Approved Basic Techniques Transforming Fishy Chatter in the Win World</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-life-to-dead-gpu-fans/"><u>Bringing Life to Dead GPU Fans</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-key-to-solving-blue-screen-in-winos/"><u>dxgkrnl.sys: Key to Solving Blue Screen in WinOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-resolving-your-windows-11-start-menu-glitches/"><u>Expert Tips: Resolving Your Windows 11 Start Menu Glitches</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-s23plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23+ to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/limitless-text-in-format-best-free-psd/"><u>Limitless Text in Format Best FREE PSD</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-nvidia-driver-windows-compatibility/"><u>Overcoming Nvidia Driver Windows Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-system-limitations-enabling-software-installation/"><u>Overcoming System Limitations: Enabling Software Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-unseen-hardware-in-computer-systems/"><u>Reactivating Unseen Hardware in Computer Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silencing-the-sputter-of-windows-11-displays/"><u>Silencing the Sputter of Windows 11 Displays</u></a></li>
+<li><a href="https://facebook.techidaily.com/unique-mobile-app-linkage-how-facebook-surpasses-apple-payments-system/"><u>Unique Mobile App Linkage: How Facebook Surpasses Apple Payments System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-control-made-easy-a-step-by-step-guide-to-leveraging-your-meta-quest-mic/"><u>Voice Control Made Easy: A Step-by-Step Guide to Leveraging Your Meta Quest Mic</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Can't Change Resolution [SOLVED]
-date: 2024-10-17T02:42:03.542Z
-updated: 2024-10-18T11:35:06.422Z
+date: 2024-11-16T21:15:08.042Z
+updated: 2024-11-24T10:51:42.404Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 3. **[Turn on GPU Scaling](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -48,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -60,18 +54,15 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -87,16 +78,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -128,6 +116,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -156,17 +148,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-views-velocity-harnessing-powerful-hashtags-for-video-popularity/"><u>[Updated] In 2024, Views Velocity Harnessing Powerful Hashtags for Video Popularity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-making-sounds-count-windows-10-audio-guide/"><u>[Updated] Making Sounds Count Windows 10 Audio Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quintuple-excellence-writing-for-eight-film-classifications/"><u>2024 Approved Quintuple Excellence Writing for Eight Film Classifications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerate-clear-video-experience/"><u>Accelerate Clear Video Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>In 2024, Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-fixes-for-code-41-conflicts-within-device/"><u>Mastering Fixes for Code 41 Conflicts Within Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-end-to-stuttered-vids/"><u>Quick End to Stuttered Vids</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-pixel-stutter-in-displays/"><u>Rectify Pixel Stutter in Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resetting-asus-for-operational-webcam/"><u>Resetting Asus for Operational Webcam</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sleeksky-saver-the-frugal-file-nest/"><u>SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202538499-valorant-launch-stuck-on-infinite-load-heres-how-to-fix-it/"><u>Valorant Launch Stuck on Infinite Load? Here's How to Fix It!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-woes-the-story-of-vanished-signal-on-windows-11/"><u>Wi-Fi Woes: The Story of Vanished Signal on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-slow-your-roll-thriving-in-the-world-of-sluggish-youtube-content-52-chars/"><u>[New] 2024 Approved Slow Your Roll Thriving in the World of Sluggish YouTube Content (52 Chars)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unleash-collaborative-power-in-virtual-settings-the-top-10-free-recorders/"><u>[New] In 2024, Unleash Collaborative Power in Virtual Settings - The Top 10 Free Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-fast-fixes-for-lost-reddit-content-for-2024/"><u>[Updated] Unveiling Fast Fixes for Lost Reddit Content for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-comprehensive-critique-of-rayman-legends-masterfully-crafted-side-scrolling-fun/"><u>A Comprehensive Critique of Rayman Legends - Masterfully Crafted Side-Scrolling Fun!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-winrars-summation-anomalies-with-six-fixes/"><u>Addressing WinRAR's Summation Anomalies with Six Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-the-most-advanced-tracking-running-wristbands-of-2024/"><u>Discover the Most Advanced Tracking Running Wristbands of 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-performance-with-new-graphics-cards-tips-and-tricks/"><u>Enhancing Performance with New Graphics Cards: Tips and Tricks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-tips-zooming-in-on-videoleap-videos/"><u>Expert Tips Zooming In on Videoleap Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-performance-boosted-overcoming-video-memory-limits/"><u>Fortnite Performance Boosted: Overcoming Video Memory Limits</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/imperator-rome-analysis-constructing-dominion-or-facing-demise/"><u>Imperator Rome Analysis: Constructing Dominion or Facing Demise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/on-the-go-cinematographers-essentials-for-2024/"><u>On-the-Go Cinematographer’s Essentials for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-ultimate-guide-to-enjoying-your-favorite-tunes-with-nests-cutting-edge-audio-experience/"><u>The Ultimate Guide to Enjoying Your Favorite Tunes with Nest's Cutting-Edge Audio Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-made-simple-learn-to-softly-restart-your-iphone/"><u>Troubleshooting Made Simple: Learn to Softly Restart Your iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-monoprices-value-graphic-pen-display-quality-meets-affordability/"><u>Unveiling Monoprice's Value Graphic Pen Display – Quality Meets Affordability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/your-comprehensive-guide-to-tablet-buying-by-assessing-display-area-and-portable-design/"><u>Your Comprehensive Guide to Tablet Buying by Assessing Display Area and Portable Design</u></a></li>
 </ul></div>
 

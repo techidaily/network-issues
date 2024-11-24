@@ -1,7 +1,7 @@
 ---
 title: "No More Switchable GPU Issues: Windows 11 Update Complete"
-date: 2024-07-12T00:20:35.863Z
-updated: 2024-07-13T00:20:35.863Z
+date: 2024-11-21T18:14:28.151Z
+updated: 2024-11-23T19:42:52.142Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
@@ -61,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -76,6 +88,10 @@ There are two ways you can get the right drivers for your video cards: manually 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
@@ -107,13 +123,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,6 +140,21 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-blueprint-to-blockbuster-scriptwriting-for-films-for-2024/"><u>[New] Blueprint to Blockbuster Scriptwriting for Films for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expertly-curated-list-of-10-best-windows-cameras/"><u>[New] Expertly Curated List of 10 Best Windows Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-simplify-slide-sharing-at-work-webcam-assisted-tips/"><u>[New] Simplify Slide Sharing at Work Webcam-Assisted Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bsod-due-to-dxgkrnlsys-on-windows/"><u>[Resolved]: BSOD Due to dxgkrnl.sys on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>[Updated] 2024 Approved The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-gdx-setup-failure-on-os-x/"><u>Corrected GDX Setup Failure on OS X</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-route-setting-up-wi-fi-ethernet-device-on-pcs/"><u>Direct Route: Setting up Wi-Fi Ethernet Device on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-stability-improved-with-driver-correction/"><u>Display Stability Improved with Driver Correction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone XR with IMEI Code?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v30-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pro-tips-for-attaining-rare-equipment-through-fps-drops-in-the-mass-effect-series/"><u>Pro Tips for Attaining Rare Equipment Through FPS Drops in the Mass Effect Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-gpu-error-averted/"><u>Smooth Sailing: GPU Error Averted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-low-resolution-textures-in-ubisofts-island/"><u>Troubleshooting Low-Resolution Textures in Ubisoft's Island</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-motorola-moto-g23-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G23 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

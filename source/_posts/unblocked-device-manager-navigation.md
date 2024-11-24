@@ -1,7 +1,7 @@
 ---
 title: "Unblocked: Device Manager Navigation"
-date: 2024-09-15T18:12:09.650Z
-updated: 2024-09-20T06:15:50.987Z
+date: 2024-11-21T11:27:37.611Z
+updated: 2024-11-23T23:50:07.160Z
 tags:
   - win11
   - win10
@@ -20,12 +20,20 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
  When you go into the NVIDIA Control Panel to change the settings, you see this message pop-up:**Access Denied Failed to apply selected setting to your system** . You’ll absolutely feel confused and upset. But don’t worry, this problem should be easy to fix. Try below methods to fix it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Update your NVIDIA graphics driver](#m1)
 2. [Reinstall your graphics driver](#m2)
 3. [Run the NVIDIA Control Panel as administrator](#m3)
 4. [Close Game Bar](#m4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update**your NVIDIA graphics driver**
 
@@ -84,20 +92,11 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/20-1.jpg)
 
- 6) Run the NVIDIA Control Panel then check whether the “Access Denied” message will appear or not.  
-
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 6) Run the NVIDIA Control Panel then check whether the “Access Denied” message will appear or not.  
 
 ### Method 3: Run the NVIDIA Control Panel as administrator
 
@@ -110,15 +109,16 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the Compatibility tab, tick**Run this program as an administrator** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on the**nvcplui.exe** and click**Run as administrator** .
 
@@ -138,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Run the NVIDIA Control Panel and check whether the “Access Denied” message will show up.
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
@@ -162,5 +155,18 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-directly-viewing-facebook-videos-on-your-apple-tv-setup/"><u>[New] Directly Viewing Facebook Videos on Your Apple TV Setup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-android-video-editor-app-roundup/"><u>[New] In 2024, The Ultimate Android Video Editor App Roundup</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-insiders-manual-to-upload-content-to-igtv/"><u>[Updated] In 2024, The Insider's Manual to Upload Content to IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-top-10-jpg-to-gif-converters-online-free/"><u>2024 Approved Top 10 JPG to GIF Converters Online Free</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bursting-through-bandwidth-barriers-in-win1011/"><u>Bursting Through Bandwidth Barriers in Win10/11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debug-evasive-graphics-cards/"><u>Debug Evasive Graphics Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disentangled-power-management-options/"><u>Disentangled: Power Management Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/go-beyond-ciao-bella-20plus-italian-slang-words-and-expressions/"><u>Go Beyond “Ciao Bella”: 20+ Italian Slang Words & Expressions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-visual-chipset-restore-nvidia-graphics-recognition/"><u>Hidden Visual Chipset: Restore NVIDIA Graphics Recognition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Z50 Ultra</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-video-views-after-switching-to-win10/"><u>Optimizing Video Views After Switching to Win10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Battlezone Buffering Blunder
-date: 2024-07-12T00:18:20.944Z
-updated: 2024-07-13T00:18:20.944Z
+date: 2024-11-21T03:23:46.444Z
+updated: 2024-11-23T17:04:41.977Z
 tags:
   - win11
   - win10
@@ -81,11 +81,19 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch Domain Name Systems (DNS)
 
@@ -99,8 +107,18 @@ Here we recommend using Google DNS:
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
@@ -109,8 +127,17 @@ Here we recommend using Google DNS:
 8. Click the Internet connection you’re using, then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -154,6 +181,10 @@ When it’s all done, resume your download and it should be faster.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Set the throttle speed to Unlimited
 
  Setting the default throttle speed in Epic Games Launcher also helps to pick up the download speed. To do so:
@@ -162,6 +193,11 @@ When it’s all done, resume your download and it should be faster.
 2. Click the profile icon on the top right corner and then Settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
 5. Try downloading your games again.
@@ -177,13 +213,15 @@ When it’s all done, resume your download and it should be faster.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,6 +230,24 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-blueprints-for-impressive-fb-ad-campaigns/"><u>[New] 2024 Approved Blueprints for Impressive FB Ad Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-photographers-toolkit-polarr-edition/"><u>[New] The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[Updated] 2024 Approved Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-bd-issues-on-ws-21-ws-8-and-older-windows/"><u>Addressing BD Issues on WS-21, WS-8 & Older Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel File</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fury-fixed-for-spartans-journey/"><u>Fury Fixed for Spartan's Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-the-ultimate-guide-to-reducing-tech-diversions-top-8-prompts/"><u>How to Use ChatGPT: The Ultimate Guide to Reducing Tech Diversions (Top 8 Prompts)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-htc-u23-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On HTC U23 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-turnaround-achieved/"><u>Laptop Screen Turnaround Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-window-11-display-configurations/"><u>Missing Window 11 Display Configurations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recover-lost-display-settings-easy-way/"><u>Recover Lost Display Settings, Easy Way</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvidia-7025-on-win10-compatibility/"><u>Resolved Nvidia 7025 on Win10 Compatibility</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-gt-5-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme GT 5 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solidify-displays-edge-integrity/"><u>Solidify Display's Edge Integrity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974830104-swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-items-for-the-perfect-summer-everyday-carry-edc-kit/"><u>Top 7 Must-Have Items for the Perfect Summer Everyday Carry (EDC) Kit</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29e-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29e Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
 

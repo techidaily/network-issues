@@ -1,7 +1,7 @@
 ---
 title: Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10
-date: 2024-11-08T23:42:39.178Z
-updated: 2024-11-15T00:32:24.755Z
+date: 2024-11-17T23:47:05.150Z
+updated: 2024-11-23T20:22:47.014Z
 tags:
   - win11
   - win10
@@ -48,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -84,6 +81,10 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -91,10 +92,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -104,10 +102,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -125,22 +120,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,24 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-next-level-windows-experience/"><u>[New] The Next-Level Windows Experience</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-free-thumbnail-downloader-solutions-online/"><u>2024 Approved Free Thumbnail Downloader Solutions Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-heroic-hurdles-the-ultimate-10-role-playing-journeys/"><u>2024 Approved Heroic Hurdles The Ultimate 10 Role-Playing Journeys</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-emulation-suites-to-experience-sonys-ps1-library/"><u>2024 Approved Top 5 Emulation Suites to Experience Sony's PS1 Library</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-xs-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone XS Max for Free</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-missing-screen-detectors/"><u>Address Missing Screen Detectors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/alibaba-anticipates-executive-reshuffle-with-ceos-strategic-shift-towards-cloud-services-technewsz/"><u>Alibaba Anticipates Executive Reshuffle with CEO's Strategic Shift Towards Cloud Services | TechNewsZ</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10.</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/can-you-tell-me-how-expensive-it-is-to-retrieve-deleted-items-from-my-laptop-storage-device/"><u>Can You Tell Me How Expensive It Is to Retrieve Deleted Items From My Laptop Storage Device?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-installation-of-wireless-lan-cards-in-desktop-operating-systems/"><u>Easy Installation of Wireless LAN Cards in Desktop Operating Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-nforce630a-with-new-os-compatibility/"><u>Harmonizing nForce630a with New OS Compatibility</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-royalty-free-clip-art-strategies-and-sources/"><u>In 2024, Royalty-Free Clip Art Strategies and Sources</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-troubleshoot-fix-not-refreshing-fullscreen/"><u>Monitor Troubleshoot: Fix Not Refreshing Fullscreen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/superior-visuals-achieved-geforce-210-driver-on-windows-os/"><u>Superior Visuals Achieved: GeForce 210 Driver on Windows OS</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-for-gpu-fan-revival/"><u>Techniques for GPU Fan Revival</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-graphics-on-ryzen-5-2500u-made-easy-install-new-drivers-instantly/"><u>Upgrading Graphics on Ryzen 5 2500U Made Easy – Install New Drivers Instantly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-update-brings-new-features-to-amds-radeon-hd-6950/"><u>Win11 Update Brings New Features to AMD's Radeon HD 6950</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-over-latency-in-win-1011-networks/"><u>Winning Over Latency in Win 10/11 Networks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insta-elite-blueprint-15-proven-tips-to-amass-thousands-of-followers-rapidly/"><u>[Updated] 2024 Approved The Insta Elite Blueprint 15 Proven Tips to Amass Thousands of Followers Rapidly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bursting-through-bandwidth-barriers-in-win1011/"><u>Bursting Through Bandwidth Barriers in Win10/11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debug-evasive-graphics-cards/"><u>Debug Evasive Graphics Cards</u></a></li>
+<li><a href="https://windows11.techidaily.com/disarming-the-windows-11-afc-error-camera-app-solution/"><u>Disarming the Windows 11 AFC Error: Camera App Solution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/discovering-superior-alternatives-to-cyberlink-for-2024/"><u>Discovering Superior Alternatives to Cyberlink for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disentangled-power-management-options/"><u>Disentangled: Power Management Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-dilemma-solved-nvidia-stable-now/"><u>Display Dilemma Solved: Nvidia Stable Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-steps-for-eradicating-uneven-screen-horizontal-lines/"><u>Essential Steps for Eradicating Uneven Screen Horizontal Lines</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-visual-chipset-restore-nvidia-graphics-recognition/"><u>Hidden Visual Chipset: Restore NVIDIA Graphics Recognition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11x-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo K11x Phone with Broken Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-play-7t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Play 7T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-podcast-branding-a-comprehensive-logo-guidebook-for-2024/"><u>Innovating Podcast Branding A Comprehensive Logo Guidebook for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-video-views-after-switching-to-win10/"><u>Optimizing Video Views After Switching to Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-network-consumption-with-svchostexe-netsvcs-tips-and-fixes/"><u>Troubleshooting High Network Consumption with svchost.exe (NETSVCS): Tips and Fixes</u></a></li>
 </ul></div>
 

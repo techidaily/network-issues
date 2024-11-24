@@ -1,7 +1,7 @@
 ---
 title: Banish the Win11 Screen Twinkle
-date: 2024-07-12T00:19:08.363Z
-updated: 2024-07-13T00:19:08.363Z
+date: 2024-11-17T02:42:28.879Z
+updated: 2024-11-23T23:51:01.887Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0a8efd832e4ff850ed2946c105917f658a3e5ec7d
 ## Banish the Win11 Screen Twinkle
 
  If you’ve been experiencing screen flashing or flickering issues on your Windows 10 computer lately, don’t panic. It can be easily fixed…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for screen flashing or flickering problem
 
@@ -41,6 +45,11 @@ Here is how to change the monitor refresh rate:
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
@@ -63,6 +72,10 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -75,6 +88,10 @@ Here is how to change the monitor refresh rate:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -84,8 +101,18 @@ To do so:
 1. On your keyboard, press the **Windows logo key**  and **R**   at the same time. Then type **services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
@@ -158,8 +185,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +192,24 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-guide-clearing-up-youtube-watchlater-stored-list-for-2024/"><u>[Updated] Guide Clearing Up YouTube Watchlater Stored List for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-udemy-alternatives-10-best-online-learning-sites-like-udemy/"><u>[Updated] Udemy Alternatives 10 Best Online Learning Sites Like Udemy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-snapshot-selection-unveiling-the-top-10-camera-lenses/"><u>2024 Approved Snapshot Selection Unveiling the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y02t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y02T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/distinguishing-4k-from-other-video-resolutions/"><u>Distinguishing 4K From Other Video Resolutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-display-quality-instantly-intels-latest-graphics-update-in-windows-10/"><u>Enhance Display Quality Instantly: Intel's Latest Graphics Update in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ensuring-seamless-gameplay-fixing-civ5-glitches/"><u>Ensuring Seamless Gameplay: Fixing CIV5 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/final-fantasy-fiasco-frustratingly-fast/"><u>Final Fantasy Fiasco: Frustratingly Fast</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-inside-look-unlocking-the-potential-of-m1-max-clip/"><u>In 2024, Inside Look Unlocking the Potential of M1 Max Clip</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-fix-up-achieved-desired-fullscreen-on-win11/"><u>Monitor Fix-Up: Achieved Desired FullScreen on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-pc-gaming-fixing-win-minecraft-graphics-drivers/"><u>Reviving PC Gaming: Fixing Win-Minecraft Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-wi-fi-connection-conundrum/"><u>The Wi-Fi Connection Conundrum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-affordable-residential-generator-offers-decembers-picks-by-zdnet/"><u>Top 4 Affordable Residential Generator Offers - December's Picks by ZDNet</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-top-9-choices-for-video-auto-translate/"><u>Updated In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-calibration-resolution-fix/"><u>Win11 Display Calibration Resolution Fix</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/midiogg-movavi/"><u>オンラインでフリーMIDI形式からOGGへの変換 - Movavi</u></a></li>
+</ul></div>
 

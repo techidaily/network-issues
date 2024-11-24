@@ -1,7 +1,7 @@
 ---
 title: Solved OpenGL Issue on Nvidia Graphics Hardware
-date: 2024-11-14T01:55:45.222Z
-updated: 2024-11-14T23:26:54.668Z
+date: 2024-11-17T18:51:59.587Z
+updated: 2024-11-24T06:30:17.204Z
 tags:
   - win11
   - win10
@@ -53,20 +53,21 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -82,14 +83,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -98,13 +96,6 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -115,18 +106,19 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -152,22 +144,22 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-fuel-the-spark-essential-themes-for-youtube-success/"><u>[New] 2024 Approved Fuel the Spark Essential Themes for YouTube Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>[New] A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-hands-in-vrar/"><u>[Updated] 2024 Approved Unveiling the Secrets of Hands in VR/AR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-up-the-fun-top-new-wins11-games-unveiled/"><u>[Updated] Step Up the Fun Top New Wins11 Games Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/"><u>2024 Approved Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/core-i9-pc-lacks-graphics-acceleration/"><u>Core I9 PC Lacks Graphics Acceleration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-display-only-partial-windows-on-monitor-windows-10/"><u>Corrected Display - Only Partial Windows on Monitor (Windows 10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-acceleration-not-available-solved/"><u>Direct3D Acceleration Not Available [SOLVED]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ver-keyword-power-30-must-use-hashtags-for-freegame-content/"><u>Discover Keyword Power 30 Must-Use Hashtags for FreeGame Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhanced-development-blending-chatgpt-and-vs-code-ideas/"><u>Enhanced Development: Blending ChatGPT & VS Code Ideas</u></a></li>
-<li><a href="https://network-issues.techidaily.com/excellent-display-quality-now-windows-10/"><u>Excellent Display Quality Now, Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-windows-10-expanded-view-errors/"><u>Overcome Windows 10 Expanded View Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-disappearing-monitor-ghosts/"><u>Revealing Disappearing Monitor Ghosts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-vertical-distortion-phenomena/"><u>Stop Vertical Distortion Phenomena</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-pro-7-screen-fluctuations/"><u>Troubleshooting Pro 7 Screen Fluctuations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-70-lite-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor 70 Lite 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-embracing-asmr-a-path-to-holistic-health/"><u>[New] Embracing ASMR A Path to Holistic Health</u></a></li>
+<li><a href="https://network-issues.techidaily.com/address-slow-response-roblox-windows-edition/"><u>Address Slow Response: Roblox Windows Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amds-fast-track-to-bug-free-tarkov/"><u>AMD's Fast-Track to Bug-Free Tarkov</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/automated-data-collection-enhanced-with-cookiebot-technology/"><u>Automated Data Collection: Enhanced with Cookiebot Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-buffer-artifacts-watch-fluidly/"><u>Banish Buffer Artifacts, Watch Fluidly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/earn-on-the-go-snapchats-money-tips/"><u>Earn on the Go Snapchat's Money Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ethereal-editing-in-extended-frame-rate/"><u>Ethereal Editing in Extended Frame Rate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-the-sims-4-white-screen-issues-easily/"><u>Fix The Sims 4 White Screen Issues Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-monitor-blinking-issues/"><u>How to Fix Monitor Blinking Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-10t-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 10T 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>In 2024, From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-simplified-video-posts-on-twitter-and-tumblr/"><u>In 2024, Simplified Video Posts on Twitter and Tumblr</u></a></li>
+<li><a href="https://network-issues.techidaily.com/interactive-lenovo-screen-issue-fixed-done/"><u>Interactive Lenovo Screen Issue Fixed [Done]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-faded-screen-brightness-on-lenovo-laptops/"><u>Solving Faded Screen Brightness on Lenovo Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-wi-fi-connection-upgrade-with-new-card-for-os-xwindows/"><u>Streamline Wi-Fi Connection: Upgrade with New Card for OS X/Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-funny-iphoneipad-scams-for-a-good-laugh-ideas-for-tech-savvy-pranksters/"><u>Top Funny iPhone/iPad Scams for a Good Laugh: Ideas for Tech-Savvy Pranksters</u></a></li>
 </ul></div>
 

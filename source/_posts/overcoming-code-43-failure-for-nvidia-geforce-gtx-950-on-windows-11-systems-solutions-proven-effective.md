@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Code 43' Failure for NVIDIA GeForce GTX 950 on Windows 11 Systems - Solutions Proven Effective
-date: 2024-11-12T17:22:30.174Z
-updated: 2024-11-14T20:40:01.217Z
+date: 2024-11-18T06:59:09.492Z
+updated: 2024-11-24T10:53:46.332Z
 tags:
   - win11
   - win10
@@ -47,11 +47,19 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
@@ -62,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -86,16 +98,7 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -104,40 +107,17 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -175,17 +155,21 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/repaired-offline-mode-cod-cold-war-2024-update/"><u>[REPAIRED] Offline Mode: CoD Cold War 2024 Update</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-top-5-techniques-for-quiet-filming-experiences/"><u>[Updated] In 2024, The Top 5 Techniques for Quiet Filming Experiences</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cloud-service-assurance/"><u>Cloud Service Assurance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-troubleshooting-route-no-current-gfx-wnvidia/"><u>Direct Troubleshooting Route: No Current GFX W/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-gpus-fixedcode-22-issue/"><u>Fixing GPU's FixedCode #22 Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mending-windows-10-rapid-flash-problem/"><u>Mending Windows 10 Rapid Flash Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-problems-with-obs-desktop-sound-recording-and-playback/"><u>Resolving Problems with OBS Desktop Sound Recording and Playback</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/restoring-your-samsung-soundbar-expert-advice-for-bringing-it-back-to-life/"><u>Restoring Your Samsung Soundbar: Expert Advice for Bringing It Back to Life</u></a></li>
-<li><a href="https://network-issues.techidaily.com/speedily-elevate-intels-graphic-driver-for-windows-11/"><u>Speedily Elevate Intel's Graphic Driver for Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pop-8-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pop 8</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-to-get-your-display-driver-up-and-running-on-windows/"><u>Tips to Get Your Display Driver Up and Running on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-startup-error-successfully-overcome/"><u>D3D Startup Error, Successfully Overcome</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-ultimategoog-a-critical-review-of-the-quintessential-mirror-site/"><u>Delving Into Ultimategoog - A Critical Review of The Quintessential Mirror Site</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-system-recovered-after-hang-up/"><u>Display System Recovered After Hang-Up</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-resolving-when-a-mac-refuses-to-connect-with-an-additional-screen/"><u>Expert Tips for Resolving When a Mac Refuses to Connect with an Additional Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fastest-way-getting-rid-of-your-systems-graphics-drivers/"><u>Fastest Way: Getting Rid of Your System's Graphics Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-common-haldll-error-across-various-windows-versions-including-11-10-and-more/"><u>Fixing the Common hal.dll Error Across Various Windows Versions Including 11, 10, and More</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s17mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S17Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/illuminate-darkness-in-lenovo-notebooks/"><u>Illuminate Darkness in Lenovo Notebooks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c210-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia C210 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-free-and-paid-3d-video-makers-for-2024/"><u>New Unleash Your Creativity Best Free and Paid 3D Video Makers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-screen-flip-issue-with-windows-11/"><u>Overcoming Screen Flip Issue with Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-all-available-screen-configurations-on-gpu/"><u>Reactivating All Available Screen Configurations on GPU</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-eradicating-slimcleaner-plus-with-malwarefox/"><u>Step-by-Step Guide: Eradicating SlimCleaner Plus with MalwareFox</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hidden-truth-about-wi-fi-absence-in-windows-11/"><u>The Hidden Truth About Wi-Fi Absence in Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-video-editing-software-alternatives-to-sony-vegas-for-pc/"><u>Updated 2024 Approved Best Video Editing Software Alternatives to Sony Vegas for PC</u></a></li>
 </ul></div>
 

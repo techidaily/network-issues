@@ -1,7 +1,7 @@
 ---
 title: Quick Resolution to AMD Woes
-date: 2024-07-12T00:16:36.343Z
-updated: 2024-07-13T00:16:36.343Z
+date: 2024-11-23T08:46:00.617Z
+updated: 2024-11-24T05:11:31.810Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  A variety of issues, including graphics glitches, can be caused by corrupted or missing game files. Therefore, you’ll need to perform an integrity check to resolve your problem. Follow the steps below to do so.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
  This may take some minutes to redownload and reinstall any missing or corrupted game files.
 
  When the process is finished, relaunch your game and test the gameplay. If it’s still unplayable when it’s raining, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete the game cache
 
@@ -64,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-temp-folder.png)
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
 
@@ -82,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -103,6 +119,10 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
 ---
@@ -115,8 +135,6 @@ If your game is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +142,24 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-15-steps-towards-perfecting-your-educational-video-content-for-youtube/"><u>[Updated] In 2024, 15 Steps Towards Perfecting Your Educational Video Content for YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-your-route-to-revisiting-fbs-recently-viewed-gems-for-2024/"><u>[Updated] Your Route to Revisiting Fb’s Recently Viewed Gems for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-wi-fi-integration-a-comprehensive-guide-to-os-xwindows/"><u>Effortless Wi-Fi Integration: A Comprehensive Guide to OS X/Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-cutting-avi-videos-top-tools-for-windows-mac-and-android-for-2024/"><u>New The Ultimate Guide to Cutting AVI Videos Top Tools for Windows, MAC, and Android for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-grainy-graphics-on-far-cry-6-console/"><u>Overcoming Grainy Graphics on Far Cry 6 Console</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reformatting-device-issue-venint33a0/"><u>Reformatting Device Issue: VEN_INT33A0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-failed-d3d-initialization/"><u>Resolving Failed D3D Initialization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/skyrocket-chatgpt-use-with-these-powerful-9-tools/"><u>Skyrocket ChatGPT Use with These Powerful 9 Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-transition-to-clear-views/"><u>Smooth Transition to Clear Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-win11-blackout-post-fall-creators-fix/"><u>Solving Win11 Blackout Post Fall Creator's Fix</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellardata-salvage-hub/"><u>StellarData Salvage Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-guide-updating-your-intel-graphics-in-windows-7/"><u>Step-By-Step Guide: Updating Your Intel Graphics In Windows 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-monitors-layout-on-w11/"><u>Transform Your Monitor's Layout on W11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-chatgpt-six-steps-to-ace-your-job-application-process/"><u>Unlock the Power of ChatGPT: Six Steps to Ace Your Job Application Process</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-missing-advanced-display-options/"><u>Windows 11: Missing Advanced Display Options</u></a></li>
+</ul></div>
 

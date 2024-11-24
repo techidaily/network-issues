@@ -1,7 +1,7 @@
 ---
 title: Quash AMD Graphical Faux Pas
-date: 2024-11-13T01:44:54.035Z
-updated: 2024-11-15T00:35:03.653Z
+date: 2024-11-23T06:08:08.577Z
+updated: 2024-11-23T19:48:50.914Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ## Quash AMD Graphical Faux Pas
 
  These days, AMD graphics card users are pretty bummed when playing Escape from Tarkov. The game becomes unplayable when it’s raining. Everything is covered with shadows and black. If you’re on the same boat, don’t worry. In our article, we’ll show you effective methods to fix this graphics issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/integrity-check-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This may take some minutes to redownload and reinstall any missing or corrupted game files.
 
  When the process is finished, relaunch your game and test the gameplay. If it’s still unplayable when it’s raining, try the next fix below.
@@ -55,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
  Then relaunch your game. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clean your temp folder
@@ -70,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-temp-folder.png)
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
@@ -104,22 +96,12 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After updating drivers, restart your PC and test the gameplay.
 
@@ -138,10 +120,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
@@ -165,18 +144,21 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-elevate-your-voice-content-with-garageband-mastery/"><u>[Updated] Elevate Your Voice Content with GarageBand Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-captivating-spokesperson-appraisal-8th-analysis/"><u>[Updated] In 2024, Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieving-perfect-soundscape-essential-equipment-guide-for-podcasters/"><u>2024 Approved Achieving Perfect Soundscape Essential Equipment Guide for Podcasters</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G Stylus 5G (2023)?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-depth-gopro-hero5-testing-report/"><u>In-Depth GoPro Hero5 Testing Report</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Pro Max Properly | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-overcoming-windows-error-code-xffffff/"><u>Quick Guide: Overcoming Windows Error Code XFFFFFF</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-successful-gdx-setup-in-windows-os/"><u>Restored Successful GDX Setup in Windows OS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/sketch-humorous-images-with-adobe/"><u>Sketch Humorous Images with Adobe</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninterrupted-windows-11-viewport/"><u>Uninterrupted Windows 11 Viewport</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zero-tolerance-for-winos-com-issues/"><u>Zero Tolerance for WinOS COM Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-free-after-effects-title-templates/"><u>[New] Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-connection-for-cod-cold-war/"><u>[SOLVED] Restoring Internet Connection for CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-winnet-speed-leapfrogging-latency-limits/"><u>[SOLVED] WinNet Speed: Leapfrogging Latency Limits</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-strategies-for-adjusting-song-speed-on-spotify/"><u>2024 Approved Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/6kej5yaz5peg5rov5l255so55qe5yqo5ocb5a2y5yko6k6plus5ash6zeu6aky77ya6kplusm57ug5oyh5y2x/"><u>解决无法使用的动态存储设备问题：详细指南</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/beyond-basiccams-prospects-of-elevated-performance/"><u>Beyond BasicCams Prospects of Elevated Performance</u></a></li>
+<li><a href="https://techidaily.com/exploring-copernic-a-comprehensive-guide-to-efficient-photo-browsing/"><u>Exploring Copernic: A Comprehensive Guide to Efficient Photo Browsing</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-poco-f5-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco F5 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-to-tv-connection-issue-no-response/"><u>Laptop-to-TV Connection Issue: No Response</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/live-streaming-made-easy-with-manycam-professional-grade-virtual-camera-app/"><u>Live Streaming Made Easy with ManyCam: Professional-Grade Virtual Camera App</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-hidden-graphic-card-discrepanrances/"><u>Mend Hidden Graphic Card Discrepanrances</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedies-to-eliminate-lenovo-refreshes/"><u>Remedies to Eliminate Lenovo Refreshes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamped-kratos-skillset/"><u>Revamped Kratos Skillset</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-large-screen-distortion-in-windows-10/"><u>Tackled Large Screen Distortion in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-list-of-affordable-iphone-collage-creation-apps/"><u>The Ultimate List of Affordable, iPhone Collage Creation Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-global-opportunities-through-multilingual-skills/"><u>Unlocking Global Opportunities Through Multilingual Skills</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Error by NVidia: Windows Halted, Problem Solved"
-date: 2024-11-08T20:16:35.358Z
-updated: 2024-11-14T19:44:46.111Z
+date: 2024-11-17T06:57:51.803Z
+updated: 2024-11-23T22:37:30.090Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 5) Reboot your computer and check to see if the problem is resolved. If you’re still getting the error, you can move on to our next suggestion.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 2: Update the driver**
 
  A faulty graphics driver may be what’s causing the error, so you should try to update the driver to the latest version . If you don’t have the time, patience or computer skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-619.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the Nvidia graphics driver.  In the example below, we’ve got NVIDIA Geforce GTX 1080\. This will automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version)
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.
@@ -71,10 +68,11 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 3: Uninstall the NVIDIA graphics driver**
@@ -88,15 +86,16 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
 
 ![uninstall nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d7a03426f1b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your computer and check to see if the problem is resolved.
 
@@ -113,13 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
  2) Right-click on the NVIDIA device name. The context menu will pop up. Click**Disable**  on the context menu.
 
 ![disable nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d79e02d7ee6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Press your power button until your computer shuts down.
 
@@ -148,16 +140,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-perfecting-the-art-of-facebook-live-recording-for-2024/"><u>[New] Perfecting the Art of Facebook Live Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-achieve-visual-dominance-with-facebooks-full-screen-capability-for-2024/"><u>[Updated] Achieve Visual Dominance with Facebook's Full-Screen Capability for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-clipsyndicate-videos-to-popular-formats-like-mp4-and-avi-effortless-downloading/"><u>Convert Your ClipSyndicate Videos to Popular Formats Like MP4 & AVI - Effortless Downloading</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-videography-mastering-the-dimensions/"><u>Elevate Your Videography Mastering the Dimensions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-optimal-conditions-for-intel-graphics-drivers/"><u>Ensuring Optimal Conditions for Intel Graphics Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guide-to-reactivate-hidden-hardware-in-pc/"><u>Guide to Reactivate Hidden Hardware in PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c55-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme C55 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-issue-addressed-windows-ceases-operation/"><u>NVIDIA Issue Addressed - Windows Ceases Operation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/peeking-behind-the-screen-instagram-audience-explorer/"><u>Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restore-original-screen-vision-order/"><u>Restore Original Screen Vision Order</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win-1110-driver-fix-ms-bd-update/"><u>Win 11/10 DRIVER Fix: MS BD Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-perfectly-blend-audiotracks-in-slideshows-for-2024/"><u>[Updated] How to Perfectly Blend Audiotracks in Slideshows for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-your-twitch-live-recordings-today/"><u>2024 Approved Streamline Your Twitch Live Recordings Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-tech-gems-of-2024-unlocking-high-quality-laptops-under-1000-comprehensive-ratings-and-reviews-techradar/"><u>Affordable Tech Gems of 2024: Unlocking High-Quality Laptops Under $1,000 - Comprehensive Ratings and Reviews | TechRadar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-error-windows-blue-screen-fix/"><u>dxgkrnl.sys Error: Windows Blue Screen Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-reno-8t-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo Reno 8T online without jailbreak</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-unused-scenes-a-filmmakers-approach/"><u>In 2024, Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-screen-extension-in-w11-os/"><u>Mastering Screen Extension in W11 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-level-gaming-rtx210-drivers-for-windows-11-update/"><u>Next-Level Gaming - RTX210 Drivers for Windows 11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-suitable-cg-available-fix-needed/"><u>No Suitable CG Available, Fix Needed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauled-erratic-code-22-in-drivers/"><u>Overhauled Erratic Code 22 in Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purging-unwanted-windows-screen-flashes/"><u>Purging Unwanted Windows Screen Flashes</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/solving-your-netflix-playback-issues-aligning-audio-with-video-perfectly/"><u>Solving Your Netflix Playback Issues: Aligning Audio with Video Perfectly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-workings-of-intrinsic-computerized-thinking-models/"><u>The Workings of Intrinsic Computerized Thinking Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-sound-troubleshooting-for-mystery-speaker-configurations/"><u>Windows 10 Sound Troubleshooting for Mystery Speaker Configurations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Age of Empires II Launch - PC Compatibility Woes"
-date: 2024-11-10T22:45:30.531Z
-updated: 2024-11-14T20:24:15.460Z
+date: 2024-11-20T01:28:05.464Z
+updated: 2024-11-24T09:58:27.481Z
 tags:
   - win11
   - win10
@@ -26,31 +26,11 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -94,10 +74,7 @@ To do so, first visit the website of your GPU manufacturer:
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
@@ -138,6 +115,10 @@ You need to check 2 elements:
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Edit your file name
 
  We don’t know the reason but many gamers have tried and it worked for some people. If you’re a Steam user, you can give it a try, it may surprise you.
@@ -151,10 +132,7 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -173,13 +151,14 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
@@ -199,15 +178,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-handbook-of-personal-branding-mastering-facebook-biographies/"><u>[Updated] The Essential Handbook of Personal Branding - Mastering Facebook Biographies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pursuing-your-vision-learn-professional-filmmaking-on-youtube/"><u>2024 Approved Pursuing Your Vision Learn Professional Filmmaking on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Asus ROG Phone 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-uploading-videos-into-personalized-playlists/"><u>Mastering the Art of Uploading Videos Into Personalized Playlists</u></a></li>
-<li><a href="https://network-issues.techidaily.com/operating-system-update-resolves-opengl-error/"><u>Operating System Update Resolves OpenGL Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-display-alignment-on-desktops/"><u>Optimize Display Alignment on Desktops</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/sony-vaio-compatible-drivers-free-downloads-and-step-by-step-installation-guide-for-windows-users/"><u>Sony VAIO Compatible Drivers - Free Downloads & Step-by-Step Installation Guide for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-generate-individual-meme-crafts-today/"><u>[Updated] Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>2024 Approved Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adapt-screen-size-without-losing-resolution-on-win11/"><u>Adapt Screen Size without Losing Resolution on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-server-stumble-errors-on-microsoft-store-win-1011/"><u>Bypassing Server Stumble Errors on Microsoft Store, Win 10/11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-the-purpose-of-4k-high-definition/"><u>Decoding the Purpose of 4K High-Definition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/directcompute-unavailable-fix-applied/"><u>DirectCompute Unavailable: Fix Applied</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-ultimate-macx-dvd-ripper-effortless-mac-os-x-software-to-transform-dvds-into-high-quality-flv-files/"><u>Download the Ultimate MacX DVD Ripper: Effortless Mac OS X Software to Transform DVDs Into High-Quality FLV Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitors-inability-to-show-fullscreen-windows-11/"><u>Fixed Monitor's Inability to Show Fullscreen Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-correction-error-43/"><u>Graphics Correction: Error 43</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-xiaomi-redmi-12-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Xiaomi Redmi 12 5G PIN</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-prime-tools-for-pro-video-creation-on-android-windows/"><u>In 2024, Prime Tools for Pro Video Creation on Android, Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 6 Plus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mohu-leaf-30-tv-antenna-the-ideal-balance-between-cost-and-superior-performance-revealed/"><u>Mohu Leaf 30 TV Antenna - The Ideal Balance Between Cost and Superior Performance Revealed!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-on-windows-7-fixed/"><u>Screen Upside Down on Windows 7 [FIXED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenstopper-on-graphicswindow-os-works-awaiting-confirmation/"><u>ScreenStopper on GraphicsWindow OS (Works Awaiting Confirmation)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-10-fixed-screen-size-adjustment-hurdle-successfully/"><u>Win 10: Fixed Screen Size Adjustment Hurdle Successfully</u></a></li>
 </ul></div>
 

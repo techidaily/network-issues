@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade
-date: 2024-11-09T20:37:24.015Z
-updated: 2024-11-14T20:24:41.311Z
+date: 2024-11-18T19:55:41.652Z
+updated: 2024-11-23T20:38:20.343Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  You get a**black screen after Windows 10 update** ? Don’t worry. Many Windows users have been there, and most of them managed to fix the issue by using one of the methods below. You can work your way down the list until you find the one that works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Try a Windows key sequence to wake the screen**](https://tools.techidaily.com/drivereasy/download/)
@@ -35,25 +39,11 @@ A quick fix to your black screen problem would be:
 * If you have a keyboard connected, press the   **Windows logo![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
 **key+Ctrl+Shift + B**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
 
  If Windows is responsive, a short beep will sound and the screen will blink or dim while Windows attempts to refresh the screen.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 2: Unplug unnecessary USB equipment
 
@@ -85,22 +75,12 @@ If this produces no results, you can move on to Fix 3.
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -127,14 +107,11 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
 7. **Restart** your PC to check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 5: Log in using a different user account
 
@@ -155,18 +132,15 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Accounts** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### How to activate the original Windows administrator account
 
@@ -178,6 +152,10 @@ If this produces no results, you can move on to Fix 3.
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 6: Reset your PC
 
@@ -192,29 +170,21 @@ If this produces no results, you can move on to Fix 3.
 4. In the left pane, click**Recovery** .  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -238,19 +208,24 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-quick-start-guide-to-arranging-engaging-google-sessions-for-2024/"><u>[New] Quick Start Guide to Arranging Engaging Google Sessions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-accelerate-your-photo-edits-expert-lunapic-techniques/"><u>[Updated] Accelerate Your Photo Edits Expert LunaPic Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-professional-guide-to-youtube-screen-capturing-for-2024/"><u>[Updated] Professional Guide to YouTube Screen Capturing for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-complete-lenovo-x220-driver-set-fast-installation/"><u>Easy Download: Complete Lenovo X220 Driver Set - Fast Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-pixel-misalignment-effects/"><u>Eliminate Pixel Misalignment Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epic-discount-alert-score-an-hp-victus-n15-gaming-laptop-at-just-515-dont-miss-out-on-this-unbeatable-best-buy-prime-day-deal-explore-it-now/"><u>Epic Discount Alert: Score an HP Victus N15 Gaming Laptop at Just $515! Don't Miss Out on This Unbeatable Best Buy Prime Day Deal – Explore It Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-and-set-up-sound-blaster-z-drivers-for-optimal-windows-10-performance/"><u>How to Download and Set Up Sound Blaster Z Drivers for Optimal Windows 10 Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-complete-no-issues-found/"><u>Installation Complete: No Issues Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mending-display-settings-saving-problems-in-win/"><u>Mending Display Settings Saving Problems in Win</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-issues-nvidiaintel-switchable-graphics-on-win10/"><u>Overcoming Compatibility Issues: Nvidia/Intel Switchable Graphics on Win10</u></a></li>
-<li><a href="https://win-online.techidaily.com/simultaneous-os-deployment-strategies-for-efficient-multi-machine-configuration/"><u>Simultaneous OS Deployment Strategies for Efficient Multi-Machine Configuration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-graphics-potential-windows-10-now-features-nvidia-210/"><u>Unleash Graphics Potential: Windows 10 Now Features Nvidia 210</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovating-highest-quality-canon-sequences/"><u>[Updated] Innovating Highest Quality Canon Sequences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterpieces-in-3d-graphics-and-golden-displaytexts-online/"><u>[Updated] Masterpieces in 3D Graphics and Golden DisplayTexts Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-display-defects-in-windows/"><u>Banish Display Defects in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-blurry-textures-in-far-cry-6-gameplay/"><u>Clearing Up Blurry Textures in Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dampening-discoloration-in-win7-output/"><u>Dampening Discoloration in Win7 Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-dark-windows-display-post-update/"><u>Ending Dark Windows Display Post-Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-absent-display-preferences-on-nvidia-graphics/"><u>Fixing Absent Display Preferences on Nvidia Graphics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/google-nest-audio-vs-apple-homepod-a-comprehensive-sound-quality-comparison/"><u>Google Nest Audio Vs. Apple HomePod - A Comprehensive Sound Quality Comparison</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-pc-to-recognize-usb-devices-on-windows-10-solution-included/"><u>How To Get Your PC To Recognize USB Devices On Windows 10 (Solution Included)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-15-pro-maxipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 15 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-making-the-perfect-match-of-drones-and-propellers/"><u>In 2024, Mastery in Making the Perfect Match of Drones and Propellers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauling-amd-radeon-r9-driver-stability-in-w10/"><u>Overhauling AMD Radeon R9 Driver Stability in W10</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-and-ps3-game-compatibility/"><u>PS4 and PS3 Game Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamping-bdr-for-win-versions-11-to-7/"><u>Revamping BDR for Win Versions 11 to 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/srt-deep-dive-core-principles-and-details/"><u>SRT Deep Dive Core Principles and Details</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-configuration-saved-and-fixed/"><u>Visual Configuration Saved & Fixed</u></a></li>
 </ul></div>
 

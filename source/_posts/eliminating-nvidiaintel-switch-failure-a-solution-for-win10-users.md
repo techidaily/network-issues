@@ -1,7 +1,7 @@
 ---
 title: "Eliminating NVIDIA/Intel Switch Failure: A Solution for Win10 Users"
-date: 2024-11-11T01:26:01.424Z
-updated: 2024-11-14T16:45:52.183Z
+date: 2024-11-20T07:38:33.936Z
+updated: 2024-11-23T22:07:34.364Z
 tags:
   - win11
   - win10
@@ -37,11 +37,19 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -61,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -77,13 +89,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -91,23 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -115,13 +104,6 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -133,6 +115,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
@@ -140,13 +126,6 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,22 +142,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-boosting-interactions-on-tiktok-top-30-creative-username-suggestions/"><u>[New] Boosting Interactions on TikTok - Top 30 Creative Username Suggestions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-innovative-guide-to-efficient-and-effective-screen-recording/"><u>[New] Innovative Guide to Efficient and Effective Screen Recording</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-enhancing-your-content-10-exceptional-reacting-techniques/"><u>2024 Approved Enhancing Your Content 10 Exceptional Reacting Techniques</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discovering-lost-content-top-4-methods-for-recovering-deleted-pictures-on-reddit/"><u>Discovering Lost Content: Top 4 Methods for Recovering Deleted Pictures on Reddit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-dvd-navigation-integrating-videos-into-windows-media-player-on-pc/"><u>Effortless DVD Navigation: Integrating Videos Into Windows Media Player on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-the-windows-error-code-0x8007251d-for-activation/"><u>Eliminating the Windows Error Code 0X8007251D for Activation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windowas-10-driver-issue-for-amd-detection-no-more-failed-attempts/"><u>Fixed Windowas 10 Driver Issue for AMD, Detection No More Failed Attempts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-error-43-on-gpu/"><u>Fixing Error 43 on GPU</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-does-social-media-platform-like-facebook-justify-permitting-multiplicity-in-user-identity/"><u>How Does Social Media Platform Like Facebook Justify Permitting Multiplicity in User Identity?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/optimal-handbrake-configuration-the-ultimate-guide-for-converting-dvds-to-mkv/"><u>Optimal HandBrake Configuration: The Ultimate Guide for Converting DVDs to MKV</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-graphics-anomaly-gl-issue-now-solved/"><u>Overcome Graphics Anomaly: GL Issue, Now Solved</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/parrot-ar-drone-enhanced-a-compreayer-report/"><u>Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
-<li><a href="https://network-issues.techidaily.com/powering-through-with-new-amd-graphics-drivers-version-20/"><u>Powering Through with New AMD Graphics Drivers - Version 2.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-freeze-problem-windows-pointer/"><u>Resolve Freeze Problem: Windows Pointer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974682383-swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-amd-radeon-hd-6950-windows-update/"><u>Upgraded AMD Radeon HD 6950 Windows Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-graphic-glitch-rectified/"><u>Win11 Graphic Glitch Rectified</u></a></li>
+<li><a href="https://network-issues.techidaily.com/altered-no-advanced-display-settings-found/"><u>[Altered] No Advanced Display Settings Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-warframe-crashing-launch-directx-issue/"><u>[CORRECTED] Warframe Crashing Launch - DirectX Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-elite-d-class-dungeons-topping-the-list/"><u>[New] 2024 Approved Elite D-Class Dungeons Topping the List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplifying-your-fb-live-broadcasts-on-zoom/"><u>[New] Simplifying Your FB Live Broadcasts on Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tech-tools-for-distance-podcasting/"><u>[New] Tech Tools for Distance Podcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-digitize-your-old-photos-and-turn-them-into-impressive-videos/"><u>[Updated] How to Digitize Your Old Photos and Turn Them Into Impressive Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premium-monitors-the-best-5-selection-for-ps5-gaming-for-2024/"><u>[Updated] Premium Monitors The Best 5 Selection for PS5 Gaming for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>2024 Approved Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/black-glare-driver-upload-flop/"><u>Black Glare: Driver Upload Flop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-hidden-display-adjustments-in-windows-11/"><u>Discover Hidden Display Adjustments in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-pause-and-stutter-in-videos/"><u>Eliminate Pause and Stutter in Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-nvidia-card-resolution-on-pcs-device-list/"><u>Hidden NVIDIA Card: Resolution on PC's Device List</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-non-empty-directory-error-code-0x80070091-in-win11/"><u>How to Correct Non-Empty Directory Error (Code: 0X80070091) in Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-obtain-and-apply-asus-dvd-driver-updates/"><u>How to Securely Obtain and Apply ASUS DVD Driver Updates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-clip-integration-into-youtubes-vast-network-for-2024/"><u>IMovie Clip Integration Into YouTube's Vast Network for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-xr21-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia XR21 Through Google Earth?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantaneous-innovation-cure-legends-errors/"><u>Instantaneous Innovation: Cure Legends Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-insufficient-specs-for-driver-installation/"><u>Overcoming Insufficient Specs for Driver Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stability-achieved-windows-11-screen-fixes/"><u>Stability Achieved: Windows 11 Screen Fixes</u></a></li>
 </ul></div>
 

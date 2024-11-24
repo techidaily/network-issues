@@ -1,7 +1,7 @@
 ---
 title: Eradicate Unseen Sims Screen
-date: 2024-07-12T00:21:28.603Z
-updated: 2024-07-13T00:21:28.603Z
+date: 2024-11-23T00:22:03.615Z
+updated: 2024-11-24T02:37:06.717Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -64,6 +72,10 @@ Here is how to do it:
 2) Click **My Game Library** , then right-click on **The Sims 4** and click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
 
@@ -101,9 +113,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -134,6 +154,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -178,8 +202,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +209,24 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-new-frontiers-in-immersive-experiences-the-best-metaverse-insights/"><u>[New] New Frontiers in Immersive Experiences The Best Metaverse Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-maximize-windows-10-top-5-recording-techniques/"><u>[Updated] 2024 Approved Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieving-flawless-media-streams-after-upgrading-to-win11/"><u>Achieving Flawless Media Streams After Upgrading to Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-chatgpts-role-in-novelty-generation/"><u>Assessing ChatGPT's Role in Novelty Generation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-in-class-portable-battery-packs-to-power-your-laptop-this-year/"><u>Best-in-Class Portable Battery Packs to Power Your Laptop This Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-compatible-with-windows-11-quick-and-easy-guide/"><u>Download NVIDIA GeForce RTX 30 Series Drivers Compatible with Windows 11: Quick & Easy Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevating-digital-portraits-with-acoustic-accents/"><u>Elevating Digital Portraits with Acoustic Accents</u></a></li>
+<li><a href="https://network-issues.techidaily.com/final-stroke-on-interoperability-woes/"><u>Final Stroke on Interoperability Woes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-twitter-video-tools-effortless-video-uploading/"><u>In 2024, Top Twitter Video Tools Effortless Video Uploading</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-suction-solutions-expertly-tested-leading-irobot-vacuums-of-2024-reviewed-zdnet-insights/"><u>Innovative Suction Solutions: Expertly Tested Leading iRobot Vacuums of 2024 Reviewed - ZDNET Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-woes-mh-worlds-graphic-anomaly-vanquished/"><u>No More Woes - MH World's Graphic Anomaly Vanquished</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-update-all-systems-go/"><u>Nvidia Update: All Systems Go</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-gpu-woes-in-win10-resolved/"><u>NVIDIA/Intel Hybrid GPU Woes in Win10 - Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-issue-screen-portrays-only-partial-windows-in-w10/"><u>Rectified Issue: Screen Portrays Only Partial Windows in W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-sharing-halt-tv-and-laptop-hdmi-clash/"><u>Screen Sharing Halt: TV and Laptop HDMI Clash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/thorough-titan-tuning-achieved/"><u>Thorough Titan Tuning Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
+</ul></div>
 

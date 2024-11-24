@@ -1,7 +1,7 @@
 ---
 title: MS BD Tweak for Smarter Rendering on WS-21, WS-8
-date: 2024-11-08T23:26:40.093Z
-updated: 2024-11-14T16:19:55.931Z
+date: 2024-11-16T20:17:34.954Z
+updated: 2024-11-24T02:21:58.707Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -43,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable your dedicated graphics card
@@ -57,23 +47,29 @@ Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -94,16 +90,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -125,20 +118,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] 2024 Approved Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-five-easy-steps-to-enhance-photo-hues/"><u>[Updated] In 2024, Five Easy Steps to Enhance Photo Hues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-screen-adjustment-in-win11-os/"><u>Effortless Screen Adjustment in Win11 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-hybrid-gpu-error-in-nvidiaintel-on-windows-10/"><u>Fixing Hybrid GPU Error in NVIDIA/Intel on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-inverted-screen-view/"><u>Fixing Windows 10: Inverted Screen View</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-11-screen-mirror-reversal/"><u>Fixing Windows 11 Screen Mirror Reversal</u></a></li>
-<li><a href="https://driver-error.techidaily.com/harmonize-dell-device-in-windows-7-environment/"><u>Harmonize Dell Device in Windows 7 Environment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c53-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme C53 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-play-your-favorite-spotify-tracks-on-mac-or-pc-using-airplay-technology/"><u>How to Play Your Favorite Spotify Tracks on Mac or PC Using AirPlay Technology</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/igtv-video-placement-to-facebook-networks-5-ways/"><u>IGTV Video Placement to Facebook Networks (5 Ways)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-8-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 8</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-display-just-a-blink/"><u>No Display, Just a Blink</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-media-playback-woes-in-new-windows-10-release/"><u>Overcoming Media Playback Woes in New Windows 10 Release</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-rectifying-backward-screen-orientation/"><u>Windows 10: Rectifying Backward Screen Orientation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-expertly-broadcast-your-gopro-adventures-on-top-channels-periscope-facebook/"><u>[New] In 2024, Expertly Broadcast Your Gopro Adventures on Top Channels (Periscope, Facebook)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>[New] The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-be-a-guest-in-the-digital-arena-tips-for-live-viewers/"><u>[Updated] Be a Guest in the Digital Arena Tips for Live Viewers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-soundtracks-blending-beats-with-video-on-windows-11-for-2024/"><u>Crafting Soundtracks Blending Beats with Video on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-number-changes-on-tiktok-with-precision/"><u>In 2024, Navigating Number Changes on TikTok with Precision</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-13-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 13</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/intense-presentation-review-8x-version-for-2024/"><u>Intense Presentation Review 8X Version for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-revitalize-computer-screen-output/"><u>Methods to Revitalize Computer Screen Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974840679-my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down - How to Fix It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-aspect-ratio-for-clarity-on-screens/"><u>Rectify Aspect Ratio for Clarity on Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-qualcomm-wifi-adapter-compatibility-on-windows-10/"><u>Resolved: Qualcomm WiFi Adapter Compatibility on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mend Screen Blurring Issues
-date: 2024-11-13T17:41:22.489Z
-updated: 2024-11-15T02:38:00.367Z
+date: 2024-11-19T03:13:25.798Z
+updated: 2024-11-23T23:03:36.704Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  The screen TEARS!
 
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does my screen tear?
 
@@ -61,13 +65,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
 #### For**NVIDIA** users  
@@ -79,10 +76,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**Intel** graphics users
@@ -91,21 +85,16 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**AMD** graphics users
@@ -116,15 +105,12 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
@@ -145,22 +131,24 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-quick-setup-for-flawless-time-lapses-on-ipad/"><u>[New] In 2024, Quick Setup for Flawless Time-Lapses on iPad</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-tutorial-for-uploading-to-instagram-tv/"><u>[New] The Ultimate Tutorial for Uploading to Instagram TV</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-winos-error-dxgkrnlsys-blue-screen/"><u>[Resolved] WinOS Error: dxgkrnl.sys Blue Screen</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-igtv-video-submission-made-simple/"><u>[Updated] 2024 Approved IGTV Video Submission Made Simple</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigating-tiktok-to-twitter/"><u>[Updated] In 2024, Navigating TikTok to Twitter</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-quick-diy-cinematic-techniques-every-hobbyist-should-know-for-2024/"><u>[Updated] Quick DIY Cinematic Techniques Every Hobbyist Should Know for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjustment-for-large-win10-screens/"><u>Adjustment for Large Win10 Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-c1900101-during-the-process-of-win11-setup/"><u>Eliminating C1900101 During the Process of Win11 Setup</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-selective-content-screening-process/"><u>Facebook's Selective Content Screening Process</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-lenovo-display-anomalies/"><u>Fixing Lenovo Display Anomalies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-your-free-copy-of-videoproc-seamless-transition-from-winx-hd-to-apples-best/"><u>Get Your Free Copy of VideoProc - Seamless Transition From WinX HD to Apple's Best</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-magic-5-lite-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor Magic 5 Lite</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refreshing-windows-intel-graphics-firmware/"><u>Refreshing Windows' Intel Graphics Firmware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rendering-failure-card-not-found/"><u>Rendering Failure: Card Not Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-clearing-cloudy-desktop-view/"><u>Resolved: Clearing Cloudy Desktop View</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/selecting-the-perfect-surge-protector-for-your-devices-a-guide/"><u>Selecting the Perfect Surge Protector for Your Devices: A Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zeroing-downfall-pc-bugs-for-fallout-4/"><u>Zeroing Downfall PC Bugs for Fallout 4</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-press-record-on-your-pc-with-simplicity-for-2024/"><u>[New] Press 'Record' On Your PC with Simplicity for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-lenovo-laptop-black-screen-issues/"><u>[SOLVED] Lenovo Laptop Black Screen Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-where-to-find-the-best-budgeted-gopro-purchases/"><u>[Updated] 2024 Approved Where to Find the Best Budgeted GoPro Purchases</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-auto-arcade-adventures-for-kids/"><u>[Updated] Auto Arcade Adventures for Kids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-sounds-first-lessons-on-fades-with-audition/"><u>2024 Approved Harmonizing Sounds First Lessons on Fades with Audition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-10-screen-direction-error/"><u>Adjusting Windows 10 Screen Direction Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-the-enigma-the-hidden-dx-blunder-on-lol/"><u>Deciphering the Enigma: The Hidden DX Blunder on LoL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 12 4G Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-correct-c1900101-error-in-win10/"><u>How to Correct C1900101 Error in Win10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y91-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Huawei Nova Y91 Phone with Broken Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-graphic-performance-with-an-easy-update-to-your-intel-3000-graphics-on-w10/"><u>Improve Graphic Performance with an Easy Update to Your Intel 3000 Graphics on W10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y27s-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y27s by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/instant-animation-from-youtube-videos-to-compelling-gifs/"><u>Instant Animation From YouTube Videos to Compelling GIFs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win-gdx-failure/"><u>Overcoming Win GDX Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-rectify-acer-screen-glarespeed/"><u>Steps to Rectify Acer Screen Glarespeed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-recording-game-changer-for-facebook-streams/"><u>The Recording Game-Changer for Facebook Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unstable-wi-fi-constant-signal-loss/"><u>Unstable Wi-Fi: Constant Signal Loss</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-create-stunning-highlights-top-desktop-and-mobile-video-editors/"><u>Updated 2024 Approved Create Stunning Highlights Top Desktop and Mobile Video Editors</u></a></li>
 </ul></div>
 

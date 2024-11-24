@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7
-date: 2024-11-11T01:54:36.520Z
-updated: 2024-11-14T21:20:21.249Z
+date: 2024-11-18T23:16:36.777Z
+updated: 2024-11-23T19:45:29.112Z
 tags:
   - win11
   - win10
@@ -36,11 +36,19 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -50,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -73,23 +74,13 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -110,13 +101,6 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
@@ -131,6 +115,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
@@ -138,10 +126,7 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -171,22 +156,24 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>[Updated] 2024 Approved Introductory Tutorial Utilizing Video Chat Features on Insta</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-meme-magic-kinemaster-edition/"><u>[Updated] Unlocking Meme Magic KineMaster Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-ati-radeon-hd-3450-easy-driver-download-and-seamless-update-processes/"><u>AMD ATI Radeon HD 3450: Easy Driver Download and Seamless Update Processes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-blurry-win7-visuals/"><u>Banishing Blurry Win7 Visuals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-diagonals-for-screen-clarity/"><u>Correcting Diagonals for Screen Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/could-gpt-be-a-cybercriminals-key-to-pc-intrusions/"><u>Could GPT Be a Cybercriminal's Key to PC Intrusions?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-choices-in-game-livestream-technology/"><u>In 2024, Best Choices in Game Livestream Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-canon-pixma-mg5520-printer-drivers-for-windows-systems/"><u>Installing Canon Pixma MG5520 Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nab-amd-graphics-snafu-now/"><u>Nab AMD Graphics Snafu Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974117233-non-responsive-lenovo-touchscreen-resolved/"><u>Non-Responsive Lenovo Touchscreen - Resolved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/re-enabling-default-display-preferences-on-windows/"><u>Re-Enabling Default Display Preferences on Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-motorola-defy-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Defy 2 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-hybrid-graphic-performance-in-windows-11s-latest-update/"><u>Resolved Hybrid Graphic Performance in Windows 11'S Latest Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shrink-large-screen-on-windows-10/"><u>Shrink Large Screen on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-addressing-persistent-black-screen-glitches/"><u>Solution Guide: Addressing Persistent Black Screen Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/window-graphics-issue-fixed/"><u>Window Graphics Issue Fixed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-management-strategies-for-fetal-alcohol-syndrome/"><u>[New] 2024 Approved Management Strategies for Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>[Updated] Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-steer-clear-of-virtual-reality-sickness/"><u>[Updated] Steer Clear of Virtual Reality Sickness</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-everything-you-need-to-know-about-youtube-basic-and-premium/"><u>2024 Approved Everything You Need to Know About YouTube Basic & Premium</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-compatibility-hurdle-for-nvidia-7025/"><u>Conquering Compatibility Hurdle for Nvidia 7025</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-init-unsuccessful-resolved/"><u>D3D Init: Unsuccessful, Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-dilemma-screen-turned-onyx/"><u>Drive Dilemma: Screen Turned Onyx</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments/"><u>Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-phrases-to-fluency-utilizing-chatgpt-for-accurate-and-efficient-language-translations/"><u>From Phrases to Fluency: Utilizing ChatGPT for Accurate and Efficient Language Translations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gateway-broken-geforce-experience-opened/"><u>Gateway Broken: GeForce Experience Opened</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-c65withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco C65with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-search-of-next-level-video-streaming-alternatives/"><u>In Search of Next-Level Video Streaming Alternatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monstrous-error-hunter-worlds-glitch-fixed-fast/"><u>Monstrous Error: Hunter World's Glitch Fixed Fast</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-loading-issue-for-amd-on-windows-now-functioning-correctly/"><u>Overcome Loading Issue for AMD on Windows, Now Functioning Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-7-reverse-image-problem/"><u>Rectifying Windows 7 Reverse Image Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-the-power-behind-4k-uhd-visuals/"><u>Revealing the Power Behind 4K UHD Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-images-on-android-our-picks-for-the-5-best-editors-for-2024/"><u>Transform Your Images on Android Our Picks for the 5 Best Editors for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-upgrades-no-more-video-lags-or-pauses/"><u>Win10 Upgrades: No More Video Lags or Pauses</u></a></li>
 </ul></div>
 

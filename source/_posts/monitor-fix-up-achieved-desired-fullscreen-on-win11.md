@@ -1,7 +1,7 @@
 ---
 title: "Monitor Fix-Up: Achieved Desired FullScreen on Win11"
-date: 2024-11-08T23:22:04.807Z
-updated: 2024-11-14T18:58:50.697Z
+date: 2024-11-18T22:40:55.971Z
+updated: 2024-11-23T18:13:31.275Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 
  Many people have a full screen issue, such as**the monitor is not displaying full screen** ,**Windows 10 is playing games in full screen mode** , or**full screen is not working** at all. If you have the similar issue, don’t worry. You can fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix full screen problems
 
  Here are the solutions to try. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -44,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
  In addition to full screen settings,**check if there are resolution settings in that application** . For example, video games in PC always enable users to change the screen resolution to match their demands. So also give it a check.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the display settings in your computer settings
 
@@ -68,6 +58,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
@@ -80,27 +74,17 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
@@ -111,6 +95,10 @@ Here’s what you need to do:
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -138,18 +126,15 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -165,27 +150,21 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -221,18 +200,21 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-watermarking-for-professionals-software-analysis/"><u>[New] 2024 Approved Watermarking for Professionals - Software Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/amazon-cloud-drive/"><u>Amazon Cloud Driveマックファイル同期手順：詳細なステップバイステップガイド</u></a></li>
-<li><a href="https://win-great.techidaily.com/expert-guide-to-recovering-lost-files-from-pny-memory-cards/"><u>Expert Guide to Recovering Lost Files From PNY Memory Cards</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-unregistered-display-unit/"><u>Fix Unregistered Display Unit</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-r9-driver-errors-in-the-heart-of-windows-10/"><u>Fixing R9 Driver Errors in the Heart of Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methodology-to-overhaul-windows-11s-new-text-based-search/"><u>Methodology to Overhaul Windows 11'S New Text-Based Search</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcame-gpu-installation-failure-now-ready-on-ws/"><u>Overcame GPU Installation Failure, Now Ready on WS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-undetected-gigabyte-hardware-on-system/"><u>Remedying Undetected Gigabyte Hardware on System</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revolutionary-methods-to-rejuvenate-problematic-media/"><u>Revolutionary Methods to Rejuvenate Problematic Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-end-of-nightmares-fixing-and-preventing-black-screens-in-cyberpunk-2077/"><u>The End of Nightmares: Fixing and Preventing Black Screens in Cyberpunk 2077</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-issue-unresponsive-to-changes/"><u>Win11 Display Issue: Unresponsive to Changes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-call-of-duty-cold-war-connectivity-issue/"><u>[FIXED] Call of Duty Cold War Connectivity Issue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stop-automated-youtube-content-rollouts/"><u>[New] 2024 Approved Stop Automated YouTube Content Rollouts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tech-unity-expert-easeus-reviews/"><u>[New] Tech Unity Expert EaseUS Reviews</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-10-shopping-sites-for-customized-gift-boxes-find-the-perfect-personalized-present-for-2024/"><u>[Updated] Top 10 Shopping Sites for Customized Gift Boxes - Find the Perfect Personalized Present for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-meizu-21-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-glitches-with-ease/"><u>End Monitor Glitches with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-unconventional-perspectives-in-photos/"><u>Exploring Unconventional Perspectives in Photos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a60s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A60s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-reset-successfully-functioning/"><u>Lenovo Tap Reset Successfully Functioning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-updates-fixing-render-driver-issues-across-windows-series/"><u>Microsoft Updates: Fixing Render Driver Issues Across Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-capture-mastery-a-closer-look-at-recmeister-tech-for-2024/"><u>Screen Capture Mastery A Closer Look at Recmeister Tech for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/securely-wipe-all-data-with-these-7-advanced-algorithmic-solutions/"><u>Securely Wipe All Data with These 7 Advanced Algorithmic Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-amd-radeon-r9-performance-on-win11/"><u>Securing AMD Radeon R9 Performance on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-over-flickering-win7-views/"><u>Smoothing Over Flickering Win7 Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/steps-to-acquire-free-picture-frame-videos-for-2024/"><u>Steps to Acquire Free Picture Frame Videos for 2024</u></a></li>
 </ul></div>
 

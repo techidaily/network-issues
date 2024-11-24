@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems"
-date: 2024-11-10T23:55:06.464Z
-updated: 2024-11-14T21:41:22.551Z
+date: 2024-11-22T05:25:27.295Z
+updated: 2024-11-24T12:07:15.833Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -66,23 +74,17 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -103,13 +105,6 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
@@ -117,16 +112,7 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -149,13 +135,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Superfast internet and up to $250 in reward cards
 
  Order online and get up to a $200 reward card—plus an extra $50 reward card when you enter promo code **FALL50** at checkout.
@@ -177,24 +156,22 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-t5-eyes-complete-review-action-footage-reimagined/"><u>[New] 2024 Approved T5 Eye's Complete Review Action Footage Reimagined</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-digital-solutions-for-converting-images-to-film/"><u>[New] Best Digital Solutions for Converting Images to Film</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-access-in-cod-cold-war/"><u>[SOLVED] Restoring Internet Access in CoD Cold War</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-bridging-content-gap-youtube-videos-to-instagram-for-2024/"><u>[Updated] Bridging Content Gap YouTube Videos to Instagram for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-laptop-and-mobile-embarking-on-the-google-meet-experience-for-2024/"><u>[Updated] Laptop & Mobile Embarking on the Google Meet Experience for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>2024 Approved Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieve-superior-graphical-performance-update-intel-hd-3000-for-windows-10-now/"><u>Achieve Superior Graphical Performance: Update Intel HD 3000 for Windows 10 Now.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-non-responsive-curser-in-windows-10/"><u>Addressing Non-Responsive Curser in Windows 10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/blocking-the-buzz-no-more-fb-video-ads/"><u>Blocking the Buzz No More FB Video Ads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-laughs-the-ultimate-resource-for-free-templates/"><u>Crafting Laughs The Ultimate Resource for Free Templates</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixes-for-lenovo-monitor-flickers/"><u>Fixes for Lenovo Monitor Flickers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>In 2024, 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-bings-ai-chat-on-android-devices-essential-tips/"><u>Mastering Bing's AI Chat on Android Devices: Essential Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-display-drivers-amd-radeon-r9-for-win11/"><u>Mastering Display Drivers: AMD Radeon R9 for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/maximum-screen-quality-reclaimed-win10/"><u>Maximum Screen Quality Reclaimed, Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-windows-10s-c1900101-error/"><u>Resolving Windows 10'S C1900101 Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-display-options-unavailable-in-windows-11/"><u>Resolving: Display Options Unavailable in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screenfreeze-gfx-window-issue-resolution-ready/"><u>ScreenFreeze, GFX Window Issue (Resolution Ready)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-infinix-smart-7-hd-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Infinix Smart 7 HD to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-sims-4-adventures-a-guide/"><u>[New] Capturing Sims 4 Adventures A Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-picture-perfect-with-soundtracked-clips/"><u>[New] Picture Perfect with Soundtracked Clips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-demystifying-drone-technology-operations-and-purposes-for-2024/"><u>[Updated] Demystifying Drone Technology Operations and Purposes for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elevate-android-streaming-secrets-from-obs-studio/"><u>[Updated] In 2024, Elevate Android Streaming Secrets From OBS Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-syncopated-science-of-video-and-music-on-vimeo/"><u>[Updated] The Syncopated Science of Video and Music on Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>2024 Approved A Step-by-Step Guide to Instagram's Premier Status 6 Practical Steps For Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-comprehensive-pathway-to-load-moviemaker-6/"><u>2024 Approved Comprehensive Pathway to Load Moviemaker 6</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-for-aspect-ratio-skew-on-pcs/"><u>Direct Fix for Aspect Ratio Skew on PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-guide-to-watermark-free-video-rotation-software-the-best-free-picks-for-your-needs/"><u>Discover the Ultimate Guide to Watermark-Free Video Rotation Software - The Best Free Picks for Your Needs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-blurry-screens-embrace-focus/"><u>Eliminate Blurry Screens, Embrace Focus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-not-responding-error-how-to-get-valorant-running-on-your-pc-latest-guide/"><u>Fix 'Not Responding' Error: How to Get Valorant Running on Your PC (Latest Guide)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunders-gameplay-gains/"><u>God of Thunder's Gameplay Gains</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-processor-error-corrected-operational/"><u>Graphic Processor Error Corrected, Operational</u></a></li>
+<li><a href="https://network-issues.techidaily.com/initialization-error-in-direct3d-resolved/"><u>Initialization Error in Direct3D Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shielded-device-from-unpredictable-luminescence/"><u>Shielded Device From Unpredictable Luminescence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-monitor-distortion-problems/"><u>Solve Monitor Distortion Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/straightforward-correction-dormant-gpu-with-nvidia/"><u>Straightforward Correction: Dormant GPU with NVIDIA</u></a></li>
 </ul></div>
 

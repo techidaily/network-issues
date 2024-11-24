@@ -1,7 +1,7 @@
 ---
 title: Harmonizing Qualcomm WiFi - Atheros on Win10 OS
-date: 2024-11-13T23:38:29.746Z
-updated: 2024-11-14T18:58:10.835Z
+date: 2024-11-16T20:28:39.858Z
+updated: 2024-11-24T01:05:23.147Z
 tags:
   - win11
   - win10
@@ -38,28 +38,8 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
@@ -71,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Rollback your Qualcomm adapter driver
@@ -85,35 +62,34 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
 5. Choose a reason based on your own situation, then click**Yes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
 
  Open your web browser to check whether the network connection has gone back to normal. If not, you should proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your Qualcomm adapter driver
 
@@ -130,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 * **[My network connection is not stable but still works at times](#stable)**
 * **[My network connection doesn’t work at all](#not)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The network connection is not stable but still works at times
 
  When your computer is connected to the network, you can use Driver Easy to update device drivers the normal way. Here’s how:
@@ -146,11 +115,19 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### My network connection doesn’t work at all
 
@@ -182,22 +159,16 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>[New] 2024 Approved Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/onquer-youtube-searches-with-these-top-11-seo-strategies-for-2024/"><u>[New] Conquer YouTube Searches with These Top 11 SEO Strategies for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-the-mechanisms-of-youtubes-cc-license/"><u>[New] In 2024, Understanding the Mechanisms of YouTube's CC License</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/trategies-for-designing-youtube-video-flow/"><u>[New] Strategies for Designing YouTube Video Flow</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-crafting-clear-accessible-podcast-xml-files-for-listeners/"><u>2024 Approved Crafting Clear, Accessible Podcast XML Files for Listeners</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-jovial-media-grabber-critique/"><u>2024 Approved Jovial Media Grabber Critique</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-status-error-43-resolved/"><u>Device Status: Error 43 Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fading-frame-fiasco-laptop-woes/"><u>Fading Frame Fiasco: Laptop Woes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/integrating-ai-in-video-production-game-streaming-edition-for-2024/"><u>Integrating AI in Video Production Game Streaming Edition for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/issue-corrected-windows-10-monitor-displays-only-portion-of-windows/"><u>Issue Corrected - Windows 10 Monitor Displays Only Portion of Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/monitoring-your-emotional-well-being-using-apple-health-app/"><u>Monitoring Your Emotional Well-Being Using Apple Health App</u></a></li>
-<li><a href="https://network-issues.techidaily.com/normalizing-window-upside-down-in-w11/"><u>Normalizing Window Upside Down in W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opengl-halted-reinstated-with-armor/"><u>OpenGL Halted - Reinstated with Armor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-sudden-changes-in-hp-monitor-brightness/"><u>Preventing Sudden Changes in HP Monitor Brightness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedies-for-stabilizing-lenovo-display/"><u>Remedies for Stabilizing Lenovo Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-scaling-windows-11-displays/"><u>Seamlessly Scaling Windows 11 Displays</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-qled-televisions-expert-picks-by-zdnet/"><u>Top-Ranking QLED Televisions : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-re-establishing-offline-and-online-links-in-cod-cold-war/"><u>[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elite-budget-free-fb-imagemotion-engineer/"><u>[New] In 2024, Elite Budget-Free FB Image/Motion Engineer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-iphones-video-reduction-and-adjustment-tools/"><u>[New] Mastering iPhone's Video Reduction and Adjustment Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reimagining-design-post-acid-pro-landscape/"><u>[New] Reimagining Design Post-ACID Pro Landscape</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-implement-shutter-speed-blurring-in-psx/"><u>[Updated] Implement Shutter Speed Blurring in PSX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-adobes-quest-for-giggles-and-grins/"><u>[Updated] In 2024, Adobe's Quest for Giggles and Grins</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
+<li><a href="https://blog-min.techidaily.com/het-allerbeste-giftige-programmas-voor-gratis-video-versterking-in-nederland/"><u>Het Allerbeste Giftige Programma's Voor Gratis Video-Versterking in Nederland</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-mastering-the-art-of-your-first-dvd-copy/"><u>Step-by-Step Guide: Mastering the Art of Your First DVD Copy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10s-new-era-smooth-video-and-audio-playback/"><u>Win10's New Era: Smooth Video and Audio Playback</u></a></li>
 </ul></div>
 

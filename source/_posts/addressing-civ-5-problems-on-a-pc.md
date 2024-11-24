@@ -1,7 +1,7 @@
 ---
 title: Addressing Civ 5 Problems on a PC
-date: 2024-07-12T00:19:06.189Z
-updated: 2024-07-13T00:19:06.189Z
+date: 2024-11-17T03:36:04.791Z
+updated: 2024-11-24T08:55:13.861Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This**CIV 5 crashing** problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,9 +61,18 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -70,6 +83,11 @@ Here’s how to do it:
 1. On your keyboard, press **the** **Windows logo key**  , then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
  **To update the DirectX to the latest version on your computer:**
@@ -79,6 +97,11 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
 ---
@@ -93,8 +116,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,6 +123,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/solved-surface-book-pro-4-camera-not-working-on-windows-10/"><u>[Solved] Surface Book (Pro 4) Camera Not Working on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ati-gpu-lacks-dx-acceleration-fix/"><u>ATI GPU Lacks DX Acceleration Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-enhancements-on-ws-21-ws-10-and-older-windows/"><u>BDR Enhancements on WS-21, WS-10, and Older Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ended-amds-challenge-of-unloading-driver-on-wndows-10/"><u>Ended AMD's Challenge of Unloading Driver on Wndows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-defrost-an-apple-iphone-when-it-wont-respond/"><u>How to Defrost an Apple iPhone When It Won't Respond</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-lava-agni-2-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Lava Agni 2 5G on Windows??</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-settings-a-guide-to-clear-screen-conflicts/"><u>Mastering Windows Settings: A Guide to Clear Screen Conflicts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi3g2flv/"><u>Movaviでワザとオンライン無料の3G2からFLV変換サービス</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-and-intel-graphic-card-harmony-achieved-on-win11/"><u>Nvidia & Intel Graphic Card Harmony Achieved on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-incompatible-freesync-display/"><u>Rectifying Incompatible FreeSync Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-windows-10s-installation-hurdle-code-c1900101/"><u>Remedying Windows 10'S Installation Hurdle - Code C1900101</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvidia-screen-options-unavailability/"><u>Resolving NVIDIA Screen Options Unavailability</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-creating-and-maintaining-several-successful-youtube-presence/"><u>Steps for Creating and Maintaining Several Successful YouTube Presence</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-methods-for-effortlessly-converting-your-vimeo-videos-into-mp3-format/"><u>Top Methods for Effortlessly Converting Your Vimeo Videos Into MP3 Format</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-techniques-behind-capturing-whatsapp-conversations/"><u>Unveiling the Techniques Behind Capturing WhatsApp Conversations</u></a></li>
+</ul></div>
 

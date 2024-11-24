@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2024-11-14T02:45:10.212Z
-updated: 2024-11-14T21:21:59.199Z
+date: 2024-11-21T17:23:34.289Z
+updated: 2024-11-23T21:12:38.672Z
 tags:
   - win11
   - win10
@@ -20,17 +20,14 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -61,10 +58,7 @@ Be careful you don’t mistype, or press the wrong keys!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
@@ -73,28 +67,18 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -113,8 +97,16 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -137,21 +129,24 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-5-gaming-earbuds-for-video-creators/"><u>[New] 2024 Approved Essential 5 Gaming Earbuds for Video Creators</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-evolution-what-you-need-to-know/"><u>[New] Facebook Evolution What You Need to Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-complexities-of-color-correction-using-luts/"><u>[New] Navigating the Complexities of Color Correction Using LUTs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-potential-how-to-gain-more-viewers-and-followers-on-youtube/"><u>[New] Unlocking Potential How to Gain More Viewers and Followers on Youtube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-zooming-into-success-video-converter-trio-techniques/"><u>[Updated] 2024 Approved Zooming Into Success Video Converter Trio Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/digging-into-the-data-top-10-twitvideos-for-2024/"><u>Digging Into the Data Top 10 TwitVideos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discerning-the-advantages-of-ultra-hd-visuals/"><u>Discerning the Advantages of Ultra HD Visuals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-screen-flashes-in-win11/"><u>End Screen Flashes in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-v30-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme V30?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-15-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone 15 online without SIM Card?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-unresponsive-touch-repair-complete/"><u>Lenovo's Unresponsive Touch - Repair Complete</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lifting-the-curse-the-invisible-direct-x-disruption-solved-in-leagues/"><u>Lifting the Curse: The Invisible Direct X Disruption Solved in Leagues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/next-gen-graphics-drive-for-pc-windows-10s-latest-amd-radeon-hd-6950-driver/"><u>Next-Gen Graphics Drive for PC: Windows 10'S Latest AMD Radeon HD 6950 Driver</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pedal-power-parade-of-playtime-for-2024/"><u>Pedal Power Parade of Playtime for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unexpected-shutdown-new-gpu-empty-screen/"><u>Unexpected Shutdown: New GPU, Empty Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-stabilizing-visuals-no-more-shakes/"><u>Win11: Stabilizing Visuals, No More Shakes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-secrets-of-sending-mmc-films-to-vimeo/"><u>[New] 2024 Approved Unlocking Secrets of Sending MMC Films to Vimeo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-4k-with-the-new-nikon-d500-camera/"><u>[New] Mastering 4K with the New Nikon D500 Camera</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>[New] The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[New] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breathe-life-into-your-zoom-cam-with-our-fix-tips/"><u>Breathe Life Into Your Zoom Cam with Our Fix Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-gdrivererr22-issue/"><u>Correcting GDRIVER_ERR22 Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-buffering-blues-with-latest-pc-operating-system/"><u>Eradicating Buffering Blues with Latest PC Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-12-vanquished-adventure-resumes-in-mh-world/"><u>Error 12 Vanquished - Adventure Resumes in MH World</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fusing-art-and-technology-crafting-captivating-animation-videos-in-windows-movie-maker/"><u>Fusing Art & Technology Crafting Captivating Animation Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-splendid-windows-11-backdrops/"><u>In 2024, Secrets to Splendid Windows 11 Backdrops</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-profits-a-comprehensive-vimeo-revenue-strategy/"><u>Mastering Profits A Comprehensive Vimeo Revenue Strategy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-earbuds-apples-airpods-pro-pitted-against-samsung/"><u>Next Level Earbuds: Apple's AirPods Pro Pitted Against Samsung</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-confusion-hybrid-gpus-synchronize-smoothly-with-intelnvidia-on-win11/"><u>No More Confusion: Hybrid GPUs Synchronize Smoothly with Intel/Nvidia on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-radeon-r9-driver-crashes-on-win11/"><u>Overcoming Radeon R9 Driver Crashes on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precise-images-for-your-workspace/"><u>Precise Images for Your Workspace</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts-for-2024/"><u>Premium-Free Excellence Analyzing and Sharing Best Free LUTs for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-upgrade-ensures-atheros-wi-fi-functionality/"><u>Qualcomm's Win11 Upgrade: Ensures Atheros Wi-Fi Functionality</u></a></li>
+<li><a href="https://fox-within.techidaily.com/whatsappaomei-fonebackup/"><u>WhatsApp数据保存还原的完美解决方案：使用AOMEI FoneBackup轻松进行</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11s-video-flow-clean-continuous-performance-after-update/"><u>Win11's Video Flow: Clean, Continuous Performance After Update</u></a></li>
 </ul></div>
 

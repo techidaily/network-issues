@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2024-11-08T20:03:26.959Z
-updated: 2024-11-14T22:57:36.421Z
+date: 2024-11-17T19:46:15.475Z
+updated: 2024-11-24T08:02:06.674Z
 tags:
   - win11
   - win10
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -77,13 +81,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -91,23 +88,11 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -115,6 +100,10 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -126,27 +115,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,24 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-online-presence-a-guide-to-thriving-youtube-branding/"><u>[New] 2024 Approved Elevate Your Online Presence A Guide to Thriving YouTube Branding</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leveraging-fb-platforms-for-public-health-initiatives/"><u>[New] Leveraging FB Platforms for Public Health Initiatives</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooted-graphics-installed-amd-adapter-in-win1110/"><u>[TROUBLESHOOTED GRAPHICS] Installed AMD Adapter in Win11/10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-spot-and-discard-phony-instagram-acquaintances-for-2024/"><u>[Updated] How To Spot and Discard Phony Instagram Acquaintances for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-maximize-video-reach-with-effective-tags-titles/"><u>[Updated] In 2024, How to Maximize Video Reach with Effective Tags, Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-spark-interest-with-unique-channel-names/"><u>[Updated] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-youtube-to-mp4-blueprint-for-2024/"><u>[Updated] The Ultimate YouTube to MP4 Blueprint for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-inverted-display-on-windows-7/"><u>Correcting Inverted Display on Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxui-interrupt-windows-issue-coming-soon-fix/"><u>GFXUI Interrupt, Windows Issue (Coming Soon Fix)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-using-imessage-on-windows-pcs-a-step-by-step-tutorial/"><u>Guide to Using iMessage on Windows PCs: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-c32-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia C32 Easily?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide-for-2024/"><u>Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
-<li><a href="https://win-info.techidaily.com/wie-man-das-problem-mit-dem-uninitialisierten-datentrager-in-windows-11-beamt-professionelle-losungsmethode/"><u>Wie Man Das Problem Mit Dem Uninitialisierten Datenträger in Windows 11 Beamt – Professionelle Lösungsmethode</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simple-steps-to-change-iphones-call-alert-sounds/"><u>[New] Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transforming-titles-best-ai-powered-podcast-name-makers-for-2024/"><u>[New] Transforming Titles Best AI-Powered Podcast Name Makers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-inside-the-world-of-screencasts-understanding-fundamental-principles/"><u>[Updated] Inside the World of Screencasts Understanding Fundamental Principles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-insider-tips-for-documenting-your-favorite-games-on-ps4-for-2024/"><u>[Updated] Insider Tips for Documenting Your Favorite Games on PS4 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-your-website-traffic-with-cookiebots-advanced-tracking-technology/"><u>Boost Your Website Traffic with Cookiebot's Advanced Tracking Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-graphics-snag-with-amd-fixes/"><u>Bypass Graphics Snag with AMD Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-infamous-windows-0x800704cf-network-issue-a-step-by-step-solution/"><u>Bypassing the Infamous Windows 0X800704CF Network Issue - A Step-by-Step Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defeating-win11-blank-screen-anomaly/"><u>Defeating WIN11 Blank Screen Anomaly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-list-of-outstanding-kid-friendly-flicks-on-netflix/"><u>Exclusive List of Outstanding Kid-Friendly Flicks on Netflix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-c12-plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia C12 Plus Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-driver-conflict-on-newer-windows-version/"><u>Overcoming Driver Conflict on Newer Windows Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-unforeseen-system-shuts-in-win11/"><u>Preventing Unforeseen System Shuts in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-the-potential-amd-hd-6950-update-v20-on-windows-10/"><u>Unleashing the Potential: AMD HD 6950 Update v2.0 on Windows 10</u></a></li>
 </ul></div>
 

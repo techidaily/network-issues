@@ -1,7 +1,7 @@
 ---
 title: Eliminating Visual Glitches From Far Cry 6 Gameplay
-date: 2024-11-11T23:20:19.891Z
-updated: 2024-11-14T20:51:16.402Z
+date: 2024-11-17T04:28:42.438Z
+updated: 2024-11-23T22:31:05.715Z
 tags:
   - win11
   - win10
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -67,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -79,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 [4: Clean the DirectX cache](#fix4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -87,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -113,13 +118,6 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -128,19 +126,6 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
@@ -148,22 +133,16 @@ If this doesn’t help, try the next fix.
 4. Select **High performance** , then click **Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -174,6 +153,10 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
@@ -181,19 +164,6 @@ If this doesn’t help, there’s one more fix you can try.
 5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -217,16 +187,22 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expertly-crafted-drama-hub/"><u>[New] Expertly Crafted Drama Hub</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-tiktok-reaction-magic-2-ways-using-filmora-tools/"><u>[Updated] 2024 Approved The Ultimate Guide to TikTok Reaction Magic 2 Ways Using Filmora Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-choices-excellent-youtubers-screen-recording-tools/"><u>[Updated] 2024 Approved Top Choices Excellent YouTubers' Screen Recording Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/from-pc-to-smartphone-the-essential-guide-to-hulu-recording-for-2024/"><u>From PC to Smartphone The Essential Guide to Hulu Recording for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-civi-3-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Civi 3?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-installer-all-clear-proceed-with-install/"><u>Nvidia Installer: All Clear, Proceed With Install</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-troubleshoot-restore-your-gameplay/"><u>NVIDIA RTX 3080 Troubleshoot - Restore Your Gameplay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-graphics-cards-not-detected-in-computers/"><u>Remedying Graphics Cards Not Detected in Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-elusive-screen-blanks/"><u>Revealing Elusive Screen Blanks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/void-on-viewport-latest-card-installation/"><u>Void on Viewport: Latest Card Installation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210895300-9781960466099-soobsheniya-iz-misticheskih-kart/"><u>Сообщения из мистических карт | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-and-easy-techniques-for-iphone-sound-recording-for-2024/"><u>[Updated] Quick and Easy Techniques for iPhone Sound Recording for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-black-screen-activate-cursor/"><u>Clear Black Screen, Activate Cursor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-erratic-code-22-driver/"><u>Corrected Erratic Code #22, Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-gpu-fan-misfires/"><u>Correcting GPU Fan Misfires</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eclipse-of-electronics-laptops-plight/"><u>Eclipse of Electronics: Laptop's Plight</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-latest-epson-wf-7710-printer-drivers-for-windows-10-81-8-and-7-free-download/"><u>Get Latest Epson WF-7710 Printer Drivers for Windows 10, 8.1, 8 & 7 - Free Download</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantly-enhance-video-smoothness/"><u>Instantly Enhance Video Smoothness</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>Leveraging Likeability Strategies for Going Viral on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-photo-frames-leading-software-reviews-for-2024/"><u>Mastering Photo Frames Leading Software Reviews for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-fixes-for-professional-looking-youtube-thumbnails/"><u>Quick Fixes for Professional-Looking YouTube Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/recorder-royalty-best-premium-recording-software-on-pc-and-macos-free-for-2024/"><u>Recorder Royalty Best Premium Recording Software on PC & MacOS FREE for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-windows-halted-on-reported-device-problem-by-nvidia/"><u>Resolve: Windows Halted on Reported Device Problem by NVidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-windows-graphics-glitches-in-minecraft/"><u>Taming Windows Graphics Glitches in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-finding-lost-notifications-on-apples-mobile-os/"><u>The Ultimate Tutorial for Finding Lost Notifications on Apple's Mobile OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-pixel-spike-cured/"><u>Windows 10 Pixel Spike Cured</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eradicate CRT Artifacts on Desktop
-date: 2024-07-12T00:21:27.473Z
-updated: 2024-07-13T00:21:27.473Z
+date: 2024-11-18T23:20:51.449Z
+updated: 2024-11-23T18:58:15.439Z
 tags:
   - win11
   - win10
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does my screen tear?
 
  One common cause is that your computer outputs more video frames than your monitor can take. For example, if your monitor is using a fixed refresh rate of**60 Hz** (refreshes every 1/60 second), the video output with frame rates higher than that can be**out of sync** with your monitor. Then you have multiple frames displayed at once on your scree, which is the screen tearing issue.
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix my tearing screen?
 
@@ -53,6 +61,10 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -71,6 +83,10 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -80,6 +96,10 @@ There are two fixes you can try:
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -101,8 +121,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +128,20 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-experts-choice-top-10-low-cost-sbd-applications/"><u>[New] 2024 Approved Expert's Choice Top 10 Low-Cost SBD Applications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-titanfall-3-launch-error-xbox-directx/"><u>[RESOLVED] Titanfall 3 Launch Error - Xbox DirectX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/adept-methods-for-mass-acquiring-videos-on-tiktok-app-for-2024/"><u>Adept Methods for Mass Acquiring Videos on TikTok App for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-companions-are-they-lifesavers-in-natures-realm/"><u>Chatbot Companions: Are They Lifesavers in Nature's Realm?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-turn-your-png-images-into-jpeg-format-with-ease/"><u>Free Online Converter: Turn Your PNG Images Into JPEG Format with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-the-power-of-burst-mode-for-dynamic-videos/"><u>Harnessing the Power of Burst Mode for Dynamic Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-lenovo-visual-tremors/"><u>Mitigating Lenovo Visual Tremors</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/redefine-your-customer-journey-with-advanced-interaction-automation/"><u>Redefine Your Customer Journey with Advanced Interaction Automation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-steps-to-correct-aspect-ratio-on-pc/"><u>Simple Steps to Correct Aspect Ratio on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubled-gpus-resolving-windows-minecraft-hangs/"><u>Troubled GPUs: Resolving Windows Minecraft Hangs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tweak-screen-setup-in-upgraded-w11-os/"><u>Tweak Screen Setup in Upgraded W11 OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-facebook-refuses-to-fade-away/"><u>Why Facebook Refuses to 'Fade Away'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-11-12T16:56:49.318Z
-updated: 2024-11-14T21:44:36.397Z
+date: 2024-11-18T06:21:26.620Z
+updated: 2024-11-23T18:31:47.567Z
 tags:
   - win11
   - win10
@@ -40,21 +40,11 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -69,20 +59,21 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ###  Fix 2: Update or delete incompatible apps
 
@@ -107,16 +98,13 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -136,10 +124,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
@@ -169,18 +154,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-elevating-images-a-professionals-palette-playbook/"><u>[New] Elevating Images A Professional's Palette Playbook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stream-google-meet-directly-on-youtube-with-these-tips/"><u>[Updated] In 2024, Stream Google Meet Directly on YouTube with These Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-subscribe-smart-hundreds-for-under-5/"><u>[Updated] Subscribe Smart - Hundreds for Under $5</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-facebooks-forgotten-archive-easy-guide-for-devices-for-2024/"><u>[Updated] Unveiling Facebook's Forgotten Archive Easy Guide for Devices for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-lenovo-visual-currents/"><u>Addressing Lenovo Visual Currents</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-top-pick-mac-x-dvd-ripper-pro-mac-dvdripper-pro-and-mac-the-ripper-compared/"><u>Comprehensive Guide: Top Pick - Mac X DVD Ripper Pro, Mac DVDRipper Pro & Mac The Ripper Compared</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-failure-43-overcome/"><u>Device Failure 43 Overcome</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2010492-9780835631600-fairies-at-work-and-play/"><u>Fairies at Work and Play | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-playing-call-of-duty-black-ops-cold-war-in-quiet-mode-on-your-pc/"><u>Fixes for Playing Call of Duty: Black Ops Cold War in Quiet Mode on Your PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-14-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Plus Passcode Easily Video Inside</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-gone-dark-solutions-await/"><u>Lenovo Gone Dark? Solutions Await</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-phosphor-glitches-in-acer-monitors/"><u>Preventing Phosphor Glitches in Acer Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unify-window-border-stability/"><u>Unify Window Border Stability</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-jest-journal-chronicles-of-timely-laughter/"><u>[New] Jest Journal Chronicles of Timely Laughter</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[Updated] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[Updated] 2024 Approved Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-the-dark-windows-11-display/"><u>Banishing the Dark Windows 11 Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-overcoming-icloud-compatibility-issues-with-your-devices/"><u>Expert Tips for Overcoming iCloud Compatibility Issues with Your Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-apple-airtags-on-sale-save-24-now-during-walmarts-labor-day-promotion-insights-from-zdnet/"><u>Get Apple AirTags on Sale: Save $24 Now During Walmart’s Labor Day Promotion - Insights From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/grasping-4k-ultimate-screen-quality/"><u>Grasping 4K Ultimate Screen Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974046716-hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 5G Phones with/without a PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/managing-paper-tray-sensor-problems/"><u>Managing Paper Tray Sensor Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/market-trends-how-amd-is-revolutionizing-the-gaming-industry/"><u>Market Trends: How AMD Is Revolutionizing the Gaming Industry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-conflict-for-nvidia-and-intel-on-windows-10/"><u>Resolving Hybrid Graphics Conflict for NVIDIA & Intel on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-graphics-nvidiaintel-fix-confirmed-for-win11/"><u>Triumph Over Switchable Graphics - Nvidia/Intel Fix Confirmed for Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-investment-needs-on-youtube-for-2024/"><u>Understanding Investment Needs on YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-setup-now-stable-and-secured/"><u>Visual Setup Now Stable & Secured</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-no-more-plagues-by-com-issues/"><u>Windows No More Plagues by COM Issues</u></a></li>
 </ul></div>
 

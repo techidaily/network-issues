@@ -1,7 +1,7 @@
 ---
 title: "Apex Crash Cure: Immediate & Easy Steps"
-date: 2024-11-10T01:35:10.062Z
-updated: 2024-11-14T19:37:24.508Z
+date: 2024-11-22T18:22:19.817Z
+updated: 2024-11-24T06:06:48.786Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -62,22 +55,12 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
@@ -98,13 +81,25 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -148,13 +143,6 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -174,10 +162,7 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Wait until you see the following message. Then click**Close** .
@@ -219,15 +204,15 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-synergizing-brands-on-video-platforms/"><u>[Updated] 2024 Approved Synergizing Brands on Video Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-iconic-nintendo-switch-combat-games-compilation-max-156/"><u>[Updated] Iconic Nintendo Switch Combat Games Compilation (Max 156)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-canvas-potential-10-secrets-for-professionals/"><u>2024 Approved Unlocking Canvas Potential - 10 Secrets for Professionals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-windows-7-display-reversal/"><u>Adjusting Windows 7 Display Reversal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/all-properly-configured-but-device-remains-quiet/"><u>All Properly Configured, But Device Remains Quiet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-dark-mode-black-screen-post-update/"><u>Eliminating Dark Mode BLACK SCREEN Post Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-through-sims-solid-walls/"><u>Navigate Through Sims' Solid Walls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-steam-downloads-glitches-for-cyberpunk-2077-a-step-by-step-guide/"><u>Overcome Steam Downloads Glitches for Cyberpunk 2077: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securing-seamless-windows-plus-nvidia-experience/"><u>Securing Seamless Windows + Nvidia Experience</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-rise-and-stall-of-retinal-projection-in-virtual-reality-an-unexplored-story/"><u>The Rise and Stall of Retinal Projection in Virtual Reality: An Unexplored Story</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-this-years-unexpected-cinematic-gems/"><u>[Updated] 2024 Approved This Year's Unexpected Cinematic Gems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-power-of-cutting-for-beginner-editors/"><u>[Updated] Unlock the Power of Cutting for Beginner Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-pick-your-favorites-top-6-fb-lite-videos-downloaders/"><u>2024 Approved Pick Your Favorites Top 6 FB Lite Videos Downloaders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/adobe-premiere-proprprojmp4/"><u>Adobe Premiere Proを使ってPRPROJ形式からMP4への効果的な変換ガイド</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-war-performance-peak/"><u>God of War: Performance Peak</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconciling-windows-11-and-nforce630a-hardware/"><u>Reconciling Windows 11 and nForce630a Hardware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-no-more-screen-shivering/"><u>Win11: No More Screen Shivering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-lost-wi-fi-connection-found-solution/"><u>Windows 11: Lost Wi-Fi Connection, Found Solution</u></a></li>
 </ul></div>
 

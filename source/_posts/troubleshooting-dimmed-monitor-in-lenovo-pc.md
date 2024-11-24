@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dimmed Monitor in Lenovo PC
-date: 2024-11-14T01:45:49.521Z
-updated: 2024-11-14T22:58:10.180Z
+date: 2024-11-21T19:39:29.612Z
+updated: 2024-11-24T04:29:33.514Z
 tags:
   - win11
   - win10
@@ -42,9 +42,21 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
 
@@ -55,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 **b)**  Press the power button to**start up** your laptop. In the meantime, press and hold the**brightness-up key** on the keyboard, which is usually a**function key** (**F1-** **F12**).
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3) Modify Registry
 
@@ -74,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
@@ -89,22 +91,12 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -127,16 +119,17 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-building-an-engaging-listenership-through-rss-crafting/"><u>[Updated] Building an Engaging Listenership Through RSS Crafting</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplified-methods-to-record-gotomeeting-chats/"><u>2024 Approved Simplified Methods to Record GoToMeeting Chats</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-your-displays-pixel-density-a-simple-guide/"><u>Discover Your Display's Pixel Density: A Simple Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovering-your-displays-pixels-a-simple-guide-to-check-screen-resolution/"><u>Discovering Your Display's Pixels: A Simple Guide to Check Screen Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effective-solutions-for-resolving-screen-flicker-issues-on-your-asus-notebook/"><u>Effective Solutions for Resolving Screen Flicker Issues on Your Asus Notebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-fps-ultimate-top-6-strategies-for-a-better-gaming-experience/"><u>Enhance Your FPS: Ultimate Top 6 Strategies for a Better Gaming Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-infamous-nvstreamuseraagentexe-error-in-windows-guide/"><u>Fixing the Infamous NVSTREAMUSERA_AGENT.EXE Error in Windows [Guide]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-105-classic-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia 105 Classic to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle/"><u>New In 2024, Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/premium-rate-free-excellence-criteria-for-top-10-lut-tools-for-2024/"><u>Premium-Rate Free Excellence Criteria for Top 10 LUT Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-creating-flawless-passport-photos-for-free/"><u>[New] The Ultimate Guide to Creating Flawless Passport Photos for Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-skype-call-chronicles-20plus-strategies-for-savvy-windowsmac-users/"><u>[Updated] Skype Call Chronicles 20+ Strategies for Savvy Windows/Mac Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-to-enhancing-your-instagram-video-sizes-for-2024/"><u>A Step-by-Step Approach to Enhancing Your Instagram Video Sizes for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-media-integrating-text-into-windows-video-files-via-photos/"><u>Amplify Your Media Integrating Text Into Windows Video Files via Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-flashing-windows-display/"><u>Conquering Flashing Windows Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-screen-glitch-windows-10-displays-only-sliver-of-windows/"><u>Corrected Screen Glitch: Windows 10 Displays Only Sliver of Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-leading-automated-clicking-tools-on-android-without-rooting/"><u>Discover the Leading Automated Clicking Tools on Android Without Rooting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-t2-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo T2 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-x90s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo X90S to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/performance-enhancement-win10s-ui/"><u>Performance Enhancement: Win10's UI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/resolving-disconnected-sound-on-obs-broadcast-for-2024/"><u>Resolving Disconnected Sound on OBS Broadcast for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-geforce-issues-in-windows-10/"><u>Resolving GeForce Issues in Windows 10</u></a></li>
 </ul></div>
 

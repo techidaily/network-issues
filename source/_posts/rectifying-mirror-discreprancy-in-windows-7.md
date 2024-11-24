@@ -1,7 +1,7 @@
 ---
 title: Rectifying Mirror Discreprancy in Windows 7
-date: 2024-11-13T18:50:20.687Z
-updated: 2024-11-15T01:17:59.433Z
+date: 2024-11-17T02:17:08.974Z
+updated: 2024-11-24T08:36:04.665Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 Your screen was**turned upside down**? Don’t worry … Although this is annoying, you’re definitely not the only one to experience the problem. Lots of**Windows 7**users have reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 The following is a list of fixes that have resolved this problem for other Windows 7 users. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +35,7 @@ The following is a list of fixes that have resolved this problem for other Windo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your screen rotation with a keyboard shortcut
@@ -42,10 +43,7 @@ The following is a list of fixes that have resolved this problem for other Windo
 This is the simplest way to fix your screen issue: Hold down the**Ctrl**and**Alt**keys on your keyboard, then press the**up arrow key**. This should change your screen orientation back to the normal one. If this didn’t work for you, you may need to try changing your screen rotation in your display settings.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your screen rotation in your display settings
@@ -56,14 +54,15 @@ To change your screen rotation in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd02d88aac3e.jpg)
 2. Click the**Orientation** drop-down menu, then select**Landscape** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd030adee89c.jpg)
 3. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your screen orientation. If not, or if you want to prevent this issue from happening again, you may need to try the method below.
@@ -79,13 +78,6 @@ You may have a screen upside down issue even if you didn’t do anything wrong. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -108,22 +100,19 @@ You may have a screen upside down issue even if you didn’t do anything wrong. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-images-in-depth-guide-to-smooth-shutter-effect-in-ps/"><u>[New] Elevate Your Images In-Depth Guide to Smooth Shutter Effect in PS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unlock-xps-cinematic-compositions-now-for-2024/"><u>[New] Unlock XP's Cinematic Compositions Now for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-secrets-to-designing-impactful-igtv-thumbnails/"><u>[Updated] 2024 Approved Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-engage-users-through-creative-animation-insta-story-tips/"><u>[Updated] In 2024, Engage Users Through Creative Animation Insta-Story Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-optimizing-visual-engagement-in-google-meet-sessions/"><u>[Updated] In 2024, Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressed-extended-resolution-problems-on-windows/"><u>Addressed Extended Resolution Problems on Windows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-tips-inside-a-must-read-for-any-nintendo-switch-owner-thinking-of-selling/"><u>Exclusive Tips Inside: A Must-Read for Any Nintendo Switch Owner Thinking of Selling!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-detected-opengl-disruption-cleared-for-nvidia/"><u>Fix Detected: OpenGL Disruption Cleared for NVidia</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/intelligent-updating-strategies-for-your-intel-gpu-on-win-7-pcs/"><u>Intelligent Updating Strategies for Your Intel GPU on Win 7 PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-patch-rtx210-win11-driver-update/"><u>NVIDIA Patch: RTX210 Win11 Driver Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-game-anomalies-how-to-cure/"><u>NVIDIA RTX 3080 Game Anomalies - How to Cure</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revamped-and-reimagined-a-comprehensive-review-of-the-new-belkin-qi2-boostcharge-pro-dual-wall-and-car-mount-a-modern-take-on-an-iconic-3-in-1-iphone-charge19/"><u>Revamped and Reimagined: A Comprehensive Review of the New Belkin Qi2 BoostCharge Pro Dual Wall & Car Mount, a Modern Take on an Iconic 3-in-1 iPhone Charger</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screenfreeze-windows-graphic-system-cured/"><u>ScreenFreeze Windows Graphic System (Cured)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-impact-and-uses-of-4k-uhd-visualization/"><u>The Impact and Uses of 4K UHD Visualization</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-tutorial-leveraging-the-preview-app-for-stunning-image-edits-on-macos/"><u>The Ultimate Tutorial: Leveraging the Preview App for Stunning Image Edits on macOS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tv-refuses-hdmi-signal-from-laptop/"><u>TV Refuses HDMI Signal From Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-boosting-zoom-screen-sharpness-essential-tips-for-2024/"><u>[Updated] Boosting Zoom Screen Sharpness Essential Tips for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-freely-downloadable-apps-for-tiktok-video-editing-on-mac-for-2024/"><u>[Updated] Top 10 Freely Downloadable Apps for TikTok Video Editing on Mac for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flipped-digital-image-screens/"><u>Correcting Flipped Digital Image Screens</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/easy-process-how-to-save-twitter-videos-on-an-android-device/"><u>Easy Process How to Save Twitter Videos on an Android Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-xperia-10-v-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Xperia 10 V Phone Screen?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-toggle-to-safe-mode-and-delete-graphics-drivers-on-windows-8/"><u>How to Toggle to Safe Mode & Delete Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S17t Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blank-detect-failed-for-cgs/"><u>Screen Blank: Detect Failed for CGs</u></a></li>
+<li><a href="https://win-special.techidaily.com/vanuitwege-vinden-van-gedeelde-bestanddelen-de-vier-keuzes-om-usbs-te-herstellen/"><u>Vanuitwege Vinden Van Gedeelde Bestanddelen: De Vier Keuzes Om USB's Te Herstellen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-windows-how-to-restore-functionality-of-your-wireless-keyboard/"><u>Winning Against Windows: How to Restore Functionality of Your Wireless Keyboard</u></a></li>
 </ul></div>
 

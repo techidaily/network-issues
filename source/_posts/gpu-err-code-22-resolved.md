@@ -1,7 +1,7 @@
 ---
 title: "GPU Err: Code 22 Resolved"
-date: 2024-07-12T00:20:02.686Z
-updated: 2024-07-13T00:20:02.686Z
+date: 2024-11-18T16:50:47.119Z
+updated: 2024-11-24T10:43:32.987Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -64,8 +68,21 @@ Example – CMOS battery on a laptop
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -86,6 +103,10 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -98,8 +119,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,6 +126,21 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-downloadable-instagram-footage-tech-tips-for-computers-and-macs-for-2024/"><u>[New] Downloadable Instagram Footage Tech Tips for Computers & Macs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unleash-creativity-design-your-own-logos-using-template-assets-free-for-2024/"><u>[New] Unleash Creativity Design Your Own Logos Using Template Assets (Free) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-yuneec-typhoon-h-insights-drone-review-highlights-for-2024/"><u>[New] Yuneec Typhoon H Insights Drone Review Highlights for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-your-digital-workspace-mastering-zoom-sessions/"><u>[Updated] Streamlining Your Digital Workspace Mastering Zoom Sessions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disconnecting-display-digital-dilemma/"><u>Disconnecting Display: Digital Dilemma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-graphics-on-windows-11-geforce-rtx210/"><u>Enhanced Graphics on Windows 11 - GeForce RTX210</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-faded-lenovo-visual-output/"><u>Fixing Faded Lenovo Visual Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unsuccessful-direct3d-start-up/"><u>Fixing Unsuccessful Direct3D Start-Up</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/journey-back-in-time-with-these-top-5-gba-console-emulators-for-pcs-for-2024/"><u>Journey Back in Time with These Top 5 GBA Console Emulators for PCs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-revelation-how-i-discovered-a-superior-lightweight-alternative-to-the-macbook-air/"><u>Laptop Revelation! How I Discovered a Superior Lightweight Alternative to the MacBook Air</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-unparalleled-clarity-with-the-sony-xbr49x900f-smart-led-tv-review/"><u>Navigating Unparalleled Clarity with the Sony XBR49X900F Smart LED TV Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-screen-degradation-issue-resolved/"><u>Windows 10 Screen Degradation Issue - Resolved</u></a></li>
+</ul></div>
 

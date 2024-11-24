@@ -1,7 +1,7 @@
 ---
 title: "Void on Viewport: Latest Card Installation"
-date: 2024-07-12T00:19:45.109Z
-updated: 2024-07-13T00:19:45.109Z
+date: 2024-11-22T11:41:00.052Z
+updated: 2024-11-24T05:49:12.330Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
  If your new graphics card has no display or all you see is a black screen, no fret, it’s probably a simple connection issue. We have here a troubleshooting process that’ll help to identify the culprit to your new GPU no display issue. So if this is also bothering you, look no further and read to get this problem sorted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for the new graphics card black screen or no display problem
 
  The following troubleshooting process is listed by difficulty: so you should start from the top, and work your way down until you find the one that does the trick to fix or pinpoint the culprit to the new GPU no display problem for you.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 7. **[See if the problem is with your graphics card](#m7)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the cable and PCIe connections
 
@@ -72,6 +80,10 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
@@ -103,6 +115,10 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here are the things you should pay extra attention to:
 
 1. If the graphics card is fake, the name shown here should be marked with a \[FAKE\] symbol. So the no display issue with the new graphics card should be with the card itself.
@@ -114,6 +130,10 @@ Here are the things you should pay extra attention to:
  Check the list of things to see if the problem is with your display card. If all is checked out but your monitor still has no display, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Force a clean install of the GPU driver
 
@@ -132,9 +152,18 @@ Here are the things you should pay extra attention to:
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -158,8 +187,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +194,21 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-online-sources-for-3d-glitter-text-designs/"><u>[New] In 2024, Top Online Sources for 3D Glitter Text Designs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-examining-librevid-recorder-for-live-streaming-for-2024/"><u>[Updated] Examining LibreVid Recorder for Live Streaming for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285792846-dvd/"><u>「容量オーバーでDVDが書けない？その理由と対策マニュアル」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-for-inverting-screen-display-android/"><u>2024 Approved Step-By Step for Inverting Screen Display Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wifi-compatibility-windows-10-adapter-fixes-success/"><u>Atheros WiFi Compatibility: Windows 10 Adapter Fixes Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-hidden-vram-ignorance/"><u>Eliminate Hidden VRAM Ignorance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-no-issues-encountered-during-install/"><u>NVIDIA Setup: No Issues Encountered During Install</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purge-latency-in-win1110-with-easy-fixes/"><u>Purge Latency in Win11/10 with Easy Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-sims-4-blank-screens-quickly/"><u>Resolve Sims 4 Blank Screens Quickly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-moto-g73-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Moto G73 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/spotlight-on-the-pioneer-bdr-xd05b-an-in-depth-look-at-design-challenges-with-blu-ray-burning/"><u>Spotlight on The Pioneer BDR-XD05B: An In-Depth Look at Design Challenges with Blu-Ray Burning</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/forming-video-makeup-through-color-alignment/"><u>Transforming Video Makeup Through Color Alignment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-common-youtube-background-distortions/"><u>Troubleshooting Common YouTube Background Distortions</u></a></li>
+</ul></div>
 

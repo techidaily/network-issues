@@ -1,7 +1,7 @@
 ---
 title: "Swift Solution: Rectify Apex Glitches Now"
-date: 2024-07-12T00:19:03.283Z
-updated: 2024-07-13T00:19:03.283Z
+date: 2024-11-22T17:59:22.579Z
+updated: 2024-11-24T06:58:49.630Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Or
  2\. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -127,9 +131,17 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -145,9 +157,17 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -175,8 +195,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,6 +202,22 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-experience-the-power-of-visuals-discover-all-50-banners-in-our-digital-collection/"><u>[New] 2024 Approved Experience the Power of Visuals Discover All 50 Banners in Our Digital Collection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>[New] In 2024, Mastering the Marketplace 30 Advanced FB Techniques Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-edge-top-10-webcams-in-the-latest-os/"><u>[Updated] 2024 Approved Leading Edge Top 10 Webcams in the Latest OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-introduction-to-basic-storytelling-constructs/"><u>2024 Approved Introduction to Basic Storytelling Constructs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seeing-beyond-the-ordinary-with-ar/"><u>2024 Approved Seeing Beyond the Ordinary with AR</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-computer-power-enabling-intel-graphics-compatibility/"><u>Boost Computer Power: Enabling Intel Graphics Compatibility</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-graphics-support-amd-radeon-6950-v10/"><u>Enhanced Graphics Support - AMD Radeon 6950 V1.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fine-tune-windows-11-desktop-sizing/"><u>Fine-Tune Windows 11 Desktop Sizing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-issue-no-signal-for-wireless-on-windows-10-pc/"><u>Fixed Issue: No Signal for Wireless on Windows 10 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30i-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30i</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-display-issues-with-windows-11-update/"><u>Overcome Display Issues with Windows 11 Update</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-corrupted-audio-visual-content-on-phones/"><u>Recovering Corrupted Audio-Visual Content on Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlined-nvidia-and-windows-xp-sync/"><u>Streamlined Nvidia & Windows XP Sync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unearthing-origin-of-mysterious-dx-misstep-in-lol/"><u>Unearthing Origin of Mysterious DX Misstep in LOL</u></a></li>
+</ul></div>
 

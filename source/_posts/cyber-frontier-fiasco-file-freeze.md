@@ -1,7 +1,7 @@
 ---
 title: "Cyber Frontier Fiasco: File Freeze"
-date: 2024-11-11T02:59:45.398Z
-updated: 2024-11-14T19:41:25.774Z
+date: 2024-11-17T07:47:01.606Z
+updated: 2024-11-23T17:24:46.494Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the server status
 
  To narrow down the source of the problem, the first thing you need to do is to check the [Epic Games status page](https://status.epicgames.com/) .
@@ -56,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect other devices
@@ -95,11 +85,19 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch Domain Name Systems (DNS)
 
@@ -112,10 +110,7 @@ Here we recommend using Google DNS:
 2. Click **Yes**  to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
@@ -123,10 +118,7 @@ Here we recommend using Google DNS:
 4. Type **ipconfig /renew** and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
@@ -158,10 +150,7 @@ Here we recommend using Google DNS:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
@@ -173,13 +162,6 @@ Here’s how to do this:
 1. On your keyboard, press the**Windows logo key + R** at the same time to open the Run dialog box. Type**%localappdata%** and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
 2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
@@ -205,10 +187,7 @@ When it’s all done, resume your download and it should be faster.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
@@ -219,6 +198,10 @@ When it’s all done, resume your download and it should be faster.
 2. Click the profile icon on the top right corner and then Settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
@@ -237,10 +220,7 @@ When it’s all done, resume your download and it should be faster.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -258,24 +238,20 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-techniques-for-live-action-sims-playback/"><u>[New] Advanced Techniques for Live-Action Sims Playback</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-xfx-interrupt-terminated-successfully/"><u>[Resolved] XFX Interrupt Terminated Successfully</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-insights-mastering-lenovo-screenshot-techniques/"><u>[Updated] Comprehensive Insights Mastering Lenovo Screenshot Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-making-a-mark-creating-standout-slideshows-for-facebook-networks/"><u>2024 Approved Making a Mark Creating Standout Slideshows for Facebook Networks</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/alleviating-visual-fluctuations-pro-7/"><u>Alleviating Visual Fluctuations (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/an-unknown-direct-x-error-has-occurred-on-league-of-legends-solved/"><u>An Unknown Direct X Error Has Occurred on League of Legends [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dark-screen-fix-for-fall-creators-release/"><u>Dark Screen Fix for Fall Creators' Release</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-visual-experience-on-windows-pcs-asus-driver-downloads-available-now/"><u>Improve Visual Experience on Windows PCs - ASUS Driver Downloads Available Now!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-c12-plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia C12 Plus Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-15-pro-max-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 15 Pro Max? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-through-screen-flickering-troubleshooting/"><u>Navigating Through Screen Flickering Troubleshooting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-code-1900101-during-windows-installation/"><u>Overcoming Obstacle Code 1900101 During Windows Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-youtubes-background-glitches-with-precision/"><u>Overcoming YouTube's Background Glitches with Precision</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722956294471-speedy-setup-find-and-download-compatible-webcam-drivers-for-windows-7-free/"><u>Speedy Setup: Find & Download Compatible Webcam Drivers for Windows 7 | FREE!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-blank-screens-master-display-diagnostics/"><u>Stop Blank Screens: Master Display Diagnostics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-on-windows-11/"><u>Troubleshooting C1900101 on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>[New] In 2024, Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>[Updated] The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridging-the-gap-in-graphics-support-on-underpowered-pcs/"><u>Bridging the Gap in Graphics Support on Underpowered PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/clearscreen-pro-win11-live-video-recorder/"><u>ClearScreen Pro - Win11 Live Video Recorder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-low-res-graphics-in-far-cry-6-adventure-mode/"><u>Eradicating Low-Res Graphics in Far Cry 6 Adventure Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-frustrated-user-seamless-screen-resize-in-windows-10/"><u>From Frustrated User: Seamless Screen Resize in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-addressing-apex-glitches/"><u>Immediate Action: Addressing Apex Glitches</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-decoding-youtube-premium-complete-information-inside/"><u>In 2024, Decoding YouTube Premium Complete Information Inside</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-and-swift-enhance-roblox-on-desktop/"><u>Smooth and Swift: Enhance Roblox on Desktop</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/swiftly-tackle-your-sharepoint-sync-issues-with-these-6-techniques/"><u>Swiftly Tackle Your SharePoint Sync Issues with These 6 Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722719195650-unpacking-the-power-and-efficiency-of-the-portable-acer-predator-triton-300-se/"><u>Unpacking the Power and Efficiency of the Portable Acer Predator Triton 300 SE!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-m4a-editing-solutions-top-5-software-for-2024/"><u>Updated Free M4A Editing Solutions Top 5 Software for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-perfecting-your-soundtrack-techniques-for-implementing-automatic-audio-suppression-in-final-cut-pro-x-for-2024/"><u>Updated Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-graphics-performance-install-intel-hd-graphics-3000-on-windows-10-with-ease/"><u>Upgrade Graphics Performance: Install Intel HD Graphics 3000 on Windows 10 with Ease.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-functionality-lost-reinstate-card-for-windows-10/"><u>Wi-Fi Functionality Lost? Reinstate Card for Windows 10</u></a></li>
 </ul></div>
 

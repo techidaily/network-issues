@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2024-11-10T00:22:30.376Z
-updated: 2024-11-14T19:56:03.498Z
+date: 2024-11-22T18:48:39.096Z
+updated: 2024-11-23T19:04:11.016Z
 tags:
   - win11
   - win10
@@ -29,22 +29,13 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
@@ -104,6 +95,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -119,10 +114,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
@@ -143,22 +135,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -167,10 +150,7 @@ So you can try disabling fast startup to see if it does the trick:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
@@ -186,26 +166,20 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -233,22 +207,18 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-echoes-of-time-unveiling-the-secrets-to-snapchat-reverse/"><u>[New] Echoes of Time Unveiling the Secrets to Snapchat Reverse</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-cod-cold-war-no-internet-links/"><u>[RESOLVED] CoD Cold War: No Internet Links</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed/"><u>[Updated] In 2024, From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-free-memes-at-your-fingertips/"><u>2024 Approved Excellent FREE Memes at Your Fingertips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition/"><u>2024 Approved Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-error-driver-unresponsive-in-windows-10-fixed/"><u>AMD Error: Driver Unresponsive in Windows 10 - Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-the-dark-windows-11-display/"><u>Banishing the Dark Windows 11 Display</u></a></li>
-<li><a href="https://article-files.techidaily.com/crossing-over-sound-the-blend-technique-for-2024/"><u>Crossing Over Sound The Blend Technique for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-cryptic-dx-hurdle-from-lol-gameplay/"><u>Decoding Cryptic DX Hurdle From LoL Gameplay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/grasping-4k-ultimate-screen-quality/"><u>Grasping 4K Ultimate Screen Quality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974046716-hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-ace-google-meet-selecting-ideal-video-call-bgs/"><u>In 2024, Ace Google Meet Selecting Ideal Video Call BGs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor 70 Lite 5G?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-conflict-for-nvidia-and-intel-on-windows-10/"><u>Resolving Hybrid Graphics Conflict for NVIDIA & Intel on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-r9-display-driver-bugs-in-windows-10/"><u>Resolving R9 Display Driver Bugs in Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/should-you-trust-ai-like-chatgpt-and-bard-for-financial-advice/"><u>Should You Trust AI Like ChatGPT and Bard for Financial Advice?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/your-free-tool-to-record-androids-precision-for-2024/"><u>Your Free Tool to Record Android's Precision for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-visual-tales-the-essential-guide-to-text-effects/"><u>[New] Crafting Visual Tales The Essential Guide to Text Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-free-to-use-tools-for-transcribing-digital-conferences-for-2024/"><u>[New] Free-to-Use Tools for Transcribing Digital Conferences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grand-selection-of-incredibly-affordable-footage-for-2024/"><u>[New] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-learn-and-master-io-screen-recording-today-for-2024/"><u>[New] Learn and Master IO Screen Recording Today for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>[New] The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-win1110-now-lacks-amd-graphics-drivers/"><u>[RESOLVED] Win11/10 Now Lacks AMD Graphics Drivers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-steps-to-post-music-on-social-media-stories/"><u>[Updated] In 2024, Steps to Post Music on Social Media Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-15-pro-max-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 15 Pro Max is off? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-texture-detail-for-better-far-cry-experience/"><u>Enhancing Texture Detail for Better Far Cry Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fixes-for-win-minecraft-end-of-freezes-and-crashes/"><u>GPU Fixes for Win-Minecraft: End of Freezes and Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-unmarked-visuals-for-your-business/"><u>In 2024, Acquiring Unmarked Visuals for Your Business</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube/"><u>In 2024, The Zen of Broadcasting Perfecting Zoom's Techniques for YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-unwanted-hp-screen-glimmers/"><u>Solving Unwanted HP Screen Glimmers</u></a></li>
 </ul></div>
 

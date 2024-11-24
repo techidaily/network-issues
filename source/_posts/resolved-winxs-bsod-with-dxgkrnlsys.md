@@ -1,7 +1,7 @@
 ---
 title: "Resolved: WinXs BSOD with dxgkrnl.sys"
-date: 2024-09-16T07:00:33.647Z
-updated: 2024-09-20T10:42:25.828Z
+date: 2024-11-21T04:56:25.134Z
+updated: 2024-11-24T03:43:16.162Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 [Driver Easy](https://tools.techidaily.com/drivereasy/download/) fixes dxgkrnl.sys blue screen of death error in no time!
 
  If you’re seeing the blue screen of death error   **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys),**  you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. The additional code _**dxgkrnl.sys**_ (which stands for**DirectX Graphics Kernel**) has already told you it is the culprit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,7 +47,16 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -60,11 +73,19 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f35b1798.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Check for updates** button and Windows will search for the needed patches for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f6328d3b.png)
 
  4) If find any available update, just download them and wait for them to be installed. You may need to restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3\. Update Graphics Card Driver (Recommended)
 
@@ -87,26 +108,6 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f25aff37f6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4\. Check for Possible Hardware Failure
 
@@ -138,5 +139,24 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-enacted-functioning-system-after-initial-glitches/"><u>[Fix Enacted] Functioning System After Initial Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-missing-network-interface-on-windows-10-notebook/"><u>[FIXED] Missing Network Interface on Windows 10 Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-adjusted-installed-driver-for-missing-amd-graphics/"><u>[GRAPHICS ADJUSTED] Installed Driver for Missing AMD Graphics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-capturing-content-with-confidence-winning-strategies-for-igtv-acquisition-for-2024/"><u>[Updated] Capturing Content with Confidence Winning Strategies for IGTV Acquisition for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-final-impressions-how-to-design-a-standout-vimeo-end-screen-for-2024/"><u>[Updated] Final Impressions How to Design a Standout Vimeo End Screen for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-crafting-realistic-3d-text-designs-in-photoshop/"><u>[Updated] In 2024, Crafting Realistic 3D Text Designs in Photoshop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-world-of-digital-photo-manipulation/"><u>2024 Approved Exploring the World of Digital Photo Manipulation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-double-effect-wonders-for-tiktoks/"><u>2024 Approved Step-by-Step Guide Double Effect Wonders for TikToks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrypting-nvidia-rtx-3080-gaming-woes-and-fixes/"><u>Decrypting NVIDIA RTX 3080 Gaming Woes & Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tactics-to-win-over-co-workers-and-gain-support-for-your-proposals-at-work-expert-advice-by-zdnet/"><u>Essential Tactics to Win Over Co-Workers and Gain Support for Your Proposals at Work - Expert Advice by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-fluctuating-streams-in-new-windows-11/"><u>Fixing Fluctuating Streams in New Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-7025-with-windows-11-systems/"><u>Harmonizing Nvidia 7025 with Windows 11 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6s-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6s Plus With 7 Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precision-adjustment-for-screen-stability/"><u>Precision Adjustment for Screen Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-machines-vs-gaming-computing-units/"><u>Productivity Machines Vs. Gaming Computing Units</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-marketing-spells-20-must-use-terms-for-2024/"><u>Proven Marketing Spells 20 Must-Use Terms for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-refresh-glitches/"><u>Troubleshooting Lenovo Refresh Glitches</u></a></li>
+</ul></div>
 

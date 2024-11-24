@@ -1,7 +1,7 @@
 ---
 title: Rectify Aspect Ratio for Clarity on Screens
-date: 2024-11-11T03:22:57.532Z
-updated: 2024-11-14T16:36:02.632Z
+date: 2024-11-17T08:24:16.252Z
+updated: 2024-11-24T03:05:12.496Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
  If you ever have the**vertical line on laptop screen** issue, don’t worry. It’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for vertical lines on Windows 10, 8.1 and 7 issue
 
  Here are 3 fixes that have helped other users resolve the vertical lines on laptop screen issue. You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -25,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 1. [**Update your graphics driver**](#F1)
 2. [**Adjust the screen resolution**](#F2)
 3. [**Gently wipe the screen with cotton balls**](#F3)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -47,15 +44,27 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -71,14 +80,11 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
 
@@ -88,21 +94,7 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -133,24 +125,20 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>[New] In 2024, Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-flip-your-video-collection-in-a-flash/"><u>[New] In 2024, How to Flip Your Video Collection in a Flash</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-for-board-usage-during-your-zoom-meetings-desktopiosandroid-for-2024/"><u>[New] The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unleash-your-potential-with-these-top-12-pc-clickers/"><u>[Updated] Unleash Your Potential with These Top 12 PC Clickers</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deeper-dive-into-group-policies-with-the-gpresult-command/"><u>A Deeper Dive Into Group Policies with the GPResult Command</u></a></li>
-<li><a href="https://win-hot.techidaily.com/come-sincronizzare-automaticamente-il-tuo-disco-rigido-esterno-gratis-una-guida-dettagliata/"><u>Come Sincronizzare Automaticamente Il Tuo Disco Rigido Esterno Gratis: Una Guida Dettagliata</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crisp-image-window-purity/"><u>Crisp Image: Window Purity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-anthem-playback-handling-lag/"><u>Effortless Anthem Playback: Handling Lag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-work-routines-with-gpt-3-strategies/"><u>Elevating Work Routines with GPT-3 Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-a-fluid-gaming-session-with-civ-5-on-pc/"><u>Ensuring a Fluid Gaming Session with Civ 5 on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint-for-2024/"><u>From 0 to Million Views The Ultimate Content Blueprint for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-detected-none-found-latest-resolution/"><u>GPU Detected: None Found - Latest Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guiding-through-windows-7-screenshake-solutions/"><u>Guiding Through Windows 7 Screenshake Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y55s-5g-2023-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y55s 5G (2023) Phone that is Locked?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-glitch-fix-blinking-solution/"><u>Monitor Glitch Fix: Blinking Solution</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-mts-video-editing-programs/"><u>New 2024 Approved Top-Rated MTS Video Editing Programs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-blackout-after-fall-update/"><u>Overcoming Windows Blackout After Fall Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smoothen-screen-fluctuations-pro-7/"><u>Smoothen Screen Fluctuations (Pro 7)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-ig-videos-for-marketing-blueprint-for-victory/"><u>[New] Mastering IG Videos for Marketing Blueprint for Victory</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-minute-methods-for-retrieving-erased-reddit-threads-for-2024/"><u>[New] Minute Methods for Retrieving Erased Reddit Threads for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-is-max-360-superior-to-hero-11-in-video-quality/"><u>[Updated] 2024 Approved Is Max 360 Superior to Hero 11 in Video Quality?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-virtual-warriors-journey-7-intense-fps-games-for-2024/"><u>[Updated] Virtual Warriors’ Journey - 7 Intense FPS Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-yet-high-quality-cameras-list/"><u>2024 Approved Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-exclusive-content-prime-and-twitch-duo/"><u>Access Exclusive Content: Prime & Twitch Duo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-non-responsive-touchscreen/"><u>Fixing Lenovo's Non-Responsive Touchscreen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-woes-blacked-out-screens/"><u>New Tech Woes: Blacked-Out Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-invisible-gpu-adapter-errors/"><u>Overcome Invisible GPU Adapter Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-firmware-update-successful-atheros-compatibility/"><u>Qualcomm's Win11 Firmware Update: Successful Atheros Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/racing-against-lag-easy-fixes/"><u>Racing Against Lag: Easy Fixes</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uncover-stealthy-screen-drop/"><u>Uncover Stealthy Screen Drop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-radeon-hd-6950-drivers-enhanced-version-out/"><u>Win11 Radeon HD 6950 Drivers Enhanced Version Out</u></a></li>
 </ul></div>
 

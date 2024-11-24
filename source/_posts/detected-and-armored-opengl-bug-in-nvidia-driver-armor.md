@@ -1,7 +1,7 @@
 ---
 title: "Detected & Armored: OpenGL Bug in Nvidia Driver Armor"
-date: 2024-11-10T03:14:24.888Z
-updated: 2024-11-15T00:29:46.492Z
+date: 2024-11-17T01:05:06.432Z
+updated: 2024-11-24T10:03:33.014Z
 tags:
   - win11
   - win10
@@ -53,20 +53,21 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -82,14 +83,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -103,25 +101,19 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
@@ -152,18 +144,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-editing-secrets-mastering-high-resolution-footage-in-fcpx/"><u>[Updated] 2024 Approved Insta-Editing Secrets Mastering High-Resolution Footage in FCPX</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlock-clearer-livestreams-with-these-4-tips-for-2024/"><u>[Updated] Unlock Clearer Livestreams with These 4 Tips for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-video-visionaries-mastering-the-art-of-sharing-pictures-on-youtube/"><u>[Updated] Video Visionaries Mastering the Art of Sharing Pictures on YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficiency-and-speed/"><u>2024 Approved Efficiency and Speed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-faulty-video-cards-for-enhanced-mc-play-on-windows/"><u>Fixing Faulty Video Cards for Enhanced MC Play on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-radeon-r9-drivers-on-new-windows-11/"><u>Fixing Radeon R9 Drivers on New Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-screen-config-issue-in-win-710/"><u>Fixing Screen Config Issue in Win 7/10</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-complete-manual-for-installing-microsofts-wm6/"><u>In 2024, Complete Manual for Installing Microsoft's WM6</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-muted-by-latest-graphics-update/"><u>Monitor Muted by Latest Graphics Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-dell-screen-flicker-issue/"><u>Quick Fix for Dell Screen Flicker Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-shifting-your-streaming-application-across-hardware/"><u>Securely Shifting Your Streaming Application Across Hardware</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211166455-9780760390245-vampires/"><u>Vampires | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-enhanced-viewport-management/"><u>Windows 11: Enhanced Viewport Management</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ez-grabber-user-manual-in-a-nutshell/"><u>[New] The EZ Grabber User Manual in a Nutshell</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bridging-the-online-gap-in-cod-cold-war-2024/"><u>[RESOLVED] Bridging the Online Gap in CoD Cold War 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-in-depth-analysis-our-selection-of-premium-21-hdmi-tvs/"><u>[Updated] 2024 Approved In-Depth Analysis Our Selection of Premium 2.1 HDMI TVs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-4k-curtain-a-closer-look-at-asuss-mg28uq-monitor/"><u>[Updated] Behind the 4K Curtain A Closer Look at ASUS's MG28UQ Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-captivating-unboxing-content-top-tips/"><u>[Updated] Crafting Captivating Unboxing Content Top Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/1723262396167-ayaneo-unveils-new-amd-powerhouse-the-classic-inspired-am01-mini-pc-now-in-stores/"><u>Ayaneo Unveils New AMD Powerhouse: The Classic Inspired AM01 Mini PC Now in Stores</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-boundaries-in-technology-the-ultimate-list-of-best-ai-prompts-generators/"><u>Breaking Boundaries in Technology: The Ultimate List of Best AI Prompts Generators</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridging-gap-how-to-fix-ignored-gpu-detection/"><u>Bridging Gap: How to Fix Ignored GPU Detection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inadequate-computer-specs-for-driver-compatibility/"><u>Correcting Inadequate Computer Specs for Driver Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-vertical-image-flip-on-win-11/"><u>Correcting Vertical Image Flip on Win 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/directdraw-inactive-armor-implemented/"><u>DirectDraw Inactive, Armor Implemented</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-xwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone X/Windows/Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/peak-performance-pfv-settings-for-easy-movement/"><u>Peak Performance PFV Settings for Easy Movement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-upside-down-error/"><u>Rectifying Window's Upside-Down Error</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamers-dilemma-revisited-obs-vs-twitch-channel-space-for-2024/"><u>Streamers' Dilemma Revisited OBS vs Twitch Channel Space for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-radeon-r9-and-windows-11-compatibility-issues/"><u>Tackling Radeon R9 & Windows 11 Compatibility Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrading-intel-graphic-compatibility-with-windows/"><u>Upgrading Intel Graphic Compatibility with Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visualinterface-crashes-window-os-fixed-ready-to-go/"><u>VisualInterface Crashes, Window OS Fixed (Ready to Go)</u></a></li>
 </ul></div>
 

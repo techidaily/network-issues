@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 11 Video Quakes
-date: 2024-11-09T21:15:07.086Z
-updated: 2024-11-15T00:22:24.797Z
+date: 2024-11-16T18:15:06.055Z
+updated: 2024-11-24T10:49:39.545Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
  Microsoft has officially rolled out Windows 11 for eligible users. However, the new operating system is not exempted from encountering many issues. Some users have reported that they are experiencing a flickering screen in Windows 11\. If you happen to be one of them, don’t worry. In this tutorial, we’ll show you how to fix the problem easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 7 fixes that have helped other users resolve the screen flickering issue. You don’t have to try them all, just work your way down the list until you find the one that works for you.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 7. **[Disable hardware acceleration](#Fix7)**
 8. **[Repair your system files](#Fix8)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your cables
 
  A loose or damaged monitor cable can cause your screen to flicker. Before you begin to troubleshoot the screen flickering issues, you should first check if your monitor cables are plugged in securely.
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 * If your monitor cable is damaged,**replace it with a new one** .
 
  Once you’ve confirmed that your cables are not the problem, move on to troubleshoot the driver issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -73,24 +85,10 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
@@ -104,13 +102,6 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
 
@@ -118,13 +109,6 @@ If the issue remains, check out the next fix.
 4. Click**Uninstall** again to confirm your choice.
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change Accent color and Background
 
@@ -136,28 +120,26 @@ If the issue remains, check out the next fix.
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable animation effects
 
@@ -194,13 +176,6 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
 4. Close Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the flickering issue occurs while using your browser, you’ll need to disable hardware acceleration in your browser as well. Here we’ll take Google Chrome for example.
 
 #### To disable hardware acceleration in Google Chrome
@@ -230,10 +205,7 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2: Use the System File Checker tool to repair system files
@@ -244,6 +216,10 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
@@ -251,9 +227,17 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, check if your problem has been resolved.
 
@@ -278,18 +262,24 @@ Once done, check if your problem has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-brightening-up-your-youtube-pixels/"><u>[New] 2024 Approved Brightening Up Your YouTube Pixels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gears3-no-start-on-pc-dx12-hurdle/"><u>[RESOLVED] Gears3 No Start on PC - DX12 Hurdle</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ace-your-edits-in-depth-guide-to-high-quality-youtube-videos/"><u>Ace Your Edits In-Depth Guide to High-Quality YouTube Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-reflective-displays-in-win11-update/"><u>Addressing Reflective Displays in Win11 Update</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-update-hp-officejet-pro-6970-printer-drivers-for-windows-devices/"><u>Ensure Optimal Performance: Update HP OfficeJet Pro 6970 Printer Drivers for Windows Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-a-safer-tomorrow-with-four-governmental-ai-laws/"><u>Envisioning a Safer Tomorrow with Four Governmental AI Laws</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974418358-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/glide-past-game-slowdowns/"><u>Glide Past Game Slowdowns</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-big-sur-basics-for-system-and-hardware-enthusiasts/"><u>In 2024, Big Sur Basics for System & Hardware Enthusiasts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-17-light-and-gear-perfect-for-vloggers/"><u>In 2024, Top 17 Light & Gear Perfect for Vloggers</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726030143125-macdvd-dvd/"><u>MacでDVDファイルへの変換手順 - DVD取り込みガイド</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-tip-to-end-win11-display-disturbance/"><u>Quick Tip to End Win11 Display Disturbance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streaming-stability-achieved-after-upgrading-to-win10/"><u>Streaming Stability Achieved After Upgrading to Win10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/reating-compelling-youtube-live-content-with-wirecast-for-2024/"><u>[New] Creating Compelling Youtube Live Content with WireCast for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-orchestrating-scene-sounds-with-imovie/"><u>[New] Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-advanced-methods-for-bending-digital-images/"><u>[Updated] Advanced Methods for Bending Digital Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-memorable-moments-check-out-these-top-20-snaps-filters/"><u>[Updated] In 2024, Capture Memorable Moments Check Out These Top 20 Snaps Filters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-list-of-instagram-grid-making-software/"><u>[Updated] The Ultimate List of Instagram Grid Making Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-ai-penmanship-how-to-train-chatgpt-in-your-own-writing-fashion/"><u>Adapting AI Penmanship: How to Train ChatGPT in Your Own Writing Fashion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressed-expanded-screen-size-issues-for-windows/"><u>Addressed Expanded Screen Size Issues for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elucited-explanation-of-4k-super-hd-resolution/"><u>Elucited Explanation of 4K Super HD Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-flaky-wi-fi-flow/"><u>Fixing the Flaky Wi-Fi Flow</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-youtube-conversion-top-10-strategies/"><u>In 2024, Mastering the Art of YouTube Conversion Top 10 Strategies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-smart-7-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix Smart 7 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-functioning-nvidia-card-on-win11/"><u>Seamless Functioning: Nvidia Card on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smashing-through-green-screen-setbacks-on-youtube/"><u>Smashing Through Green Screen Setbacks on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-checklist-for-verifying-wellness-tips-from-ai/"><u>The Ultimate Checklist for Verifying Wellness Tips From AI</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/vision-quest-steps-to-secure-your-dream-4k-screen/"><u>Vision Quest Steps to Secure Your Dream 4K Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-update-eliminating-qualcomm-atheros-driver-issues/"><u>Win11 Update: Eliminating Qualcomm Atheros Driver Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-resolution-adjustment-problem-no-longer-exists/"><u>Windows 10 Resolution Adjustment - Problem No Longer Exists</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-crystal-vision-unlocked/"><u>Windows: Crystal Vision Unlocked</u></a></li>
 </ul></div>
 

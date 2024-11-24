@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2024-11-08T23:07:04.927Z
-updated: 2024-11-14T17:12:45.176Z
+date: 2024-11-19T06:43:08.057Z
+updated: 2024-11-23T19:43:11.793Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 ## Addressing BD Issues on WS-21, WS-8 & Older Windows
 
  You may have**Microsoft Basic Render driver problems** occurring to your Windows computer. Some may run into errors like “**Please update your Microsoft Basic Render Driver** ” in games, and some may find that the computer is using the Microsoft Basic Render driver instead of the official graphics card installed. But don’t worry. You can fix the Microsoft Basic Render driver issues quickly and easily with the solutions in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Microsoft Basic Render driver
 
@@ -35,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -51,31 +48,15 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
@@ -83,10 +64,7 @@ Here’s how to do it:
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
@@ -108,9 +86,17 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -132,18 +118,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixing-offline-play-problems-cod-cold-war-2024/"><u>[FIXING]: Offline Play Problems: CoD Cold War 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-troubleshooted-resolved-no-amd-graphics-on-windows-10/"><u>[SYSTEM TROUBLESHOOTED] Resolved No AMD Graphics on Windows 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-average-profit-per-million-youtube-viewers/"><u>[Updated] Average Profit per Million YouTube Viewers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>[Updated] Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-first-time-user-steps-for-effortless-vrecorder-setup/"><u>2024 Approved First-Time User Steps for Effortless VRecorder Setup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-black-screen-with-active-cursor/"><u>Address Black Screen with Active Cursor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bdr-update-microsofts-enhancements-across-windows/"><u>BDR Update: Microsoft's Enhancements Across Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-quick-tips-for-quality-animation-in-movie-maker/"><u>In 2024, Quick Tips for Quality Animation in Movie Maker</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-failed-win-os-graphics-device-link/"><u>Repaired Failed Win-OS Graphics Device Link</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/transform-mp4-footage-into-playable-dvds-easily-with-our-top-ranking-mpg-to-dvd-software/"><u>Transform MP4 Footage Into Playable DVDs Easily with Our Top-Ranking MPG to DVD Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-dangers-why-security-issues-with-generative-ai-could-escalate-soon/"><u>Unveiling Dangers: Why Security Issues with Generative AI Could Escalate Soon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-battlefield-badlands-xbox-compatibility-woes/"><u>[FIXED] Battlefield: Badlands - Xbox Compatibility Woes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-broadcast-your-best-gameplay-from-xbox-to-fb-live-for-2024/"><u>[Updated] Broadcast Your Best Gameplay From Xbox to FB Live for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-synthesizing-soundscapes-the-revamped-magic-of-magix-music-maker-2024/"><u>[Updated] Synthesizing Soundscapes The Revamped Magic of Magix Music Maker 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-6-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 6 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-9a-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 9A</u></a></li>
+<li><a href="https://network-issues.techidaily.com/anomaly-elimination-the-obscure-x-mistake-in-league/"><u>Anomaly Elimination: The Obscure X Mistake in League</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-steps-for-disabling-windows-graphics/"><u>Easy Steps for Disabling Windows Graphics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightening-up-blacked-out-screen-win10/"><u>Lightening Up Blacked Out Screen Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-failure-rectified-system-running-smoothly/"><u>Nvidia Failure Rectified, System Running Smoothly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-14-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi 14 Pro Phone Pattern Lock</u></a></li>
 </ul></div>
 

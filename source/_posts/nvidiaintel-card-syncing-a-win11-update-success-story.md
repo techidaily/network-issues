@@ -1,7 +1,7 @@
 ---
 title: Nvidia/Intel Card Syncing, A Win11 Update Success Story
-date: 2024-07-12T00:22:30.533Z
-updated: 2024-07-13T00:22:30.533Z
+date: 2024-11-20T00:04:46.324Z
+updated: 2024-11-23T19:05:07.093Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
  If you’ve upgraded to Windows 10, and you find that your **switchable graphics cards** on your laptop are not not working well, or you see a boot-loop, and some of you might even have black screen error during some games, you’re not alone. In some extreme case, you may find the HDMI stop working when there is some problem with the switchable graphic cards.
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
@@ -77,17 +81,29 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -103,6 +119,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
@@ -113,8 +133,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,6 +140,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xploring-the-best-free-youtube-video-editors-for-ios/"><u>[New] Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-10-best-apps-to-speed-audio-speed-on-mobile/"><u>[Updated] 2024 Approved 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-10-secret-windows-11-tips-and-tricks-you-may-not-know/"><u>[Updated] 2024 Approved 10 Secret Windows 11 Tips and Tricks You May Not Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitors-inability-to-show-fullscreen-windows-11/"><u>Fixed Monitor's Inability to Show Fullscreen Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-correction-error-43/"><u>Graphics Correction: Error 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-quality-win11-displays-tweaked/"><u>Improving Image Quality - Win11 Displays Tweaked</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-14-plus-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 14 Plus for Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone without PIN</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses-for-2024/"><u>Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-failed-gdx-configuration-fix-available/"><u>Overcome Failed GDX Configuration, Fix Available</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-limitations-in-unsupported-freesync-setup/"><u>Overcoming Limitations in Unsupported FreeSync Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-on-windows-7-fixed/"><u>Screen Upside Down on Windows 7 [FIXED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-system-graphics-update-on-windows/"><u>Streamlining System Graphics Update on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-greatest-advancements-in-technology-after-1844-a-countdown-of-11/"><u>The Greatest Advancements in Technology After 1844: A Countdown of 11</u></a></li>
+</ul></div>
 

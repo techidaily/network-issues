@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert: Glitchy OpenGL Error Now Corrected"
-date: 2024-11-09T16:11:58.488Z
-updated: 2024-11-14T23:50:00.429Z
+date: 2024-11-20T05:59:02.791Z
+updated: 2024-11-23T16:12:55.375Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -53,34 +57,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -96,14 +79,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -117,12 +97,24 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
@@ -152,20 +144,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>[New] 2024 Approved Detailed Evaluation Razer Kiyo Webcam</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-video-content-top-formats-on-youtube/"><u>[New] 2024 Approved Enhancing Video Content Top Formats on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-iphone-solutions-for-reverse-playback/"><u>[New] 2024 Approved IPhone Solutions for Reverse Playback</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[Updated] 2024 Approved Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-facebooks-micro-video-blueprint-for-2024/"><u>[Updated] Unveiling Facebook's Micro-Video Blueprint for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/darkened-vision-post-upgrade/"><u>Darkened Vision Post-Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-visuals-install-intel-graphics-hd-3000s-latest-w10-version/"><u>Elevate Your Visuals: Install Intel Graphics HD 3000'S Latest W10 Version.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-f23-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo F23 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-f54-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy F54 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-graphics-card-not-showing-in-device-manager-solved/"><u>NVIDIA Graphics Card Not Showing in Device Manager [Solved]</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/premier-10-sound-scaling-options-pcs-and-phones-for-2024/"><u>Premier 10 Sound Scaling Options PCs & Phones for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fix-mastering-the-download-of-kingston-ssd-drivers/"><u>Quick Fix: Mastering the Download of Kingston SSD Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-incompatible-graphics-device-in-windows/"><u>Rectified Incompatible Graphics Device in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resurrecting-non-pivoting-gpu-fans/"><u>Resurrecting Non-Pivoting GPU Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/xfx-driver-recovered-from-halt-state/"><u>XFX Driver Recovered From Halt State</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-missing-advanced-display-settings/"><u>[Fix] Missing Advanced Display Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-voice-recording-essentials-the-filmmakers-key-to-excellence/"><u>[New] 2024 Approved Voice Recording Essentials The Filmmaker's Key to Excellence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-offline-troubleshoot-for-cod-cold-war-2024/"><u>[REPAIRED] Offline Troubleshoot for CoD Cold War 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-amc-explorer-ghost-drift-cam-analysis/"><u>[Updated] In 2024, AMC Explorer Ghost Drift Cam Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-magic-in-haul-video-creation/"><u>[Updated] Unveiling the Magic in Haul Video Creation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-settings-regained-in-win10-os/"><u>Display Settings Regained in Win10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmony-achieved-fallout-4-post-crash-glitches/"><u>Harmony Achieved: Fallout 4 Post-Crash Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-time-lapse-on-samsung-mobile/"><u>How to Make Time Lapse on Samsung Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-techies-playbook-screen-record-and-share-on-snapchat/"><u>In 2024, A Techie's Playbook Screen Record & Share on Snapchat</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-effortlessly-spread-youtube-videos-on-fb/"><u>In 2024, Effortlessly Spread YouTube Videos on FB</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-ssd-detection-and-installation-guide/"><u>M.2 SSD Detection & Installation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-pcs-visuals-with-a-fresh-intel-3000-driver-on-w10/"><u>Optimize Your PC's Visuals with a Fresh Intel 3000 Driver on W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974176310-quick-enhancement-update-intel-graphics-3000-to-boost-your-w10-display/"><u>Quick Enhancement: Update Intel Graphics 3000 to Boost Your W10 Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reclaiming-unlisted-display-options-in-nvidia-controls/"><u>Reclaiming Unlisted Display Options in Nvidia Controls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-win11s-vanishing-cursor-act/"><u>Resolving WIN11's Vanishing Cursor Act</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplify-graphics-experience-with-the-latest-intel-hd-graphics-update-for-windows-10/"><u>Simplify Graphics Experience with the Latest Intel HD Graphics Update for Windows 10</u></a></li>
+<li><a href="https://discover-able.techidaily.com/the-essentials-of-acceptable-usage-policies-and-legal-contracts-for-users/"><u>The Essentials of Acceptable Usage Policies & Legal Contracts for Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolution-for-missing-dnssddll-files-on-your-pc/"><u>Troubleshooting and Resolution for Missing dnssd.dll Files on Your PC</u></a></li>
 </ul></div>
 

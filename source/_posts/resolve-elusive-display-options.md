@@ -1,7 +1,7 @@
 ---
 title: "[Resolve] Elusive Display Options"
-date: 2024-11-08T23:33:51.630Z
-updated: 2024-11-14T21:24:28.002Z
+date: 2024-11-17T21:12:50.881Z
+updated: 2024-11-23T18:16:40.112Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -46,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
@@ -61,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -75,22 +80,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
@@ -105,10 +100,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
@@ -130,16 +122,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-editors-edge-advanced-techniques-for-youtube-creations/"><u>[New] 2024 Approved The Editor's Edge Advanced Techniques for YouTube Creations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rom-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[New] From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-ceasing-automatic-image-transfer-disabling-picture-sync-between-your-iphone-and-ipad/"><u>1. Ceasing Automatic Image Transfer: Disabling Picture Sync Between Your iPhone and iPad</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/changing-interface-languages-with-aomesystems-aomei-backup-tool/"><u>Changing Interface Languages with AOMESYSTEM's AOMEI Backup Tool</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correct-inverted-monitor-viewing-angle/"><u>Correct Inverted Monitor Viewing Angle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-res-settings-reinstated-in-win10/"><u>High-Res Settings Reinstated in Win10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c67-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme C67 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-giggle-genesis-creepy-clones-with-a-smile/"><u>In 2024, Giggle Genesis Creepy Clones with a Smile</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-shutdown-after-driver-upgrade/"><u>Silent Shutdown After Driver Upgrade</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/slow-taper-strategies-to-compress-sound-in-fl-studio-for-2024/"><u>Slow Taper Strategies to Compress Sound in FL Studio for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-view-ditching-blurry-windows/"><u>Smooth View: Ditching Blurry Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deciphering-your-social-media-shadows-privacy-on-facebook/"><u>[New] Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>[New] In 2024, Trendsetting Tactic Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools-for-2024/"><u>[New] Mastering the Art of Screen Recording An In-Depth Look at ZD Software Tools for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-self-animated-wonders-cutting-edge-techniques-for-you/"><u>[New] Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films/"><u>2024 Approved Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-issues-graphics-cards-and-windows-8s-safe-mode-journey/"><u>Avoiding Issues: Graphics Cards and Windows 8'S Safe Mode Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficiently-reduce-file-size-with-h265-conversion-from-h2-64-without-sacrificing-video-quality/"><u>Efficiently Reduce File Size with H.265 Conversion From H.2 64 Without Sacrificing Video Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-sharp-window-display-on-pc/"><u>Fix: Sharp Window Display on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-display-rotated-issue-resolved/"><u>Laptop Display Rotated - Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-interruptions-streaming-on-upgraded-windows-11/"><u>No More Interruptions: Streaming on Upgraded Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/609791-9781407041049-now-is-the-time/"><u>Now is the Time | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-flipback-displays-with-wins-11/"><u>Rectifying Flipback Displays with Wins 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-switchable-graphics-issue-with-intelnvidia-win10-fixes/"><u>Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974835330-secure-your-perfect-zoom-experience-no-more-camera-issues/"><u>Secure Your Perfect Zoom Experience, No More Camera Issues</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nubia-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nubia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailor-screen-size-for-optimal-windows-11-use/"><u>Tailor Screen Size for Optimal Windows 11 Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-are-videos-invisible-on-sony-a6400/"><u>Why Are Videos Invisible on Sony A6400?</u></a></li>
 </ul></div>
 

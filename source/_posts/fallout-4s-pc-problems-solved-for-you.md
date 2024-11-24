@@ -1,7 +1,7 @@
 ---
 title: Fallout 4'S PC Problems, Solved for You
-date: 2024-07-12T00:18:32.656Z
-updated: 2024-07-13T00:18:32.656Z
+date: 2024-11-17T19:56:46.477Z
+updated: 2024-11-24T02:35:11.544Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -40,11 +44,19 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
 
@@ -68,7 +80,15 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -112,8 +132,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +139,21 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-tv-viewership-for-facebook-live-events/"><u>[New] 2024 Approved Maximizing TV Viewership for Facebook Live Events</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fortnite-high-ping-quickly-and-easily/"><u>[SOLVED] | Fortnite High Ping | Quickly & Easily!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-wdfviolation-blue-screen-error-on-windows-111087/"><u>[SOLVED] WDF_Violation Blue Screen Error on Windows 11/10/8/7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-decoding-the-mystery-of-facebook-data-a-novices-handbook/"><u>[Updated] 2024 Approved Decoding the Mystery of Facebook Data A Novice’s Handbook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-jailbreak-joy-top-funny-faces-at-the-social-networks-limits/"><u>[Updated] Jailbreak Joy - Top Funny Faces at the Social Network’s Limits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-innovation-insights-into-vr-gear-designs/"><u>2024 Approved The Innovation Insights Into VR Gear Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-file-access-dilemnas-on-windows-os/"><u>Addressing File Access Dilemnas on Windows OS</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/conversion-rapide-du-hdd-en-ssd-sur-windows-11-methode-la-plus-efficace-et-simple-a-suivre/"><u>Conversion Rapide Du HDD en SSD Sur Windows 11 - Méthode La Plus Efficace Et Simple À Suivre</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95793115-9781101993750-fear-less/"><u>Fear Less | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quieten-system-sounds-on-pc-and-mac-devices/"><u>Quieten System Sounds on PC and Mac Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fixing-initialization-issues-in-graphics-systems/"><u>Solved: Fixing Initialization Issues in Graphics Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-your-zoom-video-calling-issues-stabilizing-an-erratic-internet-connection/"><u>Solving Your Zoom Video Calling Issues: Stabilizing an Erratic Internet Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-guide-resolving-ethernet-connectivity-errors-on-windows-11-and-windows-7/"><u>Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-guide-solving-ethernet-not-functioning-errors-on-pc-windows-107/"><u>Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)</u></a></li>
+</ul></div>
 

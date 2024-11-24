@@ -1,7 +1,7 @@
 ---
 title: Wi-Fi Signal Slipping Away
-date: 2024-11-07T19:22:13.249Z
-updated: 2024-11-15T01:34:50.553Z
+date: 2024-11-18T06:54:58.590Z
+updated: 2024-11-24T07:48:55.941Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 4. Power cycle your router and modem by unplugging them, waiting 30 seconds, then plugging them back in.
 5. Make sure your router firmware is up to date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Change the power management
 
 1. On your keyboard, press the**Windows logo key** and the**R key** to open the Run command window.
@@ -49,33 +53,25 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 4. Click**Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-25-29.jpg)
 5. **Right-click** your WiFi adapter and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-27-14.jpg)
 6. Click**Configure** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-42-21.jpg)
 7. Go to the**Power Management** tab.**Untick** the box next to**Allow the computer to turn off this device to save power** . Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-46-42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Reset the Wi-Fi AutoConfig service
@@ -84,25 +80,15 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-48-47.jpg)
 2. Locate**WLAN AutoConfig** and double-click it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-51-55.jpg)
 3. Change the Startup type to**Automatic** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-53-00-1.jpg)
 4. Click**Apply** and**OK** to save and exit.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-54-11.jpg)
 5. Check to see if your Wi-Fi connection is back to normal. If not, you need to try the next step.
@@ -123,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -151,24 +141,18 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-battlefield-badlands-xbox-compatibility-woes/"><u>[FIXED] Battlefield: Badlands - Xbox Compatibility Woes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-hulu-live-anywhere-a-practical-how-to-manual-for-2024/"><u>[New] Capturing Hulu Live Anywhere - A Practical How-To Manual for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-speed-demons-win-10-and-11-internet-takedown/"><u>[SOLVED] Speed Demons: WIN 10 & 11 Internet Takedown</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-bite-sized-content-on-youtube-for-2024/"><u>[Updated] Bite-Sized Content on YouTube for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capturing-quality-logitech-webcam-recording-guide/"><u>[Updated] Capturing Quality Logitech Webcam Recording Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leap-into-the-future-a-guide-for-windows-11-installation/"><u>2024 Approved Leap Into the Future A Guide for Windows 11 Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/anomaly-elimination-the-obscure-x-mistake-in-league/"><u>Anomaly Elimination: The Obscure X Mistake in League</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrease-roblox-latency-on-windows/"><u>Decrease Roblox Latency on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-steps-for-disabling-windows-graphics/"><u>Easy Steps for Disabling Windows Graphics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-find-x6-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo Find X6 Pro Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-c12-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia C12 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>In 2024, Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lightening-up-blacked-out-screen-win10/"><u>Lightening Up Blacked Out Screen Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-failure-rectified-system-running-smoothly/"><u>Nvidia Failure Rectified, System Running Smoothly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-m54-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy M54 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/protect-your-chrome-from-malicious-notification-attacks-essential-tips/"><u>Protect Your Chrome From Malicious Notification Attacks: Essential Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-invisible-card-errors/"><u>Resolve Invisible Card Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-msdn-error-with-nvidia-graphics-card-hiding/"><u>Resolved: MSDN Error with NVIDIA Graphics Card Hiding</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionizing-reports-with-paper-less-prints/"><u>Revolutionizing Reports with Paper-Less Prints</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-witness-the-blend-the-top-ten-funny-and-deep-ig-meme-accounts/"><u>[Updated] 2024 Approved Witness the Blend The Top Ten Funny & Deep IG Meme Accounts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/alter-macs-screen-capture-store-path-for-2024/"><u>Alter Mac's Screen Capture Store Path for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-rollback-successful/"><u>Driver Rollback Successful</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-mp3-transformation-from-mov-files-for-desktop-and-portable-device-users/"><u>Effortless MP3 Transformation From MOV Files for Desktop and Portable Device Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-a-leap-forward-in-graphics-for-win11-users/"><u>GeForce RTX210: A Leap Forward in Graphics for Win11 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-c67-4g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme C67 4G Unlock Without Password</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/obs-temporal-control-initiating-countdown-features-seamlessly/"><u>OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-horizontal-line-displacement/"><u>Rectify Horizontal Line Displacement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyrocketing-your-presence-on-youtube-with-live-games-for-2024/"><u>Skyrocketing Your Presence on YouTube with Live Games for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-play-rectifying-computer-glitches-in-civ-5/"><u>Smoothing Play: Rectifying Computer Glitches in Civ 5</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tap-out-lags-not-bugs/"><u>Tap Out Lags, Not Bugs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-go-to-places-for-endless-music-video-viewing-our-number-one-choices/"><u>Your Go-To Places for Endless Music Video Viewing: Our Number One Choices</u></a></li>
 </ul></div>
 

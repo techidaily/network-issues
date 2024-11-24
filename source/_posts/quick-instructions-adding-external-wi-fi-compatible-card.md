@@ -1,7 +1,7 @@
 ---
 title: "Quick Instructions: Adding External Wi-Fi Compatible Card"
-date: 2024-11-09T03:03:49.373Z
-updated: 2024-11-14T20:55:14.373Z
+date: 2024-11-17T22:24:35.841Z
+updated: 2024-11-23T18:34:03.477Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 
 [**Option 2 — Automatically (Recommended)**](#o2) — This is the quickest and easiest option. It’s all done with just a couple of mouse clicks — easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Download and install the driver manually
 
  You can update your driver manually by going to the hardware manufacturer’s website and searching for the latest driver for your WiFi adapter. But if you take this approach, be sure to choose the driver that’s compatible with the exact model number of your hardware, and your version of Windows.
@@ -45,10 +49,7 @@ If you don’t know what Wi-Fi adapter you have, take these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/win11-how-to-know-what-WiFi-adapter-you-have.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update your WiFi adapter driver
@@ -60,15 +61,12 @@ If you don’t know what Wi-Fi adapter you have, take these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/Realtek-RTL8821CE-802.11ac-PCIe-Adapter.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -88,25 +86,13 @@ To use Fortect:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
@@ -133,17 +119,17 @@ To use Fortect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-elite-mp4-streamer-system-for-fb-for-2024/"><u>[New] Elite MP4 Streamer System for FB for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/s-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps-for-2024/"><u>Access Short Videos Anywhere The Top 6 Free & Online YouTube Short Download Apps for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ai-powered-text-conversion-for-effective-presentations/"><u>AI-Powered Text Conversion for Effective Presentations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/combat-challenging-monsters-in-monster-hunter-world-an-expert-gameplay-breakdown/"><u>Combat Challenging Monsters in Monster Hunter: World – An Expert Gameplay Breakdown</u></a></li>
-<li><a href="https://network-issues.techidaily.com/displayerror-in-windows-ui-graphic-system-ready-for-resolution/"><u>DisplayError in WIndows UI Graphic System (Ready for Resolution)</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-videos-upconvert-content-to-1080p-or-4k-using-vlc-media-player/"><u>Enhance Your Videos: Upconvert Content to 1080P or 4K Using VLC Media Player</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-dpi-settings-fixed-on-win-10-systems/"><u>High-DPI Settings Fixed on Win 10 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-crt-refresh-rate-glitches/"><u>Tackle CRT Refresh Rate Glitches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-liberate-your-video-files-free-online-tools-for-facebook-videos-in-1080phd-for-2024/"><u>[New] Liberate Your Video Files - Free Online Tools for Facebook Videos in 1080P/HD for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-moviemaking-magic-ideal-scenes-for-video-craft/"><u>[New] Moviemaking Magic Ideal Scenes for Video Craft</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-channel-building-blueprint-reaching-1k-subs-rapidly-for-2024/"><u>[Updated] Channel Building Blueprint Reaching 1K Subs Rapidly for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-establishing-group-communication-on-skype-windows-mac/"><u>[Updated] In 2024, Establishing Group Communication on Skype (Windows, Mac)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-nvidiaintel-graphic-problem-a-win10-solution-found/"><u>Conquering NVIDIA/Intel Graphic Problem: A Win10 Solution Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-changes-preserved-post-save/"><u>Display Changes Preserved Post-Save</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hype-generator-chief-architect-for-2024/"><u>Hype Generator Chief Architect for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-oddity-loading-lullaby/"><u>Overwatch Oddity: Loading Lullaby</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-audio-solutions-for-non-working-sound-systems/"><u>Revive Your Laptop's Audio: Solutions for Non-Working Sound Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-wifi-woes-on-win-10-and-11/"><u>Winning WiFi Woes on WIN 10 & 11</u></a></li>
 </ul></div>
 

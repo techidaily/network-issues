@@ -1,7 +1,7 @@
 ---
 title: "Smooth Resolution Switching: No More Display Annoyances on Win 10"
-date: 2024-11-09T23:46:36.104Z
-updated: 2024-11-14T16:45:37.374Z
+date: 2024-11-19T23:39:26.928Z
+updated: 2024-11-23T20:45:28.537Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -59,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -69,15 +66,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
@@ -89,13 +87,6 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -112,10 +103,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
@@ -127,6 +115,10 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -156,19 +148,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/outube-earnings-guide-achieving-profitability-through-view-counts-for-2024/"><u>[New] YouTube Earnings Guide Achieving Profitability Through View Counts for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ios-focused-techniques-downloading-and-saving-youtube-video/"><u>[Updated] 2024 Approved IOS-Focused Techniques Downloading and Saving YouTube Video</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>2024 Approved Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-crashes-fallout-4-pc-solved/"><u>Banish Crashes: Fallout 4 PC Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clarified-unknown-direct-x-flub-on-legends-of-lol/"><u>Clarified Unknown Direct X Flub on Legends of LoL</u></a></li>
-<li><a href="https://network-issues.techidaily.com/computer-graphics-component-revived/"><u>Computer Graphics Component Revived</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719973927899-fixed-lenovo-tap-glitch-back-to-life/"><u>Fixed Lenovo Tap Glitch, Back to Life!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-lag-and-stutter-in-fortnite-on-your-gaming-pc/"><u>How to Resolve Lag and Stutter in Fortnite on Your Gaming PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/masterclass-leveraging-retro-vhs-flares-and-shadows/"><u>Masterclass Leveraging Retro VHS Flares & Shadows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revise-microsofts-bd-functionality-in-windows-series/"><u>Revise Microsoft's BD Functionality in Windows Series</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-note-30-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Note 30 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-computers-full-potential-with-keyboard-layout-tweaks-in-win-11/"><u>Unlock Your Computer's Full Potential with Keyboard Layout Tweaks in Win 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-system-with-amd-gpu-software/"><u>Upgrade Windows System with AMD GPU Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-masterful-video-analytics-unlocking-potential-with-social-blade-and-youtube/"><u>[New] 2024 Approved Masterful Video Analytics Unlocking Potential with Social Blade & YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>[New] 2024 Approved Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels-for-2024/"><u>[New] The Savvy Seeker's Guide to Spotting Superb Photos on Pexels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-edit-suite-apps-and-devices-tools-listed/"><u>2024 Approved Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-win11-dark-mode-glitch/"><u>Clearing Up Win11 Dark Mode Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-setup-not-appearing-in-windows-11/"><u>Display Setup Not Appearing in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-halt-blackout/"><u>Driver Update Halt: Blackout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unwieldy-windows-11-monitors/"><u>Fixing Unwieldy Windows 11 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-boundaries-limitations-in-vr/"><u>In 2024, Beyond the Boundaries Limitations in VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-android-listening-helpers/"><u>Premium Android Listening Helpers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx210-update-boosts-windows-11-performance/"><u>RTX210 Update Boosts Windows 11 Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-disruption-a-step-by-step-guide-to-preventing-google-chrome-crashes/"><u>Stop the Disruption: A Step-by-Step Guide to Preventing Google Chrome Crashes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insiders-method-for-youtube-livestreaming-in-full-circle-for-2024/"><u>The Insider's Method for Youtube Livestreaming in Full Circle for 2024</u></a></li>
 </ul></div>
 

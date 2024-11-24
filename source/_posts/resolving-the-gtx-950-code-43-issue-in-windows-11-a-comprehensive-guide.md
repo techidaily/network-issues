@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide"
-date: 2024-11-13T17:12:00.730Z
-updated: 2024-11-15T00:42:10.118Z
+date: 2024-11-18T10:20:28.998Z
+updated: 2024-11-23T19:38:59.859Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
@@ -62,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -79,18 +91,15 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -98,27 +107,17 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -129,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -163,22 +155,22 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-visual-interface-rebooted-successfully/"><u>[Resolved] Visual Interface Rebooted Successfully</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-guide-to-prime-gopro-protectors-top-10-reviewed-for-2024/"><u>[Updated] Guide to Prime GoPro Protectors - Top 10 Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initial-steps-in-kinetic-illustration-techniques/"><u>[Updated] Initial Steps in Kinetic Illustration Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-v27e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo V27e to iPhone | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-go-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark Go (2023) to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/essential-steps-for-smooth-windows-7-to-10-transition/"><u>Essential Steps for Smooth Windows 7 to 10 Transition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-screen-lines-a-comprehensive-guide-for-portable-computers/"><u>Fixing Screen Lines: A Comprehensive Guide for Portable Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-7-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 7 without Apple Account</u></a></li>
-<li><a href="https://network-issues.techidaily.com/intelligent-techniques-for-refreshing-intels-graphics-driver-win-7/"><u>Intelligent Techniques for Refreshing Intel's Graphics Driver, Win 7</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-the-new-era-youtubes-shorts-fund-explained/"><u>Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pixel-to-passion-unlocking-new-forms-of-entertainment-with-vr/"><u>Pixel to Passion Unlocking New Forms of Entertainment with VR</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-display-disconnects-with-freesync/"><u>Resolving Display Disconnects with FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-failure-to-preserve-window-display-options/"><u>Resolving Failure to Preserve Window Display Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functioning-amd-freesync/"><u>Troubleshooting Non-Functioning AMD FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unable-to-pair-with-wireless-adapter-in-win10/"><u>Unable to Pair with Wireless Adapter in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-resident-evil-village-not-starting-dx12-problem/"><u>[FIXED] Resident Evil Village Not Starting - DX12 Problem</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-best-free-youtube-ending-creators-top-6-picks/"><u>[New] 2024 Approved Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-from-choreography-to-clicks-making-tiktok-dancing-videos-for-mac/"><u>[New] From Choreography to Clicks Making TikTok Dancing Videos for Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-all-about-triller-diverging-from-standard-tiktok-experience/"><u>[Updated] All About Triller Diverging From Standard TikTok Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-harnessing-testimonials-for-genuine-brand-connection/"><u>[Updated] In 2024, Harnessing Testimonials for Genuine Brand Connection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>[Updated] In 2024, OneClickPodcastStream Effortlessly Livestream Your Podcast Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ios-guide-to-stunning-time-lapse-cinematography-for-2024/"><u>[Updated] IOS Guide to Stunning Time-Lapse Cinematography for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-disconnection-issues-in-freesync-systems/"><u>Addressing Disconnection Issues in FreeSync Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-visual-magic-essential-techniques-for-ps-3d-luts/"><u>Crafting Visual Magic Essential Techniques for PS 3D Luts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gpu-armored-post-acceleration/"><u>Nvidia GPU Armored Post-Acceleration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-unmet-graphic-specifications-now-addressed/"><u>Overwatch: Unmet Graphic Specifications Now Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-and-simple-monitor-finesse/"><u>Quick and Simple Monitor Finesse</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-tv-when-connecting-laptop-with-hdmi/"><u>Unresponsive TV When Connecting Laptop with HDMI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974233298-upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974715730-windows-10-and-amd-detection-driver-issue-now-addressed-fixed/"><u>Windows 10 & AMD: Detection Driver Issue Now Addressed, Fixed!</u></a></li>
 </ul></div>
 

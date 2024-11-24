@@ -1,7 +1,7 @@
 ---
 title: "Resolving Undetected AMD Graphics Card Issue in Windows 11: Troubleshooting Steps"
-date: 2024-11-11T22:17:29.465Z
-updated: 2024-11-15T00:21:12.493Z
+date: 2024-11-23T11:46:37.316Z
+updated: 2024-11-23T20:52:01.212Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 1. [**Update the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Solution 1: Update the AMD graphics driver
 
  There are two ways to update your AMD graphics driver:**manually** and**automatically** .
@@ -36,18 +40,24 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -60,21 +70,11 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
 6. Restart your computer and check if the problem is resolved.
@@ -104,20 +104,24 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixing-re-establishing-offline-and-online-links-in-cod-cold-war/"><u>[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-snip-youtube-videos-effortlessly/"><u>[Updated] How to Snip YouTube Videos Effortlessly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breaking-compatibility-barrier-for-nvidia-7025/"><u>Breaking Compatibility Barrier for Nvidia 7025</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-visual-fluidity-your-step-by-cookie-of-intelers-driver-update/"><u>Enhancing Visual Fluidity: Your Step-By Cookie of Inteler's Driver Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-x-flip-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo X Flip Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-10t-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme 10T 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ms-bd-tweak-for-smarter-rendering-on-ws-21-ws-8/"><u>MS BD Tweak for Smarter Rendering on WS-21, WS-8</u></a></li>
-<li><a href="https://win11.techidaily.com/1719350786682-operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/rip-dvds-to-apple-mobile-players-with-winx-dvd-ripper-pro-optimized-for-macos-and-itunes/"><u>Rip DVDs to Apple Mobile Players with WinX DVD Ripper Pro - Optimized for macOS & iTunes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/secrets-to-successfully-archive-facebook-messenger-chat/"><u>Secrets to Successfully Archive Facebook Messenger Chat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seo-for-podcasts-ultimate-guide-to-boost-your-podcast-rankings-for-2024/"><u>SEO for Podcasts - Ultimate Guide To Boost Your Podcast Rankings for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-opengl-issue-on-nvidia-graphics-hardware/"><u>Solved OpenGL Issue on Nvidia Graphics Hardware</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/swift-and-simple-mac-images-identifying-the-best-5-screenshot-methods-for-2024/"><u>Swift & Simple Mac Images Identifying the Best 5 Screenshot Methods for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10s-new-era-smooth-video-and-audio-playback/"><u>Win10's New Era: Smooth Video and Audio Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-strategies-for-enhancing-iphone-hdr-footage-in-premiere-pro/"><u>[New] 5 Strategies for Enhancing iPhone HDR Footage in Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>[Updated] Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayerror-in-windows-ui-graphic-system-ready-for-resolution/"><u>DisplayError in WIndows UI Graphic System (Ready for Resolution)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974691697-easily-elevate-intels-graphics-3000-on-ws11/"><u>Easily Elevate Intel's Graphics 3000 on WS11.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enhance-connection-top-tips-to-craft-compelling-facebook-profiles-for-2024/"><u>Enhance Connection Top Tips to Craft Compelling Facebook Profiles for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-darkened-displays-in-lenovo-devices/"><u>Fix Darkened Displays in Lenovo Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-flipped-display-problem/"><u>Fixing the Flipped Display Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-fixed-on-win-10-systems/"><u>High-DPI Settings Fixed on Win 10 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-k11-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo K11 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>In 2024, Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-display-aspect-ratios/"><u>Rectify Display Aspect Ratios</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-correcting-bios-checksum-mismatches/"><u>Step-by-Step Solution: Correcting BIOS Checksum Mismatches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-crt-refresh-rate-glitches/"><u>Tackle CRT Refresh Rate Glitches</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-video-game-systems-in-23/"><u>Top Rated Video Game Systems in 2^3</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-post-update-video-hiccups-no-more-glitches/"><u>Win11: Post-Update Video Hiccups - No More Glitches</u></a></li>
 </ul></div>
 

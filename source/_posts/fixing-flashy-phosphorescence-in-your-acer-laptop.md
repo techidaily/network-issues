@@ -1,7 +1,7 @@
 ---
 title: Fixing Flashy Phosphorescence in Your Acer Laptop
-date: 2024-07-12T00:20:00.459Z
-updated: 2024-07-13T00:20:00.459Z
+date: 2024-11-18T22:30:15.890Z
+updated: 2024-11-24T08:29:42.363Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 1. **[Change the screen refresh rate](#F1)**
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**
 
@@ -62,13 +66,25 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
@@ -103,6 +119,10 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -124,8 +144,6 @@ Here is how to change the screen refresh rate:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,6 +151,24 @@ Here is how to change the screen refresh rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-superior-ai-photo-cutting-master/"><u>[New] 2024 Approved Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-aesthetic-additions-best-snapchat-filters-and-lenses-listed/"><u>[Updated] Aesthetic Additions Best Snapchat Filters and Lenses Listed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lyric-video-makers-you-should-try-for-2024/"><u>Best Lyric Video Makers You Should Try for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits-and-rising-economic-growth-over-the-next-six-months-to-drive-further-gain149/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits and Rising Economic Growth over the Next Six Months to Drive Further Gains</u></a></li>
+<li><a href="https://network-issues.techidaily.com/connectivity-troubles-wi-fi-fails/"><u>Connectivity Troubles: Wi-Fi Fails</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-backside-image-problem-on-windows-7/"><u>Correcting Backside Image Problem on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deactivating-incessant-led-glare/"><u>Deactivating Incessant LED Glare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diy-solutions-to-youtube-green-screen-anomalies/"><u>DIY Solutions to YouTube Green Screen Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-guide-to-upgrade-your-computers-wireless-connection/"><u>Essential Guide to Upgrade Your Computer's Wireless Connection</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-ordinary-snaps-to-captivating-creations-editing-on-snapchat/"><u>In 2024, From Ordinary Snaps to Captivating Creations Editing on Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/key-management-for-customized-windows-tasks/"><u>Key Management for Customized Windows Tasks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-challenge-when-installing-windows-11/"><u>Overcoming C1900101 Challenge When Installing Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-win11-fix-for-atheros-network-errors/"><u>Qualcomm's Win11 Fix for Atheros Network Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-alt-key-code-issues-in-windows-systems/"><u>Solving ALT Key Code Issues in Windows Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/suppressing-visual-vexations-on-surface-pro-7/"><u>Suppressing Visual Vexations on Surface Pro 7</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-1011mp4-5/"><u>Windows 10/11におけるMP4などの動画を効率良く回転して保存する方法 - トップ5</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reconnecting Disconnected Internal Cameras on Asus
-date: 2024-07-12T00:16:38.506Z
-updated: 2024-07-13T00:16:38.506Z
+date: 2024-11-23T10:14:06.344Z
+updated: 2024-11-23T17:01:20.944Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The Asus camera is not working? Whether you’re using a built-in webcam or the USB ASUS webcam, in this post, we’ve put together all possible fixes to this webcam issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Press the hotkey to enable the camera](#h-fix-1-press-the-hotkey-to-enable-the-camera)**
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Allow your device and apps to access the camera
 
  If you failed to enable the camera, it’s very likely that your device cannot access your camera. You should check your privacy settings:
@@ -49,9 +57,17 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update the webcam driver
 
@@ -94,6 +110,10 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **OK** to confirm.
 
  Restart your computer and the camera driver should be reinstalled automatically. If the camera is still not working, try to re-enable it by pressing the **Fn** and **F10** keys at the same time.
@@ -112,8 +132,6 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +139,24 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-explore-5-premier-mac-cam-recording-software-beyond-bandicam-for-2024/"><u>[New] Explore 5 Premier Mac Cam Recording Software Beyond Bandicam for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-what-makes-youtube-and-dailymention-stand-out/"><u>[New] In 2024, What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-professional-capture-tools-for-pcmac-devices/"><u>[New] Professional Capture Tools for PC/Mac Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-virtual-reality-use-in-healthcare/"><u>[Updated] Virtual Reality Use in Healthcare</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-a23-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy A23 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-vision-post-upgrade/"><u>Darkened Vision Post-Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-visuals-install-intel-graphics-hd-3000s-latest-w10-version/"><u>Elevate Your Visuals: Install Intel Graphics HD 3000'S Latest W10 Version.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-settings-accessibility-in-nvidia/"><u>Enhancing Visual Settings Accessibility in Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-glitch-cleared-driver-restarted-successfully/"><u>Graphic Glitch Cleared: Driver Restarted Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/heros-return-mh-world-bug-squished/"><u>Hero's Return: MH World Bug Squished</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s18-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S18 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-corsair-k55-printer-drivers-free-download-and-updates/"><u>Latest Corsair K55 Printer Drivers: Free Download & Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-radeon-missing-in-device-manager-solution-found/"><u>NVIDIA Radeon Missing in Device Manager, Solution Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-incompatible-graphics-device-in-windows/"><u>Rectified Incompatible Graphics Device in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifique-sua-experiencia-de-conversao-de-audio-visual-ferramenta-moveis-e-eficiente-para-videos-avi-oficinas-de-movie/"><u>Simplifique Sua Experiência De Conversão De Áudio-Visual: Ferramenta Móveis E Eficiente Para Vídeos AVI - Oficinas De Movie</u></a></li>
+</ul></div>
 

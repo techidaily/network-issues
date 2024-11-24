@@ -1,7 +1,7 @@
 ---
 title: Fix Flaws in Windows Mgmt Sys – Reveal Hidden NVIDIA
-date: 2024-11-10T01:20:45.119Z
-updated: 2024-11-14T19:38:32.634Z
+date: 2024-11-21T16:44:57.348Z
+updated: 2024-11-24T03:01:50.790Z
 tags:
   - win11
   - win10
@@ -36,30 +36,18 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
@@ -71,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
  To uninstall the device, right-click on the device name and select**Uninstall** from the context menu. The following screenshot is for your reference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
@@ -98,22 +79,27 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
  (Note: This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day trial period with access to premium features like high-speed downloads and one-click installations. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -134,18 +120,17 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-cod-cold-war-offline-issues-persist/"><u>[FIXED] CoD Cold War - Offline Issues Persist</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unleash-laughter-and-tears-the-best-instagram-meme-picks-for-2024/"><u>[New] Unleash Laughter and Tears The Best Instagram Meme Picks for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlock-creative-potential-strategic-use-of-strikethrough/"><u>[New] Unlock Creative Potential Strategic Use of Strikethrough</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/44cm44kq44oz44op44kk44oz44gn44gu5a6j5ywo44gq44ov44kh44kk44or5lplusd5a2yic0g54sh6zmq44oh44kj44k544kv44g444gu6ieq5yuv44k744o844ot44oz44kw5oml6acg44cn/"><u>「オンラインでの安全なファイル保存 - 無限ディスクへの自動セービング手順」</u></a></li>
-<li><a href="https://win-hot.techidaily.com/best-methods-for-downloading-your-favorite-spotify-playlists-on-windows-and-mac/"><u>Best Methods for Downloading Your Favorite Spotify Playlists on Windows and Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dive-into-quality-tips-for-shooting-crystal-clear-gopro-video-below-the-surface/"><u>Dive Into Quality Tips for Shooting Crystal Clear GoPro Video Below the Surface</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-started-with-mp4-video-editing-a-quick-and-easy-tutorial-for-mac-and-windows/"><u>New In 2024, Get Started with MP4 Video Editing A Quick and Easy Tutorial for Mac and Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-image-precision-win11-fixed/"><u>Optimizing Image Precision: Win11 Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-oscillating-displays-pro-7/"><u>Rectifying Oscillating Displays (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-visuals-in-windows-after-cu/"><u>Restoring Visuals in Windows After CU</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-simple-way-to-find-and-install-new-drivers-for-konica-minolta-devices/"><u>The Simple Way to Find And Install New Drivers for Konica Minolta Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgrade-your-systems-visual-experience-using-the-latest-intel-gpu-driver-in-w10/"><u>Upgrade Your System's Visual Experience Using the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-free-toolkit-for-unrestricted-story-archiving-for-2024/"><u>[Updated] FREE Toolkit for Unrestricted Story Archiving for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-from-dungeon-crawlers-to-complex-gameplay/"><u>2024 Approved From Dungeon Crawlers to Complex Gameplay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-in-depth-analysis-of-fb-chat-recording-techniques/"><u>2024 Approved In-Depth Analysis of FB Chat Recording Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-fix-resolved-bsod-on-windows-os/"><u>dxgkrnl.sys Fix: Resolved BSOD on Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-glitch-fix-error-43/"><u>GPU Glitch Fix - Error 43</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-update-epson-et-3760-drivers-on-microsoft-windows-systems/"><u>How to Get & Update Epson ET-3760 Drivers on Microsoft Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nubia-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nubia Pattern Lock Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-error-corrected-display-resumes-normal-operations/"><u>Nvidia Error Corrected - Display Resumes Normal Operations</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-10t-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Realme 10T 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-tpm-in-windows-11-a-crucial-security-feature-explained/"><u>Understanding TPM in Windows 11 - A Crucial Security Feature Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-x7-ultra-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-radeon-r9-driver-woes-on-win11/"><u>Unraveling Radeon R9 Driver Woes on Win11</u></a></li>
 </ul></div>
 

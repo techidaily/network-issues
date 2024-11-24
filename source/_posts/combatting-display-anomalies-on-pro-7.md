@@ -1,7 +1,7 @@
 ---
 title: Combatting Display Anomalies on Pro 7
-date: 2024-07-12T00:19:10.563Z
-updated: 2024-07-13T00:19:10.563Z
+date: 2024-11-17T06:41:26.137Z
+updated: 2024-11-23T22:26:14.918Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 4. **[Change the refresh rate](#h4)**
 5. **[Run the System File Checker](#h5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable adaptive brightness
 
  This is the first thing you should try because it’s simple and effective. Many users find turning off**Change brightness automatically when lighting changes** helps them solve the flickering issue.
@@ -52,6 +56,10 @@ Here’s how to do it:
 
  You’ll find the Surface Pro 7 screen flickering stops right away. But if not, don’t worry. You should be able to fix it by following these fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your display drivers
 
  Your Surface Pro 7 screen may flicker or blink frequently if you’re using the wrong or outdated device drivers, especially the display drivers. Therefore, you should update these drivers to see if it fixes your problem.
@@ -61,6 +69,10 @@ Here’s how to do it:
 **Manually –** To update your graphics driver manually, you can go to the official **[driver](https://www.microsoft.com/en-us/download/details.aspx?id=100419)** [**download page**](https://www.microsoft.com/en-us/download/details.aspx?id=100419) , and select **Download** this file. You may need to choose the appropriate .msi file. Then click**Next** \>**Save As** and choose your desktop as the save location. Run this MSI file and follow the instructions to install the graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
@@ -79,6 +91,10 @@ Here’s how you can update your drivers with Driver Easy:
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -119,6 +135,10 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Display adapter properties** .
 
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
@@ -126,6 +146,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -184,8 +208,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +215,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-end-your-videos-professionally-with-these-free-tools-top-6/"><u>[New] 2024 Approved End Your Videos Professionally with These Free Tools (Top 6)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-video-marketing-made-simple-free-toolkit-unlocks-potential/"><u>[New] In 2024, FB Video Marketing Made Simple Free Toolkit Unlocks Potential</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-elusive-display-options/"><u>[Resolve] Elusive Display Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-searchingforsmartercameraspost-mycam-for-2024/"><u>[Updated] SearchingForSmarterCamerasPost-MyCam for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a15-4g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A15 4G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/gentle-guidance-to-good-slumber-top-asmr-pros-for-2024/"><u>Gentle Guidance to Good Slumber Top ASMR Pros for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-interactive-display-malfunction-now-operational/"><u>Lenovo Interactive Display Malfunction - Now Operational</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/png-vers-jpeg-metgratis-omzetten-professioneel-online-door-movavi/"><u>PNG Vers JPEG Metgratis Omzetten - Professioneel Online Door Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-creating-a-personalized-speech-to-text-app-for-windows/"><u>Quick Guide to Creating a Personalized Speech-to-Text App for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-rage-of-ares-rigidities/"><u>Resolved: Rage of Ares Rigidities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-size-adjustment-glitches-for-wide-view-windows/"><u>Solved Size Adjustment Glitches for Wide-View Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985169892-step-by-step-remedy-for-steams-secured-content-error-enjoy-unrestricted-access-now/"><u>Step-by-Step Remedy for Steam's Secured Content Error: Enjoy Unrestricted Access Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-troubleshoot-ignored-nvidiaamd-card/"><u>Steps to Troubleshoot Ignored NVIDIA/AMD Card</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-neros-missing-advrcntr2dll-file-issue/"><u>Troubleshooting Steps for Nero's Missing advrcntr2.dll File Issue</u></a></li>
+</ul></div>
 

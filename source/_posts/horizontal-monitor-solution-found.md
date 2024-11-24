@@ -1,7 +1,7 @@
 ---
 title: Horizontal Monitor Solution Found
-date: 2024-11-11T23:01:38.556Z
-updated: 2024-11-15T01:00:04.044Z
+date: 2024-11-22T10:29:58.504Z
+updated: 2024-11-23T16:42:32.462Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 1. [**Restore your laptop screen with a keyboard shortcut**](#a)
@@ -28,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -42,6 +43,10 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -50,37 +55,14 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -94,6 +76,10 @@ This should restore your laptop screen.
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
@@ -119,22 +105,16 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-installed-new-amd-graphic-driver-on-pcs/"><u>[FIXED] Installed New AMD Graphic Driver on PCs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-decoding-the-modern-content-creators-dilemma/"><u>[New] In 2024, Decoding the Modern Content Creator's Dilemma</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-aperture-aces-top-picks-the-most-impressive-6-4k-dslrs/"><u>[Updated] 2024 Approved Aperture Aces' Top Picks The Most Impressive 6 4K DSLRs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-leading-edge-top-16-best-freeware-media-players/"><u>[Updated] 2024 Approved Leading Edge Top 16 Best Freeware Media Players</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ban-the-white-screen-in-sims/"><u>Ban the White Screen in Sims</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ceasing-screen-flash-in-displays/"><u>Ceasing Screen Flash in Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comparative-analysis-amd-graphics-cards-versus-competitors/"><u>Comparative Analysis: AMD Graphics Cards Versus Competitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exposed-issue-why-my-graphics-cards-name-is-hidden/"><u>Exposed Issue: Why My Graphics Card's Name Is Hidden</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-issue-error-43-fixed/"><u>Graphics Issue, Error 43 Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-non-verbal-communication-in-italys-culture/"><u>Navigating Non-Verbal Communication in Italy's Culture</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smaller-screens-for-large-win10-views/"><u>Smaller Screens for Large Win10 Views</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016668375-solve-your-hp-laptops-speakers-problem-on-windows-10-quickly/"><u>Solve Your HP Laptop's Speakers Problem on Windows 10 Quickly!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-potential-ms-store-apps-that-elevate-experience/"><u>Unlock Potential: MS Store Apps That Elevate Experience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-the-differences-between-ig-reels-vs-stories/"><u>Unveiling the Differences Between IG Reels Vs Stories</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726226253010-mxfwav-movavi/"><u>コストなしで簡単オンラインMXFからWAVへの変換 - Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wifi-compatibility-windows-10-adapter-fixes-success/"><u>Atheros WiFi Compatibility: Windows 10 Adapter Fixes Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-hidden-vram-ignorance/"><u>Eliminate Hidden VRAM Ignorance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-solving-sims-4-error-when-attempting-to-start/"><u>Expert Advice: Solving Sims 4 Error When Attempting to Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-camera-features-on-your-lenovo-notebook/"><u>Expert Tips: Restoring Camera Features on Your Lenovo Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/"><u>Gladiator Glitch: Gadget Grind</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-12-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi 12 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-download-and-install-updates-for-nvidias-geforce-940mx-graphics-card-driver/"><u>How to Securely Download & Install Updates for Nvidia's GeForce 940MX Graphics Card Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-dual-device-names-on-your-windows-network/"><u>Preventing Dual Device Names on Your Windows Network</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-sims-4-blank-screens-quickly/"><u>Resolve Sims 4 Blank Screens Quickly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-thumbnail-design-choosing-best-fonts-for-2024/"><u>The Art of Thumbnail Design Choosing Best Fonts for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-common-youtube-background-distortions/"><u>Troubleshooting Common YouTube Background Distortions</u></a></li>
 </ul></div>
 

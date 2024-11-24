@@ -1,7 +1,7 @@
 ---
 title: Tackle Sims 4 Absence of Display
-date: 2024-11-07T19:28:58.555Z
-updated: 2024-11-15T01:55:52.332Z
+date: 2024-11-22T08:35:04.146Z
+updated: 2024-11-24T09:29:43.349Z
 tags:
   - win11
   - win10
@@ -44,22 +44,12 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -87,13 +77,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -106,18 +89,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -128,6 +108,10 @@ Here are the steps:
  1) In Origin, click**Origin** \>**Application Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
@@ -151,6 +135,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -162,6 +150,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -182,27 +174,17 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -229,22 +211,21 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-overcoming-connectivity-hurdles-in-cod-cold-war/"><u>[RESOLVED] Overcoming Connectivity Hurdles in CoD Cold War</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-splitting-vision-assessing-splitcams-camera-excellence-for-2024/"><u>[Updated] Splitting Vision Assessing SplitCam's Camera Excellence for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audio-accentuation-tunes-for-visual-projects/"><u>Audio Accentuation Tunes for Visual Projects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-flashy-windows-7-visuals/"><u>Correcting Flashy Windows 7 Visuals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-amds-loading-issue-windowas-10-system-operates-normally/"><u>Fixed AMD's Loading Issue, Windowas 10 System Operates Normally</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-resolution-apex-loot-errors/"><u>Immediate Resolution: Apex Loot Errors</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-c300-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia C300 Data? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-inner-animator-with-these-14-text-wonders/"><u>In 2024, Unleash Your Inner Animator with These 14 Text Wonders</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-amd-freesync-incompatibility-hurdles/"><u>Overcoming AMD FreeSync Incompatibility Hurdles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-lenovo-screen-twinkles/"><u>Preventing Lenovo Screen Twinkles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reclaiming-vision-on-lenovos-black-monitors/"><u>Reclaiming Vision on Lenovo's Black Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-lift-gpu-fan-stagnation/"><u>Steps to Lift GPU Fan Stagnation</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-perfect-font-theme-match-for-your-notepad/"><u>The Perfect Font, Theme Match for Your Notepad</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-rotibox-heated-hat-and-bluetooth-earpiece-combo-for-ultimate-convenience/"><u>Top Rated Rotibox Heated Hat and Bluetooth Earpiece Combo for Ultimate Convenience!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-narzo-60x-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme Narzo 60x 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uide-incorporating-youtube-videos-in-google-slides/"><u>[New] Guide Incorporating YouTube Videos in Google Slides</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[Updated] 2024 Approved How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discover-the-top-10-igtv-editing-app-wonders/"><u>[Updated] Discover the Top 10 IGTV Editing App Wonders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>[Updated] In 2024, Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-80s-filters-and-effects-for-professional-videos/"><u>[Updated] In 2024, Top 80S Filters & Effects for Professional Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fatal-blackout-after-driver-switch/"><u>Fatal Blackout After Driver Switch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-11-on-monitors/"><u>Fixing Non-Fullscreen Windows 11 on Monitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-navigating-and-controlling-roku-without-a-traditional-remote/"><u>Guide to Navigating and Controlling Roku without a Traditional Remote</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-display-quality-update-to-the-newest-intel-hd-graphics-driver-for-w10/"><u>Maximize Display Quality: Update to the Newest Intel HD Graphics Driver for W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-reversed-computer-screen-angle/"><u>Rectifying Reversed Computer Screen Angle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/renderingerror-in-wingfx-interface-fix-applied/"><u>RenderingError in WinGFX Interface (Fix Applied)</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-address-windows-network-not-found/"><u>Solutions to Address Windows Network Not Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streaming-without-stumbles-in-upgraded-windows-10/"><u>Streaming without Stumbles in Upgraded Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essence-and-impact-of-4k-super-hd-imaging/"><u>The Essence and Impact of 4K Super HD Imaging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/user-preference-showdown-evaluating-features-and-performance-of-windows-11-against-macos-monterey/"><u>User Preference Showdown: Evaluating Features and Performance of Windows 11 Against macOS Monterey.</u></a></li>
 </ul></div>
 

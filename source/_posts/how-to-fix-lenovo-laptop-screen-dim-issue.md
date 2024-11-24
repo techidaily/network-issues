@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-11-11T21:55:19.917Z
-updated: 2024-11-14T19:08:28.274Z
+date: 2024-11-18T12:11:41.653Z
+updated: 2024-11-23T17:35:08.763Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
  **3)[Modify Registry](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Update graphics driver
 
  In many cases, the culprit of the dim laptop screen issue is the faulty graphics drivers. You need to update the graphics driver to the latest and correct version. But if you don’t have time, patience or computer skills to deal with drivers (since it is very tricky and time-consuming), we recommend you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -42,15 +46,16 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -64,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Modify Registry
@@ -84,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
@@ -100,16 +95,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -133,15 +119,24 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-finding-perfect-dronescopic-stability-a-gimbal-guide/"><u>[New] Finding Perfect Dronescopic Stability A Gimbal Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-top-strategies-for-scaling-your-instagram-tv-content-for-2024/"><u>[Updated] Top Strategies for Scaling Your Instagram TV Content for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>[Updated] Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-affiliates-a-roadmap-to-financial-growth-for-2024/"><u>[Updated] Video Affiliates A Roadmap to Financial Growth for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-erratic-screen-behavior-pro-7/"><u>Banishing Erratic Screen Behavior (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrypting-the-x-factor-anomaly-uncovered-in-lol-games/"><u>Decrypting the X-Factor Anomaly Uncovered in LoL Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-samsung-galaxy-s24-ultra-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Samsung Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-is-it-wise-to-keep-off-facebook-activity-displayed-insights/"><u>In 2024, Is It Wise to Keep Off-Facebook Activity Displayed? Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-lag-in-video-playback-on-newest-windows-os/"><u>No More Lag in Video Playback on Newest Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-anthem-lags-quick-solutions/"><u>Tackling Anthem Lags: Quick Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-bsod-on-windows-os/"><u>[Resolved] dxgkrnl.sys BSOD on Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-five-exceptional-sierra-dvd-editors-unveiled-for-2024/"><u>[Updated] Five Exceptional Sierra DVD Editors Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-frame-rate-mastery-through-controller-tweaks/"><u>[Updated] Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>[Updated] Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-zooming-up-with-fb-live-transforms-broadcasts/"><u>2024 Approved How Zooming Up with FB Live Transforms Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-choosing-the-right-soundtracks-for-boxings-for-2024/"><u>Auditory Aesthetics Choosing the Right Soundtracks for Boxings for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginners-pathway-to-urdu-mastery-with-keywords/"><u>Beginner's Pathway to Urdu Mastery with Keywords</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-method-to-align-display-angles/"><u>Direct Method to Align Display Angles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/effortless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>Effortless Earnings Channel Size No Longer a Challenge for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-c1900101-a-guide-to-smooth-windows-11-setup/"><u>Fixing C1900101: A Guide to Smooth Windows 11 Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-incompatible-amd-freesync-sync-signal/"><u>Fixing Incompatible AMD FreeSync Sync Signal</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-realme-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Realme</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 12 mini Passcode not Working?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-exploration-of-theta-s-capabilities/"><u>In 2024, In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-display-issue-fullscreen-windows-11-shown-correctly/"><u>Rectified Display Issue - Fullscreen Windows 11 Shown Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-intel-gpu-driver-upgrades-for-windows-7-users/"><u>Streamlining Intel GPU Driver Upgrades for Windows 7 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-unruly-monitor-refresh-rate/"><u>Taming the Unruly Monitor Refresh Rate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-down-time-fix-apex-legends-crash/"><u>Zero Down Time: Fix Apex Legends Crash</u></a></li>
 </ul></div>
 

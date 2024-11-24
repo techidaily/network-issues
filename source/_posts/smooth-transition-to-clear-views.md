@@ -1,7 +1,7 @@
 ---
 title: Smooth Transition to Clear Views
-date: 2024-09-16T04:53:13.066Z
-updated: 2024-09-20T03:39:50.643Z
+date: 2024-11-18T16:01:43.478Z
+updated: 2024-11-24T09:03:10.864Z
 tags:
   - win11
   - win10
@@ -51,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/f711c5172a110adae3abf928dbe0da94bf3039e13
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Enable Let Windows try to fix apps so they’re not blurry
@@ -67,10 +64,19 @@ thumbnail: https://thmb.techidaily.com/f711c5172a110adae3abf928dbe0da94bf3039e13
 2. Click**System** in the**Settings** pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, click**Advanced scaling settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -95,16 +101,13 @@ thumbnail: https://thmb.techidaily.com/f711c5172a110adae3abf928dbe0da94bf3039e13
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if your screen becomes normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change DPI scaling settings for your monitor
 
@@ -120,13 +123,6 @@ Check if your screen becomes normal.
 3. In the**Display** section, ensure to select**100%** for**Scale and layout** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then Windows will apply the changes. Check and see if your screen gets clear.
 
 **If you’re using Windows 8 and Windows 7:**
@@ -135,12 +131,21 @@ Check if your screen becomes normal.
 2. Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -151,27 +156,11 @@ Check if your screen is still blurry.
 2. Right click on the application setup file, and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
@@ -202,5 +191,26 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-enjoy-youtube-music-anytime-with-these-23-essential-no-cost-audio-extractors/"><u>[New] 2024 Approved Enjoy YouTube Music Anytime with These 23 Essential, No-Cost Audio Extractors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-securing-your-discord-sessions-for-future-viewing/"><u>[New] 2024 Approved Securing Your Discord Sessions for Future Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-zero-price-windows-desktop-snapping-tutorials-for-2024/"><u>[Updated] Zero Price Windows Desktop Snapping Tutorials for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-module-revived-after-glitch/"><u>Graphics Module Revived After Glitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-send-faxes-without-spending-the-ultimate-guide/"><u>How To Send Faxes Without Spending: The Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-launch-the-origin-app-on-your-windows-n10-pc/"><u>How to Successfully Launch the Origin App on Your Windows N10 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-ace-2v-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus Ace 2V Android SIM Unlock APK</u></a></li>
+<li><a href="https://network-issues.techidaily.com/render-failure-no-gpu-found/"><u>Render Failure: No GPU Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamped-qualcomm-wi-fi-drivers-work-on-windows-11-with-atheros/"><u>Revamped Qualcomm Wi-Fi Drivers Work on Windows 11 with Atheros</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-disappearance-of-gpu-display-choices/"><u>Reversing Disappearance of GPU Display Choices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-non-spinning-gpu-fan-issues/"><u>Tackling Non-Spinning GPU Fan Issues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-instas-trendy-filters/"><u>The Ultimate Guide to Insta's Trendy Filters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transforming-slow-motion-into-fast-action-for-2024/"><u>Transforming Slow Motion Into Fast Action for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-share-images-professionally-on-youtube/"><u>Unveiling the Secrets Share Images Professionally on YouTube</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-avi-video-combiner-top-10-options-to-join-avi-files/"><u>Updated Free AVI Video Combiner Top 10 Options to Join AVI Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-windows-graphics-setup-for-new-intel-hd-driver/"><u>Updating Windows Graphics Setup for New Intel HD Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrading-display-quality-in-windows-10-easier/"><u>Upgrading Display Quality in Windows 10 Easier</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-display-missing-configuration/"><u>Windows 11 Display Missing Configuration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-mastery-quick-and-easy-fixes-for-cameras-in-trouble/"><u>Zoom Mastery: Quick and Easy Fixes for Cameras in Trouble</u></a></li>
+</ul></div>
 

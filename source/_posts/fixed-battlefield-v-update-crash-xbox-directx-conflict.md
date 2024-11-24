@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Battlefield V Update Crash - Xbox DirectX Conflict"
-date: 2024-11-13T17:21:44.746Z
-updated: 2024-11-14T23:24:52.491Z
+date: 2024-11-19T11:36:39.157Z
+updated: 2024-11-24T06:16:05.329Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -27,16 +31,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -44,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -88,10 +76,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -129,25 +114,19 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -197,24 +176,21 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-clear-black-boards-in-your-youtube-videos/"><u>[New] 2024 Approved How to Clear Black Boards in Your YouTube Videos?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-capturing-time-live-photo-journey-to-video-vista/"><u>[New] In 2024, Capturing Time Live Photo Journey to Video Vista</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-scrutinizing-the-significance-of-high-dynamic-range-hdr-for-2024/"><u>[New] Scrutinizing the Significance of High Dynamic Range HDR for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-turbocharge-video-on-snapchat-new-users-edition/"><u>[Updated] 2024 Approved Turbocharge Video on Snapchat New Users Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pathway-for-pixels-transferring-data-to-computers/"><u>[Updated] Pathway for Pixels Transferring Data to Computers</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/apercu-des-options-de-repli-sur-2-plateformes-nas-synology-guide-comparatif/"><u>Aperçu Des Options De Repli Sur 2 Plateformes NAS Synology – Guide Comparatif</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-mini-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 mini Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-alerted-ideport0-control-issue/"><u>Driver Alerted: Ideport0 Control Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improving-bd-render-on-ws-21-ws-10-and-beyond/"><u>Improving BD Render on WS-21, WS-10, and Beyond</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-kaleidoscope-the-multilingual-eu-story-echoed/"><u>Language Kaleidoscope: The Multilingual EU Story Echoed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-audio-editing-with-garageband/"><u>Navigating the World of Audio Editing with GarageBand</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rtx-woes-solving-crash-issues/"><u>Nvidia RTX Woes - Solving Crash Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-refresh-of-the-intellg3000-on-win11-systems/"><u>Rapid Refresh of the IntellG3000 on Win11 Systems.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screeninterface-fails-in-win-os-resolved/"><u>ScreenInterface Fails in Win OS (Resolved)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secured-stable-operations-amds-driver-now-works-on-wndows-10-os/"><u>Secured Stable Operations: AMD's Driver Now Works on Wndows 10 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-acer-display-flashing-issue/"><u>Solving Acer Display Flashing Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-card-recovered-after-driver-stall/"><u>Video Card Recovered After Driver Stall</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-novice-to-pro-mastering-mac-preview-features/"><u>[New] From Novice to Pro Mastering Mac Preview Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a60-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beating-the-blues-of-youtubes-green-screen/"><u>Beating the Blues of YouTube's Green Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-win11-blank-display-post-creators/"><u>Fixing Win11 Blank Display Post-Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-incorporating-chatgpt-and-whisper-apis-can-transform-your-business-strategies/"><u>How Incorporating ChatGPT & Whisper APIs Can Transform Your Business Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-augmented-realms-blending-tech-and-entertainment/"><u>In 2024, Augmented Realms Blending Tech & Entertainment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-silence-to-soundscape-embedding-mp3s-in-presentations/"><u>In 2024, From Silence to Soundscape Embedding MP3s in Presentations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-edge-40-neo-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Edge 40 Neo FRP Without Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>In 2024, Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974877664-refresh-intels-graphics-prowess-in-your-system-using-windows-10-update/"><u>Refresh Intel's Graphics Prowess in Your System Using Windows 10 Update!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-screen-malfunctions-in-laptops/"><u>Remedying Screen Malfunctions in Laptops</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solving-the-sound-lag-issue-a-guide-on-rectifying-audio-delays-in-your-samsung-television/"><u>Solving the Sound Lag Issue: A Guide on Rectifying Audio Delays in Your Samsung Television</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-wow-error-51900319-quickly/"><u>Solving WoW Error #51900319 Quickly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-of-r9-drivers-on-win10/"><u>Successful Troubleshooting of R9 Drivers on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-after-fall-creators-blue-screen/"><u>Win11 Resume After Fall Creators Blue Screen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Purge Latency in Win11/10 with Easy Fixes
-date: 2024-11-08T18:58:26.591Z
-updated: 2024-11-14T23:42:38.446Z
+date: 2024-11-20T23:31:29.134Z
+updated: 2024-11-24T02:38:20.677Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ## Purge Latency in Win11/10 with Easy Fixes
 
  If you ever run into the**Windows 11 or 10 slow Internet** problem, don’t worry. It’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 fixes for Windows 11/10 Slow Internet
 
@@ -43,40 +47,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/windowsupdateadvancedoptions.jpg)
 3. Click**Delivery Optimization** (or**Choose how updates are delivered** depending on the build of your Windows 10).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/windowsupdatedeliveryoption.jpg)
 4. Turn the**Allow downloads from other PCs** (Or**Update from more than one place**) toggle**Off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/windowsupdateallowapps.jpg)
 5. Check if the**Windows 11/10 slow Internet** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Adjust the Internet Bandwidth Settings
 
@@ -91,30 +68,32 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/taskmanagernewtask.jpg)
 3. Copy & paste **gpedit.msc** into the box, tick the box before **Create this task with administrative privileges** , and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b67c73fda271.png)
 4. Under **Computer Configuration** , double-click on**Administrative Templates** \>**Network** \>**QoS Packet Scheduler** . Then double-click on **Limit reservable bandwidth** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7121e2c956c.jpg)
 5. Click the**Enabled** option and set**Bandwidth limit (%)** value to**0** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b712108609d3.jpg)
 6. Is your Internet getting any faster? If it’s still grinding to a crawl, you should try**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 3: Update your WiFi drivers
 
@@ -167,10 +146,7 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
@@ -194,16 +170,17 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b70ff100133c.jpg)
 3. If yes, you’ll have to copy & paste**netsh int tcp set global autotuninglevel=disabled** into the window and press**Enter** to disable it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7134aa2923c.jpg)
 4. Check to see if your**Windows 10 slow Internet** problem has been solved. If the issue still lingers on, don’t worry, here’s one more fix to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Disable Large Send Offload
@@ -218,10 +195,7 @@ Here’s how to use Fortect to repair system files on your PC:
 3. Click the**Advanced** tab, then click **Large Send Offload V2 (IPv4)** and set the**value** to**Disabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b71075272c84.jpg)
@@ -229,6 +203,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7107f56920e.jpg)
 5. Hopefully, your **Windows 10/11 Slow Internet** issue has been resolved successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Some other modifications
 
@@ -265,24 +243,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-to-prodigy-status-for-ajey-carryminati/"><u>[New] 2024 Approved Charting the Course to Prodigy Status for Ajey (CarryMinati)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-full-featured-mac-video-and-audio-recorder/"><u>[New] Full-Featured Mac Video & Audio Recorder</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-system-installed-gpu-driver-for-win1110/"><u>[REPAIRED SYSTEM] Installed GPU Driver for Win11/10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-hack-top-underrated-tips-and-tricks/"><u>[Updated] 2024 Approved Insta-Hack Top Underrated Tips and Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-navigating-the-economic-landscape-of-short-video-royalties/"><u>[Updated] In 2024, Navigating the Economic Landscape of Short Video Royalties</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-revolutionary-q500-the-ultimate-4k-bird/"><u>2024 Approved Revolutionary Q500 The Ultimate 4K Bird</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cleared-up-windows-stopped-due-to-nvidia-complaint/"><u>Cleared Up: Windows Stopped Due to Nvidia Complaint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversao-webm-em-gif-livre-on-line-com-o-movavi-guia-simples-e-eficiente-para-todos-os-usuarios/"><u>Conversão WebM Em GIF Livre On-Line Com O Movavi: Guia Simples E Eficiente Para Todos Os Usuários</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easily-elevate-intels-graphics-3000-on-ws11/"><u>Easily Elevate Intel's Graphics 3000 on WS11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-smooth-operation-geforce-and-win11-together/"><u>Ensuring Smooth Operation: GeForce & Win11 Together</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>In 2024, Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-price-matrix-top-cloud-storage-firms/"><u>In 2024, The Essential Price Matrix Top Cloud Storage Firms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-amd-graphics-hurdle-fast/"><u>Overcome AMD Graphics Hurdle Fast</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/rapid-image-moving-techniques-are-they-effective-in-real-time-transfers-discover-the-truth-inside/"><u>Rapid Image Moving Techniques: Are They Effective in Real-Time Transfers? Discover the Truth Inside!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-sailing-installation-of-wi-fi-expansion-cards-on-desktops/"><u>Smooth Sailing: Installation of Wi-Fi Expansion Cards on Desktops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-common-issues-fixing-c1900101-error-in-windows-11/"><u>Solving Common Issues: Fixing C1900101 Error in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-honor-play-40c-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor Play 40C</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-woes-the-story-of-vanished-signal-on-windows-11/"><u>Wi-Fi Woes: The Story of Vanished Signal on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-elevated-performance-discover-the-power-of-amd-radeon-hd-6950-update-v20/"><u>Windows 10 Elevated Performance: Discover the Power of AMD Radeon HD 6950 Update V2.0</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-bringing-bygone-era-filmmaking-to-life-today/"><u>[New] 2024 Approved Bringing Bygone Era Filmmaking to Life Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagrams-latest-trend-get-8plus-free-tools-for-cutting-and-sharing-video-content/"><u>[New] In 2024, Instagram's Latest Trend Get 8+ Free Tools for Cutting & Sharing Video Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>[Updated] In 2024, Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-cross-screen-lines-distortion/"><u>Eradicate Cross-Screen Lines Distortion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facilitating-online-discussions-with-ai-powered-tools/"><u>Facilitating Online Discussions with AI-Powered Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-art-of-sound-visualization-combining-waveform-graphics-and-animation-techniques-in-premiere-pro/"><u>In 2024, The Art of Sound Visualization Combining Waveform Graphics & Animation Techniques in Premiere Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pacmans-plunge-digital-drag/"><u>Pacman's Plunge - Digital Drag?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-over-windows-update-functions/"><u>Regain Control Over Windows Update Functions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-graphic-device-discrepancy-win/"><u>Resolved Graphic Device Discrepancy - Win</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restarting-as-solution-to-non-working-asus-cam/"><u>Restarting as Solution to Non-Working Asus Cam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scattare-a-fascia-maggiore-il-guidone-gratuito-per-trasformare-il-tuo-aifc-in-un-formato-m4r-con-movavi/"><u>Scattare a Fascia Maggiore: Il Guidone Gratuito per Trasformare Il Tuo AIFC in Un Formato M4R Con Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-streaming-disruptions-in-new-windows-era/"><u>Tackling Streaming Disruptions in New Windows Era</u></a></li>
 </ul></div>
 

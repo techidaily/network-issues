@@ -1,7 +1,7 @@
 ---
 title: How to Fix GPU Fans Not Spinning
-date: 2024-11-11T01:43:19.017Z
-updated: 2024-11-15T00:34:01.973Z
+date: 2024-11-22T06:42:54.228Z
+updated: 2024-11-24T11:41:01.173Z
 tags:
   - win11
   - win10
@@ -42,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure all cables are plugged in
@@ -58,22 +55,23 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -101,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
  After updating all your drivers, restart your PC and check if the fans spin now.
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
 
@@ -113,20 +108,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Scan and repair your system
@@ -144,18 +129,15 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Upgrade your GPU BIOS
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -180,22 +162,24 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-far-cry-new-dawn-not-starting-dx12-error/"><u>[CORRECTED] Far Cry New Dawn Not Starting - DX12 Error</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtubes-updated-monetization-playbook/"><u>[New] In 2024, YouTube's Updated Monetization Playbook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-11-ultimate-phantom-4-accessories-to-purchase/"><u>[Updated] 2024 Approved 11 Ultimate Phantom 4 Accessories to Purchase</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-steps-to-producing-a-youtube-hit-music-reaction-video-guide/"><u>[Updated] In 2024, Essential Steps to Producing a YouTube Hit Music Reaction Video Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premier-options-to-play-sonys-ps1-games-on-pc/"><u>[Updated] In 2024, Premier Options to Play Sony's PS1 Games on PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-the-perfect-way-to-add-linktree-to-tiktok-bio/"><u>2024 Approved The Perfect Way to Add Linktree to TikTok Bio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capturing-sims-4-adventures-a-guide/"><u>Capturing Sims 4 Adventures A Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-undetected-gpu-mishaps/"><u>Cure Undetected GPU Mishaps</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-game-with-vip-purchases-on-sony-ps5/"><u>Elevate Your Game with VIP Purchases on Sony PS5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-these-10-action-packed-athletic-adventures-are-the-best-in-cinema/"><u>Get Ready: These 10 Action-Packed Athletic Adventures Are the Best in Cinema</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hdmi-miscommunication-laptop-avoids-display-on-tv/"><u>HDMI Miscommunication: Laptop Avoids Display on TV</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-yuva-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Yuva 2</u></a></li>
-<li><a href="https://network-issues.techidaily.com/microsofts-drivers-patched-in-windows-1087-bdr/"><u>Microsoft's Drivers Patched in Windows 10/8/7 BDR</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-in-win10-installation-process/"><u>Overcoming C1900101 in Win10 Installation Process</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-troubleshooting-path-inactive-gpu-nvidia-screen/"><u>Plain Troubleshooting Path: Inactive GPU, NVIDIA Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-amd-tarkov-glitch/"><u>Resolve AMD Tarkov Glitch!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-texture-problems-in-far-cry-island-adventure/"><u>Resolving Texture Problems in Far Cry Island Adventure</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-ready-360-videos-editing-and-sharing-made-simple/"><u>[New] YouTube-Ready 360 Videos Editing & Sharing Made Simple</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-for-mac-users-install-and-enjoy-for-2024/"><u>[Updated] Snapchat for MAC Users - Install and Enjoy for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-guide-to-exceptional-tiktok-intro-videos-mac-for-2024/"><u>[Updated] The Ultimate Guide to Exceptional TikTok Intro Videos (Mac) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/bridging-story-and-sound-scriptwriting-for-visual-media/"><u>Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-lenovo-x230-drivers-fast-complete-guide/"><u>Download Lenovo X230 Drivers Fast - Complete Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-transfer-of-melodies-how-to-migrate-songs-from-your-iphone-to-a-windows-or-mac-computer-via-itunes/"><u>Effortless Transfer of Melodies: How to Migrate Songs From Your iPhone to a Windows or Mac Computer via iTunes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/grab-two-top-pick-nomad-iphone-cases-today-buy-one-get-one-at-a-steal-on-zdnet/"><u>Grab Two Top-Pick Nomad iPhone Cases Today: Buy One, Get One at a Steal on ZDNet!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hd-6950-drivers-upgraded-for-windows-11-users/"><u>HD 6950 Drivers Upgraded for Windows 11 Users</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-introduction-of-wondershare-virbo-for-2024/"><u>New Introduction of Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-onoff-switch-armored/"><u>OpenGL On/Off Switch Armored</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quick-and-easy-mastering-the-conversion-from-flv-to-mp3-in-just-three-simple-steps/"><u>Quick & Easy: Mastering the Conversion From FLV to MP3 in Just Three Simple Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-panel-distortion-in-windows-10/"><u>Resolving Backward Panel Distortion in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secured-stable-operations-amds-driver-now-works-on-wndows-10-os/"><u>Secured Stable Operations: AMD's Driver Now Works on Wndows 10 OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ditors-journey-mastering-the-art-of-youtube-cuts/"><u>The Editor's Journey Mastering the Art of Youtube Cuts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-rise-of-amd-transforming-pc-gaming-experience-across-platforms/"><u>The Rise of AMD: Transforming PC Gaming Experience Across Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-gpus-solution-for-win11-users/"><u>Triumph Over Switchable GPUs: Solution for Win11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-silence-no-nvidia-detected-in-control-panel/"><u>Unexpected Silence: No NVIDIA Detected in Control Panel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
 </ul></div>
 

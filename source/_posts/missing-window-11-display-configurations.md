@@ -1,7 +1,7 @@
 ---
 title: Missing Window 11 Display Configurations
-date: 2024-11-13T23:53:25.661Z
-updated: 2024-11-14T16:55:58.431Z
+date: 2024-11-21T11:39:42.781Z
+updated: 2024-11-24T05:50:14.490Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -51,22 +55,13 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -80,27 +75,21 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
@@ -111,10 +100,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
@@ -136,16 +122,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-windows-10-syncing-guide-effortless-mov-file-management-for-2024/"><u>[New] Windows 10 Syncing Guide Effortless .mov File Management for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-premium-aerial-camera-crew-the-best-10-drones/"><u>[Updated] In 2024, Premium Aerial Camera Crew The Best 10 Drones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity/"><u>[Updated] Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ter-youtube-background-ideas-to-warm-up-your-videos-for-2024/"><u>5 Winter YouTube Background Ideas to Warm Up Your Videos for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/automated-user-tracking-with-cookiebot-technology/"><u>Automated User Tracking with Cookiebot Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-43-no-more/"><u>GPU Error 43, No More</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stability-triumph-fixing-fallout-4-issues/"><u>Stability Triumph: Fixing Fallout 4 Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-for-streaming-on-latest-windows-10/"><u>Successful Troubleshooting for Streaming on Latest Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/titans-unbound-lags-on-purchase/"><u>Titans Unbound: Lags on Purchase</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-when-your-laptops-pointing-device-freezes-up/"><u>Troubleshooting Techniques for When Your Laptop's Pointing Device Freezes Up</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1725289862885-winx-dvd/"><u>WinX 무료 제공 DVD 리퍼, 비디오 컨버터 소프트웨어를 원활하게 다운로드 - 정보표시</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-inside-look-what-makes-asmr-special/"><u>[Updated] In 2024, Inside Look What Makes ASMR Special</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/52686734-updated-in-2024-spark-creativity-with-costless-auditory-extras/"><u>[Updated] In 2024, Spark Creativity with Costless Auditory Extras!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-definitive-guide-to-appending-srt-track-in-videos/"><u>2024 Approved The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-amds-graphics-bug-tarkov/"><u>Beat AMD's Graphics Bug, Tarkov</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-changes-cause-onyx-outcome/"><u>Card Changes Cause Onyx Outcome</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-mobile-phones-diy-webcam-for-video-recording/"><u>Mastering Mobile Phones DIY Webcam for Video Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/multiple-camera-solutions-expert-reviews-of-virtual-webcams-and-live-broadcast-software/"><u>Multiple Camera Solutions: Expert Reviews of Virtual Webcams and Live Broadcast Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamless-system-updates-implementing-macos-sierra/"><u>Seamless System Updates Implementing macOS Sierra</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-expert-insights-and-reviews/"><u>Tom's Computing: Expert Insights and Reviews</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-asus-cam/"><u>Troubleshooting Non-Functional Asus Cam</u></a></li>
 </ul></div>
 

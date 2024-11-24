@@ -1,7 +1,7 @@
 ---
 title: "Jive Without Jitters: Anti-Lag Tactics"
-date: 2024-07-12T00:22:27.192Z
-updated: 2024-07-13T00:22:27.192Z
+date: 2024-11-16T21:01:10.317Z
+updated: 2024-11-23T20:00:48.831Z
 tags:
   - win11
   - win10
@@ -67,9 +67,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -105,6 +113,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
@@ -112,6 +124,10 @@ So you can follow the steps below to disable CPU core parking:
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -131,9 +147,17 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -167,6 +191,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
@@ -195,8 +223,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +230,26 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/addressing-memory-overuse-in-user-services-and-connected-devices/"><u>Addressing Memory Overuse in User Services and Connected Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ai-powered-best-titles-makers-online/"><u>AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/consumer-favorites-top-functional-and-efficient-rechargeable-battery-chargers/"><u>Consumer Favorites: Top Functional & Efficient Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-highlow-res-issues-enjoying-better-display-on-win-10/"><u>Fixed High/Low Res Issues, Enjoying Better Display on Win 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-12-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 12 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-clean-up-your-pcs-graphics-driver-cache/"><u>How to Clean Up Your PC's Graphics Driver Cache</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-play-8t-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-clear-window-display/"><u>Immediate Clear Window Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-making-the-most-of-your-television-with-fb-live/"><u>In 2024, Making the Most of Your Television with FB Live</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-smooth-video-experience-after-win11s-launch/"><u>Mastering Smooth Video Experience After Win11's Launch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-volgrondig-vrije-konverter-van-orf-naar-jpeg-voor-online-gebruikers-gratuit/"><u>Movavi: Volgrondig, Vrije Konverter Van ORF Naar JPEG Voor Online Gebruikers Gratuit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-radeon-hd-6950-windows-11-graphics-update-announced/"><u>New Radeon HD 6950 Windows 11 Graphics Update Announced</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-failure-screen-remains-blacked-out/"><u>New Tech Failure: Screen Remains Blacked-Out</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/out-with-the-old-in-with-new-up-to-date-alternatives-to-the-turing-test-in-ai-assessment/"><u>Out with the Old, In with New: Up-to-Date Alternatives to the Turing Test in AI Assessment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dark-mode-issue-on-win10/"><u>Overcoming Dark Mode Issue on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-video-driver-setbacks-in-minecraft-on-pc/"><u>Overcoming Video Driver Setbacks in Minecraft on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-your-video-editing-process-for-green-issues-on-youtube/"><u>Streamlining Your Video Editing Process for Green Issues on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-and-managing-facebooks-hidden-history/"><u>Understanding & Managing Facebook's Hidden History</u></a></li>
+</ul></div>
 

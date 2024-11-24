@@ -1,7 +1,7 @@
 ---
 title: Correcting Screen Display Saved Preferences Errors
-date: 2024-09-16T07:42:44.217Z
-updated: 2024-09-20T07:51:21.071Z
+date: 2024-11-21T02:49:14.029Z
+updated: 2024-11-24T09:31:28.805Z
 tags:
   - win11
   - win10
@@ -40,10 +40,23 @@ To do so:
 1. Right-click on**any empty space** on your desktop and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -57,8 +70,18 @@ To do so:
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and see if the problem is solved.
 
 ---
@@ -80,12 +103,18 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-rust-legacy-launch-issue-dx12-failure/"><u>[FIXED] Rust Legacy Launch Issue - DX12 Failure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-switch-strike-force-your-top-10-game-lineup/"><u>[New] In 2024, Switch Strike Force Your Top 10 Game Lineup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>[New] In 2024, Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-tips-for-youtube-shorts-success-for-2024/"><u>[Updated] Essential Tips for YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommended-steadicams-for-professional-dslr-work/"><u>[Updated] Expert-Recommended Steadicams for Professional DSLR Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>2024 Approved Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-hd-6950-win11-driver-improvements-revealed/"><u>AMD HD 6950 Win11 Driver Improvements Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-leads-to-dark-void/"><u>Driver Update Leads to Dark Void</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-aspect-ratio-on-windows-monitors/"><u>Modify Aspect Ratio on Windows Monitors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/thrustmaster-t300-wheel-updated-drivers-and-support-for-newest-windows-platforms-windows-1110/"><u>Thrustmaster T300 Wheel: Updated Drivers and Support for Newest Windows Platforms (Windows 11/10)</u></a></li>
+</ul></div>
 

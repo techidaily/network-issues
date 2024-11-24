@@ -1,7 +1,7 @@
 ---
 title: Unlock Hidden Display Settings, PC
-date: 2024-09-16T06:57:37.988Z
-updated: 2024-09-20T05:09:46.130Z
+date: 2024-11-18T05:53:24.551Z
+updated: 2024-11-24T03:55:02.152Z
 tags:
   - win11
   - win10
@@ -20,10 +20,18 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -67,13 +75,25 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
@@ -100,12 +120,23 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mac-masterclass-designing-eye-catching-yt-thumbnails/"><u>[New] 2024 Approved Mac Masterclass Designing Eye-Catching YT Thumbnails</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-leveraging-zoom-features-for-improved-tiktok-videos/"><u>[New] Leveraging Zoom Features for Improved TikTok Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapidly-create-facebook-collage-imagery-with-ease/"><u>2024 Approved Rapidly Create Facebook Collage Imagery with Ease</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-windows-11-desktop-size-preferences/"><u>Balance Windows 11 Desktop Size Preferences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ethereal-video-capture-techniques/"><u>Ethereal Video Capture Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606435-flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-graphics-card-drivers-compatible-with-windows-10-7-and-8/"><u>Latest Nvidia Graphics Card Drivers - Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multi-speaker-sync-uniting-several-bluetooth-audio-units-with-a-single-gadget/"><u>Multi-Speaker Sync: Uniting Several Bluetooth Audio Units with a Single Gadget</u></a></li>
+<li><a href="https://review-topics.techidaily.com/pdf-repair-tool-to-repair-corrupt-pdf-files-pdf-stellar-by-stellar-guide/"><u>PDF Repair Tool to Repair Corrupt PDF files (.PDF) | Stellar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-inverted-screen-issue-on-windows-11/"><u>Resolving Inverted Screen Issue on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-unseen-monitor-freeze/"><u>Revealing Unseen Monitor Freeze</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-data-migration-made-simple-with-winx-mediatrans-the-premier-tool-for-transferring-multimedia-fromto-your-ios-device-and-computer/"><u>Seamless Data Migration Made Simple with WinX MediaTrans™: The Premier Tool for Transferring Multimedia From/To Your iOS Device and Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-stop-lenovo-screenshaking/"><u>Strategies to Stop Lenovo Screenshaking</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-10-effortless-yet-striking-tikfilters-for-all/"><u>Top 10 Effortless Yet Striking TikFilters for All</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshoot-lenovos-dimming-display/"><u>Troubleshoot Lenovo's Dimming Display</u></a></li>
+</ul></div>
 

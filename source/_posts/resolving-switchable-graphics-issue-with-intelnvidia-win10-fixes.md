@@ -1,7 +1,7 @@
 ---
 title: Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes
-date: 2024-11-09T18:30:29.776Z
-updated: 2024-11-14T23:39:36.703Z
+date: 2024-11-21T04:38:48.685Z
+updated: 2024-11-24T06:23:11.045Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -49,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -98,16 +92,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -117,17 +102,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -139,6 +114,10 @@ Or click **Update All**  to automatically download and install the correct versi
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -163,20 +142,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-straightforward-approach-turn-video-upside-down-with-vlc/"><u>[New] Straightforward Approach Turn Video Upside Down with VLC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] In 2024, Harness Your View Count Cross-Platform Studio Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-qualitysound-check/"><u>[Updated] In 2024, QualitySound Check</u></a></li>
-<li><a href="https://network-issues.techidaily.com/apex-hack-proofing-guide-instant-troubleshooting/"><u>Apex Hack-Proofing Guide: Instant Troubleshooting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-off-screen-joints/"><u>Eradicate Off-Screen Joints</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-is-working-to-clarify-its-rules-regarding-satire/"><u>Facebook Is Working to Clarify Its Rules Regarding Satire</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-problem-to-solution-amd-driver-now-detectable-on-wndows-10/"><u>From Problem to Solution: AMD Driver Now Detectable on Wndows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-apple-vision-pro-at-a-surprising-discount-of-200-on-amazon-as-predicted-by-tech-experts-at-zdnet/"><u>Limited-Time Offer: Apple Vision Pro at a Surprising Discount of $200 on Amazon, as Predicted by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methodical-approach-to-reviving-media-player-woes-in-win11/"><u>Methodical Approach to Reviving Media Player Woes in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quickly-fixed-qualcomms-atheros-wi-fi-drivers-on-win11/"><u>Quickly Fixed Qualcomm's Atheros Wi-Fi Drivers on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-slim-monitor-glitches-in-win11/"><u>Resolved Slim Monitor Glitches in Win11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/seamlessly-integrate-your-footage-with-these-leading-video-merger-apps-for-windows-pertinent/"><u>Seamlessly Integrate Your Footage with These Leading Video Merger Apps for Windows Pertinent</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shine-and-shimmer-no-more-dells-new-normal/"><u>Shine and Shimmer No More: Dell's New Normal</u></a></li>
-<li><a href="https://discover-great.techidaily.com/solving-issues-with-no-audio-capture-in-audacity/"><u>Solving Issues with No Audio Capture in Audacity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974224760-step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-rust-legacy-launch-issue-dx12-failure/"><u>[FIXED] Rust Legacy Launch Issue - DX12 Failure</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>[New] 2024 Approved Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-more-than-clicks-what-determines-youtubes-view-numbers/"><u>[Updated] More than Clicks What Determines YouTube's View Numbers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-10-hilarious-tiktok-skits-unveiled/"><u>2024 Approved Top 10 Hilarious TikTok Skits Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai4k-winxvideo/"><u>AIを活用した4K動画圧縮・編集方法ガイド - Winxvideoのプロトコル</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-hd-6950-win11-driver-improvements-revealed/"><u>AMD HD 6950 Win11 Driver Improvements Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-leads-to-dark-void/"><u>Driver Update Leads to Dark Void</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweetaudioextractor-quick-sound-maker/"><u>In 2024, TweetAudioExtractor Quick Sound Maker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-non-detection-of-gfx/"><u>Reverse Non-Detection of GFX</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x50iplus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X50i+ Phone Network-Ready</u></a></li>
 </ul></div>
 

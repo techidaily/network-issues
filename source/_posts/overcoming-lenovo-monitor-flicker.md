@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lenovo Monitor Flicker
-date: 2024-11-10T01:46:51.810Z
-updated: 2024-11-15T03:24:10.188Z
+date: 2024-11-22T19:59:03.198Z
+updated: 2024-11-24T08:55:46.108Z
 tags:
   - win11
   - win10
@@ -46,13 +46,14 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -70,10 +71,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -81,10 +79,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -96,10 +91,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
@@ -133,17 +125,22 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/troubleshooted-online-links-issues-with-cod-cold-war/"><u>[TROUBLESHOOTED] Online Links Issues with CoD Cold War</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cross-platform-iptv-adaptability/"><u>[Updated] Cross-Platform IPTV Adaptability</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-customize-twitter-video-snapshot/"><u>[Updated] In 2024, Customize Twitter Video Snapshot</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-retro-playback-inverting-your-youtube-content-for-2024/"><u>[Updated] Retro Playback Inverting Your YouTube Content for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-must-watch-list-11-films-to-fuel-your-motivation-and-optimism/"><u>A Must-Watch List: 11 Films to Fuel Your Motivation and Optimism</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fix-for-a-broken-connection-reviving-your-bluetooth-mouse-compatibility-with-windows/"><u>DIY Fix for a Broken Connection: Reviving Your Bluetooth Mouse Compatibility With Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-machine-capabilities-for-softwares-success/"><u>Enhancing Machine Capabilities for Softwares' Success</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-compatibility-nvidia-opengl-fixed/"><u>GPU Compatibility: Nvidia OpenGL Fixed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-luts-for-image-enhancement/"><u>In 2024, A Deep Dive Into LUTs for Image Enhancement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaverse-inspiration-enhanced-by-ar-and-vr-for-2024/"><u>Metaverse Inspiration Enhanced by AR & VR for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/notebook-led-fix-persistent-blink-ended/"><u>Notebook LED Fix: Persistent Blink Ended</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-captivating-visual-journeys-on-fb/"><u>[New] Top 5 Captivating Visual Journeys on FB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chasing-the-cause-of-frozen-photobooth-videos/"><u>[Updated] Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-review-a-tale-of-an-unfulfilling-workday-as-spotted-by-zdnet/"><u>Apple Vision Pro Review: A Tale of an Unfulfilling Workday as Spotted by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-in-video-card-driver/"><u>Armored Fix in Video Card Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-how-to-turn-on-hyper-v-for-windows-11-users/"><u>Comprehensive Tutorial: How To Turn On Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-for-error-22-rectified/"><u>Driver Update for Error 22 Rectified</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-toms-computer-components-and-tech-reviews/"><u>Exploring the World of Tom's Computer Components and Tech Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-stop-and-start-strategies-fb-livestream-recovery-methods/"><u>In 2024, Stop and Start Strategies FB Livestream Recovery Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-control-panel-status-green/"><u>Nvidia Control Panel - Status Green</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-rpc-communication-failure-error-code-0xc0000098-on-your-pc-a-comprehensive-guide/"><u>Overcoming the RPC Communication Failure (Error Code 0Xc0000098) on Your PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhauled-error-22-in-graphicsdriver/"><u>Overhauled Error #22 in GraphicsDriver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/persistent-wi-fi-connection-issues/"><u>Persistent Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-display-set-configurations-on-windows-107/"><u>Re-Enabling Display Set Configurations on Windows 10/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silencing-the-fallout-4-errors-on-pc/"><u>Silencing the Fallout 4 Errors on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smoothly-sync-and-unite-videos-the-android-specialists-guide/"><u>Smoothly Sync and Unite Videos The Android Specialist's Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-on-recovering-graphics-cards-post-driver-updates-mytechsavvy/"><u>Step-by-Step Tutorial on Recovering Graphics Cards Post Driver Updates - MyTechSavvy</u></a></li>
 </ul></div>
 

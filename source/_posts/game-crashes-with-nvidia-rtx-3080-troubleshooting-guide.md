@@ -1,7 +1,7 @@
 ---
 title: Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide
-date: 2024-11-11T02:03:49.756Z
-updated: 2024-11-14T16:55:56.541Z
+date: 2024-11-17T05:15:06.340Z
+updated: 2024-11-23T18:39:59.560Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does your graphics card keep crashing?
 
 * Outdated/corrupted drivers
@@ -28,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 * Corrupt system/game files
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -44,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 4. **[Keep the GPU fed](#h4)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Perform a clean installation of NVIDIA drivers
@@ -78,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
@@ -96,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 Now launch your game again to see if this method works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Keep the GPU fed
@@ -140,18 +132,18 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art-for-2024/"><u>[New] Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-quick-flicker-on-dell-display/"><u>[Solved] Quick Flicker on Dell Display</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-market-mastery-blueprint-strategic-openings/"><u>[Updated] Market Mastery Blueprint Strategic Openings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-fast-track-to-find-insta-follower-lapses/"><u>2024 Approved The Fast Track to Find Insta Follower Lapses</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-no-compatible-graphics-overwatch-update-resolved/"><u>Fixing No Compatible Graphics: Overwatch Update Resolved</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-lava-blaze-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Lava Blaze Pro 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-chromebook-hacks-running-windows-and-mac-video-editing-software-seamlessly-for-2024/"><u>New Chromebook Hacks Running Windows and Mac Video Editing Software Seamlessly for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-boosts-geforce-210-performance-on-win10-os/"><u>NVIDIA Boosts GeForce 210 Performance on WIN10 OS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/secure-your-mobile-experience-top-ios-malware-defenders-unveiled/"><u>Secure Your Mobile Experience: Top iOS Malware Defenders Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-hp-display-dimming-troubles/"><u>Solving HP Display Dimming Troubles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninterrupted-adventure-fixing-fallout-4-pc-issues/"><u>Uninterrupted Adventure: Fixing Fallout 4 PC Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-itel-s23plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel S23+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-enhancing-your-media-production-skills-with-easy-to-follow-guides-for-windows-8-movie-maker/"><u>[New] Enhancing Your Media Production Skills with Easy-to-Follow Guides for Windows 8 Movie Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-luts-simplified-your-guide-to-better-photos/"><u>[New] LUTs Simplified Your Guide to Better Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-ad-based-revenue-tracking-for-youtubers-success/"><u>[Updated] In 2024, Ad-Based Revenue Tracking for YouTubers' Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-unwanted-screen-flashing/"><u>Eliminate Unwanted Screen Flashing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722134669778-exploring-the-world-of-chatgpt-unveil-these-6-must-play-games/"><u>Exploring The World of ChatGPT: Unveil These 6 Must-Play Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-led-backlight-stability-problems/"><u>Fixing LED Backlight Stability Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-asus-rog-phone-8-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Asus ROG Phone 8 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-win10-and-geforce-98nvidia/"><u>Mastering Win10 & GeForce 98/Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-longer-disturbed-by-flickering-win11-monitors/"><u>No Longer Disturbed by Flickering Win11 Monitors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-procedure-to-modify-windows-8-drivers/"><u>Step-by-Step Procedure to Modify Windows 8 Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding-for-2024/"><u>The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-transferring-tunes-between-platforms-for-2024/"><u>The Art of Transferring Tunes Between Platforms for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Remedying Screen Malfunctions in Laptops
-date: 2024-11-10T17:18:45.713Z
-updated: 2024-11-14T22:17:02.284Z
+date: 2024-11-23T07:18:28.560Z
+updated: 2024-11-23T17:07:24.689Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ You pressed the power button on your laptop to open it. You could hear your lapt
 1. [**Restore your system from a restore point**](#f)
 2. [**Update your device drivers**](#g)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Restart the explorer.exe process
 
 You may get the black screen issue because the explorer.exe process on your computer has been closed (possibly by a virus). It is a process that manages the desktop, taskbar, etc, on your operating system. Closing it can make your desktop and taskbar invisible, and you get the black screen issue. To fix this issue, you can check and restart the process manually. To do so:**1)**Press the**Ctrl**,**Shift**and**Esc**key on your keyboard at the same time. This will open Task Manager.**2)**Click the**Details**tab (or the**Processes**tab in Windows 7’s Task Manager) and see if there exists a process called “**explorer.exe**”
@@ -49,6 +53,10 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30cc7ac4773.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
 ## Method 2: Enter safe mode and undo recent changes
@@ -58,13 +66,6 @@ You may have change some settings or installed a program on your computer, which
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
 
@@ -76,27 +77,17 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restore your system from a restore point
 
@@ -109,15 +100,16 @@ On Windows 10, click**Create a restore** **point**,
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
@@ -130,15 +122,16 @@ You may get various hardware issues (not just this black screen one) if your dev
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b1606c48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can download and install your drivers by using either Free or [**Pro** **version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes only**2** clicks (and you get**full support**and a**30-day money back guarantee**).
 
@@ -160,21 +153,24 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-global-perspective-inclusive-technology-review/"><u>[New] In 2024, Global Perspective Inclusive Technology Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-total-gaze-coverage-camera-analysis/"><u>[Updated] 2024 Approved Total Gaze Coverage Camera Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-the-secrets-of-obs-game-capture/"><u>2024 Approved Unveiling the Secrets of OBS Game Capture</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disarming-display-disturbances-on-pro-7/"><u>Disarming Display Disturbances on Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-issue-amdnvidia-missing/"><u>Display Issue: AMD/NVIDIA Missing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-crt-artifacts-on-desktop/"><u>Eradicate CRT Artifacts on Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-res-displays-not-setting-in-w11/"><u>High-Res Displays Not Setting In W11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-latest-dell-router-driver-click-to-download-now/"><u>Install the Latest Dell Router Driver – Click to Download Now</u></a></li>
-<li><a href="https://discover-able.techidaily.com/los-top-10-mejor-softwares-de-conversion-de-documentos-a-pdf-libres-y-sin-limites-para-mac-ano-2024/"><u>Los Top 10 Mejor Softwares De Conversión De Documentos a PDF Libres Y Sin Limites Para MAC - Año 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-error-12-disappears/"><u>MH World Crisis Averted - Error 12 Disappears</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-correction-clear-legends-crashes/"><u>Quick Correction: Clear Legends Crashes</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-15-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 15 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-steps-to-rectify-display-line-issues-on-notebooks/"><u>Simple Steps to Rectify Display Line Issues on Notebooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-when-shutting-down-windows-10-on-desktop-is-ineffective/"><u>Solution Guide for When Shutting Down Windows 10 on Desktop Is Ineffective</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo .</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-image-creation-using-dall-e-3-for-free-on-microsoft-bing-platform/"><u>Unlock the Power of Image Creation: Using DALL-E 3 for Free on Microsoft Bing Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-techniques-to-prevent-dropouts-in-obs-studio/"><u>[New] 2024 Approved Techniques to Prevent Dropouts in OBS Studio</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-device-diversity-met-with-editing-brilliance/"><u>[New] Device Diversity Met With Editing Brilliance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expertise-in-apps-enhancing-video-conferencing-for-2024/"><u>[New] Expertise in Apps Enhancing Video Conferencing for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-mistaken-loadout-on-tiktok-can-i-see-previous-selections/"><u>[Updated] 2024 Approved Mistaken Loadout on TikTok Can I See Previous Selections?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screen-capture-clarified-a-fraps-breakdown/"><u>[Updated] 2024 Approved Screen Capture Clarified A Fraps Breakdown</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-internet-idols-index-10-most-subscribed-global-creators/"><u>2024 Approved Internet Idols Index 10 Most Subscribed Global Creators</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-brightness-spike/"><u>Correcting Windows Brightness Spike</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-alternative-to-apple-and-tiles-wallet-airtags-the-ultimate-guide-by-zdnet/"><u>Discover the Best Alternative to Apple & Tile's Wallet AirTags - The Ultimate Guide by ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-acting-fix-gpu-anomaly-cleared/"><u>Fast-Acting Fix: GPU Anomaly Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-11-windows-monitor-missing-full-screen/"><u>Fix: 11 Windows Monitor Missing Full Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-210-drivers-boosting-gaming-on-win10-platform/"><u>GeForce 210 Drivers: Boosting Gaming on WIN10 Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-can-i-post-a-video-between-twitter-and-tumblr-for-2024/"><u>How Can I Post a Video Between Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/manage-display-settings-in-windows-11/"><u>Manage Display Settings in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/post-update-streaming-fixes-in-newest-windows-version/"><u>Post-Update Streaming Fixes in Newest Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/putting-an-end-to-windows-screen-glimmer/"><u>Putting an End to Windows Screen Glimmer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-pci-cryptographic-engine-driver-problems-enhanced-security/"><u>Resolved PCI Cryptographic Engine Driver Problems - Enhanced Security</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-elusive-stream-problems/"><u>Unlocking Elusive Stream Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974563155-upgrade-intel-graphics-3000-to-enhance-your-visual-experience-on-w10-seamlessly/"><u>Upgrade Intel Graphics 3000 to Enhance Your Visual Experience on W10 Seamlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo V27? | Dr.fone</u></a></li>
 </ul></div>
 

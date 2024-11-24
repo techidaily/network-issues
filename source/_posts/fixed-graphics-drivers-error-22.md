@@ -1,7 +1,7 @@
 ---
 title: Fixed Graphics Drivers Error #22
-date: 2024-07-12T00:18:34.845Z
-updated: 2024-07-13T00:18:34.845Z
+date: 2024-11-19T12:41:04.984Z
+updated: 2024-11-23T22:01:01.361Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
 
@@ -53,6 +57,10 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
@@ -64,8 +72,17 @@ Example – CMOS battery on a laptop
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -83,6 +100,11 @@ Example – CMOS battery on a laptop
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
@@ -98,8 +120,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,6 +127,22 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>[New] 2024 Approved Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-6-unique-sources-for-premium-youtube-imagery/"><u>[New] Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-supercharge-your-channel-with-smart-youtube-collaborations/"><u>[Updated] 2024 Approved Supercharge Your Channel with Smart YouTube Collaborations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-vdv-hd-screen-grabber-review-the-ultimate-guide/"><u>[Updated] In 2024, VDV HD Screen Grabber Review The Ultimate Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/acer-laptop-not-connecting-to-wifi-solved/"><u>Acer Laptop Not Connecting to WiFi [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-card-detection-issues-on-windows-10-solutions-and-fixes-explored/"><u>AMD Graphics Card Detection Issues on Windows 10: Solutions and Fixes Explored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-high-server-lag-in-fortnite-fast-fixes-and-solutions/"><u>Beat High Server Lag in Fortnite: Fast Fixes and Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/co-marketing-mastery-on-youtube-for-brand-growth-for-2024/"><u>Co-Marketing Mastery on YouTube for Brand Growth for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-vulkan-runtime-libraries-tips-for-effective-integration-and-usage/"><u>Decoding Vulkan Runtime Libraries: Tips for Effective Integration & Usage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-vulkan-runtime-libraries-tips-and-strategies-for-optimization/"><u>Demystifying Vulkan Runtime Libraries: Tips & Strategies for Optimization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-your-displays-pixel-density-a-simple-guide/"><u>Discover Your Display's Pixel Density: A Simple Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-new-frontier-of-ai-assistance-enable-chatgpts-browser-and-extension-tools/"><u>Exploring the New Frontier of AI Assistance: Enable ChatGPT's Browser & Extension Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50i-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50i</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-8-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 8 Properly</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-c51-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme C51 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

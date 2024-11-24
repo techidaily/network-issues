@@ -1,7 +1,7 @@
 ---
 title: "Overcame: Control Panel Lockout Issue"
-date: 2024-07-12T00:22:32.686Z
-updated: 2024-07-13T00:22:32.686Z
+date: 2024-11-17T01:00:31.096Z
+updated: 2024-11-24T03:54:54.138Z
 tags:
   - win11
   - win10
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/re.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select **Driver Uninstall** . Click**Display adapters** folder and select your NVIDIA graphics driver. Then click the**Uninstall** button. Your graphics driver will be removed soon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/re2.jpg)
@@ -84,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/20-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Run the NVIDIA Control Panel then check whether the “Access Denied” message will appear or not.  
 
 ### Method 3: Run the NVIDIA Control Panel as administrator
@@ -96,9 +104,17 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the Compatibility tab, tick**Run this program as an administrator** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on the**nvcplui.exe** and click**Run as administrator** .
 
@@ -114,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the button to turn off the Game Bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2.jpg)
@@ -128,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,6 +155,19 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>[New] In 2024, Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enrich-your-viewing-habit-with-essential-movie-channels/"><u>[Updated] In 2024, Enrich Your Viewing Habit with Essential Movie Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-initiating-your-youtube-content-compellingly-for-2024/"><u>[Updated] The Art of Initiating Your YouTube Content Compellingly for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-sony-xperia-10-v-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Sony Xperia 10 V Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-sony-xperia-10-v-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Sony Xperia 10 V to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-navigating-tiktok-copyright-rules-before-posting-videos/"><u>In 2024, Navigating TikTok Copyright Rules Before Posting Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-wow-problem-solving-no-519/"><u>Mastering WoW Problem Solving No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximizing-monitor-space-on-wins11-pcs/"><u>Maximizing Monitor Space on Wins11 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tap-out-lag-not-pauses/"><u>Tap Out Lag, Not Pauses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-deciphered-nvidia-opengl-armored-solution/"><u>TDR Alert Deciphered: NVidia OpenGL Armored Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-say-goodbye-to-grainy-videos-top-enhancement-software-picks/"><u>Updated 2024 Approved Say Goodbye to Grainy Videos Top Enhancement Software Picks</u></a></li>
+<li><a href="https://techidaily.com/vivo-y78plus-t1-edition-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y78+ (T1) Edition support - Forgotten screen lock.</u></a></li>
+</ul></div>
 

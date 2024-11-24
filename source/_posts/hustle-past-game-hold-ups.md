@@ -1,7 +1,7 @@
 ---
 title: Hustle Past Game Hold-Ups
-date: 2024-11-10T21:02:55.801Z
-updated: 2024-11-15T02:54:34.021Z
+date: 2024-11-20T08:57:14.404Z
+updated: 2024-11-24T03:37:05.680Z
 tags:
   - win11
   - win10
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/32523e559641d9ec27c8a10ab7be14cb0b35f831c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Optimize your in-game settings
@@ -49,10 +46,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
@@ -66,10 +60,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Go to**Settings** \>**Advanced Graphics Settings** .
@@ -87,6 +78,10 @@ Here’s how to do it:
  In**Vegetation Quality,** choose**Medium** ;  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
@@ -108,13 +103,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Disable CPU Core Parking
 
  Core parking is a utility in Windows that helps save power by scaling the number of logical processors in use based on the workload. If enabled, it can cause your CPU to be in a sleep state and decrease the performance of your CPU.
@@ -129,6 +117,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
@@ -140,13 +132,6 @@ So you can follow the steps below to disable CPU core parking:
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -163,10 +148,7 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -176,6 +158,10 @@ So you can follow the steps below to disable CPU core parking:
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -208,19 +194,6 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -259,22 +232,19 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>[New] 2024 Approved An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-capturing-twitters-fun-android-and-iphone-tips/"><u>[New] 2024 Approved Capturing Twitter's Fun Android & iPhone Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[New] 2024 Approved Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques/"><u>[New] In 2024, From Simple to Sophisticated Mastering ZD Soft's Video Recording Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[Updated] 2024 Approved GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-2023-survival-guide-seeking-fb-videos-on-every-tab-for-2024/"><u>A 2023 Survival Guide Seeking FB Videos on Every Tab for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-guide-repairing-non-functional-ethernet-adapters-on-win10-and-win7-systems/"><u>Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/f11aomei-onekey/"><u>F11鍵如何使用AOMEI OneKey恢復功能，全面教程解決方法</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mememolding-cutter/"><u>In 2024, MemeMolding Cutter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-your-wacom-tablets-power-a-step-by-step-guide-to-solving-common-issues/"><u>Restoring Your Wacom Tablet's Power: A Step-by-Step Guide to Solving Common Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-complete-guide-eliminating-lag-and-lowering-ping-for-an-optimal-valorant-experience/"><u>Troubleshooting Complete Guide: Eliminating Lag and Lowering Ping for an Optimal VALORANT Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-guide-how-to-fix-amd-graphics-card-unrecognized-in-windows-10/"><u>Troubleshooting Guide: How to Fix 'AMD Graphics Card Unrecognized' In Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-guide-resolving-ethernet-connection-problems-in-windows-11-and-windows-7/"><u>Troubleshooting Guide: Resolving Ethernet Connection Problems in Windows 11 and Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-non-responsive-youtube-videos-effective-solutions-for-smooth-playback/"><u>Troubleshooting Non-Responsive YouTube Videos: Effective Solutions for Smooth Playback</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-your-acer-device-fixing-wifi-connection-issues-successfully/"><u>Troubleshooting Your Acer Device: Fixing WiFi Connection Issues Successfully</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ultimate-guide-resolving-flicker-issues-on-your-asus-notebook-display/"><u>Ultimate Guide: Resolving Flicker Issues on Your Asus Notebook Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-gtx-950-code-43-troubleshooting-guide-successfully-resolved/"><u>Windows 11 GTX 950 'Code 43' Troubleshooting Guide: Successfully Resolved</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>[New] 2024 Approved Fire-Browser Excellence Premier Facebook Downloaders & Addons for FireFox</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shape-shifting-photos-creating-effective-warps-and-curves-in-ps/"><u>[New] Shape-Shifting Photos Creating Effective Warps & Curves in PS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-skim-windows-file-compilation/"><u>[New] Swift Skim Windows File Compilation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-windows-wizardry-for-swift-image-editing/"><u>[Updated] 2024 Approved Window's Wizardry for Swift Image Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-virtual-conversations-a-google-meet-handbook/"><u>[Updated] Navigating Virtual Conversations A Google Meet Handbook</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-live-broadcast-over-the-internet-via-vlc-media-player/"><u>2024 Approved Mastering Live Broadcast Over the Internet via VLC Media Player</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-design-memes-effortlessly-kapwing-pro/"><u>In 2024, Design Memes Effortlessly - Kapwing Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 10 5G Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-discrepancy-in-windows-7-screen-reversal/"><u>Resolving Discrepancy in Windows 7 Screen Reversal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-inverted-view-in-windows-10-display/"><u>Resolving Inverted View in Windows 10 Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-7-inverted-display-issue/"><u>Resolving Windows 7 Inverted Display Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-sync-fixed-successfully/"><u>System Sync Fixed Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-glitch-resolved/"><u>Win11 Display Glitch Resolved</u></a></li>
 </ul></div>
 

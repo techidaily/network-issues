@@ -1,7 +1,7 @@
 ---
 title: "GPU Armory Strengthened: Fixed OpenGL Error"
-date: 2024-07-12T00:20:01.595Z
-updated: 2024-07-13T00:20:01.595Z
+date: 2024-11-18T16:01:07.889Z
+updated: 2024-11-24T07:03:38.920Z
 tags:
   - win11
   - win10
@@ -75,7 +75,15 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -84,6 +92,10 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -94,7 +106,15 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
@@ -115,8 +135,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +142,26 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-your-missing-wi-fi-adapter-in-windows-11/"><u>[FIXED] Your Missing Wi-Fi Adapter in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-igtv-status-strategies-for-viewership-surge-for-2024/"><u>[New] Elevate Your IGTV Status Strategies for Viewership Surge for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-tutorial-download-save-and-share-gifs-from-social-networks-like-fb/"><u>[New] In 2024, Step-by-Step Tutorial Download, Save, and Share GIFs From Social Networks Like FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price/"><u>[Updated] Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[Updated] Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-master-the-art-of-live-streaming-with-google-meet-on-youtube/"><u>2024 Approved Master the Art of Live Streaming with Google Meet on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blending-windows-10-with-nvidia-performance/"><u>Blending Windows 10 with NVIDIA Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-stability-rectifying-civ-5-problems/"><u>Enhancing Stability: Rectifying Civ 5 Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-display-dilemma-defeated-conquering-black-screen-blues-on-pc/"><u>Fortnite Display Dilemma Defeated: Conquering Black Screen Blues on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-crumble-to-climb-monster-world-crisis-averted/"><u>From Crumble to Climb: Monster World Crisis Averted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gl-anomaly-detected-and-resolved-by-nvidia-driver-fixes/"><u>GL Anomaly Detected & Resolved by NVIDIA Driver Fixes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/gptwindows-11mbrgpt/"><u>GPTへ簡単移行:Windows 11でのMBRとGPT切り替え手法（複数選択）</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719973974168-radeon-ready-all-good/"><u>Radeon Ready, All Good!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reformatting-win10-high-res-displays/"><u>Reformatting Win10 High-Res Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-operation-fallout-4-on-computer/"><u>Seamless Operation: Fallout 4 on Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-spark-20-proplus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Spark 20 Pro+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superior-hd-recording-systems/"><u>Superior HD Recording Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-future-of-video-on-facebook-focusing-on-shorter-formats-for-2024/"><u>The Future of Video on Facebook Focusing on Shorter Formats for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functional-amd-freesync-system/"><u>Troubleshooting Non-Functional AMD FreeSync System</u></a></li>
+</ul></div>
 

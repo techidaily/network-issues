@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Notorious GTX 950 'Code 43' Issue in Windows 11: A Step-by-Step Solution"
-date: 2024-11-10T19:40:31.996Z
-updated: 2024-11-15T02:10:17.746Z
+date: 2024-11-19T04:27:52.072Z
+updated: 2024-11-24T04:50:06.663Z
 tags:
   - win11
   - win10
@@ -53,9 +53,17 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -79,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -86,16 +98,11 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -104,29 +111,9 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -141,19 +128,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -181,18 +155,22 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolve-elusive-display-options/"><u>[Resolve] Elusive Display Options</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-ultimate-2023-tweet-video-roundup/"><u>[Updated] Ultimate 2023 Tweet Video Roundup</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ultimate-funny-photo-editor/"><u>[Updated] Ultimate Funny Photo Editor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-streaming-mic-selection-by-experts/"><u>2024'S Ultimate Guide to Streaming Mic Selection by Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95811738-9781944529178-anthropology-and-psychic-research/"><u>Anthropology and Psychic Research | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-free-up-space-by-deleting-cache-on-android/"><u>Effective Methods to Free Up Space by Deleting Cache on Android</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-interactive-display-malfunction-now-operational/"><u>Lenovo Interactive Display Malfunction - Now Operational</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-barrier-win10-and-nvidia/"><u>Overcoming Compatibility Barrier: Win10 & Nvidia</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-rage-of-ares-rigidities/"><u>Resolved: Rage of Ares Rigidities</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-size-adjustment-glitches-for-wide-view-windows/"><u>Solved Size Adjustment Glitches for Wide-View Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-for-inspirational-daily-living-visual-stories/"><u>Steps for Inspirational Daily Living Visual Stories</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-troubleshoot-ignored-nvidiaamd-card/"><u>Steps to Troubleshoot Ignored NVIDIA/AMD Card</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-restore-functionality-to-broken-hp-laptop-keyboard-effortlessly/"><u>Troubleshoot and Restore Functionality to Broken HP Laptop Keyboard – Effortlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-terrarias-richest-realms-5-best-gold-hunt-spots/"><u>[New] In 2024, Terraria's Richest Realms 5 Best Gold Hunt Spots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-podcast-streaming-trick-quick-play-upgrade/"><u>[Updated] 2024 Approved Top Podcast Streaming Trick - Quick Play Upgrade</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>2024 Approved From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-zooming-in-a-guide-to-tight-shots-in-microsoft-teams/"><u>2024 Approved Zooming In A Guide to Tight Shots in Microsoft Teams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/an-unknown-direct-x-error-has-occurred-on-league-of-legends-solved/"><u>An Unknown Direct X Error Has Occurred on League of Legends [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-screen-fix-for-fall-creators-release/"><u>Dark Screen Fix for Fall Creators' Release</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defrosting-techniques-reviving-your-frozen-macbook-air-easily/"><u>Defrosting Techniques: Reviving Your Frozen MacBook Air Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-v2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic V2</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-yuva-2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Yuva 2 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-screen-flickering-troubleshooting/"><u>Navigating Through Screen Flickering Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-code-1900101-during-windows-installation/"><u>Overcoming Obstacle Code 1900101 During Windows Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-youtubes-background-glitches-with-precision/"><u>Overcoming YouTube's Background Glitches with Precision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-overcome-pc-issues-in-world-of-warships-top-5-fixes/"><u>Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solutions-for-amds-eft-glitch/"><u>Swift Solutions for AMD's EFT Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-on-windows-11/"><u>Troubleshooting C1900101 on Windows 11</u></a></li>
 </ul></div>
 

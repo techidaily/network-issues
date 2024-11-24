@@ -1,7 +1,7 @@
 ---
 title: "Quick Recovery: Addressing Loot Issues in Legends"
-date: 2024-07-12T00:17:18.086Z
-updated: 2024-07-13T00:17:18.086Z
+date: 2024-11-20T07:40:11.438Z
+updated: 2024-11-23T20:15:39.633Z
 tags:
   - win11
   - win10
@@ -77,6 +77,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
@@ -84,6 +88,10 @@ _You can do it for free if you like, but it’s partly manual._
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -127,6 +135,10 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -149,6 +161,10 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
 #### Fix 6: Reinstall Apex Legends
@@ -160,6 +176,10 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -175,8 +195,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,6 +202,23 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-money-matters-choosing-best-stocks-yts-guide/"><u>[New] 2024 Approved Money Matters Choosing Best Stocks YTs Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-resolving-the-internet-gap-in-cod-cold-war/"><u>[SOLVED] Resolving the Internet Gap in CoD Cold War</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-snapchat-to-subscribers-jake-pauls-youtube-quest/"><u>[Updated] In 2024, Snapchat to Subscribers Jake Paul’s Youtube Quest</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-vision-companion-ranking-of-best-11-bridge-cams/"><u>[Updated] The Ultimate Vision Companion Ranking of Best 11 Bridge Cams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974211832-easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-thumbnails-work-in-the-ui/"><u>Ensuring Thumbnails Work in the UI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawless-video-playback-after-win10-enhancement/"><u>Flawless Video Playback After Win10 Enhancement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-elite-e-learning-hubs-an-alternate-to-udemys-world/"><u>In 2024, Elite E-Learning Hubs An Alternate to Udemy's World</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-failure-now-fully-operational/"><u>Lenovo Tap Failure, Now Fully Operational</u></a></li>
+<li><a href="https://driver-download.techidaily.com/liberalism-as-a-political-philosophy-had-won-out-over-its-rivals-communism-fascism/"><u>Liberalism as a Political Philosophy Had Won Out over Its Rivals (Communism, Fascism)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-your-user-directory-label-on-win11-os/"><u>Reimagine Your User Directory Label on Win11 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealed-how-to-locate-hidden-nvidia-gpu-in-device-manager/"><u>Revealed: How to Locate Hidden NVIDIA GPU in Device Manager</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-11-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 11 Making It Possible</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-configurations/"><u>Unlock Hidden Display Configurations</u></a></li>
+</ul></div>
 

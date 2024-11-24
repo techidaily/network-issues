@@ -1,7 +1,7 @@
 ---
 title: "Fix Quickly: AMD Graphic Flaw"
-date: 2024-11-13T18:03:31.779Z
-updated: 2024-11-14T18:37:30.307Z
+date: 2024-11-22T03:22:36.783Z
+updated: 2024-11-23T23:30:10.938Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Verify integrity of game files
@@ -72,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
@@ -84,26 +78,10 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -121,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After updating drivers, restart your PC and test the gameplay.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -128,10 +110,7 @@ After updating drivers, restart your PC and test the gameplay.
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair your PC
@@ -165,22 +144,15 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-cod-cold-war-restoring-online-playability/"><u>[FIXED] CoD Cold War - Restoring Online Playability</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-creator-to-critic-evaluating-video-value-across-platforms/"><u>[New] 2024 Approved From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-your-youtube-video-bugs-green-screen-edition/"><u>Clearing Up Your YouTube Video Bugs: Green Screen Edition</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comprendre-les-raisons-dune-vitesse-reduite-lors-du-clonage-de-votre-disque-dur/"><u>Comprendre Les Raisons D'une Vitesse Réduite Lors Du Clonage De Votre Disque Dur.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciphering-hulu-worthiness-key-benefits/"><u>Deciphering Hulu Worthiness - Key Benefits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-glitch-repair-complete/"><u>Graphics Glitch Repair Complete</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-itel-a70-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Itel A70 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-v30t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme V30T to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-90-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 90 Pro Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/international-collaboration-is-crucial-for-biosecurity-policy-effectiveness-due-to-the-global-nature-of-health-risks/"><u>International Collaboration Is Crucial for Biosecurity Policy Effectiveness Due to the Global Nature of Health Risks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-inverted-image-feature-from-w11/"><u>Removing Inverted Image Feature From W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-display-settings-save-issue/"><u>Resolving Display Settings Save Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-black-screen-phenomenon-in-portables/"><u>Reversing Black Screen Phenomenon in Portables</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-screen-resizing-quirks-in-window-10/"><u>Tackled Screen Resizing Quirks in Window 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-and-qualcomm-adapter-wireless-unity/"><u>Windows 10 & Qualcomm Adapter: Wireless Unity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfect-your-stories-top-6-apps-for-android-and-iphone-snap-editing/"><u>[New] In 2024, Perfect Your Stories Top 6 Apps for Android and iPhone Snap Editing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-ranked-spots-for-boosting-youtube-videos-for-2024/"><u>[New] Top-Ranked Spots for Boosting YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-your-visual-language-with-these-youtube-theme-makers/"><u>[New] Unleash Your Visual Language with These YouTube Theme Makers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-missing-lan-card-on-win10/"><u>[RESOLVED] Missing LAN Card on Win10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quintessential-guide-to-powerful-quadcopter-engines/"><u>[Updated] The Quintessential Guide to Powerful Quadcopter Engines</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-fatal-errors-radeon-r9-and-windows-11/"><u>Perfecting Fatal Errors: Radeon R9 & Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/risky-business-buying-non-real-youtube-supporters-for-2024/"><u>Risky Business Buying Non-Real YouTube Supporters for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-crash-conundrum-the-ultimate-fix-guide-for-pc-gaming/"><u>RTX Crash Conundrum: The Ultimate Fix Guide for PC Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-stabilization-correct-loot-errors-quickly/"><u>Swift Stabilization: Correct Loot Errors Quickly</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

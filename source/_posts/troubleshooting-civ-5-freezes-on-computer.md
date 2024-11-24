@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Civ 5 Freezes on Computer
-date: 2024-11-11T01:50:05.473Z
-updated: 2024-11-15T01:58:26.512Z
+date: 2024-11-21T16:00:22.051Z
+updated: 2024-11-24T10:51:07.599Z
 tags:
   - win11
   - win10
@@ -39,10 +39,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -58,21 +66,11 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
@@ -88,7 +86,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -96,22 +102,8 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -136,21 +128,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/solution-found-windows-1110-no-amd-adapter-error/"><u>[SOLUTION FOUND] Windows 11/10 No AMD Adapter Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-simple-screen-recorder-for-windows-11-download/"><u>[Updated] 2024 Approved Simple Screen Recorder for Windows 11 Download</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-starting-off-determining-your-creative-passion/"><u>[Updated] Starting Off Determining Your Creative Passion</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-11x-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 11X 5G</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-in-depth-look-at-facetune-a-photographers-best-friend/"><u>2024 Approved In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-shadow-surge-and-sun-sweep-encounter/"><u>2024 Approved Shadow Surge and Sun Sweep Encounter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clear-faults-in-dormant-gfx-system/"><u>Clear Faults in Dormant GFX System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/converte-3gp-para-wma-online-de-graca-movavi/"><u>Converte 3GP Para WMA Online De Graça - Movavi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-driver-revival-no-lingering-issues/"><u>Display Driver Revival: No Lingering Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gained-ground-in-nvidia-admin-interface/"><u>Gained Ground in Nvidia Admin Interface</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-correction-error-43-overcome/"><u>GPU Correction - Error 43 Overcome</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-12r-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus 12R Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-atheros-qca61x4-driver-compatibility-in-win10/"><u>Qualcomm Atheros QCA61x4 Driver Compatibility in Win10</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-long-distance-wifi-router-picks/"><u>Top Long-Distance WiFi Router Picks</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tutoriel-complet-syncing-le-stockage-onedrive-avec-votre-disque-dur-extern-afin-dassurer-la-securite-de-vos-donnees/"><u>Tutoriel Complet: Syncing Le Stockage OneDrive Avec Votre Disque Dur Extern Afin D'Assurer La Sécurité De Vos Données</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winspeed-boost-for-laggy-wifi-on-win/"><u>WinSpeed Boost for Laggy WiFi on WIN</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/basic-understanding-of-animate-graphic-content-for-2024/"><u>Basic Understanding of Animate Graphic Content for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-x-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guiding-users-through-screen-recovery-on-laptops/"><u>Guiding Users Through Screen Recovery on Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-fix-for-smooth-video-viewing/"><u>Immediate Fix for Smooth Video Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smartwatch-face-off-can-the-samsung-galaxy-watch-ultra-outshine-the-apple-watch-ultra-tech-experts-review/"><u>Smartwatch Face-Off: Can the Samsung Galaxy Watch Ultra Outshine the Apple Watch Ultra? | Tech Experts' Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlined-guide-how-to-forget-your-computers-graphic-driver/"><u>Streamlined Guide: How to Forget Your Computer's Graphic Driver</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pathway-to-peak-gaming-optimizing-your-ps4/"><u>The Pathway to Peak Gaming: Optimizing Your PS4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-outils-de-gravure-de-cds-libres-trouvez-le-moins-cher/"><u>Top 5 Outils De Gravure De CDs Libres : Trouvez Le Moins Cher</u></a></li>
 </ul></div>
 

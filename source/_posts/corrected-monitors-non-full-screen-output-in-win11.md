@@ -1,7 +1,7 @@
 ---
 title: Corrected Monitor's Non-Full Screen Output in Win11
-date: 2024-07-12T00:19:53.831Z
-updated: 2024-07-13T00:19:53.831Z
+date: 2024-11-21T01:14:03.140Z
+updated: 2024-11-24T09:57:14.289Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -54,13 +58,25 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can switch to different resolutions and see if it resolves your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
@@ -110,6 +126,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
@@ -126,6 +146,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
@@ -133,6 +157,10 @@ To do so, follow these steps:
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
@@ -163,8 +191,6 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,6 +198,23 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-lost-network-card-on-windows-10-desktop/"><u>[FIXED] Lost Network Card on Windows 10 Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-instagram-video-and-photo-downloads-guide/"><u>[New] Essential Instagram Video & Photo Downloads Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essential-steps-for-forming-a-facebook-profile/"><u>[Updated] 2024 Approved The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-radio-dramaturgys-finest-works/"><u>[Updated] Radio Dramaturgy's Finest Works</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-audio-artistry-in-visual-formats/"><u>2024 Approved Bridging Audio Artistry in Visual Formats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a14-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A14 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-lenovo-screen-brightness-loss/"><u>Correcting Lenovo Screen Brightness Loss</u></a></li>
+<li><a href="https://win-updates.techidaily.com/fehlt-im-adressbuch-entdeckung-der-besten-8-behebungsstrategien-fur-iphones-unterstutzt-durch-fonebackup/"><u>Fehlt Im Adressbuch? Entdeckung Der Besten 8 Behebungsstrategien Für iPhones, Unterstützt Durch FoneBackup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-nightmare-nvidias-rtx-3080-fix-guide/"><u>Gaming Nightmare: Nvidia's RTX 3080 Fix-Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hack-free-gaming-quick-fix-for-legends-crash/"><u>Hack-Free Gaming: Quick Fix for Legends Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/non-responsive-lenovo-touchscreen-resolved/"><u>Non-Responsive Lenovo Touchscreen - Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-quirk-found-and-resolved-in-nvidia-graphics/"><u>OpenGL Quirk Found & Resolved in Nvidia Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-guide-effortlessly-downloading-and-setting-up-ios-version-17/"><u>Seamless Guide: Effortlessly Downloading and Setting Up iOS Version 17</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-story-overcoming-amds-windows-10-driver-load-hurdle/"><u>Success Story: Overcoming AMD's Windows 10 Driver Load Hurdle</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-connect-on-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Connect on Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

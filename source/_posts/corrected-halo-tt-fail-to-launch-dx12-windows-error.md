@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error"
-date: 2024-11-08T20:06:07.535Z
-updated: 2024-11-14T23:22:24.752Z
+date: 2024-11-19T18:18:30.197Z
+updated: 2024-11-24T02:08:58.630Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -75,6 +68,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -111,16 +108,7 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
@@ -130,19 +118,13 @@ You need to check 2 elements:
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
@@ -170,15 +152,12 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -199,20 +178,18 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-step-by-step-guide-share-youtube-vids-with-fb-friends-for-2024/"><u>[Updated] A Step-by-Step Guide Share YouTube Vids with FB Friends for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-music-management-made-simple-in-inshot/"><u>[Updated] Music Management Made Simple in InShot</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/accelerate-your-tunes-top-phone-apps-reviewed-for-2024/"><u>Accelerate Your Tunes Top Phone Apps Reviewed for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrease-extra-large-win10-screens/"><u>Decrease Extra-Large Win10 Screens</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-mac-snippet-apps-a-compilation/"><u>Essential Mac Snippet Apps A Compilation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-recover-lost-steam-files-and-regain-your-gaming-permissions/"><u>Guide to Recover Lost Steam Files & Regain Your Gaming Permissions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kingdom-come-caught-in-queue/"><u>Kingdom Come Caught in Queue</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-drops-the-fall-of-facial-recognition-with-fb/"><u>Meta Drops: The Fall of Facial Recognition with FB</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlined-com-response-on-os-x/"><u>Streamlined COM Response on OS X</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-updating-stuck-systems-mastering-windows-11-upgrades-and-installations/"><u>Successfully Updating Stuck Systems: Mastering Windows 11 Upgrades and Installations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-cant-find-wi-fi-driver-solved/"><u>Win10 Can't Find Wi-Fi Driver, Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-screen-spacing-simplified-and-smoothed/"><u>Win11: Screen Spacing Simplified and Smoothed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-update-features-enhanced-graphics-for-amd-hd-6950/"><u>Windows 11 Update Features Enhanced Graphics for AMD HD 6950</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-ui-freeze-up-graphics-fix-pending/"><u>Windows UI Freeze-Up, Graphics Fix (Pending)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-crafting-a-jujutsu-kaisen-tiktok-challenge/"><u>[New] 2024 Approved Crafting a Jujutsu Kaisen TikTok Challenge</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-video-capture-a-new-eras-insight/"><u>[New] Digital Video Capture A New Era's Insight</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mac-users-choice-top-screen-recorder-picks/"><u>[New] In 2024, Mac Users' Choice Top Screen Recorder Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f23-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F23 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/final-stroke-on-interoperability-woes/"><u>Final Stroke on Interoperability Woes</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-retrieve-lost-data-in-windows-10-with-the-built-in-undelete-feature/"><u>How to Retrieve Lost Data in Windows 10 with the Built-In Undelete Feature</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-play-7t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Play 7T?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-music-magic-best-free-tools-for-wav-conversion/"><u>In 2024, YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-lenovo-visual-tremors/"><u>Mitigating Lenovo Visual Tremors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-steps-to-correct-aspect-ratio-on-pc/"><u>Simple Steps to Correct Aspect Ratio on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubled-gpus-resolving-windows-minecraft-hangs/"><u>Troubled GPUs: Resolving Windows Minecraft Hangs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tweak-screen-setup-in-upgraded-w11-os/"><u>Tweak Screen Setup in Upgraded W11 OS</u></a></li>
 </ul></div>
 

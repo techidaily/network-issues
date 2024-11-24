@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Rainbow Six Siege Patch Fail - DX12 Error"
-date: 2024-11-13T19:02:09.383Z
-updated: 2024-11-14T17:12:16.846Z
+date: 2024-11-18T20:14:39.256Z
+updated: 2024-11-24T02:25:42.469Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -69,29 +77,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -129,20 +121,11 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
-If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 ### Fix 4: Edit your file name
 
@@ -155,13 +138,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -177,16 +153,7 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -211,20 +178,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-vsg-screen-snapshots-review-thorough-examination/"><u>[New] In 2024, VSG Screen Snapshots Review Thorough Examination</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>[New] The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-learn-how-to-mute-instagram-recommendations/"><u>[Updated] In 2024, Learn How to Mute Instagram Recommendations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cr2jpg/"><u>免費のオンラインでCR2画像をJPGに簡単変換 - モバヴァイ</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-failed-wingdx-protocol/"><u>Addressing Failed WinGDX Protocol</u></a></li>
-<li><a href="https://network-issues.techidaily.com/alleviate-monitor-flaws-and-errors/"><u>Alleviate Monitor Flaws and Errors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/find-hidden-fb-watch-video-tile/"><u>Find Hidden FB Watch Video Tile</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/gunners-gratitude-discovering-our-top-7-shooter-games/"><u>Gunner's Gratitude Discovering Our Top 7 Shooter Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hdmi-cable-failure-laptop-ignored-by-tv/"><u>HDMI Cable Failure: Laptop Ignored by TV</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improved-windows-image-crispness/"><u>Improved: Windows Image Crispness</u></a></li>
-<li><a href="https://fox-links.techidaily.com/incorporating-speech-recognition-into-slides-for-2024/"><u>Incorporating Speech Recognition Into Slides for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/sonic-speed-stalled-by-steady-stream/"><u>Sonic Speed Stalled by Steady Stream</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-quelling-acer-screen-phosphor-flashes/"><u>Steps for Quelling Acer Screen Phosphor Flashes</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-integrating-text-overlays-into-social-media-streaming-for-2024/"><u>[New] Integrating Text Overlays Into Social Media Streaming for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pinnacle-spotlight-tapes/"><u>[Updated] 2024 Approved Pinnacle Spotlight Tapes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-16-unique-metaverse-scenarios-demonstrating-vrs-impact/"><u>2024 Approved 16 Unique Metaverse Scenarios Demonstrating VR's Impact</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-the-art-of-restoring-past-reddit-articles/"><u>2024 Approved Mastering the Art of Restoring Past Reddit Articles</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-quick-guide-capturing-video-and-audio-from-youtube/"><u>2024 Approved Quick Guide Capturing Video & Audio From YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/black-screen-after-installing-graphics-card-driver/"><u>Black Screen After Installing Graphics Card Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehending-the-scope-of-4k-uhd-display/"><u>Comprehending the Scope of 4K UHD Display</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/convertendo-sem-custo-aiff-em-ogg-com-o-servico-on-line-gratuito-da-movavi/"><u>Convertendo Sem Custo: AIFF Em OGG Com O Serviço On-Line Gratuito Da Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-configuration-setting-up-your-intel-dual-band-ac-3160-wifi-driver-today/"><u>Effortless Configuration: Setting Up Your Intel Dual Band AC 3160 WiFi Driver Today</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-roblox-playback-on-desktop/"><u>Enhance Roblox Playback on Desktop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/render-failure-no-gpu-found/"><u>Render Failure: No GPU Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-wi-fi-integration-guide-from-hardware-to-os-compatibility/"><u>Seamless Wi-Fi Integration Guide: From Hardware to OS Compatibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-the-landscape-the-five-key-upgrades-needed-for-android-to-outshine-ios-zdnet-insights/"><u>Transforming the Landscape: The Five Key Upgrades Needed for Android to Outshine iOS | ZDNET Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-windows-graphics-setup-for-new-intel-hd-driver/"><u>Updating Windows Graphics Setup for New Intel HD Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrading-display-quality-in-windows-10-easier/"><u>Upgrading Display Quality in Windows 10 Easier</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-mastery-quick-and-easy-fixes-for-cameras-in-trouble/"><u>Zoom Mastery: Quick and Easy Fixes for Cameras in Trouble</u></a></li>
 </ul></div>
 

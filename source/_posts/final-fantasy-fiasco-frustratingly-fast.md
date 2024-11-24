@@ -1,7 +1,7 @@
 ---
 title: "Final Fantasy Fiasco: Frustratingly Fast"
-date: 2024-11-08T01:32:00.035Z
-updated: 2024-11-14T22:10:17.813Z
+date: 2024-11-22T03:44:04.013Z
+updated: 2024-11-23T18:20:45.850Z
 tags:
   - win11
   - win10
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the server status
 
  To narrow down the source of the problem, the first thing you need to do is to check the [Epic Games status page](https://status.epicgames.com/) .
@@ -53,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use a wired connection
 
  To download large files efficiently, a wired connection is preferable over a wireless connection to the internet. Wireless connections are most susceptible to interference and aren’t as consistent as wired connections. Therefore, if possible, use a wired connection.
@@ -60,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  However, if you are not able to opt for a wired connection, check out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disconnect other devices
 
@@ -70,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  When it’s all done, resume your download and check if it helps you fix the issue. If you’re still experiencing slow download speed or the download is stuck at a certain percent, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your network adapter driver
 
@@ -89,6 +88,10 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
@@ -110,13 +113,6 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -132,18 +128,20 @@ Here we recommend using Google DNS:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -151,28 +149,12 @@ Here we recommend using Google DNS:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
@@ -185,16 +167,13 @@ Here’s how to do this:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
 2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **[HTTP]**
 **HttpTimeout=10**
@@ -208,13 +187,6 @@ Here’s how to do this:
 **RetryTime=0.5**
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Press**Ctrl + S** to save the edits.
 
@@ -230,6 +202,10 @@ When it’s all done, resume your download and it should be faster.
 2. Click the profile icon on the top right corner and then Settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
@@ -247,13 +223,6 @@ When it’s all done, resume your download and it should be faster.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -269,20 +238,24 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-caption-crusaders-top-10-writing-tools-for-image-capture-iosandroid/"><u>[New] 2024 Approved Caption Crusaders Top 10 Writing Tools for Image Capture (iOS/Android)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-prime-video-streamers-camera-picks-for-quality-content/"><u>[Updated] 2024 Approved Prime Video Streamers' Camera Picks for Quality Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>2024 Approved Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://win-community.techidaily.com/beginners-guide-restoring-your-system-with-windows-11-recovery-environment/"><u>Beginner's Guide: Restoring Your System with Windows 11 Recovery Environment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cursor-stuck-on-win10-blank-screens/"><u>Cursor Stuck on Win10 Blank Screens</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/effective-ways-to-watch-multiple-youtube-videos-at-one-time/"><u>Effective Ways to Watch Multiple YouTube Videos at One Time</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fatal-blackout-after-driver-switch/"><u>Fatal Blackout After Driver Switch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-11-on-monitors/"><u>Fixing Non-Fullscreen Windows 11 on Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/maximize-display-quality-update-to-the-newest-intel-hd-graphics-driver-for-w10/"><u>Maximize Display Quality: Update to the Newest Intel HD Graphics Driver for W10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/passare-da-flac-a-wma-online-senza-costi-effettoconvertitore-facile-e-gratuito/"><u>Passare Da FLAC a WMA Online Senza Costi - EffettoConvertitore Facile E Gratuito</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-reversed-computer-screen-angle/"><u>Rectifying Reversed Computer Screen Angle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/renderingerror-in-wingfx-interface-fix-applied/"><u>RenderingError in WinGFX Interface (Fix Applied)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sony-ps4-pro-evaluation-experience-ultra-hd-graphics-on-the-next-gen-console/"><u>Sony PS4 Pro Evaluation: Experience Ultra HD Graphics on the Next-Gen Console</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streaming-without-stumbles-in-upgraded-windows-10/"><u>Streaming without Stumbles in Upgraded Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-the-secrets-to-fixing-your-iphone-13s-top-6-most-recurring-issues/"><u>Uncover the Secrets to Fixing Your iPhone 13'S Top 6 Most Recurring Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-size-independent-strategies-for-securing-sponsors/"><u>[New] 2024 Approved Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhancing-your-memories-bank-with-snapchats-images/"><u>[New] 2024 Approved Enhancing Your Memories Bank with Snapchat's Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box-for-2024/"><u>[New] Become a Social Butterfly Engage in FB Live on Your Roku Box for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>[New] In 2024, Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-epic-games-download-slow-download-stuck/"><u>[SOLVED] Epic Games Download Slow /Download Stuck</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fallout-4-crashing-on-pc-easily/"><u>[Solved] Fallout 4 Crashing on PC [Easily]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-effective-ways-for-home-based-podcasting/"><u>[Updated] Effective Ways for Home-Based Podcasting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-microphone-data-review-tips/"><u>[Updated] Microphone Data Review Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/academic-research-revolutionized-with-copernics-desktop-search-tools-for-scholars/"><u>Academic Research Revolutionized with Copernic's Desktop Search Tools for Scholars</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-overseen-graphics-setup/"><u>Correct Overseen Graphics Setup</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-not-your-cup-of-tea-discover-these-10-alternative-video-editing-tools-for-2024/"><u>FCPX Not Your Cup of Tea? Discover These 10 Alternative Video Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-easy-to-use-screen-recording-tools-for-windows-10/"><u>Free, Easy-To-Use Screen Recording Tools For Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-triumph-crashed-game-repaired-swiftly/"><u>Gaming Triumph: Crashed Game Repaired Swiftly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-compatibility-success-for-nvidia-install/"><u>Hardware Compatibility Success for NVIDIA Install</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-7-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 7 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/install-completed-without-nvidia-errors/"><u>Install Completed Without NVIDIA Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-graphics-card-match-overwatch-update-fixed-issue/"><u>No Graphics Card Match - Overwatch Update Fixed Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-beast-resolving-fallout-4-pc-problems/"><u>Taming the Beast: Resolving Fallout 4 PC Problems</u></a></li>
 </ul></div>
 

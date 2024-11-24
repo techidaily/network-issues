@@ -1,7 +1,7 @@
 ---
 title: Rectified Error Type 22, GraphicsDriver
-date: 2024-11-12T02:00:46.352Z
-updated: 2024-11-14T17:32:46.781Z
+date: 2024-11-16T21:27:18.660Z
+updated: 2024-11-24T04:29:18.767Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -48,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -61,10 +58,7 @@ Be careful you don’t mistype, or press the wrong keys!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
@@ -73,6 +67,10 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
@@ -80,21 +78,11 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -112,6 +100,10 @@ Example – CMOS battery on a laptop
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
@@ -137,24 +129,18 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-creating-an-impactful-entry-for-your-podcast/"><u>[New] 2024 Approved Creating an Impactful Entry for Your Podcast</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-from-live-streaming-to-lively-gifs-harnessing-vimeo-content/"><u>[Updated] From Live Streaming to Lively Gifs Harnessing Vimeo Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-explore-5-pro-game-record-methods-in-windows-11/"><u>[Updated] In 2024, Explore 5 Pro Game Record Methods in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>[Updated] Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-resolutionrefiner-x1-high-res-video-enhancer/"><u>[Updated] ResolutionRefiner X1 - High-Res Video Enhancer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-opengl-error-nvidia-graphics-armoried/"><u>Debugged OpenGL Error: NVIDIA Graphics Armoried</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrease-delay-duration-in-pc-based-gaming/"><u>Decrease Delay Duration in PC-Based Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-screen-flicker-with-easy-fixes/"><u>Eliminate Screen Flicker with Easy Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-fixed-nvidia-related-stoppage-in-windows-os/"><u>Error Fixed: Nvidia-Related Stoppage in Windows OS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/experience-advanced-note-organization-on-mematic/"><u>Experience Advanced Note Organization on Mematic</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-nvidiaintel-graphic-card-compatibility-issue/"><u>Fixing Windows 10: NVIDIA/Intel Graphic Card Compatibility Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-resolution-achieved-post-error-normalization/"><u>Graphic Resolution Achieved: Post-Error Normalization</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-camon-20-pro-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Camon 20 Pro 5G Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimal-screen-resolution-fix-available-windows-10/"><u>Optimal Screen Resolution: Fix Available, Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-the-dark-windows-11-issue/"><u>Overcoming the Dark Windows 11 Issue</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/loggers-guide-to-choosing-camgear-the-top-9-innovations-for-2024/"><u>The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win-updates-microsofts-drive-fixed-in-bd-version/"><u>Win Updates: Microsoft's DRIVE Fixed in BD Version</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-church-streaming-services-for-the-digital-age/"><u>[New] Top Church Streaming Services for the Digital Age</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-the-art-of-film-preservation-in-tech-era/"><u>[New] Unlocking the Art of Film Preservation in Tech Era</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-three-tactics-for-maximizing-zoom-transcoding/"><u>Best Three Tactics for Maximizing Zoom Transcoding</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-out-sims-4-darkness-dilemma/"><u>Clear Out Sims 4 Darkness Dilemma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/downsize-win10-screen-size-issue/"><u>Downsize Win10 Screen Size Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easeful-correction-unused-nvidia-monitor/"><u>Easeful Correction: Unused NVIDIA Monitor</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-asus-rog-phone-7-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Asus ROG Phone 7 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-amd-radeon-r9-problems-on-windows-11/"><u>Resolving AMD Radeon R9 Problems on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-11-video-quakes/"><u>Resolving Windows 11 Video Quakes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-methods-xp-vista-win7-to-remove-graphic-drivers/"><u>Swift Methods: XP, Vista, Win7 to Remove Graphic Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-razr-40-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Razr 40 FRP Bypass</u></a></li>
 </ul></div>
 

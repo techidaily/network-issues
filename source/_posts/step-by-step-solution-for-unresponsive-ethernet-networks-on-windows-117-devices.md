@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2024-11-11T18:13:35.530Z
-updated: 2024-11-15T00:21:44.578Z
+date: 2024-11-18T18:37:11.321Z
+updated: 2024-11-24T07:19:09.144Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -57,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -79,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -92,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -107,14 +105,11 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 ##  Method 6: Run network commands
 
@@ -131,10 +126,7 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -142,13 +134,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -171,20 +156,19 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-rainbow-six-siege-patch-fail-dx12-error/"><u>[FIXED] Rainbow Six Siege Patch Fail - DX12 Error</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-full-potential-watching-facebook-videos-on-your-apple-devices/"><u>[New] 2024 Approved Unlocking Full Potential Watching Facebook Videos on Your Apple Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-insider-guide-elevating-your-instagram-imagery/"><u>[Updated] In 2024, The Insider Guide Elevating Your Instagram Imagery</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>[Updated] The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-snagting-smiles-on-iphones-and-androids-from-twitters-timeline/"><u>2024 Approved Snagting Smiles on iPhones & Androids From Twitter's Timeline</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-walkthrough-of-google-docs-text-conversion/"><u>2024 Approved Step-by-Step Walkthrough of Google Docs Text Conversion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-rapid-blinking-behavior-in-hp-monitors/"><u>Correcting Rapid Blinking Behavior in HP Monitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-the-location-of-your-onedrive-folder-in-windows-11/"><u>How to Change the Location of Your OneDrive Folder in Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/keep-your-iphone-video-steady-three-effective-stabilization-tips-for-2024/"><u>Keep Your iPhone Video Steady Three Effective Stabilization Tips for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-p55-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel P55</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-inverted-display-issue-in-windows-11/"><u>Resolving Inverted Display Issue in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-screen-correction-for-windows-10/"><u>Reverse Screen Correction for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-hidden-gpus-pc-detection-strategies/"><u>Unveiling Hidden GPUs: PC Detection Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wow-issue-fix-guide-problem-51900319/"><u>WOW Issue Fix Guide: Problem #51900319</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-trailer-by-filmora-for-2024/"><u>[New] How to Make a YouTube Trailer by Filmora for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unleashing-youtube-profits-non-ad-revenue-techniques-for-growth/"><u>[New] In 2024, Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-technophiles-manual-on-keeping-a-digital-log-of-live-tv/"><u>[Updated] A Technophile's Manual on Keeping a Digital Log of Live TV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-cards-without-directx-support/"><u>AMD Cards Without DirectX Support</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-no-more-deciphering-and-fixing-minecrafts-infamous-exit-code-0/"><u>Error No More: Deciphering and Fixing Minecraft's Infamous 'Exit Code 0'</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-dupliquer-le-systeme-dexploitation-windows-1011-sur-supports-de-stockage-disque-dur-ou-ssd/"><u>Guide Facile Pour Dupliquer Le Système D'Exploitation Windows 10/11 Sur Supports De Stockage Disque Dur Ou SSD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot/"><u>In 2024, 8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-psd-transparency-tricks/"><u>In 2024, Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/keeping-windows-intel-graphic-pace-setter/"><u>Keeping Windows Intel Graphic Pace-Setter</u></a></li>
+<li><a href="https://article-tips.techidaily.com/snowdrift-scribes-celebrating-beijings-olympic-spotlight-for-2024/"><u>Snowdrift Scribes Celebrating Beijing's Olympic Spotlight for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-lenovo-display-glitches/"><u>Tackling Lenovo Display Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-treasure-hunt-unlock-free-lifetime-windows-11-from-black-fridays-best-price/"><u>Tech Enthusiasts’ Treasure Hunt: Unlock Free Lifetime Windows 11 From Black Friday's Best Price</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-cant-find-wi-fi-driver-solved/"><u>Win10 Can't Find Wi-Fi Driver, Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-ui-freeze-up-graphics-fix-pending/"><u>Windows UI Freeze-Up, Graphics Fix (Pending)</u></a></li>
 </ul></div>
 

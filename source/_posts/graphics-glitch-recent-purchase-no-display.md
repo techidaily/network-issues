@@ -1,7 +1,7 @@
 ---
 title: "Graphics Glitch: Recent Purchase No Display"
-date: 2024-07-12T00:20:54.036Z
-updated: 2024-07-13T00:20:54.036Z
+date: 2024-11-17T16:42:58.488Z
+updated: 2024-11-23T17:23:50.518Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 ## Graphics Glitch: Recent Purchase No Display
 
  If your new graphics card has no display or all you see is a black screen, no fret, it’s probably a simple connection issue. We have here a troubleshooting process that’ll help to identify the culprit to your new GPU no display issue. So if this is also bothering you, look no further and read to get this problem sorted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for the new graphics card black screen or no display problem
 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. See if an additional power supply is required
 
  If there’s still no display on your screen when you’ve checked the cable and the PCIe slot connection, please see if the new GPU requires an additional power supply.
@@ -60,6 +68,10 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -75,6 +87,10 @@ If this is not the problem, please move on.
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -92,6 +108,10 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -134,9 +154,18 @@ Here are the things you should pay extra attention to:
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -158,8 +187,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +194,20 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/recovered-state-after-glitch-nvidia-shows-stability/"><u>[Recovered State] After Glitch, Nvidia Shows Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-for-gpu-driver-22/"><u>Armored Fix for GPU DRIVER #22</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/changing-the-soundtrack-of-conversation-whatsapp-ringtones-for-ios-android-for-2024/"><u>Changing the Soundtrack of Conversation WhatsApp Ringtones for iOS, Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-curated-selection-of-the-best-note-taking-tools-for-2pertise-and-productivity/"><u>Explore Our Curated Selection of the Best Note-Taking Tools for 2Pertise and Productivity !</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawless-streams-instant-fix-needed/"><u>Flawless Streams, Instant Fix Needed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-sharing-your-gaming-achievements-on-the-ps5/"><u>Guide: Sharing Your Gaming Achievements on the PS5</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970597722-how-to-seamlessly-download-and-update-scansnap-driver-in-minutes/"><u>How to Seamlessly Download & Update ScanSnap Driver in Minutes!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-tackle-c1900101-during-win11-setup-process/"><u>How To Tackle C1900101 During Win11 Setup Process</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-reno-10-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Reno 10 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-text-manipulation-microsoft-excels-new-feature-supports-regular-expressions/"><u>Mastering Text Manipulation: Microsoft Excel's New Feature Supports Regular Expressions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/patched-erroneous-windows-graphics-link/"><u>Patched Erroneous Windows Graphics Link</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-flicker-phenomenon-in-pro-7/"><u>Quelling Flicker Phenomenon in Pro 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-for-resolving-werfaultexe-malfunction-in-windows/"><u>Top 6 Solutions for Resolving werfault.exe Malfunction in Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Graphics Card Black Screen or No Display
-date: 2024-11-11T19:59:37.074Z
-updated: 2024-11-14T16:50:34.160Z
+date: 2024-11-20T19:14:23.871Z
+updated: 2024-11-24T04:52:06.490Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
  If your new graphics card has no display or all you see is a black screen, no fret, it’s probably a simple connection issue. We have here a troubleshooting process that’ll help to identify the culprit to your new GPU no display issue. So if this is also bothering you, look no further and read to get this problem sorted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for the new graphics card black screen or no display problem
 
  The following troubleshooting process is listed by difficulty: so you should start from the top, and work your way down until you find the one that does the trick to fix or pinpoint the culprit to the new GPU no display problem for you.
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the cable and PCIe connections
@@ -60,10 +61,7 @@ If this is not the problem, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ditch any converter
@@ -73,13 +71,6 @@ If this is not the problem, please move on.
  If your new graphics card can’t connect to your monitor without a converter, please buy a new cable instead.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Boot with the integrated display card
 
@@ -116,19 +107,6 @@ If this is not the problem, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -138,13 +116,6 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -158,6 +129,10 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -169,14 +144,16 @@ Here are the things you should pay extra attention to:
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -186,20 +163,12 @@ Here are the things you should pay extra attention to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
-7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
 
@@ -232,22 +201,24 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-disconnecting-woes-cod-cold-wars-offline-issue/"><u>[FIXED] Disconnecting Woes: CoD Cold War's Offline Issue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[New] In 2024, Drive More Watch Time, Not Churn Discover the Top 6 Techniques on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mirthmaker-join-and-start-your-humor-storytelling/"><u>[New] MirthMaker Join & Start Your Humor Storytelling</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-setting-up-for-success-on-youtube-from-newbie-to-noteworthy-net-gain/"><u>[Updated] 2024 Approved Setting Up for Success on Youtube From Newbie to Noteworthy Net Gain</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-ai-photo-enhancement-suite/"><u>[Updated] Cutting-Edge AI Photo Enhancement Suite</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accessing-display-settings-on-nvidia-graphics/"><u>Accessing Display Settings on NVIDIA Graphics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beat-the-streets-essential-strategies-for-success-in-subway-surfers/"><u>Beat the Streets: Essential Strategies for Success in Subway Surfers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ceasing-windows-10-stuttering-display/"><u>Ceasing Windows 10 Stuttering Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dimming-to-stable-dell-screen-fixes/"><u>Dimming to Stable: Dell Screen Fixes</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/discover-top-seo-tactics-at-the-social-media-strategies-summit-in-anaheim-featuring-massmail-innovations/"><u>Discover Top SEO Tactics at The Social Media Strategies Summit in Anaheim - Featuring MassMail Innovations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exclusive-solutions-for-nvidias-rtx-3080-crashes/"><u>Exclusive Solutions for NVIDIA's RTX 3080 Crashes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-x50i-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor X50i without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-internal-display-flutter/"><u>Overcoming Internal Display Flutter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-screenscape-regain-normal-view/"><u>Reverse Screenscape: Regain Normal View</u></a></li>
-<li><a href="https://network-issues.techidaily.com/setting-adjustments-stored-effectively/"><u>Setting Adjustments Stored Effectively</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-removing-dvd-region-restrictions-for-global-playback/"><u>Step-by-Step Tutorial on Removing DVD Region Restrictions for Global Playback</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-command-your-cloud-data-leading-providers-to-watch/"><u>[New] Command Your Cloud Data Leading Providers to Watch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-elusive-display-options/"><u>[Resolve] Elusive Display Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-most-popular-tweets-top-ten-hits-list/"><u>[Updated] 2024 Approved Most Popular Tweets Top Ten Hits List</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/5aac5l2v5bcg5lia5yplusw5asw572u56gs55uy5ymv5pys5yiw5yplusm5lia5yplusw5asw572u56gs55uy55qe5a6m5pw05oyh5y2x/"><u>如何将一台外置硬盘副本到另一台外置硬盘的完整指南</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comparing-data-protection-titans-is-aomei-backupper-or-macrium-reflect-the-better-choice-for-your-computers-safety/"><u>Comparing Data Protection Titans: Is AOMEI Backupper or Macrium Reflect the Better Choice for Your Computer's Safety?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-tips-effective-screenrec-usage-on-laptops/"><u>Essential Tips Effective ScreenRec Usage on Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-r9-driver-issues-for-enhanced-performance-in-w10/"><u>Fixing R9 Driver Issues for Enhanced Performance in W10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y100i-power-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y100i Power 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-expert-video-making-opt-for-studio-versus-beta-version/"><u>In 2024, Expert Video Making Opt for Studio Versus Beta Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-interactive-display-malfunction-now-operational/"><u>Lenovo Interactive Display Malfunction - Now Operational</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-languages-with-ease-reviewing-6-superior-offline-translator-apps/"><u>Navigating Languages with Ease: Reviewing 6 Superior Offline Translator Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-barrier-win10-and-nvidia/"><u>Overcoming Compatibility Barrier: Win10 & Nvidia</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-motorola-moto-g24-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Motorola Moto G24</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-rage-of-ares-rigidities/"><u>Resolved: Rage of Ares Rigidities</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-sharing-space-removing-interaction-from-your-fb-content/"><u>Secure Sharing Space: Removing Interaction From Your FB Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-size-adjustment-glitches-for-wide-view-windows/"><u>Solved Size Adjustment Glitches for Wide-View Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-flickering-monitors-in-win7/"><u>Stabilizing Flickering Monitors in Win7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-troubleshoot-ignored-nvidiaamd-card/"><u>Steps to Troubleshoot Ignored NVIDIA/AMD Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-prevent-acer-screen-shimmer/"><u>Strategies to Prevent Acer Screen Shimmer</u></a></li>
 </ul></div>
 

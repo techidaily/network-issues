@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm Networking: Atheros QCA61x4 Driver Armistice in Windows 11"
-date: 2024-07-12T00:18:50.157Z
-updated: 2024-07-13T00:18:50.157Z
+date: 2024-11-19T05:28:31.931Z
+updated: 2024-11-24T07:28:22.734Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Disable & Enable your Qualcomm adapter driver
 
  If your PC suddenly loses its network connection, or your wireless adapter fails to detect any available wireless network, you can try this quick fix in the first place.
@@ -41,12 +45,25 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-215.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now your Qualcomm wireless network adapter should be available for use again. Open your web browser to see whether the Internet is connected properly. If it isn’t, please read on and try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Rollback your Qualcomm adapter driver
 
@@ -57,6 +74,11 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
@@ -100,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### My network connection doesn’t work at all
 
  When your network adapter doesn’t work at all, but you still have a second device that can be used for driver download, you can try the**Offline Scan feature** in Driver Easy.
@@ -121,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,6 +154,20 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-voice-memo-grab-and-examine-for-2024/"><u>[New] Voice Memo Grab & Examine for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[Updated] Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-cyber-cracked-joke-creator/"><u>2024 Approved Cyber Cracked Joke Creator</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-the-night-light-option-in-windows-11-when-it-stops-working/"><u>How to Reactivate the Night Light Option in Windows 11 when It Stops Working</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-the-ultimate-guide-to-borders-on-insta-pics/"><u>In 2024, Step-By-Step The Ultimate Guide to Borders on Insta Pics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-5-election-simulation-games/"><u>In 2024, Top 5 Election Simulation Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opencl-not-found-fixed-now/"><u>OpenCL Not Found, Fixed Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-gdx-setup-on-pc/"><u>Repaired Failed GDX Setup on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gdx-setup-failure-now-functional-on-ws/"><u>Resolved GDX Setup Failure, Now Functional on WS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sharing-the-top-remorse-moment-of-upgrading-to-ios-18-a-common-dilemma-discussed/"><u>Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-bluescreen-dxgkrnlsys-troubleshooting/"><u>WinOS BlueScreen - dxgkrnl.sys Troubleshooting</u></a></li>
+</ul></div>
 

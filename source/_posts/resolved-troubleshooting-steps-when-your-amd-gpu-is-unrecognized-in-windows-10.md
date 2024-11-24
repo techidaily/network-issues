@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps When Your AMD GPU Is Unrecognized in Windows 10"
-date: 2024-11-11T01:56:53.468Z
-updated: 2024-11-15T00:18:33.505Z
+date: 2024-11-16T22:10:32.994Z
+updated: 2024-11-23T19:13:53.219Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 1. [**Update the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Solution 1: Update the AMD graphics driver
 
  There are two ways to update your AMD graphics driver:**manually** and**automatically** .
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
@@ -44,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -60,20 +66,14 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,16 +104,17 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-re-establishing-online-gameplay-in-cod-cold-war/"><u>[FIXED] Re-Establishing Online Gameplay in CoD Cold War</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-compelling-iphone-photo-and-video-applications-87x/"><u>[New] Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube-for-2024/"><u>[Updated] Assessing the Value of 4-Second Rapid Subscriptions on Youtube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-eight-elite-5k-displays-for-professional-use/"><u>[Updated] Eight Elite 5K Displays for Professional Use</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieve-flawless-display-setups-with-win11/"><u>Achieve Flawless Display Setups with Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-computer-specs-for-intel-driver-compatibility/"><u>Enhancing Computer Specs for Intel Driver Compatibility</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-xcom-2-windows-crash-issue-resolved-and-guide-provided/"><u>Fixing the XCOM 2 Windows Crash: Issue Resolved and Guide Provided</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/keeping-your-pc-powered-upgrading-intel-drivers-on-windows-7/"><u>Keeping Your PC Powered: Upgrading Intel Drivers on Windows 7</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-adobe-premiere-pro-2023-import-organize-and-export-your-video-projects-like-a-pro/"><u>New In 2024, Adobe Premiere Pro 2023 Import, Organize, and Export Your Video Projects Like a Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974219233-solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>[Updated] 2024 Approved Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlock-the-secret-sauce-of-making-money-with-vimeo-ads/"><u>2024 Approved Unlock the Secret Sauce of Making Money with Vimeo Ads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disable-blank-window-mode-on-win10/"><u>Disable Blank Window Mode on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-rescue-correcting-driver-issue-successfully/"><u>Display Rescue: Correcting Driver Issue Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-to-fix-guide-unused-graphics-card-wnvidia/"><u>Easy-to-Fix Guide: Unused Graphics Card W/NVIDIA</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-heart-of-palworld/"><u>Explore the Heart of PalWorld</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728492660683-hp/"><u>HPハードディスクの交換とオペレーティングシステム再インストール手順</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-sites-for-fetching-video-intro-files/"><u>In 2024, Essential Sites for Fetching Video Intro Files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/titans-triumph-god-of-war-enhanced/"><u>Titan's Triumph: God of War Enhanced</u></a></li>
 </ul></div>
 

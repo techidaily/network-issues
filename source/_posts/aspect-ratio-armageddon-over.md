@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Armageddon Over
-date: 2024-11-10T03:14:22.619Z
-updated: 2024-11-14T21:07:59.745Z
+date: 2024-11-17T20:19:48.289Z
+updated: 2024-11-24T06:32:35.174Z
 tags:
   - win11
   - win10
@@ -36,10 +36,7 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -50,17 +47,22 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -75,21 +77,11 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -113,24 +105,24 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>[New] Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-searching-for-non-existent-wireless-adapter-in-windows-10/"><u>[RESOLVED] Searching for Non-Existent Wireless Adapter in Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-navigating-through-modern-cameras-complex-shooting-modes/"><u>[Updated] 2024 Approved Navigating Through Modern Camera's Complex Shooting Modes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-enhance-your-browsing-experience-using-chrome-pip-for-2024/"><u>[Updated] Enhance Your Browsing Experience Using Chrome PIP for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ati-graphics-armored-support-restored/"><u>ATI Graphics Armored, Support Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-windows-graphical-output-with-latest-intel-driver-update/"><u>Boost Windows' Graphical Output with Latest Intel Driver Update</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breaking-down-the-bottlenecks-a-list-of-7-reasons-for-your-phones-lagging-wi-fi-connection/"><u>Breaking Down the Bottlenecks: A List of 7 Reasons for Your Phone's Lagging Wi-Fi Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-display-latency-issues/"><u>Eliminate Display Latency Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-lenovos-unreliable-touchscreen/"><u>Fixing Lenovo's Unreliable Touchscreen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992944932-ghost-recon-breakpoint-stability-swift-solutions-to-avoid-game-disruptions/"><u>Ghost Recon Breakpoint Stability: Swift Solutions to Avoid Game Disruptions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-s17t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo S17t</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-resurrect-a-non-displaying-device-screen/"><u>How to Resurrect a Non-Displaying Device Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-pop-sync-streamlining-song-placement-on-instagram-stories/"><u>In 2024, Pop Sync Streamlining Song Placement on Instagram Stories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovative-recorder-options-without-latency-anxiety/"><u>Innovative Recorder Options Without Latency Anxiety</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reviving-quiet-gpu-fans/"><u>Reviving Quiet GPU Fans</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-impact-of-testimonial-videos-today/"><u>The Impact of Testimonial Videos Today</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-screen-size-scaling-down/"><u>Windows 11 Screen Size: Scaling Down?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winsoft-upgrade-no-more-interoperability-anxiety/"><u>WinSOFT Upgrade: No More Interoperability Anxiety</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-youtube-studio-essential-checklist-for-video-mastery/"><u>[New] 2024 Approved The YouTube Studio Essential Checklist for Video Mastery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-content-management-for-instagram-profiles/"><u>[New] In 2024, YouTube Content Management for Instagram Profiles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-iphones-capabilities-with-advanced-gif-use/"><u>2024 Approved Elevate Your iPhone's Capabilities with Advanced GIF Use</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-incorporating-creative-effects-into-your-zoom-meetings-step-by-step/"><u>2024 Approved Incorporating Creative Effects Into Your Zoom Meetings Step-by-Step</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieving-visual-perfection-ideal-image-settings-for-samsungs-4k-uhd-tvs/"><u>Achieving Visual Perfection: Ideal Image Settings for Samsung's 4K UHD TVs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blending-tech-geforce-98-plus-windows-seamlessness/"><u>Blending Tech: GeForce 98 + Windows Seamlessness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-text-message-blockage-on-your-iphone-with-these-expert-tips/"><u>Bypass Text Message Blockage on Your iPhone with These Expert Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/megadatasky-affordable-space-for-big-files/"><u>MegaDataSky - Affordable Space for Big Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>Midnight Tales in Motion Evaluating Parental Choices for Kids</u></a></li>
+<li><a href="https://network-issues.techidaily.com/network-instability-unveiled/"><u>Network Instability Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-window-10-resolution/"><u>Optimize Window 10 Resolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/overseas-playtime-alter-time-settings-on-sxxb1/"><u>Overseas Playtime: Alter Time Settings on SX/XB1</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pushed-past-gatekeeper-g-sync-adjustments/"><u>Pushed Past Gatekeeper: G-Sync Adjustments</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-black-screen-after-driver-install/"><u>Silent Black Screen After Driver Install</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-anthem-playtime/"><u>Uninterrupted Anthem Playtime</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-hardware-issue-resolved-immediately/"><u>Video Hardware Issue Resolved Immediately</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-enhance-screen-definition-settings/"><u>Windows 11: Enhance Screen Definition Settings</u></a></li>
 </ul></div>
 

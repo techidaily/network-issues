@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange
-date: 2024-11-13T19:13:40.319Z
-updated: 2024-11-15T00:58:12.246Z
+date: 2024-11-16T21:56:24.410Z
+updated: 2024-11-23T23:03:05.926Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -34,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -45,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -64,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -93,21 +92,20 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/onfigure-youtubes-audience-options-with-ease/"><u>[New] Configure YouTube's Audience Options with Ease</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-deciphering-the-language-of-youtube-live-images/"><u>[New] Deciphering the Language of YouTube Live Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-your-content-navigating-the-world-of-youtube-backlinks/"><u>[New] In 2024, Amplify Your Content Navigating the World of YouTube Backlinks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>2024 Approved Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/explaining-the-advantages-of-4k-high-definition/"><u>Explaining the Advantages of 4K High-Definition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-monitor-problem-now-displays-full-screen-in-win11/"><u>Fix Monitor Problem – Now Displays Full Screen in Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-nord-n30-se-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Nord N30 SE to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-graphic-glitch-disappears/"><u>MH World Crisis Averted: Graphic Glitch Disappears</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-graphic-hardware-shortage-overwatch-fixes/"><u>Overcoming Graphic Hardware Shortage - Overwatch Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/realign-visual-border-discrepancies/"><u>Realign Visual Border Discrepancies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reviving-rtx-gaming-fixing-the-fatal-glitch/"><u>Reviving RTX Gaming: Fixing the Fatal Glitch</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stop-video-buffering-during-streaming/"><u>Stop Video Buffering During Streaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-p55t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel P55T Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-launch-problems-in-destiny-2-for-pc-players/"><u>Troubleshooting Guide - Solving Launch Problems in Destiny 2 for PC Players</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visuals-fixed-and-saving-feat-achieved/"><u>Visuals Fixed & Saving Feat Achieved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-wow-fatal-crash-fix-guide/"><u>Winning the Battle Against WOW Fatal Crash: Fix Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/pen-access-select-free-youtube-design-patterns-for-2024/"><u>[New] Open Access Select Free YouTube Design Patterns for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-classic-14-animation-designs-with-text/"><u>2024 Approved Classic 14 Animation Designs with Text</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-post-update-black-screen-in-windows-10/"><u>Fixing Post-Update BLACK SCREEN in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-permanently-close-your-chatgpt-user-account/"><u>How to Permanently Close Your ChatGPT User Account</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-moto-g14-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G14 Through Google Earth?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/i-prodotti-top-di-tracciamento-file-per-windows-una-guida-completa/"><u>I Prodotti Top Di Tracciamento File per Windows: Una Guida Completa</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beacon-of-ringtone-richness-online/"><u>In 2024, Beacon of Ringtone Richness Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>In 2024, Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-your-zoom-camera-a-comprehensive-fix-guide/"><u>Revive Your Zoom Camera: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-flicker-no-more/"><u>Screen Flicker, No More</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-inverted-image-feature-in-w11-system/"><u>Tackling Inverted Image Feature in W11 System</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/viral-video-voyage-twitters-compiled-top-10-tiktoks/"><u>Viral Video Voyage Twitter's Compiled Top 10 TikToks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-geforce-symbiosis-a-solution-found/"><u>Win10 & GeForce Symbiosis - A Solution Found</u></a></li>
 </ul></div>
 

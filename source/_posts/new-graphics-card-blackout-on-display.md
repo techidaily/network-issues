@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Card: Blackout on Display"
-date: 2024-07-12T00:20:08.579Z
-updated: 2024-07-13T00:20:08.579Z
+date: 2024-11-20T23:08:03.331Z
+updated: 2024-11-23T19:45:37.318Z
 tags:
   - win11
   - win10
@@ -60,6 +60,10 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -87,11 +91,20 @@ If this is not the problem, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -115,6 +128,10 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -126,7 +143,16 @@ Here are the things you should pay extra attention to:
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
@@ -137,6 +163,10 @@ Here are the things you should pay extra attention to:
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -158,8 +188,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +195,23 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-efficiently-export-facebook-features-via-chrome-plug-ins-for-2024/"><u>[New] Efficiently Export Facebook Features via Chrome Plug-Ins for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-offline-mode-cod-cold-war-2024-update/"><u>[REPAIRED] Offline Mode: CoD Cold War 2024 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-windows-11-excessive-width/"><u>[RESOLUTION] Windows 11 Excessive Width</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-talking-head-techniques-diy-filming-made-simple/"><u>[Updated] In 2024, Talking Head Techniques DIY Filming Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-maze-of-cloud-data-tariffs/"><u>2024 Approved Navigating the Maze of Cloud Data Tariffs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-overseen-graphics-setup/"><u>Correct Overseen Graphics Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-troubleshooting-route-no-current-gfx-wnvidia/"><u>Direct Troubleshooting Route: No Current GFX W/NVIDIA</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas-for-2024/"><u>Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-gpus-fixedcode-22-issue/"><u>Fixing GPU's FixedCode #22 Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-recurring-restart-problems-in-windows-11-effortlessly/"><u>How to Resolve Recurring Restart Problems in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lensblend-elite-cohesive-image-composer/"><u>LensBlend Elite Cohesive Image Composer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mending-windows-10-rapid-flash-problem/"><u>Mending Windows 10 Rapid Flash Problem</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos/"><u>New In 2024, The Ultimate List of Online Animation Creators for Jaw-Dropping Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/obs-full-screen-glitch-resolution-dropped-for-2024/"><u>Obs Full Screen Glitch Resolution Dropped for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-coexistence-of-win10-and-geforce-98/"><u>Seamless Coexistence of Win10 & GeForce 98</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/upgrading-your-gpu-a-step-by-step-guide/"><u>Upgrading Your GPU: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

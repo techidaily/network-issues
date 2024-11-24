@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Win11 Screen Glitches
-date: 2024-07-12T00:16:35.293Z
-updated: 2024-07-13T00:16:35.293Z
+date: 2024-11-22T04:49:53.842Z
+updated: 2024-11-24T07:58:43.683Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -48,6 +52,10 @@ Here is how to change the monitor refresh rate:
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -86,10 +94,23 @@ To do so:
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
@@ -134,6 +155,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -158,8 +183,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +190,23 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-screen-captures-in-firefox-land/"><u>[New] 2024 Approved Top Screen Captures in Firefox Land</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-checklist-for-solo-online-stream-success/"><u>[New] In 2024, The Ultimate Checklist for Solo Online Stream Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-iphones-voice-memos-with-precision/"><u>[Updated] 2024 Approved Navigating iPhone's Voice Memos with Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-roadmap-to-accessing-costless-frame-videos/"><u>2024 Approved The Roadmap to Accessing Costless Frame Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-view-post-driver-change/"><u>Darkened View Post-Driver Change</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-error-43-fixed/"><u>Display Driver, Error 43 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-shadowed-video-blackouts/"><u>Explaining Shadowed Video Blackouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-unsuccessful-gdx-creation-on-vistawin/"><u>Fixed Unsuccessful GDX Creation on VistaWin</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-making-professional-gifs/"><u>In 2024, Quick Start Making Professional GIFs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-enhance-your-online-presence-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Live Streaming Mastery: Enhance Your Online Presence with ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use-for-2024/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-control-panel-lockout-issue/"><u>Overcame: Control Panel Lockout Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-graphic-performance-seamlessly-update-intel-hd-graphics-3000-driver-for-w10/"><u>Revitalize Graphic Performance: Seamlessly Update Intel HD Graphics 3000 Driver for W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-backward-facing-displays-in-w11/"><u>Tackling Backward-Facing Displays in W11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-eliminating-freezes-in-borderlands-3/"><u>Ultimate Troubleshooting Guide: Eliminating Freezes in Borderlands 3</u></a></li>
+</ul></div>
 

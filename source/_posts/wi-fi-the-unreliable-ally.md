@@ -1,7 +1,7 @@
 ---
 title: "Wi-Fi: The Unreliable Ally"
-date: 2024-07-12T00:20:28.166Z
-updated: 2024-07-13T00:20:28.166Z
+date: 2024-11-20T21:17:42.820Z
+updated: 2024-11-23T18:48:58.788Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
  If your Windows 10/11 computer isn’t the only device with this problem (say, the same thing happens to your cell phone and your Mac), it’s very likely that your router is at fault, not your computer or network connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Some quick checks
 
  When your Wi-Fi disconnects and connects frequently, here are some quick checkups that you can do with your router and computer to see if they help:
@@ -55,17 +59,35 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 7. Go to the**Power Management** tab.**Untick** the box next to**Allow the computer to turn off this device to save power** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-46-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Reset the Wi-Fi AutoConfig service
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-48-47.jpg)
 2. Locate**WLAN AutoConfig** and double-click it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-51-55.jpg)
 3. Change the Startup type to**Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-53-00-1.jpg)
 4. Click**Apply** and**OK** to save and exit.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-54-11.jpg)
 5. Check to see if your Wi-Fi connection is back to normal. If not, you need to try the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Update network adapter driver
 
@@ -83,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -102,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,6 +135,18 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-a-compreenas-guide-to-high-quality-mov-recording-in-windows-10/"><u>[New] In 2024, A Compreenas Guide to High-Quality MOV Recording in Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-streaming-showdown-obs-and-shadowtoolkit/"><u>[Updated] 2024 Approved Streaming Showdown OBS & ShadowToolkit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-secure-again-combating-2023s-facebook-vulnerability-for-2024/"><u>[Updated] Secure Again Combating 2023'S Facebook Vulnerability for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breached-barrier-display-controls-unlocked/"><u>Breached Barrier: Display Controls Unlocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-extended-view-on-large-windows-display/"><u>Fixed Extended View on Large Windows Display</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-spoofing-success-the-path-to-parody-proficiency/"><u>In 2024, Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-rtx-3080-anomaly-buster-for-gamers/"><u>Nvidia's RTX 3080 Anomaly Buster for Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sideways-display-problem-solved/"><u>Sideways Display: Problem Solved</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-the-secrets-to-slow-motion-screenshots-in-snapchat/"><u>Unveiling the Secrets to Slow-Motion Screenshots in Snapchat</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-black-screen-with-cursor-solved/"><u>Windows 11 Black Screen with Cursor [SOLVED]</u></a></li>
+</ul></div>
 

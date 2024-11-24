@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 GTX 950 'Code 43' Troubleshooting Guide: Successfully Resolved"
-date: 2024-11-12T23:21:21.365Z
-updated: 2024-11-15T03:05:40.394Z
+date: 2024-11-16T20:47:24.195Z
+updated: 2024-11-24T06:07:46.903Z
 tags:
   - win11
   - win10
@@ -47,21 +47,37 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -79,18 +95,15 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -102,23 +115,9 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -129,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -163,24 +155,18 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-essentials-in-filming-adventure-vlogs/"><u>[New] Essentials in Filming Adventure Vlogs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionizing-pc-captures-a-review-of-apowersofts-tool/"><u>[New] Revolutionizing PC Captures A Review of Apowersoft’s Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-splendor-animating-effects-unbound/"><u>[Updated] 2024 Approved From Script to Splendor Animating Effects Unbound</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>[Updated] The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vrecorder-integration-from-download-to-deployment/"><u>2024 Approved VRecorder Integration From Download to Deployment</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>2024 Approved Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bdr-enhancements-on-ws-21-ws-10-and-older-windows/"><u>BDR Enhancements on WS-21, WS-10, and Older Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-computer-power-enabling-intel-graphics-compatibility/"><u>Boost Computer Power: Enabling Intel Graphics Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-issue-no-signal-for-wireless-on-windows-10-pc/"><u>Fixed Issue: No Signal for Wireless on Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-not-recognizing-nvidia-video-hardware/"><u>Fixed: Windows Not Recognizing NVIDIA Video Hardware</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-top-tales-youtubes-best-narrative-channels-this-year/"><u>In 2024, The Top Tales YouTube’s Best Narrative Channels This Year</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-space-stewards-premium-service-review-for-2024/"><u>Optimal Space Stewards Premium Service Review for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-incompatible-freesync-display/"><u>Rectifying Incompatible FreeSync Display</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-samsung-qn55q60rafxza-the-ultimate-4k-smart-tv-with-advanced-hdr1nplus-technology/"><u>Review of the Samsung QN55Q60RAFXZA: The Ultimate 4K Smart TV with Advanced HDR1n+ Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-sims-4-absence-of-display/"><u>Tackle Sims 4 Absence of Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-signal-slipping-away/"><u>Wi-Fi Signal Slipping Away</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-adding-linguistic-accessibility-to-your-igtv-videos/"><u>[New] 2024 Approved Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat-for-2024/"><u>[New] Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-amplifying-viewership-strategies-for-unboxing-tiktoks-for-2024/"><u>[Updated] Amplifying Viewership Strategies for Unboxing TikToks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-googles-speech-to-text-conversion-techniques-for-2024/"><u>[Updated] Mastering Google's Speech-to-Text Conversion Techniques for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-sims-4-solid-color-warnings/"><u>Banish Sims 4 Solid-Color Warnings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-startup-obstacle-cleared-successful/"><u>Direct3D Startup Obstacle Cleared, Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fine-tuning-visual-quality-on-w11/"><u>Fine-Tuning Visual Quality on W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-stationary-gpu-fans/"><u>Fixing Stationary GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-error-22-rectified-successfully/"><u>GPU Error 22 Rectified Successfully</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-solution-for-outdated-synaptics-ps2-port-touchpad-drivers/"><u>Instant Solution for Outdated Synaptics PS/2 Port Touchpad Drivers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-epic-trailers-top-movie-maker-software-for-mac-and-pc/"><u>New 2024 Approved Create Epic Trailers Top Movie Maker Software for Mac and PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-thawing-your-windows-robes-taskbar-for-smooth-operation/"><u>Step-by-Step Approach to Thawing Your Windows ˈrōbəs Taskbar for Smooth Operation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-understanding-various-ipados-releases/"><u>Step-by-Step Guide to Understanding Various iPadOS Releases</u></a></li>
 </ul></div>
 

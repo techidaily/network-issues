@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Horizontal Display Glitches on Notebooks
-date: 2024-09-16T08:13:50.111Z
-updated: 2024-09-20T09:48:11.275Z
+date: 2024-11-18T23:40:58.319Z
+updated: 2024-11-24T08:43:00.189Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or its out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -74,23 +82,22 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
@@ -121,5 +128,26 @@ Featured image by rawpixel.com from Pexels
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-list-of-trending-instagram-hashtags-for-success/"><u>[New] In 2024, The Ultimate List of Trending Instagram Hashtags for Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>[New] Unleash the Full Potential in the Metaverse with This List</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-connectivity-fixes-for-online-cod-cold-war/"><u>[RESOLVED] Connectivity Fixes for Online CoD Cold War</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-full-spectrum-screen-recording-az-analyses-and-backups/"><u>[Updated] 2024 Approved Full Spectrum Screen Recording - AZ Analyses & Backups</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-comparing-youtube-video-downloader-apps-on-android-for-2024/"><u>[Updated] Comparing YouTube Video Downloader Apps on Android for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfect-discord-streams-tips-and-tricks/"><u>[Updated] In 2024, Perfect Discord Streams Tips & Tricks</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>2024 Approved How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://article-files.techidaily.com/audience-captivation-through-crossfade-mastery-in-audacity-for-2024/"><u>Audience Captivation Through Crossfade Mastery in Audacity for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-raising-computer-specifications/"><u>Comprehensive Guide to Raising Computer Specifications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-errors-for-functional-built-in-cam/"><u>Correcting Errors for Functional Built-In Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-fluctuating-monitor-illumination-on-notebook/"><u>Fix: Fluctuating Monitor Illumination on Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-issue-overcome-in-latest-windows-update/"><u>High-DPI Settings Issue Overcome in Latest Windows Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/prime-locations-boosting-your-youtube-content-visibility-for-2024/"><u>Prime Locations Boosting Your YouTube Content Visibility for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-adjustments-persistently-safe/"><u>Screen Adjustments Persistently Safe</u></a></li>
+<li><a href="https://network-issues.techidaily.com/systems-silent-spotlight-on-nvidia-how-to-fix/"><u>System's Silent Spotlight on NVIDIA - How to Fix?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-enjoying-live-activities-on-your-ios-16-device/"><u>The Ultimate Tutorial for Enjoying Live Activities on Your iOS 16 Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visualsystem-crashes-windows-resolved-quickly/"><u>VisualSystem Crashes Windows (Resolved Quickly)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-curveball-resolved-black-screen/"><u>Win11 Curveball: Resolved Black Screen</u></a></li>
+</ul></div>
 

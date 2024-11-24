@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 7 Mirror Flip Mistake
-date: 2024-11-11T02:18:50.824Z
-updated: 2024-11-15T00:49:04.809Z
+date: 2024-11-19T05:14:37.786Z
+updated: 2024-11-24T07:45:57.514Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ The following is a list of fixes that have resolved this problem for other Windo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your screen rotation with a keyboard shortcut
@@ -42,10 +39,7 @@ The following is a list of fixes that have resolved this problem for other Windo
 This is the simplest way to fix your screen issue: Hold down the**Ctrl**and**Alt**keys on your keyboard, then press the**up arrow key**. This should change your screen orientation back to the normal one. If this didn’t work for you, you may need to try changing your screen rotation in your display settings.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your screen rotation in your display settings
@@ -57,10 +51,7 @@ To change your screen rotation in your system display settings:
 2. Click the**Orientation** drop-down menu, then select**Landscape** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd030adee89c.jpg)
@@ -78,14 +69,15 @@ You may have a screen upside down issue even if you didn’t do anything wrong. 
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -108,18 +100,20 @@ You may have a screen upside down issue even if you didn’t do anything wrong. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-lack-of-wireless-adapter-on-new-windows-os/"><u>[FIXED] Lack of Wireless Adapter on New Windows OS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-instagram-engagement-the-5-key-strategies-for-influencers-today/"><u>[New] In 2024, Mastering Instagram Engagement The 5 Key Strategies for Influencers Today</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-professional-grade-grid-tools-for-striking-instagram-posts/"><u>[Updated] In 2024, Professional-Grade Grid Tools for Striking Instagram Posts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-block-unwanted-driver-installs-via-windows-11-updates-guide/"><u>Effective Ways to Block Unwanted Driver Installs via Windows 11 Updates (Guide)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>In 2024, Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastery-in-muting-facebook-videos-mobilelaptop-for-2024/"><u>Mastery in Muting Facebook Videos (Mobile/Laptop) for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nailing-display-placement-for-win11-users/"><u>Nailing Display Placement for Win11 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-success-story/"><u>Qualcomm Adapter Compatibility - Windows 10 Success Story</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-fix-for-failed-direct3d-start-up/"><u>Successful Fix for Failed Direct3D Start-Up</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unresponsive-lenovo-interface-solved-here/"><u>Unresponsive Lenovo Interface - Solved Here</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-pop-7-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Pop 7 Pro Phones</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-seamless-integration-with-atheros-adapter/"><u>Windows 10 Seamless Integration with Atheros Adapter</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iphones-mp3-fix-6-free-tools-to-convert-youtube-audio-for-2024/"><u>Your iPhone's MP3 Fix 6 Free Tools to Convert YouTube Audio for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-hands-free-guide-to-storing-google-voice-chats/"><u>[New] 2024 Approved Hands-Free Guide to Storing Google Voice Chats</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-brisk-internet-on-windows-xp-a-guide/"><u>[SOLVED] Brisk Internet on Windows XP: A Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pinnacle-ai-editor-with-advanced-features/"><u>[Updated] Pinnacle AI Editor with Advanced Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-computer-display-to-proper-view/"><u>Adjusting Computer Display to Proper View</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-full-screen-windows-fail-to-appear-on-monitor-windows-10/"><u>Corrected: Full Screen Windows Fail to Appear on Monitor (Windows 10)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-device-is-misconfigured-with-helpful-tips-for-code-1/"><u>Diagnose and Repair 'Device Is Misconfigured' With Helpful Tips for Code 1</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-malfunction-resolved-and-system-stable/"><u>Graphics Malfunction Resolved and System Stable</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>In 2024, Action Cameras Showdown GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-transforming-your-shots-with-ease-in-photoshop/"><u>In 2024, Transforming Your Shots with Ease in Photoshop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974436316-maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-seamless-installation-achieved/"><u>Nvidia Setup: Seamless Installation Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-inverter-related-blinking/"><u>Solving Inverter-Related Blinking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002693475-troubleshooting-guide-no-more-crashes-in-updated-version-of-classic-diablo-2/"><u>Troubleshooting Guide: No More Crashes in Updated Version of Classic Diablo 2!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-a-revolutionary-all-in-one-charging-solution-for-ios-enthusiasts-as-featured/"><u>Unveiling a Revolutionary All-in-One Charging Solution for iOS Enthusiasts, as Featured</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips-for-2024/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips for 2024</u></a></li>
 </ul></div>
 

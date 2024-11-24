@@ -1,7 +1,7 @@
 ---
 title: Shed Light on Dark LCD in Lenovo Models
-date: 2024-11-07T18:40:50.198Z
-updated: 2024-11-14T18:16:58.090Z
+date: 2024-11-21T05:18:52.265Z
+updated: 2024-11-23T18:53:48.940Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -79,22 +83,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -104,6 +98,10 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -116,21 +114,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -142,27 +135,17 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -182,6 +165,10 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
@@ -189,13 +176,6 @@ So you can try disabling fast startup to see if it does the trick:
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
@@ -227,24 +207,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-6-minecraft-oriental-house-ideas-you-should-try/"><u>[New] 2024 Approved Top 6 Minecraft Oriental House Ideas You Should Try</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-storytellers-portal/"><u>[Updated] Ultimate Storytellers' Portal</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-beginners-vlogging-landscape/"><u>2024 Approved Navigating Beginner's Vlogging Landscape</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/5-next-level-editors-to-transcend-the-standard-youtube-videos-for-2024/"><u>5 Next-Level Editors to Transcend the Standard Youtube Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-spark-10c-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Spark 10C Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blue-screen-of-death-bsod-and-dxgkrnlsys/"><u>Blue Screen of Death (BSOD) & dxgkrnl.sys</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mize-video-speed-to-match-your-desired-watch-time-for-2024/"><u>Customize Video Speed to Match Your Desired Watch Time for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/empty-vram-no-graphic-support/"><u>Empty VRAM, No Graphic Support</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-12-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 12 mini Smoothly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-hidden-behind-tv-shutout/"><u>Laptop Screen Hidden Behind TV Shutout</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-4k-hdr10plus-viewing-experience-with-samsungs-elite-model-qn55q60rafxza-tv-review/"><u>Mastering 4K HDR10+ Viewing Experience with Samsung's Elite Model - QN55Q60RAFXZA TV Review</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/next-gen-data-salvation-programs-reinstate-accidentally-wiped-out-segments-of-your-hardware/"><u>Next-Gen Data Salvation Programs: Reinstate Accidentally Wiped Out Segments of Your Hardware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-longer-a-concern-screen-size-adjustment-in-win-10/"><u>No Longer a Concern: Screen Size Adjustment in Win 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-drivers-crashed-now-operational/"><u>Nvidia Drivers Crashed, Now Operational</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-recognition-of-pcs-forgotten-hardware/"><u>Restoring Recognition of PC's Forgotten Hardware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/saved-visuals-post-adjustment-fix/"><u>Saved Visuals Post-Adjustment Fix</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/securely-accessing-your-fb-status-video-for-2024/"><u>Securely Accessing Your FB Status Video for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-amd-radeon-r9-driver-stability-restored/"><u>Win10: AMD Radeon R9 Driver Stability Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-shrink-excessive-desktop-size/"><u>Windows 11: Shrink Excessive Desktop Size</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010317654-days-gone-officially-released-on-pc-discover-the-updated-first-person-shooter-experience-now/"><u>'Days Gone': Officially Released on PC - Discover the Updated First-Person Shooter Experience Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-collaborative-innovation-in-brand-and-media-synergy/"><u>2024 Approved Collaborative Innovation in Brand and Media Synergy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/8-free-driver-revitalizers-your-comprehensive-guide-for-july-2024/"><u>8 Free Driver Revitalizers - Your Comprehensive Guide for July 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/chart-topping-video-content-on-youtube-for-2024/"><u>Chart-Topping Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comwin-stability-after-security-patches/"><u>ComWin Stability After Security Patches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-advantages-of-4k-high-definition/"><u>Explaining the Advantages of 4K High-Definition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-logitech-c92n-webcam-driver-for-enhanced-performance-in-windows-11108/"><u>How to Upgrade Your Logitech C92n Webcam Driver for Enhanced Performance in Windows 11/10/8</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-huion-kamvas-gt-191-tablet-splendid-and-spacious-for-digital-artists/"><u>In-Depth Evaluation of the Huion Kamvas GT-191 Tablet: Splendid and Spacious for Digital Artists</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/incorporating-real-time-photos-into-team-conversations-for-2024/"><u>Incorporating Real-Time Photos Into Team Conversations for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-and-using-the-latest-wd-ses-usb-device-drivers-a-comprehensive-guide/"><u>Installing and Using the Latest WD SES USB Device Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-graphic-glitch-disappears/"><u>MH World Crisis Averted: Graphic Glitch Disappears</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-graphic-hardware-shortage-overwatch-fixes/"><u>Overcoming Graphic Hardware Shortage - Overwatch Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-initial-direct3d-setup-failure/"><u>Overcoming Initial Direct3D Setup Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/realign-visual-border-discrepancies/"><u>Realign Visual Border Discrepancies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-rtx-gaming-fixing-the-fatal-glitch/"><u>Reviving RTX Gaming: Fixing the Fatal Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-for-quelling-lenovo-screen-shimmers/"><u>Techniques for Quelling Lenovo Screen Shimmers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-7-premium-dvd-extraction-programs-compatible-with-windows-and-mac-including-freeware-selections/"><u>Ultimate Guide: 7 Premium DVD Extraction Programs Compatible with Windows and Mac, Including Freeware Selections</u></a></li>
 </ul></div>
 

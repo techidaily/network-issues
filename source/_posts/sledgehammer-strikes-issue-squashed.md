@@ -1,7 +1,7 @@
 ---
 title: "Sledgehammer Strikes: Issue Squashed"
-date: 2024-07-12T00:18:56.700Z
-updated: 2024-07-13T00:18:56.700Z
+date: 2024-11-18T01:08:47.336Z
+updated: 2024-11-24T02:18:28.907Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -79,7 +83,16 @@ If this doesn’t fix the problem, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key and the I (i) key** to open the Windows Settings. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -101,7 +114,16 @@ If the latest updates don’t work for you, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -114,8 +136,6 @@ If the latest updates don’t work for you, try the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,6 +143,24 @@ If the latest updates don’t work for you, try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-connect-online-screen-sharing-secrets-for-live-streaming/"><u>[New] Connect Online Screen-Sharing Secrets for Live Streaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-online-woes-with-cod-cold-war/"><u>[SOLVED] Online Woes with CoD Cold War</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-social-media-savvy-key-hashtags-to-utilize-today/"><u>[Updated] 2024 Approved Social Media Savvy Key Hashtags to Utilize Today</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-captivate-and-conquer-with-customized-content-shorts/"><u>2024 Approved Captivate and Conquer with Customized Content Shorts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/daten-kopieren-und-spiegeln-mit-speicherplatz-klonsoftware/"><u>Daten Kopieren Und Spiegeln Mit Speicherplatz-Klonsoftware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-visual-fidelity-geforce-210-on-your-win10-system/"><u>Elevate Visual Fidelity: GeForce 210 on Your WIN10 System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-screen-flashes-in-win11/"><u>End Screen Flashes in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-rip-dvd-movies-onto-your-pc-using-windows-11/"><u>How To Easily Rip DVD Movies Onto Your PC Using Windows 11!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-itel-p55plus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Itel P55+ Without PUK Codes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovos-unresponsive-touch-repair-complete/"><u>Lenovo's Unresponsive Touch - Repair Complete</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-gen-graphics-drive-for-pc-windows-10s-latest-amd-radeon-hd-6950-driver/"><u>Next-Gen Graphics Drive for PC: Windows 10'S Latest AMD Radeon HD 6950 Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-reboot-and-choose-os-error-on-windows/"><u>Quick Solutions: Resolve 'Reboot and Choose OS' Error on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-steps-to-overcome-c1900101-during-win11-setup/"><u>Quick Steps to Overcome C1900101 During Win11 Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-burning-dvd-films-directly-to-disk-storage-on-pcs-windows-11107-and-mac-computers/"><u>Step-by-Step Tutorial for Burning DVD Films Directly to Disk Storage on PCs (Windows 11/10/7) and Mac Computers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/time-saving-tricks-for-powerpoint-projections-for-2024/"><u>Time-Saving Tricks for PowerPoint Projections for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-shutdown-new-gpu-empty-screen/"><u>Unexpected Shutdown: New GPU, Empty Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stabilizing-visuals-no-more-shakes/"><u>Win11: Stabilizing Visuals, No More Shakes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Save Failure in System's Display Settings
-date: 2024-11-13T20:12:23.979Z
-updated: 2024-11-14T20:33:27.581Z
+date: 2024-11-19T19:10:47.602Z
+updated: 2024-11-24T05:54:18.524Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f0
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -48,29 +41,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -86,14 +71,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
@@ -119,24 +105,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-compatibility-checklist-phone-list-for-gear-vr-2023/"><u>[New] Compatibility Checklist Phone List for Gear VR 2023</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-fast-internet-on-win10-tips-and-tricks/"><u>[SOLVED] Fast Internet on WIN10: Tips & Tricks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-streamlining-podcast-feed-creation-techniques/"><u>[Updated] In 2024, Streamlining Podcast Feed Creation Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypassing-minimum-requirement-hurdles-with-upgrades/"><u>Bypassing Minimum Requirement Hurdles with Upgrades</u></a></li>
-<li><a href="https://network-issues.techidaily.com/compatibility-issue-on-windows-10-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 10 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/curing-graphics-card-problems-enhancing-minecraft-play/"><u>Curing Graphics Card Problems, Enhancing Minecraft Play</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/explore-the-world-of-manycam-your-ultimate-guide-to-live-streaming-and-virtual-camera-solutions/"><u>Explore the World of ManyCam: Your Ultimate Guide to Live Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/googles-new-contender-or-microsofts-masterpiece-the-battle-of-google-bard-vs-bing-chat/"><u>Google's New Contender or Microsoft's Masterpiece: The Battle of Google Bard Vs. Bing Chat</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-note-12r-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi Note 12R FRP Bypass Instantly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-easy-access-to-expert-tech-insights/"><u>In 2024, Easy Access to Expert Tech Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/issue-overcome-windows-10s-screen-shows-only-fractional-windows/"><u>Issue Overcome - Windows 10'S Screen Shows Only Fractional Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/minimize-windows-10-resolution-highs/"><u>Minimize Windows 10 Resolution Highs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-flickering-on-surface-pro-7/"><u>Preventing Flickering on Surface Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverting-compatibility-issues-in-freesync/"><u>Reverting Compatibility Issues in FreeSync</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/sintomas-soluciones-e-informacion-sobre-la-reparacion-del-cable-usb-danado-que-no-se-conecta-correctamente/"><u>Síntomas, Soluciones E Información Sobre La Reparación Del Cable USB Dañado Que No Se Conecta Correctamente.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snap-up-limited-time-prime-days-finest-meta-quest-3-for-just-499/"><u>Snap Up Limited Time: Prime Day's Finest - Meta Quest 3 for Just $499!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974215162-streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] 2024 Approved Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-visual-storytelling-ios-and-androids-best-image-stickers/"><u>[Updated] 2024 Approved Elevate Your Visual Storytelling IOS & Android's Best Image Stickers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adopting-advanced-advertising-approaches-metaverse/"><u>[Updated] Adopting Advanced Advertising Approaches Metaverse</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-comprehensive-guide-to-intel-graphics-enhancements-in-windows-7/"><u>A Comprehensive Guide to Intel Graphics Enhancements in Windows 7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-mac-programming-options-excluding-bandicam-for-2024/"><u>Best Mac Programming Options Excluding Bandicam for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boosted-gaming-experience-nvidia-210-for-win10-os/"><u>Boosted Gaming Experience: NVIDIA 210 for WIN10 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/desktop-vs-game-system-purpose-and-power/"><u>Desktop Vs. Game System: Purpose and Power</u></a></li>
+<li><a href="https://network-issues.techidaily.com/find-missing-display-settings-on-windows-11/"><u>Find Missing Display Settings on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-win11-dark-mode-post-creators-fix/"><u>Fixing Win11 Dark Mode Post-Creators Fix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/iphones-pano-tech-guide-to-360-degree-content-for-2024/"><u>IPhone's Pano-Tech Guide to 360-Degree Content for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resetting-settings-to-use-asus-cam/"><u>Resetting Settings to Use Asus Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-visuals-after-win10-fall-update/"><u>Restoring Visuals After Win10 Fall Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smooth-start-gradual-appearance/"><u>Smooth Start Gradual Appearance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-win11-dark-display-update-issue/"><u>Troubleshooting Win11 Dark Display Update Issue</u></a></li>
 </ul></div>
 

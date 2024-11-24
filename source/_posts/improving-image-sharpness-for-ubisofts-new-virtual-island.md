@@ -1,7 +1,7 @@
 ---
 title: Improving Image Sharpness for Ubisoft's New Virtual Island
-date: 2024-11-12T20:03:47.256Z
-updated: 2024-11-15T00:19:29.859Z
+date: 2024-11-17T22:50:17.019Z
+updated: 2024-11-24T11:05:50.647Z
 tags:
   - win11
   - win10
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -88,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -105,20 +102,21 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn on high graphics performance setting for the game
 
@@ -128,6 +126,10 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
@@ -135,29 +137,12 @@ If this doesn’t help, try the next fix.
 4. Select **High performance** , then click **Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t help, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -168,13 +153,6 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
@@ -182,6 +160,10 @@ If this doesn’t help, there’s one more fix you can try.
 5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -205,20 +187,17 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-10-echo-augmentation-apps-desktopmobile/"><u>[Updated] 2024 Approved Best 10 Echo Augmentation Apps Desktop/Mobile</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-video-designs-free-premiere-plans/"><u>[Updated] 2024 Approved Innovative Video Designs Free Premiere Plans</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sleep-soundly-top-aspers-techniques-unveiled/"><u>[Updated] Sleep Soundly Top Asper's Techniques Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-compatibility-windows-plus-nvidia/"><u>Ensuring Compatibility: Windows + NVIDIA</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-thrifty-shoppers-best-bargains-in-cams/"><u>In 2024, Thrifty Shopper's Best Bargains in Cams</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-recovery-overcome-loot-issue-in-apex/"><u>Instant Recovery: Overcome Loot Issue in Apex</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-invisible-monitor-a-fix-guide/"><u>Lenovo’s Invisible Monitor: A Fix Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-se-2020-5-ways-to-get-into-a-locked-iphone-se-2020-by-drfone-ios/"><u>Locked Out of iPhone SE (2020)? 5 Ways to get into a Locked iPhone SE (2020)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mend-amd-woes-in-eft-games/"><u>Mend AMD Woes in EFT Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-qca61x4-network-fix-released-for-windows-11/"><u>Qualcomm QCA61x4 Network Fix Released for Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-flicker-in-surface-pro-7/"><u>Quelling Flicker in Surface Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-windows-10-lightning-reflection/"><u>Quelling Windows 10 Lightning Reflection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-guide-resolving-directx-9-error-in-5-steps/"><u>Quick Guide: Resolving DirectX 9 Error in 5 Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/sync-your-sound-instagrams-musical-world/"><u>Sync Your Sound Instagram's Musical World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated 2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[New] 2024 Approved Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos/"><u>[Updated] 2024 Approved A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-stability-top-photo-tripods-for-iphones-and-androids/"><u>2024 Approved Ultimate Stability Top Photo Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-issue-fullscreen-window-not-showed/"><u>Fixed Display Issue - FullScreen Window Not Showed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 8 Plus?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-speed-control-for-elite-pc-users/"><u>Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-graphic-functionality-on-win-10/"><u>Restored Graphic Functionality on Win 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stoplight-flash-on-laptop-ceases/"><u>Stoplight Flash on Laptop Ceases</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-significance-of-4k-quad-hd-imaging-clarity/"><u>The Significance of 4K Quad-HD Imaging Clarity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-find-n3-flip-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo Find N3 Flip Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-update-by-qualcomm-improves-stability-of-atheros-drivers/"><u>Win11 Update by Qualcomm Improves Stability of Atheros Drivers</u></a></li>
 </ul></div>
 

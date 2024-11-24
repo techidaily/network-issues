@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Gaps During Games
-date: 2024-11-10T22:13:34.762Z
-updated: 2024-11-14T21:34:18.909Z
+date: 2024-11-18T12:40:40.562Z
+updated: 2024-11-24T03:08:08.587Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does my screen tear?
 
  One common cause is that your computer outputs more video frames than your monitor can take. For example, if your monitor is using a fixed refresh rate of**60 Hz** (refreshes every 1/60 second), the video output with frame rates higher than that can be**out of sync** with your monitor. Then you have multiple frames displayed at once on your scree, which is the screen tearing issue.
@@ -36,10 +40,7 @@ There are two fixes you can try:
 2. [**Turn on V-Sync**](#b)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
@@ -61,17 +62,11 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
@@ -98,6 +93,10 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
@@ -109,13 +108,6 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
@@ -139,20 +131,22 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/addressing-windows-11-display-reversal-fix/"><u>Addressing Windows 11 Display Reversal Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-boost-for-win11-with-hd-6950-upgrade/"><u>AMD Graphics Drivers Boost for Win11 with HD 6950 Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/endless-black-screen-restore-win10/"><u>Endless Black Screen, Restore Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-for-monitors-now-displays-fullscreen-on-win11/"><u>Fix for Monitors: Now Displays Fullscreen on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-low-brightness-lenovo-display-issue/"><u>Fixing Low-Brightness Lenovo Display Issue</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/heartfelt-cinematic-experiences-for-hopeful-hearts-for-2024/"><u>Heartfelt Cinematic Experiences for Hopeful Hearts for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-hot-40-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Hot 40</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-transition-seamless-macos-sonoma-upgrades-for-your-macbook-pro-and-imac-insights-from-zdnet/"><u>Mastering the Transition: Seamless macOS Sonoma Upgrades for Your MacBook Pro and iMac - Insights From ZDNET</u></a></li>
-<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-driver-update-now-available-on-windows-11/"><u>Radeon HD 6950 Driver Update Now Available on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securing-stable-r9-drivers-for-windows-10-systems/"><u>Securing Stable R9 Drivers for Windows 10 Systems</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-list-most-effective-ergonomic-keyboards-for-optimal-typing-this-year/"><u>Ultimate List: Most Effective Ergonomic Keyboards for Optimal Typing This Year</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unplugged-delight-your-guide-to-free-screen-free-games-for-android-for-2024/"><u>Unplugged Delight Your Guide to Free Screen-Free Games for Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-journey-from-ad-revenue-to-bank-account-balance-for-2024/"><u>[New] The Journey From Ad Revenue to Bank Account Balance for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-g54-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola G54 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-adapter-compatible-fix-in-qualcomm-drivers-on-win10/"><u>Atheros Adapter Compatible: Fix in Qualcomm Drivers on Win10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f34-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F34 5Gwith/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone XR without the Previous Owner?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y36-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y36</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-users-step-by-step-tutorial-for-changing-itunes-m4v-videos-to-mp4-format/"><u>Mac Users' Step-by-Step Tutorial for Changing iTunes M4V Videos to MP4 Format</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-game-hiccups-how-to-stop-them/"><u>Nvidia RTX 3080 Game Hiccups - How to Stop Them</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Tecno</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-win10-whiteout-after-new-cu/"><u>Resolving Win10 Whiteout After New CU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-youtubes-fading-background-problems/"><u>Resolving YouTube's Fading Background Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-unsupported-amd-freesync/"><u>Reviving Unsupported AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-video-playback-on-demand/"><u>Seamless Video Playback on Demand</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-broad-monitor-expansion-issues-on-windows/"><u>Tackled Broad Monitor Expansion Issues on Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-complete-guide-to-running-linux-on-a-chromebook-updated-2023-for-2024/"><u>The Complete Guide to Running Linux on a Chromebook (Updated 2023) for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-change-the-look-how-to-modify-video-dimensions-easily/"><u>Updated 2024 Approved Change the Look How to Modify Video Dimensions Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10.</u></a></li>
 </ul></div>
 

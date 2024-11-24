@@ -1,7 +1,7 @@
 ---
 title: No Image After New Graphics Installation
-date: 2024-07-12T00:16:24.036Z
-updated: 2024-07-13T00:16:24.036Z
+date: 2024-11-21T17:07:17.794Z
+updated: 2024-11-24T00:55:33.043Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
  Then please ensure that the new graphics card is improperly installed by making sure that the gold PCIe connector of your graphics card lines up with the PCIe x16 slot perfectly.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -52,6 +60,10 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ditch any converter
 
  If you’re using any display converter (like HDMI to DP, VGA to HDMI, etc.) for the new GPU and your monitor, please stop using them, as the new GPU no display problem could also relate to the converter.
@@ -59,6 +71,10 @@ If this is not the problem, please move on.
  If your new graphics card can’t connect to your monitor without a converter, please buy a new cable instead.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Boot with the integrated display card
 
@@ -71,6 +87,10 @@ If this is not the problem, please move on.
  This is a screenshot taken from a Gigabyte BIOS, and you should usually find the booting option by checking items like Peripherals, then selecting**IGFX** as the**Initial Display Output** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
@@ -93,6 +113,10 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -102,6 +126,10 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -158,8 +186,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +193,24 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-fbx-recorder-essentials-for-players/"><u>2024 Approved FBX Recorder Essentials For Players</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-radeon-relive-download-and-review/"><u>2024 Approved Radeon Relive Download and Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ranking-the-top-10-high-def-4k-displays/"><u>2024 Approved Ranking the Top 10 High-Def 4K Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974331029-eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-laptops-touchpad-when-it-fails-to-respond/"><u>Expert Tips for Restoring Your Laptop's Touchpad When It Fails to Respond</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-error-43-cleared/"><u>GPU Fix: Error 43 Cleared</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-130-music-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia 130 Music To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XS Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-display-glitches-in-windows/"><u>Resolve Display Glitches in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-display-on-win11-fixed-release/"><u>Restore Display on Win11 Fixed Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-clarity-problem-with-windows-11/"><u>Screen Clarity Problem with Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-flipped-images-on-windows-10-interface/"><u>Solving Flipped Images on Windows 10 Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-invisible-lines-correcting-screen-horizontal-imperfections/"><u>Tackling Invisible Lines: Correcting Screen Horizontal Imperfections</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-wow-glitch-519-successfully/"><u>Tackling WoW Glitch #519 Successfully</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components-t17239718759064/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-mirillis-agreement-comprehensive-guide-to-our-terms-and-conditions/"><u>Understanding Mirillis Agreement: Comprehensive Guide to Our Terms and Conditions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-rated-free-whiteboard-animation-software-for-pc/"><u>Updated Top-Rated Free Whiteboard Animation Software for PC</u></a></li>
+</ul></div>
 

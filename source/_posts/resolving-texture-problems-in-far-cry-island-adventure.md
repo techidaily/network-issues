@@ -1,7 +1,7 @@
 ---
 title: Resolving Texture Problems in Far Cry Island Adventure
-date: 2024-07-12T00:18:55.637Z
-updated: 2024-07-13T00:18:55.637Z
+date: 2024-11-20T05:38:03.119Z
+updated: 2024-11-24T08:29:39.314Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-29-42.png)
 
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start…
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9
  If you didn’t use the HD texture pack but you do have sufficient VRAM (>11 GB), you can find the HD texture pack under the DLC section and install it. Some players have reported that the HD texture pack works fine when you have enough VRAM, so it’s definitely worth a try.
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -106,6 +118,10 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -115,11 +131,20 @@ If this doesn’t help, try the next fix.
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -148,8 +173,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +180,22 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-escalation-via-youtube-channel-initiatives/"><u>[New] 2024 Approved Earnings Escalation via YouTube Channel Initiatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-11-display-sizes/"><u>Adjusting Windows 11 Display Sizes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/determining-the-value-in-iphoneipod-battery-upgrades/"><u>Determining the Value in iPhone/iPod Battery Upgrades</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discerning-the-advantages-of-ultra-hd-visuals/"><u>Discerning the Advantages of Ultra HD Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-brightness-levels/"><u>Enhancing Lenovo Display Brightness Levels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-z50s-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nubia Z50S Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-basic-understanding-of-e-story-crafting/"><u>In 2024, Basic Understanding of E-Story Crafting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-video-capture-pro-for-windows-10-ultimate-quality/"><u>In 2024, Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lifting-the-curse-the-invisible-direct-x-disruption-solved-in-leagues/"><u>Lifting the Curse: The Invisible Direct X Disruption Solved in Leagues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/limited-offer-maxs-affordable-subscription-based-service-at-only-299-per-month/"><u>Limited Offer: Max's Affordable, Subscription-Based Service at Only $2.99 Per Month!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-solves-wins-basic-drive-problems/"><u>Microsoft Solves Win's Basic DRIVE Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974497126-quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/"><u>System Error Due To Nvidia, Now Resolved</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-photographic-vision-with-iphone-burst-shooting-for-2024/"><u>Transform Your Photographic Vision with iPhone Burst Shooting for 2024</u></a></li>
+</ul></div>
 

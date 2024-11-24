@@ -1,7 +1,7 @@
 ---
 title: Gaming Gone Wrong? Tame Your RTX 3080 Crash
-date: 2024-07-12T00:21:30.763Z
-updated: 2024-07-13T00:21:30.763Z
+date: 2024-11-19T20:11:40.689Z
+updated: 2024-11-24T00:18:17.145Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 ## Gaming Gone Wrong? Tame Your RTX 3080 Crash
 
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does your graphics card keep crashing?
 
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
  If the NVIDIA RTX 3080 crashes a game, it’s very likely that the graphics driver is outdated or gets corrupted. It’s always recommended to update to the latest graphics driver since it can affect your gaming experience, especially when you’re using a high-end graphics card.
@@ -53,10 +61,18 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Stop overclocking
 
@@ -70,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
  Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now launch your game again to see if this method works for you.
 
@@ -102,8 +122,6 @@ Now launch your game again to see if this method works for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,6 +129,19 @@ Now launch your game again to see if this method works for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-creating-intriguing-movie-summaries/"><u>[New] 2024 Approved Creating Intriguing Movie Summaries</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-masterclass-in-vr-bikes-and-trails/"><u>[New] 2024 Approved Masterclass in VR Bikes and Trails</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-stream-on-the-go-youtube-via-mobile-for-understaffed-creators-for-2024/"><u>[New] Stream on the Go YouTube via Mobile for Understaffed Creators for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-direct-technique-swap-film-direction-in-media-player/"><u>[Updated] 2024 Approved Direct Technique Swap Film Direction in Media Player</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-lenovo-display-hiccups/"><u>Correcting Lenovo Display Hiccups</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722878677315-dciman32dll-not-found-heres-how-to-correctly-fix-it/"><u>dciman32.dll Not Found? Here’s How to Correctly Fix It!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-dall-e-3-for-rapid-webp-to-standard-image-changes/"><u>Leveraging DALL-E 3 for Rapid WebP to Standard Image Changes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/manage-oversized-win10-monitors/"><u>Manage Oversized Win10 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-gpus-a-win-minecraft-success-story/"><u>Optimizing GPUs: A Win-Minecraft Success Story</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-nvidia-geforce-gtx-950-code-43-error-steps-to-successfully-fix-it-on-windows-10/"><u>Overcoming the NVIDIA GeForce GTX 950 Code 43 Error: Steps to Successfully Fix It on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-gpu-requirement-not-met-issue-resolved/"><u>Overwatch: GPU Requirement Not Met, Issue Resolved</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-broken-iphone-no-fail-methods-for-a-fresh-start/"><u>Revive Your Broken iPhone: No-Fail Methods for a Fresh Start</u></a></li>
+</ul></div>
 

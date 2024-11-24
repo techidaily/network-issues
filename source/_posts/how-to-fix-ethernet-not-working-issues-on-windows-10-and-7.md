@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 10 & 7
-date: 2024-11-11T02:59:49.535Z
-updated: 2024-11-14T21:16:57.546Z
+date: 2024-11-20T01:26:46.761Z
+updated: 2024-11-24T07:34:39.898Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
@@ -43,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
@@ -78,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -92,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -103,16 +101,13 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
@@ -125,10 +120,7 @@ Follow the steps below:
 2. Now type in the following commands and hit **Enter**  after each one.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
@@ -136,19 +128,6 @@ Follow the steps below:
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -177,19 +156,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-android-device-screen-capture-made-simple-and-gratis/"><u>[New] 2024 Approved Android Device Screen Capture Made Simple and Gratis</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mobile-image-mastery/"><u>[Updated] 2024 Approved The Ultimate Guide to Mobile Image Mastery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-expert-tags-analyzer-software-fb-tweet-and-insta-edition/"><u>[Updated] Expert Tags Analyzer Software FB, Tweet & Insta Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-screensnipers-digest-the-ultimate-2023-software-roundup-for-2024/"><u>[Updated] ScreenSniper's Digest The Ultimate 2023 Software Roundup for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-expert-suggestions-prime-frame-addition-software-2023-update/"><u>2024 Approved Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/basic-driver-tweaks-ms-win-versions-1087-update/"><u>Basic Driver Tweaks: MS Win Versions 10/8/7 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/detection-hiccup-for-amd-on-win10-now-working-smoothly/"><u>Detection Hiccup for AMD on Win10, Now Working Smoothly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/efficient-uninstall-method-for-graphics-drivers-on-windows/"><u>Efficient Uninstall Method for Graphics Drivers on WIndows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-gaming-experience-by-fixing-civ-5-glitches/"><u>Enhance Gaming Experience by Fixing Civ 5 Glitches</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-ripples-on-windows-7-screens/"><u>Remedying Ripples on Windows 7 Screens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-best-parental-control-tools-and-software/"><u>Top 8 Best Parental Control Tools & Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-image-recognition-glitches-6-key-factors-that-may-affect-your-experience/"><u>Understanding iPhone Image Recognition Glitches: 6 Key Factors That May Affect Your Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unveiling-sharex-analyses-and-options/"><u>[New] 2024 Approved Unveiling ShareX Analyses & Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-media-migration-tiktok-directly-to-fb/"><u>[New] Mastering Media Migration TikTok Directly to FB</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-compilation-top-vr-games-on-google-cardboard/"><u>[Updated] 2024 Approved The Ultimate Compilation Top VR Games on Google Cardboard</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-enhancing-video-top-10-text-techniques/"><u>[Updated] In 2024, Enhancing Video Top 10 Text Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-eliminate-uneven-text-alignment-on-notebook-screens/"><u>How to Eliminate Uneven Text Alignment on Notebook Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-picks-best-6-fb-lite-videos/"><u>In 2024, Ultimate Picks Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-fair-use-navigating-youtube-copyright-challenges/"><u>Mastering Fair Use Navigating YouTube Copyright Challenges</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rendering-armored-post-fix/"><u>Nvidia Rendering Armored Post-Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimized-windows-11-experience-new-rtx210-drivers-rollout/"><u>Optimized Windows 11 Experience - New RTX210 Drivers Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-unseen-screen-blackouts/"><u>Resolving Unseen Screen Blackouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/roblox-latency-issues-on-desktop/"><u>Roblox Latency Issues on Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-ai-potential-with-lifewires-free-online-course-selection-of-15-top-picks/"><u>Unleash AI Potential with Lifewire's Free Online Course Selection of 15 Top Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Intervention for Persistent HP Screen Blinking
-date: 2024-11-12T23:08:32.197Z
-updated: 2024-11-14T20:39:53.995Z
+date: 2024-11-20T19:13:57.842Z
+updated: 2024-11-24T04:14:41.412Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop screen flickering issue by ruling out the physical factors.
@@ -47,13 +40,6 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -74,10 +60,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -117,17 +100,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -139,6 +127,10 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -166,18 +158,14 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-the-course-to-youtube-fame-strategic-video-release-frequency/"><u>[New] In 2024, Charting the Course to YouTube Fame Strategic Video Release Frequency</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nnovators-crafting-marvels-digital-realm/"><u>[New] Innovators Crafting Marvel's Digital Realm</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-transforming-ideas-into-videos-top-30-strategies/"><u>[New] Transforming Ideas Into Videos Top 30 Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-size-adjust-windows-11-display-dimensions/"><u>[SCREEN SIZE] Adjust Windows 11 Display Dimensions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-free-video-editing-programs-you-should-know/"><u>[Updated] In 2024, Best Free Video Editing Programs You Should Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>[Updated] In 2024, Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
-<li><a href="https://win-great.techidaily.com/fehler-wiederherstellungspunkt-kann-nicht-erstellt-werden-top-3-losungsmoglichkeiten/"><u>Fehler: Wiederherstellungspunkt Kann Nicht Erstellt Werden – Top-3 Lösungsmöglichkeiten</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-common-lcd-sync-issues/"><u>Fixing Common LCD Sync Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-study-polish-fast-a-smart-strategy-for-beginners/"><u>How To Study Polish Fast: A Smart Strategy For Beginners</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>In 2024, Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-the-shadowy-surface-of-lenovo-portable/"><u>Solve the Shadowy Surface of Lenovo Portable</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-potential-new-drivers-merge-rtx210-and-windows-11/"><u>Unleash Potential - New Drivers Merge RTX210 & Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-motives-behind-cyber-attacks-on-chatgpt-platforms/"><u>Unveiling the Motives Behind Cyber Attacks on ChatGPT Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat/"><u>2024 Approved Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-dynamic-typographic-options/"><u>Advanced Dynamic Typographic Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphicinterface-lockup-in-win-os-worked-out/"><u>GraphicInterface Lockup in Win OS (Worked Out)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-edge-40-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Edge 40 Through Google Earth?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-radeon-r9-drivers-for-new-windows-11/"><u>Navigating Radeon R9 Drivers for New Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-top-rated-video-editing-tools-for-mac-in/"><u>The Top-Rated Video Editing Tools for Mac In</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-removing-a-facebook-community/"><u>The Ultimate Guide to Removing a Facebook Community</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-insufficient-light-on-lenovo-pc/"><u>Troubleshooting Insufficient Light on Lenovo PC</u></a></li>
 </ul></div>
 

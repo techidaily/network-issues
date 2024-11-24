@@ -1,7 +1,7 @@
 ---
 title: BDR Enhancements on WS-21, WS-10, and Older Windows
-date: 2024-11-07T18:00:43.217Z
-updated: 2024-11-14T19:59:21.296Z
+date: 2024-11-21T02:52:40.191Z
+updated: 2024-11-23T22:17:54.616Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -41,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 2. [Update your graphics card driver](#F2)
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Enable your dedicated graphics card
 
@@ -61,20 +47,25 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
- If this method doesn’t work for you, don’t worry. There’s something else to try.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 ### Fix 2: Update your graphics card driver
 
@@ -95,15 +86,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
@@ -126,22 +118,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[Updated] 2024 Approved Veiled Vocal Keepers IOS & Android Secretive Sound Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-vidvault-capture-fb-videos/"><u>[Updated] 2024 Approved VidVault Capture FB Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-detailed-study-on-workspace-optimization-and-productivity-levels/"><u>[Updated] A Detailed Study on Workspace Optimization and Productivity Levels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instantaneous-darkness-creation/"><u>[Updated] Instantaneous Darkness Creation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-expert-a-telegram-web-blueprint/"><u>2024 Approved From Novice to Expert A Telegram Web Blueprint</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-windows-10-resolution-no-more-frustrating/"><u>Adjusting Windows 10 Resolution No More Frustrating</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-r9-driver-glitches-on-windows-10/"><u>Eliminating R9 Driver Glitches on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-win11-shadow-displacement/"><u>Eliminating Win11 Shadow Displacement</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exploring-unconventional-webcam-applications-for-2024/"><u>Exploring Unconventional Webcam Applications for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Note 30 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-smoothly-update-intel-graphics-using-windows-tools/"><u>How to Smoothly Update Intel Graphics Using Windows Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063158242-how-to-update-focusrite-scarlett-6i6-driver-installation-guide/"><u>How to Update Focusrite Scarlett 6I6 Driver – Installation Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-sideways-solved/"><u>Laptop Screen Sideways [SOLVED]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reinstated-corrected-window-graphics-link/"><u>Reinstated Corrected Window Graphics Link</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revelation-hidden-graphics-card-now-found-in-device-manager/"><u>Revelation: Hidden Graphics Card, Now Found in Device Manager</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solving-obs-studio-latency-problems-updated-tips-and-tricks/"><u>Solving Obs Studio Latency Problems: Updated Tips & Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stopping-backlight-flickering-in-displays/"><u>Stopping Backlight Flickering in Displays</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visionary-8-webcams-the-future-of-live-broadcasts/"><u>[Updated] In 2024, Visionary 8 Webcams The Future of Live Broadcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unbeatable-ps1-emulators-for-high-quality-gaming-for-2024/"><u>[Updated] Unbeatable PS1 Emulators for High-Quality Gaming for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-poco-c65-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Poco C65? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-issue-43-fixed/"><u>Display Driver Issue 43 Fixed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a58-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A58 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-non-udemy-platforms-for-personalized-e-learning-for-2024/"><u>Premier Non-Udemy Platforms for Personalized E-Learning for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-gpu-errortype-22/"><u>Rectified GPU Errortype 22</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-ai-delve-into-chatgpts-interpreter-six-key-strategies/"><u>Reimagining AI - Delve Into ChatGPT's Interpreter Six Key Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-amds-display-driver-anomalies-for-win11/"><u>Resolving AMD's Display Driver Anomalies for Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-blender-application-failures-on-pc-platforms/"><u>Resolving Persistent Blender Application Failures on PC Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-pro-7s-flickering-display/"><u>Solving Pro 7'S Flickering Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlined-performance-new-amd-graphics-drivers-for-win10/"><u>Streamlined Performance: New AMD Graphics Drivers for Win10</u></a></li>
 </ul></div>
 

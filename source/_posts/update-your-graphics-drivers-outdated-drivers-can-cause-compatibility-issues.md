@@ -1,7 +1,7 @@
 ---
 title: Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues
-date: 2024-11-10T00:54:28.311Z
-updated: 2024-11-14T18:39:24.213Z
+date: 2024-11-22T06:00:04.307Z
+updated: 2024-11-24T05:59:28.330Z
 tags:
   - win11
   - win10
@@ -22,21 +22,16 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
  Microsoft DirectX 9 is a group of technologies designed to make Windows-based computers an ideal platform for running and displaying applications rich in multimedia elements such as full-color graphics, video, 3D animation, and rich audio.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does this error occur?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This error can occur for the following reasons:
 
@@ -75,22 +70,12 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uninstall-graphics-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you have two display adapters, try disabling the onboard/integrated one.
@@ -110,13 +95,6 @@ This error can occur for the following reasons:
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update** next to the flagged graphics card driver to automatically download and install the correct version of the driver (you can do this with the FREE version).
 
@@ -150,27 +128,17 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall DirectX Installer
 
@@ -179,6 +147,10 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -201,26 +173,20 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select every startup application and click**Disable** .
 
@@ -236,6 +202,10 @@ This error can occur for the following reasons:
 * Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Good to go?
 
@@ -259,24 +229,19 @@ This error can occur for the following reasons:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-from-ordinary-to-stunning-a-guide-to-hdr-portraits/"><u>[New] From Ordinary to Stunning A Guide to HDR Portraits</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elite-no-price-facebook-visual-storytelling-suite/"><u>[New] In 2024, Elite No-Price Facebook Visual Storytelling Suite</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-leveraging-view-counts-for-financial-freedom-online-for-2024/"><u>[Updated] Leveraging View Counts for Financial Freedom Online for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-strategies-for-efficiently-configuring-facebooks-instream-ads/"><u>2024 Approved Strategies for Efficiently Configuring Facebook's Instream Ads</u></a></li>
-<li><a href="https://network-issues.techidaily.com/best-in-class-untethered-phone-options-available-in-202e/"><u>Best-in-Class Untethered Phone Options Available in 202E</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/discovering-the-best-mac-cam-tech-without-bandicam/"><u>Discovering the Best Mac Cam Tech Without Bandicam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diving-into-the-lenovo-ideapad-320-journey-a-marriage-of-elegance-mobility-and-time-tested-keyboard-craftsmanship/"><u>Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-asmr-and-you-understanding-its-healing-power/"><u>In 2024, ASMR and You Understanding Its Healing Power</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-magic-6-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor Magic 6 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-xp-workspace-your-next-creative-filmmaker/"><u>In 2024, XP Workspace Your Next Creative Filmmaker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/industrial-grade-secure-data-clearance-get-insight-into-bitrasers-erasure-suite-for-enterprises/"><u>Industrial-Grade Secure Data Clearance: Get Insight Into BitRaser’s Erasure Suite for Enterprises</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-weaving-your-own-generated-text-models-into-any-chatgpt-exchange/"><u>Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-the-best-in-middle-tier-tablets-for-android-users-a-closer-look-at-the-samsung-galaxy-tab-s7/"><u>Unveiling the Best in Middle Tier Tablets for Android Users: A Closer Look at the Samsung Galaxy Tab S7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-f5-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco F5 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/why-is-my-iphone-lagging-uncover-the-6-main-issues-and-remedies/"><u>Why Is My iPhone Lagging? Uncover the 6 Main Issues & Remedies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategies-for-success-in-work-and-online-creation/"><u>[New] Strategies for Success in Work and Online Creation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] 2024 Approved From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smiles-in-screens-make-with-kapwing/"><u>[Updated] Smiles in Screens Make with Kapwing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-leading-5-online-title-masters-revealed/"><u>2024 Approved Leading 5 Online Title Masters Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-c1900101-during-windows-installation/"><u>Fixing C1900101 During Windows Installation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-enhanced-kinemaster-frame-focus/"><u>In 2024, Expert Tips for Enhanced Kinemaster Frame Focus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-lava-storm-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Lava Storm 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-corrected-graphical-hardware-error/"><u>Overwatch: Corrected Graphical Hardware Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-win11-flashy-monitor-problems/"><u>Solve Win11 Flashy Monitor Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817944373-transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10!</u></a></li>
 </ul></div>
 

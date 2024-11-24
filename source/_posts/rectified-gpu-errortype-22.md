@@ -1,7 +1,7 @@
 ---
 title: Rectified GPU Errortype 22
-date: 2024-11-11T03:00:56.019Z
-updated: 2024-11-14T21:10:40.303Z
+date: 2024-11-22T10:46:07.303Z
+updated: 2024-11-24T11:29:10.447Z
 tags:
   - win11
   - win10
@@ -42,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -60,24 +57,15 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -86,20 +74,14 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -118,6 +100,10 @@ Example – CMOS battery on a laptop
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
@@ -143,16 +129,18 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>[New] 2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-visual-verdict-sj6-clash-with-xiaomis-yi-4k-geniuses/"><u>[New] 2024 Approved Visual Verdict SJ6 Clash with Xiaomi’s Yi 4K Geniuses</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-guide-3-step-process-to-video-talk-via-snapchat/"><u>[New] Quick Guide 3-Step Process to Video Talk via Snapchat</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-vr-advertising-potential/"><u>[New] Unlocking VR Advertising Potential</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-standardized-youtube-images-made-accessible-3-easy-ways-to-download/"><u>[Updated] Standardized YouTube Images Made Accessible 3 Easy Ways to Download</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-auroras-vision-in-home-theater-systems-evaluated/"><u>In 2024, Aurora's Vision in Home Theater Systems Evaluated</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors/"><u>In 2024, Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-display-not-reacting-repair-successful/"><u>Lenovo Display Not Reacting - Repair Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gdrivererr22-issue/"><u>Resolved GDRIVER_ERR#22 Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harmonic-highlights-the-right-song-for-your-ig-video/"><u>[New] Harmonic Highlights The Right Song for Your IG Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[Updated] 2024 Approved Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/2024s-guide-to-a-working-zoom-camera-on-demand/"><u>2024’S Guide to a Working Zoom Camera on Demand</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-reverse-image-problem-on-windows-7-device/"><u>Adjusting Reverse Image Problem on Windows 7 Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/audiovisual-synchronization-in-facebook-content-creation/"><u>Audiovisual Synchronization in Facebook Content Creation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-meizu-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Meizu Phones with/without a PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-share-a-private-youtube-video/"><u>How to Share a Private YouTube Video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigating-the-nuances-of-streaming-and-saving-on-facebook/"><u>Navigating the Nuances of Streaming and Saving on Facebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-patch-for-rtx210-to-optimize-win11/"><u>NVIDIA's Patch for RTX210 to Optimize Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dimming-display-on-lenovo-devices/"><u>Overcoming Dimming Display on Lenovo Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-monitor-glitches-a-compreenas-guide/"><u>Tackle Monitor Glitches: A Compreenas Guide</u></a></li>
 </ul></div>
 

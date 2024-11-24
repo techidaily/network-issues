@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcoming Initialization Issues with the Graphics System"
-date: 2024-11-09T19:21:26.127Z
-updated: 2024-11-14T21:01:46.233Z
+date: 2024-11-19T23:51:51.886Z
+updated: 2024-11-24T00:43:43.672Z
 tags:
   - win11
   - win10
@@ -28,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 * **[Method 5: Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your graphics driver
@@ -64,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
 
 4) Restart your computer for the changes to take effect.
@@ -80,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Run the game in compatibility mode
@@ -112,11 +99,23 @@ To change system screen resolution on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-23.png)
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 4: Update Windows
 
@@ -127,21 +126,15 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -165,13 +158,6 @@ If the problem remains, please move on.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **support@fortect.com** 
@@ -199,21 +185,16 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[New] 2024 Approved Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-dreamy-dialogues-in-dusk-examining-childrens-video-stories/"><u>[New] Dreamy Dialogues in Dusk Examining Children's Video Stories</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-shorts-vs-tiktok-which-one-is-better-for-2024/"><u>[New] YouTube Shorts Vs. TikTok Which One Is Better for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-2023-emulators-top-ps3-games-for-pc-for-2024/"><u>[Updated] Leading 2023 Emulators Top PS3 Games for PC for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-google-meets-grid-view-functionality-for-2024/"><u>[Updated] Mastering Google Meet's Grid View Functionality for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-action-spectacle-evaluating-hero5b-vs-hero5-session-performance/"><u>2024 Approved Action Spectacle Evaluating Hero5B vs Hero5 Session Performance</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-content-with-top-ranked-youtube-channels/"><u>2024 Approved Elevate Your Content with Top-Ranked YouTube Channels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-launch-attempt-succeeded-after-fixed/"><u>Direct3D Launch Attempt Succeeded After Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-setup-fixed-errors/"><u>GeForce Setup Fixed Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-cleared-no-further-action-needed/"><u>GPU Error Cleared: No Further Action Needed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974452598-horizontal-monitor-setup-done/"><u>Horizontal Monitor Setup - Done</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 7 Plus 3 Ways To Unlock</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>In 2024, The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-playback-jitters-fast/"><u>Resolve Playback Jitters Fast</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-issues-with-unsupported-amd-freesync/"><u>Resolving Issues with Unsupported AMD FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tdr-alert-glitchy-opengl-error-now-corrected/"><u>TDR Alert: Glitchy OpenGL Error Now Corrected</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-enhance-presentations-with-proper-screenshotting-via-ezvid-for-2024/"><u>[Updated] Enhance Presentations with Proper Screenshotting via Ezvid for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premium-platforms-converting-vids-for-the-bird/"><u>[Updated] In 2024, Premium Platforms Converting Vids for the Bird</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>2024 Approved Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>2024 Approved The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-10s-problematic-error-code/"><u>Correcting Windows 10'S Problematic Error Code</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exorcising-flicker-from-surface-pro-7/"><u>Exorcising Flicker From Surface Pro 7</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-why-the-future-of-videography-is-in-hdrs-arms/"><u>In 2024, Why the Future of Videography Is in HDR's Arms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intel-hd-6000-disabled-solution-achieved/"><u>Intel HD 6000 Disabled: Solution Achieved</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-network-nojo-reviving-minecraft-lan-on-pc/"><u>Navigating Network Nojo: Reviving Minecraft LAN on PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Platforms: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-computer-screen-angle-adjustment/"><u>Reverse Computer Screen Angle Adjustment</u></a></li>
 </ul></div>
 

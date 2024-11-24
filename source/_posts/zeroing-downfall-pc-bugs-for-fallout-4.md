@@ -1,7 +1,7 @@
 ---
 title: Zeroing Downfall PC Bugs for Fallout 4
-date: 2024-09-18T08:32:13.368Z
-updated: 2024-09-19T23:15:25.152Z
+date: 2024-11-20T23:36:04.888Z
+updated: 2024-11-23T21:57:50.737Z
 tags:
   - win11
   - win10
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 **Fallout 4 crashes on startup** and you don’t know what you’ve done to cause the problem? Don’t worry! There are solutions to fix the issue. This article introduces 5 easy ways to**fix the Fallout 4 crashing on startup** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is Fallout 4 crashing on startup?
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Fallout 4 crash on startup?
 
@@ -39,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -75,14 +76,11 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
-4) Restart your computer and open your Fallout 4.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Restart your computer and open your Fallout 4.
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -95,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
  3) If your Fallout 4 restarts to works, it should be an issue with your antivirus program, and you should**add Fallout 4 into the exception in your antivirus program** .
 
 If the issue persists, try the following method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. Configure settings in your Fallout 4**
 
@@ -113,10 +115,7 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
@@ -140,5 +139,26 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-innovative-techniques-for-recording-instagram-story-highlights/"><u>[New] Innovative Techniques for Recording Instagram Story Highlights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] 2024 Approved Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>[Updated] Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-propel-your-presence-on-facebook-mastering-the-art-of-going-live/"><u>2024 Approved Propel Your Presence on Facebook Mastering the Art of Going Live</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/clonacion-de-disco-duro-de-dell-a-ssd-con-instalacion-uefi/"><u>Clonación De Disco Duro De Dell a SSD Con Instalación UEFI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-black-pixel-issue-windows-10/"><u>Correcting Black Pixel Issue, Windows 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/digging-deep-into-facebooks-short-video-shift-the-2023-scenario-for-2024/"><u>Digging Deep Into Facebook's Short Video Shift The 2023 Scenario for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diminishing-displays-dysfunctions-pro-7/"><u>Diminishing Displays Dysfunctions (Pro 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-hiccup-over-nvidia-screen-works-again/"><u>Driver Hiccup Over - Nvidia Screen Works Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-buggy-to-beasty-mh-world-purged-problems/"><u>From Buggy to Beasty: MH World Purged Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-install-and-activate-a-wireless-adapter-for-windows/"><u>How to Install and Activate a Wireless Adapter for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-civilization-v-play-on-pc/"><u>Improving Civilization V Play on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-potential-in-instagram-engagement-with-advanced-data-tools/"><u>In 2024, Unlocking Potential in Instagram Engagement with Advanced Data Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-laptops-dark-side-heres-the-fix/"><u>Lenovo Laptop's Dark Side? Here's the Fix</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pixelpioneer-screensaver-logging-for-2024/"><u>PixelPioneer Screensaver Logging for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-list-of-instagram-video-converters-windowsos-x/"><u>The Ultimate List of Instagram Video Converters (Windows/OS X)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-entertaining-web-based-games-for-childrens-enjoyment/"><u>Top 7 Entertaining Web-Based Games for Children's Enjoyment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-manage-excessive-display/"><u>Win10: Manage Excessive Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-meets-the-future-new-amd-radeon-hd-6950-driver-release/"><u>Windows 10 Meets the Future: New AMD Radeon HD 6950 Driver Release</u></a></li>
+</ul></div>
 

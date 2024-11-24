@@ -1,7 +1,7 @@
 ---
 title: Reviving Atheros Wi-Fi on Win11 via Qualcomm Updates
-date: 2024-11-10T18:16:51.771Z
-updated: 2024-11-14T20:35:56.697Z
+date: 2024-11-16T18:57:28.674Z
+updated: 2024-11-24T01:16:37.365Z
 tags:
   - win11
   - win10
@@ -41,29 +41,23 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-215.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your Qualcomm wireless network adapter should be available for use again. Open your web browser to see whether the Internet is connected properly. If it isn’t, please read on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Rollback your Qualcomm adapter driver
 
@@ -73,15 +67,12 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
@@ -89,14 +80,15 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
 5. Choose a reason based on your own situation, then click**Yes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
@@ -129,31 +121,15 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### My network connection doesn’t work at all
 
@@ -185,18 +161,16 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-amass-a-thousand-tactics-for-monthly-instagram-following/"><u>[New] 2024 Approved Amass a Thousand Tactics for Monthly Instagram Following</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-skype-meeting-on-windows-and-mac-skype-for-business/"><u>[New] How to Record Skype Meeting on Windows and Mac | Skype for Business</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-dive-deep-into-color-science-top-11-essential-editing-techniques/"><u>[Updated] 2024 Approved Dive Deep Into Color Science Top 11 Essential Editing Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-things-you-need-to-know-about-music-for-instagram-for-2024/"><u>[Updated] Things You Need to Know About Music for Instagram for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723003518466-effortless-steps-to-repair-fifa-19-directx-glitches-no-tech-expertise-needed/"><u>Effortless Steps to Repair FIFA 19 DirectX Glitches - No Tech Expertise Needed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-22-in-gpu-drivers-addressed/"><u>Error 22 in GPU Drivers Addressed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-void-card-search-error/"><u>Graphics Void: Card Search Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-kinks-cured-for-combat/"><u>Kratos Kinks Cured for Combat</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-edge-lens-tripod-travelers-trusty-sidekick/"><u>Leading-Edge Lens Tripod: Traveler's Trusty Sidekick</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-through-youtubes-unwanted-green-mistakes/"><u>Navigating Through YouTube's Unwanted Green Mistakes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tighten-monitor-border-clarity/"><u>Tighten Monitor Border Clarity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-secret-lifespan-of-your-apple-watch-battery-discoveries-that-might-amaze-you-zdnet/"><u>Unlock the Secret Lifespan of Your Apple Watch Battery - Discoveries That Might Amaze You! (ZDNet)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion/"><u>[New] Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-definitive-guide-ios-screenshots-and-recording-2inas-2023/"><u>[New] In 2024, The Definitive Guide IOS Screenshots & Recording (2Inas 2023)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-negative-space-reverse-video-tricks-for-instagram/"><u>[New] Mastering Negative Space Reverse Video Tricks for Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-instagram-speed-mastering-video-and-likes/"><u>[Updated] 2024 Approved Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-noteworthy-14-innovative-text-movements/"><u>[Updated] Noteworthy 14 Innovative Text Movements</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-status-error-43-resolved/"><u>Device Status: Error 43 Resolved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-poco-x6-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco X6 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/issue-corrected-windows-10-monitor-displays-only-portion-of-windows/"><u>Issue Corrected - Windows 10 Monitor Displays Only Portion of Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-with-manycam-ultimate-virtual-camera-and-editing-suite/"><u>Live Streaming with ManyCam: Ultimate Virtual Camera and Editing Suite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-halted-reinstated-with-armor/"><u>OpenGL Halted - Reinstated with Armor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedies-for-stabilizing-lenovo-display/"><u>Remedies for Stabilizing Lenovo Display</u></a></li>
 </ul></div>
 

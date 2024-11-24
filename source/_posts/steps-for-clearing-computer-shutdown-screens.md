@@ -1,7 +1,7 @@
 ---
 title: Steps for Clearing Computer Shutdown Screens
-date: 2024-11-13T02:27:57.065Z
-updated: 2024-11-14T18:27:45.044Z
+date: 2024-11-20T04:40:26.035Z
+updated: 2024-11-24T08:35:45.473Z
 tags:
   - win11
   - win10
@@ -45,39 +45,30 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ca566a014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.**In the Create new task dialog that pops up, type “_**explorer.exe**_” and press**Enter**on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30cc7ac4773.png)
 
-**iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
@@ -85,13 +76,6 @@ Hard resetting your laptop can clear all the information in your memory and the 
 It is also possible that your laptop screen issue comes from your laptop memory (RAM).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Laptop memory
 
@@ -111,9 +95,17 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
@@ -124,10 +116,7 @@ And then in the dialog popping up, click the**System Restore**button.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Update your device driver
@@ -135,6 +124,10 @@ And then in the dialog popping up, click the**System Restore**button.
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
@@ -160,18 +153,24 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[New] 2024 Approved Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-essential-handbook-of-personal-branding-mastering-facebook-biographies/"><u>[New] In 2024, The Essential Handbook of Personal Branding - Mastering Facebook Biographies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-nvidia-control-panel-access-denied/"><u>[Solved] NVIDIA Control Panel Access Denied</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-best-practices-for-filming-and-sharing-immersive-content-on-fb/"><u>[Updated] 2024 Approved Best Practices for Filming and Sharing Immersive Content on FB</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-exploring-digital-marketing-frontiers-the-metaverse/"><u>[Updated] In 2024, Exploring Digital Marketing Frontiers The Metaverse</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-undead-humor-engine-for-2024/"><u>[Updated] Undead Humor Engine for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-action-for-flawless-vids/"><u>Immediate Action for Flawless Vids</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-methods-disconnected-graphics-card-wnvidia/"><u>Quick Fix Methods: Disconnected Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-screen-expansion-glitches-for-windows/"><u>Rectified Screen Expansion Glitches for Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilized-mobile-monitor-reflections-victory/"><u>Stabilized Mobile Monitor Reflections - Victory</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-essential-tiktok-to-twitter-sharing-for-2024/"><u>The Essential TikTok to Twitter Sharing for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-champions-tech-the-ultimate-gaming-toolkit/"><u>[New] 2024 Approved Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-artist-writers-guide-to-ios-top-8-drawing-tools-reviewed/"><u>[New] In 2024, The Artist' Writers Guide to iOS Top 8 Drawing Tools Reviewed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-perfecting-game-sounds-ps5-and-ps4-adjustments-for-2024/"><u>[Updated] Perfecting Game Sounds PS5 & PS4 Adjustments for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-refine-your-virtual-interactions-learning-to-use-zooms-filters/"><u>[Updated] Refine Your Virtual Interactions Learning to Use Zoom's Filters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-high-quality-videos-youtubes-enhancement-secrets-revealed-for-2024/"><u>[Updated] Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-bsod-dxgkrnlsys-fix-for-windows-os/"><u>BlueScreen of Death (BSOD) - dxgkrnl.sys Fix for Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-in-action-building-dynamic-and-intelligent-websites/"><u>ChatGPT in Action: Building Dynamic and Intelligent Websites</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-windows-11-no-display-dilemma/"><u>Conquering Windows 11 No-Display Dilemma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-rendering-error-solved/"><u>Direct Rendering Error Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-error-43-repaired/"><u>Display Driver Error 43 Repaired</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fullscreen-performance-restored-in-win10-version/"><u>Fullscreen Performance Restored in Win10 Version</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/introducing-an-effortless-upgrade-for-intel-hd-graphics-on-windows-10-devices/"><u>Introducing an Effortless Upgrade for Intel HD Graphics on Windows 10 Devices.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-quest-mechanics-mastered/"><u>Kratos Quest: Mechanics Mastered</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-reverse-rhythms-2023s-most-memorable-inverted-melodies/"><u>New 2024 Approved Reverse Rhythms 2023S Most Memorable Inverted Melodies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfect-your-content-with-vimeo-on-instagram/"><u>Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-10-unresponsive-pointer/"><u>Resolving Windows 10 Unresponsive Pointer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-nvidia-opengl-driver-now-stable/"><u>TDR Alert: NVIDIA OpenGL Driver Now Stable</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-x6-by-fonelab-android-recover-music/"><u>Undelete lost music from X6</u></a></li>
 </ul></div>
 

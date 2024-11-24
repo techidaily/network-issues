@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-11-11T16:50:28.260Z
-updated: 2024-11-14T17:27:29.408Z
+date: 2024-11-17T11:40:06.322Z
+updated: 2024-11-24T12:41:26.297Z
 tags:
   - win11
   - win10
@@ -32,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 6. **[Reinstall Apex Legends](#f5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your Nvidia graphics driver
@@ -70,13 +67,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,6 +88,10 @@ _You can do it for free if you like, but it’s partly manual._
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -141,23 +135,9 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -173,15 +153,16 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
@@ -195,6 +176,10 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -219,21 +204,20 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>[New] In 2024, Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[Updated] 2024 Approved OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-play-and-save-nvidias-simple-screen-recorder/"><u>[Updated] 2024 Approved Play and Save NVIDIA's Simple Screen Recorder</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerate-clear-video-experience/"><u>Accelerate Clear Video Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-drivers-fixed-code-22/"><u>Debugged: Drivers' Fixed Code #22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-image-quality-in-far-cry-6-console-edition/"><u>Enhancing Image Quality in Far Cry 6 Console Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-new-year-new-lg-bp550-the-2023-review/"><u>In 2024, New Year, New LG BP550 The 2023 Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-end-to-stuttered-vids/"><u>Quick End to Stuttered Vids</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-pixel-stutter-in-displays/"><u>Rectify Pixel Stutter in Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resetting-asus-for-operational-webcam/"><u>Resetting Asus for Operational Webcam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-restoration-rectify-legends-glitches/"><u>Swift Restoration: Rectify Legends Glitches</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-balance-of-price-and-quality-in-soundcores-life-q30-review/"><u>The Balance of Price and Quality in Soundcore's Life Q30 Review</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-8-invaluable-sound-effects-from-the-gaming-realm-for-2024/"><u>The Ultimate Guide to 8 Invaluable Sound Effects From the Gaming Realm for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-ai-avatar-video-online/"><u>Updated In 2024, Create AI Avatar Video | Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-sudden-blinks-on-laptop-monitor/"><u>[Resolved] Sudden Blinks on Laptop Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breeze-through-apex-errors-instantly/"><u>Breeze Through Apex Errors, Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-configuration-lost-in-windows-11/"><u>Display Configuration Lost in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-eco-friendly-practices-lenovo-strives-for-net-zero-emissions-a-deep-dive-by-zdnet/"><u>Embracing Eco-Friendly Practices, Lenovo Strives for Net Zero Emissions - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/epiteszetileg-hasznalatos-targyatokon-gyujtasasztechnika-diskordin-pc-es-mobil-rendszerbe/"><u>Építészetileg Használatos Tárgyatokon Gyújtásásztechnika - Diskordin PC És Mobil Rendszerbe</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-alert-game-master-of-unacceptable-conduct-xbox/"><u>How to Alert Game Master of Unacceptable Conduct (Xbox)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-x50i-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor X50i</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-mechanical-keyboard-sanitization/"><u>Mastering the Art of Mechanical Keyboard Sanitization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-mosaic-maker-for-2024/"><u>Media Mosaic Maker for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minecraft-on-pc-fixing-video-driver-failures/"><u>Minecraft on PC: Fixing Video Driver Failures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wide-screen-problems-on-windows-os/"><u>Resolved Wide-Screen Problems on Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-windows-screen-after-update-fall/"><u>Restoring Windows Screen After Update Fall</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-your-system-update-intel-graphics-3000-on-windows-10-now/"><u>Streamline Your System: Update Intel Graphics 3000 on Windows 10 Now!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/macdvdiphone-macx-dvd-to-iphone/"><u>ダイレクト:Mac用無料DVDからiPhoneへのコンバーター - MacX DVD to iPhone変換ソフト</u></a></li>
 </ul></div>
 

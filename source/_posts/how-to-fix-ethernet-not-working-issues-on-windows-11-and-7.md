@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 11 & 7
-date: 2024-11-13T02:32:04.774Z
-updated: 2024-11-14T16:06:54.603Z
+date: 2024-11-16T17:57:54.793Z
+updated: 2024-11-24T03:03:16.598Z
 tags:
   - win11
   - win10
@@ -36,18 +36,15 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -59,10 +56,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 4. On your device, reconnect to your Ethernet network.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
@@ -86,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -101,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
@@ -122,13 +110,6 @@ Follow the steps below:
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -149,6 +130,10 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -171,24 +156,14 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-globes-biggest-video-content-mogul/"><u>[New] In 2024, Globe’s Biggest Video Content Mogul</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716068653545-new-in-2024-top-12-capture-providers-never-stop/"><u>[New] In 2024, Top 12 Capture Providers, Never Stop!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-enabling-offline-playback-for-cod-cold-war/"><u>[RESOLVED] Enabling Offline Playback for CoD Cold War</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-8-instagram-story-filters/"><u>[Updated] 2024 Approved Top 8 Instagram Story Filters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seamless-searches-the-updated-guide-for-finding-youtube-on-fb/"><u>[Updated] In 2024, Seamless Searches The Updated Guide for Finding YouTube on FB</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-viewpoints-on-new-windows-vision/"><u>Adjusting Viewpoints on New Windows Vision</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/audacity-track-splitting-mastery-a-comprehensive-how-to-guide/"><u>Audacity Track Splitting Mastery: A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cp24-by-criacr-a-critical-look-at-the-portable-bluetooth-fm-transmitter-with-flaws-and-features/"><u>CP24 by CRIACR: A Critical Look at the Portable Bluetooth FM Transmitter with Flaws and Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-back-in-the-game-with-these-solutions-fixing-football-manager-2023s-launch-problems/"><u>Get Back in the Game with These Solutions: Fixing Football Manager 2023’S Launch Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-qualcomm-wifi-atheros-on-win10-os/"><u>Harmonizing Qualcomm WiFi - Atheros on Win10 OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-start-a-new-story-install-xps-videographer-tools/"><u>In 2024, Start a New Story, Install XP’s Videographer Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-displacement-of-windows-screen-view/"><u>Resolving Displacement of Window's Screen View</u></a></li>
-<li><a href="https://network-issues.techidaily.com/righted-view-laptop-screenset-corrected/"><u>Righted View: Laptop Screenset Corrected</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/safeguard-your-electronics-the-risks-of-incompatible-usb-c-connections-and-how-to-prevent-them-zdnet/"><u>Safeguard Your Electronics: The Risks of Incompatible USB-C Connections & How to Prevent Them | ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategic-approach-eradicate-screen-lines-in-computers-and-notebooks/"><u>Strategic Approach: Eradicate Screen Lines in Computers and Notebooks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-adjustment/"><u>Windows 11: Advanced Display Adjustment</u></a></li>
-<li><a href="https://win-blog.techidaily.com/windows-fans-rejoice-fixing-persistent-xcom-2-game-crashes-made-easy/"><u>Windows Fans Rejoice: Fixing Persistent XCOM 2 Game Crashes Made Easy!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-searching-for-non-existent-wireless-adapter-in-windows-10/"><u>[RESOLVED] Searching for Non-Existent Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[Updated] Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-and-samsung-faces-examining-their-biometric-security/"><u>[Updated] IPhone & Samsung Faces Examining Their Biometric Security</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ati-graphics-armored-support-restored/"><u>ATI Graphics Armored, Support Restored</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments/"><u>Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-unreliable-touchscreen/"><u>Fixing Lenovo's Unreliable Touchscreen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-stability-challenges-in-civ-5windows/"><u>Tackling Stability Challenges in Civ 5/Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-for-embedding-links-in-tiktok-bios-for-2024/"><u>The Essential Guide for Embedding Links in TikTok Bios for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-desktop-mat-keyboards-ideal-options/"><u>Top-Rated Desktop Mat Keyboards - Ideal Options</u></a></li>
 </ul></div>
 
