@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Fixing Monitor Distortion Easily"
-date: 2024-12-02T00:50:51.669Z
-updated: 2024-12-02T19:49:43.522Z
+date: 2024-12-05T20:37:49.137Z
+updated: 2024-12-10T04:50:49.878Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
  If you ever have the**vertical line on laptop screen** issue, don’t worry. It’s often quite easy to fix…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for vertical lines on Windows 10, 8.1 and 7 issue
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 1. [**Update your graphics driver**](#F1)
 2. [**Adjust the screen resolution**](#F2)
 3. [**Gently wipe the screen with cotton balls**](#F3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -44,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
@@ -78,23 +82,19 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **I’m using Windows 8 or 7:**
 
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Adjust the screen resolution and see if the vertical lines disappear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -125,21 +125,18 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-economical-audio-devices-for-vloggers-on-a-budget/"><u>[New] In 2024, Economical Audio Devices for Vloggers on a Budget</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-digital-deception-steering-clear-from-buying-non-existent-followers/"><u>[Updated] Digital Deception Steering Clear From Buying Non-Existent Followers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>[Updated] From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-pc-performance-meeting-software-install-min-reqs/"><u>Boost PC Performance: Meeting Software Install Min Reqs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-claude-which-one-reigns-supreme-in-conversational-ai/"><u>ChatGPT Vs. Claude: Which One Reigns Supreme in Conversational AI?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-list-of-premier-streaming-services/"><u>Comprehensive List of Premier Streaming Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-flickering-phenomenon-in-hp-displays/"><u>Eliminating Flickering Phenomenon in HP Displays</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f14-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-lava-blaze-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Lava Blaze Pro 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970246502-litigation-is-subject-to-public-record-laws-while-arbitration-results-are-generally-private-and-confidential/"><u>Litigation Is Subject to Public Record Laws, While Arbitration Results Are Generally Private and Confidential.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhaue-hybrid-graphics-sync-windows-11-solves-issues/"><u>Overhaue Hybrid Graphics Sync: Windows 11 Solves Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-screen-flickering-phenomena/"><u>Rectify Screen Flickering Phenomena</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refinement-of-civilization-v-on-windows-pc/"><u>Refinement of Civilization V on Windows PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-advanced-visuals-on-pc-win10/"><u>Unlock Advanced Visuals on PC (Win10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-streaming-addressing-common-audiovideo-hiccups/"><u>Win10 Streaming: Addressing Common Audio/Video Hiccups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-steps-for-starting-a-youtube-channel/"><u>[New] 2024 Approved Essential Steps for Starting a YouTube Channel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stepping-down-sounds-audacity-fading-techniques/"><u>[New] Stepping Down Sounds Audacity Fading Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-lenovo-laptop-black-screen-issues/"><u>[SOLVED] Lenovo Laptop Black Screen Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-repair-glitches-in-instagram-likescomments/"><u>[Updated] In 2024, Repair Glitches in Instagram Likes/Comments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>2024 Approved A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-10-screen-direction-error/"><u>Adjusting Windows 10 Screen Direction Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-1080-graphics-driver-for-windows-10-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 10: Quick and Simple Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009513483-eradicate-your-call-of-duty-global-offensive-lag-in-minutes/"><u>Eradicate Your Call of Duty: Global Offensive Lag in Minutes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win-gdx-failure/"><u>Overcoming Win GDX Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-lucidsound-ls30-microphone-a-step-by-step-fix/"><u>Reviving Your LucidSound LS30 Microphone: A Step-by-Step Fix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-sharex-exploration-reviews-and-contenders-for-2024/"><u>The ShareX Exploration Reviews & Contenders for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unstable-wi-fi-constant-signal-loss/"><u>Unstable Wi-Fi: Constant Signal Loss</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win11 Resume After Fall Creators Blue Screen
-date: 2024-11-26T18:30:36.607Z
-updated: 2024-12-02T17:43:55.360Z
+date: 2024-12-03T02:36:19.524Z
+updated: 2024-12-10T02:14:15.542Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Unplug your external devices
@@ -29,7 +29,7 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -38,10 +38,14 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -50,16 +54,12 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -77,16 +77,24 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-legality-taking-content-offline/"><u>[New] YouTube Legality Taking Content Offline</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-access-unlimited-stock-photos-via-four-noteworthy-youtubes-for-2024/"><u>[Updated] Access Unlimited Stock Photos via Four Noteworthy YouTubes for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-epicurean-elites-top-food-vloggers-you-cant-miss/"><u>2024 Approved Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-12-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme 12 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjustment-for-large-display-on-win10/"><u>Adjustment for Large Display on WIN10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-launch-fails-issue-settled/"><u>Direct3D Launch Fails, Issue Settled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-problem-addressed-full-functionality-regained/"><u>GPU Problem Addressed, Full Functionality Regained</u></a></li>
-<li><a href="https://video-capture.techidaily.com/investigating-the-top-10-cost-effective-video-collaboration-tools-in-corporateedu-settings-for-2024/"><u>Investigating the Top 10 Cost-Effective Video Collaboration Tools in Corporate/Edu Settings for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solutions-for-unrecognized-logitech-keyboards-on-windows-11-systems/"><u>Solutions for Unrecognized Logitech Keyboards on Windows 11 Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-stuck-cursor-dark-screens-win10/"><u>Tackle Stuck Cursor, Dark Screens, Win10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/transform-mp4-files-into-ts-with-these-top-3-complimentary-software-solutions/"><u>Transform MP4 Files Into TS with These Top 3 Complimentary Software Solutions!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-instagrams-filters-a-comprehensive-guide-to-enhance-your-posts/"><u>[New] In 2024, Unveiling Instagram's Filters A Comprehensive Guide to Enhance Your Posts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>[New] Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-zoom-meetings-on-windows-10/"><u>2024 Approved Navigating Zoom Meetings on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/awaken-your-displays-true-colors/"><u>Awaken Your Display's True Colors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/convenient-tactics-for-transferring-imovie-projects-to-vimeo-for-2024/"><u>Convenient Tactics for Transferring iMovie Projects to Vimeo for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicated-oversized-view-on-windows-pcs/"><u>Eradicated Oversized View on Windows PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-poco-m6-pro-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Poco M6 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974801619-improve-graphical-output-install-a-simple-quick-update-for-intel-graphics-on-windows-10/"><u>Improve Graphical Output: Install a Simple, Quick Update for Intel Graphics on Windows 10.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-desktop-snapshot-made-simple-free-tools-for-windows/"><u>In 2024, Desktop Snapshot Made Simple – Free Tools for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-releases-in-computing-a-tribute-to-toms-hardware/"><u>Navigating New Releases in Computing - A Tribute to Tom's Hardware</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-best-zero-cost-mod-video-editors-a-comprehensive-list/"><u>New 2024 Approved Best Zero-Cost MOD Video Editors A Comprehensive List</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-initial-d3d-errors-successfully/"><u>Overcoming Initial D3D Errors Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-internal-display-flutter/"><u>Overcoming Internal Display Flutter</u></a></li>
+<li><a href="https://techidaily.com/prospects-turned-champions-inspiring-journeys-from-customer-queries-to-successful-engagements/"><u>Prospects Turned Champions: Inspiring Journeys From Customer Queries to Successful Engagements</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-civ-5-glitches-on-windows/"><u>Resolve Civ 5 Glitches on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-screenscape-regain-normal-view/"><u>Reverse Screenscape: Regain Normal View</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-in-windows-11-fixed/"><u>Screen Upside Down in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/setting-adjustments-stored-effectively/"><u>Setting Adjustments Stored Effectively</u></a></li>
 </ul></div>
 

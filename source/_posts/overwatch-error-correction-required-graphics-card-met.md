@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Error Correction: Required Graphics Card Met"
-date: 2024-07-29T02:58:41.592Z
-updated: 2024-07-30T02:58:41.592Z
+date: 2024-12-06T16:43:24.292Z
+updated: 2024-12-09T21:56:16.281Z
 tags:
   - win11
   - win10
@@ -44,37 +44,22 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
  4\. Select**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591415094a7c9.png)
 
  5\. Select**Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5914153e7d198.png)
 
  6\. Click**Have Disk…**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591415be533d2.png)
 
  7\. Click**Browse** to find the location of the unzipped driver file. Open the Graphics sub-folder and the .inf will be automatically selected. Then follow the on-screen instructions to complete the install.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591415e0ec12e.png)
 
  If you have difficulty updating drivers manually, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you. Driver Easy can scan your computer to detect all problem drivers. You can **[download the Free version](https://tools.techidaily.com/drivereasy/download/)**  to have a try. If you find it helpful, you can consider upgrading to the Pro version. If you go Pro, you will have higher download speed and can update all drivers with just one-click.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591411cd9d0b1.png)
 
  **Method 4: Roll back the driver**
@@ -83,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
  1\. In Device Manager, right-click on the graphics card (the card being used) and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591419bf4c932.png)
 
  2\. Go to **Driver** tab and click**Roll Back Driver** . (Note if the button is grayed out, it means the driver is not updated. You can’t roll back the driver.)
@@ -107,8 +89,6 @@ Hope methods here help you fix the error.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,8 +96,25 @@ Hope methods here help you fix the error.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-time-constraints-for-video-content-explored/"><u>[New] 2024 Approved Instagram's Time Constraints for Video Content Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comparing-youtube-and-dailymotion-notable-contrasts/"><u>[Updated] In 2024, Comparing YouTube and Dailymotion Notable Contrasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spotlight-on-snapchat-utilization-strategies/"><u>[Updated] Spotlight on Snapchat Utilization Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-effortless-vrecorder-setup-for-2024/"><u>[Updated] The Ultimate Guide to Effortless VRecorder Setup for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-discover-the-ultimate-metaverse-glasses-selection/"><u>In 2024, Discover the Ultimate Metaverse Glasses Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mirthful-stream-retriever-review/"><u>In 2024, Mirthful Stream Retriever Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-xcover-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy XCover 7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-troubleshoot-restore-your-gameplay/"><u>NVIDIA RTX 3080 Troubleshoot - Restore Your Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-elusive-screen-blanks/"><u>Revealing Elusive Screen Blanks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-techniques-to-boost-the-volume-of-your-wav-files/"><u>Simple Techniques to Boost the Volume of Your WAV Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-line-artwork-precision/"><u>Stabilize Line Artwork Precision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-laptop-display-correction-a-quick-fix-methodology/"><u>Streamlining Laptop Display Correction: A Quick Fix Methodology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transformative-zooms-for-snapchat-photos-and-videos/"><u>Transformative Zooms for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/void-on-viewport-latest-card-installation/"><u>Void on Viewport: Latest Card Installation</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
