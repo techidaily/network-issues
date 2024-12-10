@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: Detect Failed for CGs"
-date: 2024-11-19T01:44:09.471Z
-updated: 2024-11-24T01:48:44.942Z
+date: 2024-11-30T16:38:17.085Z
+updated: 2024-12-02T20:02:55.212Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 3. [Delete the config.dat file of your game](#Solution3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Graphics Card and why this problem happens
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
 
  No Suitable Graphics Card Found error occurs usually because the developer changes the settings of the game, or your graphics card adapter is not suitable for the display anymore. So you can follow the solutions below to solve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -89,7 +89,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -100,21 +100,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your PC and open your game again.
 
@@ -138,18 +138,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-story-whats-not-in-public-knowledge-for-2024/"><u>[New] Instagram Story What's Not in Public Knowledge for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cloud-costs-top-picks-for-value/"><u>[Updated] 2024 Approved Cloud Costs Top Picks for Value</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cleared-up-why-my-nvidia-gpu-isnt-showing/"><u>Cleared Up: Why My NVIDIA GPU Isn't Showing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-sims-4-monochrome-issues/"><u>End Sims 4 Monochrome Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-flickering-on-your-visual-display-unit/"><u>Eradicate Flickering on Your Visual Display Unit</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-windows-11-drag-and-drop-failures-now/"><u>Fix Windows 11 Drag-and-Drop Failures Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ghosting-visuals-recent-gpu-upgrade/"><u>Ghosting Visuals: Recent GPU Upgrade?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Moto G73 5G Phones with/without a PC</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/inside-the-magic-understanding-srts-impact-for-2024/"><u>Inside the Magic Understanding SRT's Impact for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rking-galore-places-for-youtube-affiliate-marketing/"><u>Networking Galore Places for YouTube Affiliate Marketing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-pro-7s-unstable-screen/"><u>Overcoming Pro 7'S Unstable Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-stabilized-no-more-flickers/"><u>Win11 Display Stabilized - No More Flickers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-re-establishing-offline-and-online-links-in-cod-cold-war/"><u>[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picture-perfect-adding-imagery-to-ig/"><u>[Updated] 2024 Approved Picture Perfect Adding Imagery to IG</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-list-free-online-meeting-software-roundup/"><u>[Updated] In 2024, The Ultimate List Free Online Meeting Software Roundup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-meme-creation-with-kinemaster/"><u>[Updated] The Ultimate Meme Creation with KineMaster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transition-to-quietude-guiding-gradual-volume-reduction-in-premiere/"><u>[Updated] Transition to Quietude Guiding Gradual Volume Reduction In Premiere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-resolved-fix-issues-with-windows-media-player-when-dvds-wont-play/"><u>1. Resolved: Fix Issues with Windows Media Player when DVDs Won't Play</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-seamless-multi-channel-dts-audio-conversion-with-audacity-a-step-by-step-guide/"><u>1. Seamless Multi-Channel DTS Audio Conversion with Audacity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-generative-ai-models-turning-into-weapons-of-misinformation/"><u>Are Generative AI Models Turning Into Weapons of Misinformation?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crystal-clear-view-lost-in-darkness/"><u>Crystal Clear View: Lost in Darkness?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-the-latest-iphone-12-enhances-wireless-power-with-new-qi2-technology-independent-of-magsafe-exclusive-coverage-by-zdnet/"><u>How the Latest iPhone 12 Enhances Wireless Power with New Qi2 Technology, Independent of MagSafe | Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-15-advanced-tips-for-sports-broadcasting-nba/"><u>In 2024, 15 Advanced Tips for Sports Broadcasting (NBA)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lost-connection-lost-time/"><u>Lost Connection, Lost Time</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ms-bd-tweak-for-smarter-rendering-on-ws-21-ws-8/"><u>MS BD Tweak for Smarter Rendering on WS-21, WS-8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quash-amd-graphical-faux-pas/"><u>Quash AMD Graphical Faux Pas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10s-new-era-smooth-video-and-audio-playback/"><u>Win10's New Era: Smooth Video and Audio Playback</u></a></li>
 </ul></div>
 

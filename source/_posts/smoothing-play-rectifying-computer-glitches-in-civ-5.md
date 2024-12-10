@@ -1,7 +1,7 @@
 ---
 title: "Smoothing Play: Rectifying Computer Glitches in Civ 5"
-date: 2024-11-21T03:05:22.109Z
-updated: 2024-11-23T18:13:52.601Z
+date: 2024-12-01T22:19:31.255Z
+updated: 2024-12-02T21:59:23.406Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game integrity
 
  Sometimes**CIV 5 crashes** because there’re broken or missing files on your system. So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the**CIV 5 crashing**  issue.
@@ -38,6 +42,10 @@ Here’s how to do it:
 2. Click**Library** , then locate and right-click on**Sid Meier’s Civilizatio** n in your list of games and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
@@ -60,12 +68,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
@@ -78,15 +90,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -94,15 +98,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -128,24 +128,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-divine-warriors-convergence-ragnarok-epoch-for-2024/"><u>[New] Divine Warriors Convergence Ragnarok Epoch for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-pro-level-editing-10-must-have-applications-for-insta-videos/"><u>[New] In 2024, Pro-Level Editing 10 Must-Have Applications for Insta Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-recording-winners-pc-and-mac-edition/"><u>[New] Screen Recording Winners PC & Mac Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causing-winbsod-error/"><u>[Resolved] dxgkrnl.sys Causing WinBSOD Error</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-gaggraphs-craft-your-own-jest/"><u>[Updated] 2024 Approved GagGraphs Craft Your Own Jest</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-captivating-android-time-lapses-ideas-and-strategies-2024/"><u>[Updated] Captivating Android Time-Lapses Ideas and Strategies 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bronze-blessings-god-of-war-boost/"><u>Bronze Blessings: God of War Boost</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrease-fallout-4-crashes-in-windows/"><u>Decrease Fallout 4 Crashes in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-switchable-graphics-error-with-intel-and-nvidia-on-win10/"><u>Eliminating Switchable Graphics Error with Intel & Nvidia on Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/examining-amds-innovation-and-its-effect-on-gaming-hardware-sales/"><u>Examining AMD's Innovation and Its Effect on Gaming Hardware Sales</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guide-detaille-comment-contourner-les-protections-des-filmsdvds-de-disney-pour-une-utilisation-personnelle/"><u>Guide Détaillé: Comment Contourner Les Protections Des Films/DVDs De Disney Pour Une Utilisation Personnelle</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-vs-youtube-which-should-you-choose/"><u>In 2024, Podcasts Vs. YouTube Which Should You Choose?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-supercharged-visuals-video-content-plus-filter-amplification-pcmobile/"><u>In 2024, Supercharged Visuals Video Content + Filter Amplification (PC/Mobile)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>In 2024, The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-troubleshooting-disconnected-gpu-display/"><u>Instant Troubleshooting: Disconnected GPU Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/narrowing-excessive-win10-display/"><u>Narrowing Excessive Win10 Display</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-key-distinctions-between-macs-and-pcs-a-comprehensive-insight/"><u>Unveiling the Key Distinctions Between Macs & PCs: A Comprehensive Insight</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974205145-upgrade-your-systems-graphical-capability-with-intel-graphics-3000-on-windows-10-easily/"><u>Upgrade Your System's Graphical Capability with Intel Graphics 3000 on Windows 10 Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-display-fix-guide/"><u>Win11 Dark Display, Fix Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-instant-animation-from-youtube-videos-to-compelling-gifs/"><u>[New] 2024 Approved Instant Animation From YouTube Videos to Compelling GIFs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-digital-mastery-top-10-instagram-enhancers/"><u>[Updated] Digital Mastery Top 10 Instagram Enhancers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamline-strategies-softwares-versus-hardware-harmony-for-2024/"><u>[Updated] Streamline Strategies Softwares Versus Hardware Harmony for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-highlow-res-issues-enjoying-better-display-on-win-10/"><u>Fixed High/Low Res Issues, Enjoying Better Display on Win 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-choosing-the-right-platform-a-look-at-vimeo-youtube-and-dailymotion/"><u>In 2024, Choosing the Right Platform A Look at Vimeo, YouTube & DailyMotion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-frame-it-right-selecting-the-perfect-borders-for-social-media-photos/"><u>In 2024, Frame It Right Selecting the Perfect Borders for Social Media Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-radeon-hd-6950-windows-11-graphics-update-announced/"><u>New Radeon HD 6950 Windows 11 Graphics Update Announced</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-failure-screen-remains-blacked-out/"><u>New Tech Failure: Screen Remains Blacked-Out</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dark-mode-issue-on-win10/"><u>Overcoming Dark Mode Issue on Win10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simplifying-the-process-of-capturing-and-fine-tuning-videos-in-adobe-connect/"><u>Simplifying the Process of Capturing and Fine-Tuning Videos in Adobe Connect</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-eradicating-the-stop-error-0xc0000005-in-microsoft-windows-systems/"><u>Step-by-Step Solution: Eradicating the STOP Error 0XC0000005 in Microsoft Windows Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-your-video-editing-process-for-green-issues-on-youtube/"><u>Streamlining Your Video Editing Process for Green Issues on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ultimate-shot-selection-best-stabilizers-reviewed/"><u>Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-10-hd-settings-unresolved-to-solved/"><u>Win 10 HD Settings: Unresolved to Solved</u></a></li>
 </ul></div>
 

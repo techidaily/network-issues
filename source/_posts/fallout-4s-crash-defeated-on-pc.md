@@ -1,7 +1,7 @@
 ---
 title: Fallout 4'S Crash, Defeated on PC
-date: 2024-07-12T00:14:11.015Z
-updated: 2024-07-13T00:14:11.015Z
+date: 2024-11-25T19:16:14.755Z
+updated: 2024-12-02T23:46:02.798Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -39,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -70,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 4) Restart your computer and open your Fallout 4.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Temporarily disable the antivirus program**
 
  As known, the antivirus program in your computer is possible incompatible with your Steam games, including Fallout 4\. So you can check your antivirus program. To do so, follow these steps:
@@ -98,6 +114,10 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -112,8 +132,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +139,26 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-system-runs-normal-again/"><u>[Fixed]: Graphics System Runs Normal Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-troubleshooted-resolved-no-amd-graphics-on-windows-10/"><u>[SYSTEM TROUBLESHOOTED] Resolved No AMD Graphics on Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-handp-a-comprehensive-strategy-for-fb-health-marketing/"><u>[Updated] Mastering H&P A Comprehensive Strategy for FB Health Marketing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-recording-audio-for-impactful-ppts-and-presentations/"><u>[Updated] Recording Audio For Impactful PPTs & Presentations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-down-high-definition-a-look-at-4k/"><u>Breaking Down High Definition: A Look at 4K</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-screen-display-on-windows-7/"><u>Correcting Inverted Screen Display on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-smart-8-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Smart 8 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-the-action-camera-revolution-a-yi-4k-journey-for-2024/"><u>Inside the Action Camera Revolution A Yi 4K Journey for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-lenovo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Lenovo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mettiti-ai-lavori-converti-i-tuoi-file-audio-aiff-gratuitamente-in-flac-usando-movavi-semplice-e-veloce/"><u>Mettiti Ai Lavori! Converti I Tuoi File Audio AIFF Gratuitamente in FLAC Usando Movavi - Semplice E Veloce!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/praise-in-pixels-the-new-marketing-trend-for-2024/"><u>Praise in Pixels The New Marketing Trend for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reestablishing-gpu-fan-movement/"><u>Reestablishing GPU Fan Movement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-angle-reversal-solved/"><u>Screen Angle Reversal - Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-flicker-boosting-display-life-pro-7/"><u>Taming the Flicker, Boosting Display Life (Pro 7)</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-essential-windows-applications-the-must-have-software-tools-and-their-importance/"><u>Top Essential Windows Applications: The Must-Have Software Tools & Their Importance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-spectrum-simple-fixes-for-perfect-photoshop-palette-adjustments-for-2024/"><u>Unveiling the Spectrum Simple Fixes for Perfect Photoshop Palette Adjustments for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-8-best-podcast-software-guide/"><u>Window's 8 Best Podcast Software Guide</u></a></li>
+</ul></div>
 

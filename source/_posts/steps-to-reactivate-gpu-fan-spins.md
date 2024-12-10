@@ -1,7 +1,7 @@
 ---
 title: Steps to Reactivate GPU Fan Spins
-date: 2024-11-17T00:14:53.800Z
-updated: 2024-11-24T01:42:26.901Z
+date: 2024-11-29T22:31:47.941Z
+updated: 2024-12-02T16:19:35.373Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
  But don’t worry if you’re in the same boat. Here’re some working fixes that have helped many users, try them and get your fans working right away.
 
  Before you start, first check if your GPU has a**thermal control** (e.g. Fan Stop by GIGABYTE) that allows fans to spin only at certain temperatures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it normal?
 
@@ -51,23 +55,19 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -94,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
@@ -106,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
@@ -125,10 +121,14 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -162,14 +162,17 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-exclusive-list-of-the-top-10-digital-recording-apps/"><u>[New] 2024 Approved Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[New] 2024 Approved FREE 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-visual-tales-expertly-warping-and-twisting-in-photoshop/"><u>[Updated] Crafting Visual Tales Expertly Warping & Twisting in Photoshop</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728489185685-vmware/"><u>全方位教程：如何在VMware中成功克隆物理硬件伺服器</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-msi-bios-with-successful-windows-driver-update/"><u>Harmonizing MSI BIOS with Successful Windows Driver Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-amd-radeon-r9-drivers-in-win11/"><u>Mastering AMD Radeon R9 Drivers in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-common-green-screen-hiccups-in-video-editing/"><u>Overcoming Common Green Screen Hiccups in Video Editing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-triumph/"><u>Qualcomm Adapter Compatibility - Windows 10 Triumph</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-and-simple-creating-stunning-time-lapses-on-samsungs/"><u>[New] Quick & Simple Creating Stunning Time-Lapses on Samsungs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-4-unrooted-ways-to-log-internal-android-audio/"><u>[Updated] 4 Unrooted Ways to Log Internal Android Audio</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unlocking-photo-magic-intro-to-snapseed-features/"><u>2024 Approved Unlocking Photo Magic Intro to Snapseed Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparing-the-best-of-gopro-cameras-for-2024/"><u>Comparing the Best of GoPro Cameras for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-acting-fix-gpu-anomaly-cleared/"><u>Fast-Acting Fix: GPU Anomaly Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-11-windows-monitor-missing-full-screen/"><u>Fix: 11 Windows Monitor Missing Full Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-210-drivers-boosting-gaming-on-win10-platform/"><u>GeForce 210 Drivers: Boosting Gaming on WIN10 Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-itel-a60-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Itel A60 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/manage-display-settings-in-windows-11/"><u>Manage Display Settings in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/putting-an-end-to-windows-screen-glimmer/"><u>Putting an End to Windows Screen Glimmer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/quick-technique-downloading-tweet-videos-to-your-phone/"><u>Quick Technique Downloading Tweet Videos to Your Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-star-citizen-from-crashing-on-pc/"><u>Troubleshooting Tips for Preventing Star Citizen From Crashing on PC</u></a></li>
 </ul></div>
 

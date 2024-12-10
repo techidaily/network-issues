@@ -1,7 +1,7 @@
 ---
 title: "Immediate Resolution: Apex Loot Errors"
-date: 2024-07-29T02:59:37.871Z
-updated: 2024-07-30T02:59:37.871Z
+date: 2024-11-30T22:39:12.605Z
+updated: 2024-12-02T22:30:42.597Z
 tags:
   - win11
   - win10
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 
 ## Immediate Resolution: Apex Loot Errors
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apex Legends crash](https://images.drivereasy.com/wp-content/uploads/2019/03/image-124.png)
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
@@ -58,11 +55,12 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
 _You can do it for free if you like, but it’s partly manual._
@@ -81,16 +79,10 @@ _You can do it for free if you like, but it’s partly manual._
 
  2\. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 20 Series** ; for “Product”, select **Geforce RTX 2060** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
@@ -141,10 +133,11 @@ Here we list its minimum system requirements for you to check:
 
 3\. Wait until the verifying process completes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -160,12 +153,17 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -177,10 +175,11 @@ You can follow the instructions below to install the latest game patch:
 
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -196,8 +195,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,8 +202,22 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-15-must-reads-in-line-with-booktok-trends/"><u>[New] 2024 Approved Top 15 Must-Reads in Line with BookTok Trends</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-content-reach-igtv-and-facebook-synergy-for-2024/"><u>[New] Enhancing Content Reach IGTV & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enriching-videos-with-no-cost-sounds-legally/"><u>[Updated] 2024 Approved Enriching Videos with No-Cost Sounds Legally</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>2024 Approved TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-failed-window-graphics-device-linkage/"><u>Corrected Failed Window Graphics Device Linkage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake/"><u>Correcting Aspect Ratio Mistake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-black-screen-on-latest-windows-update/"><u>Fix for BLACK SCREEN on Latest Windows Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-stepwise-approach-transform-fish-voices-on-pcs/"><u>In 2024, Stepwise Approach Transform Fish Voices on PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nubia-red-magic-8s-proplus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nubia Red Magic 8S Pro+ Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-low-quality-textures-for-island-adventure/"><u>Rectifying Low-Quality Textures for Island Adventure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reestablishing-function-in-disabled-amd-freesync/"><u>Reestablishing Function in Disabled AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-obstacles-fixing-drivers-of-r9-on-win10/"><u>Removing Obstacles: Fixing Drivers of R9 on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-adjustments-saved-and-secured/"><u>Screen Adjustments Saved and Secured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y28 5G? | Dr.fone</u></a></li>
+</ul></div>
 

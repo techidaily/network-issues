@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2024-11-17T02:07:47.715Z
-updated: 2024-11-24T04:08:05.216Z
+date: 2024-11-28T21:26:27.207Z
+updated: 2024-12-02T19:29:23.761Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Restart Fortnite
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
@@ -63,10 +59,6 @@ wireless router
 **Plug in** your network devices again and wait until the indicator lights are back to their normal state. 
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging applications
 
@@ -79,6 +71,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -102,7 +98,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -110,11 +106,11 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
 
@@ -123,10 +119,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
@@ -144,15 +136,23 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
@@ -196,20 +196,21 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-causing-bsod-on-windows-os/"><u>[Fix]: dxgkrnl.sys Causing BSOD on Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rendering-issue-fixed-reinstalled-amd-graphics-drivers-on-pcs/"><u>[RENDERING ISSUE FIXED] Reinstalled AMD Graphics Drivers on PCs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-compelling-gopro-livestreams-on-facebook-and-periscope/"><u>2024 Approved Crafting Compelling GoPro Livestreams on Facebook & Periscope</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unraveling-the-mystery-of-ad-driven-content-creation-cpm/"><u>2024 Approved Unraveling the Mystery of Ad-Driven Content Creation (CPM)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/add-extra-security-layers-to-gmail-with-a-comprehensive-guide-on-activating-two-step-verification/"><u>Add Extra Security Layers to Gmail with a Comprehensive Guide on Activating Two-Step Verification</u></a></li>
-<li><a href="https://network-issues.techidaily.com/avoiding-hp-lcd-stuttering-events/"><u>Avoiding HP LCD Stuttering Events</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehve-steps-to-restore-sound-on-a-silent-pc-or-mac-speaker-system/"><u>Comprehve Steps to Restore Sound on a Silent PC or Mac Speaker System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-mobile-experience-with-these-8-premier-multi-number-apps/"><u>Enhance Your Mobile Experience with These 8 Premier Multi-Number Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Magic 6 Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discovering-the-hottest-templates-for-social-media-vfx/"><u>In 2024, Discovering the Hottest Templates for Social Media VFX</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-wide-monitor-distortion-in-window-os/"><u>Overcome Wide Monitor Distortion in Window OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-setup-error-code-c1900101-on-pc/"><u>Resolving Setup Error Code C1900101 on PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/shut-down-fbs-tracking-off-fb-workflow-guide/"><u>Shut Down Fb's Tracking - Off-FB Workflow Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-inverted-screen-problem-in-windows-10/"><u>Solving Inverted Screen Problem in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-atheros-qca61x4drivers-fixed/"><u>Windows 11 Atheros QCA61x4Drivers Fixed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>[New] The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-expert-guide-to-optimal-tripod-setup-for-high-quality-vlogs/"><u>[Updated] 2024 Approved Expert Guide to Optimal Tripod Setup for High-Quality Vlogs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-front-row-diversions-beyond-sports-galore/"><u>2024 Approved Front Row Diversions Beyond Sports Galore</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoidance-and-correction-of-youtubes-unwanted-background-hue/"><u>Avoidance and Correction of YouTube's Unwanted Background Hue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-compatibility-issues-nvidiaintel-switchable-fixes-on-win10/"><u>Conquering Compatibility Issues: NVIDIA/Intel Switchable Fixes on Win10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-navigation-and-multitasking-master-phone-usage-while-driving-with-geolocation-features-and-task-organization-insights-from-the-abbyy-blog/"><u>Effective Navigation & Multitasking: Master Phone Usage While Driving with Geolocation Features & Task Organization - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-error-code-80/"><u>How to Fix Steam Error Code 80</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stability-secured-the-ultimate-guide-for-uninterrupted-iphone-videos/"><u>In 2024, Stability Secured The Ultimate Guide for Uninterrupted iPhone Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-highlow-res-display-issues-in-upgraded-windows-10/"><u>Overcoming High/Low-Res Display Issues in Upgraded Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/regaining-access-to-nvidia-screen-controls/"><u>Regaining Access to NVIDIA Screen Controls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-screen-fails-to-show-full-window-in-windows-10/"><u>Resolved: Screen Fails to Show Full Window in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-razer-devices-not-detected-by-synapse-on-windows/"><u>Steps to Resolve Razer Devices Not Detected by Synapse on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/syncing-intel-and-nvidia-gpus-problem-resolved-on-win11/"><u>Syncing Intel & Nvidia GPUs - Problem Resolved on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-persistent-asus-webcam-failures/"><u>Troubleshooting Persistent Asus Webcam Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-tips-for-resolving-missing-opengl32dll-errors/"><u>Ultimate Troubleshooting Tips for Resolving Missing OpenGL32.dll Errors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/zoom-class-chronicling/"><u>Zoom Class Chronicling</u></a></li>
 </ul></div>
 

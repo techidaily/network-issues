@@ -1,7 +1,7 @@
 ---
 title: "[Modified] Advanced Display Missing in Windows 11"
-date: 2024-11-19T16:58:08.763Z
-updated: 2024-11-23T21:08:37.899Z
+date: 2024-11-29T02:54:13.535Z
+updated: 2024-12-02T20:30:59.611Z
 tags:
   - win11
   - win10
@@ -20,13 +20,17 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
 
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
@@ -56,12 +60,16 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -75,29 +83,21 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -122,22 +122,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-overwatch-no-start-on-xbox-directx-issue/"><u>[FIXED] Overwatch No Start on Xbox - DirectX Issue</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>[New] 2024 Approved The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-bypassing-errors-in-facebook-story-postings-and-viewing-for-2024/"><u>[Updated] Bypassing Errors in Facebook Story Postings & Viewing for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dominating-the-youtube-sphere-key-strategies-for-top-tier-presence/"><u>[Updated] In 2024, Dominating the YouTube Sphere Key Strategies for Top-Tier Presence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-6-budget-savvy-4k-large-screen-options/"><u>[Updated] Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bug-be-gone-hunter-world-is-alive-again/"><u>Bug Be Gone! Hunter World Is Alive Again</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-experience-geforce-rtx210-windows-update/"><u>Elevate Your Experience - GeForce RTX210 Windows Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expanding-reach-googles-gemini-now-available-on-legacy-android-devices/"><u>Expanding Reach: Google's Gemini Now Available on Legacy Android Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-black-screen-issue-in-persona-5-strikers-a-step-by-step-guide/"><u>Fixing the 'Black Screen' Issue in Persona 5 Strikers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974651271-hassle-free-upgrade-intel-g3000-graphics-on-win11/"><u>Hassle-Free Upgrade: Intel G3000 Graphics on Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-xiaomi-13t-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Xiaomi 13T Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-wanders-away-on-tv-connection/"><u>Laptop Image Wanders Away on TV Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-latest-graphics-drivers-a-win10-upgrade/"><u>NVIDIA's Latest Graphics Drivers: A Win10 Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solution-to-windows-10-black-out-post-update/"><u>Solution to Windows 10 Black Out Post Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-civ-v-errors-in-windows-environment/"><u>Tackle Civ V Errors in Windows Environment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-unforgettable-home-videos-top-dvd-authoring-software-for-2024/"><u>Updated Create Unforgettable Home Videos Top DVD Authoring Software for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-master-your-broadcast-top-obs-screencast-tools-explored/"><u>[Updated] In 2024, Master Your Broadcast Top OBS Screencast Tools Explored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blackout-issue-after-graphics-card-update/"><u>Blackout Issue After Graphics Card Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defining-4k-ultra-high-definition/"><u>Defining 4K Ultra High Definition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropped-offline-the-internets-lament/"><u>Dropped Offline: The Internet's Lament</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-fidelity-and-unmatched-clarity-a-comprehensive-look-at-dough-spectrums-oled-monitor-for-gamers/"><u>High Fidelity and Unmatched Clarity: A Comprehensive Look at Dough Spectrum's OLED Monitor for Gamers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-optimizing-your-workflow-with-bandicams-screen-recorder-features/"><u>In 2024, Optimizing Your Workflow with Bandicam’s Screen Recorder Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-sonic-sleuths-den-acquire-and-scrutinize-audio-files/"><u>In 2024, Sonic Sleuths' Den Acquire & Scrutinize Audio Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fixes-get-your-windows-10-audio-working-again/"><u>Mastering the Fixes: Get Your Windows 10 Audio Working Again</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-featured-slot-a-detailed-explanimation-for-2024/"><u>Navigating YouTube's Featured Slot A Detailed Explanimation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-graphics-milestone-for-rtx210-on-windows-11-platform/"><u>New Graphics Milestone for RTX210 on Windows 11 Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-installer-error-resolved-successfully/"><u>Nvidia's Installer Error Resolved Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-direct3d-initialization-failure/"><u>Overcoming Direct3D Initialization Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-win11-no-display-issue/"><u>Solving Win11 No-Display Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974836333-swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win2k-printer-response-error-resolution-guide/"><u>Win2K Printer Response: Error Resolution Guide</u></a></li>
 </ul></div>
 

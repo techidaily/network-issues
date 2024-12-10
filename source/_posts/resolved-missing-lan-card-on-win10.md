@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Missing LAN Card on Win10"
-date: 2024-11-20T23:58:01.328Z
-updated: 2024-11-24T08:48:30.098Z
+date: 2024-11-25T18:38:35.955Z
+updated: 2024-12-03T02:27:07.553Z
 tags:
   - win11
   - win10
@@ -44,19 +44,19 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap597.png)
 4. Double-click**Network adapters** to expand the list. See if your wireless network adapter (usually the adapter whose name contains the word “wireless”) appears among the list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap598.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your adapter appears shows up on the list, double-click on it to open its properties window. See if the adapter is working properly.
 
  If your wireless network adapter doesn’t appear among the list, or if the adapter is not working as expected, don’t worry! Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Add the network adapter manually
 
@@ -66,25 +66,25 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click**Action** on the menu bar and select**Add legacy hardware** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click**Next** to move on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select**Network adapters** , and click**Next** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-64.png)
 6. Make sure you select the correct manufacturer for your wireless network adapter (if you’re not sure which is the correct choice, move on to the**[next fix below](#f3)** for it to be done automatically) on the left side panel, then select your network adapter on the right-side panel, click**Next** for the driver to be installed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-65.png)
 
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 ## Fix 4: Reset the Winsock settings
@@ -130,21 +134,17 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 2. In the Command Prompt, type **netsh winsock reset** and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap603.png)
 3. **Restart**  your PC to complete the reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if your wireless network adapter appears in Device Managers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Replace your network interface controller card
 
@@ -170,22 +170,19 @@ See if your wireless network adapter appears in Device Managers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-profitable-videos-on-demand-leveraging-analytics-and-ad-revenue-everywhere/"><u>[New] Profitable Videos on Demand Leveraging Analytics & Ad Revenue Everywhere</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unveiling-drone-footage-wonders-the-leading-software-rankings-for-2024/"><u>[New] Unveiling Drone Footage Wonders The Leading Software Rankings for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>[Updated] In 2024, Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-spark-20-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Spark 20 by Name | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-smartwatch-software-options-for-your-android-device/"><u>Discover the Best Smartwatch Software Options for Your Android Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-f5-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco F5 5Gwith/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-m6-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco M6 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-issues-detected-post-nvidia-installation/"><u>No Issues Detected Post-Nvidia Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rtx-feedback-resolved/"><u>Nvidia RTX Feedback - Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quickly-boost-intel-g3000-on-win11/"><u>Quickly Boost Intel G3000 on Win11!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-drivers-fixederror-22/"><u>Rectified Drivers' FixedError 22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/skip-the-glitch-with-amd-fixes/"><u>Skip the Glitch with AMD Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-visual-line-continuity/"><u>Streamline Visual Line Continuity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unblocking-asus-camera-from-hardware-issues/"><u>Unblocking Asus Camera From Hardware Issues</u></a></li>
-<li><a href="https://article-tips.techidaily.com/visual-virtuosity-the-best-sites-and-apps-for-frames-on-photos/"><u>Visual Virtuosity The Best Sites & Apps for Frames on Photos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-arm-screen-adjustment-no-more-troubles/"><u>Win11: Arm Screen Adjustment No More Troubles</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/shagi-k-kopirovaniyu-hdd-na-ssd-bez-pereustanovki-os-rukovodstvo-po-migracii-dannyh/"><u>Шаги К Копированию HDD На SSD Без Переустановки ОС: Руководство По Миграции Данных</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>[Updated] The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-is-paying-monthly-just-for-ad-free-streaming-or-are-there-more-benefits/"><u>2024 Approved Is Paying Monthly Just For Ad-Free Streaming, Or Are There More Benefits?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-problem-solution-error-43/"><u>Card Problem Solution - Error 43</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonizing-your-footage-with-optimal-aspect-ratios/"><u>Harmonizing Your Footage With Optimal Aspect Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hurdles-cleared-in-nvidia-installation-process/"><u>Hurdles Cleared in Nvidia Installation Process</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>In 2024, Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-itel-a05s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Itel A05s FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-look-at-the-latest-gadgets-with-tom-hardware-insights/"><u>In-Depth Look at the Latest Gadgets with Tom - Hardware Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-nvidia-fermi-series-update-geforce-210-windows-integration/"><u>Latest NVidia Fermi Series Update: GeForce 210 Windows Integration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-screen-non-interaction-a-quick-fix/"><u>Lenovo Screen Non-Interaction: A Quick Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-gpu-drivers-removal-in-win-oses/"><u>Mastering the Art of GPU Drivers Removal in Win OSes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-flipped-displays-on-windows-11-os/"><u>Overcoming Flipped Displays on Windows 11 OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romance-in-rhetoric-selecting-the-best-flirting-lines/"><u>Romance in Rhetoric: Selecting the Best Flirting Lines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-fold-7-predicted-release-timeline-cost-estimates-and-rumored-features-explained/"><u>Upcoming Samsung Galaxy Z Fold 7 - Predicted Release Timeline, Cost Estimates & Rumored Features Explained</u></a></li>
 </ul></div>
 

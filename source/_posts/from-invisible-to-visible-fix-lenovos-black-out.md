@@ -1,7 +1,7 @@
 ---
 title: "From Invisible to Visible: Fix Lenovo’s Black Out"
-date: 2024-07-12T00:15:44.539Z
-updated: 2024-07-13T00:15:44.539Z
+date: 2024-12-01T01:05:25.431Z
+updated: 2024-12-02T17:30:50.385Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -63,6 +67,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -83,6 +91,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -101,9 +113,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -122,6 +142,10 @@ So you can try disabling fast startup to see if it does the trick:
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -144,6 +168,10 @@ So you can try disabling fast startup to see if it does the trick:
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
@@ -170,8 +198,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,6 +205,24 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-7-key-reddit-techniques-to-elevate-your-startups-brand-visibility/"><u>[New] 7 Key Reddit Techniques to Elevate Your Startup's Brand Visibility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-breathe-life-into-images-step-by-step-text-editing-guide/"><u>[Updated] 2024 Approved Breathe Life Into Images Step-by-Step Text Editing Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-seamlessly-saving-your-screen-premium-choices-on-pc-and-mac/"><u>[Updated] In 2024, Seamlessly Saving Your Screen Premium Choices on PC & Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-role-of-arvr-in-medical-training/"><u>[Updated] The Role of AR/VR in Medical Training</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-inside-virtuality-metaverse-vs-omniverse-in-focus/"><u>2024 Approved Inside Virtuality Metaverse Vs. Omniverse in Focus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-gamers-look-at-the-nintendo-switch-dominating-the-portable-console-market/"><u>A Gamer's Look at the Nintendo Switch - Dominating the Portable Console Market</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-troubleshoot-and-fix-the-black-screen-problem-in-windows-10-following-a-system-upgrade/"><u>How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/41826017-in-2024-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>In 2024, Elevate Your Channel Hit the 10,000 View Mark Fast</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-frames-per-second-fps-experts-guide-with-6-key-techniques/"><u>Maximize Frames Per Second (FPS): Expert's Guide with 6 Key Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-code-43-failure-for-nvidia-geforce-gtx-950-on-windows-11-systems-solutions-proven-effective/"><u>Overcoming 'Code 43' Failure for NVIDIA GeForce GTX 950 on Windows 11 Systems - Solutions Proven Effective</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-challenge-of-a-shaky-internet-during-video-calls-on-zoom-now-solved/"><u>Overcoming the Challenge of a Shaky Internet During Video Calls on Zoom - Now Solved!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-guide-eliminating-excessive-latency-for-smoother-gameplay-on-fortnite/"><u>Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reply/"><u>Reply</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvstreamuseraagentexe-crashes-fixed-on-windows-systems/"><u>Resolved: NVSTREAMUSERA_AGENT.EXE Crashes Fixed on Windows Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-router-comparison-why-the-nighthawk-rax120-leads-in-speed/"><u>Top Router Comparison: Why the Nighthawk RAX120 Leads in Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-audio-enhancer-features-for-improved-performance/"><u>Troubleshooting Windows' Audio Enhancer Features for Improved Performance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Grainy Graphics in Ubisoft's Island Adventure
-date: 2024-11-18T20:24:22.759Z
-updated: 2024-11-24T11:16:04.554Z
+date: 2024-12-01T01:24:03.242Z
+updated: 2024-12-03T03:35:08.694Z
 tags:
   - win11
   - win10
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 [4: Clean the DirectX cache](#fix4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Run as admin
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -114,7 +114,7 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -130,15 +130,19 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
@@ -158,10 +162,6 @@ If this doesn’t help, there’s one more fix you can try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
@@ -187,21 +187,21 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-riders-republic-launch-failure-directx-compatibility/"><u>[CORRECTED] Riders Republic Launch Failure - DirectX Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-dxgkrnlsys-solved-blue-screen-in-winos/"><u>[Fixed] dxgkrnl.sys, Solved Blue Screen in WinOS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-discover-the-best-no-cost-soundtracks-for-video-production/"><u>[New] In 2024, Discover the Best No-Cost Soundtracks for Video Production</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-turning-fb-videos-into-audible-mp3s/"><u>[New] The Ultimate Guide to Turning Fb Videos Into Audible MP3s</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-chucklecraft-pixel-perfect-humor/"><u>[Updated] 2024 Approved ChuckleCraft Pixel-Perfect Humor</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-dual-display-capture/"><u>[Updated] In 2024, Dual Display Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-mac-screenshot-methods-a-comprehensive-list/"><u>[Updated] Quick Mac Screenshot Methods A Comprehensive List</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-error-on-windows-10-system/"><u>Correcting Aspect Ratio Error on Windows 10 System</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-and-analyzing-vmware-vsphere-reports-with-vcenter-snapshots/"><u>Creating and Analyzing VMware vSphere Reports with vCenter Snapshots</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974191767-elevate-your-display-experience-by-updating-to-the-latest-intel-hd-graphics-3000-in-w10/"><u>Elevate Your Display Experience by Updating to the Latest Intel HD Graphics 3000 in W10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-intensity-levels/"><u>Enhancing Lenovo Display Intensity Levels</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-gt-neo-5-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme GT Neo 5 FRP</u></a></li>
-<li><a href="https://network-issues.techidaily.com/missing-wireless-in-windows-11-the-end/"><u>Missing Wireless in Windows 11 - The End?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915329033-social-engagement-hubs-unite-facebook-twitter-instagram-and-youtube-insights/"><u>Social Engagement Hubs Unite: Facebook, Twitter, Instagram, and Youtube Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-fix-full-screen-windows-in-windows-10-visible-again/"><u>Successful Fix: Full-Screen Windows in Windows 10 Visible Again</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728499237181-wbadmin/"><u>バックアップおよびシステムの再構築: Wbadminコマンドラインオプションでするべきこと - 詳細解説</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-windows-hdri-a-users-editing-handbook/"><u>[New] 2024 Approved Windows HDRI A User’s Editing Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-craftsmanship-avoiding-common-film-lighting-pitfalls/"><u>[New] Illuminating Craftsmanship Avoiding Common Film-Lighting Pitfalls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-8-premium-mp3-extraction-software-android-for-2024/"><u>[New] Unveiling 8 Premium MP3 Extraction Software (Android) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bsod-due-to-dxgkrnlsys-on-windows/"><u>[Resolved]: BSOD Due to dxgkrnl.sys on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide/"><u>[Updated] 2024 Approved Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-step-by-step-instruction-on-downloading-installing-and-using-ez-grabber/"><u>[Updated] 2024 Approved Step-by-Step Instruction on Downloading, Installing & Using EZ Grabber</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-honorable-5-quicktime-frame-recorder-for-2024/"><u>[Updated] Honorable 5 Quicktime Frame Recorder for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-gdx-setup-failure-on-os-x/"><u>Corrected GDX Setup Failure on OS X</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-route-setting-up-wi-fi-ethernet-device-on-pcs/"><u>Direct Route: Setting up Wi-Fi Ethernet Device on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-stability-improved-with-driver-correction/"><u>Display Stability Improved with Driver Correction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-10t-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme 10T 5G Is Unlocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-rectify-youtube-video-background-imperfections/"><u>Steps to Rectify YouTube Video Background Imperfections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461011459-stuck-with-unsuccessful-full-screen-shots-on-safari-find-out-how-to-resolve-it-now/"><u>Stuck with Unsuccessful Full-Screen Shots on Safari? Find Out How to Resolve It Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-low-resolution-textures-in-ubisofts-island/"><u>Troubleshooting Low-Resolution Textures in Ubisoft's Island</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-secrets-successfully-connecting-a-paired-bluetooth-device-in-windows-11/"><u>Unlocking the Secrets: Successfully Connecting a Paired Bluetooth Device in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-intel-gpu-software-for-windows/"><u>Updating Intel GPU Software for Windows</u></a></li>
 </ul></div>
 

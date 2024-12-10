@@ -1,7 +1,7 @@
 ---
 title: Resolving Vertical Display Flip
-date: 2024-11-17T21:19:20.859Z
-updated: 2024-11-24T02:03:19.662Z
+date: 2024-12-01T02:30:36.239Z
+updated: 2024-12-02T23:31:36.827Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -39,10 +39,6 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -52,17 +48,21 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -77,12 +77,12 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,20 +105,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1716069896651-new-2024-approved-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>[New] 2024 Approved Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-adding-frames-on-instagram-photos-for-2024/"><u>[New] Step-by-Step Guide to Adding Frames on Instagram Photos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recovered-state-after-glitch-nvidia-shows-stability/"><u>[Recovered State] After Glitch, Nvidia Shows Stability</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-slow-your-roll-thriving-in-the-world-of-sluggish-youtube-content-52-chars/"><u>[Updated] 2024 Approved Slow Your Roll Thriving in the World of Sluggish YouTube Content (52 Chars)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-2023-shift-in-facebooks-video-presentation-style/"><u>[Updated] In 2024, The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
-<li><a href="https://network-issues.techidaily.com/armored-fix-for-gpu-driver-22/"><u>Armored Fix for GPU DRIVER #22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flawless-streams-instant-fix-needed/"><u>Flawless Streams, Instant Fix Needed</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-tackle-c1900101-during-win11-setup-process/"><u>How To Tackle C1900101 During Win11 Setup Process</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-90-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor 90 Pro Through Google Earth?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/patched-erroneous-windows-graphics-link/"><u>Patched Erroneous Windows Graphics Link</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-flicker-phenomenon-in-pro-7/"><u>Quelling Flicker Phenomenon in Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-your-monitor-from-blinking/"><u>Stop Your Monitor From Blinking</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-4k-showcase-must-see-video-clips-for-any-enthusiast/"><u>The Ultimate 4K Showcase Must-See Video Clips for Any Enthusiast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-your-access-steps-to-score-free-study-streaming-with-tidal/"><u>Unlock Your Access: Steps to Score Free Study Streaming with Tidal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-blend-into-black-premiere-pro-trick-for-2024/"><u>[New] Blend Into Black Premiere Pro Trick for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-beginners-checklist-8-key-slip-ups-in-youtube-creation/"><u>[New] In 2024, The Beginner's Checklist 8 Key Slip-Ups in YouTube Creation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-new-vloggers-guide-to-top-10-youtube-editing-techniques/"><u>[Updated] New Vloggers' Guide to Top 10 YouTube Editing Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-nocturnal-nuances-expert-insights-into-nighttime-photography-for-2024/"><u>[Updated] Nocturnal Nuances Expert Insights Into Nighttime Photography for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-influence-are-we-witnessing-the-end-of-conventional-academic-papers/"><u>ChatGPT's Influence: Are We Witnessing the End of Conventional Academic Papers?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-content-incorporating-exact-timestamps-in-videos/"><u>Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/industrial-grade-secure-data-clearance-get-insight-into-bitrasers-erasure-suite-for-enterprises/"><u>Industrial-Grade Secure Data Clearance: Get Insight Into BitRaser’s Erasure Suite for Enterprises</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamlessly-weaving-your-own-generated-text-models-into-any-chatgpt-exchange/"><u>Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-for-you-methods-to-develop-a-bespoke-gpt-model/"><u>Tailoring ChatGPT for You: Methods to Develop a Bespoke GPT Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-game-changing-mouse-tech-specs/"><u>Unveiling Game-Changing Mouse Tech Specs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-best-in-middle-tier-tablets-for-android-users-a-closer-look-at-the-samsung-galaxy-tab-s7/"><u>Unveiling the Best in Middle Tier Tablets for Android Users: A Closer Look at the Samsung Galaxy Tab S7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-mastering-the-ken-burns-effect-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/why-is-my-iphone-lagging-uncover-the-6-main-issues-and-remedies/"><u>Why Is My iPhone Lagging? Uncover the 6 Main Issues & Remedies</u></a></li>
 </ul></div>
 

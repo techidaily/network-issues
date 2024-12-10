@@ -1,7 +1,7 @@
 ---
 title: Better PC Experience with Swift Roblox Action
-date: 2024-07-12T00:14:02.383Z
-updated: 2024-07-13T00:14:02.383Z
+date: 2024-11-25T17:02:35.925Z
+updated: 2024-12-02T20:34:38.454Z
 tags:
   - win11
   - win10
@@ -104,6 +104,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Change your DNS settings
 
  Sometimes your ISP-supplied DNS server might be slow or not properly configured for caching, which can slow your connection a little bit. And that might be the reason that your Roblox is so laggy. To save you time troubleshooting, you’re supposed to change your DNS settings. Here we recommend the DNS addresses from Google:
@@ -113,10 +117,19 @@ OR
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -137,13 +150,30 @@ OR
 3. Press**ESC** on your keyboard and on the upper left corner of the screen, you’ll see the**three-line** tab. Just click it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click**Resume Game** to return to your game.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Delete the textures folder
 
@@ -158,8 +188,18 @@ To do so:
 2. Right-click the execution file for**Roblox Player** and select**Open file location** again.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-44.png)
 3. Click**PlatformContent** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-45.png)
 4. Click the**PC** folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-46.png)
 5. Click the**textures** folder.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
@@ -178,6 +218,11 @@ To do so:
 2. Launch Fortect and run a complete scan.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. You’ll get a scan summary listing all the issues it detects. Click **START REPAIR** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
 Once done, restart your machine and check if it fixes your issue.
@@ -194,8 +239,6 @@ Once done, restart your machine and check if it fixes your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,6 +246,21 @@ Once done, restart your machine and check if it fixes your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-instant-transmission-tweets-as-vids-on-whatsapp/"><u>[New] Instant Transmission Tweets as Vids on WhatsApp</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-fast-track-converting-your-srt-files-to-text-format-today/"><u>[Updated] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-richest-streamers-ever-caught-for-2024/"><u>[Updated] Richest Streamers Ever Caught for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-retrieve-lost-iphone-voicemails-with-simple-steps/"><u>1. Retrieve Lost iPhone Voicemails with Simple Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dells-display-disorder-resolved-today/"><u>Dell's Display Disorder: Resolved Today</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-problem-windows-10-displaying-only-partial-windows/"><u>Fixed Problem: Windows 10 Displaying Only Partial Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-void-card-search-error/"><u>Graphics Void: Card Search Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-note-30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Note 30</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-youtubes-unwanted-green-mistakes/"><u>Navigating Through YouTube's Unwanted Green Mistakes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tighten-monitor-border-clarity/"><u>Tighten Monitor Border Clarity</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-register-online/"><u>Updated Register | Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-graphics-fix-solidarity-against-minecraft-crashes/"><u>Win-Graphics Fix: Solidarity Against Minecraft Crashes</u></a></li>
+</ul></div>
 

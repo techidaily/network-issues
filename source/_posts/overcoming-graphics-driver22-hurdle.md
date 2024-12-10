@@ -1,7 +1,7 @@
 ---
 title: Overcoming Graphics DRIVER#22 Hurdle
-date: 2024-07-12T00:14:19.586Z
-updated: 2024-07-13T00:14:19.586Z
+date: 2024-11-25T16:40:43.025Z
+updated: 2024-12-02T22:17:15.020Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -59,13 +63,26 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -86,6 +103,10 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -98,8 +119,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,6 +126,20 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-capture-the-best-with-top-windows-11-hd-webcams/"><u>[New] Capture the Best with Top Windows 11 HD Webcams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expertly-selected-6-premier-tools-to-refine-your-images-online-for-2024/"><u>Expertly Selected 6 Premier Tools to Refine Your Images Online for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/digisigner/"><u>Free Electronic Signature Service - DigiSigner</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/hoe-bestand-gegevens-opheffing-georganiseerd-en-kostenloos-is-gegaan-gedurende-de-laatste-trektijden-tips-en-strategieen/"><u>Hoe Bestand Gegevens Opheffing Georganiseerd en Kostenloos Is Gegaan Gedurende De Laatste Trektijden - Tips en Strategieën</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-and-locating-hidden-airtags-around-you-insights-from-zdnet/"><u>Identifying and Locating Hidden AirTags Around You - Insights From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-windows-screen-detail-with-w11/"><u>Maximize Window's Screen Detail with W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pixel-void-graphics-card-not-found/"><u>Pixel Void: Graphics Card Not Found</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/quick-and-efficient-methods-restoring-your-lost-powershell-ps-scripts-in-no-time/"><u>Quick & Efficient Methods: Restoring Your Lost PowerShell (PS) Scripts in No Time</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shadow-of-the-tombs-trail-troubled-transfers/"><u>Shadow of the Tomb's Trail: Troubled Transfers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-display-intensity-drop/"><u>Troubleshooting Lenovo Display Intensity Drop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-at-minecraft-overcoming-gpu-driver-troubles/"><u>Winning at Minecraft: Overcoming GPU Driver Troubles</u></a></li>
+</ul></div>
 

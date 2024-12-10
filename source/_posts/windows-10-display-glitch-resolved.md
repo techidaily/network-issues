@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Display Glitch: Resolved"
-date: 2024-07-12T00:14:40.558Z
-updated: 2024-07-13T00:14:40.558Z
+date: 2024-11-29T16:30:32.760Z
+updated: 2024-12-02T22:14:57.143Z
 tags:
   - win11
   - win10
@@ -43,6 +43,11 @@ Here is how to change the monitor refresh rate:
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -63,6 +68,10 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -74,6 +83,10 @@ Here is how to change the monitor refresh rate:
 5) Keep track on your PC to see if the screen flashing or flickering problem has been resolved. If yes, then congrats! If the issue persists, however, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
@@ -89,7 +102,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
@@ -140,6 +161,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -158,8 +183,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +190,20 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>[New] 2024 Approved The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-10-premium-youtube-to-webm-converter-tools/"><u>[Updated] 2024 Approved Explore 10 Premium YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-profits-in-pixels-the-complete-guide-to-making-money-on-vimeo/"><u>[Updated] 2024 Approved Profits in Pixels The Complete Guide to Making Money on Vimeo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-err-code-22-resolved/"><u>GPU Err: Code 22 Resolved</u></a></li>
+<li><a href="https://win-web.techidaily.com/les-top-synchrosoft-solutions-portables-faciliter-le-transfert-de-fichiers-cross-plateforme/"><u>Les Top SynchroSoft Solutions Portables: Faciliter Le Transfert De Fichiers Cross-Plateforme</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-now-compatible-with-latest-graphics-cards/"><u>Overwatch Now Compatible With Latest Graphics Cards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-asymmetric-screens-in-windows-11-pro/"><u>Rectifying Asymmetric Screens in Windows 11 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-screen-after-windows-upgrade-fall/"><u>Restore Screen After Windows Upgrade Fall</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sauvegarde-de-windows-11-sur-une-cle-usb-le-logiciel-gratuit-ultime-pour-des-sauvegardes-rapides-et-efficaces/"><u>Sauvegarde De Windows 11 Sur Une Clé USB: Le Logiciel Gratuit Ultime Pour Des Sauvegardes Rapides Et Efficaces</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-your-system-safe-mode-plus-graphics-driver-removal-in-w8/"><u>Securing Your System: Safe Mode + Graphics Driver Removal in W8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-up-graphics-capability-with-an-easy-intel-gpu-update-in-windows-10/"><u>Step up Graphics Capability with an Easy Intel GPU Update in Windows 10.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-s23-fe-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy S23 FE Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus 11R | Dr.fone</u></a></li>
+</ul></div>
 

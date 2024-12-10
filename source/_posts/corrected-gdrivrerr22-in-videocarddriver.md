@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2024-11-21T17:23:34.289Z
-updated: 2024-11-23T21:12:38.672Z
+date: 2024-11-26T22:13:43.692Z
+updated: 2024-12-03T02:01:53.420Z
 tags:
   - win11
   - win10
@@ -21,13 +21,17 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -58,7 +62,7 @@ Be careful you don’t mistype, or press the wrong keys!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
@@ -67,6 +71,10 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
@@ -74,7 +82,7 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
@@ -97,16 +105,8 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -129,24 +129,20 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-secrets-of-sending-mmc-films-to-vimeo/"><u>[New] 2024 Approved Unlocking Secrets of Sending MMC Films to Vimeo</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-4k-with-the-new-nikon-d500-camera/"><u>[New] Mastering 4K with the New Nikon D500 Camera</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>[New] The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[New] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breathe-life-into-your-zoom-cam-with-our-fix-tips/"><u>Breathe Life Into Your Zoom Cam with Our Fix Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-gdrivererr22-issue/"><u>Correcting GDRIVER_ERR22 Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicating-buffering-blues-with-latest-pc-operating-system/"><u>Eradicating Buffering Blues with Latest PC Operating System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-12-vanquished-adventure-resumes-in-mh-world/"><u>Error 12 Vanquished - Adventure Resumes in MH World</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fusing-art-and-technology-crafting-captivating-animation-videos-in-windows-movie-maker/"><u>Fusing Art & Technology Crafting Captivating Animation Videos in Windows Movie Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-splendid-windows-11-backdrops/"><u>In 2024, Secrets to Splendid Windows 11 Backdrops</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-profits-a-comprehensive-vimeo-revenue-strategy/"><u>Mastering Profits A Comprehensive Vimeo Revenue Strategy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-earbuds-apples-airpods-pro-pitted-against-samsung/"><u>Next Level Earbuds: Apple's AirPods Pro Pitted Against Samsung</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-confusion-hybrid-gpus-synchronize-smoothly-with-intelnvidia-on-win11/"><u>No More Confusion: Hybrid GPUs Synchronize Smoothly with Intel/Nvidia on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-radeon-r9-driver-crashes-on-win11/"><u>Overcoming Radeon R9 Driver Crashes on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/precise-images-for-your-workspace/"><u>Precise Images for Your Workspace</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts-for-2024/"><u>Premium-Free Excellence Analyzing and Sharing Best Free LUTs for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomms-win11-upgrade-ensures-atheros-wi-fi-functionality/"><u>Qualcomm's Win11 Upgrade: Ensures Atheros Wi-Fi Functionality</u></a></li>
-<li><a href="https://fox-within.techidaily.com/whatsappaomei-fonebackup/"><u>WhatsApp数据保存还原的完美解决方案：使用AOMEI FoneBackup轻松进行</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11s-video-flow-clean-continuous-performance-after-update/"><u>Win11's Video Flow: Clean, Continuous Performance After Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-visual-rendering-unit-back-online/"><u>[Fixed]: Visual Rendering Unit Back Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-image-weaving-the-art-of-photomontages/"><u>[New] Image Weaving The Art of Photomontages</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-precision-adjustments-correcting-iphone-video-washout-in-premiere-pro/"><u>[Updated] 2024 Approved Precision Adjustments Correcting iPhone Video Washout in Premiere Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-playlist-15-ways-to-revamp-a-live-stream/"><u>[Updated] The Ultimate Playlist 15 Ways to Revamp a Live Stream</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-problem-code-43-resolved/"><u>Card Problem Code 43 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-brightness-spike/"><u>Correcting Windows Brightness Spike</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/al-detox-ignoring-negativity-on-youtube-for-2024/"><u>Digital Detox Ignoring Negativity on YouTube for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-enjoy-spotify-songs-while-driving-a-guide-to-5-user-favorites/"><u>How to Enjoy Spotify Songs While Driving: A Guide to 5 User Favorites</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-spark-20-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Spark 20 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-pixels-graphic-device-missing/"><u>Invisible Pixels: Graphic Device Missing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-comedy-photo-stylist-tool/"><u>Premier Comedy Photo Stylist Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-mirror-screen-problem-in-windows-11/"><u>Solving Mirror Screen Problem in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-wifi-disconnects-on-windows-710-fixing-ethernet-issues-step-by-step/"><u>Troubleshooting WiFi Disconnects on Windows 7/10: Fixing Ethernet Issues Step-by-Step</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-issues-troubleshooting-for-flawless-zoom-cams/"><u>Zoom Issues: Troubleshooting for Flawless Zoom Cams</u></a></li>
 </ul></div>
 

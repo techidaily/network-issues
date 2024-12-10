@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dimmed Monitor in Lenovo PC
-date: 2024-11-21T19:39:29.612Z
-updated: 2024-11-24T04:29:33.514Z
+date: 2024-11-26T04:00:05.360Z
+updated: 2024-12-02T18:45:55.867Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  **3)[Modify Registry](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Update graphics driver
 
  In many cases, the culprit of the dim laptop screen issue is the faulty graphics drivers. You need to update the graphics driver to the latest and correct version. But if you don’t have time, patience or computer skills to deal with drivers (since it is very tricky and time-consuming), we recommend you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -43,20 +47,12 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
 
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
@@ -91,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -119,17 +119,15 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-creating-flawless-passport-photos-for-free/"><u>[New] The Ultimate Guide to Creating Flawless Passport Photos for Free</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-skype-call-chronicles-20plus-strategies-for-savvy-windowsmac-users/"><u>[Updated] Skype Call Chronicles 20+ Strategies for Savvy Windows/Mac Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-to-enhancing-your-instagram-video-sizes-for-2024/"><u>A Step-by-Step Approach to Enhancing Your Instagram Video Sizes for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/amplify-your-media-integrating-text-into-windows-video-files-via-photos/"><u>Amplify Your Media Integrating Text Into Windows Video Files via Photos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-flashing-windows-display/"><u>Conquering Flashing Windows Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-screen-glitch-windows-10-displays-only-sliver-of-windows/"><u>Corrected Screen Glitch: Windows 10 Displays Only Sliver of Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-leading-automated-clicking-tools-on-android-without-rooting/"><u>Discover the Leading Automated Clicking Tools on Android Without Rooting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-t2-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo T2 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-x90s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo X90S to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/performance-enhancement-win10s-ui/"><u>Performance Enhancement: Win10's UI</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/resolving-disconnected-sound-on-obs-broadcast-for-2024/"><u>Resolving Disconnected Sound on OBS Broadcast for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-geforce-issues-in-windows-10/"><u>Resolving GeForce Issues in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-hdmi-disruption-laptops-view-on-tv/"><u>[Fixed] HDMI Disruption: Laptop's View on TV</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] In 2024, The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/bigo-live-intro-video-details-area-px-format-run/"><u>Bigo Live Intro Video Details Area (Px²), Format, Run</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-blank-screen-after-fall-windows-fix/"><u>Cure Blank Screen After Fall Windows Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dimming-down-audio-levels-seamlessly/"><u>Dimming Down Audio Levels Seamlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-the-best-sound-alterers-7-high-quality-vocal-editing-apps-for-2024/"><u>Discover the Best Sound Alterers 7 High-Quality Vocal Editing Apps for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974786398-optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleash-the-potential-mastering-intelers-gpu-driver-enhancement-win-7-style/"><u>Unleash the Potential: Mastering Inteler's GPU Driver Enhancement, Win 7 Style</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/whatsapp-backup-retrieval-a-comprehensive-tutorial-for-windows-users/"><u>WhatsApp Backup Retrieval: A Comprehensive Tutorial for Windows Users</u></a></li>
 </ul></div>
 

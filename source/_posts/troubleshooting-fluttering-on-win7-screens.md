@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Fluttering on Win7 Screens
-date: 2024-11-18T16:04:12.909Z
-updated: 2024-11-24T08:30:55.683Z
+date: 2024-11-26T04:18:38.748Z
+updated: 2024-12-03T03:27:15.092Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 ## Troubleshooting Fluttering on Win7 Screens
 
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,11 +44,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -67,6 +67,10 @@ To troubleshoot these hardware issues:
 2. You should also check if the **cables** are connected properly to your screen or monitor. You can gently swing your screen and see if it flickers. If it does, you need to reconnect those cables.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
@@ -84,7 +88,7 @@ To troubleshoot these hardware issues:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
@@ -98,10 +102,6 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
@@ -114,15 +114,15 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,24 +157,21 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-the-best-free-photo-collage-ios-apps/"><u>[New] 2024 Approved The Ultimate Guide to Choosing the Best FREE Photo Collage iOS Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-seamless-edits-navigating-photoshops-eraser-function/"><u>[Updated] Seamless Edits Navigating Photoshop’s Eraser Function</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-securing-financial-stability-through-beauty-content/"><u>[Updated] Securing Financial Stability Through Beauty Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-directory-of-video-capturing-technologies-by-type/"><u>2024 Approved Directory of Video Capturing Technologies by Type</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comerror-resolved-windows-system-update/"><u>COMError Resolved: Windows System Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovering-significance-in-4k-uhd-technology/"><u>Discovering Significance in 4K UHD Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/efficient-handling-of-windows-com-faults/"><u>Efficient Handling of Windows COM Faults</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-nova-y91-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei Nova Y91 Devices | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-of-ice-artistry-2022-edition/"><u>In 2024, The Best of Ice Artistry 2022 Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-critical-c1900101-during-setup/"><u>Remedying Critical C1900101 During Setup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974690717-speedily-elevate-intels-graphic-driver-for-windows-11/"><u>Speedily Elevate Intel's Graphic Driver for Windows 11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/struggle-for-steady-wi-fi-connection/"><u>Struggle for Steady Wi-Fi Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-restore-visual-feedback-systems/"><u>Techniques to Restore Visual Feedback Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-10-exercise-tracking-mobile-apps-to-boost-your-gym-routine-2024-edition/"><u>The Best 10 Exercise Tracking Mobile Apps to Boost Your Gym Routine - 2024 Edition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1126127-9781609250232-the-tree-of-enchantment/"><u>The Tree of Enchantment | Free Book</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-starfield-sound-glitches-cut-out-and-stuttering-fixed/"><u>Troubleshooting Starfield Sound Glitches: Cut Out and Stuttering Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-network-finding-the-missing-link/"><u>Windows 11 Network - Finding the Missing Link</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-and-nvidia-unite-successfully/"><u>Windows and Nvidia Unite Successfully</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[New] Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-satirical-graphics-memes-made-easy-by-kapwing/"><u>[New] Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>2024 Approved A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-subtitle-switch-up-success-strategies-highlighted/"><u>2024 Approved SRT Subtitle Switch-Up Success Strategies Highlighted</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/school-media-creation-advanced-editing-tips/"><u>School Media Creation Advanced Editing Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-your-zoom-video-calling-issues-stabilizing-an-erratic-internet-connection/"><u>Solving Your Zoom Video Calling Issues: Stabilizing an Erratic Internet Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-guide-resolving-ethernet-connectivity-errors-on-windows-11-and-windows-7/"><u>Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-guide-solving-ethernet-not-functioning-errors-on-pc-windows-107/"><u>Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-solutions-to-stop-unexpected-flashing-on-asus-laptop-screens/"><u>Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-fixing-gtx-graphics-card-error-code-43-for-windows-10-users/"><u>Troubleshooting and Fixing GTX Graphics Card Error Code 43 for Windows 10 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-repairing-brightness-fluctuations-in-asus-computer-displays/"><u>Troubleshooting and Repairing Brightness Fluctuations in Asus Computer Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-resolving-ethernet-connectivity-problems-in-windows-107/"><u>Troubleshooting and Resolving Ethernet Connectivity Problems in Windows 10/7</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ultimate-tutorial-on-speedy-conversion-of-mkv-videos-to-hevch265-for-optimal-quality-retention/"><u>Ultimate Tutorial on Speedy Conversion of MKV Videos to HEVC/H.265 For Optimal Quality Retention</u></a></li>
 </ul></div>
 

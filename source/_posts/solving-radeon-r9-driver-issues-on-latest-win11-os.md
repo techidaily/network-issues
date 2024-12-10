@@ -1,7 +1,7 @@
 ---
 title: Solving Radeon R9 Driver Issues on Latest Win11 OS
-date: 2024-07-29T03:00:28.624Z
-updated: 2024-07-30T03:00:28.624Z
+date: 2024-11-30T19:27:24.986Z
+updated: 2024-12-02T17:38:43.787Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ Before we proceed with the following resolutions, please make sure that you have
   
 1) Check to see if you have installed the latest patches and fixes updates provided by Windows.In Windows, most patches and fixes are available through**Windows Update**. It is suggested that you check whether your computer has installed the latest released patches in**Settings > Updates & security.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/settings-updates-security.jpg)
 
 2) Make sure you have installed the latest version of the Microsoft .Net Framework. For more information as to how to install the latest version of Microsoft .Net Framework, please visit this [**post here**](https://tools.techidaily.com/drivereasy/download/).
@@ -51,9 +48,6 @@ Before we proceed with the following resolutions, please make sure that you have
   
  When prompted with administrator permission, press**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586483a425d5a.jpg)
   
  2) In the command prompt window, type in the following command:
@@ -80,9 +74,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 2) In the command prompt window, type in command:**SFC /SCANNOW**. Make sure that you have made no typo and hit**Enter**.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e300e3c1.jpg)
 
 3) Wait for a while for the process to finish. If no problem is found here, please move on to the next step.
@@ -93,9 +84,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
   
 1) Follow the path:**Start**button**\> Control Panel > Uninstall a program**(View by**Category**).  
   
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58648e5733e51.jpg)
 
 2) If you are with AMD processors, select**Catalyst Control Center**and choose**Uninstall**.
@@ -110,46 +98,20 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 4) Locate**Display adapters**category, then double click the**AMD Radeon R9**series of display driver that you have.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9af8c728.jpg)
 
 5) Under**Driver**tab, choose**Uninstall**.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864a9dcb005b.jpg)
   
  Tick the box for**Delete the driver software for this device** option and click**OK** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ab747efcd.png)
 
  6) Reboot your PC.
   
  7) Then**download** the AMD Clean Uninstall Utility from its support website. Then double click the**AMDCleanUtility.exe** icon to run the application.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864ac776f616.png)
   
  Then just follow the instructions on screen to get all your AMD driver and application components removed.  
@@ -162,9 +124,6 @@ Key features:
   
  8) When your computer restart again, download the latest version of the AMD Radeon R9 series driver from AMD website and then install it manually.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5864b2625647d.png)
 
  If you want to save yourself more time and energy for other things, you can leave your driver problems to [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It automatically help you detects, downloads and updates device drivers that are missing or outdated on your computer. And, there are only two steps you take to do it:
@@ -189,8 +148,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,8 +155,25 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-learn-to-slow-down-video-speed-for-enhanced-viewer-experience-in-snapchat/"><u>[Updated] 2024 Approved Learn to Slow Down Video Speed for Enhanced Viewer Experience in Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-product-reviews-best-15-unboxing-channel-compilations-2-vol-2024/"><u>[Updated] Pinnacle of Product Reviews Best 15 Unboxing Channel Compilations, 2 Vol. 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unravel-the-mystery-perfect-your-green-screen-skills-using-kinemaster/"><u>[Updated] Unravel the Mystery Perfect Your Green Screen Skills Using Kinemaster</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-80-pro-straight-screen-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 80 Pro Straight Screen Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-progressive-array-of-engaging-queries-for-podcasters/"><u>In 2024, Progressive Array of Engaging Queries for Podcasters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/inject-photos-with-focal-spread-outer-radius-adobe-psx-for-2024/"><u>Inject Photos with Focal Spread Outer Radius Adobe PSX for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-pause-laptop-glows-consistently/"><u>Lightning Pause: Laptop Glows Consistently</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/"><u>Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-professional-insights-on-selecting-your-ideal-32-television-this-year-zdnet/"><u>Navigating the Market: Professional Insights on Selecting Your Ideal 32 Television This Year | ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-graphic-fail-screen-blanked/"><u>New Graphic Fail: Screen Blanked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplified-tech-talk-uninstalling-graphics-drivers-on-pcs/"><u>Simplified Tech Talk: Uninstalling Graphics Drivers on PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-gpu-fan-freeze-up/"><u>Stopping GPU Fan Freeze-Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-path-to-upgraded-intel-drivers-in-windows-7/"><u>Unveiling the Path to Upgraded Intel Drivers in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-screen-fix-advanced-features-on/"><u>Windows 10 Screen Fix - Advanced Features On</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

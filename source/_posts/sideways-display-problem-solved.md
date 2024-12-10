@@ -1,7 +1,7 @@
 ---
 title: "Sideways Display: Problem Solved"
-date: 2024-11-22T12:32:19.027Z
-updated: 2024-11-24T01:07:48.499Z
+date: 2024-11-27T21:22:02.541Z
+updated: 2024-12-03T02:58:17.174Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 1. [**Restore your laptop screen with a keyboard shortcut**](#a)
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -38,6 +38,10 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -47,21 +51,17 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -77,12 +77,12 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,20 +105,24 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-shorts-effective-income-strategies/"><u>[New] 2024 Approved Mastering YouTube Shorts Effective Income Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-compreeved-guide-converting-webp-to-quality-jpg-format-for-2024/"><u>[Updated] Compreeved Guide Converting WebP to Quality JPG Format for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-blur-apps-for-clear-portraits-for-2024/"><u>[Updated] Mastering Blur Apps for Clear Portraits for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-windows-10-screen-image-flip-fix/"><u>Enhancing Windows 10 Screen Image Flip Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-glitch-repair-complete/"><u>Graphics Glitch Repair Complete</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-7windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 7/Windows/Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/implementing-exact-timestamp-features-for-youtube/"><u>Implementing Exact Timestamp Features for YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-images-android-iphone-file-transfer-guide/"><u>In 2024, Syncing Images Android-iPhone File Transfer Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-of-conversation-gpt-3s-top-updates-unveiled/"><u>New Era of Conversation: GPT-3’s Top Updates Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-quivering-windows-7-graphics/"><u>Quelling Quivering Windows 7 Graphics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-inverted-image-feature-from-w11/"><u>Removing Inverted Image Feature From W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-display-settings-save-issue/"><u>Resolving Display Settings Save Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-black-screen-phenomenon-in-portables/"><u>Reversing Black Screen Phenomenon in Portables</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-screen-resizing-quirks-in-window-10/"><u>Tackled Screen Resizing Quirks in Window 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-compatible-solutions-for-a-malfunctioning-laptop-touchpad-fixes-for-1187/"><u>Windows-Compatible Solutions for a Malfunctioning Laptop Touchpad: Fixes for 11/8/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adding-emotion-and-context-narration-for-videos/"><u>[New] Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expert-strategies-for-full-screen-edits-in-premiere/"><u>[Updated] 2024 Approved Expert Strategies for Full Screen Edits in Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-portable-panorama-best-desktop-walls-for-your-laptop/"><u>[Updated] Portable Panorama Best Desktop Walls for Your Laptop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>[Updated] Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-videoharvest-downloading-fb-content/"><u>2024 Approved VideoHarvest Downloading Fb Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-of-our-favorite-video-editing-software-programs/"><u>5 of Our Favorite Video Editing Software Programs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-the-enigma-the-hidden-dx-blunder-on-lol/"><u>Deciphering the Enigma: The Hidden DX Blunder on LoL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-win11-screen-disturbances/"><u>Ending Win11 Screen Disturbances</u></a></li>
+<li><a href="https://network-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-perverse-display-settings/"><u>Fixing Perverse Display Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flipped-screen-the-solution-found/"><u>Flipped Screen: The Solution Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-correct-c1900101-error-in-win10/"><u>How to Correct C1900101 Error in Win10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-superior-tiktok-video-conversion-guide/"><u>In 2024, Superior TikTok Video Conversion Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-cursor-after-dark-windows-error/"><u>Revive Cursor After Dark Windows Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-rectify-acer-screen-glarespeed/"><u>Steps to Rectify Acer Screen Glarespeed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-best-top-7-no-cost-password-tools-for-win-users/"><u>Unveiling the Best: Top 7 No-Cost Password Tools for Win Users</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using/"><u>Updated 2024 Approved Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-frustration-ended-heres-how-to-fix-it/"><u>Zoom Frustration Ended: Here's How to Fix It</u></a></li>
 </ul></div>
 

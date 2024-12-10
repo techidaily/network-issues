@@ -1,7 +1,7 @@
 ---
 title: Navigate Sims 4 Black Screen Fixes
-date: 2024-07-12T00:14:17.465Z
-updated: 2024-07-13T00:14:17.465Z
+date: 2024-11-25T21:35:12.639Z
+updated: 2024-12-03T00:59:35.090Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -85,6 +93,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -104,6 +116,10 @@ Here are the steps:
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -158,9 +174,17 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -178,8 +202,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +209,22 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-recall-facebooks-older-episodes-with-your-computer-and-phone/"><u>[New] 2024 Approved How to Recall Facebook's Older Episodes with Your Computer & Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-8-trending-ae-templates-on-instagram-for-2024/"><u>[New] Top 8 Trending AE Templates on Instagram for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-superior-streaming-services-for-musicians/"><u>[Updated] Superior Streaming Services for Musicians</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-visual-symphony-crafting-music-infused-instagram-videos/"><u>2024 Approved Audio-Visual Symphony Crafting Music-Infused Instagram Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transform-gameplay-into-a-masterpiece-using-fbx/"><u>2024 Approved Transform Gameplay Into a Masterpiece Using FBX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-compatibility-guide-all-videos-and-audios-on-iphone-models-from-xs-through-se/"><u>Comprehensive Compatibility Guide: All Videos & Audios on iPhone Models From XS Through SE</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ease-up-on-latency-issues-roblox-playing/"><u>Ease Up on Latency Issues - Roblox Playing</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-resolving-boot-loader-issues-preventing-your-computer-from-starting-up-normally/"><u>Guide: Resolving Boot Loader Issues Preventing Your Computer From Starting Up Normally</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-screen-space-on-windows-11-devices/"><u>Optimizing Screen Space on Windows 11 Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-to-stellar-custom-shorts-thumbnails/"><u>Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-windows-8-drivers-removal-via-safe-mode-rehearsal/"><u>Step-By-Step Windows 8 Drivers Removal via Safe Mode Rehearsal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visuals-and-layouts/"><u>Successful Saving of Visuals & Layouts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-file-ogm-a-formato-avi-gratuitamente-online-con-movietoast/"><u>Trasforma File OGM a Formato AVI Gratuitamente Online Con MovieToast</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-screen-shimmering/"><u>Troubleshooting Lenovo Screen Shimmering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ui-interrupt-in-windows-graphics-awaiting-fix/"><u>UI Interrupt in Windows Graphics (Awaiting Fix)</u></a></li>
+</ul></div>
 

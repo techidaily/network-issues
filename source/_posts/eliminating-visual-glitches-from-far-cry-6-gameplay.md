@@ -1,7 +1,7 @@
 ---
 title: Eliminating Visual Glitches From Far Cry 6 Gameplay
-date: 2024-11-17T04:28:42.438Z
-updated: 2024-11-23T22:31:05.715Z
+date: 2024-11-25T22:36:20.224Z
+updated: 2024-12-02T21:46:54.495Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-29-42.png)
 
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start…
 
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 [4: Clean the DirectX cache](#fix4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -88,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -110,8 +102,16 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -132,17 +132,13 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
-If this doesn’t help, there’s one more fix you can try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this doesn’t help, there’s one more fix you can try.
 
 ## Fix 4: Clean the DirectX cache
 
@@ -153,15 +149,19 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
@@ -187,22 +187,22 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-and-easy-techniques-for-iphone-sound-recording-for-2024/"><u>[Updated] Quick and Easy Techniques for iPhone Sound Recording for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clear-black-screen-activate-cursor/"><u>Clear Black Screen, Activate Cursor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-erratic-code-22-driver/"><u>Corrected Erratic Code #22, Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-gpu-fan-misfires/"><u>Correcting GPU Fan Misfires</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eclipse-of-electronics-laptops-plight/"><u>Eclipse of Electronics: Laptop's Plight</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-latest-epson-wf-7710-printer-drivers-for-windows-10-81-8-and-7-free-download/"><u>Get Latest Epson WF-7710 Printer Drivers for Windows 10, 8.1, 8 & 7 - Free Download</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instantly-enhance-video-smoothness/"><u>Instantly Enhance Video Smoothness</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>Leveraging Likeability Strategies for Going Viral on Facebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-photo-frames-leading-software-reviews-for-2024/"><u>Mastering Photo Frames Leading Software Reviews for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-fixes-for-professional-looking-youtube-thumbnails/"><u>Quick Fixes for Professional-Looking YouTube Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/recorder-royalty-best-premium-recording-software-on-pc-and-macos-free-for-2024/"><u>Recorder Royalty Best Premium Recording Software on PC & MacOS FREE for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-windows-halted-on-reported-device-problem-by-nvidia/"><u>Resolve: Windows Halted on Reported Device Problem by NVidia</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-windows-graphics-glitches-in-minecraft/"><u>Taming Windows Graphics Glitches in Minecraft</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-finding-lost-notifications-on-apples-mobile-os/"><u>The Ultimate Tutorial for Finding Lost Notifications on Apple's Mobile OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-pixel-spike-cured/"><u>Windows 10 Pixel Spike Cured</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrective-modifications-added-missing-amd-driver-to-pcs/"><u>[CORRECTIVE MODIFICATIONS] Added Missing AMD Driver to PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-best-audio-recording-options-for-apple-products-for-2024/"><u>[New] Unveiling the Best Audio Recording Options for Apple Products for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exploring-affordable-cloud-storage-solutions/"><u>[Updated] In 2024, Exploring Affordable Cloud Storage Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-complete-guide-to-youtubes-live-image-lore/"><u>2024 Approved A Complete Guide to YouTube's Live Image Lore</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-classic-comedy-compilation-a-goofy-movie-review/"><u>2024 Approved Classic Comedy Compilation A 'Goofy Movie' Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-nighttime-iphone-photography-secrets-revealed/"><u>2024 Approved Nighttime iPhone Photography Secrets Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beat-bringers-sourcing-premium-dj-visuals-for-2024/"><u>Beat Bringers Sourcing Premium DJ Visuals for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blue-screen-bsod-issue-with-windows-dxgkrnlsys/"><u>Blue Screen (BSOD) Issue with Windows dxgkrnl.sys</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978483785-brother-mfc-7360n-driver-downloads-and-compatibility-with-windows-11-8-and-7/"><u>Brother MFC-7360N Driver Downloads & Compatibility with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/efficiently-delete-redundant-software-from-your-computer-with-yl-computings-professional-advice/"><u>Efficiently Delete Redundant Software From Your Computer with YL Computing's Professional Advice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-gpu-issue-blank-monitor/"><u>Latest GPU Issue: Blank Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-glitch-windows-10s-full-screen-windows-unseen/"><u>Overcome Glitch: Windows 10'S Full Screen Windows Unseen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-opengl-disruption-nvidia-armored/"><u>Overcoming OpenGL Disruption - NVIDIA Armored</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/proven-techniques-for-counteracting-virtual-insults/"><u>Proven Techniques for Counteracting Virtual Insults</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumphant-moment-for-amd-as-detection-driver-loads-on-wndows-10/"><u>Triumphant Moment for AMD as Detection Driver Loads on Wndows 10</u></a></li>
 </ul></div>
 

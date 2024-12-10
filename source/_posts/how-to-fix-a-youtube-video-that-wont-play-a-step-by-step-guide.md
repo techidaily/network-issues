@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide"
-date: 2024-11-21T01:53:03.295Z
-updated: 2024-11-23T21:24:58.080Z
+date: 2024-11-26T16:27:18.492Z
+updated: 2024-12-03T02:17:32.615Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 [**![Youtube video not showing](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7558ea375e1.png)**](https://tools.techidaily.com/drivereasy/download/) 
 
  If you’re greeted with a BLACK green when trying to stream some video on YouTube, don’t panic. Here’re 6 fixes that have helped other users resolve this problem. So read on and check them out…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 fixes for YouTube Video Not Showing
 
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
  Sometimes poor Internet connection is behind this YouTube video black screen problem. So make sure your computer is well connected to a working Internet connection. Then re-launch your browser to see if this fixes the video not showing on YouTube issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 2: Stream videos without signing in YouTube or try the incognito mode
 
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 4: Change the hardware acceleration
 
 **Hardware Acceleration**  is a feature in  browsers  that tasks GPU with all the graphics and text rendering, hence giving us a better video playing and watching experience. 
@@ -97,18 +101,18 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Firefox :** 
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 1. In Firefox, click **the menu button**  \> **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5822606a534.jpg)
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
 
@@ -129,17 +129,13 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 5: Delete the app data
@@ -150,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766fc6d2ecc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**AppData** .  
@@ -166,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 6: Update your browser
 
@@ -206,19 +206,20 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-pristine-video-quality-on-youtube-for-2024/"><u>[New] Achieving Pristine Video Quality on YouTube for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos/"><u>[New] Securing Memories A Comprehensive Guide for Scanning and Storing Vintage Photos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-tier-mac-recorder-feature-visuals-and-voices/"><u>[Updated] In 2024, Top-Tier Mac Recorder Feature Visuals & Voices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-screen-size-showdown-the-ultrawide-vs-uhd-4k-dilemma/"><u>[Updated] Screen Size Showdown The UltraWide Vs UHD 4K Dilemma</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disconnecting-dilemma-wi-fi-woes/"><u>Disconnecting Dilemma: Wi-Fi Woes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-disruption-resolved-in-display-device/"><u>Driver Disruption Resolved in Display Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-inconsistent-image-refreshes/"><u>Fix Inconsistent Image Refreshes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 8</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-c55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco C55 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximize-your-virtual-meetings-with-top-6-webcams-for-zoom-for-2024/"><u>Maximize Your Virtual Meetings with Top 6 Webcams for Zoom for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-common-setup-error-c1900101-during-win11-update/"><u>Overcoming Common Setup Error: C1900101 During Win11 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974657344-streamline-your-system-update-intel-graphics-3000-on-windows-10-now/"><u>Streamline Your System: Update Intel Graphics 3000 on Windows 10 Now</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ubuntu-terminal-power-up-using-shellgpt-for-gpt-conversations/"><u>Ubuntu Terminal Power-Up: Using ShellGPT for GPT Conversations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-leading-software-titles-for-animation-artistry/"><u>[New] 2024 Approved Leading Software Titles for Animation Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavorful-follows-top-food-vloggers-to-track-for-2024/"><u>[New] Flavorful Follows Top Food Vloggers to Track for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leveraging-communication-to-enhance-interview-success/"><u>[Updated] 2024 Approved Leveraging Communication to Enhance Interview Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-screencast-insights-for-creators-for-2024/"><u>[Updated] Comprehensive Screencast Insights for Creators for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-claim-the-crown-strategies-for-staff-picked-videos-at-vimeo/"><u>[Updated] In 2024, Claim the Crown Strategies for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-amds-graphics-bug-tarkov/"><u>Beat AMD's Graphics Bug, Tarkov</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-changes-cause-onyx-outcome/"><u>Card Changes Cause Onyx Outcome</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-note-30-vip-racing-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Note 30 VIP Racing Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pacmans-plunge-digital-drag/"><u>Pacman's Plunge - Digital Drag?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-graphic-device-discrepancy-win/"><u>Resolved Graphic Device Discrepancy - Win</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restarting-as-solution-to-non-working-asus-cam/"><u>Restarting as Solution to Non-Working Asus Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-streaming-disruptions-in-new-windows-era/"><u>Tackling Streaming Disruptions in New Windows Era</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-nord-n30-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus Nord N30 5G FRP Bypass</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-sound-sleuths-exceptional-music-detection-software-to-uncover-your-favorite-tunes-on-android/"><u>Updated Sound Sleuths Exceptional Music Detection Software to Uncover Your Favorite Tunes on Android</u></a></li>
 </ul></div>
 

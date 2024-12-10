@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Doom Eternal Xbox Crash - DirectX Problem"
-date: 2024-07-12T00:14:56.437Z
-updated: 2024-07-13T00:14:56.437Z
+date: 2024-11-25T16:14:40.348Z
+updated: 2024-12-02T21:32:33.126Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 ## [FIXED] Doom Eternal Xbox Crash - DirectX Problem
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -67,6 +71,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -101,10 +109,19 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -119,6 +136,10 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -144,8 +165,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +172,18 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[Updated] Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-screener-tech-perfect-for-creating-viral-youtube-moments-for-2024/"><u>[Updated] Best Screener Tech Perfect for Creating Viral YouTube Moments for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-djis-minis-and-air-2-free-fun-luts-for-ultimate-mixes/"><u>[Updated] In 2024, DJI's Minis & Air 2 Free, Fun LUTS for Ultimate Mixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[Updated] In 2024, Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-taming-high-bit-rate-in-obs/"><u>[Updated] In 2024, Taming High-Bit Rate in OBS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-problems-with-amd-freesync-support/"><u>Fixing Problems With AMD FreeSync Support</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mastering-quick-video-pace-adjustments-on-youtube/"><u>In 2024, Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-game-sessions-with-superior-sound-quality-exclusive-150-off-deal-for-premium-speaker-systems-at-amazon-discover-more-in-our-zdnet-review/"><u>Maximize Your Game Sessions with Superior Sound Quality: Exclusive $150 Off Deal for Premium Speaker Systems at Amazon | Discover More in Our ZDNet Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-for-clearing-absence-of-computer-display/"><u>Methods for Clearing Absence of Computer Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/regulate-unnecessary-window-10-size/"><u>Regulate Unnecessary Window 10 Size</u></a></li>
+<li><a href="https://network-issues.techidaily.com/synchronize-vertical-edge-alignment/"><u>Synchronize Vertical Edge Alignment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error"
-date: 2024-11-19T18:18:30.197Z
-updated: 2024-11-24T02:08:58.630Z
+date: 2024-11-30T23:48:39.414Z
+updated: 2024-12-03T04:02:33.031Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -66,11 +70,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -107,25 +111,17 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -152,14 +148,18 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -178,18 +178,18 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-crafting-a-jujutsu-kaisen-tiktok-challenge/"><u>[New] 2024 Approved Crafting a Jujutsu Kaisen TikTok Challenge</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-video-capture-a-new-eras-insight/"><u>[New] Digital Video Capture A New Era's Insight</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mac-users-choice-top-screen-recorder-picks/"><u>[New] In 2024, Mac Users' Choice Top Screen Recorder Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f23-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F23 5G</u></a></li>
-<li><a href="https://network-issues.techidaily.com/final-stroke-on-interoperability-woes/"><u>Final Stroke on Interoperability Woes</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-retrieve-lost-data-in-windows-10-with-the-built-in-undelete-feature/"><u>How to Retrieve Lost Data in Windows 10 with the Built-In Undelete Feature</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-play-7t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Play 7T?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-music-magic-best-free-tools-for-wav-conversion/"><u>In 2024, YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mitigating-lenovo-visual-tremors/"><u>Mitigating Lenovo Visual Tremors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-steps-to-correct-aspect-ratio-on-pc/"><u>Simple Steps to Correct Aspect Ratio on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubled-gpus-resolving-windows-minecraft-hangs/"><u>Troubled GPUs: Resolving Windows Minecraft Hangs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tweak-screen-setup-in-upgraded-w11-os/"><u>Tweak Screen Setup in Upgraded W11 OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-is-it-possible-to-watch-fb-videos-on-tv/"><u>[New] Is It Possible to Watch FB Videos on TV ?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-youtube-phenomenon-forecast/"><u>[New] YouTube Phenomenon Forecast</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-using-retro-effects-on-edits/"><u>[Updated] Ultimate Guide to Using Retro Effects on Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-5-free-artificial-intelligence-tools-for-crafting-professional-correspondence-and-streamlining-your-inbox-using-chatgpt/"><u>Discover 5 Free Artificial Intelligence Tools for Crafting Professional Correspondence & Streamlining Your Inbox Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/escalating-risks-in-generative-ai-unveiling-8-critical-factors-behind-worsening-safety-issues/"><u>Escalating Risks in Generative AI: Unveiling 8 Critical Factors Behind Worsening Safety Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-14-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 14 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-windows-10-whiteout-after-cu/"><u>Reversing Windows 10 Whiteout After CU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-your-experience-fixing-win11-flicker/"><u>Revitalize Your Experience: Fixing Win11 Flicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winbsod-dxgkrnlsys-issue-resolved/"><u>WinBSOD: dxgkrnl.sys Issue Resolved</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mpeg-43g2avi-movavi/"><u>オンライン無料で動画形式変換: MPEG-4(3G2)とAVIについて学ぶ - Movavi 機能</u></a></li>
 </ul></div>
 

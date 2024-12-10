@@ -1,7 +1,7 @@
 ---
 title: Quelling Flicker in Surface Pro 7
-date: 2024-07-12T00:15:13.763Z
-updated: 2024-07-13T00:15:13.763Z
+date: 2024-11-25T18:09:43.696Z
+updated: 2024-12-02T20:41:54.086Z
 tags:
   - win11
   - win10
@@ -80,12 +80,20 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and check if your screen flickering has been resolved by now. If not, you can contact our support team for further assistance or request a refund (if you’re using the Pro Version).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Close unnecessary apps
 
@@ -119,13 +127,25 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Display adapter properties** .
 
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -162,6 +182,10 @@ Now check your screen to see if the flickering issue is resolved by now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission to make changes to your device, click**Yes** .
 
  3) In the pop-up window of Command Prompt, enter the following command (note that there’s a space between sfc and /):
@@ -184,8 +208,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +215,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-to-easy-nft-crafting/"><u>[New] Step-by-Step to Easy NFT Crafting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-harnessing-the-power-combine-zoom-and-google-mail-for-2024/"><u>[Updated] Harnessing the Power Combine Zoom & Google Mail for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-anonymous-live-on-instagram-the-sneaky-techniques/"><u>2024 Approved Anonymous Live on Instagram The Sneaky Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974453129-accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10.</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/exploring-the-world-of-process-intelligence-an-in-depth-guide/"><u>Exploring the World of Process Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-sudden-screen-glitch-on-win11/"><u>Fix: Sudden Screen Glitch on Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-drive-10-top-motivation-films/"><u>In 2024, Boost Your Drive 10 Top Motivation Films</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-streamers-to-millionaires-the-monetization-blueprint/"><u>In 2024, From Streamers to Millionaires The Monetization Blueprint</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-excellent-video-keywords-on-youtube/"><u>In 2024, Unveiling Excellent Video Keywords on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-customization-saved-successfully/"><u>Screen Customization Saved Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-installation-no-complaints-for-nvidia/"><u>Successful Installation, No Complaints for NVIDIA</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-device-companion-for-metaventureers-for-2024/"><u>The Ultimate Device Companion for Metaventureers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-stuck-video-feature-on-asus-device/"><u>Troubleshooting Stuck Video Feature on Asus Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visuals-preserved-after-update-attempt/"><u>Visuals Preserved After Update Attempt</u></a></li>
+</ul></div>
 

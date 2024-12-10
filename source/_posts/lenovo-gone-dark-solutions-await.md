@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2024-11-22T18:48:39.096Z
-updated: 2024-11-23T19:04:11.016Z
+date: 2024-11-27T01:07:39.667Z
+updated: 2024-12-02T23:07:21.733Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 6. **[Perform a system restore](#F6)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
@@ -83,9 +83,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -96,7 +104,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
@@ -114,7 +122,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
@@ -131,6 +139,10 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
@@ -140,7 +152,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
@@ -148,10 +160,6 @@ So you can try disabling fast startup to see if it does the trick:
  Still got a black screen? Please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
 
@@ -165,17 +173,9 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
@@ -207,18 +207,21 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-visual-tales-the-essential-guide-to-text-effects/"><u>[New] Crafting Visual Tales The Essential Guide to Text Effects</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-free-to-use-tools-for-transcribing-digital-conferences-for-2024/"><u>[New] Free-to-Use Tools for Transcribing Digital Conferences for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-grand-selection-of-incredibly-affordable-footage-for-2024/"><u>[New] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-learn-and-master-io-screen-recording-today-for-2024/"><u>[New] Learn and Master IO Screen Recording Today for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>[New] The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-win1110-now-lacks-amd-graphics-drivers/"><u>[RESOLVED] Win11/10 Now Lacks AMD Graphics Drivers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-steps-to-post-music-on-social-media-stories/"><u>[Updated] In 2024, Steps to Post Music on Social Media Stories</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-15-pro-max-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 15 Pro Max is off? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-texture-detail-for-better-far-cry-experience/"><u>Enhancing Texture Detail for Better Far Cry Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-fixes-for-win-minecraft-end-of-freezes-and-crashes/"><u>GPU Fixes for Win-Minecraft: End of Freezes and Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-unmarked-visuals-for-your-business/"><u>In 2024, Acquiring Unmarked Visuals for Your Business</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube/"><u>In 2024, The Zen of Broadcasting Perfecting Zoom's Techniques for YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-unwanted-hp-screen-glimmers/"><u>Solving Unwanted HP Screen Glimmers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-zoom-camera-not-working-2024-guide/"><u>[Fixed] Zoom Camera Not Working 2024 Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[New] 2024 Approved From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-age-of-empires-ii-launch-pc-compatibility-woes/"><u>[RESOLVED] Age of Empires II Launch - PC Compatibility Woes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-fast-fortnite-icons-in-minutes/"><u>[Updated] 2024 Approved Crafting Fast Fortnite Icons in Minutes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3/"><u>[Updated] 2024 Approved Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-barrier-amd-succeeds-in-loading-driver-on-win10/"><u>Breaking Barrier: AMD Succeeds in Loading Driver on Win10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/comprehensive-guide-to-simplified-hdr-techniques/"><u>Comprehensive Guide to Simplified HDR Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debugged-drivers-error-22-fixed/"><u>Debugged: Drivers, ERROR #22 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974250939-enhance-visual-performance-swiftly-update-your-pcs-intel-gpu-driver-in-w10-today/"><u>Enhance Visual Performance Swiftly: Update Your PC's Intel GPU Driver in W10 Today.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gamers-guide-to-selecting-the-ideal-iphone-model/"><u>Gamers' Guide to Selecting the Ideal iPhone Model</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-premier-picks-the-best-11-audio-recorders-guide/"><u>In 2024, Premier Picks The Best 11 Audio Recorders Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-online-converta-gratuitamente-seu-amv-e-obtenha-a-medida-em-milhas-por-galao/"><u>Movavi Online - Converta Gratuitamente Seu AMV E Obtenha a Medida Em Milhas Por Galão</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-intellnvidia-graphic-mix-up-in-hybrid-card-on-windows-10/"><u>Overcoming Intell/Nvidia Graphic Mix-Up in Hybrid Card on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-save-failure-in-systems-display-settings/"><u>Resolving Save Failure in System's Display Settings</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/solving-the-mystery-of-nonfunctional-links-in-fliphtml-ibooks-created-with-flipbuilder/"><u>Solving the Mystery of Nonfunctional Links in FlipHTML iBooks Created with FlipBuilder</u></a></li>
 </ul></div>
 

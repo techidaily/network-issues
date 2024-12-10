@@ -1,7 +1,7 @@
 ---
 title: Eliminating the Green Glow on YouTube Videos Effectively
-date: 2024-07-29T03:00:42.532Z
-updated: 2024-07-30T03:00:42.532Z
+date: 2024-11-30T04:51:11.343Z
+updated: 2024-12-02T17:52:38.038Z
 tags:
   - win11
   - win10
@@ -42,14 +42,8 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
 #### **I’m usingGoogle Chrome :**
 
 1. In Chrome, in the top right corner, click on  the**three vertical dots**  button >   **Settings**  .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click**Advanced** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Then scroll down to the bottom and in**System** , disable the toggle next to**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
@@ -58,12 +52,13 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
 #### **I’m usingFirefox :**
 
 1. In Firefox, click**the menu button**  \>**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5822606a534.jpg)
 2. Scroll down to**Performance** , then un-check**the boxes** before**Use recommended performance settings** and**Use hardware acceleration when available** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 3. Re-launch Firefox, then check to see if the YouTube green screen issue has been solved. If yes, then great! If the issue remains, please move on to [](#F2) **[Fix 2](#F2)** .
 
@@ -73,11 +68,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-193.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**System** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-195.png)
 
  3) Click**Display** , then in the right pane, scroll down to**Graphics settings** and click on it.
@@ -86,16 +82,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  4) In Choose an app to set preference, choose**Universal app** in the first drop-down, then choose**Microsoft Edge** in the second drop-down and click**Add** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-197.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Microsoft Edge will be added right after. Click**Options** , then in the**Graphics specifications** window that pops up, choose**Power saving** and click**Save** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-198.png)
 
  6) Re-launch Microsoft Edge, then check to see if the YouTube green screen issue has been solved. If yes, then great! If the issue remains, please move on to**[Fix 2](#F2)** .
@@ -103,8 +97,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong **graphics**  driver or it’s out of date. So you should update your **graphics**  driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -118,6 +113,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-166.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -142,8 +141,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,8 +148,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies/"><u>[New] Optimal Charger Solutions for GoPro Hero5 Genuine & Imitative Companies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-nvidia-driver-glitch-now-past/"><u>[Successful Fix] Nvidia Driver Glitch Now Past</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-uncovering-if-vlogger-critiques-are-paid/"><u>[Updated] 2024 Approved Uncovering If Vlogger Critiques Are Paid</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-laugh-literature-documenting-the-funniest-trends-on-tiktok/"><u>[Updated] In 2024, Laugh Literature Documenting the Funniest Trends on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-editors-playbook-for-drone-imagery/"><u>[Updated] In 2024, The Editor's Playbook for Drone Imagery</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-which-motorsport-cam-is-supreme-hero4-or-ghost-s/"><u>[Updated] In 2024, Which Motorsport Cam Is Supreme? Hero4 or Ghost-S</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-potential-of-valorant-thumbnails-for-online-success/"><u>[Updated] Unlocking the Potential of Valorant Thumbnails for Online Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-darkened-twitch-displays/"><u>Decoding Darkened Twitch Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974781638-elevate-your-visuals-install-intel-graphics-hd-3000s-latest-w10-version/"><u>Elevate Your Visuals: Install Intel Graphics HD 3000'S Latest W10 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-buffering-in-seconds/"><u>Eliminate Buffering in Seconds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-calibration-achieved/"><u>Graphics Calibration Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guaranteed-straighten-out-for-monitors/"><u>Guaranteed Straighten-Out for Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-gpu-functionality-after-interruption/"><u>Restoring GPU Functionality After Interruption</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/users-insight-maximizing-efficiency-through-onetastic-add-in-integration-into-microsoft-onenote/"><u>User's Insight: Maximizing Efficiency Through Onetastic Add-In Integration Into Microsoft OneNote</u></a></li>
+</ul></div>
 

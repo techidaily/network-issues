@@ -1,7 +1,7 @@
 ---
 title: Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide
-date: 2024-11-17T05:15:06.340Z
-updated: 2024-11-23T18:39:59.560Z
+date: 2024-11-26T21:27:19.006Z
+updated: 2024-12-02T22:02:07.328Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does your graphics card keep crashing?
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 * Corrupt system/game files
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 2. **[Stop overclocking](#h2)**
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
@@ -66,18 +62,22 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Stop overclocking
 
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 Now launch your game again to see if this method works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Keep the GPU fed
@@ -132,18 +132,16 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-enhancing-your-media-production-skills-with-easy-to-follow-guides-for-windows-8-movie-maker/"><u>[New] Enhancing Your Media Production Skills with Easy-to-Follow Guides for Windows 8 Movie Maker</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-luts-simplified-your-guide-to-better-photos/"><u>[New] LUTs Simplified Your Guide to Better Photos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-ad-based-revenue-tracking-for-youtubers-success/"><u>[Updated] In 2024, Ad-Based Revenue Tracking for YouTubers' Success</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-unwanted-screen-flashing/"><u>Eliminate Unwanted Screen Flashing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722134669778-exploring-the-world-of-chatgpt-unveil-these-6-must-play-games/"><u>Exploring The World of ChatGPT: Unveil These 6 Must-Play Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-led-backlight-stability-problems/"><u>Fixing LED Backlight Stability Problems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-asus-rog-phone-8-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Asus ROG Phone 8 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-win10-and-geforce-98nvidia/"><u>Mastering Win10 & GeForce 98/Nvidia</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-longer-disturbed-by-flickering-win11-monitors/"><u>No Longer Disturbed by Flickering Win11 Monitors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-procedure-to-modify-windows-8-drivers/"><u>Step-by-Step Procedure to Modify Windows 8 Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding-for-2024/"><u>The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-transferring-tunes-between-platforms-for-2024/"><u>The Art of Transferring Tunes Between Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[New] Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-tv-experience-with-fb-live-streams/"><u>[Updated] 2024 Approved Enhancing TV Experience with FB Live Streams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-to-seamlessly-save-web-based-television-shows/"><u>[Updated] Techniques to Seamlessly Save Web-Based Television Shows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-understanding-pixel-performance-from-a-start/"><u>[Updated] Understanding Pixel Performance From a Start</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-sims-4-white-screen-anomalies/"><u>Eliminate Sims 4 White Screen Anomalies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-primeval-20-anime-series-opener-music/"><u>In 2024, Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openais-breakthrough-empowering-chatgpt-to-vocalize-responses-effortlessly/"><u>OpenAI's Breakthrough: Empowering ChatGPT to Vocalize Responses Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-found-windows-stopped-on-nvidia-error/"><u>Resolution Found: Windows Stopped on Nvidia Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turbo-cure-amd-in-etv-glitch/"><u>Turbo Cure: AMD in ETV Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/where-are-my-display-options-windows-11-help/"><u>Where Are My Display Options? Windows 11 Help</u></a></li>
 </ul></div>
 

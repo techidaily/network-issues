@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Nuclear Dawn Update Issue - Xbox Launch Failure"
-date: 2024-07-12T00:13:25.871Z
-updated: 2024-07-13T00:13:25.871Z
+date: 2024-11-29T23:54:30.843Z
+updated: 2024-12-02T17:31:17.823Z
 tags:
   - win11
   - win10
@@ -65,12 +65,21 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -103,10 +112,23 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -144,8 +166,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +173,20 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-audio-mastery-techniques-for-windows-users/"><u>[Updated] In 2024, Audio Mastery Techniques for Windows Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-style-sleuths-influential-beauty-creators/"><u>2024 Approved Style Sleuths Influential Beauty Creators</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/comment-deplacer-la-partition-de-systeme-windows-11-10-8-ou-7-sans-reinstallation/"><u>Comment Déplacer La Partition De Systeme Windows 11, 10, 8 Ou 7 Sans Reinstallation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cut-the-cord-clutter-simultaneous-playthrough-of-videos-for-2024/"><u>Cut the Cord Clutter Simultaneous Playthrough of Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-the-hidden-display-issue/"><u>Decoding the Hidden Display Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-relief-swiftly-uninstall-graphics-drivers-from-windows/"><u>Instant Relief: Swiftly Uninstall Graphics Drivers From Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-seizes-spot-on-apples-top-10-ed-tech-leaders-board/"><u>Mondly Seizes Spot on Apple’s Top 10 Ed-Tech Leaders Board</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-correction-clear-legends-crashes/"><u>Quick Correction: Clear Legends Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overwatch-requires-updated-graphics-card/"><u>Resolved: Overwatch Requires Updated Graphics Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-crash-crisis-quick-fixes-for-nvidias-powerhouse-gpu/"><u>RTX Crash Crisis: Quick Fixes for Nvidia's Powerhouse GPU</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screenshot-savvy-free-high-quality-capturing-tools-for-both-oses-for-2024/"><u>Screenshot Savvy Free, High-Quality Capturing Tools for Both OSes for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepping-into-filmmaking-learning-the-basics-of-key-shots-for-2024/"><u>Stepping Into Filmmaking Learning the Basics of Key Shots for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-amd-failure-loaded-driver-issue-resolved/"><u>Windows 10, AMD Failure: Loaded Driver Issue Resolved</u></a></li>
+</ul></div>
 

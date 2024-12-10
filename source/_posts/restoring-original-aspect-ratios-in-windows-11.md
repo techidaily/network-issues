@@ -1,7 +1,7 @@
 ---
 title: Restoring Original Aspect Ratios in Windows 11
-date: 2024-07-12T00:14:27.646Z
-updated: 2024-07-13T00:14:27.646Z
+date: 2024-12-01T21:30:53.519Z
+updated: 2024-12-03T02:04:45.222Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 **Note** : It would be so uncomfortable to search from Google and follow the solutions on your computer screen, so we recommend using another computer or mobile phone to search and follow the instructions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Method 1: Fix screen upside down with keyboard shortcuts
 
  This is a simple and easy way to fix screen upside in Windows 10 computer/laptop. Before getting started, you should make sure that Hot Keys are enabled in your Windows 10 computer. Here’s how to do it:
@@ -40,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your keyboard, simultaneously press**Ctrl** +**Alt** +**Arrow** key.
 
@@ -61,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  1) Right click on any empty area on your desktop, and select**Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
@@ -88,6 +104,10 @@ There are two options to update drivers in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgraded when you click**Update All** ).
@@ -111,8 +131,6 @@ There are two options to update drivers in Windows 10:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +138,20 @@ There are two options to update drivers in Windows 10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-embrace-the-vivid-world-editing-and-viewing-hd-with-windows-hdr/"><u>[New] 2024 Approved Embrace the Vivid World Editing & Viewing HD with Windows HDR</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fantastic-feat-mh-worlds-graphical-glitch-ends/"><u>Fantastic Feat! MH World's Graphical Glitch Ends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunders-triumph-revealed/"><u>God of Thunder’s Triumph Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immersive-graphics-geforce-rtx210-upgrade-on-windows-11/"><u>Immersive Graphics: GeForce RTX210 Upgrade on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g13-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G13 Phone without Google Account?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lenovo-laptop-capture-tutorial-a-step-by-step-guide-to-easy-screen-snapping/"><u>Lenovo Laptop Capture Tutorial: A Step-by-Step Guide to Easy Screen Snapping</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-for-restoring-graphics-card-recognition/"><u>Methods for Restoring Graphics Card Recognition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sledgehammer-strikes-issue-squashed/"><u>Sledgehammer Strikes: Issue Squashed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-solution-acquire-usb-compatible-rs232-drivers-in-a-flash/"><u>Speedy Solution: Acquire USB-Compatible RS232 Drivers in a Flash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-windows-card-drivers-no-more-mc-hangs/"><u>Stabilizing Windows Card Drivers, No More MC Hangs</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-guide-to-the-best-hard-drive-copying-software-compatible-with-windows-systems/"><u>Ultimate Guide to the Best Hard Drive Copying Software Compatible with Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlimited-dji-mini-and-air-2-luts-buy-or-free-for-2024/"><u>Unlimited DJI Mini & Air 2 LUTs - Buy or Free for 2024</u></a></li>
+</ul></div>
 

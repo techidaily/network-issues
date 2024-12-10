@@ -1,7 +1,7 @@
 ---
 title: Fallout 4 Runs Smooth on Your Machine
-date: 2024-07-12T00:13:24.780Z
-updated: 2024-07-13T00:13:24.780Z
+date: 2024-11-29T20:46:25.531Z
+updated: 2024-12-02T18:22:30.219Z
 tags:
   - win11
   - win10
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
 **Fallout 4 crashes on startup** and you don’t know what you’ve done to cause the problem? Don’t worry! There are solutions to fix the issue. This article introduces 5 easy ways to**fix the Fallout 4 crashing on startup** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is Fallout 4 crashing on startup?
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Fallout 4 crash on startup?
 
@@ -62,13 +70,25 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -112,8 +132,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +139,24 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-instagram-highlights-comprehensive-photography-tips/"><u>[New] In 2024, Mastering Instagram Highlights Comprehensive Photography Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimizing-obs-studio-5-editing-game-changers/"><u>[New] In 2024, Optimizing OBS Studio 5 Editing Game Changers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-visual-impact-maximization-the-finest-15-cine-luts-for-gopro-cam/"><u>[New] In 2024, Visual Impact Maximization The Finest 15 Cine LUTs for Gopro Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-graphics-installed-amd-adapter-in-win1110/"><u>[TROUBLESHOOTED GRAPHICS] Installed AMD Adapter in Win11/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gamingui-halted-on-windows-patch-ready/"><u>GamingUI Halted on WIndows (Patch Ready)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-hl-2240-printer-software-for-optimal-performance-on-your-windows-machine/"><u>Get the Latest Brother HL-2240 Printer Software for Optimal Performance on Your Windows Machine!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-swiftly-install-latest-drivers-on-your-lenovo-t430s-laptop-comprehensive-windows-walkthrough/"><u>How to Swiftly Install Latest Drivers on Your Lenovo T430s Laptop – Comprehensive Windows Walkthrough</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-13-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 13 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-facebooks-media-restrictions/"><u>Navigating Through Facebook’s Media Restrictions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-non-loading-pages-in-google-chrome-browser/"><u>Resolved! Troubleshooting Non-Loading Pages in Google Chrome Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-security-tool-canary-channel/"><u>Unveiling Windows' Security Tool: Canary Channel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+</ul></div>
 

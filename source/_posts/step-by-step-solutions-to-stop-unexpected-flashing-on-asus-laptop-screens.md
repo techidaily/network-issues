@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens
-date: 2024-11-18T16:46:55.493Z
-updated: 2024-11-24T04:35:04.802Z
+date: 2024-11-27T19:27:48.089Z
+updated: 2024-12-02T19:45:21.903Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
@@ -53,11 +49,19 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **I’m using Windows 7:** 
 
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
@@ -65,14 +69,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 2: Update or delete incompatible apps
@@ -83,6 +83,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
 
@@ -103,7 +107,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -122,10 +126,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
 
@@ -154,15 +154,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-enter-the-world-of-funimate-with-ease/"><u>[New] Enter the World of Funimate with Ease</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-flight-experience-sample-free-luts-on-mini-and-air-drones/"><u>[New] In 2024, Elevate Your Flight Experience – Sample Free LUTS on Mini & Air Drones</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-15-pioneering-online-education-websites-beyond-udemy/"><u>[Updated] 15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-ps5-ssd-firmware-update-a-comprehensive-guide/"><u>Mastering the PS5 SSD Firmware Update: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pixeled-play-logbook-for-2024/"><u>Pixeled Play Logbook for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-wifi-adapter-atheros-issue-windows-10-fixed/"><u>Qualcomm WiFi Adapter, Atheros Issue - Windows 10 Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-transition-of-windows-11-playback-post-update/"><u>Smooth Transition of Windows 11 Playback Post-Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/turning-upside-down-screen-rightside-up/"><u>Turning Upside-Down Screen Rightside Up</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-gets-a-boost-with-new-geforce-210-graphics-driver/"><u>Windows 10 Gets a Boost with New GeForce 210 Graphics Driver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-affordable-path-to-4k-top-budget-cameras-(1k/"><u>[New] Affordable Path to 4K Top Budget Cameras (<$1K)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-the-premier-livestream-networks/"><u>[Updated] Unveiling the Premier Livestream Networks</u></a></li>
+<li><a href="https://discover-data.techidaily.com/2024lenovo-ideapad-l3nanossd/"><u>【2024年度】Lenovo Ideapad L3nanoのSSD改良手順：最先端速度と容量</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-10-resolution-no-more-frustrating/"><u>Adjusting Windows 10 Resolution No More Frustrating</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-r9-driver-glitches-on-windows-10/"><u>Eliminating R9 Driver Glitches on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-win11-shadow-displacement/"><u>Eliminating Win11 Shadow Displacement</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gopro-hero7-black-review-one-of-the-best-action-cameras-out-there/"><u>GoPro HERO7 Black Review: One of the Best Action Cameras Out There</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-failed-app-store-purchase-on-iphone-or-ipad/"><u>How to Fix a Failed App Store Purchase on iPhone or iPad</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-smoothly-update-intel-graphics-using-windows-tools/"><u>How to Smoothly Update Intel Graphics Using Windows Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>In 2024, Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-6s-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 6s</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-lg-bp350-review-audiovisual-performance-analysis/"><u>In 2024, The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-sideways-solved/"><u>Laptop Screen Sideways [SOLVED]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-top-6-outils-damelioration-video-bases-sur-ia-des-options-revolutionnaires/"><u>Les Top 6 Outils D'Amélioration Vidéo Basés Sur IA - Des Options Révolutionnaires</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstated-corrected-window-graphics-link/"><u>Reinstated Corrected Window Graphics Link</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revelation-hidden-graphics-card-now-found-in-device-manager/"><u>Revelation: Hidden Graphics Card, Now Found in Device Manager</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-view-ditching-blurry-windows/"><u>Smooth View: Ditching Blurry Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-backlight-flickering-in-displays/"><u>Stopping Backlight Flickering in Displays</u></a></li>
 </ul></div>
 

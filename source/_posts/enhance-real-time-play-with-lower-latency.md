@@ -1,7 +1,7 @@
 ---
 title: Enhance Real-Time Play with Lower Latency
-date: 2024-11-23T10:50:17.479Z
-updated: 2024-11-24T00:15:12.936Z
+date: 2024-11-27T22:32:50.066Z
+updated: 2024-12-02T18:37:00.891Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Close unnecessary programs
 
  The game lagging is generally a sign of a slow game. This can be caused by having too many high-power programs using your system resources. For the most optimal experience, it is recommended that when you run Roblox, you close those other programs. To do this, take these steps:
@@ -46,19 +42,16 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 1. On your keyboard, press the**Windows** key and**X** at the same time to select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
  Try to launch Roblox again to see if it stops lagging now. If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Delete temporary files
 
@@ -72,8 +65,16 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![delete temp files to remove edit delay on Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-select-delete.jpg)
 4. If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/PC-delete-temp-files.jpg)
 5. Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 6. Click **Yes** .  
@@ -112,6 +113,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Use a wired connection
 
  For gaming purposes, a wired connection is preferable over a wireless connection. Wireless connections are most susceptible to interference and aren’t as consistent as wired connections. More importantly, they increase latency. Therefore, if possible, use a wired connection when you play a game online.
@@ -131,15 +136,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -147,11 +152,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 6. Launch Roblox again to see if it still lags. If so, please move on.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 6: Reduce the graphics quality
 
@@ -165,10 +170,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
 
@@ -176,10 +177,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-2.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Delete the textures folder
 
@@ -196,26 +193,30 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-44.png)
 3. Click**PlatformContent** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-45.png)
 4. Click the**PC** folder.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-46.png)
 5. Click the**textures** folder.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
- After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
 
 ## Fix 8: Repair system files
 
@@ -231,7 +232,7 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, restart your machine and check if it fixes your issue.
@@ -257,20 +258,16 @@ Once done, restart your machine and check if it fixes your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>[New] 2024 Approved Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-live-engagement-on-fb-how-to-get-started-for-2024/"><u>[New] Live Engagement on FB How to Get Started for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-photo-to-motion-the-musical-layer/"><u>[New] Photo to Motion The Musical Layer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-graphics-card-signal-lost-and-restored/"><u>[Resolved] Graphics Card Signal Lost & Restored</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-tiktok-hashtags/"><u>[Updated] In 2024, Unlocking the Secrets of Successful TikTok Hashtags</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974481222-enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-s17t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo S17t to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>In 2024, The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-zoom-resolve-your-zoom-camera-problems-now/"><u>No Zoom? Resolve Your Zoom Camera Problems Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-gone-dark-latest-gpu-hiccup/"><u>Screen Gone Dark: Latest GPU Hiccup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-expansive-monitor-glitches-for-windows-pc/"><u>Solved Expansive Monitor Glitches for Windows PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-unruly-pro-7-displays/"><u>Taming Unruly Pro 7 Displays</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-the-full-potential-of-your-h-videos-on-instagram-tv/"><u>Unlock the Full Potential of Your H-Videos on Instagram TV</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-garden-with-the-brightest-permanent-govee-outdoor-lighting-install-this-weekend-zdnet/"><u>Upgrade Your Garden with the Brightest Permanent Govee Outdoor Lighting - Install This Weekend! | ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-azure-speech-to-text-your-ultimate-development-toolkit-for-2024/"><u>[Updated] Azure Speech-to-Text Your Ultimate Development Toolkit for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-slide-presentation-with-youtube-for-2024/"><u>[Updated] Expert Tips for Slide Presentation with YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-11-budget-friendly-creativity-for-youtube-names/"><u>[Updated] Unlock 11 Budget-Friendly Creativity for YouTube Names</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-s17-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo S17? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-has-stopped-working-on-windows-solved/"><u>GfxUI Has Stopped Working on Windows [Solved]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-battle-for-asgard-the-ragnarok-chronicles/"><u>In 2024, Battle for Asgard The Ragnarök Chronicles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-haze-on-windows/"><u>No More Haze on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recovering-typical-desktop-layout/"><u>Recovering Typical Desktop Layout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-interactive-interface/"><u>Rejuvenated Lenovo Interactive Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unregistered-class-problems-on-your-pc-running-windows-nt-guide/"><u>Resolving Unregistered Class Problems on Your PC Running Windows nT [Guide]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-expensive-samsung-un65nu8000fxza-is-it-more-than-just-a-smart-tv/"><u>Unboxing the Expensive Samsung UN6^5NU8000FXZA: Is It More Than Just a Smart TV?</u></a></li>
 </ul></div>
 

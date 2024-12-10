@@ -1,7 +1,7 @@
 ---
 title: Kratos Kinks Cured for Combat
-date: 2024-07-12T00:15:48.799Z
-updated: 2024-07-13T00:15:48.799Z
+date: 2024-11-25T20:53:50.008Z
+updated: 2024-12-02T20:06:27.453Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d5157fd08cb0485ba961e5e9e263be5ee6676590c
 * [Fix 4: Check for system updates](#fix6)
 * [Fix 5: Repair system files](#block-628daa0c-75c9-4796-b5ca-d131e3878f6e)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the system requirements
 
  Does your system meet minimum requirements? Before any complex fixes, check if your PC specifications first. If it’s not, you may encounter God of War performance issue.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/d5157fd08cb0485ba961e5e9e263be5ee6676590c
 | Graphics  | NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)                          |
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/d5157fd08cb0485ba961e5e9e263be5ee6676590c
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -67,6 +79,11 @@ Here’s how:
 2. Right-click **God of War** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
@@ -103,6 +120,10 @@ If the latest updates don’t work for you, try the next method.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -114,8 +135,6 @@ If the latest updates don’t work for you, try the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,6 +142,24 @@ If the latest updates don’t work for you, try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-conquering-the-complexities-of-360-video-post-production-in-premiere/"><u>[New] Conquering the Complexities of 360° Video Post-Production in Premiere</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-get-royalty-free-music-for-your-youtube-videos/"><u>[New] How To Get Royalty Free Music for Your YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-product-revelation-best-15-unboxing-channels/"><u>[Updated] 2024 Approved The Ultimate Guide to Product Revelation Best 15 Unboxing Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube/"><u>[Updated] Tackling Social Media Platforms An In-Depth Look at IGTV and YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-eos-login-errors-6-tactics-for-a-smooth-palworld-experience/"><u>Bypassing EOS Login Errors: 6 Tactics for a Smooth Palworld Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-tecno-spark-20-phone-by-drfone-android/"><u>How to Reset a Locked Tecno Spark 20 Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-explore-system-security-w8s-safe-mode-uninstallation/"><u>How To Safely Explore System Security: W8's Safe Mode Uninstallation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-google-pixel-8-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Google Pixel 8 Pro Through Google Earth?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-concluded-without-hiccups/"><u>Installation Concluded Without Hiccups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-daily-productivity-a-complete-guide-to-managing-lifes-tasks-with-trello/"><u>Mastering Daily Productivity: A Complete Guide to Managing Life's Tasks with Trello</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/microsoft-hololens-demo-tomorrows-tech-today-for-2024/"><u>Microsoft HoloLens Demo – Tomorrow’s Tech Today for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-issue-with-intellnvidia-on-windows-1e0/"><u>Resolving Hybrid Graphics Issue with Intell/Nvidia on Windows 1E0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-the-gtx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenhalt-on-graphicwinos-interface-under-repair/"><u>ScreenHalt on GraphicWinOS Interface (Under Repair)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-solving-wired-network-connection-problems-in-windows-117/"><u>Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-erratic-acer-display-behavior/"><u>Troubleshooting Erratic Acer Display Behavior</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vitamin-ds-pivotal-role-in-immune-regulation-insights-into-innate-and-adaptive-responses/"><u>Vitamin D's Pivotal Role in Immune Regulation: Insights Into Innate and Adaptive Responses</u></a></li>
+</ul></div>
 

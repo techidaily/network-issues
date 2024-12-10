@@ -1,7 +1,7 @@
 ---
 title: Intervention for Persistent HP Screen Blinking
-date: 2024-11-20T19:13:57.842Z
-updated: 2024-11-24T04:14:41.412Z
+date: 2024-11-25T21:38:50.455Z
+updated: 2024-12-02T17:10:02.866Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your display driver
 
  This problem may occur if you are using the wrong display driver or it’s out of date. So you should update your display driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -60,7 +64,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -87,6 +91,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
@@ -99,22 +107,14 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -129,7 +129,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -158,14 +158,17 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat/"><u>2024 Approved Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-dynamic-typographic-options/"><u>Advanced Dynamic Typographic Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphicinterface-lockup-in-win-os-worked-out/"><u>GraphicInterface Lockup in Win OS (Worked Out)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-edge-40-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Edge 40 Through Google Earth?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-radeon-r9-drivers-for-new-windows-11/"><u>Navigating Radeon R9 Drivers for New Windows 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-top-rated-video-editing-tools-for-mac-in/"><u>The Top-Rated Video Editing Tools for Mac In</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-removing-a-facebook-community/"><u>The Ultimate Guide to Removing a Facebook Community</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-insufficient-light-on-lenovo-pc/"><u>Troubleshooting Insufficient Light on Lenovo PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-gigglegraphy-laughter-in-a-frame/"><u>[New] In 2024, GiggleGraphy Laughter in a Frame</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-launching-a-sports-vlog-on-apple-computers/"><u>[Updated] Launching a Sports Vlog on Apple Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-master-the-art-of-video-presentations-with-these-themes-for-2024/"><u>[Updated] Master the Art of Video Presentations with These Themes for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-study-amds-impact-on-the-pc-gaming-market/"><u>Comprehensive Study: AMD's Impact on the PC Gaming Market</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-fixed-code-22-in-driver/"><u>Correcting Fixed Code #22 in Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-anachronisms-the-guide-to-updated-window-drivers/"><u>Eliminating Anachronisms: The Guide to Updated Window Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expertly-curated-list-of-superior-smartwatches/"><u>Expertly Curated List of Superior Smartwatches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-horizontalvertical-displacement-on-monitors/"><u>Fix Horizontal/Vertical Displacement on Monitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/non-jitter-streaming-made-easy/"><u>Non-Jitter Streaming Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/waterlogged-woes-be-gone-testing-the-waterproof-claims-for-iphone-15-pro-max/"><u>Waterlogged Woes Be Gone? Testing the Waterproof Claims for iPhone 15 Pro Max</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-experience-no-more-interop-woes/"><u>Windows Experience: No More Interop Woes</u></a></li>
 </ul></div>
 

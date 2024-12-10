@@ -1,7 +1,7 @@
 ---
 title: Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment
-date: 2024-11-19T18:43:35.429Z
-updated: 2024-11-24T09:43:03.508Z
+date: 2024-11-25T21:15:23.698Z
+updated: 2024-12-03T03:43:20.659Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -41,19 +37,23 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -89,6 +85,10 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -102,7 +102,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -112,7 +112,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -142,22 +142,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-crafting-facebook-slideshow-an-instagram-style-storytelling-guide/"><u>[New] 2024 Approved Crafting Facebook SlideShow An Instagram-Style Storytelling Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-instagrams-sideways-video-phenomenon-investigation-required/"><u>[Updated] 2024 Approved Instagram's Sideways Video Phenomenon - Investigation Required</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-basic-techniques-transforming-fishy-chatter-in-the-win-world/"><u>2024 Approved Basic Techniques Transforming Fishy Chatter in the Win World</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bringing-life-to-dead-gpu-fans/"><u>Bringing Life to Dead GPU Fans</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-key-to-solving-blue-screen-in-winos/"><u>dxgkrnl.sys: Key to Solving Blue Screen in WinOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-resolving-your-windows-11-start-menu-glitches/"><u>Expert Tips: Resolving Your Windows 11 Start Menu Glitches</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-s23plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23+ to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/limitless-text-in-format-best-free-psd/"><u>Limitless Text in Format Best FREE PSD</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-nvidia-driver-windows-compatibility/"><u>Overcoming Nvidia Driver Windows Compatibility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-system-limitations-enabling-software-installation/"><u>Overcoming System Limitations: Enabling Software Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reactivating-unseen-hardware-in-computer-systems/"><u>Reactivating Unseen Hardware in Computer Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silencing-the-sputter-of-windows-11-displays/"><u>Silencing the Sputter of Windows 11 Displays</u></a></li>
-<li><a href="https://facebook.techidaily.com/unique-mobile-app-linkage-how-facebook-surpasses-apple-payments-system/"><u>Unique Mobile App Linkage: How Facebook Surpasses Apple Payments System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/voice-control-made-easy-a-step-by-step-guide-to-leveraging-your-meta-quest-mic/"><u>Voice Control Made Easy: A Step-by-Step Guide to Leveraging Your Meta Quest Mic</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causes-winos-bsod-error/"><u>[Resolved] dxgkrnl.sys Causes WinOS BSOD Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearer-screens-setup-in-latest-windows-11-os/"><u>Clearer Screens Setup in Latest Windows 11 OS</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dvdflvdvd/"><u>DVDからFLVへ無料変換レシピ：DVDレンタル素材使い方</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/future-of-games-analyzing-htc-vive-vs-oculus-rift-and-ps-vr/"><u>Future of Games Analyzing HTC Vive vs Oculus Rift & PS VR</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-google-pixel-fold-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Google Pixel Fold Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/neros-essential-guide-to-repairing-advrcntr2dll-is-missing-complications/"><u>Nero's Essential Guide to Repairing 'Advrcntr2.dll Is Missing' Complications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oca6-due-to-mutations-in-p-gene-encoding-a-phosphatase-enzyme-involved-in-melanocyte-function-and-melanogenesis/"><u>OCA6 - Due to Mutations in P Gene Encoding a Phosphatase Enzyme Involved in Melanocyte Function and Melanogenesis.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pixel-problem-gpu-search-failed/"><u>Pixel Problem: GPU Search Failed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-gpu-error-averted/"><u>Smooth Sailing: GPU Error Averted</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965875318-step-by-step-download-essential-bcm20702a0-windows-drivers-get-set-up-fast/"><u>Step-by-Step Download: Essential BCM20702A0 Windows Drivers - Get Set Up Fast</u></a></li>
 </ul></div>
 

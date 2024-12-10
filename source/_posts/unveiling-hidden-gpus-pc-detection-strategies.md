@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden GPUs: PC Detection Strategies"
-date: 2024-11-19T17:41:53.525Z
-updated: 2024-11-23T19:49:46.399Z
+date: 2024-12-01T20:13:39.041Z
+updated: 2024-12-03T00:02:47.976Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cbd5c485be572c15835f08594d0e8419222eed6f6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add your GPU as a legacy device
 
  When your computer does not detect your GPU, you can try to add it back as a legacy device to see if it helps. To do so:
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/cbd5c485be572c15835f08594d0e8419222eed6f6
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
 
@@ -51,15 +51,11 @@ thumbnail: https://thmb.techidaily.com/cbd5c485be572c15835f08594d0e8419222eed6f6
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
 5. Select**Display adpaters** and click**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-12.png)
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/cbd5c485be572c15835f08594d0e8419222eed6f6
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the GPU is added back, do the following to update its driver in Device Manager:
@@ -76,8 +72,16 @@ thumbnail: https://thmb.techidaily.com/cbd5c485be572c15835f08594d0e8419222eed6f6
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-14.png)
 2. Click**Search automatically for drivers** , Windows will then initiate a search online for the latest driver update. Follow any additional instructions provided during the driver update process.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-15.png)
 3. When the driver update is done, restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If no driver update is found by Windows for you, please move on to the next step to update the GPU driver.
 
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/cbd5c485be572c15835f08594d0e8419222eed6f6
 ## 2\. Update the GPU driver
 
  There are mainly 2 ways you can update your GPU driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -115,7 +115,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -166,10 +166,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Make sure your GPU is correctly seated
 
  If the above software-related troubleshooting procedures don’t help your PC to detect your GPU, you may need to look at the hardware front. One of the most obvious ways to looks at would be the graphics card itself.
@@ -184,11 +180,15 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-16.png)
 4. If the**GPU** option is available, you should see the information about your computer’s GPU on the right side panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-18.png)
 5. When you can see such information, your GPU should be correctly seated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But there are still possbilities that your GPU can be detected by your computer but is not correctly seated, so you may also want to check your computer case to make sure that your GPU is not lossen or wrongly inserted into the PCIe slots.
@@ -221,20 +221,20 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/solved-intermittent-brightness-on-dell-system/"><u>[Solved] Intermittent Brightness on Dell System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[Updated] From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-your-guide-to-premium-full-screen-recorders-for-pcmac-for-2024/"><u>[Updated] Your Guide to Premium Full-Screen Recorders for PC/Mac for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/width-adjustment-windows-11-excessive-width-issue/"><u>[WIDTH ADJUSTMENT] Windows 11 Excessive Width Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-updates-win11-next-gen-radeon-hd-6950-graphics-driver-rollout/"><u>AMD Updates Win11: Next-Gen Radeon HD 6950 Graphics Driver Rollout</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-on-pc/"><u>How to Fix 'World of Warcraft Not Starting on PC'</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-definitive-guide-to-crafting-videos-on-youtube/"><u>In 2024, The Definitive Guide to Crafting Videos on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-display-off-but-not-really/"><u>Laptop Display: Off, But Not Really</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-logitech-g920-to-enhance-your-pc-on-windows-11-1087-download-instantly/"><u>Latest Drivers for Logitech G920 to Enhance Your PC on Windows 11, 10/8/7 - Download Instantly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-eclipse-how-to-banish-the-shadow/"><u>Lenovo's Eclipse: How to Banish the Shadow</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/secrets-unveiled-best-practices-in-remote-audio-capture-for-2024/"><u>Secrets Unveiled Best Practices in Remote Audio Capture for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-winrts-com-hiccup/"><u>Solving WinRTS COM Hiccup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-preserving-original-clarity-in-mp4-conversions-from-f4v/"><u>Step-by-Step Guide: Preserving Original Clarity in MP4 Conversions From F4V</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-broadened-resolution-issue-on-windows-pc/"><u>Tackled Broadened Resolution Issue on Windows PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-change-default-image-savings-in-os-x/"><u>[New] Change Default Image Savings in OS X</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-connection-for-cod-cold-war/"><u>[SOLVED] Restoring Internet Connection for CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-winnet-speed-leapfrogging-latency-limits/"><u>[SOLVED] WinNet Speed: Leapfrogging Latency Limits</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725287746169-avchdtsmovaviwmvflv/"><u>全ての動画形式への完璧な変換方法：AVCHD、ts、MOV、AVI、WMV、FLV対応</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brief-blend-of-film-blueprints-for-2024/"><u>Brief Blend of Film Blueprints for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-zero-5g-2023-turbo-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Zero 5G 2023 Turbo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-to-tv-connection-issue-no-response/"><u>Laptop-to-TV Connection Issue: No Response</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pioneering-vlogging-tech-our-ranking-of-top-12-video-cameras-for-2024/"><u>Pioneering Vlogging Tech Our Ranking of Top 12 Video Cameras for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedies-to-eliminate-lenovo-refreshes/"><u>Remedies to Eliminate Lenovo Refreshes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamped-kratos-skillset/"><u>Revamped Kratos Skillset</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/egies-for-safe-and-significant-view-increase/"><u>Strategies for Safe and Significant View Increase</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-large-screen-distortion-in-windows-10/"><u>Tackled Large Screen Distortion in Windows 10</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-7-locations-for-finding-and-downloading-free-kindle-wallpapers/"><u>Top 7 Locations for Finding & Downloading Free Kindle Wallpapers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-instagram-connection-posting-video-content-for-2024/"><u>YouTube-Instagram Connection Posting Video Content for 2024</u></a></li>
 </ul></div>
 

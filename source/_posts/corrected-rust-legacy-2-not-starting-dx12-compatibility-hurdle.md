@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle"
-date: 2024-11-20T02:15:33.011Z
-updated: 2024-11-23T16:36:32.403Z
+date: 2024-11-28T16:43:39.557Z
+updated: 2024-12-02T23:26:38.158Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -67,14 +71,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -114,18 +114,18 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -155,11 +155,11 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -178,21 +178,24 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-snap-and-save-professional-screen-recording-11-version/"><u>[New] 2024 Approved Snap & Save Professional Screen Recording 11-Version</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-correcting-misaligned-youtube-picture-quality/"><u>[Updated] Correcting Misaligned YouTube Picture Quality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-s17e-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exquisite-value-premium-technological-marvels-you-can-afford/"><u>Exquisite Value: Premium Technological Marvels You Can Afford</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 7 Ultimate?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomms-patch-atheros-qca61x4-networking-fixed-in-win11/"><u>Qualcomm's Patch: Atheros QCA61x4 Networking Fixed in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remove-delays-in-live-streaming-videos/"><u>Remove Delays in Live Streaming Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-incompatible-device-errors-in-windows/"><u>Resolved Incompatible Device Errors in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smilesketcher-generate-memes-with-a-click/"><u>SmileSketcher Generate Memes with a Click</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-stable-hp-display-function/"><u>Steps for Stable HP Display Function</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-fallout-4-pc-issues-effortlessly/"><u>Taming Fallout 4 PC Issues Effortlessly</u></a></li>
-<li><a href="https://win-data.techidaily.com/troubleshooting-guide-fixing-the-update-could-not-be-performed-for-system-reserved-partition-issue-in-windows-11/"><u>Troubleshooting Guide: Fixing the 'Update Could Not Be Performed for System-Reserved Partition' Issue in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-walkthrough-setting-up-an-external-hdd-on-xbox-for-gaming-and-media/"><u>Ultimate Walkthrough: Setting Up an External HDD on Xbox for Gaming and Media</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-problems-creators-upgrade/"><u>Win11 Display Problems: Creators Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974411432-zero-tolerance-for-zoom-cameras-gone-wrong-weve-got-the-fixes/"><u>Zero Tolerance for Zoom Cameras Gone Wrong? We've Got the Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-11-wireless-network-disappearing-act/"><u>[FIXED] Windows 11 Wireless Network Disappearing Act</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[New] 2024 Approved Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-can-you-legally-capture-video-from-youtube/"><u>[Updated] 2024 Approved Can You Legally Capture Video From YouTube?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>[Updated] In 2024, Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industry-standards-top-10-excellent-4k-dslr-rigs/"><u>[Updated] Industry Standards Top 10 Excellent 4K DSLR Rigs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-cloud-costs-in-depth-price-analysis-and-best-options/"><u>[Updated] Mastering Cloud Costs In-Depth Price Analysis & Best Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>[Updated] Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-gaming-experience/"><u>Accelerate Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-fix-smooth-operation-resumed/"><u>Display Driver Fix: Smooth Operation Resumed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-internal-cameras-on-asus-systems/"><u>Enabling Internal Cameras on Asus Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-google-pixel-7a-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Google Pixel 7a</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-webcam-recording-apps-in-windows-10-reviewed/"><u>In 2024, Top Webcam Recording Apps in Windows 10 Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/leap-over-delays-in-your-gaming/"><u>Leap Over Delays in Your Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lifted-locks-thermal-settings-reached/"><u>Lifted Locks: Thermal Settings Reached</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-workspace-a-guide-to-switching-window-angle-by-90-degrees/"><u>Navigate Your Workspace: A Guide to Switching Window Angle by 90 Degrees</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-sync-problem-addressed/"><u>Nvidia Sync: Problem Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-nighthawk-encounters-overcoming-game-crashes/"><u>Nvidia's Nighthawk Encounters - Overcoming Game Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-amd-radeon-r9-hurdles-with-ease-on-win11/"><u>Overcoming AMD Radeon R9 Hurdles with Ease on Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Light Up Dark Screens on Lenovo Notebooks
-date: 2024-11-17T20:22:25.428Z
-updated: 2024-11-23T16:23:22.887Z
+date: 2024-11-25T23:02:07.411Z
+updated: 2024-12-02T18:51:00.803Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7d541f24f083a78654b60cdafb0ff977b1be425e9
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/7d541f24f083a78654b60cdafb0ff977b1be425e9
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
@@ -64,7 +72,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -83,17 +91,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -128,7 +128,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
@@ -136,12 +136,16 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -152,10 +156,6 @@ So you can try disabling fast startup to see if it does the trick:
  Still got a black screen? Please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
 
@@ -178,7 +178,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
@@ -207,18 +207,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-decoding-efficient-photo-and-video-file-transfers-on-windows-10/"><u>[New] Decoding Efficient Photo & Video File Transfers on Windows 10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-stealthy-sound-suppression-techniques-for-fade-out/"><u>[New] In 2024, Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-precision-in-visuals-how-to-blur-backgrounds-on-teamblend/"><u>[Updated] In 2024, Precision in Visuals How to Blur Backgrounds on Teamblend</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-precision-speed-control-for-elite-pc-users/"><u>[Updated] Precision Speed Control for Elite PC Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-supercharged-visuals-video-content-plus-filter-amplification-pcmobile-for-2024/"><u>[Updated] Supercharged Visuals Video Content + Filter Amplification (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dispel-sims-4-no-signage-mistakes/"><u>Dispel Sims 4 No-Signage Mistakes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-guide-for-static-hp-screen-flashes/"><u>Fix Guide for Static HP Screen Flashes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-horizontal-scaling-problems/"><u>Fix Horizontal Scaling Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-t2-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo T2 Pro 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-14-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 14 Location | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/network-interface-misplaced-finding-wireless-adapter-in-windows-10/"><u>Network Interface Misplaced: Finding Wireless Adapter in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974011444-resolve-amd-tarkov-glitch/"><u>Resolve AMD Tarkov Glitch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-comctl32dll-file-not-found-a-step-by-step-guide/"><u>Resolving 'Comctl32.dll' File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites/"><u>[Updated] 2024 Approved Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-view-youtube-statistics-for-2024/"><u>[Updated] How to View YouTube Statistics for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/customizable-instagram-ringtones-made-easy-for-2024/"><u>Customizable Instagram Ringtones Made Easy for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disconnected-from-wi-fi-reconnect-with-win10-steps/"><u>Disconnected From Wi-Fi? Reconnect with Win10 Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>Exclusive Exploration Superior VR Games on Google Cardboard</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-practices-to-avoid-missed-frames-during-video-capture/"><u>In 2024, Best Practices to Avoid Missed Frames During Video Capture</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-quiet-revolution-cutting-edge-approaches-to-taming-sibilance-in-audio-editing/"><u>New In 2024, The Quiet Revolution Cutting-Edge Approaches to Taming Sibilance in Audio Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-harmony-end-of-fallout-4-snafus/"><u>PC Harmony: End of Fallout 4 Snafus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-issue-amds-loading-problem-with-win10-driver-detected-and-fixed/"><u>Resolved Issue: AMD's Loading Problem with Win10 Driver Detected & Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/roblox-optimization-for-smooth-computer-gaming/"><u>Roblox Optimization for Smooth Computer Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-the-screen-fix-for-dell-luminosity/"><u>Stabilize the Screen: Fix for Dell Luminosity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rt-of-making-youtube-thumbnails-on-the-go-mobile-for-2024/"><u>The Art of Making YouTube Thumbnails on the Go (Mobile) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tomb-raiders-trap-steady-stream/"><u>Tomb Raider's Trap: Steady Stream?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/travel-essential-revealed-reviewing-the-razer-usb-c-portable-hub-ideal-for-laptop-gamers/"><u>Travel Essential Revealed - Reviewing the Razer USB-C Portable Hub Ideal for Laptop Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unwinding-flicker-in-win7-monitors/"><u>Unwinding Flicker in Win7 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upside-down-screen-rectification-for-windows-10/"><u>Upside-Down Screen Rectification for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-achieved-fullscreen-without-faults/"><u>Win11 Display: Achieved Fullscreen Without Faults</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/windows-8-flv-editor-a-user-friendly-video-editing-solution-for-2024/"><u>Windows 8 FLV Editor A User-Friendly Video Editing Solution for 2024</u></a></li>
 </ul></div>
 

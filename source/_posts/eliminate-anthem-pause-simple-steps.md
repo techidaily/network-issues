@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Anthem Pause: Simple Steps"
-date: 2024-07-12T00:14:52.205Z
-updated: 2024-07-13T00:14:52.205Z
+date: 2024-12-02T00:27:07.991Z
+updated: 2024-12-03T03:54:41.355Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Optimize your in-game settings
 
  For the best performance of Anthem and less lag, you can adjust your in-game settings.
@@ -41,6 +45,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to **SETTINGS > Graphics Settings** .
 
  4) In**Motion Blur** , select**Off** .
@@ -50,6 +58,10 @@ Here’s how to do it:
  In**Chromatic Aberration** , select**Off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
@@ -101,6 +113,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
@@ -108,6 +124,10 @@ So you can follow the steps below to disable CPU core parking:
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -126,6 +146,10 @@ So you can follow the steps below to disable CPU core parking:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -167,6 +191,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
@@ -195,8 +223,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +230,24 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-techniques-for-smooth-screen-casting/"><u>[Updated] Expert Techniques for Smooth Screen Casting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-content-design-the-right-orientation-for-your-videos/"><u>[Updated] In 2024, FB Content Design The Right Orientation for Your Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-removing-your-facebook-live-video-tech-steps/"><u>2024 Approved Removing Your Facebook Live Video Tech Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-improper-orientation-in-windows-10-screen/"><u>Adjusting Improper Orientation in Windows 10 Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/culmination-of-computer-glare-fluctuations-averted/"><u>Culmination of Computer Glare Fluctuations Averted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decreasing-display-dissonance-in-win11/"><u>Decreasing Display Dissonance in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicated-window-10-wide-view-issues/"><u>Eradicated Window 10 Wide-View Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-gratis-multi-device-image-manipulation-tool-gimp/"><u>Expert Analysis of the Gratis Multi-Device Image Manipulation Tool, GIMP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-to-reactivate-unseen-graphics-card-in-pc/"><u>Guide to Reactivate Unseen Graphics Card in PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-k70-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi K70 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-nvidia-monitors-and-displays-settings/"><u>Reactivating NVIDIA Monitors and Displays Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-the-entertainment-world-the-significant-effect-of-ai-generated-content-on-gaming/"><u>Revolutionizing the Entertainment World: The Significant Effect of AI Generated Content on Gaming</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/secure-your-2023-bargain-save-15-on-winx-dvd-ripper-platinum-using-this-official-discount-couppon/"><u>Secure Your 2023 Bargain: Save $15 on WinX DVD Ripper Platinum Using This Official Discount Couppon!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-check-no-cards-registered/"><u>System Check: No Cards Registered</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-a1-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo A1 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-handbrake-user-manual-for-mastering-deinterlace-conversion-techniques/"><u>Ultimate HandBrake User Manual for Mastering Deinterlace Conversion Techniques</u></a></li>
+</ul></div>
 

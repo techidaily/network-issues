@@ -1,7 +1,7 @@
 ---
 title: Override Solid-Color Screen Errors
-date: 2024-11-22T06:24:47.789Z
-updated: 2024-11-24T01:01:25.628Z
+date: 2024-11-29T02:58:24.233Z
+updated: 2024-12-03T04:28:59.391Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 ## Override Solid-Color Screen Errors
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -69,6 +65,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -76,6 +76,10 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -96,7 +100,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
@@ -114,16 +118,12 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -136,7 +136,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
@@ -156,7 +156,7 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
@@ -211,20 +211,21 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-action-cam-battle-max-360-vs-hero-11-review/"><u>[New] Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-captivating-your-curbsides-glow-inside-your-house/"><u>[Updated] In 2024, Captivating Your Curbside's Glow Inside Your House</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-race-games-collection-guide/"><u>[Updated] In 2024, Elite Race Games Collection Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-synchronized-sound-and-picture-zone-online/"><u>2024 Approved Synchronized Sound & Picture Zone Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-display-effortlessly-thanks-to-win-10-fixes/"><u>Adjusting Display Effortlessly, Thanks to Win 10 Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-amazon-halo-a-deep-dive-into-personal-health-and-fitness-monitoring/"><u>Discover Amazon Halo: A Deep Dive Into Personal Health and Fitness Monitoring</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfx-device-initialization-corrected-in-windows/"><u>GFX Device Initialization Corrected in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphicwindow-interruption-in-window-os-under-repair/"><u>GraphicWindow Interruption in Window OS (Under Repair)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guides-to-uncover-hidden-computer-displays/"><u>Guides to Uncover Hidden Computer Displays</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://network-issues.techidaily.com/methods-for-stabilizing-acer-lcd-brightness/"><u>Methods for Stabilizing Acer LCD Brightness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-solution-smooth-video-screenshots/"><u>Quick Solution: Smooth Video Screenshots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/refund-policy-explained-understanding-movavis-terms-of-return/"><u>Refund Policy Explained: Understanding Movavi's Terms of Return</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repairing-failed-saves-for-default-display-profiles/"><u>Repairing Failed Saves for Default Display Profiles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069759061-new-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series-for-2024/"><u>[New] Huawei's Built-In Recorder Screen Capture for Mate and P Series. For 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fortnite-high-ping-quickly-and-easily/"><u>[SOLVED] | Fortnite High Ping | Quickly & Easily!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-wdfviolation-blue-screen-error-on-windows-111087/"><u>[SOLVED] WDF_Violation Blue Screen Error on Windows 11/10/8/7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition/"><u>[Updated] The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-the-game-changers-manual/"><u>2024 Approved Funimate The Game Changer's Manual</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-11-proplus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme 11 Pro+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enigmatic-engagements-in-top-escape-venues-for-2024/"><u>Enigmatic Engagements in Top Escape Venues for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-bsod-issues-caused-by-wdf-violations-on-various-versions-of-windows/"><u>Resolving BSoD Issues Caused by WDF Violations on Various Versions of Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvstream-user-agent-exe-issues-in-windows-a-comprehensive-guide/"><u>Resolving NVStream User Agent Exe Issues in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-comprehensive-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-undetected-amd-graphics-card-issue-in-windows-11-troubleshooting-steps/"><u>Resolving Undetected AMD Graphics Card Issue in Windows 11: Troubleshooting Steps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/samurai-spirit-explored-in-top-10-gaming-worlds/"><u>Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-fixing-initialization-issues-in-graphics-systems/"><u>Solved: Fixing Initialization Issues in Graphics Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-logitech-c615-master-driver-fixes-here/"><u>Troubleshooting Your Logitech C615? Master Driver Fixes Here!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-15-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 15 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-when-professionals-edit-their-video-films-they-often-need-to-switch-directly-between-different-recorded-scenes-to-create-customized-outcome-/"><u>Updated In 2024, When Professionals Edit Their Video Films, They Often Need to Switch Directly Between Different Recorded Scenes to Create Customized Outcome at the End</u></a></li>
 </ul></div>
 

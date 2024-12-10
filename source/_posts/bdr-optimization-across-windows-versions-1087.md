@@ -1,7 +1,7 @@
 ---
 title: BDR Optimization Across Windows Versions 10/8/7
-date: 2024-07-29T03:00:35.812Z
-updated: 2024-07-30T03:00:35.812Z
+date: 2024-12-02T02:23:12.439Z
+updated: 2024-12-03T04:45:31.290Z
 tags:
   - win11
   - win10
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
  You may have**Microsoft Basic Render driver problems** occurring to your Windows computer. Some may run into errors like “**Please update your Microsoft Basic Render Driver** ” in games, and some may find that the computer is using the Microsoft Basic Render driver instead of the official graphics card installed. But don’t worry. You can fix the Microsoft Basic Render driver issues quickly and easily with the solutions in this post.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is Microsoft Basic Render driver
 
  Microsoft Basic Render driver is the driver software for Microsoft Basic Display adapter, which provides your computer with the display and graphics capabilities when you don’t have the dedicated driver software installed for your graphics card.
@@ -29,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -42,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -52,25 +51,23 @@ Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  A missing or outdated graphics card driver can cause you with the Microsoft Basic Render driver, so you should update your graphics card driver to the latest version.
@@ -89,6 +86,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
@@ -104,8 +106,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,8 +113,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-beginners-pathway-prime-video-game-editing-applications/"><u>[New] Beginner's Pathway Prime Video Game Editing Applications</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-apple-music-add-on-for-smooth-video-playback/"><u>[Updated] 2024 Approved Apple Music Add-On for Smooth Video Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-freeze-whole-website-panel/"><u>[Updated] Freeze Whole Website Panel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-11-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme 11 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-windows-11-display-reversal-fix/"><u>Addressing Windows 11 Display Reversal Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-wow-glitch-519-like-a-pro/"><u>Conquering WoW Glitch #519 Like a Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-plugged-in-audio-equipment-errors-on-windows-platforms-version-11-8-and-7/"><u>Diagnosing and Repairing Plugged-In Audio Equipment Errors on Windows Platforms (Version 11, 8 & 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/endless-black-screen-restore-win10/"><u>Endless Black Screen, Restore Win10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-itunes-video-management-made-simple/"><u>In 2024, ITunes Video Management Made Simple</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-driver-no-visibility/"><u>New Driver, No Visibility?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-driver-update-now-available-on-windows-11/"><u>Radeon HD 6950 Driver Update Now Available on Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/responding-right-a-comprehensive-guide-to-discord-communication-for-2024/"><u>Responding Right A Comprehensive Guide to Discord Communication for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-oppo-find-n3-flip-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo Find N3 Flip? Tips, Tricks and Helpful Advice</u></a></li>
+</ul></div>
 

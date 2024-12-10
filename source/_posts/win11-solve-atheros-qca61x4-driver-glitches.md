@@ -1,7 +1,7 @@
 ---
 title: "Win11: Solve Atheros QCA61x4 Driver Glitches"
-date: 2024-07-12T00:15:26.251Z
-updated: 2024-07-13T00:15:26.251Z
+date: 2024-12-02T04:24:30.275Z
+updated: 2024-12-02T16:48:06.182Z
 tags:
   - win11
   - win10
@@ -37,8 +37,18 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 1. Press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**devmgmt.msc** into the box and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
@@ -61,14 +71,27 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
 5. Choose a reason based on your own situation, then click**Yes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
 
  Open your web browser to check whether the network connection has gone back to normal. If not, you should proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your Qualcomm adapter driver
 
@@ -100,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### My network connection doesn’t work at all
 
  When your network adapter doesn’t work at all, but you still have a second device that can be used for driver download, you can try the**Offline Scan feature** in Driver Easy.
@@ -121,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,6 +155,20 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-for-your-instagram-story-success/"><u>[New] 2024 Approved Cutting-Edge Techniques for Your Instagram Story Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-best-live-streaming-webcamscameras-for-twitch/"><u>5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-realme-11x-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Realme 11X 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-playfulness-with-chatgpts-best-6-interactive-games/"><u>Discover Playfulness with ChatGPT's Best 6 Interactive Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-malfunction-43-addressed/"><u>Graphics Malfunction 43 Addressed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1187269-9781780998466-how-to-soothe-a-virgo/"><u>How to Soothe a Virgo | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-unleashed-performance-perfected/"><u>Kratos Unleashed: Performance Perfected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blank-graphic-detail-lost/"><u>Screen Blank: Graphic Detail Lost</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209860685-9781989013106-secrets-of-a-healer/"><u>Secrets of a Healer | Free Book</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectrum-perfection-color-grading-basics-for-2024/"><u>Spectrum Perfection Color Grading Basics for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974778167-swiftly-refresh-intel-g3000-driver-on-win11/"><u>Swiftly Refresh Intel G3000 Driver on Win11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-mix-up-of-intel-and-nvidia-graphic-cards-in-win10/"><u>Tackling Mix-Up of Intel & Nvidia Graphic Cards in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-persistent-led-glare/"><u>Troubleshooting Persistent LED Glare</u></a></li>
+</ul></div>
 

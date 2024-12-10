@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7"
-date: 2024-11-21T01:14:08.029Z
-updated: 2024-11-24T10:36:53.011Z
+date: 2024-11-28T00:27:21.755Z
+updated: 2024-12-02T19:58:43.071Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -97,15 +101,19 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 ##  Method 6: Run network commands
 
@@ -121,19 +129,11 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,18 +156,22 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/1719974543137-the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-hook-it-game-winning-podcast-beginnings/"><u>[New] The Hook-It Game Winning Podcast Beginnings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-smart-strategies-to-enhance-your-video-with-customized-end-screen-cards/"><u>[Updated] Smart Strategies to Enhance Your Video with Customized End Screen Cards</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beat-the-system-cutting-lag-time/"><u>Beat the System: Cutting Lag Time</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-stuck-pointer-in-dark-window-w10/"><u>Fix Stuck Pointer in Dark Window, W10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-download-the-newest-broadcom-network-card-driver-on-your-windows-10-system-fixed/"><u>How to Successfully Download the Newest Broadcom Network Card Driver on Your Windows 10 System [FIXED]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-motorola-edge-40-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Edge 40 Easily?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/making-history-revolutionary-gpt-4-by-openai/"><u>Making History: Revolutionary GPT-4 by OpenAI</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-horizontal-line-disruptions/"><u>Resolve Horizontal Line Disruptions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/securely-verifying-your-youtube-access-details/"><u>Securely Verifying Your YouTube Access Details</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-curser-freeze-in-win10/"><u>Solve Curser Freeze in Win10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-11-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 11 Pro 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-disconnects-and-frustrates-us/"><u>Wi-Fi Disconnects and Frustrates Us</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-journey-through-filmora-editing-10-standout-functions/"><u>[New] In 2024, Journey Through Filmora Editing 10 Standout Functions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-captivating-titles-easily-achievable-for-2024/"><u>[Updated] Captivating Titles, Easily Achievable for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-potential-snapchat-insights-for-companies-for-2024/"><u>[Updated] Unlocking Potential Snapchat Insights for Companies for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-large-desktop-screens-on-win10/"><u>Adjusting Large Desktop Screens on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-screen-shutdown-in-fall-update/"><u>Clearing Screen Shutdown in Fall Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-correcting-microsoftdirectxdirectinputdll-errors-effectively/"><u>Comprehensive Guide: Correcting 'Microsoft.DirectX.DirectInput.dll' Errors Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-vanished-desktop-symbols-in-windows-11-effective-solutions-proven/"><u>Fix: Vanished Desktop Symbols in Windows 11 – Effective Solutions Proven!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-checkout-successful-on-nvidia-installer/"><u>Hardware Checkout Successful on NVIDIA Installer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-screen-sharpness-solution/"><u>Immediate Screen Sharpness Solution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-savvy-techniques-for-storing-and-streaming-animated-images/"><u>In 2024, IPhone-Savvy Techniques for Storing and Streaming Animated Images</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/insignia-graphics-cards-compatible-with-windows-download-and-installation-guide/"><u>Insignia Graphics Cards Compatible with Windows: Download and Installation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-failure-rectified-system-running-smoothly/"><u>Nvidia Failure Rectified, System Running Smoothly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-invisible-card-errors/"><u>Resolve Invisible Card Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-silence-diagnosing-darkness/"><u>Screen Silence: Diagnosing Darkness</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-list-best-photovideo-maker-pairs-with-music/"><u>The Ultimate List Best Photo/Video Maker Pairs with Music</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-8-camera-lineup-to-elevate-streaming-success-for-2024/"><u>Ultimate 8 Camera Lineup to Elevate Streaming Success for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Resolving Screen Flicker Issues on Your Asus Notebook
-date: 2024-11-21T22:29:54.052Z
-updated: 2024-11-24T02:37:04.083Z
+date: 2024-12-01T04:50:45.708Z
+updated: 2024-12-02T23:37:13.889Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -45,7 +41,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. In**Related settings** , click**Advanced display** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
@@ -71,10 +67,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Fix 2: Update or delete incompatible apps
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** .
@@ -83,6 +75,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
 
@@ -103,7 +99,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -111,6 +107,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
  5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -124,7 +124,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
@@ -154,17 +154,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-sonic-excellence-strategies-to-amplify-your-audio-quality/"><u>[New] 2024 Approved Sonic Excellence Strategies to Amplify Your Audio Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-sony-bdp-s6700-review-updated/"><u>[New] 2024 Approved Sony BDP-S6700 Review - Updated</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-musical-guide-to-enhancing-slides-with-tunes/"><u>[Updated] A Musical Guide to Enhancing Slides with Tunes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y27-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y27 4G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disabling-dark-mode-black-screen-issue/"><u>Disabling Dark Mode BLACK SCREEN Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-i-utilized-chatgpt-for-writing-engaging-podcast-episodes-insights-and-outcomes/"><u>How I Utilized ChatGPT for Writing Engaging Podcast Episodes - Insights and Outcomes</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-15-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 15 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-lava-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Lava</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-upside-down-display-woes/"><u>Resolving Upside-Down Display Woes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversal-of-laptop-viewpoint-overcome/"><u>Reversal of Laptop Viewpoint - Overcome</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simplified-guide-uninstalling-graphics-drivers-in-windows/"><u>Simplified Guide: Uninstalling Graphics Drivers in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-cant-change-resolution-solved/"><u>Windows 11 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-jumpstart-your-recording-with-this-obs-mac-setup-guide/"><u>[New] Jumpstart Your Recording with This OBS Mac Setup Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-techs-leading-edge-in-video-capturing-software-for-2024/"><u>[New] Tech's Leading Edge in Video Capturing Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-complementing-core-shots-with-b-roll/"><u>2024 Approved Strategies for Complementing Core Shots with B-Roll</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-premiere-pros-full-screen-magic/"><u>2024 Approved Unveiling the Secrets of Premiere Pro's Full Screen Magic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-purity-in-ffmpeg-a-format-friendly-perspective/"><u>Auditory Purity in FFmpeg A Format-Friendly Perspective</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-visuals-and-high-quality-screen-win10-solution/"><u>Clear Visuals & High-Quality Screen - Win10 Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-screen-flashing-issue-on-win11-resolved/"><u>Clear: Screen Flashing Issue on Win11 Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/computer-upgrades-to-meet-intel-software-minimums/"><u>Computer Upgrades to Meet Intel Software Minimums</u></a></li>
+<li><a href="https://network-issues.techidaily.com/experience-vivid-graphics-with-a-simple-update-to-intel-hd-graphics-3000/"><u>Experience Vivid Graphics with a Simple Update to Intel HD Graphics 3000</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-itel-p55-is-unlocked-by-drfone-android/"><u>How To Check if Your Itel P55 Is Unlocked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>In 2024, Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-c1900101-error-on-10th-edition/"><u>Remedying C1900101 Error on 10Th Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wifi-adapter-driver-download-and-install-for-windows-1110/"><u>WiFi Adapter Driver Download and Install for Windows 11/10</u></a></li>
 </ul></div>
 

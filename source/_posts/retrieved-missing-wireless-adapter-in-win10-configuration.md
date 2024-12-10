@@ -1,7 +1,7 @@
 ---
 title: Retrieved Missing Wireless Adapter in Win10 Configuration
-date: 2024-07-12T00:13:42.244Z
-updated: 2024-07-13T00:13:42.244Z
+date: 2024-11-30T16:03:23.769Z
+updated: 2024-12-02T20:50:31.556Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Show the hidden devices in Device Manager
 
  Your wireless network adapter may be hidden in Device Manager. If you’re not sure, follow the instruction below to show the hidden devices in Device Manager:
@@ -37,10 +41,20 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 1. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, click**View** and select**Show hidden devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap596.png)
 3. Click**Network adapters** to select it. Click**Action** and click**Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap597.png)
 4. Double-click**Network adapters** to expand the list. See if your wireless network adapter (usually the adapter whose name contains the word “wireless”) appears among the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap598.png)
 
  If your adapter appears shows up on the list, double-click on it to open its properties window. See if the adapter is working properly.
@@ -54,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 1. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click**Action** on the menu bar and select**Add legacy hardware** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click**Next** to move on.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
@@ -89,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
@@ -104,8 +127,17 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 1. On your keyboard, press **the Windows Logo Key**   and **R**   at the same time to open the Run dialog. Type **cmd**   and press **Ctrl** , **Shift**   and **Enter**   at the same time to **run**  **Command Prompt**  **as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap602.png)
 2. In the Command Prompt, type **netsh winsock reset** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap603.png)
 3. **Restart**  your PC to complete the reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if your wireless network adapter appears in Device Managers.
 
@@ -124,8 +156,6 @@ See if your wireless network adapter appears in Device Managers.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,6 +163,20 @@ See if your wireless network adapter appears in Device Managers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-master-selective-blurry-effects-in-digital-imagery/"><u>[New] Master Selective Blurry Effects in Digital Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-quick-memes-on-demand-unlocking-kinemaster/"><u>[New] Quick Memes on Demand Unlocking KineMaster</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-list-of-8-youtube-mistakes-to-evade/"><u>[New] The Ultimate List of 8 Youtube Mistakes to Evade</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[Updated] Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-studio-mastery-a-comprehensive-video-editing-guide/"><u>2024 Approved YouTube Studio Mastery A Comprehensive Video Editing Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-dilemma-dispersed-in-portable-unit/"><u>Dimming Dilemma Dispersed in Portable Unit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improved-windows-image-crispness/"><u>Improved: Windows Image Crispness</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-remove-background-noise-from-skype-video-calls/"><u>In 2024, How to Remove Background Noise From Skype Video Calls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-troubleshooting-sync-issues/"><u>Navigate Through Troubleshooting Sync Issues</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-find-fart-sounds-effect/"><u>New Find Fart Sounds Effect</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-intel-graphics-update-in-windows-7-pros-and-tips/"><u>Seamless Intel Graphics Update in Windows 7 Pros & Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-playtracker-insight/"><u>Ultimate PlayTracker Insight</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-settings-pc/"><u>Unlock Hidden Display Settings, PC</u></a></li>
+</ul></div>
 

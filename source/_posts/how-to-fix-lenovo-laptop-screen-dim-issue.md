@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-11-18T12:11:41.653Z
-updated: 2024-11-23T17:35:08.763Z
+date: 2024-11-25T19:25:06.945Z
+updated: 2024-12-03T01:24:02.109Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
  **3)[Modify Registry](#c)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Update graphics driver
 
  In many cases, the culprit of the dim laptop screen issue is the faulty graphics drivers. You need to update the graphics driver to the latest and correct version. But if you don’t have time, patience or computer skills to deal with drivers (since it is very tricky and time-consuming), we recommend you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -82,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
@@ -90,12 +86,16 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -119,24 +119,21 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-bsod-on-windows-os/"><u>[Resolved] dxgkrnl.sys BSOD on Windows OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-five-exceptional-sierra-dvd-editors-unveiled-for-2024/"><u>[Updated] Five Exceptional Sierra DVD Editors Unveiled for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-frame-rate-mastery-through-controller-tweaks/"><u>[Updated] Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>[Updated] Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-how-zooming-up-with-fb-live-transforms-broadcasts/"><u>2024 Approved How Zooming Up with FB Live Transforms Broadcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-choosing-the-right-soundtracks-for-boxings-for-2024/"><u>Auditory Aesthetics Choosing the Right Soundtracks for Boxings for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beginners-pathway-to-urdu-mastery-with-keywords/"><u>Beginner's Pathway to Urdu Mastery with Keywords</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-method-to-align-display-angles/"><u>Direct Method to Align Display Angles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/effortless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>Effortless Earnings Channel Size No Longer a Challenge for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-c1900101-a-guide-to-smooth-windows-11-setup/"><u>Fixing C1900101: A Guide to Smooth Windows 11 Setup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-incompatible-amd-freesync-sync-signal/"><u>Fixing Incompatible AMD FreeSync Sync Signal</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-realme-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Realme</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 12 mini Passcode not Working?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-exploration-of-theta-s-capabilities/"><u>In 2024, In-Depth Exploration of Theta S Capabilities</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-display-issue-fullscreen-windows-11-shown-correctly/"><u>Rectified Display Issue - Fullscreen Windows 11 Shown Correctly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlining-intel-gpu-driver-upgrades-for-windows-7-users/"><u>Streamlining Intel GPU Driver Upgrades for Windows 7 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-the-unruly-monitor-refresh-rate/"><u>Taming the Unruly Monitor Refresh Rate</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zero-down-time-fix-apex-legends-crash/"><u>Zero Down Time: Fix Apex Legends Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-lost-network-card-on-windows-10-desktop/"><u>[FIXED] Lost Network Card on Windows 10 Desktop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-effective-image-sharing-using-snap-camera-for-microsoft-teams-for-2024/"><u>[New] Effective Image Sharing Using Snap Camera for Microsoft Teams for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-tv-viewing-via-hdmi-laptop-connected-successfully/"><u>[Restored] TV Viewing via HDMI, Laptop Connected Successfully</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-transform-your-streaming-skills-with-compreenass-obs-guide/"><u>[Updated] In 2024, Transform Your Streaming Skills with Compreenas's OBS Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-maze-of-selecting-film-teasers-music-for-2024/"><u>[Updated] Navigating the Maze of Selecting Film Teasers' Music for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sculpting-soundscapes-gradual-volume-reduction/"><u>[Updated] Sculpting Soundscapes Gradual Volume Reduction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-absence-in-sims-screens/"><u>Eliminate Absence in Sims' Screens</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-premiere-virtual-artist-streams/"><u>In 2024, Premiere Virtual Artist Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974137317-install-latest-intel-hd-graphics-3000-on-windows-10-swiftly/"><u>Install Latest Intel HD Graphics 3000 on Windows 10 Swiftly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-video-compression-a-simple-tutorial-on-transforming-mp4-files-to-advanced-av1-standard/"><u>Mastering Video Compression: A Simple Tutorial on Transforming MP4 Files to Advanced AV1 Standard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-4k-gaming-monitors-featuring-curved-displays-with-144hz/"><u>Navigating the World of High-Performance 4K Gaming Monitors - Featuring Curved Displays with 144Hz</u></a></li>
+<li><a href="https://network-issues.techidaily.com/non-responsive-lenovo-touchscreen-resolved/"><u>Non-Responsive Lenovo Touchscreen - Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-error-22-graphics-driver/"><u>Resolved Error #22, Graphics Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208194874-run-the-latest-engine-successfully-upgrade-to-a-gpu-that-works-with-direct3d-11/"><u>Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-story-overcoming-amds-windows-10-driver-load-hurdle/"><u>Success Story: Overcoming AMD's Windows 10 Driver Load Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-discord-video-call-volume-problems/"><u>Troubleshooting Tips: Resolving Discord Video Call Volume Problems</u></a></li>
 </ul></div>
 

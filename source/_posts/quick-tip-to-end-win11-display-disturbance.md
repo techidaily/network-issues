@@ -1,7 +1,7 @@
 ---
 title: Quick Tip to End Win11 Display Disturbance
-date: 2024-07-12T00:13:33.628Z
-updated: 2024-07-13T00:13:33.628Z
+date: 2024-12-02T03:31:17.667Z
+updated: 2024-12-02T21:23:51.433Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows11.jpg)
 
  Microsoft has officially rolled out Windows 11 for eligible users. However, the new operating system is not exempted from encountering many issues. Some users have reported that they are experiencing a flickering screen in Windows 11\. If you happen to be one of them, don’t worry. In this tutorial, we’ll show you how to fix the problem easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -73,6 +77,11 @@ If the issue remains, check out the next fix.
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
@@ -93,6 +102,10 @@ If the issue remains, check out the next fix.
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change Accent color and Background
 
  Just like Windows 10, there is an option in Windows 11 that allows your system to automatically select an accent color from your background. However, there are many reports that this option turns out to be a culprit of screen flickering. So you can follow these steps to disable it:
@@ -103,8 +116,18 @@ If the issue remains, check out the next fix.
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
@@ -138,8 +161,17 @@ If this fix doesn’t do the trick, try the next one below.
  If there isn’t, right-click on empty space and select**New** \>**DWORD (32-bit) value** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-new-DWORD.jpg)  
  Then rename the file as**DisableHWAcceleration** .**Double-click** on the file and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
 4. Close Registry Editor and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the flickering issue occurs while using your browser, you’ll need to disable hardware acceleration in your browser as well. Here we’ll take Google Chrome for example.
 
@@ -150,6 +182,10 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
@@ -181,9 +217,17 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, check if your problem has been resolved.
 
@@ -199,8 +243,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,6 +250,24 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-bambuser-intro-video-summary-width-x-height-encoding-seconds/"><u>[Updated] Bambuser Intro Video Summary Width X Height, Encoding, Seconds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eye-catching-thumbnails-select-the-best-fonts/"><u>[Updated] In 2024, Eye-Catching Thumbnails Select the Best Fonts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-luts-in-obs-for-premium-visual-output/"><u>[Updated] Mastering LUTs in OBS for Premium Visual Output</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>2024 Approved How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/darkened-view-post-driver-change/"><u>Darkened View Post-Driver Change</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-error-43-fixed/"><u>Display Driver, Error 43 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-unsuccessful-gdx-creation-on-vistawin/"><u>Fixed Unsuccessful GDX Creation on VistaWin</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-note-30-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Note 30 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-xr-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone XR</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-control-panel-lockout-issue/"><u>Overcame: Control Panel Lockout Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-grainy-graphics-on-far-cry-6-console/"><u>Overcoming Grainy Graphics on Far Cry 6 Console</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalize-graphic-performance-seamlessly-update-intel-hd-graphics-3000-driver-for-w10/"><u>Revitalize Graphic Performance: Seamlessly Update Intel HD Graphics 3000 Driver for W10.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speedy-inspector-for-windows-images-for-2024/"><u>Speedy Inspector for Windows Images for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-backward-facing-displays-in-w11/"><u>Tackling Backward-Facing Displays in W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-monitors-layout-on-w11/"><u>Transform Your Monitor's Layout on W11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-using-dvd-decryption-tools-on-windows-11-for-high-quality-backups-and-viewings-of-your-favorite-movies/"><u>Ultimate Guide to Using DVD Decryption Tools on Windows 11 for High-Quality Backups & Viewings of Your Favorite Movies!</u></a></li>
+</ul></div>
 

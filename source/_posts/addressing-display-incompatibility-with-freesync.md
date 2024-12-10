@@ -1,7 +1,7 @@
 ---
 title: Addressing Display Incompatibility with FreeSync
-date: 2024-07-12T00:14:41.884Z
-updated: 2024-07-13T00:14:41.884Z
+date: 2024-11-30T21:26:56.258Z
+updated: 2024-12-02T21:36:36.221Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
  Before you start troubleshooting, first**make sure your monitor is AMD FreeSync compatible** . You can find out by checking the product page on the official website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the charm.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 6. [**Disable Fullscreen optimizations**](#fix6)
 7. **[Configure the default GPU](#fix7)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Try different ports
 
  First you should check if it’s a hardware issue by changing to another port. For example, if you’re using HDMI, try DP instead and see how it goes. Note that you’ll need**a HDMI 2.0 or DP 1.2 cable** for FreeSync to work properly. If the other ports work perfectly, you might be looking at a faulty GPU/cable/monitor.
@@ -43,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 For your reference, here’s what HDMI and DP ports look like:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/graphics-card-hdmi-dp-ports.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix.
 
@@ -86,8 +98,18 @@ If the problem persists, take a look at the next fix.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -112,6 +134,10 @@ Here’s how:
 
 If the issue is still there, simply try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable Fullscreen optimizations
 
  You can try this when FreeSync isn’t working in certain games or programs.
@@ -126,6 +152,10 @@ Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Configure the default GPU
 
  If your PC has dual GPUs, say an integrated one comes with the CPU and a dedicated one, you might need to**specify the default GPU for your program** . Since FreeSync is currently only compatible with AMD GPUs, besides connecting the monitor to an AMD graphics card, you can also configure the default GPU for the program.
@@ -133,6 +163,11 @@ If this doesn’t help, you can continue to the next method.
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
@@ -154,8 +189,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +196,24 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-masterclass-in-eliminating-youtube-content/"><u>[New] In 2024, Masterclass in Eliminating YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rapid-routines-easy-iphone-media-sharing/"><u>[New] Rapid Routines Easy iPhone Media Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>[New] The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-syma-x8c-to-previous-models/"><u>Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dawn-on-a-lenovo-once-in-blackout/"><u>Dawn on a Lenovo, Once in Blackout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-performance-drivers-nvidias-210-for-modern-win10-pcs/"><u>Enhanced Performance Drivers: Nvidia's 210 for Modern Win10 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-display-inversion-error/"><u>Fixing Windows 10 Display Inversion Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-addressing-opengl-bug-in-driver-update/"><u>GPU Fix: Addressing OpenGL Bug in Driver Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmony-achieved-nvidia-on-windows-10/"><u>Harmony Achieved: Nvidia on Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-reimagining-your-images-effective-uses-of-the-background-eraser-in-adobe-photoshop/"><u>In 2024, Reimagining Your Images Effective Uses of the Background Eraser in Adobe Photoshop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-fully-operational-now/"><u>Nvidia Setup: Fully Operational Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amds-tarkov-graphical-glitches/"><u>Overcoming AMD's Tarkov Graphical Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/potential-consequences-for-using-chatgpt-during-work-hours/"><u>Potential Consequences for Using ChatGPT During Work Hours</u></a></li>
+<li><a href="https://network-issues.techidaily.com/problem-solved-windows-10-monitors-not-displaying-full-windows/"><u>Problem Solved: Windows 10 Monitors Not Displaying Full Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-broadcasts-with-manycam-ultimate-virtual-webcam-and-filming-tool/"><u>Transform Your Broadcasts with ManyCam – Ultimate Virtual Webcam & Filming Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974533632-transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10.</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-sherlock-holmes-into-an-interactive-gaming-experience-with-chatgpt/"><u>Transforming Sherlock Holmes Into an Interactive Gaming Experience with ChatGPT</u></a></li>
+</ul></div>
 

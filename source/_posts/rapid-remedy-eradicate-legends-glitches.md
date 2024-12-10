@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-11-17T11:40:06.322Z
-updated: 2024-11-24T12:41:26.297Z
+date: 2024-11-30T20:38:32.517Z
+updated: 2024-12-02T21:29:28.908Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Apex Legends players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 6. **[Reinstall Apex Legends](#f5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your Nvidia graphics driver
@@ -67,6 +71,10 @@ _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -88,10 +96,6 @@ _You can do it for free if you like, but it’s partly manual._
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -135,6 +139,10 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -153,17 +161,9 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -178,7 +178,7 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
@@ -204,20 +204,14 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-sudden-blinks-on-laptop-monitor/"><u>[Resolved] Sudden Blinks on Laptop Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breeze-through-apex-errors-instantly/"><u>Breeze Through Apex Errors, Instantly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-configuration-lost-in-windows-11/"><u>Display Configuration Lost in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embracing-eco-friendly-practices-lenovo-strives-for-net-zero-emissions-a-deep-dive-by-zdnet/"><u>Embracing Eco-Friendly Practices, Lenovo Strives for Net Zero Emissions - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/epiteszetileg-hasznalatos-targyatokon-gyujtasasztechnika-diskordin-pc-es-mobil-rendszerbe/"><u>Építészetileg Használatos Tárgyatokon Gyújtásásztechnika - Diskordin PC És Mobil Rendszerbe</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-alert-game-master-of-unacceptable-conduct-xbox/"><u>How to Alert Game Master of Unacceptable Conduct (Xbox)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-x50i-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor X50i</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-mechanical-keyboard-sanitization/"><u>Mastering the Art of Mechanical Keyboard Sanitization</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-mosaic-maker-for-2024/"><u>Media Mosaic Maker for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/minecraft-on-pc-fixing-video-driver-failures/"><u>Minecraft on PC: Fixing Video Driver Failures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-wide-screen-problems-on-windows-os/"><u>Resolved Wide-Screen Problems on Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-windows-screen-after-update-fall/"><u>Restoring Windows Screen After Update Fall</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-your-system-update-intel-graphics-3000-on-windows-10-now/"><u>Streamline Your System: Update Intel Graphics 3000 on Windows 10 Now!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/macdvdiphone-macx-dvd-to-iphone/"><u>ダイレクト:Mac用無料DVDからiPhoneへのコンバーター - MacX DVD to iPhone変換ソフト</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-fbs-viral-hits-10-songs-that-scored-big/"><u>[Updated] 2024 Approved Mastering FB's Viral Hits - 10 Songs That Scored Big</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-visionary-screenplay-crafting-hub/"><u>2024 Approved Visionary Screenplay Crafting Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bad-video-card-drivers-crash-minecraft-on-windows-solved/"><u>Bad Video Card Drivers Crash Minecraft on Windows [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/battle-tested-fixes-for-nvidia-rtx-3080-game-errors/"><u>Battle-Tested Fixes for NVIDIA RTX 3080 Game Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-90-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor 90 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-sims-4-solid-screens/"><u>Overcome Sims 4 Solid Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-attaching-reminders-windows-1110-tutorial/"><u>Securely Attaching Reminders: Windows 11/10 Tutorial</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stretch-your-win11-display-to-its-limits/"><u>Stretch Your Win11 Display to Its Limits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-windows-11s-microsoft-store-error/"><u>Tips for Fixing Windows 11'S Microsoft Store Error</u></a></li>
 </ul></div>
 

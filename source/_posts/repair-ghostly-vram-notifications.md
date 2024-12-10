@@ -1,7 +1,7 @@
 ---
 title: Repair Ghostly VRAM Notifications
-date: 2024-07-12T00:13:37.898Z
-updated: 2024-07-13T00:13:37.898Z
+date: 2024-11-26T19:49:09.427Z
+updated: 2024-12-03T02:50:52.951Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 4. **[Reinstall your graphics card](#d)**
 5. **[Update your BIOS](#e)** [](#e)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Refresh Device Manager
 
  One quick fix that works for many Windows users is refreshing Device Manager. Follow the instructions below to see how to do it:  
@@ -39,9 +43,19 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the**Scan button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
 4. **Check if your graphics card shows up under Display adapters.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check if your graphics card shows up under Display adapters.
 
  If it doesn’t, don’t worry. Read on and check the fix below.
@@ -66,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 ### Fix 3: Uninstall recent Windows updates
@@ -80,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Programs** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
@@ -87,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 **4)** Click**View installed updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Right-click a recent update, and then click**Uninstall** .
 
@@ -117,6 +143,10 @@ Here is where a graphics card is usually located.
 **4)** Plug the power cord back into the power outlet, and then turn on your computer.
 
  Check if this worked for you. If your problem still exists, don’t fret. There is still 1 more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -153,8 +183,6 @@ Here is where a graphics card is usually located.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,6 +190,20 @@ Here is where a graphics card is usually located.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-visual-mastery-leading-brands-in-8k-capture/"><u>[Updated] 2024 Approved Visual Mastery Leading Brands in 8K Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[Updated] In 2024, Seamless File Access Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>2024 Approved Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-powered-podcast-names-the-ultimate-selection-list-for-2024/"><u>AI-Powered Podcast Names The Ultimate Selection List for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-settings-accessibility-in-nvidia/"><u>Enhancing Visual Settings Accessibility in Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-glitch-cleared-driver-restarted-successfully/"><u>Graphic Glitch Cleared: Driver Restarted Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/heros-return-mh-world-bug-squished/"><u>Hero's Return: MH World Bug Squished</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-troubleshoot-a-non-functional-printed-connection-expert-advice-from-yl-computing/"><u>How To Troubleshoot a Non-Functional Printed Connection - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-generative-genius-quest-who-outperforms-notion-or-gpt-3/"><u>The Generative Genius Quest: Who Outperforms - Notion or GPT-3?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-you-should-do-when-the-proximity-alert-system-in-your-iphone-stops-working/"><u>What You Should Do When the Proximity Alert System in Your iPhone Stops Working</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
+</ul></div>
 

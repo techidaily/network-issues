@@ -1,7 +1,7 @@
 ---
 title: Tackling HP Display Flicker and Blinking
-date: 2024-07-12T00:16:01.307Z
-updated: 2024-07-13T00:16:01.307Z
+date: 2024-12-01T19:37:09.751Z
+updated: 2024-12-02T22:59:56.814Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop screen flickering issue by ruling out the physical factors.
@@ -40,6 +44,10 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -99,7 +107,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -111,6 +127,10 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -129,8 +149,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +156,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-boost-video-clarity-with-iphone-zoom-tools/"><u>[New] Boost Video Clarity with iPhone Zoom Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-hourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[New] Hourly Headliners The Leading YT Videos in the Last 24 Hours</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-video-calls-how-to-utilize-zoom-on-win10-pcs/"><u>[New] Streamlining Your Video Calls How to Utilize Zoom on Win10 PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-background-blur-in-modern-photography-for-2024/"><u>[New] The Art of Background Blur in Modern Photography for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-request-failed-due-to-a-fatal-device-hardware-error/"><u>[SOLVED] The Request Failed Due to a Fatal Device Hardware Error</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-techniques-for-transforming-vimeo-media-into-mp4s/"><u>[Updated] Expert Techniques for Transforming Vimeo Media Into MP4s</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-high-altitude-escapades-the-husqvarna-h501s-review-explored-for-2024/"><u>[Updated] High Altitude Escapades - The Husqvarna H501S Review Explored for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-11-display-sizes/"><u>Adjusting Windows 11 Display Sizes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discerning-the-advantages-of-ultra-hd-visuals/"><u>Discerning the Advantages of Ultra HD Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-brightness-levels/"><u>Enhancing Lenovo Display Brightness Levels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-stability-problems-in-total-war-rome-remastered-expert-advice/"><u>How to Resolve Stability Problems in Total War: Rome Remastered - Expert Advice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lifting-the-curse-the-invisible-direct-x-disruption-solved-in-leagues/"><u>Lifting the Curse: The Invisible Direct X Disruption Solved in Leagues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-solves-wins-basic-drive-problems/"><u>Microsoft Solves Win's Basic DRIVE Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974497126-quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/"><u>System Error Due To Nvidia, Now Resolved</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-the-viral-potential-of-your-instagram-unboxing-content/"><u>Unleash the Viral Potential of Your Instagram Unboxing Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-need-to-refresh-your-google-chrome-browser-this-weekend-insights/"><u>Why You Need to Refresh Your Google Chrome Browser This Weekend – Insights</u></a></li>
+</ul></div>
 

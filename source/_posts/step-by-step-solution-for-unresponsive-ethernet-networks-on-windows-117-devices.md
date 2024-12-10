@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2024-11-18T18:37:11.321Z
-updated: 2024-11-24T07:19:09.144Z
+date: 2024-11-27T17:15:13.544Z
+updated: 2024-12-02T17:35:07.184Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 3: Update the network card driver
 
  The connection problem can be caused by faulty network drivers. To fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with Driver Easy. 
@@ -70,13 +66,17 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -101,13 +97,13 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
@@ -119,21 +115,25 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,19 +156,16 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-trailer-by-filmora-for-2024/"><u>[New] How to Make a YouTube Trailer by Filmora for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unleashing-youtube-profits-non-ad-revenue-techniques-for-growth/"><u>[New] In 2024, Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-a-technophiles-manual-on-keeping-a-digital-log-of-live-tv/"><u>[Updated] A Technophile's Manual on Keeping a Digital Log of Live TV</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-cards-without-directx-support/"><u>AMD Cards Without DirectX Support</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-no-more-deciphering-and-fixing-minecrafts-infamous-exit-code-0/"><u>Error No More: Deciphering and Fixing Minecraft's Infamous 'Exit Code 0'</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-dupliquer-le-systeme-dexploitation-windows-1011-sur-supports-de-stockage-disque-dur-ou-ssd/"><u>Guide Facile Pour Dupliquer Le Système D'Exploitation Windows 10/11 Sur Supports De Stockage Disque Dur Ou SSD</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot/"><u>In 2024, 8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-psd-transparency-tricks/"><u>In 2024, Ultimate PSD Transparency Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/keeping-windows-intel-graphic-pace-setter/"><u>Keeping Windows Intel Graphic Pace-Setter</u></a></li>
-<li><a href="https://article-tips.techidaily.com/snowdrift-scribes-celebrating-beijings-olympic-spotlight-for-2024/"><u>Snowdrift Scribes Celebrating Beijing's Olympic Spotlight for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-lenovo-display-glitches/"><u>Tackling Lenovo Display Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-enthusiasts-treasure-hunt-unlock-free-lifetime-windows-11-from-black-fridays-best-price/"><u>Tech Enthusiasts’ Treasure Hunt: Unlock Free Lifetime Windows 11 From Black Friday's Best Price</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-cant-find-wi-fi-driver-solved/"><u>Win10 Can't Find Wi-Fi Driver, Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-ui-freeze-up-graphics-fix-pending/"><u>Windows UI Freeze-Up, Graphics Fix (Pending)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability/"><u>[Updated] 2024 Approved Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-virtual-venues-redefining-entertainment-landscapes/"><u>[Updated] 2024 Approved Virtual Venues Redefining Entertainment Landscapes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-presence-making-videos-on-mobile-for-2024/"><u>[Updated] Elevate Your Online Presence Making Videos on Mobile for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-back-lost-screen-clarity/"><u>Bringing Back Lost Screen Clarity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oneplus-ace-2-is-unlocked-by-drfone-android/"><u>How To Check if Your OnePlus Ace 2 Is Unlocked</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pushing-the-boundaries-of-screen-recording-with-recmeister/"><u>In 2024, Pushing the Boundaries of Screen Recording with Recmeister</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-strategies-for-video-discovery-boosting-viewership-cost-free/"><u>In 2024, Strategies for Video Discovery Boosting Viewership Cost-Free</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tech-sleuthing-wheres-my-nvidia-detected/"><u>Tech Sleuthing: Where's My NVIDIA Detected?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-friendly-faces-snapchat-ai-vs-gpt-powered-convo/"><u>The Future of Friendly Faces: Snapchat AI vs GPT-Powered Convo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-ceasing-acer-display-flicker/"><u>Tips for Ceasing Acer Display Flicker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-resolved-intel-and-nvidia-hybrid-gpu-trouble/"><u>Win10 Resolved: Intel & Nvidia Hybrid GPU Trouble</u></a></li>
 </ul></div>
 

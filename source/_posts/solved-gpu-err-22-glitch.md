@@ -1,7 +1,7 @@
 ---
 title: "SOLVED: GPU ERR 22 Glitch"
-date: 2024-07-29T02:59:51.171Z
-updated: 2024-07-30T02:59:51.171Z
+date: 2024-11-27T04:23:26.649Z
+updated: 2024-12-02T17:11:18.010Z
 tags:
   - win11
   - win10
@@ -42,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -54,18 +55,16 @@ Be careful you don’t mistype, or press the wrong keys!
 4. Find the CMOS battery.  
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 Example – CMOS battery on a laptop
@@ -73,10 +72,12 @@ Example – CMOS battery on a laptop
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
-* Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 ## Bonus tip
@@ -93,18 +94,19 @@ Example – CMOS battery on a laptop
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
- Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -118,8 +120,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +127,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9/"><u>[New] 2024 Approved Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-wondershare-filmora-and-other-best-video-editing-software-for-windows-10/"><u>[New] In 2024, Wondershare Filmora and Other Best Video Editing Software for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-graphics-card-signal-lost-and-restored/"><u>[Resolved] Graphics Card Signal Lost & Restored</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-reel-game-on-insta-with-tiktoks-best-practices/"><u>[Updated] In 2024, Elevate Your Reel Game on Insta with TikTok's Best Practices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-optimal-orientation-for-fb-content-creation/"><u>[Updated] In 2024, Optimal Orientation for FB Content Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-communication-enhancing-your-youtube-presence/"><u>[Updated] Interactive Communication Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tune-your-status-on-whatsapp/"><u>[Updated] Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-descriptions-revamped-by-template-professionals/"><u>[Updated] YouTube Descriptions Revamped by Template Professionals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevating-computer-standards-software-deployment-enabler/"><u>Elevating Computer Standards: Software Deployment Enabler</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2019-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2019 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y78plus-t1-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-zoom-resolve-your-zoom-camera-problems-now/"><u>No Zoom? Resolve Your Zoom Camera Problems Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-netflix-streaming-issues-on-xbox-one/"><u>Resolved: Fixing Netflix Streaming Issues on Xbox One</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stability-issues-with-civ-5pc/"><u>Resolving Stability Issues with Civ 5/PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-3080-troubleshooting-a-gamers-lifesaver-guide/"><u>RTX 3080 Troubleshooting: A Gamer's Lifesaver Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-clarity-restored-for-win10-users/"><u>Screen Clarity Restored for Win10 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-gone-dark-latest-gpu-hiccup/"><u>Screen Gone Dark: Latest GPU Hiccup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-playback-on-upgraded-windows-10-systems/"><u>Smooth Playback on Upgraded Windows 10 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-unruly-pro-7-displays/"><u>Taming Unruly Pro 7 Displays</u></a></li>
+</ul></div>
 

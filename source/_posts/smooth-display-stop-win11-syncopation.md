@@ -1,7 +1,7 @@
 ---
 title: "Smooth Display: Stop Win11 Syncopation"
-date: 2024-07-12T00:13:45.543Z
-updated: 2024-07-13T00:13:45.543Z
+date: 2024-11-30T18:41:29.211Z
+updated: 2024-12-02T16:09:41.670Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows11.jpg)
 
  Microsoft has officially rolled out Windows 11 for eligible users. However, the new operating system is not exempted from encountering many issues. Some users have reported that they are experiencing a flickering screen in Windows 11\. If you happen to be one of them, don’t worry. In this tutorial, we’ll show you how to fix the problem easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,6 +68,10 @@ There are mainly two ways to update your display driver:
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change the refresh rate
 
  The refresh rate of a display is the number of times per second that your monitor draws a new image. If your display refresh rate is not set properly, you may encounter screen flickering issues in Windows 11\. To fix it, you can change the refresh rate. Here’s how:
@@ -76,6 +84,10 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update or uninstall incompatible apps
 
@@ -103,9 +115,18 @@ If the issue remains, check out the next fix.
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
 
@@ -117,6 +138,11 @@ If the issue remains, check out the next fix.
 2. In the left panel, select**Accessibility** , then click**Visual effects** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-accessibility-visual-effects.jpg)
 3. **Turn off** Animation effects.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-turn-off-animation-effects.jpg)
 
 Check if you’re still facing a flickering screen.
@@ -138,6 +164,11 @@ If this fix doesn’t do the trick, try the next one below.
  If there isn’t, right-click on empty space and select**New** \>**DWORD (32-bit) value** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-new-DWORD.jpg)  
  Then rename the file as**DisableHWAcceleration** .**Double-click** on the file and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
 4. Close Registry Editor and restart your computer.
 
@@ -149,6 +180,11 @@ If this fix doesn’t do the trick, try the next one below.
 2. At the top right, click the**vertical three dots** icon and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
@@ -174,12 +210,21 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl** +**Shift** +**Enter** to run Command Prompt as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
@@ -199,8 +244,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,6 +251,26 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-conquer-the-crowd-initiating-your-top-ranked-gaming-channel/"><u>[New] 2024 Approved Conquer the Crowd Initiating Your Top-Ranked Gaming Channel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-syncing-songs-with-stories-and-videos-on-instagram/"><u>[New] In 2024, Syncing Songs with Stories and Videos on Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-winos-error-dxgkrnlsys-blue-screen/"><u>[Resolved] WinOS Error: dxgkrnl.sys Blue Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fresh-topics-eliciting-engagement-in-audio-formats/"><u>2024 Approved Fresh Topics Eliciting Engagement in Audio Formats</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-5-premier-android-ps2-emulation-tools/"><u>2024 Approved Unveiling the 5 Premier Android PS2 Emulation Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjustment-for-large-win10-screens/"><u>Adjustment for Large Win10 Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-hearing-troubles-fast-track-to-resolving-the-soundless-dilemma/"><u>Astro A50 Hearing Troubles? Fast Track to Resolving the Soundless Dilemma</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-the-price-of-playstation-5-go-down-after-supply-catches-up/"><u>Can the Price of PlayStation 5 Go Down After Supply Catches Up?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-copilot-boosts-your-experience-with-free-access-to-gpt-4-turbo/"><u>Discover How Copilot Boosts Your Experience with FREE Access to GPT-4 Turbo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-c1900101-during-the-process-of-win11-setup/"><u>Eliminating C1900101 During the Process of Win11 Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovo-display-anomalies/"><u>Fixing Lenovo Display Anomalies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-defy-2-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Defy 2 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-oscillating-displays-pro-7/"><u>Rectifying Oscillating Displays (Pro 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refreshing-windows-intel-graphics-firmware/"><u>Refreshing Windows' Intel Graphics Firmware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-failure-card-not-found/"><u>Rendering Failure: Card Not Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-visuals-in-windows-after-cu/"><u>Restoring Visuals in Windows After CU</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-6-best-playstation-mario-adventures/"><u>The Ultimate Selection of 6 Best PlayStation Mario Adventures</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zeroing-downfall-pc-bugs-for-fallout-4/"><u>Zeroing Downfall PC Bugs for Fallout 4</u></a></li>
+</ul></div>
 

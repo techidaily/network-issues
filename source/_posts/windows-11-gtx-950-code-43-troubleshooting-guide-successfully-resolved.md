@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 GTX 950 'Code 43' Troubleshooting Guide: Successfully Resolved"
-date: 2024-11-16T20:47:24.195Z
-updated: 2024-11-24T06:07:46.903Z
+date: 2024-11-27T16:11:32.653Z
+updated: 2024-12-03T04:46:23.386Z
 tags:
   - win11
   - win10
@@ -47,27 +47,15 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -76,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
@@ -96,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -104,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,18 +155,21 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-adding-linguistic-accessibility-to-your-igtv-videos/"><u>[New] 2024 Approved Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat-for-2024/"><u>[New] Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-amplifying-viewership-strategies-for-unboxing-tiktoks-for-2024/"><u>[Updated] Amplifying Viewership Strategies for Unboxing TikToks for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-googles-speech-to-text-conversion-techniques-for-2024/"><u>[Updated] Mastering Google's Speech-to-Text Conversion Techniques for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-sims-4-solid-color-warnings/"><u>Banish Sims 4 Solid-Color Warnings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-startup-obstacle-cleared-successful/"><u>Direct3D Startup Obstacle Cleared, Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fine-tuning-visual-quality-on-w11/"><u>Fine-Tuning Visual Quality on W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-stationary-gpu-fans/"><u>Fixing Stationary GPU Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-error-22-rectified-successfully/"><u>GPU Error 22 Rectified Successfully</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-solution-for-outdated-synaptics-ps2-port-touchpad-drivers/"><u>Instant Solution for Outdated Synaptics PS/2 Port Touchpad Drivers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-epic-trailers-top-movie-maker-software-for-mac-and-pc/"><u>New 2024 Approved Create Epic Trailers Top Movie Maker Software for Mac and PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-thawing-your-windows-robes-taskbar-for-smooth-operation/"><u>Step-by-Step Approach to Thawing Your Windows ˈrōbəs Taskbar for Smooth Operation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-understanding-various-ipados-releases/"><u>Step-by-Step Guide to Understanding Various iPadOS Releases</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-complete-guide-to-pc-mac-and-phone-movie-playback/"><u>[New] 2024 Approved The Complete Guide to PC, Mac & Phone Movie Playback</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-transform-your-live-feed-select-from-the-ultimate-9-filter-list-for-2024/"><u>[New] Transform Your Live Feed Select From the Ultimate 9 Filter List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[Updated] Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-enhances-radeon-hd-6950-graphics-for-windows-11-with-new-driver-rollout/"><u>AMD Enhances Radeon HD 6950 Graphics for Windows 11 with New Driver Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/countering-hp-lcd-backlight-variability/"><u>Countering HP LCD Backlight Variability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-bdr-issues-on-ws-11-ws-10-ws-8-and-ws-7-windows/"><u>Ending BDR Issues on WS-11, WS-10, WS-8 & WS-7 Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-intermittent-windows-display-flashes/"><u>Ending Intermittent Windows Display Flashes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-15-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 15 iCloud Lock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrate-soundtracks-with-ppt-visuals-for-2024/"><u>Integrate Soundtracks with PPT Visuals for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-the-art-of-display-latency-reduction/"><u>Master the Art of Display Latency Reduction</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-mov-file-management-on-modern-windows-10-for-2024/"><u>Mastering .mov File Management on Modern Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/outro-samples-collection-including-both-costs/"><u>Outro Samples Collection Including Both Costs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-image-flip-for-windows-10-users/"><u>Resolving Backward Image Flip for Windows 10 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nubia-red-magic-9-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nubia Red Magic 9 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-your-windows-experience-via-intel-graphic-update/"><u>Streamline Your Windows Experience via Intel Graphic Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-windows-connectivity-errors-with-system-event-notification-services/"><u>Understanding Windows Connectivity Errors with System Event Notification Services</u></a></li>
 </ul></div>
 

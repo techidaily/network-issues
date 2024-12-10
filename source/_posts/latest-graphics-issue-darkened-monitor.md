@@ -1,7 +1,7 @@
 ---
 title: "Latest Graphics Issue: Darkened Monitor"
-date: 2024-07-12T00:15:05.176Z
-updated: 2024-07-13T00:15:05.176Z
+date: 2024-11-28T23:00:55.112Z
+updated: 2024-12-02T18:08:26.697Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -60,6 +64,10 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -72,9 +80,17 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -92,6 +108,10 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -136,7 +156,15 @@ Here are the things you should pay extra attention to:
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -158,8 +186,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +193,23 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-nuclear-dawn-update-issue-xbox-launch-failure/"><u>[FIXED] Nuclear Dawn Update Issue - Xbox Launch Failure</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-compile-list-of-cost-efficient-vecto-art-sites/"><u>[New] 2024 Approved Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-affordable-panoramic-cameras-revolutionizing-media-production-for-2024/"><u>[Updated] Affordable Panoramic Cameras Revolutionizing Media Production for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-probing-into-hdr-effectiveness-with-luminance-writings/"><u>[Updated] In 2024, Probing Into HDR Effectiveness with Luminance’ Writings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/20-efficient-applications-for-auto-gpt/"><u>20 Efficient Applications for Auto-GPT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/achieve-enhanced-auditory-results-updating-windows-11-sound-drivers/"><u>Achieve Enhanced Auditory Results – Updating Windows 11 Sound Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-failures-in-saving-display-configurations/"><u>Addressing Failures in Saving Display Configurations</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/create-and-distribute-interactive-flash-clips-from-pdfs-using-flipbuilder-the-ultimate-conversion-tool/"><u>Create and Distribute Interactive Flash Clips From PDFs Using FlipBuilder – The Ultimate Conversion Tool.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-the-green-glow-on-youtube-videos-effectively/"><u>Eliminating the Green Glow on YouTube Videos Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hassle-free-photo-and-video-upload-ios-device/"><u>Hassle-Free Photo & Video Upload IOS Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-issue-ceased-windows-operation-resolution-achieved/"><u>NVIDIA Issue: Ceased Window's Operation, Resolution Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recovering-unrecognized-pc-gpu-compatibility-issue/"><u>Recovering Unrecognized PC GPU Compatibility Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-tips-standby-gpu-display-nvidia/"><u>Straightforward Adjustment Tips: Standby GPU Display, NVIDIA</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/total-domination-a-ranking-of-the-7-best-war-based-titans-for-2024/"><u>Total Domination A Ranking of the 7 Best War-Based Titans for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-viewing-fixing-video-pause-in-new-os/"><u>Uninterrupted Viewing: Fixing Video Pause in New OS</u></a></li>
+</ul></div>
 

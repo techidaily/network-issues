@@ -1,7 +1,7 @@
 ---
 title: Adjusting Disoriented Computer Display
-date: 2024-07-12T00:14:42.958Z
-updated: 2024-07-13T00:14:42.958Z
+date: 2024-11-27T20:01:06.461Z
+updated: 2024-12-02T20:58:34.570Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Configure Display Settings
 
  The incorrect display settings in your computer can lead to the**upside down screen** , so you should check and configure the display settings to fix it.
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
@@ -90,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19127f11a3b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the drop down menu next to**Orientation** , and select**Portrait** ,**Landscape (flipped)** ,**Portrait (flipped)** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912cecb794.jpg)
@@ -101,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
 
  Still no luck? Don’t be upset. There’s one more thing to try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -128,6 +144,10 @@ There are two options to update drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -144,8 +164,6 @@ There are two options to update drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +171,20 @@ There are two options to update drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-harmony-and-hype-perfecting-film-teaser-tunes/"><u>[Updated] Harmony and Hype Perfecting Film Teaser Tunes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-video-integration-youtube-meets-microsoft-powerpoint/"><u>[Updated] The Art of Video Integration YouTube Meets Microsoft PowerPoint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieve-free-streaming-your-ultimate-guide-to-getting-netflix-without-paying/"><u>Achieve Free Streaming: Your Ultimate Guide to Getting Netflix Without Paying</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-for-iphone-sounds-restoring-audio-functionality/"><u>DIY Repair Guide for iPhone Sounds – Restoring Audio Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropping-offline-more-often-wi-fi-woes/"><u>Dropping Offline More Often: Wi-Fi Woes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/studio-heroics-your-path-to-effectful-artistry/"><u>Home Studio Heroics Your Path to Effectful Artistry</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y200e 5G FRP?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-pluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Pluss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://network-issues.techidaily.com/increasing-clarity-on-windows-11-displays/"><u>Increasing Clarity on Windows 11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-adjustment-of-lcd-horizontal-bars/"><u>Instant Adjustment of LCD Horizontal Bars</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-a-prime-livestream-service-top-10-essentials/"><u>Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-missing-screen-flashes/"><u>Understanding Missing Screen Flashes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mkv-video-trimming-made-easy-best-mac-apps-2023/"><u>Updated 2024 Approved MKV Video Trimming Made Easy Best Mac Apps 2023</u></a></li>
+</ul></div>
 

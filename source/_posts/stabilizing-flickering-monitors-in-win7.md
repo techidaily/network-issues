@@ -1,7 +1,7 @@
 ---
 title: Stabilizing Flickering Monitors in Win7
-date: 2024-11-17T21:56:47.983Z
-updated: 2024-11-24T06:41:51.659Z
+date: 2024-11-25T19:00:39.204Z
+updated: 2024-12-02T21:59:36.302Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -48,8 +48,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -64,10 +72,6 @@ To troubleshoot these hardware issues:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -79,17 +83,9 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -102,18 +98,22 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
@@ -157,18 +157,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-practices-for-windows-8-screenshots-and-recordings/"><u>[New] In 2024, Best Practices for Windows 8 Screenshots and Recordings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-facebooks-autoplay-technology-for-smooth-video-playback/"><u>[New] In 2024, Leveraging Facebook's Autoplay Technology for Smooth Video Playback</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplify-your-digital-image-management-with-google-photos/"><u>[New] Simplify Your Digital Image Management with Google Photos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-wraith-vision-freezing-lesson/"><u>[New] Wraith Vision Freezing Lesson</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/40661781-updated-2024-approved-warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-perfor/"><u>[Updated] 2024 Approved __Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation.</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-sculpting-an-impactful-tiktok-conclusion/"><u>[Updated] Sculpting an Impactful TikTok Conclusion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-launch-unsuccessful-repair-complete/"><u>D3D Launch Unsuccessful, Repair Complete</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disarrayed-displays-dilemma/"><u>Disarrayed Displays Dilemma</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60x-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60x 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-why-no-video-suggestions-pop-up-in-your-social-media-world/"><u>In 2024, Why No Video Suggestions Pop Up in Your Social Media World?</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-hyper-v-for-efficient-linux-vm-creation-in-windows/"><u>Leveraging Hyper-V for Efficient Linux VM Creation in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tweaking-win10-screen-size/"><u>Tweaking Win10 Screen Size</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-missing-lan-card-on-win10/"><u>[RESOLVED] Missing LAN Card on Win10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-camtasia-tutorial-implementing-the-classic-ken-burns-effect/"><u>[Updated] In 2024, Camtasia Tutorial Implementing the Classic Ken Burns Effect</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-simplifying-display-images-with-screencapture-techniques/"><u>[Updated] In 2024, Simplifying Display Images with ScreenCapture Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-9-iphone-tools-expertly-watermarking-your-pics/"><u>2024 Approved Top 9 iPhone Tools Expertly Watermarking Your Pics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-stellar-channels-best-10-apps-for-artistic-banner-design/"><u>Craft Stellar Channels Best 10 Apps for Artistic Banner Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-hybrid-card-malfunction-in-nvidia-and-intel-on-windows-10/"><u>Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-g22-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia G22 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editors-toolkit-10-must-have-software-for-2024/"><u>New Video Editors Toolkit 10 Must-Have Software for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-fatal-errors-radeon-r9-and-windows-11/"><u>Perfecting Fatal Errors: Radeon R9 & Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-error-type-22-graphicsdriver/"><u>Rectified Error Type 22, GraphicsDriver</u></a></li>
+<li><a href="https://fox-info.techidaily.com/redefining-the-viewing-experience-top-alternatives-to-periscope/"><u>Redefining the Viewing Experience Top Alternatives to Periscope</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-computer-screenscape-disorientation/"><u>Reverse Computer Screenscape Disorientation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-crash-conundrum-the-ultimate-fix-guide-for-pc-gaming/"><u>RTX Crash Conundrum: The Ultimate Fix Guide for PC Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-big-screen-displays-issue-for-windows-10/"><u>Solved Big-Screen Displays Issue for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-stabilization-correct-loot-errors-quickly/"><u>Swift Stabilization: Correct Loot Errors Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-premier-news-aggregator-platforms/"><u>Top 10 Premier News Aggregator Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-play-integrating-your-nintendo-switch-with-your-television/"><u>Wireless Play: Integrating Your Nintendo Switch with Your Television</u></a></li>
 </ul></div>
 

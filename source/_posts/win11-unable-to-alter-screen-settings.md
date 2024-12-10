@@ -1,7 +1,7 @@
 ---
 title: "Win11: Unable To Alter Screen Settings"
-date: 2024-07-12T00:13:10.098Z
-updated: 2024-07-13T00:13:10.098Z
+date: 2024-11-25T19:41:41.594Z
+updated: 2024-12-02T22:55:08.519Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -66,15 +70,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -95,6 +111,10 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -119,8 +139,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +146,26 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-merge-speeches-and-music-into-slides-sequences/"><u>[New] 2024 Approved Merge Speeches and Music Into Slides Sequences</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-ditching-offline-games-cod-cold-war/"><u>[RESOLVED] Ditching Offline Games: CoD Cold War</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-kidsanime-app-assessment-and-guide-2024/"><u>[Updated] KidsAnime App Assessment & Guide 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-antique-cinematography-in-the-digital-realm/"><u>2024 Approved Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-tricks-to-faster-periscope-live-feeds/"><u>2024 Approved Tricks to Faster Periscope Live Feeds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/becoming-a-seo-guru-top-ten-facebook-optimization-tactics-for-2024/"><u>Becoming a SEO Guru Top Ten Facebook Optimization Tactics for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-bing-a-comprehensive-guide-to-microsofts-answer-to-google/"><u>Exploring Bing - A Comprehensive Guide to Microsoft's Answer to Google</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-works-into-windows-os-step-by-step-guide/"><u>Integrating Works Into Windows OS: Step by Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/node-local-and-link-local-multicasts-cannot-leave-their-immediate-network-or-link-respectively/"><u>Node-Local and Link-Local Multicasts Cannot Leave Their Immediate Network or Link, Respectively</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-achieved-screen-stability-regained/"><u>Resolution Achieved: Screen Stability Regained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hd-content-playback-in-new-windows-version/"><u>Resolving HD Content Playback in New Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-to-win11-systems/"><u>Restored Fullscreen Functionality to Win11 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-for-elusive-stream-shadows/"><u>Solutions for Elusive Stream Shadows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/successfully-setting-up-playstation-vr-on-your-desktop-or-laptop/"><u>Successfully Setting Up PlayStation VR on Your Desktop or Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-green-screen-blues-a-youtube-guide/"><u>Tackling Green Screen Blues: A YouTube Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-reactivating-blank-monitors-on-laptops/"><u>Tips for Reactivating Blank Monitors on Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-bdr-corrections-microsofts-latest-fix/"><u>Win BDR Corrections: Microsoft's Latest Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-amds-radeon-hd-6950-driver-revamp-released/"><u>Windows 11: AMD's Radeon HD 6950 Driver Revamp Released</u></a></li>
+</ul></div>
 

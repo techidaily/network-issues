@@ -1,7 +1,7 @@
 ---
 title: "Device Repair: Error 43 Settled"
-date: 2024-07-12T00:14:47.305Z
-updated: 2024-07-13T00:14:47.305Z
+date: 2024-11-28T22:46:15.503Z
+updated: 2024-12-03T02:41:48.887Z
 tags:
   - win11
   - win10
@@ -55,15 +55,34 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Locate and double-click on **Display adapters**  (aka. **Graphics card** , **Video card**). Then right-click on **the item** right below and click **Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
 3. Click **Uninstall**   in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 4. After the uninstall, right-click on**the name of your PC** and click**Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b838add712.jpg)
 5. Double-click on**your graphics card** again to check if you can see “This device is working properly” on Device Manager. If yes, then congrats – you’ve fixed the problem. If it is still the same**Graphics Device Driver Error Code 43** message, please try**Fix 3** , below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b841ab4dd2.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Power cycle your PC
 
@@ -79,6 +98,10 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 **Graphics Device Driver Error Code 43** issue still persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -105,8 +128,6 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +135,24 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-money-via-online-video-platforms/"><u>[New] Maximizing Money via Online Video Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-step-by-step-inserting-dates-in-digital-pictures/"><u>[New] Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-subscriber-success-youtubes-best-practices-for-2024/"><u>[New] Unlocking Subscriber Success YouTube's Best Practices for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overcoming-connectivity-hurdles-in-cod-cold-war/"><u>[RESOLVED] Overcoming Connectivity Hurdles in CoD Cold War</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-finest-hd-screenshot-and-recording-software/"><u>[Updated] 2024 Approved The Finest HD Screenshot and Recording Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-personalize-and-protect-youtube-channel-url-made-simple/"><u>[Updated] Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-gems-in-window-11s-interface-top-30-tips-and-tricks-unveiled/"><u>2024 Approved Hidden Gems in Window 11'S Interface Top 30 Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/address-display-anomalies-quickly/"><u>Address Display Anomalies Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-iphone-models-for-an-enhanced-mobile-gaming-experience/"><u>Best iPhone Models for an Enhanced Mobile Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-handset-hack-for-youtube-filmmakers/"><u>In 2024, The Ultimate Handset Hack for YouTube Filmmakers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-clarity-for-your-screen/"><u>Quick Fix: Clarity for Your Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-to-high-res-in-windows-10-successfully-done/"><u>Reverting to High Res in Windows 10, Successfully Done</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tech-fix-gpu-functioning/"><u>Tech Fix - GPU Functioning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-acer-monitor-glitch/"><u>Troubleshooting Acer Monitor Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unite-screen-horizons-evenly/"><u>Unite Screen Horizons Evenly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-displays-no-available-wi-fi-fix-guide/"><u>Win10 Displays No Available Wi-Fi? Fix Guide</u></a></li>
+</ul></div>
 

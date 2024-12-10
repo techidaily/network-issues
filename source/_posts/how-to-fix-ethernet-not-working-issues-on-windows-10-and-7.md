@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 10 & 7
-date: 2024-11-20T01:26:46.761Z
-updated: 2024-11-24T07:34:39.898Z
+date: 2024-11-30T19:38:40.447Z
+updated: 2024-12-03T02:50:54.310Z
 tags:
   - win11
   - win10
@@ -36,19 +36,11 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -88,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
@@ -101,12 +97,16 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
@@ -119,10 +119,6 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
@@ -134,6 +130,10 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,17 +156,19 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-unveiling-sharex-analyses-and-options/"><u>[New] 2024 Approved Unveiling ShareX Analyses & Options</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-media-migration-tiktok-directly-to-fb/"><u>[New] Mastering Media Migration TikTok Directly to FB</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-compilation-top-vr-games-on-google-cardboard/"><u>[Updated] 2024 Approved The Ultimate Compilation Top VR Games on Google Cardboard</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-enhancing-video-top-10-text-techniques/"><u>[Updated] In 2024, Enhancing Video Top 10 Text Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-eliminate-uneven-text-alignment-on-notebook-screens/"><u>How to Eliminate Uneven Text Alignment on Notebook Screens</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-picks-best-6-fb-lite-videos/"><u>In 2024, Ultimate Picks Best 6 FB Lite Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mastering-fair-use-navigating-youtube-copyright-challenges/"><u>Mastering Fair Use Navigating YouTube Copyright Challenges</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rendering-armored-post-fix/"><u>Nvidia Rendering Armored Post-Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimized-windows-11-experience-new-rtx210-drivers-rollout/"><u>Optimized Windows 11 Experience - New RTX210 Drivers Rollout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-unseen-screen-blackouts/"><u>Resolving Unseen Screen Blackouts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/roblox-latency-issues-on-desktop/"><u>Roblox Latency Issues on Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleash-ai-potential-with-lifewires-free-online-course-selection-of-15-top-picks/"><u>Unleash AI Potential with Lifewire's Free Online Course Selection of 15 Top Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/lashing-feathersticks-short-film-characters-music-for-2024/"><u>[New] Flashing Feathersticks Short Film Characters' Music for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-picks-crafting-mc-villages-abodes/"><u>[New] In 2024, Top Picks Crafting MC Villages' Abodes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-sudden-blinks-on-laptop-monitor/"><u>[Resolved] Sudden Blinks on Laptop Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-running-imessage-on-windows/"><u>A Comprehensive Guide to Running iMessage on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breeze-through-apex-errors-instantly/"><u>Breeze Through Apex Errors, Instantly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/charting-the-course-an-in-depth-look-at-various-ipados-versions/"><u>Charting the Course: An In-Depth Look at Various iPadOS Versions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/como-clonar-com-sucesso-o-disco-rigido-do-seu-laptop-dell-3-metodos-simples-que-preservam-seu-sistema-operacional-original/"><u>Como Clonar Com Sucesso O Disco Rígido Do Seu Laptop Dell: 3 Métodos Simples Que Preservam Seu Sistema Operacional Original</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-configuration-lost-in-windows-11/"><u>Display Configuration Lost in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-cross-screen-lines-distortion/"><u>Eradicate Cross-Screen Lines Distortion</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/erfgoed-bestand-herstel-regels-voor-windows-11/"><u>Erfgoed Bestand Herstel Regels Voor Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wide-screen-problems-on-windows-os/"><u>Resolved Wide-Screen Problems on Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-windows-screen-after-update-fall/"><u>Restoring Windows Screen After Update Fall</u></a></li>
 </ul></div>
 

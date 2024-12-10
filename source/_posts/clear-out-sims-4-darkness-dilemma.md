@@ -1,7 +1,7 @@
 ---
 title: Clear Out Sims 4 Darkness Dilemma
-date: 2024-11-23T07:40:39.820Z
-updated: 2024-11-24T04:52:38.685Z
+date: 2024-11-26T02:35:07.158Z
+updated: 2024-12-02T19:10:57.707Z
 tags:
   - win11
   - win10
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/9778d11b1aebf28352d7990f8df2285fbb44be756
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/9778d11b1aebf28352d7990f8df2285fbb44be756
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -81,10 +81,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -102,6 +98,10 @@ Here is how to do it:
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -121,6 +121,10 @@ Here are the steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and The Sims 4
 
  You may encounter a white loading screen on The Sims 4 if the files in Origin or The Sims 4 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -134,6 +138,10 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -166,25 +174,17 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -211,24 +211,17 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>[New] In 2024, Unleash Your Potential Top 8 Tablets For Stellar Photo Editing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-checklist-to-add-audio-to-your-facebook-vids-for-2024/"><u>[New] The Ultimate Checklist to Add Audio to Your Facebook Vids for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instavideo-magic-crafting-a-plan-to-capture-your-audiences-attention/"><u>[Updated] 2024 Approved InstaVideo Magic Crafting a Plan to Capture Your Audience's Attention</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instant-impact-facebook-vids/"><u>[Updated] In 2024, Instant Impact Facebook Vids</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-art-of-curating-digital-stories-on-fb/"><u>[Updated] In 2024, The Art of Curating Digital Stories on FB</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-backwards-orientation-in-screen/"><u>Correcting Backwards Orientation in Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/darkened-monitor-post-driver-update/"><u>Darkened Monitor Post-Driver Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-video-experience-post-windows-11-update/"><u>Enhancing Video Experience Post-Windows 11 Update</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-video-driver-setbacks-in-minecraft-on-pc/"><u>Overcoming Video Driver Setbacks in Minecraft on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-omission-in-gfx-sensing/"><u>Rectify Omission in GFX Sensing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-disabled-nvidia-screen-options/"><u>Resolving Disabled NVIDIA Screen Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-lenovo-monitor-shade-fading-problems/"><u>Resolving Lenovo Monitor Shade Fading Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-screen-issue-creators-fall-patch/"><u>Resolving Screen Issue: Creator's Fall Patch</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-retrieve-your-files-from-a-formatted-disk-withwithout-prior-backup/"><u>Step-by-Step Guide: Retrieve Your Files From a Formatted Disk, With/Without Prior Backup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components-t17238628805809/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unraveling-black-lcd-mysteries/"><u>Unraveling Black LCD Mysteries</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/valuation-of-a-million-viewing-on-youtube/"><u>Valuation of a Million-Viewing on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-display-dimensions-adjustment/"><u>Window's 11 Display Dimensions Adjustment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-connectivity-glitches-in-cod-cold-war/"><u>[FIXED] Connectivity Glitches in CoD Cold War</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-ios-manual-for-instagram-savings/"><u>[Updated] The Complete iOS Manual for Instagram Savings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridge-ghost-graphics-discrepancy/"><u>Bridge Ghost Graphics Discrepancy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/competitive-edge-how-amd-graphics-drives-winning-performance/"><u>Competitive Edge: How AMD Graphics Drives Winning Performance</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/conversione-gratuita-online-da-mp3-a-3gp-con-movavi-trasforma-i-tuoi-file-audio/"><u>Conversione Gratuita Online Da MP3 a 3GP Con Movavi - Trasforma I Tuoi File Audio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/humorous-hacks-the-ultimate-guide-to-funny-memes-for-2024/"><u>Humorous Hacks The Ultimate Guide to Funny Memes for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-graphics-purchase-blacked-out-monitor/"><u>Latest Graphics Purchase: Blacked-Out Monitor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-graphics-conflict-intel-and-nvidia-fix-on-windows-10-systems/"><u>Tackling Graphics Conflict: Intel & NVIDIA Fix on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-within.techidaily.com/universal-characteristics-across-various-media-volumes/"><u>Universal Characteristics Across Various Media Volumes</u></a></li>
 </ul></div>
 

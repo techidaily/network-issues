@@ -1,7 +1,7 @@
 ---
 title: GFXUI Lockup on Win OS (Solution Closeby)
-date: 2024-11-16T21:52:45.240Z
-updated: 2024-11-24T02:07:20.789Z
+date: 2024-12-01T00:38:36.841Z
+updated: 2024-12-02T19:21:07.994Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 [**3. Clean Reinstall Intel Graphics Card Driver**](#m3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn on Microsoft .NET Framework 3.5.1
@@ -36,27 +36,19 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf762c2349f.png) and**S** at the same time. Type**turn windows** then click**Turn Windows feature on or off** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76e62b5aa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Restart your computer. See if the problem is resolved.
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
@@ -77,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/de-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged Intel video card to automatically download and install the correct version of its driver (you can do this with the FREE version).
@@ -86,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Clean Reinstall Intel Graphics Card Driver
 
  If updating your graphics card driver to the latest version fails to solve the problem for you, you need to perform a clean re-install of your Intel display card driver.
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
  1) Use Display Driver Uninstaller(DDU) or similar programs to do a clean uninstall of your current display driver. You should do the uninstall in Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the option that restart automatically after the uninstall.
 
@@ -122,18 +122,22 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-blur-the-video-background-in-a-microsoft-teams-meeting/"><u>[New] How to Blur the Video Background in a Microsoft Teams Meeting?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aximize-screen-tv-playback-for-youtube-clips/"><u>[New] Maximize Screen TV Playback for YouTube Clips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-six-pioneering-steps-for-moving-mov-files-to-win-11-for-2024/"><u>[New] Six Pioneering Steps for Moving MOV Files to Win 11 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-master-picks-for-commercial-cloud-space/"><u>[Updated] Master Picks for Commercial Cloud Space</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-windows-issues-in-civilization-v/"><u>Eliminate Windows Issues in Civilization V</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974437083-enhance-visual-clarity-install-updated-intel-hd-graphics-3000-for-windows-10-now/"><u>Enhance Visual Clarity: Install Updated Intel HD Graphics 3000 for Windows 10 Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-edge-in-photo-editing-top-6-signature-removers-unveiled/"><u>In 2024, Leading Edge in Photo Editing Top 6 Signature Removers Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/intellectual-edge-trivia-challenges-2024/"><u>Intellectual Edge Trivia Challenges 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/splitcam-dissection-top-in-the-video-realm-for-2024/"><u>SplitCam Dissection Top in the Video Realm for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-5-helmet-action-cameras-for-motorcycle-2023-update/"><u>Top 5 Helmet Action Cameras For Motorcycle -2023 Update</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unleash-creative-potential-for-video-editing-in-windows-photos-for-2024/"><u>Unleash Creative Potential for Video Editing in Windows Photos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unresponsive-screen-after-graphics-switch/"><u>Unresponsive Screen After Graphics Switch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974432958-win10-no-more-amd-radeon-r9-crashes-now/"><u>Win10: No More AMD Radeon R9 Crashes Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-borderlands-3-launch-glitch-xbox-directx-conflict/"><u>[FIXED] Borderlands 3 Launch Glitch - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-overwatch-no-start-on-xbox-directx-issue/"><u>[FIXED] Overwatch No Start on Xbox - DirectX Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-multiframe-view-microsoft-edges-pip/"><u>[New] In 2024, Mastering Multiframe View Microsoft Edge's PIP</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-snapchat-selfie-aspect-ratios/"><u>[New] In 2024, Snapchat Selfie Aspect Ratios</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exclusive-high-end-computer-choices-for-2024/"><u>[Updated] Exclusive High-End Computer Choices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-introductory-handbook-on-video-quality-and-size/"><u>[Updated] Introductory Handbook on Video Quality and Size</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-the-joy-of-nintendo-switch-gaming/"><u>2024 Approved Capturing the Joy of Nintendo Switch Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/bond-with-xbox-one-master-controller-syncing/"><u>Bond with Xbox One: Master Controller Syncing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayfailure-on-graphicswinos-interface-solved/"><u>DisplayFailure on GraphicsWinOS Interface (Solved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-experience-geforce-rtx210-windows-update/"><u>Elevate Your Experience - GeForce RTX210 Windows Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974651271-hassle-free-upgrade-intel-g3000-graphics-on-win11/"><u>Hassle-Free Upgrade: Intel G3000 Graphics on Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-instagram-glitch-reverse-angle-video-mystery/"><u>In 2024, Instagram Glitch Reverse-Angle Video Mystery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-image-wanders-away-on-tv-connection/"><u>Laptop Image Wanders Away on TV Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-trouble-addressed-no-more-windows-halt/"><u>NVidia Trouble Addressed - No More Windows Halt</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/pro-tips-for-captivating-snapchat-stories-for-2024/"><u>Pro Tips for Captivating Snapchat Stories for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-to-windows-10-black-out-post-update/"><u>Solution to Windows 10 Black Out Post Update</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Hot 40 | Dr.fone</u></a></li>
 </ul></div>
 

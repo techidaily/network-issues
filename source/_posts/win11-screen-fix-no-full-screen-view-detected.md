@@ -1,7 +1,7 @@
 ---
 title: "Win11 Screen Fix: No Full-Screen View Detected"
-date: 2024-11-17T11:54:55.706Z
-updated: 2024-11-24T11:14:10.367Z
+date: 2024-11-30T02:09:43.271Z
+updated: 2024-12-03T01:47:52.608Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the settings your application
@@ -62,17 +62,21 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can switch to different resolutions and see if it resolves your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
@@ -81,10 +85,6 @@ Here’s what you need to do:
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
@@ -122,10 +122,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
@@ -133,7 +129,7 @@ Here’s what you need to do:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
@@ -147,24 +143,28 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -200,24 +200,22 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-real-time-music-videos-on-douyin/"><u>[Updated] 2024 Approved Real-Time Music Videos on Douyin</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-pictures-focus-with-gaussian-blur/"><u>2024 Approved Perfect Your Picture's Focus with Gaussian Blur</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-invisible-player-mastering-xbox-one-screenshots/"><u>2024 Approved The Invisible Player Mastering Xbox One Screenshots</u></a></li>
-<li><a href="https://network-issues.techidaily.com/aligning-nforce630a-with-latest-win11-update/"><u>Aligning nForce630a with Latest Win11 Update</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/buy-now-stellar-repair-for-photo/"><u>Buy Now - Stellar Repair for Photo</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-dead-after-upgrading-graphics-card/"><u>Display Dead After Upgrading Graphics Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-erratic-views-on-win7/"><u>Eliminating Erratic Views on Win7</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2077624-9781607349570-fortune-telling-using-playing-cards/"><u>Fortune Telling Using Playing Cards | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-10/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-camon-20-pro-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Camon 20 Pro 5G.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Passcode Screen?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improve-roblox-online-pace-on-machine/"><u>Improve Roblox Online Pace on Machine</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-suite-complete-range-every-tool-at-your-fingertips-with-boundless-capabilities/"><u>Movavi Suite Complete Range: Every Tool at Your Fingertips with Boundless Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/protecting-your-identity-strategies-to-guard-against-ai-generated-voice-impersonation-fraud/"><u>Protecting Your Identity: Strategies to Guard Against AI-Generated Voice Impersonation Fraud</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-overshoot-on-displays/"><u>Rectify Overshoot on Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/render-error-gpu-unavailable-2020/"><u>Render Error: GPU Unavailable 2020</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-amd-radeon-r9-driver-crashes-in-win10/"><u>Solved: AMD Radeon R9 Driver Crashes in Win10</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone SE without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tweak-hidden-gpu-status/"><u>Tweak Hidden GPU Status</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nvesting-right-choosing-the-best-camera-and-gear-for-2024/"><u>[New] Investing Right Choosing the Best Camera and Gear for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>[New] Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-elevate-your-web-experience-post-slowdowns/"><u>[WINDOWS] Elevate Your Web Experience Post Slowdowns</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-apple-integrates-advanced-spatial-mapping-in-ipados-with-the-new-vision-pro-a-user-guide/"><u>Discover How Apple Integrates Advanced Spatial Mapping in iPadOS with the New Vision Pro - A User Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-acemagic-am08-pro-deliver-a-genuine-gaming-experience/"><u>Does the AceMagic AM08 Pro Deliver a Genuine Gaming Experience?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicated-erratic-code-22-in-gdriver/"><u>Eradicated Erratic Code #22 in GDRIVER</u></a></li>
+<li><a href="https://network-issues.techidaily.com/evaluating-amds-strategies-for-a-winning-place-in-gaming-hardware/"><u>Evaluating AMD's Strategies for a Winning Place in Gaming Hardware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-reinstates-problem-overcome/"><u>GPU Reinstates, Problem Overcome</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-hardware-regains-functionality/"><u>Graphics Hardware Regains Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-tutorial-trimming-images-to-perfection/"><u>In 2024, FCPX Tutorial Trimming Images to Perfection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-beginners-guide-to-mesmerizing-bokeh-in-instagram-stories/"><u>In 2024, The Beginner’s Guide to Mesmerizing Bokeh in Instagram Stories</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974046950-resolve-playback-jitters-fast/"><u>Resolve Playback Jitters Fast!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx210-driver-upgrade-nvidias-win11-improvement/"><u>RTX210 Driver Upgrade: NVIDIA's Win11 Improvement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-rising-star-of-ultraportables-a-lightweight-laptop-that-surpasses-the-iconic-macbook-air/"><u>The Rising Star of Ultraportables: A Lightweight Laptop That Surpasses the Iconic MacBook Air.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-eliminate-stuttering-and-enhance-minecraft-pc-gaming-experience/"><u>Top Strategies to Eliminate Stuttering and Enhance Minecraft PC Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unpacking-4k-extreme-clarity-and-quality/"><u>Unpacking 4K Extreme Clarity and Quality</u></a></li>
 </ul></div>
 

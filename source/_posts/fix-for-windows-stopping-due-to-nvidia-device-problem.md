@@ -1,7 +1,7 @@
 ---
 title: Fix for Windows Stopping - Due To NVidia Device Problem
-date: 2024-07-29T02:59:34.661Z
-updated: 2024-07-30T02:59:34.661Z
+date: 2024-11-27T04:54:09.084Z
+updated: 2024-12-03T01:01:57.365Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
  Solution 3:[**Uninstall the NVIDIA graphics driver**](#solution3)
  Solution 4: **[Disable the graphics card and discharge the electrical build-up](#solution4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Perform a power reset**
 
  To resolve the problem, you can try to perform a power reset. This is the easiest solution and may work like a charm. Here’s what you need to do:
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 4) Plug the charger back and put the battery back into place.
 
 5) Reboot your computer and check to see if the problem is resolved. If you’re still getting the error, you can move on to our next suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the driver**
 
@@ -55,24 +63,22 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-619.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the Nvidia graphics driver.  In the example below, we’ve got NVIDIA Geforce GTX 1080\. This will automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version)
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 3: Uninstall the NVIDIA graphics driver**
 
  Your problem is likely due to faulty graphics drivers. As you can see, there’s a yellow mark next to the device name in Device Manager. It’s worth trying to uninstall the NVIDIA graphics card driver using the following steps:
@@ -81,23 +87,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
  Type**devmgmt.msc** then click**OK** . This is to open the Device Manager Window.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
  2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![uninstall nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d7a03426f1b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your computer and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 4: Disable the graphics card and discharge the electrical build-up**
 
  Another way you could solve the problem is by disabling your graphics card and discharging the electrical build-up.
@@ -130,8 +131,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +138,21 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-comprehensive-overview-mastering-the-art-of-screen-capturing-with-aiseesoft/"><u>[Updated] 2024 Approved Comprehensive Overview Mastering the Art of Screen Capturing with Aiseesoft</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>[Updated] In 2024, Essential Photo Tools Top 9 CamGear Enhancers for Filmmakers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ios-champions-best-ps2-emulation-programs/"><u>[Updated] In 2024, IOS Champions Best PS2 Emulation Programs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-zoom-on-a-chromebook-key-techniques-for-2024/"><u>[Updated] Mastering Zoom on a Chromebook Key Techniques for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-mastery-in-marketing-the-top-5-must-knows-for-brands-for-2024/"><u>[Updated] YouTube Mastery in Marketing The Top 5 Must-Knows for Brands for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-moments-seamlessly-with-snap-and-meet/"><u>2024 Approved Capturing Moments Seamlessly with Snap and Meet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/altering-graphics-settings-in-windows-11/"><u>Altering Graphics Settings in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dive-into-downloaded-subtitles-unlocking-youtubes-srt-files-with-a-trifecta-of-strategies/"><u>Dive Into Downloaded Subtitles Unlocking YouTube's SRT Files with a Trifecta of Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-fix-solving-apex-glitches-fast/"><u>Effortless Fix: Solving Apex Glitches Fast</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-overcome-steam-cannot-login-problem/"><u>Fixing the Issue: How to Overcome 'Steam Cannot Login' Problem</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unhappy-with-windows-10-photos-here-are-8-better-options/"><u>New Unhappy with Windows 10 Photos? Here Are 8 Better Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fixes-installing-new-wireless-lan-adapter-on-windowsmacos/"><u>Quick Fixes: Installing New Wireless LAN Adapter on Windows/macOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restarting-dormant-gpu-fans/"><u>Restarting Dormant GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-10-monitor-settings-now-smoothly-altered/"><u>Win 10 Monitor Settings, Now Smoothly Altered</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reviving Atheros Wi-Fi on Win11 via Qualcomm Updates
-date: 2024-11-16T18:57:28.674Z
-updated: 2024-11-24T01:16:37.365Z
+date: 2024-11-28T00:20:32.298Z
+updated: 2024-12-03T00:29:20.459Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-211.png)
 
  When your Wi-Fi stops working, it can be one of the most frustrating moments in life. Worse still, after finding so many solutions online, you may get rather puzzled about which one to take first. There are a few ways to look into the Wi-Fi issue, but in many cases, it comes down to**driver stability and compatibility** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to solve Qualcomm Atheros QCA61x4A driver issues
 
@@ -41,19 +45,15 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-215.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now your Qualcomm wireless network adapter should be available for use again. Open your web browser to see whether the Internet is connected properly. If it isn’t, please read on and try the next fix.
 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
@@ -77,19 +77,15 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
 5. Choose a reason based on your own situation, then click**Yes** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 * **[My network connection is not stable but still works at times](#stable)**
 * **[My network connection doesn’t work at all](#not)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The network connection is not stable but still works at times
 
  When your computer is connected to the network, you can use Driver Easy to update device drivers the normal way. Here’s how:
@@ -125,11 +125,11 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ### My network connection doesn’t work at all
 
@@ -161,16 +161,16 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion/"><u>[New] Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-definitive-guide-ios-screenshots-and-recording-2inas-2023/"><u>[New] In 2024, The Definitive Guide IOS Screenshots & Recording (2Inas 2023)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-negative-space-reverse-video-tricks-for-instagram/"><u>[New] Mastering Negative Space Reverse Video Tricks for Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-instagram-speed-mastering-video-and-likes/"><u>[Updated] 2024 Approved Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-noteworthy-14-innovative-text-movements/"><u>[Updated] Noteworthy 14 Innovative Text Movements</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-status-error-43-resolved/"><u>Device Status: Error 43 Resolved</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-poco-x6-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco X6 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/issue-corrected-windows-10-monitor-displays-only-portion-of-windows/"><u>Issue Corrected - Windows 10 Monitor Displays Only Portion of Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-with-manycam-ultimate-virtual-camera-and-editing-suite/"><u>Live Streaming with ManyCam: Ultimate Virtual Camera and Editing Suite</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opengl-halted-reinstated-with-armor/"><u>OpenGL Halted - Reinstated with Armor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedies-for-stabilizing-lenovo-display/"><u>Remedies for Stabilizing Lenovo Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-visuals-top-10-instagram-editing-applications-for-professionals/"><u>[New] In 2024, Unveiling Visuals Top 10 Instagram Editing Applications for Professionals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-curating-your-music-collection-the-easy-guide-to-youtube-playlist-creation-webapp-for-2024/"><u>[Updated] Curating Your Music Collection The Easy Guide to YouTube Playlist Creation (Web/App) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>2024 Approved Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-diagonal-line-skew/"><u>Eradicate Diagonal Line Skew</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4s-new-horizon-beyond-gpt-35-limits/"><u>GPT-4's New Horizon Beyond GPT-3.5 Limits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-halted-reset-and-resuming-operation/"><u>GPU Halted, Reset and Resuming Operation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Reno 11 5G FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-deal-alert-the-ring-spotlight-cam-pro-exceeds-expectations-in-depth-analysis-and-tips-for-smart-home-security-on-zdnet/"><u>Labor Day Deal Alert: The Ring Spotlight Cam Pro Exceeds Expectations – In-Depth Analysis and Tips for Smart Home Security on ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974372554-no-zoom-resolve-your-zoom-camera-problems-now/"><u>No Zoom? Resolve Your Zoom Camera Problems Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-r9-graphics-drivers-problems-in-windows-10/"><u>Overcoming R9 Graphics Drivers Problems in Windows 10</u></a></li>
 </ul></div>
 

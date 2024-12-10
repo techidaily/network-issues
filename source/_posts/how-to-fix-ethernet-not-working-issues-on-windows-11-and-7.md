@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 11 & 7
-date: 2024-11-16T17:57:54.793Z
-updated: 2024-11-24T03:03:16.598Z
+date: 2024-11-27T03:30:48.692Z
+updated: 2024-12-02T17:46:03.551Z
 tags:
   - win11
   - win10
@@ -36,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -90,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -109,7 +101,15 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -118,6 +118,10 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -130,10 +134,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,14 +156,16 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-searching-for-non-existent-wireless-adapter-in-windows-10/"><u>[RESOLVED] Searching for Non-Existent Wireless Adapter in Windows 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[Updated] Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphone-and-samsung-faces-examining-their-biometric-security/"><u>[Updated] IPhone & Samsung Faces Examining Their Biometric Security</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ati-graphics-armored-support-restored/"><u>ATI Graphics Armored, Support Restored</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments/"><u>Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-lenovos-unreliable-touchscreen/"><u>Fixing Lenovo's Unreliable Touchscreen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-stability-challenges-in-civ-5windows/"><u>Tackling Stability Challenges in Civ 5/Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essential-guide-for-embedding-links-in-tiktok-bios-for-2024/"><u>The Essential Guide for Embedding Links in TikTok Bios for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-desktop-mat-keyboards-ideal-options/"><u>Top-Rated Desktop Mat Keyboards - Ideal Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transforming-a-simple-story-into-an-epic-visual-narrative/"><u>[New] In 2024, Transforming a Simple Story Into an Epic Visual Narrative</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bronze-blessings-god-of-war-boost/"><u>Bronze Blessings: God of War Boost</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrease-fallout-4-crashes-in-windows/"><u>Decrease Fallout 4 Crashes in Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/filmforge-editors-review-complete-overview-for-2024/"><u>FilmForge Editor's Review – Complete Overview for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y100i-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y100i Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/narrowing-excessive-win10-display/"><u>Narrowing Excessive Win10 Display</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionary-tools-elevating-vr-games-for-2024/"><u>Revolutionary Tools Elevating VR Games for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/simplified-guide-to-following-facebook-live-broadcasts-for-2024/"><u>Simplified Guide to Following Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974205145-upgrade-your-systems-graphical-capability-with-intel-graphics-3000-on-windows-10-easily/"><u>Upgrade Your System's Graphical Capability with Intel Graphics 3000 on Windows 10 Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-dark-display-fix-guide/"><u>Win11 Dark Display, Fix Guide</u></a></li>
 </ul></div>
 

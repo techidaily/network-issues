@@ -1,7 +1,7 @@
 ---
 title: "Swift Strides: Fixing Anthem Stops"
-date: 2024-11-18T11:01:55.710Z
-updated: 2024-11-23T19:44:06.770Z
+date: 2024-11-26T16:40:03.832Z
+updated: 2024-12-03T03:01:39.656Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Optimize your in-game settings
 
  For the best performance of Anthem and less lag, you can adjust your in-game settings.
@@ -44,6 +40,10 @@ Here’s how to do it:
  In**Vertical Sync** , select**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
 
@@ -71,17 +71,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -99,6 +91,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Disable CPU Core Parking
 
  Core parking is a utility in Windows that helps save power by scaling the number of logical processors in use based on the workload. If enabled, it can cause your CPU to be in a sleep state and decrease the performance of your CPU.
@@ -114,7 +110,7 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
@@ -124,10 +120,6 @@ So you can follow the steps below to disable CPU core parking:
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -147,6 +139,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
@@ -154,6 +150,10 @@ So you can follow the steps below to disable CPU core parking:
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -175,13 +175,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -195,10 +195,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
@@ -206,6 +202,10 @@ So you can follow the steps below to disable CPU core parking:
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -232,22 +232,18 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-elevating-the-art-of-unboxing-adventure/"><u>[Updated] Elevating the Art of Unboxing Adventure</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-troubleshooting-obs-frame-loss/"><u>[Updated] Troubleshooting OBS Frame Loss</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-thrifty-aerial-assemblies-top-drones-for-(500/"><u>2024 Approved Thrifty Aerial Assemblies Top Drones for <$500</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974753740-experience-vivid-graphics-with-a-simple-update-to-intel-hd-graphics-3000/"><u>Experience Vivid Graphics with a Simple Update to Intel HD Graphics 3000.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-gpu-oversight-a-compreenasian-guide/"><u>Fixing GPU Oversight: A Compreenasian Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-screen-disruptions-with-effective-fixes/"><u>Quelling Screen Disruptions with Effective Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-resize-failure-in-windows-10-now-successful/"><u>Screen Resize Failure in Windows 10, Now Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-reconfiguration-steps-dormant-gpu-screen-wnvidia/"><u>Simple Reconfiguration Steps: Dormant GPU Screen W/NVIDIA</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speed-shots-and-stills-quicktime-techniques-for-samsung-users-for-2024/"><u>Speed Shots & Stills Quicktime Techniques for Samsung Users for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essential-differences-between-youtube-and-dailymention/"><u>The Essential Differences Between YouTube and DailyMention</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722118579788-the-hidden-depth-of-snapchats-myai-learn-about-its-six-unexpected-utilities-beyond-cool-tech/"><u>The Hidden Depth of Snapchat's MyAI - Learn About Its Six Unexpected Utilities Beyond Cool Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-free-video-editing-programs-of-2024-for-windows-7-users/"><u>Top Free Video Editing Programs of 2024 for Windows 7 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-screen-flashing-or-flickering-solved/"><u>Windows 11 Screen Flashing Or Flickering [SOLVED]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-end-of-black-outage/"><u>Windows 11: End of Black Outage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zap-anthem-hiccups-swift-fixes/"><u>Zap Anthem Hiccups: Swift Fixes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-dissecting-the-capabilities-of-magixs-photo-manager/"><u>[Updated] Dissecting the Capabilities of MAGIX's Photo Manager</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-strategic-use-of-twitters-wayback-machine-features-for-2024/"><u>[Updated] Strategic Use of Twitter's Wayback Machine Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-facetune-photo-enhancement/"><u>[Updated] The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-struggling-with-motion-detection-heres-how-you-can-fix-it/"><u>Apple Watch Struggling with Motion Detection? Here's How You Can Fix It</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-kinetics-exploration-for-2024/"><u>Complete Kinetics Exploration for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispelling-hidden-lcd-glitches/"><u>Dispelling Hidden LCD Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-real-time-play-with-lower-latency/"><u>Enhance Real-Time Play with Lower Latency</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/overcoming-unnatural-motion-blur-in-uav-videos-for-2024/"><u>Overcoming Unnatural Motion Blur in UAV Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-aspect-ratio-normalize-screen/"><u>Reverse Aspect Ratio: Normalize Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-rtx-3080-performance-in-video-games/"><u>Reviving RTX 3080 Performance in Video Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-swf-files-into-mov-format/"><u>Step-by-Step Guide: Transforming SWF Files Into MOV Format</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-for-quelling-lenovo-screen-shimmers/"><u>Techniques for Quelling Lenovo Screen Shimmers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-list-best-all-in-one-scanners-of-2024/"><u>The Ultimate List: Best All-in-One Scanners of 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Gears Grind Gearless Gateway
-date: 2024-11-21T17:50:14.951Z
-updated: 2024-11-23T17:13:49.023Z
+date: 2024-12-01T19:41:00.939Z
+updated: 2024-12-02T18:38:21.090Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  Epic Games Launcher is the gateway to unlock a variety of games. But you may encounter the issues of fluctuating download speed or even extremely slow downloads. To work around these issues, we’ve got you several fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the server status
 
  To narrow down the source of the problem, the first thing you need to do is to check the [Epic Games status page](https://status.epicgames.com/) .
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  However, if you are not able to opt for a wired connection, check out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disconnect other devices
 
@@ -89,19 +89,11 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Switch Domain Name Systems (DNS)
 
@@ -113,6 +105,10 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
@@ -120,28 +116,28 @@ Here we recommend using Google DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -150,7 +146,7 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
@@ -167,12 +163,16 @@ Here’s how to do this:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
 2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **[HTTP]**
@@ -195,7 +195,7 @@ When it’s all done, resume your download and it should be faster.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
@@ -238,18 +238,17 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-the-nuances-of-mukbang-filmmaking-techniques/"><u>[New] In 2024, Navigating the Nuances of Mukbang Filmmaking Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-quick-grab-your-complete-guide-to-effortless-video-capture/"><u>[Updated] In 2024, Quick-Grab Your Complete Guide to Effortless Video Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>[Updated] The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1715860068555-updated-top-tickles-for-young-game-fans/"><u>[Updated] Top Tickles for Young Game Fans!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-human-imagination-to-reality-in-ai-artwork/"><u>Bridging Human Imagination to Reality in AI Artwork</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-preferences-retained-post-update/"><u>Hardware Preferences Retained Post-Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/issue-resolved-monitor-shows-portion-not-all-windows-windows-10/"><u>Issue Resolved: Monitor Shows Portion, Not All Windows (Windows 10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-monitor-troubleshooting-no-light/"><u>Lenovo Monitor: Troubleshooting No-Light</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-lifetime-plan-zero-price/"><u>Mondly's Lifetime Plan: Zero Price</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-flashy-windows-11-monitor/"><u>Overcome Flashy Windows 11 Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-on-win11-monitors/"><u>Restored Fullscreen Functionality on Win11 Monitors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-mp4-to-facebook-video-converter-2023-edition-for-2024/"><u>[New] Top MP4-to-Facebook Video Converter 2023 Edition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s/"><u>2024 Approved Guide on Downloading, Processing, and Saving Twitter Vids as MP3s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistance-analysis-snapchat-vs-gpt-powered-talks/"><u>AI Assistance Analysis: Snapchat vs GPT-Powered Talks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-visual-clarity-and-gaming-performance-using-updated-intel-gpu-driver-for-w10/"><u>Boost Visual Clarity and Gaming Performance Using Updated Intel GPU Driver for W10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crypto-market-predictions-with-chatgpt-here-are-the-5-drawbacks-you-need-to-know/"><u>Crypto Market Predictions with ChatGPT? Here Are the 5 Drawbacks You Need to Know</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-play-fixing-crashes-in-fallout-4/"><u>Effortless Play: Fixing Crashes in Fallout 4</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-visuals-a-win10-solution-unlocked/"><u>Enhanced Visuals: A Win10 Solution Unlocked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-vector-databases-for-ai-progress/"><u>Exploring Vector Databases for AI Progress</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-in-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-the-top-8-facebook-extractors-for-films/"><u>In 2024, Exploring the Top 8 Facebook Extractors for Films</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-of-latest-intel-hd-drivers-in-windows/"><u>Installation of Latest Intel HD Drivers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-mastery-in-artificially-inspired-visuals-using-paint-cocreator-on-win11/"><u>Step-by-Step Mastery in Artificially Inspired Visuals Using Paint Cocreator on Win11</u></a></li>
 </ul></div>
 

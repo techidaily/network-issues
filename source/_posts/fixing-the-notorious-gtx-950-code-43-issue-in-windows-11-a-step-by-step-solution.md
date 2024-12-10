@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Notorious GTX 950 'Code 43' Issue in Windows 11: A Step-by-Step Solution"
-date: 2024-11-19T04:27:52.072Z
-updated: 2024-11-24T04:50:06.663Z
+date: 2024-12-01T02:26:14.839Z
+updated: 2024-12-02T22:38:26.668Z
 tags:
   - win11
   - win10
@@ -53,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
@@ -88,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -98,11 +94,11 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,22 +155,16 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-terrarias-richest-realms-5-best-gold-hunt-spots/"><u>[New] In 2024, Terraria's Richest Realms 5 Best Gold Hunt Spots</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-podcast-streaming-trick-quick-play-upgrade/"><u>[Updated] 2024 Approved Top Podcast Streaming Trick - Quick Play Upgrade</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>2024 Approved From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-zooming-in-a-guide-to-tight-shots-in-microsoft-teams/"><u>2024 Approved Zooming In A Guide to Tight Shots in Microsoft Teams</u></a></li>
-<li><a href="https://network-issues.techidaily.com/an-unknown-direct-x-error-has-occurred-on-league-of-legends-solved/"><u>An Unknown Direct X Error Has Occurred on League of Legends [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dark-screen-fix-for-fall-creators-release/"><u>Dark Screen Fix for Fall Creators' Release</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/defrosting-techniques-reviving-your-frozen-macbook-air-easily/"><u>Defrosting Techniques: Reviving Your Frozen MacBook Air Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-v2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic V2</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-lava-yuva-2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Yuva 2 phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-through-screen-flickering-troubleshooting/"><u>Navigating Through Screen Flickering Troubleshooting</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-code-1900101-during-windows-installation/"><u>Overcoming Obstacle Code 1900101 During Windows Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-youtubes-background-glitches-with-precision/"><u>Overcoming YouTube's Background Glitches with Precision</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-overcome-pc-issues-in-world-of-warships-top-5-fixes/"><u>Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-solutions-for-amds-eft-glitch/"><u>Swift Solutions for AMD's EFT Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-on-windows-11/"><u>Troubleshooting C1900101 on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pros-picks-5-best-low-frame-rate-recorders/"><u>[New] 2024 Approved Pros' Picks 5 Best Low Frame Rate Recorders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-list-of-apples-best-photo-watermark-applications/"><u>[New] In 2024, Ultimate List of Apple's Best Photo Watermark Applications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-a-music-career-15-essential-video-tutorials-for-artists-for-2024/"><u>[Updated] Crafting a Music Career 15 Essential Video Tutorials for Artists for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-by-step-utilization-of-polarr-for-professional-results/"><u>[Updated] In 2024, Step-By-Step Utilization of Polarr for Professional Results</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-sims-4-blackout-problems/"><u>Eradicate Sims 4 Blackout Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-your-websites-502-error-in-no-time-a-step-by-step-handbook/"><u>Fixing Your Website's 502 Error in No Time - A Step-by-Step Handbook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974801619-improve-graphical-output-install-a-simple-quick-update-for-intel-graphics-on-windows-10/"><u>Improve Graphical Output: Install a Simple, Quick Update for Intel Graphics on Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reducing-windows-10-monitor-span/"><u>Reducing Windows 10 Monitor Span</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-upside-down-screen-on-windows-11-os/"><u>Reversing Upside Down Screen on Windows 11 OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sprint-to-victory-with-these-10-pro-tips-and-tricks-for-subway-surfers-players/"><u>Sprint to Victory with These 10 Pro Tips and Tricks for 'Subway Surfers' Players</u></a></li>
 </ul></div>
 

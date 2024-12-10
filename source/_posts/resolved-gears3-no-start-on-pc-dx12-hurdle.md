@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Gears3 No Start on PC - DX12 Hurdle"
-date: 2024-07-12T00:13:40.050Z
-updated: 2024-07-13T00:13:40.050Z
+date: 2024-11-30T19:07:14.003Z
+updated: 2024-12-02T17:54:07.858Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -72,6 +80,10 @@ To do so, first visit the website of your GPU manufacturer:
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -103,6 +115,11 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
@@ -119,6 +136,10 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -144,8 +165,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +172,26 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-soft-volume-tricks-lives-hidden-gems/"><u>[New] Soft Volume Tricks Live’s Hidden Gems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtubes-video-editor-integrating-tracks-into-your-videos/"><u>[Updated] Mastering YouTube's Video Editor Integrating Tracks Into Your Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essentials-of-webcam-capture-with-free2x-app-for-2024/"><u>[Updated] The Essentials of WebCam Capture with Free2X App for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capture-perfection-4-methods-of-saving-chromebook-screenshots-for-2024/"><u>Capture Perfection 4 Methods of Saving Chromebook Screenshots for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-screen-display-saved-preferences-errors/"><u>Correcting Screen Display Saved Preferences Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/erase-windows-graphics-without-complications-or-confusion/"><u>Erase Windows Graphics Without Complications or Confusion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/frustrated-with-sluggish-mobile-data-quickly-improve-speed-using-these-10-tips/"><u>Frustrated with Sluggish Mobile Data? Quickly Improve Speed Using These 10 Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/mac-oswindows-carbon-copy-cloner/"><u>Mac OSに最適なフリーのディスクコピーソフトウェア：Windows 向けCarbon Copy Clonerの代替品</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-friends-across-platforms-bedrock-java-via-geysermc-server/"><u>Making Friends Across Platforms: Bedrock-Java via GeyserMC Server</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monster-hunters-triumph-error-cleared-game-unlocked/"><u>Monster Hunters Triumph: Error Cleared, Game Unlocked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-companion-resolving-fallout-4-glitches/"><u>PC Companion: Resolving Fallout 4 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/safe-mode-protocol-and-gpu-driver-removal-in-windows-8/"><u>Safe Mode Protocol & GPU Driver Removal in Windows 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-bilingual-interactions-tips-for-implementing-chatgpt-as-a-powerful-language-translation-aid/"><u>Seamless Bilingual Interactions: Tips for Implementing ChatGPT as a Powerful Language Translation Aid</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solidify-computer-screen-lines-alignment/"><u>Solidify Computer Screen Lines' Alignment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-stop-acer-screen-flickering/"><u>Techniques to Stop Acer Screen Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshoot-horizontal-display-glitches-on-notebooks/"><u>Troubleshoot Horizontal Display Glitches on Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-screen-setup-no-issues-now/"><u>Update Screen Setup, No Issues Now</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1111-guide-solving-audacity-sound-error/"><u>Win 11/11 Guide: Solving Audacity Sound Error</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Prevent Acer Screen Shimmer
-date: 2024-11-19T05:42:04.195Z
-updated: 2024-11-23T19:52:15.187Z
+date: 2024-11-27T04:38:47.549Z
+updated: 2024-12-02T21:38:20.198Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
@@ -53,10 +57,6 @@ Here is how to change the screen refresh rate:
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -66,6 +66,10 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
@@ -74,16 +78,12 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
@@ -98,7 +98,7 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -115,13 +115,13 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -153,24 +153,22 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>[New] Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-high-impact-tweets-of-the-year-viewer-rankings/"><u>[Updated] 2024 Approved High-Impact Tweets of the Year Viewer Rankings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>2024 Approved Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-and-windows-10-unite-for-smooth-driver-load-resolution/"><u>AMD and Windows 10 Unite for Smooth Driver Load Resolution</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/comprehensive-overview-utilizing-googles-automatic-transcription-service/"><u>Comprehensive Overview Utilizing Google's Automatic Transcription Service</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-setting-up-automatic-text-notifications-on-your-iphone/"><u>Guide: Setting Up Automatic Text Notifications on Your iPhone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-spark-20c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Spark 20C?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/endent-artists-guide-to-personalized-visual-tricks/"><u>Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/install-errors-nvidia-resolved/"><u>Install Errors: NVIDIA Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-driver-no-signs-on-screen/"><u>New Driver, No Signs On Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-light-just-darkness-on-board/"><u>No Light, Just Darkness on Board</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-display-on-new-windows-11-os/"><u>Optimizing Display on New Windows 11 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reawakening-forgotten-cameras-on-your-asus-pc/"><u>Reawakening Forgotten Cameras on Your Asus PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fix-guide-for-windows-update-error-code-0x802e401c-on-windows-11/"><u>Resolved: Fix Guide for Windows Update Error Code 0X802e401c on Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-nubia-red-magic-8s-proplus-frp-by-drfone-android/"><u>The Updated Method to Bypass Nubia Red Magic 8S Pro+ FRP</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-free-video-calls-on-pcmac-os-for-easy-online-meetings/"><u>Top Free Video Calls on PC/Mac OS for Easy Online Meetings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unraveling-switchable-graphics-issue-with-intel-and-nvidia-on-win10/"><u>Unraveling Switchable Graphics Issue with Intel & Nvidia on Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974805276-upgrade-to-top-tier-graphics-with-newest-intel-hd-graphics-version-for-windows-10/"><u>Upgrade to Top-Tier Graphics with Newest Intel HD Graphics Version for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-and-amd-resolved-loading-problem-for-detection-driver/"><u>Win10 and AMD: Resolved Loading Problem for Detection Driver</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-instant-recovery-of-vanished-visuals/"><u>[New] 2024 Approved Instant Recovery of Vanished Visuals</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secrets-unveiled-perfect-your-360-youtube-live-experience/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-stardom-a-beginners-blueprint/"><u>[Updated] Instagram Stardom A Beginner's Blueprint</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-windows-11-driver-fix-guide/"><u>AMD Radeon R9: Windows 11 Driver Fix Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-in-windows-solved-by-dxgkrnlsys-fix/"><u>BlueScreen of Death in Windows Solved by dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-forgotten-vram-signal/"><u>Eradicate Forgotten VRAM Signal</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-evaluation-of-fb-video-shapes/"><u>In 2024, Evaluation of FB Video Shapes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/integrating-nvidia-into-new-windows-ecosystem/"><u>Integrating Nvidia Into New Windows Ecosystem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-invisible-monitor-mishaps/"><u>Overcoming Invisible Monitor Mishaps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-setback-window-full-display-unachieved-in-windows-10/"><u>Screen Setback: Window Full Display Unachieved in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-strategies-to-start-using-windows-11-widgets/"><u>Seven Strategies to Start Using Windows 11 Widgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-12-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme 12 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-votre-contenu-video-grace-a-la-technologie-ia-de-winxvideo/"><u>Transformez Votre Contenu Vidéo Grâce À La Technologie IA De Winxvideo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/window-display-fix-in-windows-10-not-all-are-shown/"><u>Window Display Fix in Windows 10 - Not All Are Shown</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728490855390-windowsssd/"><u>Windowsで使いやすい完全無料のトップSSD移行ソフトウェア</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-strategy-fixing-gpu-drivers-to-prevent-crashes/"><u>Winning Strategy: Fixing GPU Drivers to Prevent Crashes</u></a></li>
 </ul></div>
 

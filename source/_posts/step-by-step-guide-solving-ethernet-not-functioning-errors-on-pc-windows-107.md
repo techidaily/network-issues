@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2024-11-22T05:16:14.878Z
-updated: 2024-11-24T11:21:15.631Z
+date: 2024-11-30T01:34:26.725Z
+updated: 2024-12-03T02:18:37.143Z
 tags:
   - win11
   - win10
@@ -36,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 4. On your device, reconnect to your Ethernet network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -101,15 +101,19 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -130,10 +134,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,20 +156,21 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-vida-unveiled-a-gateway-to-professional-video-craftsmanship/"><u>[New] 2024 Approved Vida Unveiled A Gateway to Professional Video Craftsmanship</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-decoding-vr-a-virtual-cinematic-journey/"><u>[New] Decoding VR A Virtual Cinematic Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-prime-7-video-software-for-apple-machines/"><u>[New] In 2024, Prime 7 Video Software for Apple Machines</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-reimagined-realities-augmented-wisdom-for-todays-world/"><u>[New] Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-master-your-thumbnails-with-these-20-top-fonts/"><u>[Updated] 2024 Approved Master Your Thumbnails with These 20 Top Fonts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dell-visuals-smooth-out-after-repair/"><u>Dell Visuals Smooth Out After Repair</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dominant-heavy-lift-drones-for-industrial-tasks/"><u>Dominant Heavy-Lift Drones for Industrial Tasks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-xiaomi-redmi-13c-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi 13C Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-make-a-bootable-usb-drive-on-windows-os-step-by-step-guide-with-rufus-and-alternative-methods/"><u>How to Make a Bootable USB Drive on Windows OS: Step-by-Step Guide with Rufus and Alternative Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-tackle-persistent-video-output-errors/"><u>How to Tackle Persistent Video Output Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hybrid-graphics-enhanced-after-windows-11-upgrade-fixes/"><u>Hybrid Graphics Enhanced After Windows 11 Upgrade Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/master-flat-panel-fixation-methods/"><u>Master Flat-Panel Fixation Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-wide-view-resolution-fix/"><u>Overcoming Window's Wide View Resolution Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-for-quickly-snapping-photos-of-your-hp-laptops-display/"><u>Ultimate Trick for Quickly Snapping Photos of Your HP Laptop's Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-battlefield-badlands-xbox-compatibility-woes/"><u>[FIXED] Battlefield: Badlands - Xbox Compatibility Woes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-proven-strategies-for-creating-superb-igtv-videos-on-smartphonesdlsrs-for-2024/"><u>[New] Proven Strategies for Creating Superb IGTV Videos on Smartphones/DLSRs for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-slack-vs-discord-selecting-teams-ideal-chat-platform/"><u>[New] Slack Vs. Discord Selecting Teams' Ideal Chat Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-speed-demons-win-10-and-11-internet-takedown/"><u>[SOLVED] Speed Demons: WIN 10 & 11 Internet Takedown</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-turning-snaps-into-cashflow/"><u>[Updated] 2024 Approved Turning Snaps Into Cashflow</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-crafting-viral-vignettes/"><u>[Updated] Crafting Viral Vignettes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-video-appeal-20-premium-thumbnail-fonts/"><u>[Updated] In 2024, Enhancing Video Appeal 20 Premium Thumbnail Fonts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/anomaly-elimination-the-obscure-x-mistake-in-league/"><u>Anomaly Elimination: The Obscure X Mistake in League</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrease-roblox-latency-on-windows/"><u>Decrease Roblox Latency on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-steps-for-disabling-windows-graphics/"><u>Easy Steps for Disabling Windows Graphics</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/fehlerbehebung-probleme-beim-einloggen-bei-icloud-auf-dem-iphone/"><u>Fehlerbehebung: Probleme Beim Einloggen Bei iCloud Auf Dem iPhone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210131088-9781734499070-five-minutes-with-god/"><u>Five Minutes With God | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-90-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor 90 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/"><u>Kickstart Your Telegram Promotion Journey Tips for Newbies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightening-up-blacked-out-screen-win10/"><u>Lightening Up Blacked Out Screen Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-msdn-error-with-nvidia-graphics-card-hiding/"><u>Resolved: MSDN Error with NVIDIA Graphics Card Hiding</u></a></li>
 </ul></div>
 

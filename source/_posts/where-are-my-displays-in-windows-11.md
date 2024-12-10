@@ -1,7 +1,7 @@
 ---
 title: Where Are My Displays in Windows 11?
-date: 2024-11-18T21:04:04.908Z
-updated: 2024-11-24T03:38:58.148Z
+date: 2024-11-30T17:10:31.654Z
+updated: 2024-12-03T00:27:35.598Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -49,19 +45,23 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -76,7 +76,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
@@ -84,20 +84,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -122,24 +122,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-streamline-your-path-to-youtubes-srt-files-for-2024/"><u>[New] Streamline Your Path to YouTube's SRT Files for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-zoom-tiktok-videos/"><u>[Updated] In 2024, How to Zoom TikTok Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/(3-your-way-how-to-type-a-digital-expression-of-affection-on-your-keyboard/"><u><3 Your Way: How to Type a Digital Expression of Affection on Your Keyboard</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-are-earnings-associated-with-good-and-service-analysis/"><u>2024 Approved Are Earnings Associated with Good and Service Analysis?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhance-your-photos-on-instagram-with-easy-free-filters-access/"><u>2024 Approved Enhance Your Photos on Instagram with Easy, Free Filters Access</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-simplified-empowering-creative-intelligence/"><u>ChatGPT Simplified: Empowering Creative Intelligence</u></a></li>
-<li><a href="https://network-issues.techidaily.com/controlling-big-screen-size-in-win10/"><u>Controlling Big Screen Size in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-the-laptops-sideways-display/"><u>Correcting the Laptop's Sideways Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminated-stretching-effect-from-wide-windows-10/"><u>Eliminated Stretching Effect From Wide Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/god-of-thunder-overhaul-complete/"><u>God of Thunder Overhaul Complete</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-activate-and-install-an-external-wireless-adapter-on-pcs/"><u>How To Activate & Install an External Wireless Adapter on PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone with Broken Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>In 2024, How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-failed-driver-load-of-amd-in-windows-10-os/"><u>Overcoming Failed Driver Load of AMD in Windows 10 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-clear-windows-10-displays/"><u>Restoring Clear Windows 10 Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-in-to-windows-8s-secure-environment-graphics-driver-detachment/"><u>Step-In-To Windows 8’S Secure Environment: Graphics Driver Detachment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/sh-views-the-most-effective-30-freefire-tags-for-gamers-for-2024/"><u>Unleash Views The Most Effective 30 FreeFire Tags for Gamers for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-flicker-phenomenon-no-more/"><u>Win11 Flicker Phenomenon, No More!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-tv-streaming-platforms-in-depth-comparisons/"><u>[New] Top 10 TV Streaming Platforms In-Depth Comparisons</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-transform-your-movie-grading-skills-using-cg-centrals-luts-for-2024/"><u>[New] Transform Your Movie Grading Skills Using CG Central's Luts for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cooling-fix-ends-overheating/"><u>Cooling Fix Ends Overheating</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diminishing-displays-dysfunctions-pro-7/"><u>Diminishing Displays Dysfunctions (Pro 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976900712-download-brother-mfc-9130cw-printer-drivers-step-by-step-guide/"><u>Download Brother MFC-9130CW Printer Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-hiccup-over-nvidia-screen-works-again/"><u>Driver Hiccup Over - Nvidia Screen Works Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-oscillating-windows-display-issue/"><u>Ending Oscillating Windows Display Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-zero-30-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Zero 30 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-gt-neo-5-se-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme GT Neo 5 SE for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-list-12-great-sources-for-no-cost-image-shots/"><u>In 2024, Ultimate List 12 Great Sources for No-Cost Image Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-laptops-dark-side-heres-the-fix/"><u>Lenovo Laptop's Dark Side? Here's the Fix</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-your-network-coverage-with-netgear-ex3700-ac750-wi-fi-range-extender-a-complete-guide-and-evaluation/"><u>Maximizing Your Network Coverage with Netgear EX3700 (AC750) Wi-Fi Range Extender: A Complete Guide and Evaluation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-4k-quad-high-clarity/"><u>Understanding 4K Quad-High Clarity</u></a></li>
 </ul></div>
 

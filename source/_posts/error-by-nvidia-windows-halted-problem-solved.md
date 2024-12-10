@@ -1,7 +1,7 @@
 ---
 title: "Error by NVidia: Windows Halted, Problem Solved"
-date: 2024-11-17T06:57:51.803Z
-updated: 2024-11-23T22:37:30.090Z
+date: 2024-11-26T22:05:38.188Z
+updated: 2024-12-03T00:54:18.139Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  Solution 3:[**Uninstall the NVIDIA graphics driver**](#solution3)
  Solution 4: **[Disable the graphics card and discharge the electrical build-up](#solution4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Perform a power reset**
 
  To resolve the problem, you can try to perform a power reset. This is the easiest solution and may work like a charm. Here’s what you need to do:
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 4) Plug the charger back and put the battery back into place.
 
 5) Reboot your computer and check to see if the problem is resolved. If you’re still getting the error, you can move on to our next suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the driver**
 
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-619.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the Nvidia graphics driver.  In the example below, we’ve got NVIDIA Geforce GTX 1080\. This will automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version)
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.
@@ -68,11 +72,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 3: Uninstall the NVIDIA graphics driver**
@@ -85,16 +85,12 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
 
 ![uninstall nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d7a03426f1b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your computer and check to see if the problem is resolved.
@@ -108,6 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
  Type**devmgmt.msc** then click**OK** . This is to open the Device Manager Window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on the NVIDIA device name. The context menu will pop up. Click**Disable**  on the context menu.
 
@@ -140,19 +140,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-perfectly-blend-audiotracks-in-slideshows-for-2024/"><u>[Updated] How to Perfectly Blend Audiotracks in Slideshows for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-your-twitch-live-recordings-today/"><u>2024 Approved Streamline Your Twitch Live Recordings Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-tech-gems-of-2024-unlocking-high-quality-laptops-under-1000-comprehensive-ratings-and-reviews-techradar/"><u>Affordable Tech Gems of 2024: Unlocking High-Quality Laptops Under $1,000 - Comprehensive Ratings and Reviews | TechRadar</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-error-windows-blue-screen-fix/"><u>dxgkrnl.sys Error: Windows Blue Screen Fix</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-reno-8t-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo Reno 8T online without jailbreak</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-unused-scenes-a-filmmakers-approach/"><u>In 2024, Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-screen-extension-in-w11-os/"><u>Mastering Screen Extension in W11 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/next-level-gaming-rtx210-drivers-for-windows-11-update/"><u>Next-Level Gaming - RTX210 Drivers for Windows 11 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-suitable-cg-available-fix-needed/"><u>No Suitable CG Available, Fix Needed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhauled-erratic-code-22-in-drivers/"><u>Overhauled Erratic Code 22 in Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/purging-unwanted-windows-screen-flashes/"><u>Purging Unwanted Windows Screen Flashes</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/solving-your-netflix-playback-issues-aligning-audio-with-video-perfectly/"><u>Solving Your Netflix Playback Issues: Aligning Audio with Video Perfectly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-workings-of-intrinsic-computerized-thinking-models/"><u>The Workings of Intrinsic Computerized Thinking Models</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-sound-troubleshooting-for-mystery-speaker-configurations/"><u>Windows 10 Sound Troubleshooting for Mystery Speaker Configurations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-add-music-to-facebook-profile-iphone-and-android/"><u>[New] In 2024, How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-guide-best-free-mac-screen-recording-tools/"><u>[New] In 2024, Ultimate Guide Best Free Mac Screen Recording Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-turbo-charger-your-win-1110-internet/"><u>[SOLVED] Turbo-Charger Your Win 11/10 Internet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-a-youtube-subscribe-link-easy/"><u>[Updated] How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-picks-best-recording-software/"><u>[Updated] In 2024, Gamers' Picks Best Recording Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[Updated] Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>[Updated] The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3/"><u>音楽の未来へ：MP3ファイルを効果的に使いこなす方法</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-demise-laptops-last-stand/"><u>Display Demise: Laptop's Last Stand</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-advantages-of-4k-high-definition/"><u>Explaining the Advantages of 4K High-Definition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-monitor-problem-now-displays-full-screen-in-win11/"><u>Fix Monitor Problem – Now Displays Full Screen in Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210747705-9781637743737-glow-worthy/"><u>Glow-Worthy | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-graphic-glitch-disappears/"><u>MH World Crisis Averted: Graphic Glitch Disappears</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-straighten-laptop-display/"><u>Quick Fix for Straighten Laptop Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/realign-visual-border-discrepancies/"><u>Realign Visual Border Discrepancies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974830104-swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-10-easiest-languages-to-learn/"><u>Top 10 Easiest Languages to Learn</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features-for-2024/"><u>Transform Your Mac Display Utilizing Picture in Picture Multimedia Features for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visuals-fixed-and-saving-feat-achieved/"><u>Visuals Fixed & Saving Feat Achieved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Win11 Blank Display Post-Creators
-date: 2024-11-22T11:15:55.905Z
-updated: 2024-11-24T09:37:26.149Z
+date: 2024-12-01T00:14:25.564Z
+updated: 2024-12-02T20:46:54.417Z
 tags:
   - win11
   - win10
@@ -20,16 +20,12 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Unplug your external devices
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -37,16 +33,16 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update display card driver
 
@@ -55,12 +51,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,21 +77,18 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[New] 2024 Approved Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-canvas-kids-discover-10-free-kid-friendly-art-makers-for-mac/"><u>[New] Canvas Kids Discover 10 Free, Kid-Friendly Art Makers for Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jest-jamboree-meme-ideas-fit-for-any-celebration/"><u>[Updated] Jest Jamboree Meme Ideas Fit for Any Celebration</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-prime-opening-strategies-top-16-youtube-vids-that-thrive-for-2024/"><u>[Updated] Prime Opening Strategies Top 16 YouTube Vids That Thrive for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-mold-memorable-memes-via-giphy/"><u>2024 Approved Mold Memorable Memes via Giphy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dawn-of-colorful-screens-for-lenovo-users/"><u>Dawn of Colorful Screens for Lenovo Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disconnecting-display-digital-dilemma/"><u>Disconnecting Display: Digital Dilemma</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-graphics-on-windows-11-geforce-rtx210/"><u>Enhanced Graphics on Windows 11 - GeForce RTX210</u></a></li>
-<li><a href="https://network-issues.techidaily.com/explaining-high-definition-superiority-4k/"><u>Explaining High-Definition Superiority: 4K</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overturn-recent-xbox-controller-upgrade/"><u>Overturn Recent Xbox Controller Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomms-qca61x4-wireless-integration-resolved-for-win10/"><u>Qualcomm's QCA61x4 Wireless Integration Resolved for Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reintroducing-forgotten-nvidia-or-amd-hardware/"><u>Reintroducing Forgotten NVIDIA or AMD Hardware</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/streamline-your-experience-free-screen-capture-software-on-windowsmac/"><u>Streamline Your Experience - Free Screen Capture Software on Windows/Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-solution-to-nvidia-geforce-7025-on-win11/"><u>Successful Solution to NVIDIA GeForce 7025 on Win11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-elements-alternatives-2023-edition/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Elements Alternatives 2023 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-video-edits-youtube-content-creation-on-windows/"><u>[New] Mastering Video Edits YouTube Content Creation on Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-flash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest-in-2024/"><u>[Updated] Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest, In 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/wifiwindows-10-pcapple-tvdvdand/"><u>「WiFi環境下でWindows 10 PCからApple TVへのDVDダウンロード&ライブ配信ガイド」</u></a></li>
+<li><a href="https://network-issues.techidaily.com/activating-hidden-asus-video-feature/"><u>Activating Hidden Asus Video Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-video-card-glitches-for-smooth-viewing/"><u>Combat Video Card Glitches for Smooth Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropping-offline-more-often-wi-fi-woes/"><u>Dropping Offline More Often: Wi-Fi Woes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-10-globally-acclaimed-video-sensations-on-youtube/"><u>In 2024, Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/increasing-clarity-on-windows-11-displays/"><u>Increasing Clarity on Windows 11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-adjustment-of-lcd-horizontal-bars/"><u>Instant Adjustment of LCD Horizontal Bars</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-8-free-soundscape-resources-for-audio-enhancement/"><u>Updated Top 8 Free Soundscape Resources for Audio Enhancement</u></a></li>
 </ul></div>
 

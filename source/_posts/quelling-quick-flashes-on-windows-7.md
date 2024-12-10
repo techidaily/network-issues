@@ -1,7 +1,7 @@
 ---
 title: Quelling Quick Flashes on Windows 7
-date: 2024-11-19T20:23:10.825Z
-updated: 2024-11-24T05:25:14.427Z
+date: 2024-11-25T18:00:11.028Z
+updated: 2024-12-03T04:26:25.951Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 2. **[Check for hardware issues](#f2)**
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -65,7 +69,7 @@ To troubleshoot these hardware issues:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
@@ -76,16 +80,16 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -97,10 +101,6 @@ To troubleshoot these hardware issues:
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
@@ -121,7 +121,7 @@ To troubleshoot these hardware issues:
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
@@ -157,18 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>[New] 2024 Approved Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[Updated] 2024 Approved Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>2024 Approved Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-churn-your-own-custom-internet-laughter/"><u>2024 Approved Churn Your Own Custom Internet Laughter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-invisible-graphics-cards-your-fix/"><u>Addressing Invisible Graphics Cards: Your Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/baffled-by-bluetooth-master-the-art-of-connecting-iphones-to-computers-today/"><u>Baffled by Bluetooth? Master the Art of Connecting iPhones to Computers Today</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screen-in-windows-11-update/"><u>Correcting Upside-Down Screen in Windows 11 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovered-backdoor-shadowplay-controls/"><u>Discovered Backdoor: ShadowPlay Controls</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12r-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12R by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/quick-advice-preserving-gotomeetings-with-minimal-fuss-for-2024/"><u>Quick Advice Preserving GoToMeetings with Minimal Fuss for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-unwavering-light-on-laptop-screen/"><u>Restored Unwavering Light on Laptop Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-overcome-sims-4-monochrome-errors/"><u>Swiftly Overcome Sims 4 Monochrome Errors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-exploring-the-future-with-av1-over-vp9/"><u>[New] 2024 Approved Exploring the Future with AV1 over VP9</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-11-audio-recording-tools-guide/"><u>[New] 2024 Approved Leading 11 Audio Recording Tools Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-hdtv-revolution-comparing-the-leading-8k-tv-brands-for-2024/"><u>[New] HDTV Revolution Comparing the Leading 8K TV Brands for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-faded-lenovo-monitor-issues/"><u>Addressing Faded Lenovo Monitor Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/change-someone-elses-password-in-windows-a-comprehensive-walkthrough/"><u>Change Someone Else’s Password in Windows – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-unseen-display-options-in-windows-11/"><u>Discover Unseen Display Options in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-content-experience-with-win10/"><u>Enhancing Visual Content Experience with Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guides-on-fixing-acer-led-displays/"><u>Guides on Fixing Acer LED Displays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock HTC U23 Phone with Broken Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-6-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 6 in the Best Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-hidden-world-exploring-vlc-player-extras/"><u>In 2024, The Hidden World Exploring VLC Player Extras</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-3620-printer-driver-downloads-available-for-windows-users-windows-10-8-and-7/"><u>Latest Epson WF-3620 Printer Driver Downloads Available for Windows Users (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-tips-to-eliminate-fortnite-lag-and-gameplay-interruptions/"><u>Quick Tips to Eliminate Fortnite Lag and Gameplay Interruptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-flipped-aspect-ratio-in-display/"><u>Resolving Flipped Aspect Ratio in Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-civ-5-experience-on-computers/"><u>Streamlining Civ 5 Experience on Computers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tv-live-streams-with-regional-content-2024-edition/"><u>Top TV Live Streams with Regional Content, 2024 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-easier-screens-on-any-size-device/"><u>Win11: Easier Screens on Any Size Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-now-packs-enhanced-driver-for-amds-radeon-hd-6950-gpu/"><u>Windows 11 Now Packs Enhanced Driver for AMD's Radeon HD 6950 GPU</u></a></li>
 </ul></div>
 

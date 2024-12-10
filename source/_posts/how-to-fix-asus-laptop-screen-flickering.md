@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-11-18T06:21:26.620Z
-updated: 2024-11-23T18:31:47.567Z
+date: 2024-11-28T04:33:05.545Z
+updated: 2024-12-02T23:35:41.794Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -53,6 +53,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **I’m using Windows 7:** 
 
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
@@ -60,7 +64,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. Click**Advanced settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
@@ -68,10 +72,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -98,13 +98,13 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -124,7 +124,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
@@ -154,22 +154,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-jest-journal-chronicles-of-timely-laughter/"><u>[New] Jest Journal Chronicles of Timely Laughter</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[Updated] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[Updated] 2024 Approved Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-the-dark-windows-11-display/"><u>Banishing the Dark Windows 11 Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-overcoming-icloud-compatibility-issues-with-your-devices/"><u>Expert Tips for Overcoming iCloud Compatibility Issues with Your Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-apple-airtags-on-sale-save-24-now-during-walmarts-labor-day-promotion-insights-from-zdnet/"><u>Get Apple AirTags on Sale: Save $24 Now During Walmart’s Labor Day Promotion - Insights From ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/grasping-4k-ultimate-screen-quality/"><u>Grasping 4K Ultimate Screen Quality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974046716-hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 5G Phones with/without a PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/managing-paper-tray-sensor-problems/"><u>Managing Paper Tray Sensor Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/market-trends-how-amd-is-revolutionizing-the-gaming-industry/"><u>Market Trends: How AMD Is Revolutionizing the Gaming Industry</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-conflict-for-nvidia-and-intel-on-windows-10/"><u>Resolving Hybrid Graphics Conflict for NVIDIA & Intel on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-graphics-nvidiaintel-fix-confirmed-for-win11/"><u>Triumph Over Switchable Graphics - Nvidia/Intel Fix Confirmed for Win11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-investment-needs-on-youtube-for-2024/"><u>Understanding Investment Needs on YouTube for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visual-setup-now-stable-and-secured/"><u>Visual Setup Now Stable & Secured</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-no-more-plagues-by-com-issues/"><u>Windows No More Plagues by COM Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-climate-change-mitigation-through-urban-design-innovations/"><u>[New] In 2024, Climate Change Mitigation Through Urban Design Innovations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causing-winbsod-error/"><u>[Resolved] dxgkrnl.sys Causing WinBSOD Error</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-analyzing-youtube-adrevenue-average-payments-by-thousands-of-views-for-2024/"><u>[Updated] Analyzing Youtube AdRevenue Average Payments by Thousands of Views for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevating-views-amplifying-impact-a-youtube-case-study/"><u>[Updated] In 2024, Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-academic-anchors-identifying-top-10-lecture-preservation-tools/"><u>2024 Approved Academic Anchors Identifying Top 10 Lecture Preservation Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/custom-resolution-restored-on-pc-win10/"><u>Custom Resolution Restored on PC (Win10)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-sandisk-driver-update-and-download-guide-for-windows-11/"><u>Effortless Installation: SanDisk Driver Update & Download Guide for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-switchable-graphics-error-with-intel-and-nvidia-on-win10/"><u>Eliminating Switchable Graphics Error with Intel & Nvidia on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/examining-amds-innovation-and-its-effect-on-gaming-hardware-sales/"><u>Examining AMD's Innovation and Its Effect on Gaming Hardware Sales</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-issue-fullscreen-window-not-showed/"><u>Fixed Display Issue - FullScreen Window Not Showed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-zte-by-fonelab-android-recover-video/"><u>How to recover old videos from your ZTE</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-swiftly-handle-stalled-gpsvc-process/"><u>How to Swiftly Handle Stalled GPSVC Process</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/increasing-clarity-with-enhanced-youtube-videos/"><u>Increasing Clarity with Enhanced YouTube Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-graphic-functionality-on-win-10/"><u>Restored Graphic Functionality on Win 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stoplight-flash-on-laptop-ceases/"><u>Stoplight Flash on Laptop Ceases</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-significance-of-4k-quad-hd-imaging-clarity/"><u>The Significance of 4K Quad-HD Imaging Clarity</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-diy-repair-guide-for-windows-10-touchscreen-failures-five-proven-techniques/"><u>Ultimate DIY Repair Guide for Windows 10 Touchscreen Failures: Five Proven Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-update-by-qualcomm-improves-stability-of-atheros-drivers/"><u>Win11 Update by Qualcomm Improves Stability of Atheros Drivers</u></a></li>
 </ul></div>
 

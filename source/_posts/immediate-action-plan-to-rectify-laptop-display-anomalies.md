@@ -1,7 +1,7 @@
 ---
 title: Immediate Action Plan to Rectify Laptop Display Anomalies
-date: 2024-07-12T00:15:01.865Z
-updated: 2024-07-13T00:15:01.865Z
+date: 2024-11-30T16:10:05.236Z
+updated: 2024-12-03T02:22:48.376Z
 tags:
   - win11
   - win10
@@ -40,15 +40,27 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -64,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
@@ -77,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -101,8 +121,6 @@ Featured image by rawpixel.com from Pexels
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +128,24 @@ Featured image by rawpixel.com from Pexels
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts/"><u>[New] 2024 Approved Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-social-media-strategy-facebook-whatsapp-video-sharing/"><u>[New] Enhancing Social Media Strategy Facebook-WhatsApp Video Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-integrating-pre-recorded-content-into-facebook-live-shows/"><u>[Updated] 2024 Approved Integrating Pre-Recorded Content Into Facebook Live Shows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-mp3-capture-skype-calls-no-cost-for-2024/"><u>[Updated] Mastering MP3 Capture Skype Calls, No Cost for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-5-budget-friendly-camcorders-with-hd-quality/"><u>2024 Approved Top 5 Budget-Friendly Camcorders with HD Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-releases-new-drivers-boosting-windows-11-performance-on-hd-6950/"><u>AMD Releases New Drivers, Boosting Windows 11 Performance on HD 6950</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-chatbot-skills-gpt-versus-huggingface/"><u>Assessing Chatbot Skills: GPT Versus HuggingFace</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-screens-horizontal-boundaries/"><u>Balance Screen's Horizontal Boundaries</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-back-screen-color-fall-update-fix/"><u>Bringing Back Screen Color: Fall Update Fix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>Cinematic Wonders with Hero5 Black A Filmmaker's Companion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cut-down-windows-10-monitor-range/"><u>Cut Down Windows 10 Monitor Range</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-revolution-nvidias-latest-driver-upgrade-for-win10/"><u>Gaming Revolution: Nvidia's Latest Driver Upgrade for Win10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-sony-xperia-10-v-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Sony Xperia 10 V to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sound-mastery-pro-tips-for-effective-audiovisual-blending-audacity/"><u>In 2024, Sound Mastery Pro Tips for Effective Audiovisual Blending (Audacity)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/meeting-min-reqs-upgrading-hardware-for-driver-success/"><u>Meeting Min Reqs: Upgrading Hardware for Driver Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gfx-210-driver-enhancement-on-w10-os/"><u>NVIDIA GFX-210 Driver Enhancement on W10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-for-cpugpu-fan-synchronization/"><u>Strategies for CPU/GPU Fan Synchronization</u></a></li>
+</ul></div>
 

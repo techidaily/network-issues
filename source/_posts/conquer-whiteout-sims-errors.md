@@ -1,7 +1,7 @@
 ---
 title: Conquer Whiteout Sims Errors
-date: 2024-11-18T23:49:23.710Z
-updated: 2024-11-23T17:23:25.215Z
+date: 2024-11-29T01:45:53.335Z
+updated: 2024-12-03T01:22:28.628Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -82,7 +74,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
@@ -104,7 +96,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
@@ -121,6 +113,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
@@ -135,9 +131,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -174,16 +178,12 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
@@ -211,18 +211,21 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>[New] Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-shooting-in-the-dark-elevating-iphone-photos-with-shadows-for-2024/"><u>[Updated] Shooting in the Dark Elevating iPhone Photos with Shadows for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-asus-rog-phone-7-ultimate-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Asus ROG Phone 7 Ultimate Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/el-metodo-optimal-para-realizar-una-copia-de-seguridad-efectiva-antes-de-reestablecer-windows-11/"><u>El Método Optimal Para Realizar Una Copia De Seguridad Efectiva Antes De Reestablecer Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-win11-screen-disturbances/"><u>Ending Win11 Screen Disturbances</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flipped-screen-the-solution-found/"><u>Flipped Screen: The Solution Found</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-x100-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo X100 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-xr-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone XR? 5 Tips You Must Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-20-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 20 Pro? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revive-cursor-after-dark-windows-error/"><u>Revive Cursor After Dark Windows Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-frustration-ended-heres-how-to-fix-it/"><u>Zoom Frustration Ended: Here's How to Fix It</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-exceptional-7-cameras-elevating-online-educational-vlogs/"><u>[New] 2024 Approved Exceptional 7 Cameras Elevating Online Educational Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-final-cut-chroma-mastery/"><u>[New] 2024 Approved From Raw Footage to Final Cut Chroma Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-art-of-description-crafting-compelling-podcast-hooks/"><u>[Updated] The Art of Description Crafting Compelling Podcast Hooks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-chatgpt-anytime-anywhere-new-android-app-update/"><u>Access ChatGPT Anytime, Anywhere: New Android App Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-approaches-to-streamline-domestic-life/"><u>AI-Driven Approaches to Streamline Domestic Life</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breakthrough-in-windows-driver-amd-radeon-6950/"><u>Breakthrough in Windows Driver - AMD Radeon 6950</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-tactics-for-correcting-youtube-green-errors/"><u>Comprehensive Tactics for Correcting YouTube Green Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-init-fail-problem-addressed-and-solved/"><u>D3D Init Fail: Problem Addressed and Solved</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-12-frp-by-drfone-android/"><u>How Can We Bypass OnePlus 12 FRP?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-vector-editing-without-acid-pro/"><u>Mastering Vector Editing without ACID Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-reconfiguration-steps-dormant-gpu-screen-wnvidia/"><u>Simple Reconfiguration Steps: Dormant GPU Screen W/NVIDIA</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vulkan-missing-on-device/"><u>Vulkan Missing on Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-monitor-stabilization-completed-successfully/"><u>Win11 Monitor Stabilization, Completed Successfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-screen-flashing-or-flickering-solved/"><u>Windows 11 Screen Flashing Or Flickering [SOLVED]</u></a></li>
 </ul></div>
 

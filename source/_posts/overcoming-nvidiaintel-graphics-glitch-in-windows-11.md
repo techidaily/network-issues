@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2024-11-17T19:46:15.475Z
-updated: 2024-11-24T08:02:06.674Z
+date: 2024-11-25T19:50:56.859Z
+updated: 2024-12-03T02:24:44.398Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
  If you’ve upgraded to Windows 10, and you find that your **switchable graphics cards** on your laptop are not not working well, or you see a boot-loop, and some of you might even have black screen error during some games, you’re not alone. In some extreme case, you may find the HDMI stop working when there is some problem with the switchable graphic cards.
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
@@ -87,14 +91,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -102,7 +98,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -111,17 +107,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,19 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-simple-steps-to-change-iphones-call-alert-sounds/"><u>[New] Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-transforming-titles-best-ai-powered-podcast-name-makers-for-2024/"><u>[New] Transforming Titles Best AI-Powered Podcast Name Makers for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-inside-the-world-of-screencasts-understanding-fundamental-principles/"><u>[Updated] Inside the World of Screencasts Understanding Fundamental Principles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-insider-tips-for-documenting-your-favorite-games-on-ps4-for-2024/"><u>[Updated] Insider Tips for Documenting Your Favorite Games on PS4 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/boost-your-website-traffic-with-cookiebots-advanced-tracking-technology/"><u>Boost Your Website Traffic with Cookiebot's Advanced Tracking Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypass-graphics-snag-with-amd-fixes/"><u>Bypass Graphics Snag with AMD Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-infamous-windows-0x800704cf-network-issue-a-step-by-step-solution/"><u>Bypassing the Infamous Windows 0X800704CF Network Issue - A Step-by-Step Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/defeating-win11-blank-screen-anomaly/"><u>Defeating WIN11 Blank Screen Anomaly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-list-of-outstanding-kid-friendly-flicks-on-netflix/"><u>Exclusive List of Outstanding Kid-Friendly Flicks on Netflix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-c12-plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia C12 Plus Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-driver-conflict-on-newer-windows-version/"><u>Overcoming Driver Conflict on Newer Windows Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-unforeseen-system-shuts-in-win11/"><u>Preventing Unforeseen System Shuts in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-the-potential-amd-hd-6950-update-v20-on-windows-10/"><u>Unleashing the Potential: AMD HD 6950 Update v2.0 on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dell-laptop-screen-flickering/"><u>[SOLVED] Dell Laptop Screen Flickering</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focused-insights-the-best-camera-gimbals-for-iphones-androids-and-dslrs-1-10/"><u>[Updated] Focused Insights The Best Camera Gimbals for iPhones, Androids, and DSLRs #1-#10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smart-strategies-to-procure-photo-and-video-borders/"><u>[Updated] Smart Strategies to Procure Photo & Video Borders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[Updated] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/arlo-video-doorbell-analysis-watch-hear-and-secure-with-one-device/"><u>Arlo Video Doorbell Analysis: Watch, Hear, and Secure with One Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-newbie-empty-screen-dilemma/"><u>GPU Newbie: Empty Screen Dilemma</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effortlessly-update-surface-pcs-internal-settings/"><u>How-To: Effortlessly Update Surface PC's Internal Settings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-photo-and-video-display-apps-from-ix-to-ios12/"><u>In 2024, Best Photo & Video Display Apps From IX to IOS12</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/leading-edge-mp3-sync-service-at-no-cost-for-2024/"><u>Leading Edge MP3 Sync Service at No Cost for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/quick-guide-setting-up-your-pc-with-windows-10-via-usb-and-installing-on-m2-ssd/"><u>Quick Guide: Setting Up Your PC with Windows 10 via USB and Installing on M.2 SSD</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-displays-on-nvidia-gpus/"><u>Re-Enabling Displays on NVIDIA GPUs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974197492-seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-wow-bug-51900319/"><u>Troubleshooting WoW Bug #51900319</u></a></li>
 </ul></div>
 

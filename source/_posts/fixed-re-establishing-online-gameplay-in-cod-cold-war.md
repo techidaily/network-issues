@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Re-Establishing Online Gameplay in CoD Cold War"
-date: 2024-11-16T20:05:53.306Z
-updated: 2024-11-24T05:55:18.095Z
+date: 2024-11-29T23:23:14.734Z
+updated: 2024-12-02T18:17:28.839Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 5. **[Flush your DNS and use Google’s instead](#dns)**
 6. **[Make sure your Activision and Blizzard accounts are linked](#fix5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your game’s server status
 
  Game servers may sometimes go down and you cannot connect to online services. To check if that’s your case, visit the [Activision Online Services page](https://support.activision.com/uk/en/onlineservices) . Once you go there, take these steps:
@@ -41,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 2. If it shows all platforms are**ONLINE** . It means that there is an issue with your internet connection.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![call of duty black ops cold war online services](https://images.drivereasy.com/wp-content/uploads/2020/11/all-platforms-online.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Allow your game through Windows Firewall
 
@@ -60,14 +56,14 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 ![Windows Defender Firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allow an app through windows defender firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Now you need to scroll down until you can find**Call of Duty: Black Ops Cold War** . And also make sure it’s ticked for Private.  
 
 ![allow Call of Duty Black Ops Cold War through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-the-game-through-Windows-Firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your game isn’t on the list and it’s not ticked for Private, it means it doesn’t have access to the internet. If that’s your case, take these steps:
 
@@ -93,21 +89,22 @@ If you are not sure where your game is installed, take these steps:
 
  Granting an application with administrative rights can resolve many issues. If you constantly get the error message “Cannot Connect to Online Services”, you should run your game and launcher as administrator.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run your game as an administrator
 
 1. Open BLIZZARD.
 2. Click on**GAMES** and head to**Call of Duty: BOCW** . Click on**Options > Show in Explorer** . Then you’ll be brought to your game’s installation directory.  
 ![call of duty black ops cold war installation directory](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator.jpg)
 3. Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** . Right-click it and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Run Blizzard launcher as administrator
@@ -115,10 +112,6 @@ If you are not sure where your game is installed, take these steps:
 1. Exit your launcher.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/exit-BLIZZARD.jpg)
 2. On your keyboard, press the Windows logo key to open up the Start menu. Then type in**battle** . From the results, find the app**Battle.net** . Then click**Run as administrator** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
@@ -175,18 +168,26 @@ To see if a new DNS address helps, you can follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
@@ -197,13 +198,13 @@ To see if a new DNS address helps, you can follow the instructions below:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if COD Cold War’s can’t connect to server error remains. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your Activision and Blizzard accounts are linked
 
@@ -221,7 +222,7 @@ To see if a new DNS address helps, you can follow the instructions below:
 ![link with battle.net account](https://images.drivereasy.com/wp-content/uploads/2020/11/link-the-account-Battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve done these, launch your game and check if you can connect to online services.
@@ -253,24 +254,24 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-making-your-own-google-cardboard-for-immersive-vr/"><u>[New] Making Your Own Google Cardboard for Immersive VR</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-non-contact-sensing/"><u>[New] The Ultimate Guide to Non-Contact Sensing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-hacks-to-dodge-digital-lessons-at-home/"><u>2024 Approved Hacks to Dodge Digital Lessons at Home</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-add-music-in-premiere-pro/"><u>2024 Approved How To Add Music In Premiere Pro?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-black-window-in-win11-world/"><u>Banishing Black Window in Win11 World</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-connectivity-qualcomm-fixes-for-atheros-wifi/"><u>Enhanced Connectivity: Qualcomm Fixes for Atheros WiFi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-update-monitor-remains-black/"><u>GPU Update: Monitor Remains Black</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-typing-the-love-symbol-on-your-computer-keyboard/"><u>Guide: Typing the Love Symbol (❤️) on Your Computer Keyboard</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-earning-on-reddit-no-skills-required/"><u>In 2024, Step-by-Step Guide to Earning on Reddit - No Skills Required</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-calibration-completed/"><u>Kratos Calibration Completed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1724766343897-macx-dvd-ripper-pro/"><u>MacX DVD Ripper Pro公式ガイド - 最適なダウンロードと使用法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/msi-and-asrock-release-intel-cpu-stability-fixes-beta-version-now-available-on-asus-rog-boards/"><u>MSI and ASRock Release Intel CPU Stability Fixes - Beta Version Now Available on Asus ROG Boards</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-lcd-flicker-challenges/"><u>Overcoming LCD Flicker Challenges</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-windows-10-lacks-wireless-card-detection/"><u>Resolved: Windows 10 Lacks Wireless Card Detection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revive-windows-clarity-swiftly/"><u>Revive Windows Clarity Swiftly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/say-goodbye-to-freezes-fixing-video-pause-on-new-os/"><u>Say Goodbye to Freezes: Fixing Video Pause on New OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screensavers-silent-struggle/"><u>Screensaver's Silent Struggle</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>Updated 2024 Approved Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-windows-11-wi-fi-not-showing-up/"><u>[CORRECTED] Windows 11 Wi-Fi Not Showing Up</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-laughters-launchpad-7-funny-video-frameworks-for-comedians/"><u>[New] 2024 Approved Laughter's Launchpad 7 Funny Video Frameworks for Comedians</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-green-canvas-essential-templates-to-enhance-your-cinematographic-journey-for-2024/"><u>[New] Green Canvas Essential Templates to Enhance Your Cinematographic Journey for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>[New] In 2024, Snapchat Voice Overhaul Two Efficient Ways Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prepping-zones-vr-setup-guide-with-oculus/"><u>[New] Prepping Zones VR Setup Guide with Oculus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-sound-selection-secrets-top-7-free-effects-for-youtube/"><u>[Updated] 2024 Approved Sound Selection Secrets Top 7 Free Effects for YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-real-time-recording-for-gamers-explained/"><u>[Updated] In 2024, Real-Time Recording for Gamers Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-next-moment-examination-alternate-strategies/"><u>[Updated] Next Moment Examination Alternate Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-by-step-to-stunning-photomontages/"><u>2024 Approved Step-by-Step to Stunning Photomontages</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-displays-post-driver-implementation/"><u>Dark Displays Post-Driver Implementation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-working-state-for-non-supported-freesync/"><u>Enabling Working State for Non-Supported FreeSync</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Bootloader Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/initializing-failure-in-d3d-now-functional/"><u>Initializing Failure in D3D, Now Functional</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-wows-bug-519-solutions-step-by-step/"><u>Mastering WoW's Bug #519: Solutions Step-by-Step</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mitigating-uneven-hp-monitor-brightness/"><u>Mitigating Uneven HP Monitor Brightness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-enlightenment-eradicate-fallout-4-crashes/"><u>PC Enlightenment: Eradicate Fallout 4 Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974427795-step-up-graphics-capability-with-an-easy-intel-gpu-update-in-windows-10/"><u>Step up Graphics Capability with an Easy Intel GPU Update in Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-14-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi 14 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-potential-on-win10-latest-amd-radeon-hd-6950-driver-release/"><u>Unlocking Potential on Win10: Latest AMD Radeon HD 6950 Driver Release</u></a></li>
 </ul></div>
 

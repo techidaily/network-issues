@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lenovo Monitor Flicker
-date: 2024-11-22T19:59:03.198Z
-updated: 2024-11-24T08:55:46.108Z
+date: 2024-11-28T00:44:12.186Z
+updated: 2024-12-03T04:18:28.873Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -42,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -70,16 +74,12 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -90,11 +90,11 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -125,22 +125,17 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-captivating-visual-journeys-on-fb/"><u>[New] Top 5 Captivating Visual Journeys on FB</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chasing-the-cause-of-frozen-photobooth-videos/"><u>[Updated] Chasing the Cause of Frozen Photobooth Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-review-a-tale-of-an-unfulfilling-workday-as-spotted-by-zdnet/"><u>Apple Vision Pro Review: A Tale of an Unfulfilling Workday as Spotted by ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/armored-fix-in-video-card-driver/"><u>Armored Fix in Video Card Driver</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-how-to-turn-on-hyper-v-for-windows-11-users/"><u>Comprehensive Tutorial: How To Turn On Hyper-V for Windows 11 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-update-for-error-22-rectified/"><u>Driver Update for Error 22 Rectified</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-toms-computer-components-and-tech-reviews/"><u>Exploring the World of Tom's Computer Components and Tech Reviews</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-stop-and-start-strategies-fb-livestream-recovery-methods/"><u>In 2024, Stop and Start Strategies FB Livestream Recovery Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-control-panel-status-green/"><u>Nvidia Control Panel - Status Green</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-rpc-communication-failure-error-code-0xc0000098-on-your-pc-a-comprehensive-guide/"><u>Overcoming the RPC Communication Failure (Error Code 0Xc0000098) on Your PC – A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhauled-error-22-in-graphicsdriver/"><u>Overhauled Error #22 in GraphicsDriver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/persistent-wi-fi-connection-issues/"><u>Persistent Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/re-enabling-display-set-configurations-on-windows-107/"><u>Re-Enabling Display Set Configurations on Windows 10/7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silencing-the-fallout-4-errors-on-pc/"><u>Silencing the Fallout 4 Errors on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smoothly-sync-and-unite-videos-the-android-specialists-guide/"><u>Smoothly Sync and Unite Videos The Android Specialist's Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-on-recovering-graphics-cards-post-driver-updates-mytechsavvy/"><u>Step-by-Step Tutorial on Recovering Graphics Cards Post Driver Updates - MyTechSavvy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-experts-on-aspers-asmr-for-better-sleep/"><u>[New] Leading Experts on Asper's ASMR for Better Sleep</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-windows-11s-streaming-obstacles-successfully/"><u>Clearing Up Windows 11’S Streaming Obstacles Successfully</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959824766-get-the-latest-logitech-g203-drivers-compatible-with-windows-7-10-and-11/"><u>Get the Latest Logitech G203 Drivers - Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-your-monitors-layout-with-wins11-tools/"><u>Improve Your Monitor's Layout with Wins11 Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-high-end-online-locations-for-metallic-3d-lettering/"><u>In 2024, High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-nubia-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Nubia Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-vector-artistry-unleashed-picks-of-the-year-for-designers/"><u>In 2024, Vector Artistry Unleashed Picks of the Year for Designers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pedal-to-the-metal-mastering-crossfade-techniques/"><u>Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fixes-for-youtube-background-issues-green/"><u>Quick Fixes for Youtube Background Issues (Green)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-cursor-functionality-on-black-screen/"><u>Restore Cursor Functionality on Black Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-asus-internal-webcam-issues/"><u>Solving Asus Internal Webcam Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
 </ul></div>
 

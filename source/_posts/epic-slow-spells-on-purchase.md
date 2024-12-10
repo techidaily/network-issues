@@ -1,7 +1,7 @@
 ---
 title: Epic Slow Spells on Purchase
-date: 2024-07-12T00:13:22.642Z
-updated: 2024-07-13T00:13:22.642Z
+date: 2024-12-01T02:50:57.166Z
+updated: 2024-12-03T02:52:33.167Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use a wired connection
 
  To download large files efficiently, a wired connection is preferable over a wireless connection to the internet. Wireless connections are most susceptible to interference and aren’t as consistent as wired connections. Therefore, if possible, use a wired connection.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
  However, if you are not able to opt for a wired connection, check out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disconnect other devices
 
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
  When it’s all done, resume your download and check if it helps you fix the issue. If you’re still experiencing slow download speed or the download is stuck at a certain percent, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your network adapter driver
 
@@ -86,6 +98,10 @@ OR
  After updating your drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch Domain Name Systems (DNS)
 
@@ -118,6 +134,10 @@ Here we recommend using Google DNS:
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
@@ -148,11 +168,19 @@ Here’s how to do this:
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Press**Ctrl + S** to save the edits.
 
 When it’s all done, resume your download and it should be faster.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
 
@@ -162,8 +190,18 @@ When it’s all done, resume your download and it should be faster.
 2. Click the profile icon on the top right corner and then Settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Try downloading your games again.
 
 ---
@@ -183,8 +221,6 @@ When it’s all done, resume your download and it should be faster.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,6 +228,24 @@ When it’s all done, resume your download and it should be faster.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-steps-to-acquire-free-picture-frame-videos/"><u>[New] 2024 Approved Steps to Acquire Free Picture Frame Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-audio-recipe-converting-insta-vids-to-mp3/"><u>[New] In 2024, Audio Recipe Converting Insta Vids to Mp3</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unraveling-twitchs-mysteries-the-recording-connoisseurs-guide/"><u>[New] In 2024, Unraveling Twitch's Mysteries The Recording Connoisseur's Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-finding-the-perfect-screen-recorder-for-games/"><u>[Updated] In 2024, Finding the Perfect Screen Recorder for Games</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/drive/"><u>解决一Drive不同步问题：恢复损失数据的方法</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974331029-eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disoriented-windows-screen-placement/"><u>Fixing Disoriented Window's Screen Placement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-error-43-cleared/"><u>GPU Fix: Error 43 Cleared</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-s18-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo S18 Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/life-is-strange-true-colors-bug-resolved-a-step-by-step-guide/"><u>Life Is Strange: True Colors Bug Resolved – A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-horizons-in-workspace-tech-converging-hp-and-laptops-flawlessly/"><u>New Horizons in Workspace Tech - Converging HP and Laptops Flawlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mers-playbook-for-channel-creation-and-income-growth-for-2024/"><u>Newcomer’s Playbook for Channel Creation & Income Growth for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-vanishing-act-uncover-the-truth-with-device-hub/"><u>NVIDIA Vanishing Act? Uncover the Truth with Device Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-flipped-images-on-windows-10-interface/"><u>Solving Flipped Images on Windows 10 Interface</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-solves-qualcomm-adapter-connection-issue/"><u>Windows 10 Solves: Qualcomm Adapter Connection Issue</u></a></li>
+</ul></div>
 

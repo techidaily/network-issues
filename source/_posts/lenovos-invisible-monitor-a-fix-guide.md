@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Invisible Monitor: A Fix Guide"
-date: 2024-07-12T00:15:06.224Z
-updated: 2024-07-13T00:15:06.224Z
+date: 2024-11-28T04:01:59.293Z
+updated: 2024-12-03T04:56:24.330Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -83,6 +87,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -90,6 +98,10 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -100,6 +112,10 @@ Here is how to do it:
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
@@ -115,13 +131,25 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -170,8 +198,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,6 +205,22 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-blurred-background-the-beginners-guide-to-avoid-distractions/"><u>[New] 2024 Approved Blurred Background The Beginner's Guide to Avoid Distractions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[Updated] 2024 Approved Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transform-dull-game-captures-into-bright-shows-with-obs-tricks/"><u>[Updated] 2024 Approved Transform Dull Game Captures Into Bright Shows with OBS Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>[Updated] Step-by-Step Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726228006973-avimp4-movavi/"><u>優れたパフォーマンスで簡単にAVIファイルをMP4に変更! オンライン無料ツール - Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-restored-on-windows-11-by-qualcomm/"><u>Atheros Wi-Fi Drivers Restored on Windows 11 by Qualcomm</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4-runs-smooth-on-your-machine/"><u>Fallout 4 Runs Smooth on Your Machine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile/"><u>In 2024, Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rage-rush-revoked-snagging-sluggishly/"><u>Rage Rush Revoked: Snagging Sluggishly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-mysterious-monitor-darkness/"><u>Removing Mysterious Monitor Darkness</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-driver-management-download-compatible-amd-drivers-here/"><u>Simplify Driver Management: Download Compatible AMD Drivers Here</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-display-stop-win11-syncopation/"><u>Smooth Display: Stop Win11 Syncopation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963171667-step-by-step-tutorial-for-downloading-and-updating-synaptics-device-drivers-in-windows/"><u>Step-by-Step Tutorial for Downloading and Updating Synaptics Device Drivers in Windows.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Screen Flashing Or Flickering [SOLVED]
-date: 2024-07-12T00:16:06.723Z
-updated: 2024-07-13T00:16:06.723Z
+date: 2024-12-02T01:16:22.785Z
+updated: 2024-12-03T03:11:19.538Z
 tags:
   - win11
   - win10
@@ -43,11 +43,20 @@ Here is how to change the monitor refresh rate:
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -66,6 +75,10 @@ Here is how to change the monitor refresh rate:
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -89,7 +102,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
@@ -140,6 +161,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -158,8 +183,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +190,21 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-tips-for-downloading-instagram-media-on-ios-devices-for-2024/"><u>[New] Tips for Downloading Instagram Media on iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] In 2024, Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-magix-acid-pro-review-and-alternatives/"><u>[Updated] Magix ACID Pro Review & Alternatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensively-understanding-iphones-recording-feature/"><u>2024 Approved Comprehensively Understanding iPhone's Recording Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-compreeved-look-at-sharex-opinions-and-alternatives-for-2024/"><u>A Compreeved Look at ShareX Opinions & Alternatives for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-competition-how-does-llama-3-measure-up-to-gpt-n-4/"><u>Decoding the Competition: How Does Llama 3 Measure Up to GPT-N-4?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easily-elevate-intels-graphics-3000-on-ws11/"><u>Easily Elevate Intel's Graphics 3000 on WS11</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-end-to-stuttered-vids/"><u>Quick End to Stuttered Vids</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-pixel-stutter-in-displays/"><u>Rectify Pixel Stutter in Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resetting-asus-for-operational-webcam/"><u>Resetting Asus for Operational Webcam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-aspiring-prompt-engineers-roadmap-beginning-your-professional-path/"><u>The Aspiring Prompt Engineer's Roadmap: Beginning Your Professional Path</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-woes-the-story-of-vanished-signal-on-windows-11/"><u>Wi-Fi Woes: The Story of Vanished Signal on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-elevated-performance-discover-the-power-of-amd-radeon-hd-6950-update-v20/"><u>Windows 10 Elevated Performance: Discover the Power of AMD Radeon HD 6950 Update V2.0</u></a></li>
+</ul></div>
 

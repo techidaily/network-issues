@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7
-date: 2024-11-18T23:16:36.777Z
-updated: 2024-11-23T19:45:29.112Z
+date: 2024-11-28T23:17:21.748Z
+updated: 2024-12-02T21:47:11.716Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Check the router and cable situations
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
  This network issue is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.) 
@@ -107,6 +103,10 @@ Follow the steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 6: Run network commands
 
  Corrupted DNS cache matters can prevent you from connecting to the internet because it can cause a mismatch in your IP address. Therefore, you might need to flush the DNS cache to fix the internet that is connected but not working issue.
@@ -116,7 +116,7 @@ Follow the steps below:
 2. Now type in the following commands and hit **Enter**  after each one.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
@@ -126,7 +126,7 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -156,24 +156,21 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-management-strategies-for-fetal-alcohol-syndrome/"><u>[New] 2024 Approved Management Strategies for Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>[Updated] Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-steer-clear-of-virtual-reality-sickness/"><u>[Updated] Steer Clear of Virtual Reality Sickness</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-everything-you-need-to-know-about-youtube-basic-and-premium/"><u>2024 Approved Everything You Need to Know About YouTube Basic & Premium</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-compatibility-hurdle-for-nvidia-7025/"><u>Conquering Compatibility Hurdle for Nvidia 7025</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-init-unsuccessful-resolved/"><u>D3D Init: Unsuccessful, Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/drive-dilemma-screen-turned-onyx/"><u>Drive Dilemma: Screen Turned Onyx</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments/"><u>Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-phrases-to-fluency-utilizing-chatgpt-for-accurate-and-efficient-language-translations/"><u>From Phrases to Fluency: Utilizing ChatGPT for Accurate and Efficient Language Translations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gateway-broken-geforce-experience-opened/"><u>Gateway Broken: GeForce Experience Opened</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-c65withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco C65with/without a PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-search-of-next-level-video-streaming-alternatives/"><u>In Search of Next-Level Video Streaming Alternatives</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monstrous-error-hunter-worlds-glitch-fixed-fast/"><u>Monstrous Error: Hunter World's Glitch Fixed Fast</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-loading-issue-for-amd-on-windows-now-functioning-correctly/"><u>Overcome Loading Issue for AMD on Windows, Now Functioning Correctly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-7-reverse-image-problem/"><u>Rectifying Windows 7 Reverse Image Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-the-power-behind-4k-uhd-visuals/"><u>Revealing the Power Behind 4K UHD Visuals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-images-on-android-our-picks-for-the-5-best-editors-for-2024/"><u>Transform Your Images on Android Our Picks for the 5 Best Editors for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-upgrades-no-more-video-lags-or-pauses/"><u>Win10 Upgrades: No More Video Lags or Pauses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-avoiding-strikes-youtube-edition-for-2024/"><u>[New] Avoiding Strikes YouTube Edition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-analysis-hero4-black-system/"><u>2024 Approved Complete Analysis Hero4 Black System</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-epic-comic-strip-crafting-app/"><u>2024 Approved Epic Comic Strip Crafting App</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-tips-to-sharpen-video-calls-with-zoom-in-teams/"><u>2024 Approved Expert Tips to Sharpen Video Calls with ZOOM in Teams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/controlling-big-screen-size-in-win10/"><u>Controlling Big Screen Size in Win10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-software-final-user-agreement-for-winxdvd/"><u>Digiarty Software - Final User Agreement for WinXDVD</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-stretching-effect-from-wide-windows-10/"><u>Eliminated Stretching Effect From Wide Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunder-overhaul-complete/"><u>God of Thunder Overhaul Complete</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-activate-and-install-an-external-wireless-adapter-on-pcs/"><u>How To Activate & Install an External Wireless Adapter on PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-prime-lenses-for-stop-motion-visuals/"><u>In 2024, Prime Lenses for Stop Motion Visuals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-failed-driver-load-of-amd-in-windows-10-os/"><u>Overcoming Failed Driver Load of AMD in Windows 10 OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-in-to-windows-8s-secure-environment-graphics-driver-detachment/"><u>Step-In-To Windows 8’S Secure Environment: Graphics Driver Detachment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-flicker-phenomenon-no-more/"><u>Win11 Flicker Phenomenon, No More!</u></a></li>
 </ul></div>
 

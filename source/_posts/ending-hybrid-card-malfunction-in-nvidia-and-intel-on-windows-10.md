@@ -1,7 +1,7 @@
 ---
 title: Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10
-date: 2024-11-17T23:47:05.150Z
-updated: 2024-11-23T20:22:47.014Z
+date: 2024-11-28T05:03:10.942Z
+updated: 2024-12-03T02:11:58.638Z
 tags:
   - win11
   - win10
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -43,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -81,10 +89,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -92,7 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -100,10 +104,6 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -120,7 +120,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -142,20 +142,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insta-elite-blueprint-15-proven-tips-to-amass-thousands-of-followers-rapidly/"><u>[Updated] 2024 Approved The Insta Elite Blueprint 15 Proven Tips to Amass Thousands of Followers Rapidly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bursting-through-bandwidth-barriers-in-win1011/"><u>Bursting Through Bandwidth Barriers in Win10/11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debug-evasive-graphics-cards/"><u>Debug Evasive Graphics Cards</u></a></li>
-<li><a href="https://windows11.techidaily.com/disarming-the-windows-11-afc-error-camera-app-solution/"><u>Disarming the Windows 11 AFC Error: Camera App Solution</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/discovering-superior-alternatives-to-cyberlink-for-2024/"><u>Discovering Superior Alternatives to Cyberlink for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disentangled-power-management-options/"><u>Disentangled: Power Management Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-dilemma-solved-nvidia-stable-now/"><u>Display Dilemma Solved: Nvidia Stable Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/essential-steps-for-eradicating-uneven-screen-horizontal-lines/"><u>Essential Steps for Eradicating Uneven Screen Horizontal Lines</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hidden-visual-chipset-restore-nvidia-graphics-recognition/"><u>Hidden Visual Chipset: Restore NVIDIA Graphics Recognition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11x-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo K11x Phone with Broken Screen</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-play-7t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Play 7T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-podcast-branding-a-comprehensive-logo-guidebook-for-2024/"><u>Innovating Podcast Branding A Comprehensive Logo Guidebook for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-video-views-after-switching-to-win10/"><u>Optimizing Video Views After Switching to Win10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-network-consumption-with-svchostexe-netsvcs-tips-and-fixes/"><u>Troubleshooting High Network Consumption with svchost.exe (NETSVCS): Tips and Fixes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-harvest-high-quality-pics-the-free-edition-guide/"><u>[New] 2024 Approved Harvest High-Quality Pics The Free Edition Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-reversed-video-techniques-for-instagram-savvy-users/"><u>[Updated] 2024 Approved Reversed Video Techniques for Instagram Savvy Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-critical-look-at-marvels-avengers-striking-a-middle-ground/"><u>A Critical Look at Marvel's Avengers: Striking a Middle Ground</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-darkness-issue-with-mobile-computers/"><u>Correcting Darkness Issue with Mobile Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-halt-blackout/"><u>Driver Update Halt: Blackout</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-secure-your-brother-hl-l2360dw-drivers-now/"><u>Effortless Installation: Secure Your Brother HL-L2360DW Drivers Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-inaccessible-video-preferences-on-nvidia/"><u>Fixing Inaccessible Video Preferences on NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unwieldy-windows-11-monitors/"><u>Fixing Unwieldy Windows 11 Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/netgear-wireless-networking-driver-updates-where-and-how-to-download/"><u>NETGEAR Wireless Networking Driver Updates: Where and How to Download</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-issues-the-destiny-2-centipede-error-explained/"><u>Troubleshooting Common Issues: The Destiny 2 Centipede Error Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-my-go-to-essential-app-for-new-macs-just-went-on-sale-dont-miss-out/"><u>Unbeatable Deal: My Go-To Essential App for New Macs Just Went on Sale - Don't Miss Out!</u></a></li>
 </ul></div>
 

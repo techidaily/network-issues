@@ -1,7 +1,7 @@
 ---
 title: "Kratos Unleashed: Performance Perfected"
-date: 2024-07-12T00:15:49.920Z
-updated: 2024-07-13T00:15:49.920Z
+date: 2024-11-27T20:31:29.017Z
+updated: 2024-12-03T00:42:21.154Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify game files
 
  Verifying the game files is a useful fix to solve game issues, especially when game are crashing or having terrible performance. As a new game, God of War has new patches roll out almost every day, verifying your game files may resolve installation corruption that prevents you from being able to play the game.
@@ -67,6 +75,11 @@ Here’s how:
 2. Right-click **God of War** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
@@ -87,6 +100,10 @@ If this doesn’t fix the problem, take a look at the next fix.
 
 If the latest updates don’t work for you, try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War performance issues or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -99,6 +116,11 @@ If the latest updates don’t work for you, try the next method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -114,8 +136,6 @@ If the latest updates don’t work for you, try the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,6 +143,24 @@ If the latest updates don’t work for you, try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-microsofts-hololens-adventure-a-3d-visionary-experience/"><u>[New] 2024 Approved Microsoft’s HoloLens Adventure – A 3D Visionary Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie-for-2024/"><u>[New] Cut, Trim & Enhance YouTube Editing Tips for the Rookie for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-which-is-superior-gopro-v5-edge-or-keymission-in-2024/"><u>[New] Which Is Superior, GoPro V5 Edge or Keymission, In 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-windows-evolved-spotlight-on-latest-changes-for-2024/"><u>[New] Windows Evolved Spotlight on Latest Changes for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-graphics-efficiency-with-upgraded-intellgraphics-on-pc/"><u>Boost Graphics Efficiency with Upgraded IntellGraphics on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypass-the-freeze-expert-tips-for-unsticking-your-chromebook-in-8-ways/"><u>Bypass the Freeze: Expert Tips for Unsticking Your Chromebook in 8 Ways</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epic-escalation-steady-stream-struggle/"><u>Epic Escalation: Steady Stream Struggle</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-techniques-for-screen-casts-ezvide-edition-for-2024/"><u>Essential Techniques for Screen Casts - EZvide Edition for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-maximize-yandex-translate-in-video-translation-and-beyond/"><u>New 2024 Approved Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-r9-graphics-drivers-on-win10-finally/"><u>Resolving R9 Graphics Drivers on Win10, Finally</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-shutdown-alerts-discover-why-your-system-stops-running-and-how-to-repair-it/"><u>Troubleshooting Shutdown Alerts: Discover Why Your System Stops Running and How to Repair It</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728510058561-windows-1011/"><u>Windows 10/11・サーバー用ブルースリープ修正手引書 - 最新ベアメタルリカバリ</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-hurdle-smasher-fault-code-51900319/"><u>WoW Hurdle Smasher: Fault Code 51900319</u></a></li>
+</ul></div>
 

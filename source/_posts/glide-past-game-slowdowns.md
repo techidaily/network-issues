@@ -1,7 +1,7 @@
 ---
 title: Glide Past Game Slowdowns
-date: 2024-07-12T00:13:28.097Z
-updated: 2024-07-13T00:13:28.097Z
+date: 2024-11-25T21:53:34.051Z
+updated: 2024-12-03T03:44:09.552Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ## Glide Past Game Slowdowns
 
  Many users are reporting an ongoing lagging issue with the newly released game**Anthem** . Although this can be frustrating, this**Anthem Lags** problem can be easily fixed…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes For Anthem Lags
 
@@ -97,6 +101,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
@@ -108,6 +116,10 @@ So you can follow the steps below to disable CPU core parking:
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -126,6 +138,10 @@ So you can follow the steps below to disable CPU core parking:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -155,6 +171,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -171,6 +191,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
@@ -178,6 +202,10 @@ So you can follow the steps below to disable CPU core parking:
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -195,8 +223,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +230,20 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>[New] In 2024, The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-pro-tips-for-effortless-android-recording-for-2024/"><u>[Updated] 10 Pro Tips for Effortless Android Recording for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-accessible-video-ideas-the-simplest-10-concepts-everyone-can-learn-to-make/"><u>[Updated] Accessible Video Ideas The Simplest 10 Concepts Everyone Can Learn to Make</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[Updated] Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-and-qualcomm-wifi-seamlessly-work-in-win10/"><u>Atheros & Qualcomm WiFi Seamlessly Work in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-saving-of-screen-config-changes-on-windows-710/"><u>Enabling Saving of Screen Config Changes on Windows 7/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-dxgkrnlsys-crash-in-windows-blue-screen/"><u>Fixed dxgkrnl.sys Crash in Windows' Blue Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v29-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V29 Phone that is Locked?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unleash-creativity-boost-productivity-essential-tasks-for-the-modern-listener/"><u>In 2024, Unleash Creativity, Boost Productivity Essential Tasks for the Modern Listener</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opaque-output-offline-operations/"><u>Opaque Output, Offline Operations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-find-n3-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Find N3</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-hidden-vram-issues/"><u>Tackle Hidden VRAM Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-fall-screen-fix-after-cu-installation/"><u>Win10 Fall Screen Fix After CU Installation</u></a></li>
+</ul></div>
 

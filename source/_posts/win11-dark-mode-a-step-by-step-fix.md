@@ -1,7 +1,7 @@
 ---
 title: "Win11 Dark Mode: A Step-by-Step Fix"
-date: 2024-07-12T00:14:39.504Z
-updated: 2024-07-13T00:14:39.504Z
+date: 2024-11-26T23:05:37.320Z
+updated: 2024-12-02T18:27:52.824Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 6. [**Reset your PC**](#s6)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
 
@@ -73,6 +77,10 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -87,6 +95,11 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -98,6 +111,10 @@ If you’re on a laptop:
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -152,9 +169,17 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -168,9 +193,17 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -187,6 +220,10 @@ If you’re on a laptop:
  2) Type **settings**  in the search box at the bottom left corner of the desktop, then click **Settings**  in the menu that displays.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
 
@@ -210,8 +247,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +254,23 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-authentic-audience-growth-tricks-for-sustainable-views/"><u>[New] 2024 Approved Authentic Audience Growth Tricks for Sustainable Views</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cutting-edge-20-non-protected-pubg-images/"><u>[New] In 2024, Cutting-Edge 20 Non-Protected PUBG Images</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bring-back-your-wi-fi-in-windows-11-with-this-fix/"><u>Bring Back Your Wi-Fi in Windows 11 with This Fix</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-k11x-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo K11x Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resurrect-overlooked-nvidiaamd-on-computer/"><u>How To Resurrect Overlooked NVIDIA/AMD on Computer</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Plus Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-graphics-update-amds-radeon-hd-6950-on-windows/"><u>Latest Graphics Update: AMD's Radeon HD 6950 on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-reactivate-gpu-fans/"><u>Methods to Reactivate GPU Fans</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-honor-play-8t-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Honor Play 8T has been deleted.</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clever-way-to-compress-streamlined-windows-explorer/"><u>The Clever Way to Compress: Streamlined Windows Explorer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nokia-c12-plus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nokia C12 Plus Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-unseen-graphics-cards-expert-tips-from-yl-computing/"><u>Troubleshooting Unseen Graphics Cards: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/troubleshooting-windows-11-updates-top-strategies-for-seamless-installation/"><u>Troubleshooting Windows 11 Updates? Top Strategies for Seamless Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unmet-graphic-specs-in-overwatch-issue-addressed/"><u>Unmet Graphic Specs in Overwatch - Issue Addressed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-and-qualcomm-atheros-driver-harmony-achieved/"><u>Windows 10 & Qualcomm Atheros Driver Harmony Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-unavailable-armored/"><u>Xbox 360 Emulation Unavailable: Armored</u></a></li>
+</ul></div>
 

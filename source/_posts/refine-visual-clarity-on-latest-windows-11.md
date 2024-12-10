@@ -1,7 +1,7 @@
 ---
 title: Refine Visual Clarity on Latest Windows 11
-date: 2024-07-12T00:14:23.355Z
-updated: 2024-07-13T00:14:23.355Z
+date: 2024-11-27T18:08:03.961Z
+updated: 2024-12-02T23:34:23.664Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3d656cbcb6ed3f0737e87c15dfee4b95bfd8fca2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/3d656cbcb6ed3f0737e87c15dfee4b95bfd8fca2d
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -70,11 +78,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -100,6 +116,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -119,8 +139,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +146,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-far-cry-new-dawn-not-starting-dx12-error/"><u>[CORRECTED] Far Cry New Dawn Not Starting - DX12 Error</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elite-drone-recommendations-to-boost-gopro-video-impact/"><u>[New] 2024 Approved Elite Drone Recommendations to Boost GoPro Video Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-futures-echo-top-30-metaverse-sentiments-arvr-for-2024/"><u>[New] Future's Echo Top 30 Metaverse Sentiments [AR/VR] for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-live-and-learn-twitter-video-chronicles-of-23-for-2024/"><u>[New] Live and Learn Twitter Video Chronicles of '23 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximizing-channel-visibility-banner-size-and-art-dimensions-explained/"><u>[New] Maximizing Channel Visibility Banner Size and Art Dimensions Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-channel-wrap-up-strategies-free-youtube-end-screens-tutorial/"><u>2024 Approved Channel Wrap-Up Strategies - Free YouTube End Screens Tutorial</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-sfpr-levels-in-slow-motion-content/"><u>2024 Approved Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/battlezone-buffering-blunder/"><u>Battlezone Buffering Blunder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-blackout-on-newest-win11-version/"><u>Cure Blackout on Newest Win11 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/defeating-wow-error-no-519-with-ease/"><u>Defeating WoW Error No. 519 with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-11r-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus 11R to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-youtubes-green-screen-problems/"><u>Mastering YouTube's Green Screen Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-troubleshooting-path-inactive-gpu-nvidia-screen/"><u>Plain Troubleshooting Path: Inactive GPU, NVIDIA Screen</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193073-9781642797602-who-will-love-me/"><u>Who Will Love Me? | Free Book</u></a></li>
+</ul></div>
 

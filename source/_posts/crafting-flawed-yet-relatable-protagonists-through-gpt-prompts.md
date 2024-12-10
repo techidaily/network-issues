@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2024-11-19T12:28:38.245Z
-updated: 2024-11-24T05:34:00.237Z
+date: 2024-11-26T03:49:03.534Z
+updated: 2024-12-03T03:10:40.525Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
 
@@ -56,6 +56,10 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -65,6 +69,10 @@ You could use:
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
 
@@ -77,14 +85,6 @@ You could use:
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
 
@@ -102,12 +102,16 @@ You could use:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
@@ -115,10 +119,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -147,21 +147,22 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-aggregate-video-chat-and-multi-user-platforms/"><u>[New] 2024 Approved Best Aggregate Video Chat & Multi-User Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[New] A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-recording-movies-best-practices-with-windows-11/"><u>[New] Recording Movies Best Practices with Windows 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-audio-aesthetics-in-whatsapp-updates/"><u>[Updated] Audio Aesthetics in WhatsApp Updates</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138573587-9781469712864-called-by-many-names/"><u>Called by Many Names | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-quench-the-phosphor-glitches-of-acer-monitors/"><u>How to Quench the Phosphor Glitches of Acer Monitors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g73-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-fundamentals-of-captivating-video-scripts/"><u>In 2024, The Fundamentals of Captivating Video Scripts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/permission-granted-cuda-interface-access/"><u>Permission Granted: CUDA Interface Access</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rendering-issue-cg-failed-to-show/"><u>Rendering Issue: CG Failed to Show</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-complaint-by-nvidia-windows-operates-normally-now/"><u>Resolved Complaint by NVidia, Windows Operates Normally Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-alert-graphics-card-not-installed/"><u>System Alert: Graphics Card Not Installed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-fuzzy-visuals-in-far-cry-6/"><u>Tackling Fuzzy Visuals in Far Cry 6</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unexpected-display-settings-issue-windows-10-fixed/"><u>Unexpected Display Settings Issue: Windows 10 Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-no-fuss-techniques-for-valorant-sessions/"><u>[Updated] In 2024, Ultimate No-Fuss Techniques for Valorant Sessions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-iconic-acting-peek-vimeo/"><u>2024 Approved Iconic Acting Peek - Vimeo</u></a></li>
+<li><a href="https://win-community.techidaily.com/acer-erecover-bypassed-try-these-3-proven-strategies-for-a-smooth-restoration-process/"><u>Acer eRecover Bypassed? Try These 3 Proven Strategies for a Smooth Restoration Process</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-amd-freesync-offline-issues/"><u>Addressing AMD FreeSync Offline Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/codec-comparison-are-we-better-with-av1-or-vp9-in-2024/"><u>Codec Comparison Are We Better With AV1 or VP9, In 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayissue-on-winos-gfxui-solution-found/"><u>DisplayIssue on WInOS GfxUI (Solution Found)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-and-fast-conversion-of-windows-10-dvds-to-mp4-with-winx-free-dvd-ripper/"><u>Easy & Fast Conversion of Windows 10 DVDs to MP4 with WinX Free DVD Ripper</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-gameplay-fixing-civ-5-crashes/"><u>Enhancing Gameplay: Fixing Civ 5 Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-setup-error-resolved-on-win/"><u>Graphic Setup Error: Resolved on Win</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-11-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme 11 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-nailing-the-perfect-shot-expert-tips-for-android-time-lapse-videography/"><u>In 2024, Nailing the Perfect Shot Expert Tips for Android Time-Lapse Videography</u></a></li>
+<li><a href="https://network-issues.techidaily.com/patching-flaws-in-civilization-v-pc-edition/"><u>Patching Flaws in Civilization V PC Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/peeling-back-the-layers-10-realities-about-instagram-reels/"><u>Peeling Back the Layers 10 Realities About Instagram Reels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stepwise-procedure-enable-external-network-device-in-your-pcs/"><u>Stepwise Procedure: Enable External Network Device in Your PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updated-graphics-requirements-addressed-in-overwatch/"><u>Updated Graphics Requirements Addressed in Overwatch</u></a></li>
 </ul></div>
 

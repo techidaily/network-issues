@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Civ 5 Freezes on Computer
-date: 2024-11-21T16:00:22.051Z
-updated: 2024-11-24T10:51:07.599Z
+date: 2024-11-25T17:38:26.929Z
+updated: 2024-12-02T23:05:30.013Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 ![civ 5 crash](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13785c7d494-300x246.jpg)
 
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 fixes for the CIV 5 crashing problem
 
@@ -40,7 +44,7 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
@@ -49,7 +53,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -66,7 +70,7 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
@@ -86,14 +90,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
@@ -128,14 +128,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/basic-understanding-of-animate-graphic-content-for-2024/"><u>Basic Understanding of Animate Graphic Content for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-x-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guiding-users-through-screen-recovery-on-laptops/"><u>Guiding Users Through Screen Recovery on Laptops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-fix-for-smooth-video-viewing/"><u>Immediate Fix for Smooth Video Viewing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartwatch-face-off-can-the-samsung-galaxy-watch-ultra-outshine-the-apple-watch-ultra-tech-experts-review/"><u>Smartwatch Face-Off: Can the Samsung Galaxy Watch Ultra Outshine the Apple Watch Ultra? | Tech Experts' Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlined-guide-how-to-forget-your-computers-graphic-driver/"><u>Streamlined Guide: How to Forget Your Computer's Graphic Driver</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-pathway-to-peak-gaming-optimizing-your-ps4/"><u>The Pathway to Peak Gaming: Optimizing Your PS4</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-outils-de-gravure-de-cds-libres-trouvez-le-moins-cher/"><u>Top 5 Outils De Gravure De CDs Libres : Trouvez Le Moins Cher</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>[Updated] 2024 Approved Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[Updated] In 2024, The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-streamers-dilemma-obs-or-twitch-studio/"><u>2024 Approved The Ultimate Streamer's Dilemma OBS or Twitch Studio?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/automate-your-furry-friends-diet-using-arf-smart-pet-feeders/"><u>Automate Your Furry Friend’s Diet Using Arf Smart Pet Feeders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-facts-about-hulu-versus-hulu-plus-subscriptions/"><u>Essential Facts About Hulu Versus Hulu Plus Subscriptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-to-correct-laptop-screen-horizontal-distortions/"><u>Expert Tips to Correct Laptop Screen Horizontal Distortions</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-15-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 15 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-google-pixel-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Google Pixel 8 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>In 2024, From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-hurdle-smasher-fault-code-51900319/"><u>WoW Hurdle Smasher: Fault Code 51900319</u></a></li>
 </ul></div>
 

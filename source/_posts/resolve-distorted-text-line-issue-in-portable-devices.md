@@ -1,7 +1,7 @@
 ---
 title: Resolve Distorted Text Line Issue in Portable Devices
-date: 2024-07-12T00:13:38.969Z
-updated: 2024-07-13T00:13:38.969Z
+date: 2024-11-30T01:29:53.845Z
+updated: 2024-12-02T22:48:29.281Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
  If you ever have horizontal lines on your laptop screen, don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for horizontal lines on Windows 10, 8.1 and 7 issue
 
  Here are 3 fixes that have helped other users resolve the horizontal lines on laptop screen issue. You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 1. **[Update your graphics driver](#F1)**
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -64,9 +72,17 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### I’m using Windows 8 or 7
 
@@ -79,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -101,8 +121,6 @@ Featured image by rawpixel.com from Pexels
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +128,19 @@ Featured image by rawpixel.com from Pexels
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] 2024 Approved Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-secrets-to-finding-excellent-economic-pictures-online/"><u>[Updated] 2024 Approved Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-3-best-nintendo-switch-emulators-you-can-find/"><u>[Updated] Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elite-circuit-experiences-best-five-titles-for-2024/"><u>Elite Circuit Experiences Best Five Titles for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-s23plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel S23+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/internet-disconnection-dilemma/"><u>Internet Disconnection Dilemma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-graphics-hiccup-successfully-resolved/"><u>Nvidia Graphics Hiccup - Successfully Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refresh-intels-graphics-prowess-in-your-system-using-windows-10-update/"><u>Refresh Intel's Graphics Prowess in Your System Using Windows 10 Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplifying-smart-technology-an-introduction-to-ai/"><u>Simplifying Smart Technology: An Introduction to AI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-making-acer-displays-no-longer-flicker/"><u>Steps for Making Acer Displays No Longer Flicker</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-gif-making-software-showdown-for-2024/"><u>The Ultimate GIF Making Software Showdown for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
+</ul></div>
 

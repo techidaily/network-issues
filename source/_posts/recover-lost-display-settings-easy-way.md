@@ -1,7 +1,7 @@
 ---
 title: Recover Lost Display Settings, Easy Way
-date: 2024-11-22T17:00:16.646Z
-updated: 2024-11-24T04:38:29.986Z
+date: 2024-11-30T01:18:01.185Z
+updated: 2024-12-03T00:23:01.131Z
 tags:
   - win11
   - win10
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -53,23 +49,19 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -84,16 +76,24 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
@@ -122,17 +122,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-debating-platform-preferences-igtv-versus-youtube-video-sharing/"><u>[Updated] 2024 Approved Debating Platform Preferences IGTV Versus YouTube Video Sharing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-obs-masterclass-for-successful-instagram-broadcasts/"><u>[Updated] OBS Masterclass for Successful Instagram Broadcasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-inverted-display-in-windows-10/"><u>Addressing Inverted Display in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/avoid-wide-text-discrepaninas-tips-and-tricks-for-notebooks/"><u>Avoid Wide Text Discrepaninas: Tips and Tricks for Notebooks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dell-device-maintenance-upgrading-the-sm-bus-controller-software/"><u>Dell Device Maintenance: Upgrading the SM Bus Controller Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-recovery-after-issue-graphic-output-stable/"><u>Display Recovery: After Issue, Graphic Output Stable</u></a></li>
-<li><a href="https://network-issues.techidaily.com/efficient-removal-techniques-for-youtubes-green-screen-faults/"><u>Efficient Removal Techniques for Youtube's Green Screen Faults</u></a></li>
-<li><a href="https://facebook.techidaily.com/eliminating-red-flags-how-to-disable-pages-on-facebook/"><u>Eliminating Red Flags: How to Disable Pages on Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensuring-solidity-how-to-eliminate-porosities-in-your-3d-models/"><u>Ensuring Solidity: How to Eliminate Porosities in Your 3D Models</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-6-plus-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 6 Plus?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-firstrow-leisure-without-the-sports-commitment/"><u>In 2024, FirstRow Leisure Without the Sports Commitment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/synchronizing-nvidia-7025-with-windows-os/"><u>Synchronizing Nvidia 7025 with Windows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-mastery-pioneering-techniques-for-any-marketing-stage/"><u>[New] Facebook Mastery Pioneering Techniques for Any Marketing Stage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-efficient-onboarding-engaging-with-friends-via-instagram-live-for-2024/"><u>[Updated] Efficient Onboarding Engaging with Friends via Instagram Live for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-designs-premium-no-cost-ae-toolkit/"><u>2024 Approved Pinnacle Designs Premium, No-Cost AE Toolkit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoid-the-wi-fi-blackout-zone/"><u>Avoid the Wi-Fi Blackout Zone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/configuring-typing-accessibility-switching-the-screen-keyboard-settings-in-windows-11/"><u>Configuring Typing Accessibility: Switching the Screen Keyboard Settings in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cost-vs-content-the-case-for-joining-netflix/"><u>Cost Vs. Content: The Case for Joining Netflix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-dell-display-rapid-flashes/"><u>Ending Dell Display Rapid Flashes</u></a></li>
+<li><a href="https://win-updates.techidaily.com/fixing-the-sluggish-speed-of-your-cloned-windows-10-pc-top-7-proven-methods/"><u>Fixing the Sluggish Speed of Your Cloned Windows 10 PC: Top 7 Proven Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-module-revived-after-glitch/"><u>Graphics Module Revived After Glitch</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-video-cutting-and-joining-software-for-starters-2023-update/"><u>New Easy Video Cutting and Joining Software for Starters (2023 Update)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendo-showdown-a-comparison-of-the-switch-lite-and-switch-oled-models/"><u>Nintendo Showdown: A Comparison of the Switch Lite and Switch OLED Models</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-how-to-prevent-stardew-valley-from-crashing/"><u>Overcoming Stability Issues - How to Prevent Stardew Valley From Crashing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamped-qualcomm-wi-fi-drivers-work-on-windows-11-with-atheros/"><u>Revamped Qualcomm Wi-Fi Drivers Work on Windows 11 with Atheros</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-nightmare-buster-your-gaming-rescue-plan/"><u>RTX Nightmare Buster - Your Gaming Rescue Plan</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-non-spinning-gpu-fan-issues/"><u>Tackling Non-Spinning GPU Fan Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unblocking-windows-11-post-creators-fix/"><u>Unblocking Windows 11 Post-Creators Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-secret-to-smooth-graphic-switching-in-windows-11/"><u>Unveiling the Secret to Smooth Graphic Switching in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-you-need-to-know-about-metas-innovative-ai-technology/"><u>What You Need To Know About Meta’s Innovative AI Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-display-missing-configuration/"><u>Windows 11 Display Missing Configuration</u></a></li>
 </ul></div>
 

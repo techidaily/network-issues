@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Straighten Laptop Display
-date: 2024-11-22T18:38:26.107Z
-updated: 2024-11-23T16:03:05.956Z
+date: 2024-11-30T05:04:33.924Z
+updated: 2024-12-02T21:10:39.462Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 3. [**Gently wipe the screen with cotton balls**](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -44,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -76,7 +72,15 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
 
@@ -84,17 +88,13 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Adjust the screen resolution and see if the vertical lines disappear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -125,16 +125,24 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/alternate-fix-added-missing-amd-graphics-for-windows-10/"><u>[ALTERNATE FIX] Added Missing AMD Graphics for Windows 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones-for-2024/"><u>[New] Drone Racing All You Need to Know and 5 Best FPV Racing Drones for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagrams-peak-moments-a-how-to-guide/"><u>[New] In 2024, Mastering Instagram's Peak Moments A How-To Guide</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-interface-error-cleared-running-smoothly/"><u>Graphic Interface Error Cleared, Running Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-screen-key-doesnt-work-on-windows-11-and-10/"><u>How to Fix 'Print Screen Key Doesn't Work on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-success-story-no-hurdles-for-nvidia/"><u>Installation Success Story: No Hurdles for NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shattering-screen-shimmer-on-win11/"><u>Shattering Screen Shimmer on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-eradicate-lenovo-screen-flashes/"><u>Steps to Eradicate Lenovo Screen Flashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-tiff-en-format-bmp-sur-ligne-movavi/"><u>Transformer Gratuitement Un Fichier TIFF en Format BMP Sur Ligne - Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transformative-tiktok-techniques-unveiled/"><u>[New] In 2024, Transformative TikTok Techniques Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>[New] Speedy Transmission Techniques Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-swapping-video-content-in-android/"><u>[Updated] Techniques for Swapping Video Content in Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/advanced-displays-unseen-windows-11-issue/"><u>Advanced Displays Unseen: Windows 11 Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/better-microsoft-bd-performance-for-windows-versions-1087/"><u>Better Microsoft BD Performance for Windows Versions 10/8/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/controlling-vast-windows-10-panels/"><u>Controlling Vast Windows 10 Panels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enabled-enhance-your-website-traffic-with-our-advanced-analytics-tools/"><u>Cookiebot-Enabled: Enhance Your Website Traffic with Our Advanced Analytics Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-installation-of-wi-fi-adapter-on-desktop-computers-tutorial-guide/"><u>Easy Installation of Wi-Fi Adapter on Desktop Computers - Tutorial Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-techniques-for-optimizing-prints-with-photoshop/"><u>Essential Techniques for Optimizing Prints with Photoshop</u></a></li>
+<li><a href="https://games-able.techidaily.com/historical-heartbeat-discovering-the-best-11-ww2-simulators/"><u>Historical Heartbeat: Discovering the Best 11 WW2 Simulators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-htc-u23-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track HTC U23 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-update-intel-graphics-driver-in-windows-7/"><u>How to Update Intel Graphics Driver in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/internets-disconnection-dance/"><u>Internet's Disconnection Dance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-internet-potential-with-the-netgear-nighthawk-x10-ad7200-a-complete-performance-review/"><u>Unleashing Internet Potential with the Netgear Nighthawk X10 AD7200: A Complete Performance Review</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-ultimate-mp3-generation-suite-seamless-free-conversion-of-mpa-audio-archives-to-mp3-format-for-2024/"><u>Updated Ultimate MP3 Generation Suite Seamless Free Conversion of MPA Audio Archives to MP3 Format for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-error-successful-gpu-creation/"><u>Win Error: Successful GPU Creation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-resolution-optimization-achieved/"><u>Win10 Resolution Optimization Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-stabilized-no-more-flickers/"><u>Win11 Display Stabilized - No More Flickers</u></a></li>
 </ul></div>
 
