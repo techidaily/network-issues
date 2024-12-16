@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet"
-date: 2024-12-05T17:29:34.470Z
-updated: 2024-12-09T18:25:01.648Z
+date: 2024-12-08T23:38:35.331Z
+updated: 2024-12-16T10:27:24.706Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 6. **[Refresh IP address](https://tools.techidaily.com/drivereasy/download/)**
 
  You may not need to try them all. Just work your way down the list until you find the one that works. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why is my Zoom internet connection unstable?
 
@@ -73,7 +77,7 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 2. Click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-2.jpg)
@@ -82,21 +86,17 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-3.jpg)
 4. Click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 11
 
 1. Right-click the network icon on the bottom-right corner of your desktop menu bar and select**Diagnose network problems** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/04/network-diagnostic.png)
 2. The network troubleshooter will then run.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Apply any fix if it finds any to see if it helps.
 
@@ -118,7 +118,7 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -132,10 +132,6 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Fix 4 – Reboot modem
 
  Rebooting the device is one of the easiest and most common ways to troubleshoot what isn’t working probably. Since a modem is a hardware device providing internet access, you can try to reboot it. To do that:
@@ -148,10 +144,6 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 Hope this trick works for you. If not, continue to the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 5 – Restart router
 
@@ -167,6 +159,10 @@ Hope this trick works for you. If not, continue to the next solution.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 6 – Refresh IP address
 
  If none of the above methods have eliminated the Zoom error, try refreshing your IP address to tackle it.
@@ -175,12 +171,16 @@ Hope this trick works for you. If not, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-5.jpg)
 2. Copy and paste**ipconfig /release** on Command Prompt, and then hit**Enter** . Wait for the cursor appear again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Copy and paste**ipconfig /renew** . Press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-7.jpg)
 4. **Restart** your computer and launch Zoom for a test.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -206,24 +206,22 @@ Hope this trick works for you. If not, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ontent-creation-in-todays-revenue-landscape-for-2024/"><u>[New] Content Creation in Today’s Revenue Landscape for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-becoming-a-wise-trader-top-video-tutorials/"><u>[Updated] 2024 Approved Becoming a Wise Trader Top Video Tutorials</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-your-vocal-image-for-instagrams-dynamic-features/"><u>[Updated] Crafting Your Vocal Image for Instagram’s Dynamic Features</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-stellar-streamers-summit-global-subscriber-counts-showcased/"><u>[Updated] In 2024, Stellar Streamers' Summit Global Subscriber Counts Showcased</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-unveiling-the-best-purchasers-of-monetized-youtube-channels/"><u>2024 Approved Unveiling the Best Purchasers of Monetized YouTube Channels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-failed-window-graphics-device-linkage/"><u>Corrected Failed Window Graphics Device Linkage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake/"><u>Correcting Aspect Ratio Mistake</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-open-source-image-enhancement-software/"><u>Essential Open Source Image Enhancement Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hd-6950-graphics-update-amds-new-driver-for-increased-windows-11-performance/"><u>HD 6950 Graphics Update: AMD's New Driver for Increased Windows 11 Performance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x50-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X50 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone X/iPad Without Computer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamlabs-rival-tools-unveiled/"><u>In 2024, Streamlabs' Rival Tools Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/premier-6-titans-the-mega-model-arena/"><u>Premier 6 Titans: The Mega-Model Arena</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-low-quality-textures-for-island-adventure/"><u>Rectifying Low-Quality Textures for Island Adventure</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-ripple-on-windows-7-screens/"><u>Rectifying Ripple on Windows 7 Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reestablishing-function-in-disabled-amd-freesync/"><u>Reestablishing Function in Disabled AMD FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-obstacles-fixing-drivers-of-r9-on-win10/"><u>Removing Obstacles: Fixing Drivers of R9 on Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-fix-no-window-fullscreen-in-win11/"><u>Screen Fix: No Window Fullscreen in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tighten-monitor-sharpness-settings/"><u>Tighten Monitor Sharpness Settings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exclusive-guide-to-legal-gaming-music-without-price-tag/"><u>[Updated] 2024 Approved Exclusive Guide to Legal Gaming Music Without Price Tag</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-synching-worlds-instagram-to-tiktok-essentials/"><u>[Updated] 2024 Approved Synching Worlds Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-advanced-practices-for-capturing-iptv-visuals/"><u>[Updated] In 2024, Advanced Practices for Capturing IPTV Visuals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-online-calling-applications-for-202/"><u>Discover the Ultimate List of Free Online Calling Applications for 202지</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974753740-experience-vivid-graphics-with-a-simple-update-to-intel-hd-graphics-3000/"><u>Experience Vivid Graphics with a Simple Update to Intel HD Graphics 3000.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-gpu-oversight-a-compreenasian-guide/"><u>Fixing GPU Oversight: A Compreenasian Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-15-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 15 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211266220-9798887936321-moment-of-the-broken-covenant/"><u>Moment of the Broken Covenant | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/monster-hunter-stories-2-wings-of-ruin-why-its-not-starting-up-and-how-to-rectify-the-problem/"><u>Monster Hunter Stories 2: Wings of Ruin - Why It's Not Starting Up & How to Rectify the Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-screen-disruptions-with-effective-fixes/"><u>Quelling Screen Disruptions with Effective Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-gpos-ensuring-compliance-on-modern-windows/"><u>Revitalizing GPOs: Ensuring Compliance on Modern Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-resize-failure-in-windows-10-now-successful/"><u>Screen Resize Failure in Windows 10, Now Successful</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-the-win11-cursor-vanishing-act/"><u>Tackling the Win11 Cursor Vanishing Act</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content-for-2024/"><u>The Art of Engaging Crafting Compelling Reddit Content for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-performance-windows-11-and-amd-radeon-r9/"><u>Unleashing Performance: Windows 11 & AMD Radeon R9</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-end-of-black-outage/"><u>Windows 11: End of Black Outage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zap-anthem-hiccups-swift-fixes/"><u>Zap Anthem Hiccups: Swift Fixes</u></a></li>
 </ul></div>
 
