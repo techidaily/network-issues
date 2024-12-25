@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'WDF Violation' Critical Stop Error in Windows 11, 10, 8 &
-date: 2024-12-09T19:51:17.686Z
-updated: 2024-12-15T22:51:03.883Z
+date: 2024-12-21T03:29:39.928Z
+updated: 2024-12-25T04:53:36.082Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When prompted to provide administrator permission, click **Yes** . 
 
  2) Type**verifier** in the command prompt window. Then hit**Enter** . 
@@ -76,7 +72,7 @@ When prompted to provide administrator permission, click **Yes** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910349670aa3.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Choose**Create standard settings** and then click**Next** to continue. 
@@ -87,10 +83,14 @@ When prompted to provide administrator permission, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59103553b4fa3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the detect process finishes, just follow the instructions to get rid of the WDF\_VIOLATION blue screen error fixed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Run a Windows repair
@@ -116,7 +116,7 @@ Here’s how to use Fortect to run a Windows repair:
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team. 
@@ -132,14 +132,14 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
@@ -163,22 +163,18 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nalyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[New] Analyzing Youtube AdRevenue Average Payments by Thousands of Views</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cutting-edge-approaches-to-mov-file-recordings-on-windows-10/"><u>[New] In 2024, Cutting-Edge Approaches to MOV File Recordings on Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-slow-motion-spectrum-comprehensive-slomo-app-review-2024/"><u>[New] The Slow Motion Spectrum Comprehensive SloMo App Review, 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974529267-achieve-superior-graphical-performance-update-intel-hd-3000-for-windows-10-now/"><u>Achieve Superior Graphical Performance: Update Intel HD 3000 for Windows 10 Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieved-amds-windows-10-driver-load-problem-now-solved/"><u>Achieved: AMD's Windows 10 Driver Load Problem Now Solved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amds-windows-11-update-improved-performance-for-hd-6950-gpu/"><u>AMD's Windows 11 Update: Improved Performance for HD 6950 GPU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/customize-windows-11-screen-resolution/"><u>Customize Windows 11 Screen Resolution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dall-e-3-imagery-seamless-conversion-from-webp-to-your-preferred-image-type/"><u>DALL-E 3 Imagery: Seamless Conversion From WebP to Your Preferred Image Type!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-s17t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo S17t Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-c51-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme C51 to Protect Your Individual Information</u></a></li>
-<li><a href="https://network-issues.techidaily.com/prevent-crt-screen-blinks-abruptly/"><u>Prevent CRT Screen Blinks Abruptly</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a60-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A60 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-window-frame-straightness/"><u>Rectify Window Frame Straightness</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/spins-that-stun-the-ultimate-manual-for-flipping-photos-on-instagram-platforms/"><u>Spins That Stun The Ultimate Manual for Flipping Photos on Instagram Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumph-over-nvidia-and-intels-switchable-graphics-in-latest-win11-patch/"><u>Triumph Over Nvidia & Intel's Switchable Graphics in Latest Win11 Patch</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y17s-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y17s Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-restoration-from-shadow-blackout/"><u>Win11 Restoration From Shadow Blackout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsoft-basic-render-driver-issues-in-windows-111087/"><u>[FIXED] Microsoft Basic Render Driver Issues in Windows 11/10/8/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-screen-responds-post-glitch/"><u>[Fixed]: Screen Responds Post Glitch</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quickening-vimeo-streaming-time/"><u>[New] 2024 Approved Quickening Vimeo Streaming Time</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-restore-lost-fb-watch-video-button/"><u>[Updated] Restore Lost FB Watch Video Button</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-enhance-intel-graphics-3000-via-windows-10-driver-upgrade/"><u>Effortlessly Enhance Intel Graphics 3000 via Windows 10 Driver Upgrade.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hasten-intels-graphics-update-for-ws11-efficiency/"><u>Hasten Intel's Graphics Update for WS11 Efficiency</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-smart-8-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix Smart 8 online without jailbreak</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>In 2024, Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-shape-up-your-videos-easy-resizing-and-cropping-techniques/"><u>New Shape Up Your Videos Easy Resizing and Cropping Techniques</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resoudre-le-probleme-du-blocage-de-windows-11-tablette-6-techniques-utiles-et-simples/"><u>Résoudre Le Problème Du Blocage De Windows 11 Tablette : 6 Techniques Utiles Et Simples</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tech-support-resolved-case/"><u>Tech Support - Resolved Case</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-fix-overcoming-no-sound-glitches-in-playerunknowns-battlegrounds-pubg/"><u>The Complete Fix: Overcoming No Sound Glitches in PlayerUnknown's Battlegrounds (PUBG)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uniting-windows-7-and-geforce-experience/"><u>Uniting Windows 7 and GeForce Experience</u></a></li>
 </ul></div>
 

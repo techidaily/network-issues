@@ -1,7 +1,7 @@
 ---
 title: Where Are My Displays in Windows 11?
-date: 2024-12-13T10:10:51.170Z
-updated: 2024-12-15T18:28:27.140Z
+date: 2024-12-20T20:56:33.804Z
+updated: 2024-12-24T17:14:04.297Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
@@ -80,16 +84,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
@@ -100,7 +100,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
@@ -122,20 +122,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-comprehensive-list-of-8-budget-friendly-srt-services/"><u>[New] A Comprehensive List of 8 Budget-Friendly SRT Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-fallout-4-crashing-on-pc-easily/"><u>[Solved] Fallout 4 Crashing on PC [Easily]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhancing-video-quality-callout-techniques-for-engaging-edits/"><u>[Updated] Enhancing Video Quality Callout Techniques for Engaging Edits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-guide-iphone-picture-perfection-for-2024/"><u>[Updated] Step-by-Step Guide IPhone Picture Perfection for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/a-step-by-step-guide-mastering-photo-restoration-with-stellar-repair-v8-on-windows/"><u>A Step-by-Step Guide: Mastering Photo Restoration with Stellar Repair v8 on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correct-overseen-graphics-setup/"><u>Correct Overseen Graphics Setup</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/free-toolkit-for-unrestricted-story-archiving-for-2024/"><u>FREE Toolkit for Unrestricted Story Archiving for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gaming-triumph-crashed-game-repaired-swiftly/"><u>Gaming Triumph: Crashed Game Repaired Swiftly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-compatibility-success-for-nvidia-install/"><u>Hardware Compatibility Success for NVIDIA Install</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a78-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A78</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-kodi-media-center-multimedia-alternative-for-pcs/"><u>In 2024, Kodi Media Center Multimedia Alternative for PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-graphics-card-match-overwatch-update-fixed-issue/"><u>No Graphics Card Match - Overwatch Update Fixed Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-the-beast-resolving-fallout-4-pc-problems/"><u>Taming the Beast: Resolving Fallout 4 PC Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-26-premium-and-gratis-pc-tidy-up-tools-of-2024/"><u>Top 26 Premium and Gratis PC Tidy-Up Tools of 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtubes-creative-playground-explained-with-ease/"><u>[New] 2024 Approved YouTube's Creative Playground Explained with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-seamless-ages-shifting-scenes/"><u>[Updated] Achieving Seamless Ages Shifting Scenes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-digital-video-capture-a-new-eras-insight/"><u>[Updated] In 2024, Digital Video Capture A New Era's Insight</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-gentle-volume-alteration-using-fl-studio-for-2024/"><u>Achieving Gentle Volume Alteration Using FL Studio for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-troubleshoot-driver-detection-errors-cleared-in-win10/"><u>AMD Troubleshoot: Driver Detection Errors Cleared in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clarifying-concepts-behind-4k-extraordinary-definition/"><u>Clarifying Concepts Behind 4K Extraordinary Definition</u></a></li>
+<li><a href="https://win-trending.techidaily.com/convert-and-save-top-tube-streaming-content-effortless-mp4-downloads-with-sprewdl-tool/"><u>Convert and Save Top Tube Streaming Content: Effortless MP4 Downloads with SPREWDL Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-dim-laptop-screen-problem-in-lenovo/"><u>Correcting Dim Laptop Screen Problem in Lenovo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/get-to-know-vrecorder-the-perfect-installation-process-for-2024/"><u>Get to Know VRecorder The Perfect Installation Process for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-innovating-visual-stories-through-hyperlapse/"><u>In 2024, Innovating Visual Stories Through Hyperlapse</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-improved-graphics-driver-for-win10s-nvidia-210/"><u>New Improved Graphics Driver for Win10's Nvidia 210</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-incompatibility-fixed-graphics-update-successful/"><u>Overwatch Incompatibility Fixed: Graphics Update Successful</u></a></li>
 </ul></div>
 

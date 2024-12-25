@@ -1,7 +1,7 @@
 ---
 title: "Detected & Armored: OpenGL Bug in Nvidia Driver Armor"
-date: 2024-12-10T17:44:36.851Z
-updated: 2024-12-16T10:07:56.926Z
+date: 2024-12-21T05:42:06.753Z
+updated: 2024-12-25T04:13:20.489Z
 tags:
   - win11
   - win10
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your NVIDIA graphics driver](#m1)**
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -57,10 +57,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -70,7 +66,7 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
@@ -87,10 +83,6 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -101,13 +93,13 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -116,9 +108,17 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,20 +144,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[New] 2024 Approved Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-spys-guide-to-unearthing-hidden-youtube-videos/"><u>[New] 2024 Approved The Spy's Guide to Unearthing Hidden YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-clearing-imagery-the-canva-method-for-clean-bounds/"><u>[Updated] 2024 Approved Clearing Imagery The Canva Method for Clean Bounds</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>[Updated] In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-face-off-frenzy-legendary-sj6-vs-xiaomis-four-k-creators/"><u>[Updated] In 2024, Face-Off Frenzy Legendary SJ6 Vs. Xiaomi's Four-K Creators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-steam-playback-for-flawless-replays/"><u>2024 Approved Streamline Your Steam Playback for Flawless Replays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/culmination-of-computer-glare-fluctuations-averted/"><u>Culmination of Computer Glare Fluctuations Averted</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-switchable-graphics-problem-a-success-for-windows-11-users/"><u>End of Switchable Graphics Problem - A Success for Windows 11 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guide-to-reactivate-unseen-graphics-card-in-pc/"><u>Guide to Reactivate Unseen Graphics Card in PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-note-30-vip-racing-edition-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Note 30 VIP Racing Edition with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reactivating-nvidia-monitors-and-displays-settings/"><u>Reactivating NVIDIA Monitors and Displays Settings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedy-frequent-display-flickering/"><u>Remedy Frequent Display Flickering</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx-3080-takedown-fixing-game-failures/"><u>RTX 3080 Takedown: Fixing Game Failures</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/stunning-minecraft-wallpapers-and-graphics-discover-your-perfect-theme-with-yl-computing/"><u>Stunning Minecraft Wallpapers & Graphics - Discover Your Perfect Theme with YL Computing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-check-no-cards-registered/"><u>System Check: No Cards Registered</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-individuality-at-your-fingertips-setting-your-own-tones-for-android-devices/"><u>[New] 2024 Approved Individuality at Your Fingertips Setting Your Own Tones for Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-remarkable-appraisal-and-other-recommendations/"><u>[New] Remarkable Appraisal & Other Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-selecting-the-right-gopro-features-at-your-fingertips/"><u>[Updated] 2024 Approved Selecting the Right Gopro Features at Your Fingertips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-fresh-perspective-on-sony-blu-ray-s6500-features-for-2024/"><u>[Updated] A Fresh Perspective on Sony Blu-Ray S6500 Features for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-collaboration-guide-to-find-partners-and-make-collab-videos/"><u>[Updated] YouTube Collaboration Guide to Find Partners and Make Collab Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-2023-free-compre-folios/"><u>2024 Approved Innovative 2023 Free, Compre Folios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/black-screen-after-installing-graphics-card-driver/"><u>Black Screen After Installing Graphics Card Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehending-the-scope-of-4k-uhd-display/"><u>Comprehending the Scope of 4K UHD Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-roblox-playback-on-desktop/"><u>Enhance Roblox Playback on Desktop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-exceptional-environments-the-best-screen-snapshots/"><u>In 2024, Exceptional Environments The Best Screen Snapshots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-micromobility-sphere-key-dates-breaking-stories-gossip-and-essential-details/"><u>Navigating the Micromobility Sphere: Key Dates, Breaking Stories, Gossip & Essential Details</u></a></li>
+<li><a href="https://network-issues.techidaily.com/render-failure-no-gpu-found/"><u>Render Failure: No GPU Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-wi-fi-integration-guide-from-hardware-to-os-compatibility/"><u>Seamless Wi-Fi Integration Guide: From Hardware to OS Compatibility</u></a></li>
 </ul></div>
 

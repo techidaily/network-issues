@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2024-12-13T19:10:28.544Z
-updated: 2024-12-16T05:44:04.721Z
+date: 2024-12-20T01:30:03.334Z
+updated: 2024-12-25T02:00:37.247Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 **Ping spikes** **when you’re playing Fortnite** ? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily… 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 1. **[Restart Fortnite](https://tools.techidaily.com/drivereasy/download/)**
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart Fortnite
 
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
@@ -39,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Reboot your network
@@ -51,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -64,6 +72,10 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -74,15 +86,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -110,10 +114,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
 ## Fix 5: Disable the proxy server
@@ -128,12 +128,16 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
 
@@ -149,10 +153,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
@@ -196,17 +196,19 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mac-screen-casting-and-microphone-integration/"><u>[New] In 2024, Mac Screen Casting and Microphone Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-error-in-win11-update/"><u>Dealing with C1900101 Error in Win11 Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-ways-to-identify-viewers-on-your-youtube-channel/"><u>Discover Ways to Identify Viewers on Your YouTube Channel</u></a></li>
-<li><a href="https://facebook.techidaily.com/englands-top-sportsmen-reject-cyber-abuse-on-digital-networks/"><u>England's Top Sportsmen Reject Cyber Abuse on Digital Networks</u></a></li>
-<li><a href="https://win-popular.techidaily.com/extraction-de-donnees-a-partir-dun-disque-dur-externe-chez-iomega-guide-complet/"><u>Extraction De Données À Partir D'un Disque Dur Externe Chez Iomega : Guide Complet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-10-proplus-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 10 Pro+ 5G Phone?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974658286-quick-fix-rectify-apex-legends-glitches-now/"><u>Quick Fix: Rectify Apex Legends Glitches Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-system-5-must-have-pc-tools/"><u>Streamline Your System: 5 Must-Have PC Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unifying-geforce-and-win11-hardware-interaction/"><u>Unifying GeForce & Win11 Hardware Interaction</u></a></li>
-<li><a href="https://network-issues.techidaily.com/usb-graphics-card-fan-fixing-guide/"><u>USB Graphics Card Fan Fixing Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-woes-in-windows-11-heres-the-answer/"><u>Wi-Fi Woes in Windows 11? Here's the Answer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-visual-virtuosos-curating-the-best-10-camera-optics/"><u>[New] In 2024, Visual Virtuosos Curating the Best 10 Camera Optics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-5-best-4k-gaming-monitors/"><u>[New] Top 5 Best 4K Gaming Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-cod-cold-wars-network-issues/"><u>[TROUBLESHOOTED]: CoD Cold War's Network Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-convert-live-facebook-videos-to-mp3s-on-the-fly/"><u>[Updated] Convert Live Facebook Videos to MP3s on the Fly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-soundscout-audio-critique-adventure/"><u>2024 Approved SoundScout Audio Critique Adventure</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-essential-handbook-for-incorporating-music-into-ppt/"><u>2024 Approved The Essential Handbook for Incorporating Music Into PPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-setup-flaw-eliminated/"><u>Direct3D Setup Flaw Eliminated</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-amd-eft-graphical-snags/"><u>Fix AMD EFT Graphical Snags</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-samsungs-guide-to-crafting-captivating-time-lapses-with-smartphones/"><u>In 2024, Samsung's Guide to Crafting Captivating Time-Lapses with Smartphones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-winning-youtube-affiliate-deals-famebits-guide-to-earnings/"><u>In 2024, Winning YouTube Affiliate Deals FameBit's Guide to Earnings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-installation-for-nvidia-hardware-supported/"><u>Seamless Installation for Nvidia Hardware Supported</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-video-glitches-post-windows-11-launch/"><u>Tackling Video Glitches Post-Windows 11 Launch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-elusive-stable-wi-fi-connection/"><u>The Elusive Stable Wi-Fi Connection</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-time-lapse-mastery-the-top-apps-for-iphone-and-android-users/"><u>Updated 2024 Approved Time-Lapse Mastery The Top Apps for iPhone and Android Users</u></a></li>
 </ul></div>
 

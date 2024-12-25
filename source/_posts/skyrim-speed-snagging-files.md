@@ -1,7 +1,7 @@
 ---
 title: "Skyrim Speed: Snagging Files"
-date: 2024-12-13T06:00:25.110Z
-updated: 2024-12-15T23:49:14.009Z
+date: 2024-12-24T07:15:47.726Z
+updated: 2024-12-25T04:22:00.223Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the server status
 
  To narrow down the source of the problem, the first thing you need to do is to check the [Epic Games status page](https://status.epicgames.com/) .
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disconnect other devices
 
  The download issue is sometimes caused by your router struggling with the number of connections due to too many downloads happening simultaneously. To work around this, you need to first restart your router. Simply unplug your router or modem from its power outlet. Wait for 15-20 seconds, then plug it back in.
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
  When it’s all done, resume your download and check if it helps you fix the issue. If you’re still experiencing slow download speed or the download is stuck at a certain percent, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your network adapter driver
 
@@ -86,7 +82,7 @@ OR
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -100,7 +96,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch Domain Name Systems (DNS)
@@ -130,22 +126,14 @@ Here we recommend using Google DNS:
 8. Click the Internet connection you’re using, then select **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
@@ -154,12 +142,16 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
 
@@ -170,6 +162,10 @@ Here’s how to do this:
 1. On your keyboard, press the**Windows logo key + R** at the same time to open the Run dialog box. Type**%localappdata%** and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/localappdata.png)
 2. Open folders**EpicGamesLauncher > Saved > Config > Windows** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Find**Engine.ini** . Right-click it and select**Edit with Notepad++** or whatever notepad app you’re using.  
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
@@ -204,7 +200,7 @@ When it’s all done, resume your download and it should be faster.
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
@@ -223,6 +219,10 @@ When it’s all done, resume your download and it should be faster.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -238,18 +238,24 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/deal-7-cameras-to-improve-your-youtube-vlogging-experience/"><u>[New] Ideal 7 Cameras To Improve Your YouTube Vlogging Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-bring-your-ideas-to-life-a-practical-guide-to-screen-recording-on-macos/"><u>[Updated] 2024 Approved Bring Your Ideas to Life A Practical Guide to Screen Recording on MacOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-in-media-text-curve-concepts/"><u>[Updated] Pushing Boundaries in Media Text Curve Concepts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-xsplit-source-centralized-game-downloads-and-insights/"><u>[Updated] XSplit Source Centralized Game Downloads & Insights</u></a></li>
-<li><a href="https://win-tips.techidaily.com/windows-11-plus/"><u>解決Windows 11中停用/開啟最近使用過的檔案問題 - 兩種演示方法+一個小提示</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-and-qualcomm-wifi-seamlessly-work-in-win10/"><u>Atheros & Qualcomm WiFi Seamlessly Work in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-saving-of-screen-config-changes-on-windows-710/"><u>Enabling Saving of Screen Config Changes on Windows 7/10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-dxgkrnlsys-crash-in-windows-blue-screen/"><u>Fixed dxgkrnl.sys Crash in Windows' Blue Screen</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/"><u>New Blur Unwanted Parts of Your Videos with These Mobile Apps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opaque-output-offline-operations/"><u>Opaque Output, Offline Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dim-windows-11-screens-tips-inside/"><u>Overcoming Dim Windows 11 Screens - Tips Inside!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-hidden-vram-issues/"><u>Tackle Hidden VRAM Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-fall-screen-fix-after-cu-installation/"><u>Win10 Fall Screen Fix After CU Installation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-troubleshooting-path-graphics-card-offline/"><u>Easy Troubleshooting Path: Graphics Card Offline</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-video-card-problems-for-stable-mc-gaming/"><u>Eliminating Video Card Problems for Stable MC Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-sims-4-monochrome-issues/"><u>End Sims 4 Monochrome Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-black-screen-woes-fall-creators-update/"><u>Ending Black Screen Woes: Fall Creators Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-windows-10s-acoustic-experience-with-nvidia-updates/"><u>Enhancing Windows 10'S Acoustic Experience with NVIDIA Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-flickering-on-your-visual-display-unit/"><u>Eradicate Flickering on Your Visual Display Unit</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/insightful-recommendations-by-a-seasoned-sales-pro-at-best-buy-finding-the-ideal-windows-laptop-for-you-zdnet-feature/"><u>Insightful Recommendations by a Seasoned Sales Pro at Best Buy: Finding the Ideal Windows Laptop for You | ZDNet Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-pro-7s-unstable-screen/"><u>Overcoming Pro 7'S Unstable Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/protecting-your-porch-for-a-price-in-depth-review-of-the-wallet-friendly-remobell-device/"><u>Protecting Your Porch for a Price: In-Depth Review of the Wallet-Friendly RemoBell Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-how-to-seamlessly-upgrade-and-install-amd-radeon-rx-480-gpu-drivers/"><u>Quick Guide: How to Seamlessly Upgrade and Install AMD Radeon RX 480 GPU Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-and-thrive-restore-your-zoom-camera-in-minutes/"><u>Revive and Thrive: Restore Your Zoom Camera in Minutes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-enigma-eliminated-solving-the-unknown-direct-x-conundrum-in-lol/"><u>The Enigma Eliminated: Solving the Unknown Direct X Conundrum in LoL</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-12plus-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme 12+ 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ts-gif-google-movavi/"><u>TS펑테이크에서 GIF로의 원활한 변환: 컴퓨터에서는 제대로 없어, 그만 Google를 탭하라 - Movavi</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-music-video-creation-tools-for-stunning-visuals-for-2024/"><u>Updated Top 10 Music Video Creation Tools for Stunning Visuals for 2024</u></a></li>
 </ul></div>
 

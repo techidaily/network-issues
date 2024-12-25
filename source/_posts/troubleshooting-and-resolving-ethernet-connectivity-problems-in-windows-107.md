@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Ethernet Connectivity Problems in Windows 10/7
-date: 2024-12-12T07:14:00.324Z
-updated: 2024-12-16T03:58:00.377Z
+date: 2024-12-22T00:44:35.175Z
+updated: 2024-12-25T02:06:13.826Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Check the router and cable situations
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 5: Make sure the Ethernet is enabled
 
  After trying the tips above, if the problem persists, check if the Ethernet is disabled.
@@ -101,19 +97,11 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -123,17 +111,29 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,19 +156,18 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-make-the-most-of-your-tunes-top-5-tools-for-converting-spotify-to-youtube-playlists/"><u>[New] 2024 Approved Make the Most of Your Tunes Top 5 Tools for Converting Spotify to YouTube Playlists</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>[New] In 2024, Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>[New] In 2024, Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-visual-interface-rebooted-successfully/"><u>[Resolved] Visual Interface Rebooted Successfully</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-essential-8-choices-of-tripods-for-4k-cinematography-for-2024/"><u>[Updated] Essential 8 Choices of Tripods for 4K Cinematography for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-focusing-on-the-small-web-details/"><u>[Updated] Expert Tips Focusing on the Small Web Details</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-social-media-landscape-facebook-daily-use-for-2024/"><u>[Updated] Navigating Social Media Landscape Facebook Daily Use for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/editing-instagram-videos-on-windows-10-a-step-by-step-guide-using-the-advanced-winx-hd-video-converter/"><u>Editing Instagram Videos on Windows 10: A Step-by-Step Guide Using the Advanced WinX HD Video Converter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-spotify-link-reset-strategies/"><u>Mastering Windows Spotify Link Reset Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nab-amd-graphics-snafu-now/"><u>Nab AMD Graphics Snafu Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-failure-to-preserve-window-display-options/"><u>Resolving Failure to Preserve Window Display Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unable-to-pair-with-wireless-adapter-in-win10/"><u>Unable to Pair with Wireless Adapter in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/window-graphics-issue-fixed/"><u>Window Graphics Issue Fixed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-master-money-makers-the-best-of-the-top-ig-earners/"><u>[New] Master Money Makers The Best of the Top IG Earners</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-resize-windows-11-display-issue/"><u>[SCREEN RESIZE] Windows 11 Display Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[Updated] Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-master-iphone-cams-with-these-hacks/"><u>2024 Approved Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-to-anonymous-direct-x-misstep-on-lol/"><u>Fix to Anonymous Direct X Misstep on LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hybrid-card-problem-for-switchable-graphics/"><u>Fixing Hybrid Card Problem for Switchable Graphics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/outsmart-sims-4-monochrome-mishaps/"><u>Outsmart Sims 4 Monochrome Mishaps</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-tracking-down-your-software-install-pathways-in-windows/"><u>Quick Guide: Tracking Down Your Software' Install Pathways in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-pc-spec-issues-for-software-deployment/"><u>Resolving PC Spec Issues for Software Deployment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revitalizing-your-computers-intel-graphics-via-windows-7-updates/"><u>Revitalizing Your Computer's Intel Graphics via Windows 7 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ritocchi-online-gratuiti-da-gif-a-flv-usando-movavi-esegui-la-conversione-senza-costi-aggiuntivi/"><u>Ritocchi Online Gratuiti: Da GIF a FLV Usando Movavi - Esegui La Conversione Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shedding-light-unexplained-x-error-cleared-in-lol/"><u>Shedding Light: Unexplained X Error Cleared in LOL</u></a></li>
 </ul></div>
 

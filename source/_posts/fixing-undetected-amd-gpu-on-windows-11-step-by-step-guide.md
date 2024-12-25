@@ -1,7 +1,7 @@
 ---
 title: "Fixing Undetected AMD GPU on Windows 11: Step-by-Step Guide"
-date: 2024-12-12T19:18:40.728Z
-updated: 2024-12-16T07:40:56.220Z
+date: 2024-12-22T06:33:59.001Z
+updated: 2024-12-24T19:50:37.442Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -41,19 +41,23 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -66,15 +70,11 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
 6. Restart your computer and check if the problem is resolved.
@@ -104,22 +104,15 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-sony-wh-1000xm34-mic-not-working-on-pc/"><u>[Fixed] Sony WH-1000XM3/4 Mic Not Working on PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-securing-sponsorships-amidst-content-creation/"><u>[New] 2024 Approved Mastering Instagram Securing Sponsorships Amidst Content Creation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-a-deep-dive-into-irecorder-tech-for-2024/"><u>[New] A Deep Dive Into iRecorder Tech for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-invisible-edits-ensuring-confidentiality-in-media-for-2024/"><u>[New] Invisible Edits Ensuring Confidentiality in Media for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-transform-ideas-into-laughter-generate-text-memes-for-2024/"><u>[New] Transform Ideas Into Laughter Generate Text Memes for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-tv-rejects-hdmi-laptop-image-lost/"><u>[Solved] TV Rejects HDMI, Laptop Image Lost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harness-the-power-of-online-cropping-to-elevate-your-photos/"><u>[Updated] Harness the Power of Online Cropping to Elevate Your Photos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveil-top-8-websites-with-free-green-screen-video-treasures/"><u>[Updated] Unveil Top 8 Websites with FREE Green Screen Video Treasures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieving-flawless-media-streams-after-upgrading-to-win11/"><u>Achieving Flawless Media Streams After Upgrading to Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-win11-screen-flicker-issue/"><u>Fix: Win11 Screen Flicker Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-update-all-systems-go/"><u>Nvidia Update: All Systems Go</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-gpu-woes-in-win10-resolved/"><u>NVIDIA/Intel Hybrid GPU Woes in Win10 - Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/one-click-disable-graphics-drivers-on-windows-systems/"><u>One-Click Disable: Graphics Drivers on WIndows Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opengl-disabled-armor-and-fix-added/"><u>OpenGL Disabled - Armor and Fix Added</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revamping-subtitles-from-srt-with-ease-for-2024/"><u>Revamping Subtitles From SRT with Ease for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/three-years-later-the-evolution-of-my-iphone-revealed-a-comprehensive-review-by-zdnet/"><u>Three Years Later: The Evolution of My iPhone Revealed - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-steps-when-pc-ignores-gpu/"><u>Troubleshooting Steps: When PC Ignores GPU</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-bandicam-or-camtasia-the-ultimate-showdown-for-2024/"><u>[New] Bandicam or Camtasia The Ultimate Showdown for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-ditching-offline-games-cod-cold-war/"><u>[RESOLVED] Ditching Offline Games: CoD Cold War</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-capture-attention-with-perfectly-cropped-instagram-ready-videos-for-2024/"><u>[Updated] Capture Attention with Perfectly Cropped, Instagram-Ready Videos for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-dominate-youtube-with-effective-content-strategies/"><u>2024 Approved Dominate YouTube with Effective Content Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-cost-solution-seamless-conversion-of-your-quicktime-hd-videos/"><u>No Cost Solution: Seamless Conversion of Your QuickTime HD Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hd-content-playback-in-new-windows-version/"><u>Resolving HD Content Playback in New Windows Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-to-win11-systems/"><u>Restored Fullscreen Functionality to Win11 Systems</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/transformez-les-videos-vob-en-mp4-de-qualityguard-pour-la-playstation-gratuitement-online/"><u>Transformez Les Vidéos VOB en MP4 De QualityGuard Pour La PlayStation Gratuitement Online!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-amds-radeon-hd-6950-driver-revamp-released/"><u>Windows 11: AMD's Radeon HD 6950 Driver Revamp Released</u></a></li>
 </ul></div>
 

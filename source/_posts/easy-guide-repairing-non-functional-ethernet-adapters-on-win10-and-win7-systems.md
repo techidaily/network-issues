@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems"
-date: 2024-12-12T00:27:02.516Z
-updated: 2024-12-16T05:06:06.774Z
+date: 2024-12-18T04:22:06.989Z
+updated: 2024-12-25T05:23:02.028Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -76,7 +72,11 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -102,7 +98,7 @@ Follow the steps below:
 2. In Device Manager, expand the**Network adapters** category.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
@@ -111,6 +107,10 @@ Follow the steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 6: Run network commands
 
  Corrupted DNS cache matters can prevent you from connecting to the internet because it can cause a mismatch in your IP address. Therefore, you might need to flush the DNS cache to fix the internet that is connected but not working issue.
@@ -118,6 +118,10 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -130,10 +134,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,18 +156,20 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/eciphering-youtubes-cc-policy-for-video-makers-for-2024/"><u>[New] Deciphering YouTube's CC Policy for Video Makers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-navigating-new-design-horizons-the-leading-10-vector-apps/"><u>[New] Navigating New Design Horizons The Leading 10 Vector Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-ranked-instagrams-top-8-popular-ae-composition-tools-for-2024/"><u>[New] Ranked Instagram's Top 8 Popular AE Composition Tools for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-wireless-network-issues-on-windows-10-pc/"><u>[RESOLVED] Wireless Network Issues on Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revise-advanced-display-not-found-in-win-11/"><u>[Revise] Advanced Display Not Found in Win 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party-for-2024/"><u>[Updated] Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715860127716-2024-approved-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>2024 Approved An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevate-your-visuals-music-integration-for-vimeo-films-for-2024/"><u>Elevate Your Visuals Music Integration for Vimeo Films for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-faulty-to-functional-display-changes-in-windows-10/"><u>From Faulty to Functional: Display Changes in Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-luminous-language-the-secret-of-dynamic-story-titles/"><u>In 2024, Luminous Language The Secret of Dynamic Story Titles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reverted-to-windows-home-by-accident-during-pc-reset-discover-steps-to-regain-your-premium-license/"><u>Reverted to Windows Home by Accident During PC Reset? Discover Steps to Regain Your Premium License!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx-glitch-outbreak-your-game-saving-guidebook/"><u>RTX Glitch Outbreak: Your Game-Saving Guidebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-warhammer-40000-not-starting-dx12-error/"><u>[CORRECTED] Warhammer 40,000 Not Starting - DX12 Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-step-by-step-guide-to-implementing-lut-effects-in-premiere-pro-for-2024/"><u>[New] A Step-by-Step Guide to Implementing LUT Effects in Premiere Pro for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-step-by-step-approach-to-youtube-copyright-mastery-for-2024/"><u>[New] Your Step-by-Step Approach to YouTube Copyright Mastery for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unraveling-the-secrets-of-excellent-screen-recording-with-recmeister-for-2024/"><u>[Updated] Unraveling the Secrets of Excellent Screen Recording with Recmeister for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-your-pcs-web-pace-with-win1011-fixes/"><u>Enhance Your PC's Web Pace with Win10/11 Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-pdf-opens-on-windows-top-techniques-revealed-by-yl-software/"><u>Mastering PDF Opens on Windows: Top Techniques Revealed by YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-null-detected-find-your-unlisted-graphics-card/"><u>Navigate Through Null Detected: Find Your Unlisted Graphics Card</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operating-system-update-resolves-opengl-error/"><u>Operating System Update Resolves OpenGL Error</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-followers-list-with-top-twitter-cleanup-tools/"><u>Revolutionize Your Followers List with Top Twitter Cleanup Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/shrink-your-videos-5-free-compression-apps-for-iphone-and-ipad-users-for-2024/"><u>Shrink Your Videos 5 Free Compression Apps for iPhone and iPad Users for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-successfully-installed-gpu-after-errors/"><u>Windows: Successfully Installed GPU After Errors</u></a></li>
 </ul></div>
 

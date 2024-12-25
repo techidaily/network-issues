@@ -1,7 +1,7 @@
 ---
 title: "Beat High Server Lag in Fortnite: Fast Fixes and Solutions"
-date: 2024-12-12T06:46:48.841Z
-updated: 2024-12-16T11:08:00.328Z
+date: 2024-12-18T06:56:59.709Z
+updated: 2024-12-24T17:46:31.092Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Reboot your network
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -74,10 +74,14 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -116,20 +120,20 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
 
@@ -142,21 +146,17 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -196,21 +196,22 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-borderlands-3-launch-glitch-xbox-directx-conflict/"><u>[FIXED] Borderlands 3 Launch Glitch - Xbox DirectX Conflict</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-overwatch-no-start-on-xbox-directx-issue/"><u>[FIXED] Overwatch No Start on Xbox - DirectX Issue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-camstudio-live-streaming-and-screen-capturing-review-for-2024/"><u>[New] CamStudio Live Streaming & Screen Capturing Review for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-optimal-vision-selections-of-best-4k-dslrs-in-action-for-2024/"><u>[Updated] Optimal Vision Selections of Best 4K DSLRs in Action for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-brief-subscribe-boost-your-content-viewing-for-2024/"><u>Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/displayfailure-on-graphicswinos-interface-solved/"><u>DisplayFailure on GraphicsWinOS Interface (Solved)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/e-imagery-stepwise-food-film-making/"><u>Edible Imagery Stepwise Food Film Making</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-experience-geforce-rtx210-windows-update/"><u>Elevate Your Experience - GeForce RTX210 Windows Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974651271-hassle-free-upgrade-intel-g3000-graphics-on-win11/"><u>Hassle-Free Upgrade: Intel G3000 Graphics on Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/heartfelt-cheers-access-to-free-and-paid-otu-ideas-for-2024/"><u>Heartfelt Cheers Access to Free & Paid OTU Ideas for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-wanders-away-on-tv-connection/"><u>Laptop Image Wanders Away on TV Connection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silencing-your-ipad-tutorial-on-halting-ringtone-activation-from-iphone-alerts/"><u>Silencing Your iPad: Tutorial on Halting Ringtone Activation From iPhone Alerts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solution-to-windows-10-black-out-post-update/"><u>Solution to Windows 10 Black Out Post Update</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/mlined-approach-to-validate-your-yt-identity-for-2024/"><u>Streamlined Approach to Validate Your YT Identity for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-display-solving-the-portrait-to-landscape-conversion-problem/"><u>Troubleshooting iPhone Display: Solving the Portrait-to-Landscape Conversion Problem</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-ai-vulnerability-injecting-malicious-prompts-and-understanding-the-process/"><u>Unveiling AI Vulnerability: Injecting Malicious Prompts & Understanding the Process</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-sharp-lenses-clear-visions-tips-for-fog-free-filming/"><u>[New] In 2024, Sharp Lenses, Clear Visions Tips for Fog-Free Filming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>[New] In 2024, The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-no-amd-graphics-driver-is-installed-on-windows-1110/"><u>[SOLVED] No AMD Graphics Driver Is Installed on Windows 11/10</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-declutter-photos-with-affinitys-ease/"><u>[Updated] 2024 Approved Declutter Photos with Affinity's Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-3dr-the-path-taken-by-a-lone-printer-explorer/"><u>2024 Approved '3DR' The Path Taken by a Lone Printer Explorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-brief-history-of-netflixs-dvd-subscription-model-what-was-it-all-about/"><u>A Brief History of Netflix's DVD Subscription Model – What Was It All About?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/changing-display-in-w11-encountered-errors-resolved/"><u>Changing Display in W11 Encountered Errors [Resolved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-entering-window-8s-secure-environment-for-graphics-updates/"><u>Effortlessly Entering Window 8’S Secure Environment for Graphics Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-refresh-intel-g3000-on-ws11/"><u>Effortlessly Refresh Intel G3000 on WS11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/endless-wi-fi-outage-mystery/"><u>Endless Wi-Fi Outage Mystery</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enigmatic-engagements-charming-german-talk/"><u>Enigmatic Engagements: Charming German Talk</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube-for-2024/"><u>Enjoy a Stream of Nine Complete Christmas Capsules on YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-solve-strobe-like-effect-in-acer-displays/"><u>How to Solve Strobe-Like Effect in Acer Displays</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-11-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 11 Activation Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-output-decrease-time-harness-power-of-flow-launcher/"><u>Increase Output, Decrease Time: Harness Power of Flow Launcher</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-display-settings-configuration-functionality/"><u>Restoring Display Settings Configuration Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-amd-radeon-r9-fatal-errors-in-win11/"><u>Solved: AMD Radeon R9 Fatal Errors in Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2024-12-14T01:13:39.577Z
-updated: 2024-12-16T08:57:48.940Z
+date: 2024-12-23T18:26:41.490Z
+updated: 2024-12-25T01:24:57.666Z
 tags:
   - win11
   - win10
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
@@ -41,19 +45,23 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -103,29 +111,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,22 +142,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-display-component-reset-and-reboot/"><u>[Fixed] Display Component Reset and Reboot</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elevate-your-zoom-experience-with-virtual-boards-tips-for-all-devices/"><u>[New] 2024 Approved Elevate Your Zoom Experience with Virtual Boards - Tips for All Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/daylong-experience-with-the-apple-vision-pro-is-it-enough-for-intensive-work/"><u>Daylong Experience with the Apple Vision Pro: Is It Enough for Intensive Work?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diagnosing-hidden-lcd-blackout-causes/"><u>Diagnosing Hidden LCD Blackout Causes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-disruption-ends-nvidia-display-works/"><u>Driver Disruption Ends: Nvidia Display Works</u></a></li>
-<li><a href="https://win-forum.techidaily.com/endless-windows-file-explorer-crash-cycle-master-these-7-repair-strategies-via-revo-uninstaller/"><u>Endless Windows File Explorer Crash Cycle? Master These 7 Repair Strategies via Revo Uninstaller</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/enhance-multitasking-efficiency-implement-intels-quick-sync-video-for-multi-display-setups-on-pc-desktops/"><u>Enhance Multitasking Efficiency: Implement Intel's Quick Sync Video for Multi-Display Setups on PC Desktops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Phone without Any Data Loss</u></a></li>
-<li><a href="https://network-issues.techidaily.com/onyx-outcome-new-driver/"><u>Onyx Outcome: New Driver?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-diagonal-glyph-anomalies/"><u>Rectify Diagonal Glyph Anomalies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reintroduced-lost-network-interface-on-windows-10-laptop/"><u>Reintroduced Lost Network Interface on Windows 10 Laptop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/skip-the-wait-amd-bugs-solved/"><u>Skip the Wait: AMD Bugs Solved</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/spotting-sham-copycat-language-models-in-apples-app-store/"><u>Spotting Sham Copycat Language Models in Apple's App Store</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos/"><u>[New] 2024 Approved Dial in the Ideal Aspect Ratio for Stunning YouTube Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-raising-computer-specifications/"><u>Comprehensive Guide to Raising Computer Specifications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-errors-for-functional-built-in-cam/"><u>Correcting Errors for Functional Built-In Cam</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-fluctuating-monitor-illumination-on-notebook/"><u>Fix: Fluctuating Monitor Illumination on Notebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-reno-10-proplus-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Reno 10 Pro+ 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-file-explorer-in-windows-11-tips-and-tricks-for-a-better-experience/"><u>Mastering the File Explorer in Windows 11 - Tips and Tricks for a Better Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-razer-keyboards-light-features-solved-problems/"><u>Reviving Your Razer Keyboard's Light Features - Solved Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-adjustments-persistently-safe/"><u>Screen Adjustments Persistently Safe</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/speed-up-your-computer-with-efficient-disk-cleanup-techniques-guidance-by-yl-software-experts/"><u>Speed Up Your Computer with Efficient Disk Cleanup Techniques - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-access-issues-when-enumerating-objects-in-windows-10-a-step-by-step-fix/"><u>Troubleshooting Access Issues When Enumerating Objects in Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visualsystem-crashes-windows-resolved-quickly/"><u>VisualSystem Crashes Windows (Resolved Quickly)</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/yl-softwares-overview-top-crypto-options-to-consider-investing-in-today/"><u>YL Software's Overview: Top Crypto Options to Consider Investing in Today</u></a></li>
 </ul></div>
 

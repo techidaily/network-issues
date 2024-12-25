@@ -1,7 +1,7 @@
 ---
 title: Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes
-date: 2024-12-13T16:02:57.581Z
-updated: 2024-12-16T04:41:17.828Z
+date: 2024-12-18T03:02:30.909Z
+updated: 2024-12-24T21:22:41.425Z
 tags:
   - win11
   - win10
@@ -24,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -45,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -58,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -76,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -105,11 +93,23 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -119,13 +119,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,18 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-leading-steadicams-for-professional-uav-filming/"><u>[New] Leading Steadicams for Professional UAV Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>[New] Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-simple-strategies-for-stellar-sports-highlights/"><u>[Updated] Simple Strategies for Stellar Sports Highlights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/aligning-windows-to-default-vision/"><u>Aligning Windows to Default Vision</u></a></li>
-<li><a href="https://network-issues.techidaily.com/curbing-window-10-size-excesses/"><u>Curbing Window 10 Size Excesses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-secrets-of-dism-for-system-rebuilds/"><u>Decoding the Secrets of DISM for System Rebuilds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-approaches-for-authors-utilizing-chatgpt-in-composing-a-book/"><u>Innovative Approaches for Authors: Utilizing ChatGPT in Composing a Book</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-file-and-folder-link-creation-techniques-within-an-installer-project/"><u>Mastering File & Folder Link Creation Techniques Within an Installer Project</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterpiece-tools-filmoras-loved-9-edits-unraveled-for-2024/"><u>Masterpiece Tools Filmora's Loved 9 Edits Unraveled for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-graphics-resolved-in-win11/"><u>Nvidia/Intel Hybrid Graphics Resolved in Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-xiaomi-13t-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Xiaomi 13T.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secure-system-maintenance-executing-safe-mode-and-gpu-removal/"><u>Secure System Maintenance: Executing Safe Mode and GPU Removal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-printer-driver-in-windows/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Printer Driver in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-reality-and-simulation/"><u>[New] Bridging Reality and Simulation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-infusing-watermarks-in-youtube-content-for-trademarks/"><u>[New] Infusing Watermarks in YouTube Content for Trademarks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-snapseed-simplified-photo-editing-made-accessible/"><u>[New] Snapseed Simplified Photo Editing Made Accessible</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[Updated] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-a-guide-to-risk-management-and-mitigation-strategies-in-market-research/"><u>2024 Approved A Guide to Risk Management and Mitigation Strategies in Market Research</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-make-a-statement-crafting-memes-on-kapwing/"><u>2024 Approved Make a Statement Crafting Memes on Kapwing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-concept-to-capture-the-journey-with-bandicam-screen-recorder/"><u>From Concept to Capture The Journey with Bandicam Screen Recorder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-12-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus 12 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>In 2024, The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-disappearance-of-gpu-display-choices/"><u>Reversing Disappearance of GPU Display Choices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-windows-graphics-setup-for-new-intel-hd-driver/"><u>Updating Windows Graphics Setup for New Intel HD Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrading-display-quality-in-windows-10-easier/"><u>Upgrading Display Quality in Windows 10 Easier</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-mastery-quick-and-easy-fixes-for-cameras-in-trouble/"><u>Zoom Mastery: Quick and Easy Fixes for Cameras in Trouble</u></a></li>
 </ul></div>
 

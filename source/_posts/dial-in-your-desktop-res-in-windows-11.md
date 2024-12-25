@@ -1,7 +1,7 @@
 ---
 title: Dial-In Your Desktop Res In Windows 11
-date: 2024-12-14T09:44:05.551Z
-updated: 2024-12-15T17:49:51.416Z
+date: 2024-12-22T05:54:58.468Z
+updated: 2024-12-25T03:13:18.879Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ## Dial-In Your Desktop Res In Windows 11
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
 
@@ -44,11 +40,19 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -79,7 +83,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -87,10 +91,6 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -106,6 +106,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -115,10 +119,6 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,15 +148,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-5-best-hd-hunting-recorders-reviewed/"><u>[New] 2024 Approved 5 Best HD Hunting Recorders Reviewed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-rewards-and-risks-virtual-reality-unveiled/"><u>[New] In 2024, Rewards & Risks Virtual Reality Unveiled</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida-for-2024/"><u>[New] Unlocking the Full Potential of Video Creation with Vida for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-with-immaculate-search-results-and-natural-language-processing/"><u>Enhancing User Experience with Immaculate Search Results and Natural Language Processing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-mov-to-asf-converter-by-movavi-fast-easy-and-secure/"><u>Free Online MOV to ASF Converter by Movavi: Fast, Easy and Secure</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-plot-craft-guild-bestowed-batch/"><u>In 2024, Plot Craft Guild - Bestowed Batch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverting-to-high-res-in-windows-10-successfully-done/"><u>Reverting to High Res in Windows 10, Successfully Done</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-fix-gpu-functioning/"><u>Tech Fix - GPU Functioning</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unite-screen-horizons-evenly/"><u>Unite Screen Horizons Evenly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-displays-no-available-wi-fi-fix-guide/"><u>Win10 Displays No Available Wi-Fi? Fix Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-compre-written-explanation-easy-hdr-understanding/"><u>[New] Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-quickly-modify-your-voice-for-gameplay-advantage-for-2024/"><u>[New] How to Quickly Modify Your Voice for Gameplay Advantage for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-deep-dive-into-screenflow-for-the-creative-minded-mac-user/"><u>[Updated] A Deep Dive Into ScreenFlow for the Creative Minded Mac User</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoid-the-wi-fi-blackout-zone/"><u>Avoid the Wi-Fi Blackout Zone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-dell-display-rapid-flashes/"><u>Ending Dell Display Rapid Flashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-iphones-capture-potential/"><u>In 2024, Maximize Your iPhone's Capture Potential</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/photoharmony-android-and-ios-instagram-collages/"><u>PhotoHarmony Android & iOS Instagram Collages</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-nightmare-buster-your-gaming-rescue-plan/"><u>RTX Nightmare Buster - Your Gaming Rescue Plan</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-lenovo-visual-vibrations/"><u>Tackling Lenovo Visual Vibrations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-gateway-to-gpt-4-opening-the-door-for-everyone/"><u>The Gateway to GPT-4: Opening the Door for Everyone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unblocking-windows-11-post-creators-fix/"><u>Unblocking Windows 11 Post-Creators Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-secret-to-smooth-graphic-switching-in-windows-11/"><u>Unveiling the Secret to Smooth Graphic Switching in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wondering-about-the-fresh-airpods-release-learn-what-sets-the-new-airpod-pro-and-max-models-apart/"><u>Wondering About the Fresh AirPods Release? Learn What Sets the New AirPod Pro & Max Models Apart</u></a></li>
 </ul></div>
 

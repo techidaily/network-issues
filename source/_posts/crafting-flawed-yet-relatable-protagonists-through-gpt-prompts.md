@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2024-12-11T11:02:26.971Z
-updated: 2024-12-16T03:17:57.476Z
+date: 2024-12-17T16:37:35.882Z
+updated: 2024-12-24T21:02:07.483Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -53,7 +57,7 @@ You could use:
  The second set of prompts will produce much more detailed information and relevant responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Being Overly Specific With Your Instructions
@@ -67,7 +71,7 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -83,7 +87,7 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -95,7 +99,7 @@ You could use:
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
@@ -105,10 +109,6 @@ You could use:
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
@@ -147,20 +147,15 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-connectivity-glitches-in-cod-cold-war/"><u>[FIXED] Connectivity Glitches in CoD Cold War</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-instantly-convert-online-tutorials-into-interactive-animation-gifs/"><u>2024 Approved Instantly Convert Online Tutorials Into Interactive Animation GIFs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bridge-ghost-graphics-discrepancy/"><u>Bridge Ghost Graphics Discrepancy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/competitive-edge-how-amd-graphics-drives-winning-performance/"><u>Competitive Edge: How AMD Graphics Drives Winning Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-launch-attempt-failed-fixed/"><u>Direct3D Launch Attempt Failed, Fixed</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-customize-your-network-preferences-insights-from-yl-software-experts/"><u>How to Customize Your Network Preferences: Insights From YL Software Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-itel-p40plus-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Itel P40+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-free-online-webinar-conduct-with-youtube/"><u>In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-fundamental-constructs-in-creating-effective-fb-ad-copy/"><u>In 2024, Fundamental Constructs in Creating Effective FB Ad Copy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-graphics-purchase-blacked-out-monitor/"><u>Latest Graphics Purchase: Blacked-Out Monitor</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-troubleshooting-steps-preventing-the-king-of-fighters-xv-from-abruptly-closing-during-your-pc-battles/"><u>Mastering Troubleshooting Steps: Preventing 'The King of Fighters XV' From Abruptly Closing During Your PC Battles</u></a></li>
-<li><a href="https://facebook.techidaily.com/scaling-up-social-reach-by-targeting-various-fb-clusters/"><u>Scaling Up Social Reach by Targeting Various FB Clusters</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-addressing-blackwhite-monochrome-in-shop/"><u>Strategies for Addressing Black/White Monochrome in Shop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-graphics-conflict-intel-and-nvidia-fix-on-windows-10-systems/"><u>Tackling Graphics Conflict: Intel & NVIDIA Fix on Windows 10 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wsappx-overview-identifying-the-reasons-behind-heavy-system-resource-usage-and-remedies/"><u>WSAPPX Overview – Identifying the Reasons Behind Heavy System Resource Usage & Remedies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-essential-tips-for-engaging-with-youtube-comments/"><u>[New] In 2024, Essential Tips for Engaging with YouTube Comments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>2024 Approved Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Phone FRP Lock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-render-improvement-for-versions-1087/"><u>Microsoft Render Improvement for Versions 10/8/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-cpu-oversight-gpu-not-detected-issue/"><u>Resolving CPU Oversight: GPU Not Detected Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-shadows-lenovos-clear-screens/"><u>Reverse Shadows: Lenovo's Clear Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-hidden-titles-remedying-eg-libraries-errors/"><u>Unlocking Hidden Titles: Remedying EG Libraries Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-locked-windows-protection-in-windows-11/"><u>Unlocking Locked Windows Protection in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-hybrid-graphics-bug-now-solved/"><u>Win11 Hybrid Graphics Bug: Now Solved!</u></a></li>
 </ul></div>
 

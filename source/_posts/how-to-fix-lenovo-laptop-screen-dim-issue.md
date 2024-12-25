@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-12-11T11:10:57.192Z
-updated: 2024-12-16T01:01:07.777Z
+date: 2024-12-21T16:46:19.555Z
+updated: 2024-12-25T01:38:33.974Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  **3)[Modify Registry](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1) Update graphics driver
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Modify Registry
@@ -79,20 +79,20 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
@@ -119,22 +119,18 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-far-cry-new-dawn-not-starting-dx12-error/"><u>[CORRECTED] Far Cry New Dawn Not Starting - DX12 Error</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-process-for-incorrante-youtube-playlist-integration/"><u>[New] 2024 Approved The Ultimate Process for Incorrante YouTube Playlist Integration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-team-videos-to-foster-viewership-and-following/"><u>[New] In 2024, Crafting Team Videos to Foster Viewership and Following</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ts-best-practices-for-choosing-images-that-drive-view-count-updates/"><u>[New] YT's Best Practices for Choosing Images That Drive View Count Updates</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-easy-snapchat-videos-with-multiple-snaps/"><u>[Updated] Step-by-Step Easy Snapchat Videos with Multiple Snaps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/battlezone-buffering-blunder/"><u>Battlezone Buffering Blunder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools-for-2024/"><u>Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-blackout-on-newest-win11-version/"><u>Cure Blackout on Newest Win11 Version</u></a></li>
-<li><a href="https://network-issues.techidaily.com/defeating-wow-error-no-519-with-ease/"><u>Defeating WoW Error No. 519 with Ease</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-moto-g34-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Moto G34 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hdmi-miscommunication-laptop-avoids-display-on-tv/"><u>HDMI Miscommunication: Laptop Avoids Display on TV</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 13 Pro Max</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-youtubes-green-screen-problems/"><u>Mastering YouTube's Green Screen Problems</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/optimizing-your-computers-performance-top-techniques-for-faster-processing-yl-computing/"><u>Optimizing Your Computer's Performance: Top Techniques for Faster Processing - YL Computing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-troubleshooting-path-inactive-gpu-nvidia-screen/"><u>Plain Troubleshooting Path: Inactive GPU, NVIDIA Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-amd-tarkov-glitch/"><u>Resolve AMD Tarkov Glitch!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-and-science-of-writing-smart-slug-lines/"><u>[New] The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-live-screens-webcam-setup-on-hp-devices/"><u>[Updated] Capturing Live Screens Webcam Setup on HP Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-dealing-with-copyright-infringement-notices-on-youtube/"><u>2024 Approved Dealing with Copyright Infringement Notices on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blinking-error-screen-invisible/"><u>Blinking Error: Screen Invisible</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bug-be-gone-hunter-world-is-alive-again/"><u>Bug Be Gone! Hunter World Is Alive Again</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-snagit-screen-recording-a-guide/"><u>In 2024, Snagit Screen Recording A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/invest-in-top-tier-coders-for-optimal-results-unlocking-microsofts-secrets-revealed-by-zdnet/"><u>Invest in Top-Tier Coders for Optimal Results: Unlocking Microsoft’s Secrets Revealed by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-latest-graphics-drivers-a-win10-upgrade/"><u>NVIDIA's Latest Graphics Drivers: A Win10 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-amds-detection-driver-now-functions-on-win10/"><u>Smooth Sailing: AMD's Detection Driver Now Functions on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-to-windows-10-black-out-post-update/"><u>Solution to Windows 10 Black Out Post Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-civ-v-errors-in-windows-environment/"><u>Tackle Civ V Errors in Windows Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated MacBook Peripherals : Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578445356-virtual-lingo-mondlys-breakthrough-ar-language-app/"><u>Virtual Lingo: Mondly's Breakthrough AR Language App</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Increase Your FPS: Top 6 Optimization Strategies"
-date: 2024-12-12T06:39:45.436Z
-updated: 2024-12-15T19:33:01.836Z
+date: 2024-12-22T04:33:13.844Z
+updated: 2024-12-25T04:15:21.089Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Tip 1: Change the power option 
@@ -43,7 +43,15 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Tip 2: Adjust your PC for best performance
 
@@ -51,6 +59,10 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and**Pause** at the same time and click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. In **Advanced** , click **Settings** .  
 
@@ -62,7 +74,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Tip 3: Update your graphics driver
@@ -86,10 +98,6 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Tip 4: Do a disk clean-up 
 
 **Disk Clean-up**   is a built-in tool in Windows that helps us delete unimportant and junk files. To run **Disk Clean-up** :
@@ -98,7 +106,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Choose **the drive** you want to free up storage and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
@@ -106,10 +114,6 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
 4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
@@ -123,11 +127,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click to select **a drive**   and click **Analyze** .  
@@ -135,7 +135,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
@@ -172,17 +172,20 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-visual-clarity-conundrum-ultrawide-vs-uhd-4k-monitors-decision/"><u>[New] 2024 Approved Visual Clarity Conundrum UltraWide vs UHD 4K Monitors Decision</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ransform-your-presence-advanced-tricks-for-live-video-graphics/"><u>[New] Transform Your Presence Advanced Tricks for Live Video Graphics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-freelance-warriors-guide-complimentary-psd-treasures/"><u>2024 Approved Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-init-fail-problem-addressed-and-solved/"><u>D3D Init Fail: Problem Addressed and Solved</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-resolving-driver-issues-insights-from-yl-computing/"><u>Effective Strategies for Resolving Driver Issues: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-directx-upgrade-processes-for-windows-11-and-10-operating-systems/"><u>Effortless DirectX Upgrade Processes for Windows 11 and 10 Operating Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/guide-to-efficiently-convert-vimeo-videos-to-audible-files-for-2024/"><u>Guide to Efficiently Convert Vimeo Videos to Audible Files for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-graphics-driver-updates-for-intel-windows-7-edition/"><u>Mastering Graphics Driver Updates for Intel, Windows 7 Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successfully-resolved-nvidia-installer-problem/"><u>Successfully Resolved Nvidia Installer Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-vitalsource-content-step-by-step-guide-to-removing-drm-from-vbk-files/"><u>Unlock Your VitalSource Content: Step-by-Step Guide to Removing DRM From .VBK Files</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vulkan-missing-on-device/"><u>Vulkan Missing on Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms/"><u>[New] 2024 Approved Mastering KineMaster A Comprehensive Guide & Top Online Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-fluctuating-led-on-dell-laptop/"><u>[Resolved] Fluctuating LED on Dell Laptop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-guidelines-for-responsible-content-disclosure-in-online-spaces-like-fb/"><u>[Updated] In 2024, Guidelines for Responsible Content Disclosure in Online Spaces Like FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>2024 Approved Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-by-nvidia-resolved-windows-now-stops/"><u>Error by Nvidia Resolved, Windows Now Stops</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-moving-10-best-free-video-speed-changer-apps-for-iphone-and-android/"><u>Get Moving 10 Best Free Video Speed Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonious-operation-hybrid-graphics-on-intel-and-nvidia-in-win11/"><u>Harmonious Operation: Hybrid Graphics on Intel & Nvidia in Win11</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-tutorial-handling-and-preventing-photoshops-scratch-disk-full-warning/"><u>Master Tutorial: Handling and Preventing Photoshop's 'Scratch Disk Full' Warning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-lengthy-display-glitches-on-windows-pc/"><u>Overcome Lengthy Display Glitches on Windows PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/overcoming-youtube-copyright-strikes-expert-advice-revealed/"><u>Overcoming YouTube Copyright Strikes Expert Advice Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saving-screen-preferences-success-achieved/"><u>Saving Screen Preferences: Success Achieved</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/superior-iphone-editor-tools-pick-between-cameo-and-filmorago-for-2024/"><u>Superior iPhone Editor Tools Pick Between Cameo and FilmoraGo for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-hd-resolution-change-failure/"><u>Windows 11 HD Resolution Change Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winrts-errors-eradicated-with-new-tools/"><u>WinRTS Errors Eradicated with New Tools</u></a></li>
 </ul></div>
 

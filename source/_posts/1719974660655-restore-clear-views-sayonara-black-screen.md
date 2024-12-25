@@ -1,7 +1,7 @@
 ---
 title: Restore Clear Views, Sayonara Black Screen
-date: 2024-12-12T18:19:16.527Z
-updated: 2024-12-15T18:03:04.910Z
+date: 2024-12-22T00:08:24.310Z
+updated: 2024-12-24T16:08:22.229Z
 tags:
   - win11
   - win10
@@ -29,21 +29,17 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -91,10 +87,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -136,16 +128,12 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -166,20 +154,32 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,22 +207,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-gif-tool-guide-tips-from-the-experts/"><u>[New] 2024 Approved Essential GIF Tool Guide Tips From the Experts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-echoes-of-the-past-iphone-x-portraiture/"><u>[New] Echoes of the Past IPhone X Portraiture</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-driver-issue-43-fixed/"><u>Display Driver Issue 43 Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-rollback-successful/"><u>Driver Rollback Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-rtx210-a-leap-forward-in-graphics-for-win11-users/"><u>GeForce RTX210: A Leap Forward in Graphics for Win11 Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-crafting-cinema-youtubes-compreranche-guide-for-filmmakers/"><u>In 2024, Crafting Cinema YouTube's Compreranche Guide for Filmmakers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 8</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-video-framing-mastery-letterbox-technique-for-social-media-content/"><u>In 2024, Video Framing Mastery Letterbox Technique for Social Media Content</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-horizontal-line-displacement/"><u>Rectify Horizontal Line Displacement</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-amds-display-driver-anomalies-for-win11/"><u>Resolving AMD's Display Driver Anomalies for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlined-performance-new-amd-graphics-drivers-for-win10/"><u>Streamlined Performance: New AMD Graphics Drivers for Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tap-out-lags-not-bugs/"><u>Tap Out Lags, Not Bugs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quintet-of-top-tier-write-enhancers-windows-edition/"><u>The Quintet of Top-Tier Write Enhancers (Windows Edition)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-methods-to-manipulate-amplitude-in-mp3-wav-and-mpeg-files/"><u>Updated Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/weekend-deal-slash-prices-by-half-on-arlo-secure-home-package/"><u>Weekend Deal: Slash Prices by Half on Arlo Secure Home Package</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-path-to-popularity-making-videos-go-viral/"><u>[New] In 2024, The Path to Popularity Making Videos Go Viral</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-master-the-art-of-snaps-15-pro-tips/"><u>[Updated] 2024 Approved Master the Art of Snaps 15 Pro Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expert-techniques-for-ae-title-creation-for-2024/"><u>[Updated] Expert Techniques for AE Title Creation for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovators-crafting-next-gen-virtual-worlds/"><u>[Updated] Innovators Crafting Next-Gen Virtual Worlds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-download-your-favorite-shows-anytime-everywhere-with-these-apps/"><u>2024 Approved Download Your Favorite Shows Anytime, Everywhere with These Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instagram-video-sharing-essentials/"><u>2024 Approved Instagram Video Sharing Essentials</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-metaverse-displays-the-ultimate-8-picks/"><u>2024 Approved Optimal Metaverse Displays The Ultimate 8 Picks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-premier-comedy-photo-stylist-tool/"><u>2024 Approved Premier Comedy Photo Stylist Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-large-desktop-screens-on-win10/"><u>Adjusting Large Desktop Screens on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-screen-shutdown-in-fall-update/"><u>Clearing Screen Shutdown in Fall Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-error-alert-win-stops-due-to-nvidia-issue/"><u>Fixed Error Alert - Win Stops Due to NVIDIA Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-checkout-successful-on-nvidia-installer/"><u>Hardware Checkout Successful on NVIDIA Installer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-screen-sharpness-solution/"><u>Immediate Screen Sharpness Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-google-pixel-fold-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Google Pixel Fold to PC? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-failure-rectified-system-running-smoothly/"><u>Nvidia Failure Rectified, System Running Smoothly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-invisible-card-errors/"><u>Resolve Invisible Card Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-silence-diagnosing-darkness/"><u>Screen Silence: Diagnosing Darkness</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728494271542-sd3/"><u>SDメモリーカードから失われた写真を再構築する3手法</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
 </ul></div>
 

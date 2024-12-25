@@ -1,7 +1,7 @@
 ---
 title: How to Fix GTX # Query
-date: 2024-12-11T17:13:06.187Z
-updated: 2024-12-15T22:48:34.118Z
+date: 2024-12-23T22:48:55.272Z
+updated: 2024-12-25T02:42:54.814Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -54,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
@@ -66,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -84,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -92,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -107,17 +115,9 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,22 +155,24 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-resolved-windows-no-amd-driver-found/"><u>[CORRECTED] Resolved Windows: No AMD Driver Found</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-cutting-edge-cams-for-novices-in-24/"><u>[New] In 2024, Cutting-Edge Cams for Novices in '24</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-fanfare-gaming-patch-for-2024/"><u>[Updated] Fanfare Gaming Patch for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-cutest-and-most-informative-igtvs-now-for-2024/"><u>[Updated] The Cutest & Most Informative IGTVs Now for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bringing-back-brightness-to-lenovo-laptops/"><u>Bringing Back Brightness to Lenovo Laptops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dell-display-hiccups-ended-successfully/"><u>Dell Display Hiccups Ended Successfully</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drone-innovations-today-and-their-imminent-breakthroughs/"><u>Drone Innovations Today and Their Imminent Breakthroughs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expand-screen-real-estate-with-wins11-pro/"><u>Expand Screen Real Estate with Wins11 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/most-innovative-8-private-video-downloaders-for-2024/"><u>Most Innovative 8 Private Video Downloaders for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-device-problem-reported-by-nvidia-halted-win/"><u>Overcome: Device Problem Reported by Nvidia Halted Win</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-inconsistent-monitor-behavior/"><u>Overcoming Inconsistent Monitor Behavior</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/premier-audio-broadcasts-networks/"><u>Premier Audio Broadcasts Networks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-gpu-software-for-smooth-minecraft/"><u>Stabilizing GPU Software for Smooth Minecraft</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-to-rectify-ignored-graphics-card-detection/"><u>Strategies to Rectify Ignored Graphics Card Detection</u></a></li>
-<li><a href="https://fox-place.techidaily.com/trouble-with-your-printers-scanner-master-the-troubleshooting-steps-to-get-it-up-and-running/"><u>Trouble with Your Printer's Scanner? Master the Troubleshooting Steps to Get It Up & Running!</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-11-pro-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 11 Pro without Face ID</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-troubleshooting-offline-play-for-cod-cold-war/"><u>[FIXED] Troubleshooting Offline Play for CoD Cold War</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-precision-and-performance-gamers-equipment-showcase/"><u>[Updated] In 2024, Precision & Performance Gamer's Equipment Showcase</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-is-active-presenter-8-the-peak-of-recording-in-2024/"><u>[Updated] Is Active Presenter 8 the Peak of Recording, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-streamlining-your-presentations-vimeo-video-embedding-in-powerpoint/"><u>2024 Approved Streamlining Your Presentations Vimeo Video Embedding in PowerPoint</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-display-issue-windows-11-now-shows-fullscreen/"><u>Corrected Display Issue - Windows 11 Now Shows Fullscreen</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/executive-strategies-overcoming-obstacles-in-artificial-intelligence/"><u>Executive Strategies: Overcoming Obstacles in Artificial Intelligence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-gaps-in-wide-windows-10/"><u>Fixed Display Gaps in Wide Windows 10</u></a></li>
+<li><a href="https://win-help.techidaily.com/future-of-free-updates-ending-microsoft-plans-to-introduce-charges-for-windows-amo-updates-estimated-costs-revealed/"><u>Future of Free Updates Ending? Microsoft Plans to Introduce Charges for Windows Amo! Updates - Estimated Costs Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-enhanced-support-for-windows-11/"><u>GeForce RTX210: Enhanced Support for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-end-visuals-repaired-windows-update/"><u>High-End Visuals Repaired: Windows Update</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-20-proplus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 20 Pro+ Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-response-to-laptop-screen-horizontal-distortion-issues/"><u>Rapid Response to Laptop Screen Horizontal Distortion Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieving-missing-video-controls-for-nvidia-devices/"><u>Retrieving Missing Video Controls for NVIDIA Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-chat-history-sharing-with-these-innovative-tools/"><u>Streamline Chat History Sharing with These Innovative Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-stabilized-post-gpu-interruption/"><u>System Stabilized Post GPU Interruption</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-s23plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel S23+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winstopscausedbynvidiaerror-now-fixed/"><u>WinStopsCausedByNvidiaError, Now Fixed</u></a></li>
 </ul></div>
 

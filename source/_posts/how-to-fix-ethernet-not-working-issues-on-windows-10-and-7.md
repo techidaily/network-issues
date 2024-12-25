@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 10 & 7
-date: 2024-12-13T05:02:26.508Z
-updated: 2024-12-16T08:51:02.164Z
+date: 2024-12-17T23:57:04.175Z
+updated: 2024-12-25T00:06:58.921Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -66,14 +70,14 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -100,11 +108,11 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -114,10 +122,6 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -130,10 +134,6 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,24 +156,21 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-digital-media-mapper-for-2024/"><u>[New] Digital Media Mapper for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-discover-times-tales-top-10-historical-channels-to-study-with/"><u>[New] Discover Time's Tales Top 10 Historical Channels to Study With</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-descriptive-power-for-3-engaging-instagram-video-stories-for-2024/"><u>[New] Leveraging Descriptive Power for 3 Engaging Instagram Video Stories for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-no-stress-just-nfts-a-beginners-handbook/"><u>[New] No Stress, Just NFTs A Beginner’s Handbook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-features-of-magix-video-pro-x/"><u>[Updated] Navigating the Features of Magix Video Pro X</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-fix-guide-successful-transmission-of-videos-on-the-social-networking-app-messenger-for-2024/"><u>[Updated] Quick Fix Guide Successful Transmission of Videos on the Social Networking App Messenger for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-freezing-screen-in-win10-os/"><u>Cure Freezing Screen in Win10 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-driver-43-problem-solved/"><u>Device Driver 43 - Problem Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-the-cause-behind-no-wi-fi-in-windows-11/"><u>Discover the Cause Behind No Wi-Fi in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminated-issue-windows-10-monitors-not-showing-all-windows/"><u>Eliminated Issue - Windows 10 Monitors Not Showing All Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-exploration-the-new-parrot-ar-edition/"><u>Elite Exploration The New Parrot AR Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-computers-networking-wi-fi-lan-card-setup-for-os-xwindows/"><u>Enhance Your Computer's Networking: Wi-Fi LAN Card Setup for OS X/Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-anomaly-resolved-in-display-driver-fix/"><u>GPU Anomaly Resolved in Display Driver Fix</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Bootloader Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-facetune-walkthrough-for-stunning-photos/"><u>In 2024, The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/initiating-functional-screen-output-in-portables/"><u>Initiating Functional Screen Output in Portables</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-tdr-alert-opengl-error-now-armored/"><u>Overcome TDR Alert: OpenGL Error, Now Armored</u></a></li>
-<li><a href="https://win-bits.techidaily.com/portable-power-up-for-your-pc-mastering-the-art-of-windows-11-cloning-with-rufus-tricks/"><u>Portable Power-Up for Your PC: Mastering the Art of Windows 11 Cloning with Rufus Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-solving-youtubes-green-mishaps/"><u>Swiftly Solving YouTube's Green Mishaps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-call-of-duty-cold-war-not-connecting-to-online-services-2024/"><u>[SOLVED] Call of Duty Cold War Not Connecting to Online Services 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-halting-real-time-recordings-on-qt-player/"><u>[Updated] 2024 Approved Halting Real-Time Recordings on QT Player</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hits-to-strikes-expert-youtube-studio-editing-strategies-for-2024/"><u>[Updated] From Hits to Strikes Expert YouTube Studio Editing Strategies for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-crashes-in-windows-10/"><u>Conquering AMD Radeon R9 Driver Crashes in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-around-the-device-cant-receive-miracast-problem-with-simple-fixes/"><u>Getting Around the 'Device Can't Receive Miracast' Problem with Simple Fixes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-14-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-k70e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi K70E Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-visual-potential-with-smart-photo-text-tools-online/"><u>In 2024, Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974751384-introducing-an-effortless-upgrade-for-intel-hd-graphics-on-windows-10-devices/"><u>Introducing an Effortless Upgrade for Intel HD Graphics on Windows 10 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mending-saving-functionality-for-display-settings-on-windows/"><u>Mending Saving Functionality for Display Settings on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-issue-resolved-all-systems-go/"><u>Nvidia Driver Issue Resolved, All Systems Go</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-high-end-displays-successful-update/"><u>Restore High-End Displays - Successful Update</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-compilation-techniques-for-posting-youtube-videos-on-facebook-for-2024/"><u>The Ultimate Compilation Techniques for Posting YouTube Videos on Facebook for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719973983446-transform-your-pcs-display-quality-update-to-new-intel-graphics-hd-3000-for-windows-10/"><u>Transform Your PC’s Display Quality: Update to New Intel Graphics HD 3000 for Windows 10.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4wmv3/"><u>フリーソフト対策案! MP4からWMVへの変換方法3選を解説する</u></a></li>
 </ul></div>
 

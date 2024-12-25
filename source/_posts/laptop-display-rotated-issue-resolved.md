@@ -1,7 +1,7 @@
 ---
 title: Laptop Display Rotated - Issue Resolved
-date: 2024-12-12T21:07:56.549Z
-updated: 2024-12-16T08:59:56.234Z
+date: 2024-12-20T03:54:52.918Z
+updated: 2024-12-24T22:10:17.231Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -36,7 +40,7 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -47,17 +51,17 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -73,15 +77,11 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -105,18 +105,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-strategies-for-youtube-and-twitch-via-obs/"><u>[New] In 2024, Essential Strategies for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>[Updated] Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhance-listening-experience-on-pc-get-x-recorder-software/"><u>2024 Approved Enhance Listening Experience on PC – Get X-Recorder Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-15-activities-perfect-for-podcast-lovers/"><u>2024 Approved Top 15 Activities Perfect for Podcast Lovers</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/activating-hidden-asus-video-feature/"><u>Activating Hidden Asus Video Feature</u></a></li>
-<li><a href="https://network-issues.techidaily.com/combat-video-card-glitches-for-smooth-viewing/"><u>Combat Video Card Glitches for Smooth Viewing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-nvidiaintel-switchable-graphics-confusion-on-windows-10/"><u>End of NVIDIA/Intel Switchable Graphics Confusion on Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-guide-to-winning-on-spotify-ad-campaigns/"><u>Essential Guide to Winning on Spotify Ad Campaigns</u></a></li>
-<li><a href="https://article-files.techidaily.com/fabricate-personalized-viral-memes/"><u>Fabricate Personalized Viral Memes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-vertical-precision-on-screens/"><u>Fix Vertical Precision on Screens</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphones-high-dynamic-range-step-by-step-guide/"><u>IPhone's High Dynamic Range Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-pc-gaming-experience-for-roblox/"><u>Optimize PC Gaming Experience for Roblox</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-a-comprehensive-look-at-merging-youtube-content-into-instagrams-story-feature/"><u>[New] A Comprehensive Look at Merging YouTube Content Into Instagram's Story Feature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transitioning-from-standard-to-custom-thumbnails-in-twitter-videos/"><u>[New] Transitioning From Standard to Custom Thumbnails in Twitter Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[Updated] In 2024, How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevating-video-marketing-with-youtube-thumbnails/"><u>2024 Approved Elevating Video Marketing with YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-workflow-dynamics-for-devs/"><u>AI-Driven Workflow Dynamics for Devs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/apex-alchemy-choosing-the-best-laptops-for-video-wizards-for-2024/"><u>Apex Alchemy Choosing the Best Laptops for Video Wizards for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-course-for-youtube-success-viewer-numbers-and-income/"><u>Charting a Course for YouTube Success Viewer Numbers and Income</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-issue-code-43-sorted/"><u>Device Issue: Code 43 Sorted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-upside-down-screen/"><u>Fixing Windows 7 Upside-Down Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/modernize-intellgraphics-on-pcs-with-updated-drivers-for-windows/"><u>Modernize IntellGraphics on PCs with Updated Drivers for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-idle-new-gpu-nonfunctional/"><u>Monitor Idle: New GPU Nonfunctional?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-graphics-display-options-on-nvidia/"><u>Reactivating Graphics Display Options on Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>The Display Settings Could Not Be Saved [Solved]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-singing-machine-sml385btbk-a-user-friendly-vibrant-karaoke-experience/"><u>Ultimate Guide to Singing Machine SML385BTBK - A User-Friendly, Vibrant Karaoke Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-tolerance-for-zoom-cameras-gone-wrong-weve-got-the-fixes/"><u>Zero Tolerance for Zoom Cameras Gone Wrong? We've Got the Fixes!</u></a></li>
 </ul></div>
 

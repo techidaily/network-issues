@@ -1,7 +1,7 @@
 ---
 title: My Computer Screen Upside Down - How to Fix It
-date: 2024-12-12T23:43:17.847Z
-updated: 2024-12-16T10:53:38.764Z
+date: 2024-12-17T16:25:28.150Z
+updated: 2024-12-24T22:19:06.111Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  Don’t worry. This is a common Windows screen issue, and many people have resolved the computer screen upside down issue with the solutions in this post. So read on and get your Windows screen back on track.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to do if my computer is screen upside down?
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  1) Right click the empty area on your desktop, and click**Graphics** **Options** or something similar to that.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
@@ -80,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
 
@@ -98,23 +94,31 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**View by category** , and click**Adjust screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19127f11a3b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the drop down menu next to**Orientation** , and select**Portrait** ,**Landscape (flipped)** ,**Portrait (flipped)** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912cecb794.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll need to try each one to flip your computer screen to a proper orientation.
 
  If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
 
@@ -137,10 +141,6 @@ There are two options to update drivers:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
@@ -173,22 +173,16 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-qualcomm-atheros-qca61x4a-driver-issues-in-windows-11/"><u>[FIXED] Qualcomm Atheros QCA61x4A Driver Issues in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-lgs-27uhd68-enhances-gaming-experience/"><u>[New] How LG's 27UHD68 Enhances Gaming Experience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-border-to-instagram-photos/"><u>[Updated] How to Add Border to Instagram Photos?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-make-highlights-on-instagram/"><u>[Updated] How to Make Highlights on Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-compilation-budget-friendly-editing-tools/"><u>[Updated] In 2024, The Ultimate Compilation Budget-Friendly Editing Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-intense-moment-capture-iphone-burst-mode/"><u>2024 Approved Intense Moment Capture IPhone Burst Mode</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-movie-maker-pro-tips-for-efficient-editing/"><u>2024 Approved YouTube Movie Maker Pro Tips for Efficient Editing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/a-visual-leap-the-newest-win10-compatible-driver-from-nvidia-210/"><u>A Visual Leap: The Newest WIN10-Compatible Driver From Nvidia 210</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-steps-to-refresh-intel-graphics-drivers-on-windows-7-systems/"><u>Easy Steps to Refresh Intel Graphics Drivers on Windows 7 Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-civ-5-crashing-issues-on-pc/"><u>Fix CIV 5 Crashing Issues On PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track-for-2024/"><u>From Zero to Hero on IG How to Garner a Million Fans Fast-Track for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-glitch-recent-purchase-no-display/"><u>Graphics Glitch: Recent Purchase No Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hulks-hurdle-purchase-paralysis/"><u>Hulk's Hurdle: Purchase Paralysis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-fix-for-laptop-distorted-angles/"><u>Immediate Fix for Laptop Distorted Angles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-correction-of-diagonal-screen-gaps/"><u>Swift Correction of Diagonal Screen Gaps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-fintie-cases-for-macbook-pro-13/"><u>Ultimate Guide to Fintie Cases for MacBook Pro 13</u></a></li>
-<li><a href="https://win-bits.techidaily.com/unlock-the-stage-at-home-join-karaokecloud-pro-for-personalized-singing-sessions-and-elevate-your-music-journey/"><u>Unlock the Stage at Home - Join KaraokeCloud Pro for Personalized Singing Sessions and Elevate Your Music Journey!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[New] Can I View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hit-the-bottom-finding-your-best-free-youtube-downloader-app-on-android/"><u>[Updated] 2024 Approved Hit the Bottom - Finding Your Best Free YouTube Downloader App on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved The Artisan's Selection Best Photo Frame Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-dynamics-4-social-medias-reshaped-landscapes/"><u>Digital Dynamics: 4 Social Media's Reshaped Landscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-for-endless-edges-on-desktop/"><u>Halt for Endless Edges on Desktop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-horizon-in-win10-graphics-amd-radeon-hd-6950-drivers-v20/"><u>New Horizon in Win10 Graphics: AMD Radeon HD 6950 Drivers V2.0</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-hidden-windows-10-color-after-cu/"><u>Revealing Hidden Windows 10 Color After CU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-compatibility-issues-in-freesync-sync/"><u>Solving Compatibility Issues in FreeSync Sync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-pcs-display-quality-update-to-new-intel-graphics-hd-3000-for-windows-10/"><u>Transform Your PC’s Display Quality: Update to New Intel Graphics HD 3000 for Windows 10</u></a></li>
 </ul></div>
 

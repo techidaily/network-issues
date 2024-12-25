@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle"
-date: 2024-12-12T10:28:24.358Z
-updated: 2024-12-16T02:09:08.985Z
+date: 2024-12-19T03:43:55.379Z
+updated: 2024-12-25T03:53:16.444Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
@@ -111,21 +111,21 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -152,12 +152,12 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -178,22 +178,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-cinematic-speed-top-cameras-for-slow-motion-videography-for-2024/"><u>[New] Cinematic Speed Top Cameras for Slow Motion Videography for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-gentle-pace-reducing-music-intensity/"><u>[New] In 2024, Gentle Pace Reducing Music Intensity</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/avigating-new-waters-personalbusiness-youtube-channels-made-mobile-ready-for-2024/"><u>[New] Navigating New Waters Personal/Business YouTube Channels Made Mobile-Ready for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-static-shots-to-time-lapse-video-tapestry/"><u>[Updated] From Static Shots to Time-Lapse Video Tapestry</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-best-low-cost-smartwatches-with-gaming-features/"><u>[Updated] In 2024, Best Low-Cost Smartwatches with Gaming Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-producing-channel-trailer-synopses-a-guide/"><u>[Updated] Producing Channel Trailer Synopses A Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-wow-flaw-code-issue-51900319/"><u>Decoding WoW Flaw Code: Issue #51900319</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-solutions-for-an-unresponsive-proximity-sensor-on-your-ios-device/"><u>DIY Solutions for an Unresponsive Proximity Sensor on Your iOS Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-off-screen-joints/"><u>Eradicate Off-Screen Joints</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-problem-to-solution-amd-driver-now-detectable-on-wndows-10/"><u>From Problem to Solution: AMD Driver Now Detectable on Wndows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-explore-best-selections-for-youtube-ringtone-downloads/"><u>In 2024, Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-setup-unhindered-success/"><u>Nvidia Setup: Unhindered Success</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-gpu-fan-operation-blockade/"><u>Overcoming GPU Fan Operation Blockade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-slim-monitor-glitches-in-win11/"><u>Resolved Slim Monitor Glitches in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securing-win-minecraft-stability-by-addressing-driver-issues/"><u>Securing Win-Minecraft Stability by Addressing Driver Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974224760-step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultra-hd-wallpaper-collection-for-your-pcmac-premium-visual-content-including-photos-illustrations-and-more-from-yl-software-solutions/"><u>Ultra HD Wallpaper Collection for Your PC/Mac: Premium Visual Content Including Photos, Illustrations, and More From YL Software Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-snap-happy-with-iphone-burst-mode/"><u>[New] In 2024, Snap-Happy with iPhone Burst Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-maximizing-your-iphones-photographic-features/"><u>[Updated] Expert Advice for Maximizing Your iPhone's Photographic Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-schedule-meetings-on-zoom-webdesktopmobile-for-2024/"><u>[Updated] How to Schedule Meetings on Zoom [Web/Desktop/Mobile] for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-sustaining-a-day-job-while-building-your-online-presence/"><u>[Updated] In 2024, Sustaining a Day Job While Building Your Online Presence</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/boost-your-data-management-leveraging-the-power-of-simplified-recovery-in-sql-servers/"><u>Boost Your Data Management: Leveraging the Power of Simplified Recovery in SQL Servers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bug-fixes-ms-basic-render-for-windows-versions-11-7/"><u>Bug Fixes: MS Basic Render for Windows Versions 11-7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-7-screen-flip-error/"><u>Correcting Windows 7 Screen Flip Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/desktop-displays-down-troubleshoot-guide/"><u>Desktop Displays Down? Troubleshoot Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung ?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-evaluating-the-functionality-of-vidma-screen-replayer/"><u>In 2024, Evaluating the Functionality of Vidma Screen Replayer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-flip-armageddon-averted/"><u>Laptop Screen Flip: Armageddon Averted</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-enter-to-nvidia-config-menu/"><u>Resolved: Enter to Nvidia Config Menu</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-fixing-r6-black-screen-problems-on-your-computer/"><u>Step-by-Step Solution for Fixing R6 Black Screen Problems on Your Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-rapid-screen-changes-in-acer-models/"><u>Troubleshooting Rapid Screen Changes in Acer Models</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10plus-best-podcast-player-apps-for-iphone-and-android/"><u>Updated In 2024, 10+ Best Podcast Player Apps for iPhone and Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-blackout-ended-now/"><u>Window's 10 Blackout: Ended Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-unexpectedly-missing-wi-fi/"><u>Windows 11: Unexpectedly Missing Wi-Fi?</u></a></li>
 </ul></div>
 

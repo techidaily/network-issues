@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2024-12-14T20:57:17.202Z
-updated: 2024-12-16T04:59:11.787Z
+date: 2024-12-21T22:23:53.077Z
+updated: 2024-12-25T00:43:22.411Z
 tags:
   - win11
   - win10
@@ -66,17 +66,17 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -105,10 +101,14 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -132,7 +132,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
@@ -156,24 +156,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-diving-into-viral-video-dialogues-for-2024/"><u>[Updated] Diving Into Viral Video Dialogues for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-ins-and-outs-of-quantum-hdr/"><u>[Updated] Exploring the Ins and Outs of Quantum HDR</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-from-srt-to-subc-efficient-conversion-tactics-for-2024/"><u>[Updated] From SRT to SUBC Efficient Conversion Tactics for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ultimate-playbook-navigating-youtube-etiquette/"><u>[Updated] In 2024, Ultimate Playbook Navigating YouTube Etiquette</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974435299-fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-nvidia-alert-causes-windows-stop/"><u>Fixed: Nvidia Alert Causes Windows Stop</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-music-making-software-the-top-10-picks-for-2024/"><u>Free Music Making Software The Top 10 Picks for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/installare-e-personalizzare-la-schermata-di-accesso-in-windows-11/"><u>Installare E Personalizzare La Schermata Di Accesso in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-ai-dialogues-with-confidence-select-top-sharing-apps/"><u>Navigate AI Dialogues with Confidence - Select Top Sharing Apps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-16-best-avi-video-cutters-for-all-platforms/"><u>New 2024 Approved The Ultimate List 16 Best AVI Video Cutters for All Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-gpu-fan-stillness/"><u>Overcoming GPU Fan Stillness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-wow-glitch-no-519/"><u>Overcoming WoW Glitch No. 519</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomms-solution-for-compatible-atheros-drivers-in-windows-11/"><u>Qualcomm's Solution for Compatible Atheros Drivers in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-defy-2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Defy 2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-system-deficiencies-pre-software-deployment/"><u>Tackling System Deficiencies Pre-Software Deployment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-process-for-transforming-multiple-jpg-images-into-a-single-pdf-file/"><u>The Complete Process for Transforming Multiple .JPG Images Into a Single PDF File</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-keeping-a-detailed-record-of-every-online-chat-on-fb/"><u>[New] Keeping a Detailed Record of Every Online Chat on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-summit-elite-25-testing-analysis/"><u>[New] Summit Elite 25 Testing Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>[Updated] In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-untangling-the-video-jams-in-digital-portfolits/"><u>[Updated] Untangling the Video Jams in Digital Portfolits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-unreliable-touchscreen/"><u>Fixing Lenovo's Unreliable Touchscreen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/immersive-memories-a-compreeved-guide-to-saving-your-vr-gaming-journey/"><u>Immersive Memories A Compreeved Guide to Saving Your VR Gaming Journey</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578492484-master-uk-idioms-and-expressions-become-a-true-brit/"><u>Master UK Idioms & Expressions: Become a True Brit</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/rpg-legacy-meets-innovation-written-by-time/"><u>RPG Legacy Meets Innovation' Written by Time</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-stability-challenges-in-civ-5windows/"><u>Tackling Stability Challenges in Civ 5/Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-graphics-nvidiaintel-fix-confirmed-for-win11/"><u>Triumph Over Switchable Graphics - Nvidia/Intel Fix Confirmed for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-no-more-plagues-by-com-issues/"><u>Windows No More Plagues by COM Issues</u></a></li>
 </ul></div>
 

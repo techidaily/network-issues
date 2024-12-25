@@ -1,7 +1,7 @@
 ---
 title: "Sideways Display: Problem Solved"
-date: 2024-12-10T22:04:01.817Z
-updated: 2024-12-15T23:45:18.416Z
+date: 2024-12-23T20:25:14.118Z
+updated: 2024-12-25T04:44:39.699Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -40,7 +40,7 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -51,14 +51,18 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -74,15 +78,11 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,22 +105,18 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-screen-share-problem-between-laptop-and-tv/"><u>[Fixed] Screen Share Problem Between Laptop & TV</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-uncovering-veiled-viewer-interactions-with-video-content/"><u>[New] In 2024, Uncovering Veiled Viewer Interactions with Video Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-8-leading-edge-screensnap-solutions/"><u>[Updated] 8 Leading-Edge Screensnap Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-system-updates-implementing-macos-sierra/"><u>[Updated] Seamless System Updates Implementing macOS Sierra</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-intellect-in-your-hand-the-moto-z2-breakdown/"><u>2024 Approved Intellect in Your Hand The Moto Z2 Breakdown</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>2024 Approved The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-nvidiaintel-switch-failure-a-solution-for-win10-users/"><u>Eliminating NVIDIA/Intel Switch Failure: A Solution for Win10 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974376087-fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-defy-2-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Defy 2 Pattern Lock Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974868416-lenovo-tap-issue-now-solved/"><u>Lenovo Tap Issue, Now Solved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtx-2080-driver-update-compatible-with-windows-11-7-and-earlier-versions-of-microsoft-os/"><u>RTX 2080 Driver Update - Compatible with Windows 11, 7 and Earlier Versions of Microsoft OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-access-to-your-chatgpt-account-identifying-four-critical-blocking-factors-with-actionable-fixes/"><u>Securing Access to Your ChatGPT Account: Identifying Four Critical Blocking Factors with Actionable Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilize-your-win11-monitor-quicker/"><u>Stabilize Your Win11 Monitor Quicker</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-case-picks/"><u>Top-Rated iPhone 15 Case Picks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-dimmed-monitor-in-lenovo-pc/"><u>Troubleshooting Dimmed Monitor in Lenovo PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974738613-windows-10-cant-change-resolution-solved/"><u>Windows 10 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-tips-for-adding-youtube-music-to-video/"><u>[New] 2024 Approved Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[Updated] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-wmp-techniques-for-efficient-cd-handling-and-recordings/"><u>[Updated] Master WMP Techniques for Efficient CD Handling and Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-beta-to-breakthrough-the-most-prominent-cam-recorders-top-18/"><u>2024 Approved From Beta to Breakthrough The Most Prominent Cam Recorders (Top 18)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-bank-balance-effective-tactics-for-mobile-video-money-making-for-2024/"><u>Boosting Bank Balance Effective Tactics for Mobile Video Money-Making for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-inconsistent-reflective-surface-flashes/"><u>Eliminated Inconsistent Reflective Surface Flashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-troubleshooting-error-43/"><u>GPU Troubleshooting: Error 43</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-detailed-insights-into-youtubes-perfected-aspect-ratios/"><u>In 2024, Detailed Insights Into YouTube's Perfected Aspect Ratios</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-youtubes-livestream-landscape-without-massive-followings/"><u>Navigating YouTube's Livestream Landscape without Massive Followings</u></a></li>
+<li><a href="https://win-help.techidaily.com/newly-released-features-of-copilot-in-microsoft-365-unveiling-the-latest-artificial-intelligence-capabilities/"><u>Newly Released Features of Copilot in Microsoft 365 - Unveiling the Latest Artificial Intelligence Capabilities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-no-compatible-graphics-hardware-was-found-solved/"><u>Overwatch No Compatible Graphics Hardware Was Found [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-display-dilemma-effective-tactics-for-sharpening-blurry-text-on-windows-10/"><u>Resolve Your Display Dilemma: Effective Tactics for Sharpening Blurry Text on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-upside-down-screen-on-windows-11-os/"><u>Reversing Upside Down Screen on Windows 11 OS</u></a></li>
 </ul></div>
 

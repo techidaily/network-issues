@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2024-12-11T19:04:50.198Z
-updated: 2024-12-16T07:58:43.608Z
+date: 2024-12-22T00:26:36.774Z
+updated: 2024-12-25T03:38:37.897Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -69,16 +73,12 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -98,14 +98,14 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -129,16 +129,24 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-hd-video-recording-for-windows-10-users/"><u>[New] HD Video Recording for Windows 10 Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-best-ios-camera-apps-to-elevate-your-iphone-imagery/"><u>[New] In 2024, The Best iOS Camera Apps to Elevate Your iPhone Imagery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-proven-iphone-tips-effortless-video-length-and-size-control-for-2024/"><u>[New] Proven iPhone Tips Effortless Video Length & Size Control for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-instagram-accelerator-unveiling-the-fastest-path-to-follower-fortune-and-fanfare/"><u>[Updated] The Ultimate Instagram Accelerator Unveiling the Fastest Path to Follower Fortune & Fanfare</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-your-place-in-youtube-earnings/"><u>[Updated] Understanding Your Place in YouTube Earnings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-rapid-blinking-behavior-in-hp-monitors/"><u>Correcting Rapid Blinking Behavior in HP Monitors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-edge-editing-with-youtubes-studio-editor/"><u>Cutting-Edge Editing with YouTube's Studio Editor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-screen-correction-for-windows-10/"><u>Reverse Screen Correction for Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/strengthen-your-safe-space-top-5-corrections-in-windows-features/"><u>Strengthen Your Safe Space: Top 5 Corrections in Windows Features</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wow-issue-fix-guide-problem-51900319/"><u>WOW Issue Fix Guide: Problem #51900319</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pinnacle-10-royale-clashes/"><u>[New] 2024 Approved Pinnacle 10 Royale Clashes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-engagement-posting-youtube-video-on-fb/"><u>[New] Elevate Engagement Posting YouTube Video on FB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-strategic-insights-for-triumph-in-smm-for-2024/"><u>[New] Strategic Insights for Triumph in SMM for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-virtual-gallery-combining-crescendos-with-clarity/"><u>[Updated] In 2024, Virtual Gallery Combining Crescendos with Clarity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>2024 Approved Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-drivers-download-canon-xp-print-software/"><u>Essential Drivers: Download Canon XP Print Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-camcorders-for-motion-free-videos/"><u>Excellent Camcorders for Motion-Free Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-dark-side-an-insightful-review-into-barnes-and-nobles-nook-glowlight-3-the-e-reader-for-dim-ambiance-devotees/"><u>Exploring the Dark Side: An Insightful Review Into Barnes & Noble's Nook GlowLight 3 – The E-Reader for Dim Ambiance Devotees.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4-stability-achieved-on-pc/"><u>Fallout 4 Stability Achieved on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-hot-40-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Hot 40 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-settings-persistence-issue/"><u>Fixed Display Settings Persistence Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-add-external-wireless-capability-with-new-hardware-and-drivers/"><u>How to Add External Wireless Capability with New Hardware & Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-invisible-gpu-adapter-errors/"><u>Overcome Invisible GPU Adapter Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-touchscreen-after-troubleshooting/"><u>Rejuvenated Lenovo Touchscreen After Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-backside-view-issue-in-windows-7/"><u>Solving Backside View Issue in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-port-reset-failed-on-windows-11-when-connected-to-an-unknown-usb-device/"><u>Step-by-Step Fix for 'Port Reset Failed' On Windows 11 When Connected to an Unknown USB Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uncover-stealthy-screen-drop/"><u>Uncover Stealthy Screen Drop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-nature-of-4k-uhd-images/"><u>Unveiling the Nature of 4K UHD Images</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-annoyance-constantly-disconnected/"><u>Wi-Fi Annoyance: Constantly Disconnected</u></a></li>
 </ul></div>
 

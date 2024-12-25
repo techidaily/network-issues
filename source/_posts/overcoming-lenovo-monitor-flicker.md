@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lenovo Monitor Flicker
-date: 2024-12-13T01:51:28.666Z
-updated: 2024-12-16T09:51:19.458Z
+date: 2024-12-23T04:25:52.056Z
+updated: 2024-12-24T21:46:18.399Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -51,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -74,6 +70,10 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
@@ -83,18 +83,18 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-**6)** Restart your laptop and see if the screen of your laptop recovers.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**6)** Restart your laptop and see if the screen of your laptop recovers.
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -125,22 +125,20 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-solo-strategies-making-your-podcast-sensational/"><u>[New] Solo Strategies Making Your Podcast Sensational</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reinstated-screen-functionality-following-nvidia-error/"><u>[Reinstated] Screen Functionality Following Nvidia Error</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cringe-worthy-tweets-the-collection/"><u>[Updated] In 2024, Cringe-Worthy Tweets The Collection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-merge-visual-media-with-music-tracks-in-premiere-pro/"><u>[Updated] Merge Visual Media With Music Tracks in Premiere Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-weave-of-wisdom-mastering-looms-tech-for-2024/"><u>[Updated] The Weave of Wisdom Mastering Loom's Tech for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-art-of-recording-fun-6-techniques-to-document-minecraft/"><u>2024 Approved The Art of Recording Fun 6 Techniques to Document Minecraft</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bring-your-stories-alive-techniques-for-animation-in-text/"><u>Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-powered-sonic-exploration-transforming-your-daw-soundscapes-effortlessly/"><u>ChatGPT-Powered Sonic Exploration: Transforming Your DAW Soundscapes Effortlessly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-windows-10-functionality-with-geforce/"><u>Enhanced Windows 10 Functionality with GeForce</u></a></li>
-<li><a href="https://network-issues.techidaily.com/failed-to-initialize-direct3d-fixed/"><u>Failed to Initialize Direct3D [Fixed]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-kitchen-clips-to-artificial-intelligence-unveiling-the-connection/"><u>From Kitchen Clips to Artificial Intelligence: Unveiling the Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-address-error-c1900101-during-setup/"><u>How to Address Error C1900101 During Setup</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oneplus-ace-2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On OnePlus Ace 2</u></a></li>
-<li><a href="https://network-issues.techidaily.com/microsofts-drive-revision-for-versions-11-7/"><u>Microsoft's DRIVE Revision for Versions 11-7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-smoothly-conquering-pauses/"><u>Navigate Smoothly: Conquering Pauses</u></a></li>
-<li><a href="https://network-issues.techidaily.com/peeling-back-layers-on-cryptic-direct-x-mishaps-in-leagues/"><u>Peeling Back Layers on Cryptic Direct X Mishaps in Leagues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-playlist-on-youtube-a-complete-guide-for-2024/"><u>[New] How to Create a Playlist on Youtube - a Complete Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-incorporating-yt-playlists-into-web-design/"><u>[New] Incorporating YT Playlists Into Web Design</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-snaptube-downloader-snag-twitter-videos-on-iphone/"><u>[New] SnapTube Downloader Snag Twitter Videos on iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-invisible-snapshotting-hidden-image-recording-on-snapchat-for-2024/"><u>[Updated] Invisible Snapshotting Hidden Image Recording on Snapchat for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-in-windows-solved-by-dxgkrnlsys-fix/"><u>BlueScreen of Death in Windows Solved by dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disarrayed-displays-dilemma/"><u>Disarrayed Displays Dilemma</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-handling-jvmdll-errors-on-windows/"><u>Effective Solutions for Handling JVM.dll Errors on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-forgotten-vram-signal/"><u>Eradicate Forgotten VRAM Signal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-text-transitions-reels/"><u>In 2024, Top-Tier Text Transitions Reels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-invisible-monitor-mishaps/"><u>Overcoming Invisible Monitor Mishaps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-setback-window-full-display-unachieved-in-windows-10/"><u>Screen Setback: Window Full Display Unachieved in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/take-your-vms-speed-to-new-heights-six-techniques-for-windows/"><u>Take Your VM's Speed to New Heights - Six Techniques for Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-archivos-m4v-a-formato-vob-sin-costo-con-herramientas-de-conversion-online-gratuita/"><u>Transforma Archivos M4V a Formato VOB Sin Costo Con Herramientas De Conversión Online Gratuita</u></a></li>
+<li><a href="https://network-issues.techidaily.com/window-display-fix-in-windows-10-not-all-are-shown/"><u>Window Display Fix in Windows 10 - Not All Are Shown</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-strategy-fixing-gpu-drivers-to-prevent-crashes/"><u>Winning Strategy: Fixing GPU Drivers to Prevent Crashes</u></a></li>
 </ul></div>
 

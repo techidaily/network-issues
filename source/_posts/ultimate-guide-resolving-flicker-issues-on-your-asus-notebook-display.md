@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Flicker Issues on Your Asus Notebook Display"
-date: 2024-12-08T19:37:51.802Z
-updated: 2024-12-16T04:46:47.033Z
+date: 2024-12-20T19:21:01.575Z
+updated: 2024-12-25T01:28:58.064Z
 tags:
   - win11
   - win10
@@ -40,16 +40,8 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
@@ -66,14 +58,18 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 2: Update or delete incompatible apps
 
@@ -85,7 +81,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
@@ -102,6 +98,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
@@ -111,10 +111,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
  5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -126,6 +122,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
 
@@ -154,15 +154,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-earning-potential-revenue-from-youtube-advertisements/"><u>[New] In 2024, Exploring Earning Potential Revenue From YouTube Advertisements?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-real-time-hardware-for-vr-for-2024/"><u>[New] Real-Time Hardware for VR for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-windowsmac-srt-sound-management/"><u>[New] Windows/Mac SRT Sound Management</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causes-winos-bsod-error/"><u>[Resolved] dxgkrnl.sys Causes WinOS BSOD Error</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/budding-filmmakers-check-out-these-gopro-upgrades-for-2024/"><u>Budding Filmmakers, Check Out These GoPro Upgrades for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearer-screens-setup-in-latest-windows-11-os/"><u>Clearer Screens Setup in Latest Windows 11 OS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-shine-bright-easy-brightening-for-iphones-visual-content/"><u>In 2024, Shine Bright Easy Brightening for iPhone's Visual Content</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pixel-problem-gpu-search-failed/"><u>Pixel Problem: GPU Search Failed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secure-and-solid-fixing-atheros-qca61x4-drivers-on-windows-11/"><u>Secure and Solid: Fixing Atheros QCA61x4 Drivers on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-fidelity-game-recording-tools-for-2024/"><u>[New] High Fidelity Game Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>[New] Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-fixed-added-amd-drivers-to-win10-system/"><u>[RENDERING FIXED] Added AMD Drivers to Win10 System</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade/"><u>[Updated] Revolutionize Video Files with Instant FB to MP4 & HD Upgrade</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-earning-more-utilizing-youtubes-income-tools-on-all-devices/"><u>2024 Approved Earning More Utilizing YouTube's Income Tools on All Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayerror-in-windows-ui-graphic-system-ready-for-resolution/"><u>DisplayError in WIndows UI Graphic System (Ready for Resolution)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-selection-the-finest-ai-writing-services/"><u>Explore the Ultimate Selection: The Finest AI Writing Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-flipped-display-problem/"><u>Fixing the Flipped Display Problem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/harnessing-the-power-of-hp-copilotplus-laptop-for-peak-productivity-in-remote-work-a-case-study-by-zdnet/"><u>Harnessing the Power of HP Copilot+ Laptop for Peak Productivity in Remote Work - A Case Study by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-fixed-on-win-10-systems/"><u>High-DPI Settings Fixed on Win 10 Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-digital-dawnings-of-insight-augmented-metaverse-mantras/"><u>In 2024, Digital Dawnings of Insight Augmented Metaverse Mantras</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-display-aspect-ratios/"><u>Rectify Display Aspect Ratios</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-crt-refresh-rate-glitches/"><u>Tackle CRT Refresh Rate Glitches</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-5-most-noteworthy-tech-failures-in-recent-times/"><u>The 5 Most Noteworthy Tech Failures in Recent Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/tranquil-interludes-unlock-idle-games/"><u>Tranquil Interludes: Unlock Idle Games</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-synthesizing-soundscapes-the-definitive-list-of-the-best-7-daws-to-elevate-your-guitar-experience/"><u>Updated In 2024, Synthesizing Soundscapes The Definitive List of the Best 7 DAWs to Elevate Your Guitar Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/warriors-wrath-gameplay-improved/"><u>Warrior's Wrath: Gameplay Improved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-post-update-video-hiccups-no-more-glitches/"><u>Win11: Post-Update Video Hiccups - No More Glitches</u></a></li>
 </ul></div>
 

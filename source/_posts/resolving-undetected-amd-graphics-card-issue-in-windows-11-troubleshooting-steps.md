@@ -1,7 +1,7 @@
 ---
 title: "Resolving Undetected AMD Graphics Card Issue in Windows 11: Troubleshooting Steps"
-date: 2024-12-15T03:32:33.305Z
-updated: 2024-12-16T06:59:16.771Z
+date: 2024-12-21T21:09:20.344Z
+updated: 2024-12-24T16:12:57.403Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -50,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ###  Solution 2: Reinstall the AMD graphics driver
 
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,19 +104,18 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[New] 2024 Approved Step Up Your Gameplay Our List of Top 12 PC Clicker Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-which-movie-software-takes-the-lead-vlc-vs-mx/"><u>2024 Approved Which Movie Software Takes The Lead? VLC Vs. MX</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-c55-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-win11-dark-mode-glitch/"><u>Clearing Up Win11 Dark Mode Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake-in-windows-10/"><u>Correcting Aspect Ratio Mistake in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-setup-not-appearing-in-windows-11/"><u>Display Setup Not Appearing in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-update-halt-blackout/"><u>Driver Update Halt: Blackout</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-savings-alert-score-metas-premium-512gb-quest-3-for-unmatched-virtual-reality-experience-zdnet/"><u>Exceptional Savings Alert! Score Meta’s Premium 512GB Quest 3 for Unmatched Virtual Reality Experience | ZDNET</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>In 2024, Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-seo-101-skyrocket-your-youtube-traffic/"><u>In 2024, SEO 101 Skyrocket Your YouTube Traffic</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-avs-video-editor-a-comprehensive-review-and-analysis/"><u>New AVS Video Editor A Comprehensive Review and Analysis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx210-update-boosts-windows-11-performance/"><u>RTX210 Update Boosts Windows 11 Performance</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-spotlight-synthesis-blending-lights-for-video-excellence/"><u>[New] 2024 Approved Spotlight Synthesis Blending Lights for Video Excellence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-start-up-to-success-how-to-register-a-professional-account-on-instagram/"><u>[Updated] In 2024, From Start-Up to Success How to Register a Professional Account on Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfecting-snapchat-gifting-a-guide-to-gifs/"><u>[Updated] In 2024, Perfecting Snapchat Gifting - A Guide to Gifs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-down-how-nvidia-is-revolutionizing-synthetic-media-with-its-flexible-and-customizable-ai-foundations/"><u>Breaking Down How NVIDIA Is Revolutionizing Synthetic Media with Its Flexible and Customizable AI Foundations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hot-oculus-vr-games-that-everyones-playing/"><u>In 2024, Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-a18-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo A18? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-fast-internet-fix-for-win-1110/"><u>Lightning-Fast Internet Fix for WIN 11/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-fix-overcoming-fallout-4-glitches/"><u>PC Fix: Overcoming Fallout 4 Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-c1900101-during-windows-11-installation/"><u>Remedy for C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-c1900101-error-in-win11-setup/"><u>Resolving C1900101 Error in Win11 Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-screen-newer-gpus-mystery/"><u>Silent Screen: Newer GPU's Mystery?</u></a></li>
 </ul></div>
 

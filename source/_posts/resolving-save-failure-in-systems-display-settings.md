@@ -1,7 +1,7 @@
 ---
 title: Resolving Save Failure in System's Display Settings
-date: 2024-12-13T18:10:22.154Z
-updated: 2024-12-16T08:19:03.091Z
+date: 2024-12-23T22:06:47.615Z
+updated: 2024-12-24T16:24:13.253Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f0
  If you keep getting the**Unable to save display settings** error when trying to connect your PC to more than one display, you’re not alone. The good news is, it’s usually not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Unable to save display settings
@@ -46,17 +46,21 @@ To do so:
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -71,15 +75,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
@@ -105,18 +105,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-hashtags-enhance-your-gaming-youtube-content/"><u>[New] Mastering Hashtags Enhance Your Gaming YouTube Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-up-your-content-game-top-30-video-plans/"><u>[Updated] 2024 Approved Step Up Your Content Game Top 30 Video Plans</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-essential-gear-for-beginner-filmmakers-under-1000-for-2024/"><u>[Updated] Essential Gear for Beginner Filmmakers (Under $1,000) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-hd-video-screen-recorders/"><u>Best HD Video Screen Recorders</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-windows-visuals-with-updated-intellgraphics/"><u>Boost Windows' Visuals with Updated IntellGraphics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/downsizing-big-desktop-screens-win10/"><u>Downsizing Big Desktop Screens Win10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone Phone without Google Account?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>In 2024, Under the Waves Best Practices in Underwater Filming with a GoPro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/samsung-850-evo-ssd-free-download-of-latest-drivers/"><u>Samsung 850 EVO SSD - Free Download of Latest Drivers</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/ssdhddwindows-111087/"><u>SSD到HDD换算路径：详解Windows 11/10/8/7桌面操作</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974894923-win11-window-width-woes-now-fixed/"><u>Win11 Window Width Woes, Now Fixed!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-computings-premium-honda-crv-desktop-background-gallery-immerse-yourself-in-the-jdm-experience/"><u>YL Computing's Premium Honda CRV Desktop Background Gallery - Immerse Yourself in the JDM Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elevate-every-frame-the-best-practices-in-11-video-grading-guides-for-2024/"><u>[New] Elevate Every Frame The Best Practices in 11 Video Grading Guides for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-use-filters-on-instagram-in-2024/"><u>[New] How to Use Filters on Instagram, In 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2024s-premier-gadget-review-channel-selections/"><u>[Updated] 2024'S Premier Gadget Review Channel Selections</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expert-advice-for-saving-and-archiving-periscope-footage-for-2024/"><u>[Updated] Expert Advice for Saving and Archiving Periscope Footage for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-saving-smiles-techniques-for-capturing-twitters-gifs/"><u>2024 Approved Saving Smiles Techniques for Capturing Twitter's GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-newbies-guide-to-av1-codec/"><u>2024 Approved The Newbie's Guide to AV1 Codec</u></a></li>
+<li><a href="https://network-issues.techidaily.com/access-achieved-nvidia-settings-opened/"><u>Access Achieved: Nvidia Settings Opened</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-desktop-hologram-glitch-resolved/"><u>Dell Desktop Hologram Glitch Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exposing-the-invisible-deciphering-lurking-dx-problems-on-legends/"><u>Exposing the Invisible: Deciphering Lurking DX Problems on Legends</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/facetime-call-recording-techniques-unveiled/"><u>Facetime Call Recording Techniques Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-nvidia-7025nforce630a-windows-error/"><u>Fixing Nvidia 7025/nForce630a Windows Error</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-effective-is-windows-defender-against-various-malware-types-expert-analysis-by-yl-software/"><u>How Effective Is Windows Defender Against Various Malware Types? Expert Analysis by YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maintaining-monitor-harmony-on-w11-systems/"><u>Maintaining Monitor Harmony on W11 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win7-display-jitter/"><u>Overcoming Win7 Display Jitter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-spec-limitations-before-driver-installation/"><u>Resolving Spec Limitations Before Driver Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-fail-screen-turned-black/"><u>Silent Fail: Screen Turned Black</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-wacom-device-drivers-missing-error-in-windows-11/"><u>Troubleshooting Steps for Wacom Device Drivers Missing Error in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-collection-top-free-ae-template-packs-for-2024/"><u>Ultimate Collection Top Free AE Template Packs for 2024</u></a></li>
 </ul></div>
 

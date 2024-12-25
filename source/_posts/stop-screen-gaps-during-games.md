@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Gaps During Games
-date: 2024-12-13T19:09:04.740Z
-updated: 2024-12-15T21:36:06.866Z
+date: 2024-12-17T18:46:48.328Z
+updated: 2024-12-25T03:55:20.328Z
 tags:
   - win11
   - win10
@@ -28,16 +28,16 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -57,10 +57,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -68,6 +64,10 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -78,10 +78,6 @@ There are two fixes you can try:
 **Adaptive V-Sync** is a more recommended option. The reason is that it can also prevent your screen from stuttering — an issue often occurs when V-Sync is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### For**Intel** graphics users
 
@@ -94,7 +90,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**AMD** graphics users
@@ -105,11 +101,15 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
@@ -131,18 +131,22 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cultivating-cash-by-critiquing-consumer-commodities-online-for-2024/"><u>[New] Cultivating Cash by Critiquing Consumer Commodities Online for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-depth-look-at-razers-hd-webcam-experience/"><u>[New] In-Depth Look at Razer's HD Webcam Experience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators/"><u>[New] The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-x-server-conflict-resolution/"><u>[Resolved] X Server Conflict Resolution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-effortlessly-enhance-your-watchlist-mastering-dual-display-in-netflix/"><u>[Updated] Effortlessly Enhance Your Watchlist - Mastering Dual Display in Netflix</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flip-screen-resolution-rightside-up/"><u>Flip Screen Resolution Rightside Up</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c210-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C210 to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-lava-yuva-3-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Lava Yuva 3 Pro? Try These Fixes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-speed-up-secrets-eliminating-unwanted-sound-waves/"><u>New Speed-Up Secrets Eliminating Unwanted Sound Waves</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-failed-win-os-graphics-device-link/"><u>Repaired Failed Win-OS Graphics Device Link</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-intel-and-nvidia-switchable-graphics-glitch-on-windows-10/"><u>Solving Intel & Nvidia Switchable Graphics Glitch on Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-s23plus-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel S23+ Phone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[New] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-steps-to-skip-the-water-stained-stock-photos/"><u>[New] In 2024, Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quintessential-10-fight-royale-games/"><u>[Updated] 2024 Approved Quintessential 10 Fight Royale Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-timeless-classics-most-iconic-anime-openers/"><u>[Updated] 2024 Approved Timeless Classics Most Iconic Anime Openers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-tips-mastering-music-on-instagram-for-2024/"><u>[Updated] Top Tips Mastering Music on Instagram for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-elevate-your-web-experience-post-slowdowns/"><u>[WINDOWS] Elevate Your Web Experience Post Slowdowns</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>2024 Approved Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei FRP Bypass Instantly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/evaluating-amds-strategies-for-a-winning-place-in-gaming-hardware/"><u>Evaluating AMD's Strategies for a Winning Place in Gaming Hardware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxwindowlock-up-error-windows-fix-ready/"><u>GfxWindowLock Up Error, WIndows Fix (Ready)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-configuration-for-correct-fullscreen-display/"><u>Monitor Configuration for Correct Fullscreen Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-displays-error-inadequate-graphics-hardware/"><u>Overwatch Displays Error: Inadequate Graphics Hardware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rampage-resolved-frustrating-fetches/"><u>Rampage Resolved: Frustrating Fetches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-jscriptdll-errors-tips-and-tricks-for-immediate-fixes/"><u>Troubleshooting Missing jScript.dll Errors: Tips and Tricks for Immediate Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unpacking-4k-extreme-clarity-and-quality/"><u>Unpacking 4K Extreme Clarity and Quality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackle Sims 4 Absence of Display
-date: 2024-12-12T09:25:54.886Z
-updated: 2024-12-16T01:56:57.262Z
+date: 2024-12-24T00:51:46.689Z
+updated: 2024-12-25T00:15:11.205Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for The Sims 4 White Screen
 
  Here are six fixes that have helped other users resolve the The Sims 4 white screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 4. **[Disable Origin in game](#F4)**
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your device driver
 
@@ -55,19 +47,11 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -101,6 +85,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -117,13 +105,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -143,6 +131,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -156,7 +148,7 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
@@ -178,6 +170,10 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
@@ -185,6 +181,10 @@ Here is how to check if your computer spec has met the requirements:
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -211,20 +211,22 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-selection-turn-your-videos-into-text-fast-for-2024/"><u>[New] Best Selection Turn Your Videos Into Text Fast for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-laugh-out-loud-with-ease-crafting-memes-in-a-flash-for-2024/"><u>[New] Laugh Out Loud with Ease Crafting Memes in a Flash for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-insight-into-selecting-the-top-5-digital-title-makers/"><u>[Updated] 2024 Approved Exclusive Insight Into Selecting the Top 5 Digital Title Makers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-secret-strategies-streamlining-your-stylizing-skills-for-2024/"><u>[Updated] Secret Strategies Streamlining Your Stylizing Skills for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024-thoroughly-assessed-by-tech-gurus-compulist/"><u>2024 - Thoroughly Assessed by Tech Gurus | Compulist</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-panning-top-techniques-for-livestreaming-cricket-games/"><u>2024 Approved Perfect Panning Top Techniques for Livestreaming Cricket Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bdr-enhancements-on-ws-21-ws-10-and-older-windows/"><u>BDR Enhancements on WS-21, WS-10, and Older Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ended-amds-challenge-of-unloading-driver-on-wndows-10/"><u>Ended AMD's Challenge of Unloading Driver on Wndows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-not-recognizing-nvidia-video-hardware/"><u>Fixed: Windows Not Recognizing NVIDIA Video Hardware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-incompatible-freesync-display/"><u>Rectifying Incompatible FreeSync Display</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-navigation-through-all-ipados-releases-explained/"><u>Step-by-Step Navigation Through All iPadOS Releases Explained</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-your-new-world-from-freezing-over-and-over-with-these-fixes/"><u>Stop Your New World From Freezing Over and over with These Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshoot-like-a-pro-easy-msi-graphics-driver-updates-for-win-107-systems/"><u>Troubleshoot Like a Pro: Easy MSI Graphics Driver Updates for Win 10/7 Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-free-fires-voice-alteration-strategies-for-2024/"><u>[New] Free Fire's Voice Alteration Strategies for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-playing-gb-classics-on-a-windows-pc/"><u>[Updated] 2024 Approved Master the Art of Playing GB Classics on a Windows PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-aggregate-video-chat-and-multi-user-platforms/"><u>[Updated] Best Aggregate Video Chat & Multi-User Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[Updated] In 2024, Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vrs-role-in-shaping-future-films-for-2024/"><u>[Updated] VR's Role in Shaping Future Films for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blackout-blues-display-dread/"><u>Blackout Blues: Display Dread</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974863177-enhance-your-systems-graphical-power-with-a-quick-intel-graphics-3000-update-on-w10/"><u>Enhance Your System's Graphical Power with a Quick Intel Graphics 3000 Update on W10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-code-31-unraveled-advanced-techniques-to-rectify-dhcp-issues-in-the-windows-environment/"><u>Error Code 31 Unraveled: Advanced Techniques to Rectify DHCP Issues in the Windows Environment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-recovered-after-driver-malfunction-fix/"><u>Graphics Recovered After Driver Malfunction Fix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>In 2024, Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-intel-drivers-refresh-in-windows-7-os/"><u>Mastering the Art of Intel Drivers Refresh in Windows 7 OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978872254-quick-fix-downloading-and-updating-asus-bluetooth-drivers-with-expert-advice-for-seamless-connectivity/"><u>Quick Fix: Downloading and Updating ASUS Bluetooth Drivers with Expert Advice for Seamless Connectivity.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-connect-your-samsung-in-ear-headphones-with-any-laptop-expert-advice/"><u>Seamlessly Connect Your Samsung In-Ear Headphones with Any Laptop – Expert Advice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-corrective-actions-with-undetected-gpus/"><u>Steps for Corrective Actions with Undetected GPUs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-steps-to-resolve-c1900101-in-windows-11/"><u>Troubleshooting Steps to Resolve C1900101 in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-hidden-black-screens/"><u>Unveiling Hidden Black Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updated-graphics-hardware-now-supports-overwatch/"><u>Updated Graphics Hardware Now Supports Overwatch</u></a></li>
 </ul></div>
 

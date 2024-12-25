@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Rainbow Six Siege Patch Fail - DX12 Error"
-date: 2024-12-11T02:43:55.090Z
-updated: 2024-12-15T23:28:33.265Z
+date: 2024-12-20T00:00:44.317Z
+updated: 2024-12-25T00:44:39.915Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -73,13 +69,17 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -115,7 +115,7 @@ You need to check 2 elements:
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
@@ -124,7 +124,7 @@ You need to check 2 elements:
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
@@ -139,6 +139,10 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -151,10 +155,6 @@ If this fix doesn’t work, move to the next one.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -178,24 +178,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-the-perfect-blend-in-minutes-with-picshot/"><u>[New] Crafting the Perfect Blend in Minutes with Picshot</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-professional-portals-15-youtube-economic-insights/"><u>[Updated] 2024 Approved Professional Portals 15 YouTube Economic Insights</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-secret-to-insta-cash-with-our-guidebook-for-2024/"><u>[Updated] Unlock the Secret to Insta Cash with Our Guidebook for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-boost-your-visibility-fast-instagram-likes-and-vids/"><u>2024 Approved Boost Your Visibility Fast Instagram Likes & Vids</u></a></li>
-<li><a href="https://facebook.techidaily.com/app-trackings-waning-influence-among-iphone-users/"><u>App Tracking's Waning Influence Among iPhone Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-media-stutter-win11s-stream-success-story/"><u>Conquering Media Stutter: Win11's Stream Success Story</u></a></li>
-<li><a href="https://network-issues.techidaily.com/culmination-of-clear-windows-11-screens/"><u>Culmination of Clear Windows 11 Screens</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-gionee-f3-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Gionee F3 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-graphics-new-drivers-for-win10s-amd-radeon-6950/"><u>Enhanced Graphics, New Drivers for Win10's AMD Radeon 6950</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-missing-full-screen-on-11-window-monitors/"><u>Fixed Missing Full Screen on 11 Window Monitors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-flicker-and-pulse-on-win7-display/"><u>Fixing Flicker and Pulse on Win7 Display</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-your-hands-on-bitraser-elitedrive-shredder-advanced-drives-cleanser-for-tech-enthusiasts/"><u>Get Your Hands on BitRaser EliteDrive Shredder: Advanced Drives Cleanser for Tech Enthusiasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-v-purse-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor V Purse Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-action-plan-to-rectify-laptop-display-anomalies/"><u>Immediate Action Plan to Rectify Laptop Display Anomalies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-graphics-issue-darkened-monitor/"><u>Latest Graphics Issue: Darkened Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-screen-jitter-on-windows-7/"><u>Overcoming Screen Jitter on Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-process-of-unresponsive-touchpanels/"><u>Reverse Process of Unresponsive Touchpanels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-engagement-select-best-fonts-for-your-thumbnails-for-2024/"><u>[New] Enhance Engagement Select Best Fonts for Your Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-5-video-editing-platforms-that-dont-feature-in-youtoo/"><u>[New] In 2024, Best 5 Video Editing Platforms That Don't Feature in YouToo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elite-film-clips-anthology/"><u>2024 Approved Elite Film Clips Anthology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-your-win11-display-for-peak-performance/"><u>Adjusting Your Win11 Display for Peak Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-ghosting-track-down-the-missing-nvidia-in-device-manager/"><u>GPU Ghosting? Track Down the Missing NVIDIA in Device Manager</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-the-sweet-spot-top-5-tips-for-channel-growth-for-2024/"><u>Hitting the Sweet Spot Top 5 Tips for Channel Growth for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall hardware drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/interpreting-invisible-stream-errors/"><u>Interpreting Invisible Stream Errors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/looking-beneath-surface-understanding-vr-drawbacks-for-2024/"><u>Looking Beneath Surface Understanding VR Drawbacks for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-feedback-resolved/"><u>Nvidia RTX Feedback - Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-drivers-fixederror-22/"><u>Rectified Drivers' FixedError 22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvidia-conflict-with-win10/"><u>Resolving Nvidia Conflict with Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-disabled-wi-fi-functionality-on-windows-10/"><u>Restored Disabled Wi-Fi Functionality on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-visual-line-continuity/"><u>Streamline Visual Line Continuity</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-redred2-errgfxstate-issue-a-comprehensive-guide/"><u>Troubleshooting the RED_RED2 ERR_GFX_STATE Issue: A Comprehensive Guide</u></a></li>
 </ul></div>
 

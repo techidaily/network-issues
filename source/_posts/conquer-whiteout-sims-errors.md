@@ -1,7 +1,7 @@
 ---
 title: Conquer Whiteout Sims Errors
-date: 2024-12-09T05:50:18.500Z
-updated: 2024-12-15T23:47:41.075Z
+date: 2024-12-22T16:39:03.151Z
+updated: 2024-12-25T07:16:53.387Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 6. **[Does your PC meet the requirements?](#F6)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your device driver
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Repair The Sims 4 in Origin
 
  The Sims 4 white loading screen may occur if the files are corrupt. So you can repair it in Origin to see if it fixes the issue.
@@ -69,10 +73,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -80,6 +80,10 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -93,15 +97,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -116,6 +120,10 @@ Here are the steps:
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -132,7 +140,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
@@ -150,10 +158,6 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -177,10 +181,6 @@ Here is how to check if your computer spec has met the requirements:
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -211,19 +211,24 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhance-your-presence-best-free-tools-for-intriguing-openings-for-2024/"><u>[New] Enhance Your Presence Best Free Tools for Intriguing Openings for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/surmounted-nvidia-extreme-boost-unlocked/"><u>[Surmounted] Nvidia Extreme Boost Unlocked</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-bottom-line-how-much-do-podcasters-take-home-for-2024/"><u>[Updated] The Bottom Line How Much Do Podcasters Take Home for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-secure-your-videos-top-5-fb-downloader-apps-ranked/"><u>2024 Approved Secure Your Videos Top 5 FB Downloader Apps Ranked</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-users-guide-to-navigating-file-explorer-tabs-windows-11-style/"><u>A User's Guide to Navigating File Explorer Tabs, Windows 11 Style</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mizing-youtube-viewing-policies-for-your-content/"><u>Customizing YouTube Viewing Policies for Your Content</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-e13-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto E13?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamlining-your-overwatch-sessions-recording/"><u>In 2024, Streamlining Your Overwatch Sessions Recording</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-recovery-overcome-loot-issue-in-apex/"><u>Instant Recovery: Overcome Loot Issue in Apex</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-invisible-monitor-a-fix-guide/"><u>Lenovo’s Invisible Monitor: A Fix Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-flicker-in-surface-pro-7/"><u>Quelling Flicker in Surface Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-windows-10-lightning-reflection/"><u>Quelling Windows 10 Lightning Reflection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simplified-guide-to-enabling-and-activating-wireless-network-cards/"><u>Simplified Guide to Enabling & Activating Wireless Network Cards</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-broken-microphone-on-your-astro-a10-gaming-keyboard/"><u>Troubleshoot and Repair a Broken Microphone on Your Astro A10 Gaming Keyboard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flixfortress-over-a-hundred-channels-of-fortitude-for-2024/"><u>[New] FlixFortress Over a Hundred Channels of Fortitude for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-easy-content-downloads-on-funimate-for-2024/"><u>[Updated] Discovering Easy Content Downloads on Funimate for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-output-normalized/"><u>Display Output Normalized</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-for-error-22-rectified/"><u>Driver Update for Error 22 Rectified</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expanding-creative-horizons-in-obs-studio-using-luts-for-2024/"><u>Expanding Creative Horizons in OBS Studio Using LUTs for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-130-music-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia 130 Music Phone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-self-designed-instagram-ringtone-creation-steps/"><u>In 2024, Self-Designed Instagram Ringtone Creation Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-aesthetics-unleashed-leading-enhancers/"><u>Instagram Aesthetics Unleashed Leading Enhancers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/neutralizing-screen-volatility-pro-7-guide/"><u>Neutralizing Screen Volatility: Pro 7 Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-control-panel-status-green/"><u>Nvidia Control Panel - Status Green</u></a></li>
+<li><a href="https://network-issues.techidaily.com/persistent-wi-fi-connection-issues/"><u>Persistent Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-display-set-configurations-on-windows-107/"><u>Re-Enabling Display Set Configurations on Windows 10/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-win11-monitor-flashing-issue/"><u>Resolve Win11 Monitor Flashing Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-lost-display-settings-in-windows-oses/"><u>Restoring Lost Display Settings in Windows OSes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-vacation-gadgetry/"><u>The Ultimate Guide to Vacation Gadgetry</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-8-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 8 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-7-current-and-impactful-ways-chatgpt-is-being-utilized-in-practice/"><u>Unveiling 7 Current and Impactful Ways ChatGPT Is Being Utilized in Practice</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-20-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 20 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

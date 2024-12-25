@@ -1,7 +1,7 @@
 ---
 title: GFXUI Lockup on Win OS (Solution Closeby)
-date: 2024-12-09T10:04:40.161Z
-updated: 2024-12-15T17:41:04.892Z
+date: 2024-12-22T16:55:48.597Z
+updated: 2024-12-24T19:08:22.605Z
 tags:
   - win11
   - win10
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf762c2349f.png) and**S** at the same time. Type**turn windows** then click**Turn Windows feature on or off** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
 
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 3) Restart your computer. See if the problem is resolved.
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
@@ -71,11 +75,11 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clean Reinstall Intel Graphics Card Driver
@@ -87,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the option that restart automatically after the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Windows will search for and update the latest version of the display driver it can find for your PC.
 
@@ -122,24 +122,22 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>[New] Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-how-to-fix-lag-and-high-ping-in-valorant/"><u>[SOLVED] How to Fix Lag and High Ping in Valorant</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-unable-to-initialize-graphics-system/"><u>[SOLVED] Unable to Initialize Graphics System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-zoom-unstable-internet-connection/"><u>[SOLVED] Zoom Unstable Internet Connection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagrams-creative-toolkit-applying-effects-on-existing-content/"><u>[Updated] 2024 Approved Instagram's Creative Toolkit Applying Effects on Existing Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-choosing-hdr-over-sdr-elevating-your-video-creation-process-for-2024/"><u>[Updated] Choosing HDR over SDR Elevating Your Video Creation Process for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-overcoming-social-media-roadblocks-fix-your-story-upload/"><u>[Updated] In 2024, Overcoming Social Media Roadblocks Fix Your Story Upload</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximizing-potential-in-google-photos-features/"><u>[Updated] Maximizing Potential in Google Photos Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-exclusive-get-the-apple-m2-macbook-air-for-749-less-find-more-details-latest-report/"><u>Amazon Prime Day Exclusive: Get the Apple M2 MacBook Air for $749 Less! Find More Details Latest Report</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivos-wmv-en-formatos-asf-gratis-online-usando-el-servicio-de-movavi-video-editor/"><u>Cómo Convertir Archivos WMV en Formatos ASF Gratis Online Usando El Servicio De Movavi Video Editor</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-income-icons-top-earner-video-stars/"><u>In 2024, Income Icons Top Earner Video Stars</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterclass-in-personal-4k-editor-pc-assembly-for-2024/"><u>Masterclass in Personal 4K Editor PC Assembly for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-your-youtube-troubles-fix-errors-when-videos-wont-play/"><u>Solve Your YouTube Troubles - Fix Errors When Videos Won't Play</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-solution-for-unresponsive-ethernet-networks-on-windows-117-devices/"><u>Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-solutions-to-restore-your-pcs-display-following-a-windows-10-update-malfunction/"><u>Step-by-Step Solutions to Restore Your PC's Display Following a Windows 10 Update Malfunction</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-to-solve-high-ping-issues-enhance-your-valorant-performance-now/"><u>Steps to Solve High Ping Issues - Enhance Your Valorant Performance Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successfully-resolving-acer-laptop-wi-fi-connection-issues/"><u>Successfully Resolving Acer Laptop Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/thors-bold-path-asgard-reborn-for-2024/"><u>Thor’s Bold Path Asgard Reborn for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-complete-guide-eliminating-lag-and-lowering-ping-for-an-optimal-valorant-experience/"><u>Troubleshooting Complete Guide: Eliminating Lag and Lowering Ping for an Optimal VALORANT Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-screen-refreshing-issue-in-dell-pc/"><u>[Fixed]: Screen Refreshing Issue in Dell PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users/"><u>[New] In 2024, Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-apex-legends-crash-xbox-directx-conflict/"><u>[RESOLVED] Apex Legends Crash - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-meme-genius-the-best-8-gif-making-methods/"><u>2024 Approved Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-windows-11-desktop-size-preferences/"><u>Balance Windows 11 Desktop Size Preferences</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comment-restaurer-des-images-effacees-sur-nikon-z6/"><u>Comment Restaurer Des Images Effacées Sur Nikon Z6</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606435-flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-download-free-picture-frame-videos/"><u>How to Download Free Picture Frame Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-clipcomposers-journey-thorough-review-of-androvid/"><u>In 2024, ClipComposer's Journey – Thorough Review of AndroVid</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-peak-interactive-webcam-fun-fests/"><u>In 2024, Peak Interactive Webcam Fun Fests</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-unseen-monitor-freeze/"><u>Revealing Unseen Monitor Freeze</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-stop-lenovo-screenshaking/"><u>Strategies to Stop Lenovo Screenshaking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshoot-lenovos-dimming-display/"><u>Troubleshoot Lenovo's Dimming Display</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solutions-stop-chrome-screen-flicker-issues-on-windows-pcs-a-comprehensive-guide/"><u>Ultimate Solutions: Stop Chrome Screen Flicker Issues on Windows PCs – A Comprehensive Guide</u></a></li>
 </ul></div>
 

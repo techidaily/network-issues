@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2024-12-10T07:58:54.989Z
-updated: 2024-12-16T06:26:09.983Z
+date: 2024-12-18T02:18:27.948Z
+updated: 2024-12-24T20:50:04.409Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
  You may have**Microsoft Basic Render driver problems** occurring to your Windows computer. Some may run into errors like “**Please update your Microsoft Basic Render Driver** ” in games, and some may find that the computer is using the Microsoft Basic Render driver instead of the official graphics card installed. But don’t worry. You can fix the Microsoft Basic Render driver issues quickly and easily with the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Microsoft Basic Render driver
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 2. [Update your graphics card driver](#F2)
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Enable your dedicated graphics card
 
@@ -52,28 +52,20 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
- If this method doesn’t work for you, don’t worry. There’s something else to try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 ### Fix 2: Update your graphics card driver
 
@@ -94,9 +86,17 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -118,22 +118,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-amplify-your-status-music-in-whatsapp/"><u>[New] Amplify Your Status Music in WhatsApp</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unveiling-google-meets-screen-alteration-techniques/"><u>[New] In 2024, Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-obtain-free-licensed-tunes-for-your-games/"><u>[Updated] 2024 Approved How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beat-high-server-lag-in-fortnite-fast-fixes-and-solutions/"><u>Beat High Server Lag in Fortnite: Fast Fixes and Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-vulkan-runtime-libraries-tips-for-effective-integration-and-usage/"><u>Decoding Vulkan Runtime Libraries: Tips for Effective Integration & Usage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-vulkan-runtime-libraries-tips-and-strategies-for-optimization/"><u>Demystifying Vulkan Runtime Libraries: Tips & Strategies for Optimization</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-your-displays-pixel-density-a-simple-guide/"><u>Discover Your Display's Pixel Density: A Simple Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovering-your-displays-pixels-a-simple-guide-to-check-screen-resolution/"><u>Discovering Your Display's Pixels: A Simple Guide to Check Screen Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effective-solutions-for-resolving-screen-flicker-issues-on-your-asus-notebook/"><u>Effective Solutions for Resolving Screen Flicker Issues on Your Asus Notebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-fps-ultimate-top-6-strategies-for-a-better-gaming-experience/"><u>Enhance Your FPS: Ultimate Top 6 Strategies for a Better Gaming Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-best-kept-secrets-ios-10-best-no-cost-collages-and-edits-for-2024/"><u>Explore the Best-Kept Secrets IOS' 10 Best, No-Cost Collages & Edits for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-infamous-nvstreamuseraagentexe-error-in-windows-guide/"><u>Fixing the Infamous NVSTREAMUSERA_AGENT.EXE Error in Windows [Guide]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-find-x6-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Find X6 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-razr-40-ultra-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Razr 40 Ultra for Free? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-nyt-power-network/"><u>Navigating the NYT Power Network</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-10-solutions-for-eliminating-fps-drop-in-battlefield-v/"><u>Top 10 Solutions for Eliminating FPS Drop in Battlefield V</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-boost-your-view-count-explore-these-12-effective-youtube-strategies/"><u>[New] 2024 Approved Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-instagram-photos-with-creative-borders/"><u>[New] 2024 Approved Transform Your Instagram Photos with Creative Borders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] In 2024, Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/size-regulation-tighten-up-windows-11-display/"><u>[SIZE REGULATION] Tighten Up Windows 11 Display</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/comprehensive-evaluation-gecata-pro-monitoring/"><u>Comprehensive Evaluation Gecata Pro Monitoring</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-gpu-fan-misfires/"><u>Correcting GPU Fan Misfires</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eclipse-of-electronics-laptops-plight/"><u>Eclipse of Electronics: Laptop's Plight</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unsteady-acer-monitor-colors/"><u>Fixing Unsteady Acer Monitor Colors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-adding-linguistic-accessibility-to-your-igtv-videos/"><u>In 2024, Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-filching-frames-from-films-for-windows-10-photos-collection/"><u>In 2024, Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-compromises-nvidia-and-intel-gpus-work-together-in-win11/"><u>No More Compromises: Nvidia & Intel GPUs Work Together in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickfix-guide-your-definitive-solution-to-fixed-up-zooms/"><u>QuickFix Guide: Your Definitive Solution to Fixed-Up Zooms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974237248-rejuvenate-graphics-performance-in-windows-10-through-updated-intel-gpu-driver/"><u>Rejuvenate Graphics Performance in Windows 10 Through Updated Intel GPU Driver</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-combining-multiple-fortnite-accounts/"><u>The Ultimate Strategy for Combining Multiple Fortnite Accounts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-effortless-mp4-video-tagging-top-editor-recommendations-for-2024/"><u>Updated Effortless MP4 Video Tagging Top Editor Recommendations for 2024</u></a></li>
 </ul></div>
 

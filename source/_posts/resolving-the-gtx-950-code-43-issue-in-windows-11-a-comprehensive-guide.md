@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide"
-date: 2024-12-12T07:21:56.930Z
-updated: 2024-12-16T07:02:02.585Z
+date: 2024-12-23T00:42:34.625Z
+updated: 2024-12-24T17:21:07.609Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Option 1: Clean re-install NVIDIA 950
@@ -57,19 +57,23 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -155,24 +155,21 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/adjustment-made-added-gpu-driver-for-amd-to-windows-11/"><u>[ADJUSTMENT MADE] Added GPU Driver for AMD to Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-no-device-detected-for-wireless-connection-on-pc/"><u>[FIXED] No Device Detected for Wireless Connection on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-twitch-black-screen-issues/"><u>[SOLVED] Twitch Black Screen Issues</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>2024 Approved Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nubia-red-magic-9-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anticipated-shifts-in-online-security-a-look-at-the-7-major-trends/"><u>Anticipated Shifts in Online Security: A Look at the 7 Major Trends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-installation-steps-adding-compatible-wi-fi-adapter-on-computers/"><u>Direct Installation Steps: Adding Compatible Wi-Fi Adapter on Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/displaysystem-halt-on-windows-works-resolved/"><u>DisplaySystem Halt on WIndows (Works Resolved)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/epic-journey-through-hogwarts-watching-every-harry-potter-movie-properly/"><u>Epic Journey Through Hogwarts: Watching Every Harry Potter Movie Properly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-black-display-on-win10/"><u>Eradicate Black Display on Win10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-7-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 7?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oneplus-ace-2mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can OnePlus Ace 2Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-steam-playback-for-flawless-replays/"><u>In 2024, Streamline Your Steam Playback for Flawless Replays</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-gamesnapper-strategies-for-captures/"><u>In 2024, Ultimate GameSnapper Strategies for Captures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-switchable-graphic-performance-on-latest-windows-11/"><u>Mastering Switchable Graphic Performance on Latest Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-c1900101-error-during-installation/"><u>Solving C1900101 Error During Installation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-pova-5-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Pova 5 Phone Hassle-Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-safeguard-your-feed-remove-followers/"><u>[New] 2024 Approved How to Safeguard Your Feed Remove Followers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-step-by-step-guide-to-masterful-technology-enhancements/"><u>[New] 2024 Approved Step-by-Step Guide to Masterful Technology Enhancements</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-for-youtube-trailers-in-filmora/"><u>[New] In 2024, Step-by-Step for YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-4-ways-how-to-download-videos-from-facebook-messenger/"><u>[Updated] 4 Ways | How to Download Videos From Facebook Messenger?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-essential-gift-a-compact-bundle-of-50-banners/"><u>[Updated] Your Essential Gift A Compact Bundle of 50 Banners</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-nvidia-driver-conflict-on-windows-11/"><u>Ending Nvidia Driver Conflict on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-eradicated-mh-worlds-monster-kingdom-revived/"><u>Error Eradicated: MH World's Monster Kingdom Revived</u></a></li>
+<li><a href="https://network-issues.techidaily.com/escape-from-tarkov-graphics-bug-for-amd-users-quick-fix/"><u>Escape From Tarkov Graphics Bug for AMD Users [Quick Fix]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-mystery-solved-why-nvidia-isnt-listed-in-device-manager/"><u>GPU Mystery Solved: Why NVIDIA Isn't Listed in Device Manager</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-gopro-hero5-testing-report/"><u>In-Depth GoPro Hero5 Testing Report</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-game-performance-fix-civ-5-crash/"><u>Optimizing Game Performance: Fix Civ 5 Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-to-low-lit-lenovo-laptop-screen-issue/"><u>Solutions to Low-Lit Lenovo Laptop Screen Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-for-mass-effect-trilogys-audio-glitches/"><u>Troubleshooting: Fixes for Mass Effect Trilogy's Audio Glitches</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unexpected-changes-in-emeditor-a-comprehensive-update-overview/"><u>Unexpected Changes in EmEditor: A Comprehensive Update Overview</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-blue-screen-dxgkrnlsys-troubleshoot/"><u>Win10 Blue Screen - dxgkrnl.sys Troubleshoot</u></a></li>
 </ul></div>
 

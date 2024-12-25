@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-12-11T05:10:01.379Z
-updated: 2024-12-16T07:04:28.415Z
+date: 2024-12-20T21:33:39.651Z
+updated: 2024-12-24T16:24:06.225Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -60,20 +60,20 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -89,6 +89,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
@@ -96,6 +100,10 @@ _You can do it for free if you like, but it’s partly manual._
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -157,17 +165,9 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -204,22 +204,22 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transform-imagination-to-reality-top-10-graphic-designers-on-android/"><u>[New] 2024 Approved Transform Imagination to Reality Top 10 Graphic Designers on Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-android-no-cost-video-capture-tool/"><u>[New] In 2024, Android No-Cost Video Capture Tool</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-unified-brand-presence-on-youtube/"><u>[Updated] Crafting a Unified Brand Presence on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfect-snapchat-video-maximizing-mac-capabilities/"><u>2024 Approved Perfect Snapchat Video Maximizing Mac Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-sound-freedom-with-pazera-tools-an-up-to-date-review-for-2024/"><u>Explore Sound Freedom with Pazera Tools - An Up-to-Date Review for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-effortlessly-access-safe-mode-on-windows-for-drivers-replacement/"><u>How To Effortlessly Access Safe Mode on Windows for Drivers Replacement</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/identifying-and-solving-asus-video-compatibility/"><u>Identifying and Solving Asus Video Compatibility</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-freeloading-without-breaking-your-budget-on-aes/"><u>In 2024, Freeloading Without Breaking Your Budget on AEs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/master-techniques-for-no-more-flicker-on-screens/"><u>Master Techniques for No More Flicker on Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-glitch-in-windows-11/"><u>Overcoming Nvidia/Intel Graphics Glitch in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overcoming-the-challenge-of-breaking-into-new-fitness-program-dvds-a-step-by-step-guide/"><u>Overcoming the Challenge of Breaking Into New Fitness Program DVDs – A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photoshops-stabilization-capabilities-real-advantage-in-2024/"><u>Photoshop's Stabilization Capabilities Real Advantage, In 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-vertical-display-flip/"><u>Resolving Vertical Display Flip</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-with-these-top-keyword-discovery-tools/"><u>[New] 2024 Approved Elevate Your Content with These Top Keyword Discovery Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-5-efficient-ways-to-store-movies-and-videos-mov-in-windows/"><u>[New] In 2024, 5 Efficient Ways to Store Movies & Videos (.mov) in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-list-of-best-4k-monitors-for-2024/"><u>[New] The Ultimate List of Best 4K Monitors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-visionary-education-the-power-of-virtual-reality/"><u>[New] Visionary Education The Power of Virtual Reality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-intermittent-brightness-on-dell-system/"><u>[Solved] Intermittent Brightness on Dell System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-stellar-storytelling-elevating-posts-with-3-insta-highlight-ways/"><u>[Updated] Stellar Storytelling Elevating Posts with 3 Insta Highlight Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-unstuck-a-sticker-free-tiktok-journey/"><u>2024 Approved Seamlessly Unstuck A Sticker-Free TikTok Journey</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-updates-win11-next-gen-radeon-hd-6950-graphics-driver-rollout/"><u>AMD Updates Win11: Next-Gen Radeon HD 6950 Graphics Driver Rollout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-reverse-aspect-ratio-in-windows-10/"><u>Correcting Reverse Aspect Ratio in Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-walmart-discounts-for-july-2er-2024-highlighted-insights/"><u>Discover the Ultimate Walmart Discounts for July 2Er, 2024 - Highlighted Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovos-eclipse-how-to-banish-the-shadow/"><u>Lenovo's Eclipse: How to Banish the Shadow</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/set-it-and-forget-it-the-ultimate-auto-feeding-solution-by-arf-for-busy-pet-parents/"><u>Set It & Forget It: The Ultimate Auto-Feeding Solution by Arf for Busy Pet Parents</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shield-yourself-from-tarkov-bug/"><u>Shield Yourself From Tarkov Bug</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-winrts-com-hiccup/"><u>Solving WinRTS COM Hiccup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-broadened-resolution-issue-on-windows-pc/"><u>Tackled Broadened Resolution Issue on Windows PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-enhancing-lenovo-laptop-light/"><u>Tips for Enhancing Lenovo Laptop Light</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ering-the-efficacy-of-youtubes-4-second-rule/"><u>Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
 </ul></div>
 
