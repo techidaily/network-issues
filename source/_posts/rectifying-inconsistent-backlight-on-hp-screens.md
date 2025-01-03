@@ -1,7 +1,7 @@
 ---
 title: Rectifying Inconsistent Backlight on HP Screens
-date: 2024-12-20T05:57:41.313Z
-updated: 2024-12-24T17:08:34.885Z
+date: 2025-01-02T07:40:51.057Z
+updated: 2025-01-03T09:25:05.212Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for HP laptop flickering or blinking
 
  Here are 3 fixes that have helped other users resolve the screen flickering or blinking on HP laptop issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -59,6 +59,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -87,16 +91,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
@@ -107,19 +107,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -158,24 +158,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-triggering-winos-bsod-error/"><u>[Fix]: dxgkrnl.sys Triggering WinOS BSOD Error</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-ordinary-snaps-to-captivating-creations-editing-on-snapchat/"><u>[New] 2024 Approved From Ordinary Snaps to Captivating Creations Editing on Snapchat</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-save-your-favorite-tiktok-content-securely-on-devices/"><u>[New] 2024 Approved Save Your Favorite TikTok Content - Securely on Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-champions-faceoff/"><u>[New] Capturing Champions Faceoff</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-inverted-illusions-the-art-of-rotating-visuals-for-social-media-success/"><u>[Updated] In 2024, Inverted Illusions The Art of Rotating Visuals for Social Media Success</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-picks-from-booktik-your-next-great-adventure-awaits/"><u>2024 Approved Top Picks From #Booktik Your Next Great Adventure Awaits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-virtual-vanguard-10-most-liked-youtubers/"><u>2024 Approved Virtual Vanguard 10 Most Liked YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-visual-branding-in-youtubes-design-tips/"><u>2024 Approved Visual Branding in YouTubes Design Tips</u></a></li>
-<li><a href="https://win-premium.techidaily.com/windows-1110google/"><u>使用Windows 11或10设置Google云盘的多账户功能</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-gpu-fan-functionality-restoration/"><u>Ensuring GPU Fan Functionality Restoration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/escaped-firewall-drivers-installation/"><u>Escaped Firewall: Drivers Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-resolved-in-win11/"><u>Fixing Non-Fullscreen Windows - Resolved in Win11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-renaming-your-podcast-leading-ai-generators-explored/"><u>In 2024, Renaming Your Podcast Leading AI Generators Explored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strengthening-gameplay-addressing-pc-based-civ5-issues/"><u>Strengthening Gameplay: Addressing PC-Based CIV5 Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-ultimate-guide-to-boosting-intel-graphics-with-os-updates-win-7/"><u>The Ultimate Guide to Boosting Intel Graphics with OS Updates, Win 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-update-qualcomm-atheros-driver-compatibility/"><u>Windows 10 Update: Qualcomm Atheros Driver Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-offline-play-problems-cod-cold-war-2024/"><u>[FIXING]: Offline Play Problems: CoD Cold War 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-googles-musical-sidekick-ringers-guide/"><u>[New] In 2024, Google's Musical Sidekick Ringers Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-x-server-conflict-resolution/"><u>[Resolved] X Server Conflict Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-update-microsofts-enhancements-across-windows/"><u>BDR Update: Microsoft's Enhancements Across Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flip-screen-resolution-rightside-up/"><u>Flip Screen Resolution Rightside Up</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-x-fold-2-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo X Fold 2 FRP Locks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-the-edge-with-a-premier-zero-cost-voice-change-software-for-2024/"><u>Get the Edge with a Premier, Zero-Cost Voice Change Software for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-moto-g13-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Moto G13 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-craft-compelling-loops-best-practices-for-instagram-posts/"><u>In 2024, Craft Compelling Loops Best Practices for Instagram Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unveiling-simple-smooth-gaming-video-editors-for-starters/"><u>In 2024, Unveiling Simple, Smooth Gaming Video Editors for Starters</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-win-os-graphics-device-link/"><u>Repaired Failed Win-OS Graphics Device Link</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-intel-and-nvidia-switchable-graphics-glitch-on-windows-10/"><u>Solving Intel & Nvidia Switchable Graphics Glitch on Windows 10</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-guide-to-cleaning-up-your-photos-by-removing-items/"><u>The Ultimate Guide to Cleaning Up Your Photos by Removing Items</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-your-kingston-ssd-recognition-issue-identifying-the-reasons-and-fixes/"><u>Troubleshooting Your Kingston SSD Recognition Issue: Identifying the Reasons & Fixes</u></a></li>
 </ul></div>
 

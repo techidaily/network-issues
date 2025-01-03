@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems"
-date: 2024-12-18T04:22:06.989Z
-updated: 2024-12-25T05:23:02.028Z
+date: 2024-12-29T03:41:15.081Z
+updated: 2025-01-03T08:42:58.307Z
 tags:
   - win11
   - win10
@@ -36,11 +36,19 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -72,11 +80,7 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -98,7 +102,7 @@ Follow the steps below:
 2. In Device Manager, expand the**Network adapters** category.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
@@ -106,10 +110,6 @@ Follow the steps below:
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -120,7 +120,7 @@ Follow the steps below:
 2. Now type in the following commands and hit **Enter**  after each one.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
@@ -156,20 +156,19 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-warhammer-40000-not-starting-dx12-error/"><u>[CORRECTED] Warhammer 40,000 Not Starting - DX12 Error</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-a-step-by-step-guide-to-implementing-lut-effects-in-premiere-pro-for-2024/"><u>[New] A Step-by-Step Guide to Implementing LUT Effects in Premiere Pro for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/our-step-by-step-approach-to-youtube-copyright-mastery-for-2024/"><u>[New] Your Step-by-Step Approach to YouTube Copyright Mastery for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unraveling-the-secrets-of-excellent-screen-recording-with-recmeister-for-2024/"><u>[Updated] Unraveling the Secrets of Excellent Screen Recording with Recmeister for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-pcs-web-pace-with-win1011-fixes/"><u>Enhance Your PC's Web Pace with Win10/11 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
-<li><a href="https://fox-within.techidaily.com/mastering-pdf-opens-on-windows-top-techniques-revealed-by-yl-software/"><u>Mastering PDF Opens on Windows: Top Techniques Revealed by YL Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-through-null-detected-find-your-unlisted-graphics-card/"><u>Navigate Through Null Detected: Find Your Unlisted Graphics Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/operating-system-update-resolves-opengl-error/"><u>Operating System Update Resolves OpenGL Error</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-followers-list-with-top-twitter-cleanup-tools/"><u>Revolutionize Your Followers List with Top Twitter Cleanup Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/shrink-your-videos-5-free-compression-apps-for-iphone-and-ipad-users-for-2024/"><u>Shrink Your Videos 5 Free Compression Apps for iPhone and iPad Users for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-successfully-installed-gpu-after-errors/"><u>Windows: Successfully Installed GPU After Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-evolving-photographic-moments-into-sequential-action/"><u>2024 Approved Evolving Photographic Moments Into Sequential Action</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-resolving-issues-with-your-unresponsive-hp-bluetooth-keyboard/"><u>Expert Advice on Resolving Issues with Your Unresponsive HP Bluetooth Keyboard</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974435299-fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-nvidia-alert-causes-windows-stop/"><u>Fixed: Nvidia Alert Causes Windows Stop</u></a></li>
+<li><a href="https://win-net.techidaily.com/gerer-efficacement-vos-donnees-avec-les-sauvegardes-partielles-et-totales-tout-savoir-sur-la-fusion/"><u>Gérer Efficacement Vos Données Avec Les Sauvegardes Partielles Et Totales : Tout Savoir Sur La Fusion !</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/overcoming-technical-hurdles-in-iphone-xs-facial-detection/"><u>Overcoming Technical Hurdles in iPhone X's Facial Detection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-glitch-no-519/"><u>Overcoming WoW Glitch No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/seamless-visuals-on-screen-zooming-into-clarity/"><u>Seamless Visuals on Screen Zooming Into Clarity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/start-your-journey-to-savvy-social-analytics-on-facebook-for-2024/"><u>Start Your Journey to Savvy Social Analytics on Facebook for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-workings-of-drones-an-introduction-for-beginners/"><u>The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-vidas-power-for-film-and-video-professionals-for-2024/"><u>Unveiling Vida's Power for Film and Video Professionals for 2024</u></a></li>
 </ul></div>
 

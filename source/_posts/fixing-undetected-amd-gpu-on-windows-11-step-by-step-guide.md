@@ -1,7 +1,7 @@
 ---
 title: "Fixing Undetected AMD GPU on Windows 11: Step-by-Step Guide"
-date: 2024-12-22T06:33:59.001Z
-updated: 2024-12-24T19:50:37.442Z
+date: 2024-12-27T11:21:20.768Z
+updated: 2025-01-02T18:47:59.442Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -41,23 +41,19 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -70,11 +66,15 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
 6. Restart your computer and check if the problem is resolved.
@@ -104,15 +104,22 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-bandicam-or-camtasia-the-ultimate-showdown-for-2024/"><u>[New] Bandicam or Camtasia The Ultimate Showdown for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-ditching-offline-games-cod-cold-war/"><u>[RESOLVED] Ditching Offline Games: CoD Cold War</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-capture-attention-with-perfectly-cropped-instagram-ready-videos-for-2024/"><u>[Updated] Capture Attention with Perfectly Cropped, Instagram-Ready Videos for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-dominate-youtube-with-effective-content-strategies/"><u>2024 Approved Dominate YouTube with Effective Content Strategies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://media-tips.techidaily.com/no-cost-solution-seamless-conversion-of-your-quicktime-hd-videos/"><u>No Cost Solution: Seamless Conversion of Your QuickTime HD Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hd-content-playback-in-new-windows-version/"><u>Resolving HD Content Playback in New Windows Version</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-to-win11-systems/"><u>Restored Fullscreen Functionality to Win11 Systems</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/transformez-les-videos-vob-en-mp4-de-qualityguard-pour-la-playstation-gratuitement-online/"><u>Transformez Les Vidéos VOB en MP4 De QualityGuard Pour La PlayStation Gratuitement Online!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-amds-radeon-hd-6950-driver-revamp-released/"><u>Windows 11: AMD's Radeon HD 6950 Driver Revamp Released</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-tripod-setup-in-vlogging/"><u>[New] 2024 Approved Mastering Tripod Setup in Vlogging</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-revolutionary-modifications-elevate-your-computer-experience/"><u>[New] 2024 Approved Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-propagate-your-content-with-vimeo-links/"><u>[New] In 2024, Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-screen-flicker-on-windows-10-issue-solved/"><u>Clear Screen Flicker on Windows 10 Issue Solved</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a15-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy A15 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-in-windows-understanding-aids-and-assists/"><u>First Steps in Windows: Understanding Aids and Assists</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-glitch-invisible-display/"><u>Graphic Glitch: Invisible Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lost-in-the-web-wi-fi-frustrations/"><u>Lost in the Web: Wi-Fi Frustrations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cooling-tech-with-the-thermalright-phantom-spirit-120-evo-an-in-depth-review/"><u>Mastering Cooling Tech with the Thermalright Phantom Spirit 120 EVO - An In-Depth Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastery-in-managing-display-latency/"><u>Mastery in Managing Display Latency</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-realignment-for-fullscreen-windows-11/"><u>Monitor Realignment for Fullscreen Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-corrected-no-compatible-graphics-issue/"><u>Overwatch: Corrected No Compatible Graphics Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-vertical-aspect-ratio-issue/"><u>Resolving Vertical Aspect Ratio Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-graphics-performance-post-driver-error/"><u>Restoring Graphics Performance Post-Driver Error</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-success-strategies-for-facebook-twitter-instagram-and-you/"><u>Social Media Success Strategies for Facebook, Twitter, Instagram & You</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-fixing-non-operational-srt-exports/"><u>Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-playing-assassins-creed-mirage-essential-launch-issues-and-solutions/"><u>Trouble Playing Assassin's Creed: Mirage ? Essential Launch Issues and Solutions!</u></a></li>
 </ul></div>
 

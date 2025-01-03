@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Gameplay: Solve Computer-Based CIV5 Issues"
-date: 2024-12-21T01:58:46.372Z
-updated: 2024-12-25T00:07:03.158Z
+date: 2024-12-31T10:55:36.262Z
+updated: 2025-01-02T19:41:17.824Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
 
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for the CIV 5 crashing problem
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the**CIV 5 crashing**  problem is resolved.
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
 3. [**Install the latest DirectX**](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
@@ -42,10 +46,6 @@ Here’s how to do it:
 2. Click**Library** , then locate and right-click on**Sid Meier’s Civilizatio** n in your list of games and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
@@ -65,20 +65,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -99,11 +95,15 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -128,22 +128,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/altered-no-advanced-display-settings-found/"><u>[Altered] No Advanced Display Settings Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-warframe-crashing-launch-directx-issue/"><u>[CORRECTED] Warframe Crashing Launch - DirectX Issue</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-android-recording-at-your-fingertips-explore-our-top-8-free-choices/"><u>[New] In 2024, Android Recording at Your Fingertips – Explore Our Top 8 Free Choices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[Updated] 2024 Approved Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-best-5-apple-podcast-services-for-ios-users-for-2024/"><u>[Updated] Best 5 Apple Podcast Services for iOS Users for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/black-glare-driver-upload-flop/"><u>Black Glare: Driver Upload Flop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-hidden-display-adjustments-in-windows-11/"><u>Discover Hidden Display Adjustments in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-pause-and-stutter-in-videos/"><u>Eliminate Pause and Stutter in Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-features-and-performance-of-the-new-apple-watch-series-9/"><u>Exploring the Features and Performance of the New Apple Watch Series 9</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instantaneous-innovation-cure-legends-errors/"><u>Instantaneous Innovation: Cure Legends Errors</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-sewn-in-tiktoks-the-ultimate-guide/"><u>Mastering Sewn-In TikToks The Ultimate Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-insufficient-specs-for-driver-installation/"><u>Overcoming Insufficient Specs for Driver Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rejuvenate-graphics-performance-in-windows-10-through-updated-intel-gpu-driver/"><u>Rejuvenate Graphics Performance in Windows 10 Through Updated Intel GPU Driver.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-workspaces-discover-the-highly-effective-but-overlooked-feature-of-this-years-ultimate-2-in-1-laptop-computingdigest/"><u>Revolutionizing Workspaces: Discover the Highly Effective but Overlooked Feature of This Year's Ultimate 2-in-1 Laptop | ComputingDigest</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-how-to-perfectly-pair-up-for-a-tiktok-collaboration/"><u>Step-by-Step Tutorial: How to Perfectly Pair Up for a TikTok Collaboration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mp4-to-mp3-conversion-made-easy-best-software/"><u>Updated 2024 Approved MP4 to MP3 Conversion Made Easy Best Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-inshots-competitors-for-pclaptop-editors/"><u>[New] In 2024, Inshot's Competitors for PC/Laptop Editors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-blueprint-designing-your-first-youtube-trailer/"><u>[New] The Blueprint Designing Your First YouTube Trailer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-best-ios-friendly-free-video-editors-for-2024/"><u>[Updated] Ultimate List Best iOS-Friendly, Free Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-violation-woes-abrupt-creative-cut-off-for-2024/"><u>[Updated] Violation Woes Abrupt Creative Cut-Off for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cancel-steam-services-without-a-fuss/"><u>Cancel Steam Services Without a Fuss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-dark-mode-black-screen-post-update/"><u>Eliminating Dark Mode BLACK SCREEN Post Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo Find X7 Phone Without Password?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-sims-solid-walls/"><u>Navigate Through Sims' Solid Walls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieved-missing-wireless-adapter-in-win10-configuration/"><u>Retrieved Missing Wireless Adapter in Win10 Configuration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-seamless-windows-plus-nvidia-experience/"><u>Securing Seamless Windows + Nvidia Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-interface-breakdown-window-os-solved/"><u>Visual Interface Breakdown, Window OS (Solved)</u></a></li>
 </ul></div>
 

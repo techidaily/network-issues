@@ -1,7 +1,7 @@
 ---
 title: Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10
-date: 2024-12-21T22:50:10.296Z
-updated: 2024-12-25T04:44:34.512Z
+date: 2024-12-28T03:33:51.472Z
+updated: 2025-01-02T18:06:12.369Z
 tags:
   - win11
   - win10
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -86,7 +94,7 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -101,10 +109,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -114,10 +118,6 @@ Or click **Update All**  to automatically download and install the correct versi
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -142,21 +142,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rafting-captivating-youtube-closures-expert-guides-included-for-2024/"><u>[New] Crafting Captivating YouTube Closures - Expert Guides Included for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-your-first-youtube-journey-a-money-making-blueprint/"><u>[New] Your First Youtube Journey A Money-Making Blueprint</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-depth-guide-to-effortless-photo-and-video-file-transfers-in-windows-10-for-2024/"><u>[Updated] In-Depth Guide to Effortless Photo & Video File Transfers in Windows 10 for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728482868456-hp/"><u>一流のHPノートパソコンを初期状態にリセットする究極ガイド</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ter-lane-navigating-to-the-top-15-funny-youtubers/"><u>Laughter Lane Navigating to the Top 15 Funny YouTubers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-tech-failure-screen-remains-blacked-out/"><u>New Tech Failure: Screen Remains Blacked-Out</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-setup-flaw-c1900101/"><u>Overcoming Windows Setup Flaw: C1900101</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reduce-roblox-response-time-on-desktop/"><u>Reduce Roblox Response Time on Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-mysterious-dx-error-in-lol/"><u>Resolved: Mysterious DX Error in LoL</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlining-your-video-editing-process-for-green-issues-on-youtube/"><u>Streamlining Your Video Editing Process for Green Issues on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/charge-your-content-key-seo-elements-for-youtube/"><u>Supercharge Your Content Key SEO Elements for YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-linux-laptop-picks-for-2-indepth-analysis-by-tech-gurus/"><u>Top-Rated Linux Laptop Picks for 2# - InDepth Analysis by Tech Gurus</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumph-of-technology-amds-successful-load-in-windowas-10-os/"><u>Triumph of Technology: AMD's Successful Load in Windowas 10 OS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unveiling-the-leading-online-stores-for-customized-gift-boxes/"><u>Unveiling the Leading Online Stores for Customized Gift Boxes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win-10-hd-settings-unresolved-to-solved/"><u>Win 10 HD Settings: Unresolved to Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-lack-of-wireless-adapter-on-new-windows-os/"><u>[FIXED] Lack of Wireless Adapter on New Windows OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-inside-track-to-superior-srt-upgrades/"><u>[New] In 2024, Inside Track to Superior SRT Upgrades</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-guide-best-free-video-effect-websites-reviewed-and-rated-by-experts-for-2024/"><u>[Updated] Essential Guide Best Free Video Effect Websites Reviewed & Rated by Experts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-optimal-storage-expansion-for-sony-a7c/"><u>[Updated] Optimal Storage Expansion for Sony A7C</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-space-free-20plus-storage-options-with-limits-up-to-1tb/"><u>2024 Approved Maximize Space Free 20+ Storage Options With Limits (Up To 1TB)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-no-frills-guide-to-basic-hdr-techniques/"><u>2024 Approved The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-the-shadow-screen-mystery-in-win11/"><u>Ending the Shadow Screen Mystery in WIN11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-link-downloader-bundle-access-to-8-free-online-solutions/"><u>In 2024, FB Link Downloader Bundle Access to 8 Free, Online Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>In 2024, Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a14-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A14 4G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-for-failed-direct3d-start-up/"><u>Successful Fix for Failed Direct3D Start-Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-lenovo-interface-solved-here/"><u>Unresponsive Lenovo Interface - Solved Here</u></a></li>
 </ul></div>
 

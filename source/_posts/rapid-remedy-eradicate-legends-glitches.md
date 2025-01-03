@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-12-20T21:33:39.651Z
-updated: 2024-12-24T16:24:06.225Z
+date: 2024-12-27T17:15:08.225Z
+updated: 2025-01-03T12:03:26.758Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,6 +47,10 @@ Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -59,21 +63,17 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -90,20 +90,20 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -204,22 +204,16 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-with-these-top-keyword-discovery-tools/"><u>[New] 2024 Approved Elevate Your Content with These Top Keyword Discovery Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-5-efficient-ways-to-store-movies-and-videos-mov-in-windows/"><u>[New] In 2024, 5 Efficient Ways to Store Movies & Videos (.mov) in Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-list-of-best-4k-monitors-for-2024/"><u>[New] The Ultimate List of Best 4K Monitors for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-visionary-education-the-power-of-virtual-reality/"><u>[New] Visionary Education The Power of Virtual Reality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-intermittent-brightness-on-dell-system/"><u>[Solved] Intermittent Brightness on Dell System</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-stellar-storytelling-elevating-posts-with-3-insta-highlight-ways/"><u>[Updated] Stellar Storytelling Elevating Posts with 3 Insta Highlight Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-unstuck-a-sticker-free-tiktok-journey/"><u>2024 Approved Seamlessly Unstuck A Sticker-Free TikTok Journey</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-updates-win11-next-gen-radeon-hd-6950-graphics-driver-rollout/"><u>AMD Updates Win11: Next-Gen Radeon HD 6950 Graphics Driver Rollout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-reverse-aspect-ratio-in-windows-10/"><u>Correcting Reverse Aspect Ratio in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-walmart-discounts-for-july-2er-2024-highlighted-insights/"><u>Discover the Ultimate Walmart Discounts for July 2Er, 2024 - Highlighted Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-eclipse-how-to-banish-the-shadow/"><u>Lenovo's Eclipse: How to Banish the Shadow</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/set-it-and-forget-it-the-ultimate-auto-feeding-solution-by-arf-for-busy-pet-parents/"><u>Set It & Forget It: The Ultimate Auto-Feeding Solution by Arf for Busy Pet Parents</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shield-yourself-from-tarkov-bug/"><u>Shield Yourself From Tarkov Bug</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-winrts-com-hiccup/"><u>Solving WinRTS COM Hiccup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-broadened-resolution-issue-on-windows-pc/"><u>Tackled Broadened Resolution Issue on Windows PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tips-for-enhancing-lenovo-laptop-light/"><u>Tips for Enhancing Lenovo Laptop Light</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ering-the-efficacy-of-youtubes-4-second-rule/"><u>Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-experts-choice-top-10-low-cost-sbd-applications/"><u>[New] 2024 Approved Expert's Choice Top 10 Low-Cost SBD Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-topics-to-cover-in-your-vlogs/"><u>[New] In 2024, Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlock-desktop-video-potential-on-tiktok/"><u>[New] In 2024, Unlock Desktop Video Potential on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-streamlined-strategies-for-ad-copy-formulation-on-social-platforms/"><u>[Updated] In 2024, Streamlined Strategies for Ad Copy Formulation on Social Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dial-in-your-desktop-res-in-windows-11/"><u>Dial-In Your Desktop Res In Windows 11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/disc-burning-fur-playlists-auf-cd-anleitung-mit-itunes-and-apple-music/"><u>Disc Burning Für Playlists Auf CD - Anleitung Mit iTunes & Apple Music</u></a></li>
+<li><a href="https://network-issues.techidaily.com/merging-operating-system-gpu-flawlessly/"><u>Merging Operating System, GPU Flawlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-presentation-process-webcam-recording-tips-for-2024/"><u>Streamline Your Presentation Process Webcam Recording Tips for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-compatibility-windows-and-nvidia/"><u>Triumph Over Compatibility: Windows & Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
 </ul></div>
 

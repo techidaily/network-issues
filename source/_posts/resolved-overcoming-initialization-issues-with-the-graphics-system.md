@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcoming Initialization Issues with the Graphics System"
-date: 2024-12-22T20:27:39.253Z
-updated: 2024-12-24T17:15:33.827Z
+date: 2024-12-30T09:27:55.444Z
+updated: 2025-01-03T14:31:47.349Z
 tags:
   - win11
   - win10
@@ -51,15 +51,15 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
     
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
 
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
  If the method doesn’t work, you can open Device Manager again, right-click your graphics driver and**Disable** it, and then restart your computer. Easy as the method may seem, it has proved very useful for many users.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Method 2: Run the game in compatibility mode
 
@@ -79,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 4. Check the box under**Compatibility mode** and select what you want the game to be compatible with. Tick the box next to**Disable fullscreen optimizations** and**Run this program as administrator** . Click**Apply** \>**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -94,10 +102,6 @@ To change system screen resolution on Windows 11:
 1. Right-click the empty area on your desktop to invoke a menu and click **Display settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-23.png)
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
 
@@ -115,18 +119,14 @@ If the problem remains, please move on.
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -136,7 +136,7 @@ If the problem remains, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 5: Repair corrupted system files
@@ -151,7 +151,7 @@ If the problem remains, please move on.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -185,20 +185,15 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-beginners-path-to-compiling-a-youtube-playlist/"><u>[New] 2024 Approved A Beginner's Path to Compiling a YouTube Playlist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-interlace-snaps-a-guide-to-crafting-picture-panoramas/"><u>2024 Approved Interlace Snaps A Guide to Crafting Picture Panoramas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4-ways-to-use-chatgpt-for-time-management/"><u>4 Ways to Use ChatGPT for Time Management</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-game-collection-on-prime-day-2024-exclusive-oct-deals-curated/"><u>Ace Your Game Collection on Prime Day 2024: Exclusive Oct. Deals Curated</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquer-lcd-screen-stutter-and-flicker-problems/"><u>Conquer LCD Screen Stutter and Flicker Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/finding-solution-for-unsaved-display-adjustments/"><u>Finding Solution for Unsaved Display Adjustments</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-c50-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco C50 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-era-graphics-rtx210-drivers-and-windows-11-synergy/"><u>New Era Graphics: RTX210 Drivers & Windows 11 Synergy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-display-error-corrected-system-back-on-track/"><u>Nvidia Display Error Corrected: System Back on Track</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opengl-issue-gpu-hacked-and-now-solved/"><u>OpenGL Issue: GPU Hacked & Now Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-unresponsive-mouse-dark-screen-win10/"><u>Rectify Unresponsive Mouse, Dark Screen Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-missing-displays-on-gpus-by-nvidia/"><u>Rectifying Missing Displays on GPUs by NVIDIA</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-language-learners-guide-international-cinema/"><u>Top Language Learners' Guide: International Cinema</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unexpected-longevity-discover-the-actual-age-of-your-apple-watch-battery-insights/"><u>Unexpected Longevity: Discover the Actual Age of Your Apple Watch Battery - Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-fabricate-jocular-images-share-via-giphy-for-2024/"><u>[Updated] Fabricate Jocular Images, Share via Giphy for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-path-to-apple-podcast-acceptance/"><u>2024 Approved Navigating the Path to Apple Podcast Acceptance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-series-10-how-these-3-key-upgrades-convinced-me-to-make-the-switch-tech-insights-by-zdnet/"><u>Apple Watch Series 10: How These 3 Key Upgrades Convinced Me to Make the Switch | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprise-linux-meets-artificial-intelligence-with-red-hats-innovative-release-zdnet/"><u>Enterprise Linux Meets Artificial Intelligence with Red Hat's Innovative Release | ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gaming-triumph-crashed-game-repaired-swiftly/"><u>Gaming Triumph: Crashed Game Repaired Swiftly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/install-completed-without-nvidia-errors/"><u>Install Completed Without NVIDIA Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-quality-on-the-cheapest-large-screen-tvs-secrets-to-enhancing-sound-and-picture-zdnet/"><u>Maximizing Quality on the Cheapest Large Screen TVs: Secrets to Enhancing Sound and Picture | ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-graphics-card-match-overwatch-update-fixed-issue/"><u>No Graphics Card Match - Overwatch Update Fixed Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-guide-to-winning-with-agility-in-software-design-unveiling-six-essential-principles/"><u>ZDNet's Guide to Winning with Agility in Software Design: Unveiling Six Essential Principles</u></a></li>
 </ul></div>
 
