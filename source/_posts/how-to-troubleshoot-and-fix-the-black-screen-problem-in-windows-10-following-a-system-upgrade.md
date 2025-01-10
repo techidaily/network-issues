@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade
-date: 2024-12-31T00:03:49.813Z
-updated: 2025-01-02T21:43:44.705Z
+date: 2025-01-04T18:31:58.946Z
+updated: 2025-01-09T21:13:55.587Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  You get a**black screen after Windows 10 update** ? Don’t worry. Many Windows users have been there, and most of them managed to fix the issue by using one of the methods below. You can work your way down the list until you find the one that works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [**Try a Windows key sequence to wake the screen**](https://tools.techidaily.com/drivereasy/download/)
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 1: Try a Windows key sequence to wake the screen
@@ -60,10 +56,6 @@ If this produces no results, you can move on to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Fix 3: Update your graphics card driver
 
  Various reasons can trigger black screens after Windows 10 update, but the most common cause of it is**incompatible or outdated Windows drivers** . Especially the graphics card driver — either your current graphics driver is corrupted during the Windows update process or it’s not compatible with your current Windows 10 version.
@@ -82,12 +74,16 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -108,6 +104,10 @@ If this produces no results, you can move on to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
@@ -136,8 +136,16 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Accounts** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
@@ -163,28 +171,20 @@ If this produces no results, you can move on to Fix 3.
 3. Click**Update & security** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -208,18 +208,24 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/adjusting-display-effortlessly-thanks-to-win-10-fixes/"><u>Adjusting Display Effortlessly, Thanks to Win 10 Fixes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715701252124-capture-every-detail-on-mac-free/"><u>Capture Every Detail on Mac - Free!</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/customized-web-engagement-with-cookiebot-technology-integration/"><u>Customized Web Engagement with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphicwindow-interruption-in-window-os-under-repair/"><u>GraphicWindow Interruption in Window OS (Under Repair)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-13t-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi 13T Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-12-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 Without Passcode Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-editing-tools-in-dall-e-3-a-work-in-progress/"><u>Introducing Editing Tools in DALL-E 3 - A Work in Progress</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-7025-and-nforce630a-resolved-windows-issue/"><u>Nvidia 7025 & nForce630a: Resolved Windows Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-solution-smooth-video-screenshots/"><u>Quick Solution: Smooth Video Screenshots</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-hp-lcd-glitches/"><u>Troubleshooting HP LCD Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-r9-graphics-issues-for-windows-10-users/"><u>Troubleshooting R9 Graphics Issues for Windows 10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ais-appeal-to-digital-criminals/"><u>Understanding AI's Appeal to Digital Criminals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimizing-your-android-experience-with-effective-recordings/"><u>[New] 2024 Approved Optimizing Your Android Experience with Effective Recordings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-6-video-downloaders-preserve-your-linkedin-media-masterfully/"><u>[New] In 2024, Top 6 Video Downloaders Preserve Your LinkedIn Media Masterfully</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-windows-11-wireless-adapter-missing/"><u>[SOLVED] Windows 11 Wireless Adapter Missing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-directly-syncing-your-tiktok-videos-with-facebook/"><u>[Updated] In 2024, Directly Syncing Your TikTok Videos with Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-selection-best-budget-friendly-video-call-software/"><u>[Updated] In 2024, Elite Selection Best Budget-Friendly Video Call Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x/"><u>2024 Approved Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-save-issues-in-win-107-default-settings/"><u>Addressing Save Issues in Win 10/7 Default Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amend-unseen-display-unit-errors/"><u>Amend Unseen Display Unit Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/breakfast-oatmeal-with-fresh-blueberries-chia-seeds-and-a-drizzle-of-maple-syrup-green-tea-for-antioxidants/"><u>Breakfast: Oatmeal with Fresh Blueberries, Chia Seeds, and a Drizzle of Maple Syrup; Green Tea for Antioxidants.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-black-screen-errors-win10/"><u>Correcting Black Screen Errors Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-the-undetermined-dx-fault-in-lol/"><u>Demystifying the Undetermined DX Fault in LoL</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-recognition-troubleshooting/"><u>GPU Recognition Troubleshooting</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-civi-3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Civi 3 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/leading-sony-video-format-changer-software-for-pc-users/"><u>Leading Sony Video Format Changer Software for PC Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconnecting-lost-asus-webcam/"><u>Reconnecting Lost Asus Webcam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-power-of-alienware-m18-exclusive-deal-strikes-post-labor-day-for-savvy-gamers-insider-tips-from-zdnet/"><u>Unleash the Power of Alienware M18: Exclusive Deal Strikes Post-Labor Day for Savvy Gamers - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-flicker-free-vision-achieved/"><u>Win11: Flicker-Free Vision Achieved</u></a></li>
 </ul></div>
 

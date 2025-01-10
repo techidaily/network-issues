@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2024-12-28T07:29:39.740Z
-updated: 2025-01-02T17:00:57.714Z
+date: 2025-01-02T20:51:35.643Z
+updated: 2025-01-09T17:05:03.119Z
 tags:
   - win11
   - win10
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -86,7 +86,7 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -96,7 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -105,15 +105,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -142,24 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/recovered-after-error-nvidia-screen-functions-well/"><u>[Recovered] After Error, Nvidia Screen Functions Well</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reinstated-screen-functionality-following-nvidia-error/"><u>[Reinstated] Screen Functionality Following Nvidia Error</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[Updated] 2024 Approved Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>2024 Approved Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/8-best-converters-bringing-your-subs-into-srt-format/"><u>8 Best Converters Bringing Your Subs Into SRT Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-take-quick-shots-on-an-hp-desktoplaptop/"><u>Complete Walkthrough: How to Take Quick Shots on an HP Desktop/Laptop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-windows-10-functionality-with-geforce/"><u>Enhanced Windows 10 Functionality with GeForce</u></a></li>
-<li><a href="https://network-issues.techidaily.com/failed-to-initialize-direct3d-fixed/"><u>Failed to Initialize Direct3D [Fixed]</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-phantom-v-flip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Phantom V Flip without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog/"><u>In 2024, Launchpad for Newcomers Creating a Successful Product Evaluation Vlog</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y100-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y100 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-razer-blade-18-premium-gaming-laptop-at-a-steep-4799-with-i9-14900hx-and-rtx-4090/"><u>Introducing the Razer Blade 18: Premium Gaming Laptop at a Steep $4,799 with I9-14900HX & RTX 4090</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-error-12-rectified-victory-ensured/"><u>MH World Error 12 Rectified - Victory Ensured</u></a></li>
-<li><a href="https://network-issues.techidaily.com/microsofts-drive-revision-for-versions-11-7/"><u>Microsoft's DRIVE Revision for Versions 11-7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-smoothly-conquering-pauses/"><u>Navigate Smoothly: Conquering Pauses</u></a></li>
-<li><a href="https://network-issues.techidaily.com/peeling-back-layers-on-cryptic-direct-x-mishaps-in-leagues/"><u>Peeling Back Layers on Cryptic Direct X Mishaps in Leagues</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/zero-price-maximum-fun-quickmemes-101/"><u>Zero Price, Maximum Fun QuickMemes 101</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-screen-refreshing-issue-in-dell-pc/"><u>[Fixed]: Screen Refreshing Issue in Dell PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-complete-story-on-dji-phantom-4s-performance/"><u>[New] The Complete Story on DJI Phantom 4'S Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-using-obs-in-android/"><u>[New] The Ultimate Guide to Using OBS in Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-apex-legends-crash-xbox-directx-conflict/"><u>[RESOLVED] Apex Legends Crash - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-key-video-beginnings-identifying-the-best-16-for-more-watches/"><u>2024 Approved Key Video Beginnings Identifying the Best 16 for More Watches</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-photoquarter-analysis/"><u>2024 Approved PhotoQuarter Analysis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-your-youtube-earnings-adsense-payments-per-thousand-viewer/"><u>2024 Approved Understanding Your Youtube Earnings AdSense Payments per Thousand Viewer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mysterious-network-signal-failures/"><u>Mysterious Network Signal Failures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recovering-typical-desktop-layout/"><u>Recovering Typical Desktop Layout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-interactive-interface/"><u>Rejuvenated Lenovo Interactive Interface</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-restore-your-fortnite-sounds/"><u>Solving the Mystery: A Step-by-Step Guide to Restore Your Fortnite Sounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-troubleshooting-power-switching-your-ipad-to-recovery-mode/"><u>Unlocking Troubleshooting Power: Switching Your iPad to Recovery Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-new-apple-carplay-enhancements-from-wwdc-2024-highlights-explore-top-features-techcrunch/"><u>Unveiling New Apple CarPlay Enhancements From WWDC 2024 Highlights - Explore Top Features | TechCrunch</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317128-9781401944865-you-are-the-placebo/"><u>You Are the Placebo | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Inverted Display Issue in Windows 11
-date: 2024-12-11T07:32:20.038Z
-updated: 2024-12-16T07:56:23.442Z
+date: 2025-01-03T19:53:58.002Z
+updated: 2025-01-10T05:40:32.004Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 **Note** : It would be so uncomfortable to search from Google and follow the solutions on your computer screen, so we recommend using another computer or mobile phone to search and follow the instructions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Method 1: Fix screen upside down with keyboard shortcuts
 
  This is a simple and easy way to fix screen upside in Windows 10 computer/laptop. Before getting started, you should make sure that Hot Keys are enabled in your Windows 10 computer. Here’s how to do it:
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  1) Right click on the empty area on your desktop, and select**Graphics Settings** or**Graphics Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Fix screen upside down via Display settings
@@ -70,19 +70,15 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still no luck? Don’t be upset. There’s one more thing to try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Method 3: Fix screen upside down by updating graphics card driver
 
@@ -105,7 +101,7 @@ There are two options to update drivers in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
@@ -113,6 +109,10 @@ There are two options to update drivers in Windows 10:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgraded when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
@@ -140,24 +140,24 @@ There are two options to update drivers in Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-fourfold-precision-in-color-capture-with-blade-cameras-for-2024/"><u>[New] Fourfold Precision in Color Capture with Blade Cameras for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-conquering-the-flaws-of-windows-11-photo-app/"><u>[Updated] In 2024, Conquering the Flaws of Windows 11 Photo App</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-reviewing-magix-music-production-for-budding-musicians-for-2024/"><u>[Updated] Reviewing Magix Music Production for Budding Musicians for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>[Updated] The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-effective-tips-to-correctly-focus-and-sharpen-images-on-your-iphones-camera/"><u>7 Effective Tips to Correctly Focus & Sharpen Images on Your iPhone's Camera</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-windows-11-display-reversal-fix/"><u>Addressing Windows 11 Display Reversal Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-boost-for-win11-with-hd-6950-upgrade/"><u>AMD Graphics Drivers Boost for Win11 with HD 6950 Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/cleanse-your-pc-spotting-and-removing-unused-windows-folders/"><u>Cleanse Your PC: Spotting & Removing Unused Windows Folders</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/complete-tutorial-on-testing-your-web-content-before-go-live/"><u>Complete Tutorial on Testing Your Web Content Before Go Live</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-wow-glitch-519-like-a-pro/"><u>Conquering WoW Glitch #519 Like a Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/endless-black-screen-restore-win10/"><u>Endless Black Screen, Restore Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-low-brightness-lenovo-display-issue/"><u>Fixing Low-Brightness Lenovo Display Issue</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-find-x7-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo Find X7 Ultra Quickly? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>In 2024, MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mapping-instagrams-unfollowers-landscape-for-2024/"><u>Mapping Instagram's Unfollowers Landscape for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-driver-no-visibility/"><u>New Driver, No Visibility?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opengl-unavailable-issue-resolved/"><u>OpenGL Unavailable: Issue Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-driver-update-now-available-on-windows-11/"><u>Radeon HD 6950 Driver Update Now Available on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/securing-stable-r9-drivers-for-windows-10-systems/"><u>Securing Stable R9 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unlock-the-full-potential-of-your-xbox-gameplay/"><u>[Updated] In 2024, Unlock the Full Potential of Your Xbox Gameplay</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-guide-to-vimeo-extractors-top-10-web-tools-reviewed-for-2024/"><u>[Updated] Ultimate Guide to Vimeo Extractors Top 10 Web Tools Reviewed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-evolution-from-tools-to-smart-assistants/"><u>AI Evolution: From Tools to Smart Assistants</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/boost-your-pcs-speed-on-windows-11-by-turning-off-non-essential-boot-programs/"><u>Boost Your PC's Speed on Windows 11 by Turning Off Non-Essential Boot Programs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bridging-the-gap-in-graphics-support-on-underpowered-pcs/"><u>Bridging the Gap in Graphics Support on Underpowered PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-reset-nvidia-overcomes-previous-hiccup/"><u>Display Reset: Nvidia Overcomes Previous Hiccup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-low-res-graphics-in-far-cry-6-adventure-mode/"><u>Eradicating Low-Res Graphics in Far Cry 6 Adventure Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-frustrated-user-seamless-screen-resize-in-windows-10/"><u>From Frustrated User: Seamless Screen Resize in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722022955701-generative-ai-and-its-potential-role-in-propagating-disinformation-tactics/"><u>Generative AI and Its Potential Role in Propagating Disinformation Tactics</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-nord-ce-3-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus Nord CE 3 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-addressing-apex-glitches/"><u>Immediate Action: Addressing Apex Glitches</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v29-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-modern-communication-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering Modern Communication: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mountpoint-integration-with-amazon-s3-a-comprehensive-tutorial-on-secure-installation-and-usage/"><u>Mountpoint Integration with Amazon S3: A Comprehensive Tutorial on Secure Installation and Usage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-and-swift-enhance-roblox-on-desktop/"><u>Smooth and Swift: Enhance Roblox on Desktop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-windows-photos-experience-with-added-filtersmusic-for-2024/"><u>Streamlining Windows Photos Experience with Added Filters/Music for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-graphics-performance-install-intel-hd-graphics-3000-on-windows-10-with-ease/"><u>Upgrade Graphics Performance: Install Intel HD Graphics 3000 on Windows 10 with Ease.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-functionality-lost-reinstate-card-for-windows-10/"><u>Wi-Fi Functionality Lost? Reinstate Card for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-qca61x4a-atheros-driver-harmony/"><u>Windows 10 QCA61x4A Atheros Driver Harmony</u></a></li>
 </ul></div>
 

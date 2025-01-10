@@ -1,7 +1,7 @@
 ---
 title: Enhance Real-Time Play with Lower Latency
-date: 2024-12-29T00:31:48.068Z
-updated: 2025-01-03T01:43:33.861Z
+date: 2025-01-05T20:00:34.706Z
+updated: 2025-01-09T16:35:09.705Z
 tags:
   - win11
   - win10
@@ -43,19 +43,15 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try to launch Roblox again to see if it stops lagging now. If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Delete temporary files
 
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 2. Type **%temp%** and then press **Enter** on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files.jpg)
 3. Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![delete temp files to remove edit delay on Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-select-delete.jpg)
 4. If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .  
@@ -98,10 +98,18 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/de-update-all-network-6.0.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -125,6 +133,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
@@ -134,6 +146,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
@@ -141,10 +157,6 @@ OR
 6. Launch Roblox again to see if it still lags. If so, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Reduce the graphics quality
 
@@ -158,10 +170,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/three-line-tab-3.png)
 4. Click the**settings** tab. In the**Graphics Mode** section, click the**next >** arrow to change it to**Manual** . Doing so will enable you to adjust the graphics quality by yourself.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-settings-1.png)
 5. In the**Graphics Quality** section, click the button with the minus sign**(-)** to lower the graphics quality.  
 
@@ -170,19 +178,11 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7: Delete the textures folder
 
  To speed up Roblox on your computer, you should delete the textures folder. Without textures, the game should run a little bit smoother.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To do so:
 
@@ -190,12 +190,12 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-43.png)
 2. Right-click the execution file for**Roblox Player** and select**Open file location** again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-44.png)
 3. Click**PlatformContent** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-45.png)
 4. Click the**PC** folder.  
@@ -206,17 +206,13 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-47.png)
 6. Delete all the other folders except for these:**grass, sky, water** , and the**dds** files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-48.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After taking all the steps, play a Roblox game. You’re supposed to be able to have your game performance improved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Repair system files
 
@@ -230,10 +226,14 @@ To do so:
 3. You’ll get a scan summary listing all the issues it detects. Click **START REPAIR** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, restart your machine and check if it fixes your issue.
 
@@ -258,22 +258,22 @@ Once done, restart your machine and check if it fixes your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-a-study-of-silliness-the-goofy-narrative-unpacked/"><u>[New] 2024 Approved A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-how-to-clearance-check-tiktok-videos-before-publishing/"><u>[New] 2024 Approved How to Clearance-Check TikTok Videos Before Publishing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-youtube-videos-activating-av1-support/"><u>[Updated] 2024 Approved Boosting YouTube Videos Activating AV1 Support</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-intrigue-initiates-the-leading-10-rogues/"><u>[Updated] In 2024, Intrigue Initiates The Leading 10 Rogues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-in-class-analyzing-the-differences-between-apple-tv-4k-and-roku-ultra/"><u>Best in Class? Analyzing the Differences Between Apple TV 4K and Roku Ultra</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-flipped-digital-image-screens/"><u>Correcting Flipped Digital Image Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-hybrid-card-mix-up-a-solution-for-intel-and-nvidia-in-win10/"><u>Correcting Hybrid Card Mix-Up: A Solution for Intel & Nvidia in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-greyed-out-remove-pin-option-in-windows-11/"><u>How to Fix the Greyed-Out Remove PIN Option in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-toggle-to-safe-mode-and-delete-graphics-drivers-on-windows-8/"><u>How to Toggle to Safe Mode & Delete Graphics Drivers on Windows 8</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y100t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100t Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-graphics-driver-version-unveiled-amd-radeon-hd-6950-for-win11/"><u>New Graphics Driver Version Unveiled: AMD Radeon HD 6950 for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974827199-smooth-screenshot-experience-now/"><u>Smooth Screenshot Experience Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-prevent-lenovo-screen-shakes/"><u>Techniques to Prevent Lenovo Screen Shakes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-11-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 11 Pro You Should Try Out</u></a></li>
-<li><a href="https://win11.techidaily.com/the-unopened-notepad-predicament-solutions-to-make-it-open-once-more/"><u>The Unopened Notepad Predicament: Solutions to Make It Open Once More</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovos-unresponsive-touchpad/"><u>Troubleshooting Lenovo's Unresponsive Touchpad</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-wallet-friendly-action-cam-gems-under-100-budget-for-2024/"><u>[New] Wallet-Friendly ACTION Cam Gems Under $100 Budget for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>[Updated] In 2024, Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-failed-window-graphics-device-linkage/"><u>Corrected Failed Window Graphics Device Linkage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhance-safety-with-ease-discover-how-to-effectively-use-your-arlo-security-kit/"><u>Enhance Safety with Ease: Discover How to Effectively Use Your Arlo Security Kit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hd-6950-graphics-update-amds-new-driver-for-increased-windows-11-performance/"><u>HD 6950 Graphics Update: AMD's New Driver for Increased Windows 11 Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-pova-6-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Pova 6 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-low-quality-textures-for-island-adventure/"><u>Rectifying Low-Quality Textures for Island Adventure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-ripple-on-windows-7-screens/"><u>Rectifying Ripple on Windows 7 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reestablishing-function-in-disabled-amd-freesync/"><u>Reestablishing Function in Disabled AMD FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-obstacles-fixing-drivers-of-r9-on-win10/"><u>Removing Obstacles: Fixing Drivers of R9 on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-fix-no-window-fullscreen-in-win11/"><u>Screen Fix: No Window Fullscreen in Win11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/simplifying-cross-platform-video-sharing-between-twitter-and-snapchat/"><u>Simplifying Cross-Platform Video Sharing Between Twitter & Snapchat</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/splitting-screens-evaluating-splitcams-video-quality/"><u>Splitting Screens Evaluating SplitCam's Video Quality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo/"><u>Stand Out and Thrive Strategies for Staff Recognition at Vimeo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tighten-monitor-sharpness-settings/"><u>Tighten Monitor Sharpness Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-strategy-for-iphone-data-safety-using-icloud-and-mac-solutions-insights-experts/"><u>Ultimate Strategy for iPhone Data Safety Using iCloud and Mac Solutions, Insights Experts</u></a></li>
 </ul></div>
 

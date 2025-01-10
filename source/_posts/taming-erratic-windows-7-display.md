@@ -1,7 +1,7 @@
 ---
 title: Taming Erratic Windows 7 Display
-date: 2025-01-01T19:26:41.444Z
-updated: 2025-01-02T21:25:46.701Z
+date: 2025-01-05T21:13:30.692Z
+updated: 2025-01-10T02:55:50.118Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -47,14 +51,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -76,20 +76,16 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -101,10 +97,6 @@ To troubleshoot these hardware issues:
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
@@ -118,11 +110,19 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,20 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-adding-dynamic-blurs-to-ai-designed-graphics/"><u>[New] 2024 Approved Adding Dynamic Blurs to AI-Designed Graphics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[New] In 2024, Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-tiktok-bios-adding-linktree-seamlessly-for-2024/"><u>[New] Mastering TikTok Bios Adding Linktree Seamlessly for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/3gpmp43gp/"><u>3GP形式の詳細と、MP4ファイルを3GPフォーマットへ自由に変換する手順</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-say-i-love-you-in-hungarian/"><u>How To Say I Love You In Hungarian</u></a></li>
-<li><a href="https://network-issues.techidaily.com/internet-disconnection-dilemma/"><u>Internet Disconnection Dilemma</u></a></li>
-<li><a href="https://network-issues.techidaily.com/refresh-intels-graphics-prowess-in-your-system-using-windows-10-update/"><u>Refresh Intel's Graphics Prowess in Your System Using Windows 10 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/steps-for-making-acer-displays-no-longer-flicker/"><u>Steps for Making Acer Displays No Longer Flicker</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-phantom-v-flip-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Flip Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-xr21-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia XR21 FRP Bypass</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-final-cut-pro-voice-over-secrets-boost-your-audio-game-for-2024/"><u>Updated Final Cut Pro Voice Over Secrets Boost Your Audio Game for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-k70-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi K70 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-charismatic-communicator-overview-part-8/"><u>[New] 2024 Approved Charismatic Communicator Overview, Part 8</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-pcsmartphone-session-recorder/"><u>[New] The Ultimate PC/Smartphone Session Recorder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-connection-for-cod-cold-war/"><u>[SOLVED] Restoring Internet Connection for CoD Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-winnet-speed-leapfrogging-latency-limits/"><u>[SOLVED] WinNet Speed: Leapfrogging Latency Limits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-skype-quality-with-obs-studio-plugins/"><u>[Updated] 2024 Approved Maximizing Skype Quality with OBS Studio Plugins</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-high-quality-streaming-top-5-recorder-devices-reviewed/"><u>[Updated] High-Quality Streaming Top 5 Recorder Devices Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-speak-and-stun-on-snapchat-voice-change-made-simple-for-2024/"><u>[Updated] Speak and Stun on Snapchat Voice Change Made Simple for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flawless-viewing-master-the-techniques-to-eliminate-kodis-buffering-delays/"><u>Flawless Viewing - Master the Techniques to Eliminate Kodi's Buffering Delays</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-vdq-video-snatcher-assessment-comprehensive-analysis/"><u>In 2024, VDQ Video Snatcher Assessment Comprehensive Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-to-tv-connection-issue-no-response/"><u>Laptop-to-TV Connection Issue: No Response</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-reset-successfully-functioning/"><u>Lenovo Tap Reset Successfully Functioning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-updates-fixing-render-driver-issues-across-windows-series/"><u>Microsoft Updates: Fixing Render Driver Issues Across Windows Series</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c22-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C22 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-social-connectivity-winning-at-fbm-glitches/"><u>Seamless Social Connectivity: Winning at FBM Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-amd-radeon-r9-performance-on-win11/"><u>Securing AMD Radeon R9 Performance on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-over-flickering-win7-views/"><u>Smoothing Over Flickering Win7 Views</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-chatgpt-installation-guide/"><u>Step-by-Step ChatGPT Installation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-large-screen-distortion-in-windows-10/"><u>Tackled Large Screen Distortion in Windows 10</u></a></li>
 </ul></div>
 

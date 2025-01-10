@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2025-01-02T00:19:28.501Z
-updated: 2025-01-03T02:24:59.007Z
+date: 2025-01-08T01:08:46.883Z
+updated: 2025-01-10T08:36:17.030Z
 tags:
   - win11
   - win10
@@ -66,18 +66,10 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
@@ -88,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
@@ -101,19 +93,19 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -129,11 +121,19 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,16 +156,18 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-rainbow-six-siege-patch-fail-dx12-error/"><u>[FIXED] Rainbow Six Siege Patch Fail - DX12 Error</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-11-gamers-top-5-techniques-for-perfect-snapshots-for-2024/"><u>[New] Windows 11 Gamers Top 5 Techniques for Perfect Snapshots for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-framemaster-pro-advanced-windowsmac-screen-capture/"><u>[Updated] 2024 Approved FrameMaster Pro Advanced Windows/Mac Screen Capture</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-lunapic-essentials-starting-with-simple-edits/"><u>[Updated] In 2024, LunaPic Essentials Starting with Simple Edits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-rapid-blinking-behavior-in-hp-monitors/"><u>Correcting Rapid Blinking Behavior in HP Monitors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-c51-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco C51</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-photographic-fundamentals-in-5-minutes-with-snapseed/"><u>In 2024, Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-screen-correction-for-windows-10/"><u>Reverse Screen Correction for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wow-issue-fix-guide-problem-51900319/"><u>WOW Issue Fix Guide: Problem #51900319</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-windows-11-photo-and-video-import-magic/"><u>[New] 2024 Approved Mastering Windows 11 Photo & Video Import Magic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-perfecting-ps3-recorded-content-expert-insights-for-2024/"><u>[New] Perfecting PS3 Recorded Content Expert Insights for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-cod-cold-war-no-internet-links/"><u>[RESOLVED] CoD Cold War: No Internet Links</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-error-driver-unresponsive-in-windows-10-fixed/"><u>AMD Error: Driver Unresponsive in Windows 10 - Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-cryptic-dx-hurdle-from-lol-gameplay/"><u>Decoding Cryptic DX Hurdle From LoL Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-advice-on-zapping-zoom-issues-right-away/"><u>Expert Advice on Zapping Zoom Issues Right Away</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-2-written-by-jake-simonson-date-march-14-2023-for-2024/"><u>Iconic 2 Written By Jake Simonson | Date March 14, 2023 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-volume-reduction-in-audio-designs-using-logic-pro/"><u>In 2024, Mastering Volume Reduction in Audio Designs Using Logic Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-immersion-a-guide-to-the-leaders/"><u>Innovative Immersion A Guide to the Leaders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-r9-display-driver-bugs-in-windows-10/"><u>Resolving R9 Display Driver Bugs in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solutions-for-legends-crash-fix/"><u>Swift Solutions for Legends Crash Fix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/zero-price-limitless-possibilities-apowersoft-screenshot-tool-review/"><u>Zero Price, Limitless Possibilities - Apowersoft Screenshot Tool Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Laptop Display Rotated - Issue Resolved
-date: 2024-12-28T09:13:13.275Z
-updated: 2025-01-03T05:22:19.500Z
+date: 2025-01-04T02:10:30.676Z
+updated: 2025-01-09T18:34:41.965Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -42,6 +38,10 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -52,13 +52,17 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -73,15 +77,11 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -105,24 +105,18 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-five-iphone-podcast-services-to-streaming-for-2024/"><u>[Updated] Five iPhone Podcast Services to Streaming for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>[Updated] Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-most-reliable-7-free-tools-to-extract-video-tags-on-youtube/"><u>[Updated] The Most Reliable 7 Free Tools to Extract Video Tags on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-pre-windows-11-machine/"><u>How to Jumpstart Your Pre-Windows 11 Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/jornada-completa-al-cuerpo-de-la-boca-a-los-rinones-en-espanol/"><u>Jornada Completa Al Cuerpo: De La Boca A Los Riñones En Español</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-driver-matchup-in-windows-10/"><u>Mastering Driver Matchup in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-amd-hd-6950-driver-release-for-win11/"><u>New AMD HD 6950 Driver Release for Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-resolution-to-amd-woes/"><u>Quick Resolution to AMD Woes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-note-30-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix Note 30 5G</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/secure-your-data-with-no-cost-sql-server-database-backup-solutions/"><u>Secure Your Data with No-Cost SQL Server Database Backup Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-downloading-the-epson-xp-400-drivers/"><u>Step-by-Step Tutorial on Downloading the Epson XP-400 Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-essential-routine-for-updating-intel-drivers-in-win-7/"><u>The Essential Routine for Updating Intel Drivers in Win 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wifi-warrior-combatting-slow-windows-1110/"><u>WiFi Warrior: Combatting Slow Windows 11/10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974781358-win11-hybrid-graphics-bug-now-solved/"><u>Win11 Hybrid Graphics Bug: Now Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-the-latency-battle-in-windows-networks/"><u>Winning the Latency Battle in Windows Networks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-10-budget-friendly-passport-photographers-online/"><u>[New] Exclusive List 10 Budget-Friendly Passport Photographers Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-composers-guide-to-creating-youtube-music-cohorts-for-2024/"><u>[New] The Composer's Guide to Creating YouTube Music Cohorts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-techniques-for-live-broadcasting-recorded-videographies-on-fb/"><u>[Updated] Techniques for Live Broadcasting Recorded Videographies on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversion-gratuita-de-archivos-wav-a-au-online-easy-con-movavi/"><u>Conversión Gratuita De Archivos .wav a .au Online - Easy Con Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hd-6950-drivers-upgraded-for-windows-11-users/"><u>HD 6950 Drivers Upgraded for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-a60s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel A60s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-why-videos-speak-louder-for-brands/"><u>In 2024, Why Videos Speak Louder for Brands</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-onoff-switch-armored/"><u>OpenGL On/Off Switch Armored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-silence-no-nvidia-detected-in-control-panel/"><u>Unexpected Silence: No NVIDIA Detected in Control Panel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-your-secret-treasures-step-by-step-tutorial-for-locating-saved-reels-on-instagram/"><u>Unveiling Your Secret Treasures: Step-by-Step Tutorial for Locating Saved Reels on Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
 </ul></div>
 

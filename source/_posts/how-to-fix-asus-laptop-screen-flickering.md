@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2025-01-01T07:36:03.638Z
-updated: 2025-01-03T08:46:04.239Z
+date: 2025-01-07T19:44:48.619Z
+updated: 2025-01-09T23:43:52.617Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
  Here are 4 fixes that have helped other users resolve the screen flickering on ASUS laptop issue. Just work your way down the list until you find the one that works for you.
@@ -29,6 +25,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. **[Update or delete incompatible apps](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   **Fix 1: Change the screen refresh rate**  
 
@@ -47,15 +47,19 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:** 
 
@@ -63,25 +67,17 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 2: Update or delete incompatible apps
 
@@ -105,6 +101,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
@@ -154,20 +154,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-your-missing-wi-fi-adapter-in-windows-11/"><u>[FIXED] Your Missing Wi-Fi Adapter in Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-8-top-video-screen-grabbers/"><u>[Updated] 8 Top Video Screen Grabbers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-augmented-reality-shading-exploiting-free-lut-resources-for-ar/"><u>[Updated] Augmented Reality Shading Exploiting Free LUT Resources for AR</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 Pro Max in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-bonanza-why-pay-more-when-you-can-get-a-255-chromebook-deal-this-october-insider-tips-from-zdnet/"><u>Amazon Prime Day Bonanza: Why Pay More When You Can Get a $255 Chromebook Deal This October? Insider Tips From ZDNET!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/enhancing-meeting-success-with-microsoft-teams-snap-camera-for-2024/"><u>Enhancing Meeting Success with Microsoft Teams Snap Camera for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-faded-lenovo-visual-output/"><u>Fixing Faded Lenovo Visual Output</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-unsuccessful-direct3d-start-up/"><u>Fixing Unsuccessful Direct3D Start-Up</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-crumble-to-climb-monster-world-crisis-averted/"><u>From Crumble to Climb: Monster World Crisis Averted</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-a14-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy A14 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-magic-6-lite-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Magic 6 Lite Location | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-dialogues-the-key-to-listener-retention-for-2024/"><u>Innovative Dialogues The Key to Listener Retention for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reformatting-win10-high-res-displays/"><u>Reformatting Win10 High-Res Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-operation-fallout-4-on-computer/"><u>Seamless Operation: Fallout 4 on Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-screen-degradation-issue-resolved/"><u>Windows 10 Screen Degradation Issue - Resolved</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essential-lenovo-display-recording-hacks/"><u>[Updated] 2024 Approved The Essential Lenovo Display Recording Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-photo-framing-techniques-via-digital-platforms-2-written-by-user-johndoe/"><u>[Updated] Master Photo Framing Techniques via Digital Platforms (2 Written by User JohnDoe</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-rejuvenated-with-latest-update/"><u>AMD Radeon HD 6950: Rejuvenated with Latest Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrease-extra-large-win10-screens/"><u>Decrease Extra-Large Win10 Screens</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/descubre-como-proteger-tus-fotos-mediante-la-creacion-de-una-copia-de-seguridad-usando-norton-ghost/"><u>Descubre Cómo Proteger Tus Fotos Mediante La Creación De Una Copia De Seguridad Usando Norton Ghost</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-graphics-performance-intellupdates-for-windows-pc/"><u>Enhance Graphics Performance: IntellUpdates for Windows PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-glitches-civ-5-on-windows/"><u>Eradicating Glitches: Civ 5 on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-drivers-for-your-hp-officejet-pro-printer-model-8715-on-windows-a-step-by-step-tutorial/"><u>Get the Latest Drivers for Your HP Officejet Pro Printer (Model 8715) on Windows: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-official-method-to-unlock-your-apple-iphone-7-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Official Method to Unlock Your Apple iPhone 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>In 2024, Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kingdom-come-caught-in-queue/"><u>Kingdom Come Caught in Queue</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-the-kindle-expert-strategies-to-enhance-your-reading-experience/"><u>Mastering the Kindle: Expert Strategies to Enhance Your Reading Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlined-com-response-on-os-x/"><u>Streamlined COM Response on OS X</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/745658-9780307805478-the-way-to-love/"><u>The Way to Love | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-of-free-mp4-video-cutter-tools/"><u>Updated The Ultimate List of Free MP4 Video Cutter Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updating-intel-graphics-on-win-7-step-by-step-guide/"><u>Updating Intel Graphics on Win 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-spacing-simplified-and-smoothed/"><u>Win11: Screen Spacing Simplified and Smoothed</u></a></li>
 </ul></div>
 

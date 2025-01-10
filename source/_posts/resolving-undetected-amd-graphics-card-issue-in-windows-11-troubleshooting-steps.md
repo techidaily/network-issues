@@ -1,7 +1,7 @@
 ---
 title: "Resolving Undetected AMD Graphics Card Issue in Windows 11: Troubleshooting Steps"
-date: 2024-12-29T22:47:56.688Z
-updated: 2025-01-02T21:47:23.430Z
+date: 2025-01-08T21:44:27.780Z
+updated: 2025-01-10T09:36:11.431Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -51,10 +51,14 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
 
@@ -66,15 +70,11 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
 6. Restart your computer and check if the problem is resolved.
@@ -104,22 +104,21 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-the-fine-art-of-instagram-photo-borders/"><u>[New] In 2024, Mastering the Fine Art of Instagram Photo Borders</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-missing-lan-card-on-win10/"><u>[RESOLVED] Missing LAN Card on Win10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-honing-skills-for-hiring-best-filmmakers/"><u>[Updated] Honing Skills for Hiring Best Filmmakers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/6-powerful-strategies-to-create-stunning-microsoft-excel-charts/"><u>6 Powerful Strategies to Create Stunning Microsoft Excel Charts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-l2690dw-all-in-one-printer-drivers-install-and-upgrade/"><u>Brother L2690dw All-in-One Printer Drivers: Install and Upgrade</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-chatgpt-tool-browser-based-or-plugin-options/"><u>Choosing the Right ChatGPT Tool: Browser-Based or Plugin Options?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-hybrid-card-malfunction-in-nvidia-and-intel-on-windows-10/"><u>Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-lcd-precision-with-a-tweak/"><u>Enhance LCD Precision with a Tweak</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enrich-your-photography-experience-with-windows-photos-app-filters-plus-sound/"><u>Enrich Your Photography Experience with Windows Photos App Filters + Sound</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/perfecting-fatal-errors-radeon-r9-and-windows-11/"><u>Perfecting Fatal Errors: Radeon R9 & Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-error-type-22-graphicsdriver/"><u>Rectified Error Type 22, GraphicsDriver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx-crash-conundrum-the-ultimate-fix-guide-for-pc-gaming/"><u>RTX Crash Conundrum: The Ultimate Fix Guide for PC Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-big-screen-displays-issue-for-windows-10/"><u>Solved Big-Screen Displays Issue for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-stabilization-correct-loot-errors-quickly/"><u>Swift Stabilization: Correct Loot Errors Quickly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-ideal-indoor-greenery-choices-for-a-productive-workspace-techradar/"><u>Top 5 Ideal Indoor Greenery Choices for a Productive Workspace | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-blue-screen-of-death-causes-and-fixes/"><u>Understanding the Blue Screen of Death: Causes and Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-causing-bsod-on-windows-os/"><u>[Fix]: dxgkrnl.sys Causing BSOD on Windows OS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-boost-your-tiktok-footprint-top-analytics-strategies-reviewed-for-2024/"><u>[New] Boost Your TikTok Footprint Top Analytics Strategies Reviewed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-deciphering-virtual-universes-metaverse-and-multiverse/"><u>[New] Deciphering Virtual Universes Metaverse & Multiverse</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-efficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile/"><u>[New] Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-translate-compressed-files-into-subtitle-format-srt/"><u>[New] Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-advice-for-quick-and-effortless-mac-screen-recording-via-keyboard-shortcuts/"><u>[Updated] Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-capturing-desktop-using-ezvid-software/"><u>[Updated] In 2024, Step-by-Step Guide to Capturing Desktop Using Ezvid Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-voiceover-guide-for-engaging-videography/"><u>[Updated] In 2024, Voiceover Guide for Engaging Videography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-story-hack-for-stealthy-tech-users/"><u>[Updated] Insta Story Hack for Stealthy Tech Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disabling-problematic-drivers-improves-mc-gameplay/"><u>Disabling Problematic Drivers, Improves MC Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-and-windows-blue-screen-error-fix/"><u>dxgkrnl.sys and Windows Blue Screen Error Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-12-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 12</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-fixed-gpu-incompatibility-problems/"><u>Overwatch: Fixed GPU Incompatibility Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-standard-screen-aspect-ratio/"><u>Restoring Standard Screen Aspect Ratio</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversal-fix-for-inverted-displays-in-w11/"><u>Reversal Fix for Inverted Displays in W11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-set-ideal-screen-resolution/"><u>Windows 11: Set Ideal Screen Resolution</u></a></li>
 </ul></div>
 

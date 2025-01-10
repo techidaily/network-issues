@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Gaps During Games
-date: 2024-12-31T19:46:53.616Z
-updated: 2025-01-03T08:09:29.572Z
+date: 2025-01-02T18:21:53.590Z
+updated: 2025-01-10T00:15:10.995Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
@@ -40,7 +36,7 @@ There are two fixes you can try:
 2. [**Turn on V-Sync**](#b)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
@@ -57,13 +53,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
 
@@ -74,7 +70,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
@@ -88,7 +84,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**Intel** graphics users
@@ -96,6 +92,10 @@ There are two fixes you can try:
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
@@ -131,22 +131,24 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[New] 2024 Approved Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-fanfare-identifying-the-top-8-likable-apps-for-you-for-2024/"><u>[New] Facebook Fanfare Identifying the Top 8 Likable Apps for You for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>[Updated] Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-samsung-t5-8tb-ssd-strikes-a-steal-up-to-36-discount-post-prime-day-see-the-exclusive-offer-on-zdnet/"><u>Amazon's Samsung T5 8TB SSD Strikes a Steal - Up to 36% Discount Post-Prime Day! See the Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-and-qualcomm-wifi-seamlessly-work-in-win10/"><u>Atheros & Qualcomm WiFi Seamlessly Work in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/calm-the-currents-resolve-dells-flicker/"><u>Calm the Currents: Resolve Dell's Flicker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diminishing-disturbance-on-win11-panels/"><u>Diminishing Disturbance on Win11 Panels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easing-pro-7s-shimmering-issue/"><u>Easing Pro 7'S Shimmering Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-frustrations-fallout-4-stable-on-windows/"><u>End of Frustrations: Fallout 4 Stable on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-origins-when-did-artificial-intelligence-begin/"><u>Exploring the Origins: When Did Artificial Intelligence Begin?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-dpi-settings-easier-to-adjust-post-update-in-windows-10/"><u>High-DPI Settings: Easier to Adjust Post-Update in Windows 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-expertise-in-iphones-high-dynamic-range-photography/"><u>In 2024, Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-pova-6-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Pova 6 Pro 5G Phone that is Locked?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/jive-without-jitters-anti-lag-tactics/"><u>Jive Without Jitters: Anti-Lag Tactics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/locked-out-of-your-android-phone-here-are-3-solutions-to-regain-access-by-drfone-android/"><u>Locked Out of Your Android Phone? Here Are 3 Solutions to Regain Access</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-fall-screen-fix-after-cu-installation/"><u>Win10 Fall Screen Fix After CU Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-focusrite-scarlett-18i20-drivers-for-windows/"><u>[Download] Focusrite Scarlett 18I20 Drivers for Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-essentials-of-starting-an-instagram-live/"><u>[New] 2024 Approved The Essentials of Starting an Instagram Live</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-connectivity-fixes-for-online-cod-cold-war/"><u>[RESOLVED] Connectivity Fixes for Online CoD Cold War</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-puzzling-perfection-hunt-for-the-ultimate-rooms/"><u>[Updated] In 2024, Puzzling Perfection Hunt for the Ultimate Rooms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-youtube-submission-with-imovie-files-for-2024/"><u>[Updated] Navigating YouTube Submission with iMovie Files for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-path-to-youtube-earnings-setting-up-and-selling-content/"><u>[Updated] Your Path to YouTube Earnings Setting Up and Selling Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-woes-in-eft-simple-cure/"><u>AMD Woes in EFT, Simple Cure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-errors-for-functional-built-in-cam/"><u>Correcting Errors for Functional Built-In Cam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-immortal-stability-issues-on-pc-comprehensive-troubleshooting-guide-for-2-cuffs/"><u>Diablo Immortal Stability Issues on PC: Comprehensive Troubleshooting Guide for 2 Cuffs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-flickering-on-windows-monitor/"><u>Eradicating Flickering on Windows Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-fluctuating-monitor-illumination-on-notebook/"><u>Fix: Fluctuating Monitor Illumination on Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixes-for-unresponsive-laptop-screens/"><u>Fixes for Unresponsive Laptop Screens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-mp3-to-m4a-converter-moveavi/"><u>Free Online MP3 to M4A Converter - MoveAVI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-issue-overcome-in-latest-windows-update/"><u>High-DPI Settings Issue Overcome in Latest Windows Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p55-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P55</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ready-to-use-established-sql-linking-dashboard/"><u>Ready-to-Use Established SQL Linking Dashboard</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-adjustments-persistently-safe/"><u>Screen Adjustments Persistently Safe</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamline-screen-capturing-in-todays-remote-meetings/"><u>Streamline Screen Capturing in Today’s Remote Meetings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-curveball-resolved-black-screen/"><u>Win11 Curveball: Resolved Black Screen</u></a></li>
 </ul></div>
 

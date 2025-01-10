@@ -1,7 +1,7 @@
 ---
 title: "Cyber Frontier Fiasco: File Freeze"
-date: 2024-12-15T09:37:11.093Z
-updated: 2024-12-15T16:01:23.824Z
+date: 2025-01-06T02:14:02.598Z
+updated: 2025-01-09T20:57:07.457Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the server status
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect other devices
@@ -85,16 +85,12 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -123,15 +119,19 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
@@ -139,15 +139,15 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For **Preferred DNS server** , type **8.8.8.8**  
  For **Alternate DNS server** , type **8.8.4.4**  
 
  Check the box next to **Validate settings upon exit**  and then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-8888-8844-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
@@ -168,7 +168,7 @@ Here’s how to do this:
 4. Copy and paste the following lines:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **[HTTP]**
@@ -184,19 +184,11 @@ Here’s how to do this:
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Press**Ctrl + S** to save the edits.
 
 When it’s all done, resume your download and it should be faster.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Set the throttle speed to Unlimited
 
@@ -207,8 +199,16 @@ When it’s all done, resume your download and it should be faster.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Try downloading your games again.
 
@@ -238,24 +238,20 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-to-your-personal-youtube-collection/"><u>[New] 2024 Approved Navigating to Your Personal YouTube Collection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-achieve-premium-picture-standards-without-paying/"><u>[Updated] How to Achieve Premium Picture Standards Without Paying</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube/"><u>2024 Approved Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-whatsapp-vocal-exchange/"><u>Comprehensive Guide to WhatsApp Vocal Exchange</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-youtubes-mystery-a-sequential-exploration-guide-for-2024/"><u>Decoding YouTube's Mystery A Sequential Exploration Guide for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exploring-4k-extreme-visual-fidelity/"><u>Exploring 4K Extreme Visual Fidelity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-shimmering-effects-on-screens/"><u>Fix Shimmering Effects on Screens</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-v30-lite-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo V30 Lite 5G Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974860747-instantly-amend-intel-g3000-graphics-win11-way/"><u>Instantly Amend Intel G3000 Graphics, Win11 Way!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovos-lackluster-display-no-more/"><u>Lenovo's Lackluster Display No More</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-os-x-mavericks-video-editors-handbook/"><u>New In 2024, The Ultimate OS X Mavericks Video Editors Handbook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-mirrored-screen-effects-in-windows-11/"><u>Overcoming Mirrored Screen Effects in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-gdx-creation-failure-in-oswin/"><u>Rectified GDX Creation Failure in OS/Win</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-inverted-lcd-or-led-screen/"><u>Reversing Inverted LCD or LED Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974749003-swiftly-improve-intels-graphic-driver-in-ws11-environment/"><u>Swiftly Improve Intel's Graphic Driver in WS11 Environment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-managing-your-presence-on-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Managing Your Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-dongle-setup-and-enablement-guide/"><u>Wi-Fi Dongle Setup & Enablement Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-strategies-for-effective-content-management-in-creator-studio-for-2024/"><u>[New] Essential Strategies for Effective Content Management in Creator Studio for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[New] Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streamline-operations-ranking-the-top-8-facebook-task-managers-for-2024/"><u>[New] Streamline Operations Ranking the Top 8 Facebook Task Managers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-price-friendly-nimbus-space-wide-file-vault/"><u>[Updated] 2024 Approved Price-Friendly Nimbus Space Wide File Vault</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-key-to-successful-large-scale-instagram-videos/"><u>[Updated] 2024 Approved The Key to Successful Large-Scale Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-behind-the-scenes-unpacking-instagram-stories/"><u>2024 Approved Behind the Scenes Unpacking Instagram Stories</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-lenovo-display-hiccups/"><u>Correcting Lenovo Display Hiccups</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x80072f8f-on-your-pc-easy-fixes-for-windows-11-and-10/"><u>Error 0X80072F8F on Your PC? Easy Fixes for Windows 11 and 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-safe-mode-in-window-8-for-graphics-card-updates/"><u>Navigating Safe Mode in Window 8 for Graphics Card Updates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-10-intro-makers-for-pc-online-and-offline/"><u>New Top 10 Intro Makers for PC Online and Offline</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-gpu-requirement-not-met-issue-resolved/"><u>Overwatch: GPU Requirement Not Met, Issue Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-saved-display-settings-errors-in-win-oses/"><u>Resolving Saved Display Settings Errors in Win OSes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-correcting-vertical-distortion-issues-in-samsung-tvs/"><u>Step-by-Step Solutions: Correcting Vertical Distortion Issues in Samsung TVs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-reached-due-to-nvidia-error-now-solved/"><u>Stop Reached Due To NVIDIA Error, Now Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-for-restoring-lacking-monitor-feedback/"><u>Techniques for Restoring Lacking Monitor Feedback</u></a></li>
 </ul></div>
 

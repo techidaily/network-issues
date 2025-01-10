@@ -1,7 +1,7 @@
 ---
 title: "Dropped Offline: The Internet's Lament"
-date: 2024-12-31T13:29:48.020Z
-updated: 2025-01-03T12:24:33.162Z
+date: 2025-01-04T09:07:36.525Z
+updated: 2025-01-09T18:48:11.684Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
  If your Windows 10/11 computer isn’t the only device with this problem (say, the same thing happens to your cell phone and your Mac), it’s very likely that your router is at fault, not your computer or network connection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Some quick checks
 
  When your Wi-Fi disconnects and connects frequently, here are some quick checkups that you can do with your router and computer to see if they help:
@@ -53,12 +49,12 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-control-panel-network-and-sharing-center.jpg)
 4. Click**Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-25-29.jpg)
 5. **Right-click** your WiFi adapter and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-27-14.jpg)
 6. Click**Configure** .  
@@ -66,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-42-21.jpg)
 7. Go to the**Power Management** tab.**Untick** the box next to**Allow the computer to turn off this device to save power** . Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-46-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Reset the Wi-Fi AutoConfig service
 
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 2. Locate**WLAN AutoConfig** and double-click it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-51-55.jpg)
@@ -89,11 +85,19 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 4. Click**Apply** and**OK** to save and exit.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2019-11-01_10-54-11.jpg)
 5. Check to see if your Wi-Fi connection is back to normal. If not, you need to try the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Update network adapter driver
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -143,22 +143,21 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-prime-posting-hours-the-key-to-youtube-dominance/"><u>[New] In 2024, Prime Posting Hours The Key to YouTube Dominance</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-instasnap-upload-essentials-for-2024/"><u>[New] InstaSnap Upload Essentials for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-momentum-in-motion-top-20-instagram-ideas-for-mentoring-the-masses/"><u>[New] Momentum in Motion Top 20 Instagram Ideas for Mentoring the Masses</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/uick-record-and-publish-screen-images-for-macpc-and-youtube/"><u>[New] Quick Record & Publish Screen Images for Mac/PC and YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-winning-in-media-creation-with-ease-movies-maker-secrets-for-windows-8-users/"><u>2024 Approved Winning in Media Creation with Ease Movies Maker Secrets for Windows 8 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dispelling-screen-shadow-phenomenon/"><u>Dispelling Screen Shadow Phenomenon</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-com-chaos-for-windows-users/"><u>End of COM Chaos for Windows Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-malfunction-43-addressed/"><u>Graphics Malfunction 43 Addressed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hacks-for-skipping-edgenuity-video-lessons-fast-for-2024/"><u>Hacks for Skipping Edgenuity Video Lessons Fast for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-moto-g-5g-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Moto G 5G (2023) to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/iphones-best-video-editor-pick-cameo-vs-filmorago-analysis-for-2024/"><u>IPhone's Best Video Editor Pick Cameo Vs. FilmoraGo Analysis for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/mbr-is-another-boot-sector-that-can-cause-similar-issues-as-bootmgr-errors-to-repair-or-rebuild-it-youll-need-to-use-a-linux-live-usb-with-gparted/"><u>MBR Is Another Boot Sector that Can Cause Similar Issues as BOOTMGR Errors. To Repair or Rebuild It, You'll Need to Use a Linux Live USB with GParted:</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimized-graphics-engine-nvidia-210-ready-for-win10-users/"><u>Optimized Graphics Engine: Nvidia 210 Ready For WIN10 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blank-graphic-detail-lost/"><u>Screen Blank: Graphic Detail Lost</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974778167-swiftly-refresh-intel-g3000-driver-on-win11/"><u>Swiftly Refresh Intel G3000 Driver on Win11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-mix-up-of-intel-and-nvidia-graphic-cards-in-win10/"><u>Tackling Mix-Up of Intel & Nvidia Graphic Cards in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-fixed-graphic-device-creation-errors/"><u>WinOS: Fixed Graphic Device Creation Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-complete-guide-to-motion-without-touch-sensors/"><u>[New] 2024 Approved The Complete Guide to Motion Without Touch Sensors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-crossos-vmix-replacement-tool-for-2024/"><u>[New] CrossOS VMix Replacement Tool for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-exploring-japanese-artistry-adding-anime-filters-on-snaps/"><u>[New] Exploring Japanese Artistry Adding Anime Filters on Snaps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716070173267-new-in-2024-instant-mac-screen-savior-free/"><u>[New] In 2024, Instant Mac Screen Savior - Free!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-maximize-creativity-with-these-10-androidpc-video-tools/"><u>[New] In 2024, Maximize Creativity with These 10 Android/PC Video Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-snapchat-ecosystem-for-biz-growth-for-2024/"><u>[Updated] Navigating the Snapchat Ecosystem for Biz Growth for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-blaze-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Blaze 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-image-display-on-windows-7/"><u>Correcting Inverted Image Display on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-windows-issues-in-civilization-v/"><u>Eliminate Windows Issues in Civilization V</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974437083-enhance-visual-clarity-install-updated-intel-hd-graphics-3000-for-windows-10-now/"><u>Enhance Visual Clarity: Install Updated Intel HD Graphics 3000 for Windows 10 Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-gt-5-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme GT 5 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-available-display-options-nvidia/"><u>Restoring Available Display Options NVIDIA</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-setup-for-hp-envy-5055-printers-professional-driver-downloads/"><u>Speedy Setup for HP Envy 5055 Printers: Professional Driver Downloads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unraveling-switchable-graphics-issue-with-intel-and-nvidia-on-win10/"><u>Unraveling Switchable Graphics Issue with Intel & Nvidia on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unresponsive-screen-after-graphics-switch/"><u>Unresponsive Screen After Graphics Switch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974432958-win10-no-more-amd-radeon-r9-crashes-now/"><u>Win10: No More AMD Radeon R9 Crashes Now!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reply
-date: 2024-12-29T22:09:36.785Z
-updated: 2025-01-03T03:07:57.492Z
+date: 2025-01-08T22:20:07.617Z
+updated: 2025-01-10T01:50:55.097Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
@@ -87,25 +91,21 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
@@ -114,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,16 +155,21 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-revolutionize-your-mac-streaming-experience/"><u>[New] Revolutionize Your Mac Streaming Experience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-securing-your-fb-conversations-with-recordings-for-2024/"><u>[New] Securing Your FB Conversations with Recordings for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-magic-5-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor Magic 5 Lite Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-display-drivers-amd-radeon-r9-for-win11/"><u>Mastering Display Drivers: AMD Radeon R9 for Win11</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2016-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2016 Causes & Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-windows-10s-c1900101-error/"><u>Resolving Windows 10'S C1900101 Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screenfreeze-gfx-window-issue-resolution-ready/"><u>ScreenFreeze, GFX Window Issue (Resolution Ready)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-post-upgrade-media-problems-with-new-windows-10/"><u>Solved Post-Upgrade Media Problems with New Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-screen-quenched-issue-solved/"><u>Win11 Screen Quenched Issue Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-warhammer-40000-not-starting-dx12-error/"><u>[CORRECTED] Warhammer 40,000 Not Starting - DX12 Error</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-beyond-hd-an-in-depth-analysis-of-eizos-cg318-4k/"><u>[New] 2024 Approved Beyond HD An In-Depth Analysis of EIZO's CG318-4K</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/void-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>[New] Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-share-a-private-youtube-video-with-google-account/"><u>[Updated] How to Share a Private YouTube Video with Google Account?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-aesthetics-final-cut-pro-x-for-editing-tall-screen-content/"><u>2024 Approved Instagram Aesthetics Final Cut Pro X for Editing Tall-Screen Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-nvidia-driver-conflict-on-windows-11/"><u>Ending Nvidia Driver Conflict on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-your-pcs-web-pace-with-win1011-fixes/"><u>Enhance Your PC's Web Pace with Win10/11 Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-eradicated-mh-worlds-monster-kingdom-revived/"><u>Error Eradicated: MH World's Monster Kingdom Revived</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-11-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 11 with 3 Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-null-detected-find-your-unlisted-graphics-card/"><u>Navigate Through Null Detected: Find Your Unlisted Graphics Card</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-zero-cost-video-editors-for-cutting-and-merging-videos/"><u>New In 2024, The Best Zero-Cost Video Editors for Cutting and Merging Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-switching-off-audio-boosts-on-your-windows-11-system/"><u>Step-by-Step Tutorial for Switching Off Audio Boosts on Your Windows 11 System</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-rated-mac-mkv-editors-for-trimming-videos/"><u>Top-Rated Mac MKV Editors for Trimming Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-slimline-marvel-how-apple-vision-pros-miniature-case-outperforms-standard-models-spotlight-on-zdnet/"><u>Unveiling the Slimline Marvel: How Apple Vision Pro's Miniature Case Outperforms Standard Models | Spotlight on ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-successfully-installed-gpu-after-errors/"><u>Windows: Successfully Installed GPU After Errors</u></a></li>
 </ul></div>
 

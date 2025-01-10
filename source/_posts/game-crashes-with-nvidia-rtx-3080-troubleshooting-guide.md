@@ -1,7 +1,7 @@
 ---
 title: Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide
-date: 2024-12-22T03:43:43.637Z
-updated: 2024-12-24T21:27:42.318Z
+date: 2025-01-08T02:22:55.053Z
+updated: 2025-01-10T00:40:18.483Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does your graphics card keep crashing?
 
 * Outdated/corrupted drivers
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 * Corrupt system/game files
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 2. **[Stop overclocking](#h2)**
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
@@ -59,12 +59,12 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. This will help you update all the available driver updates, thus ruling out the possibility of other outdated driver interference. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have a 30-day money-back guarantee and full tech support. )  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Stop overclocking
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now launch your game again to see if this method works for you.
@@ -132,14 +132,19 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-uninstalled-amd-driver-in-win1110/"><u>[FIXED] Uninstalled AMD Driver in Win11/10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expertly-design-your-3d-openers-best-picks/"><u>[New] In 2024, Expertly Design Your 3D Openers Best Picks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-complete-reference-for-navigating-telegram-web-applications/"><u>In 2024, Complete Reference for Navigating Telegram Web Applications</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reconfiguring-windows-11-display-scaling/"><u>Reconfiguring Windows 11 Display Scaling</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverting-failed-attempt-to-save-display-preferences/"><u>Reverting Failed Attempt to Save Display Preferences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sham-interface-extension-larcenizes-fb-credentials/"><u>Sham Interface Extension: Larcenizes FB Credentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-on-your-wrist-unpacking-rumors-surrounding-the-new-google-pixel-smartwatch-series-4-pricing-estimates-release-dates-and-speculative-specs/"><u>The Future Is on Your Wrist: Unpacking Rumors Surrounding the New Google Pixel Smartwatch Series 4 - Pricing Estimates, Release Dates & Speculative Specs.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-enhancing-video-discoverability-through-youtube-images/"><u>[New] 2024 Approved Enhancing Video Discoverability Through Youtube Images</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-comprehensive-look-at-decelerating-youtube-video-speed-50-chars-for-2024/"><u>[New] A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>[New] Symbolize Your Brand Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-key-to-unlocking-a-vault-of-no-cost-clip-art-for-2024/"><u>[New] The Key to Unlocking a Vault of No-Cost Clip Art for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-selecting-top-ranked-free-srt-translation-tools/"><u>[Updated] Ultimate Guide Selecting Top-Ranked FREE SRT Translation Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722893322274-exclusive-apple-watch-bargains-for-month-save-big-today/"><u>Exclusive Apple Watch Bargains for [Month]: Save Big Today!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-fanfare-unveiled-android-and-iphones-most-liked-apps-for-2024/"><u>Facebook Fanfare Unveiled Android & iPhone's Most Liked Apps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitors-inability-to-show-fullscreen-windows-11/"><u>Fixed Monitor's Inability to Show Fullscreen Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-correction-error-43/"><u>Graphics Correction: Error 43</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-seamlessly-move-your-customized-powertoys-setup/"><u>How To Seamlessly Move Your Customized PowerToys Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-quality-win11-displays-tweaked/"><u>Improving Image Quality - Win11 Displays Tweaked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-failed-gdx-configuration-fix-available/"><u>Overcome Failed GDX Configuration, Fix Available</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-on-windows-7-fixed/"><u>Screen Upside Down on Windows 7 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-touchscreen-issues-5-effective-solutions/"><u>Troubleshooting Windows 11 Touchscreen Issues - 5 Effective Solutions</u></a></li>
 </ul></div>
 

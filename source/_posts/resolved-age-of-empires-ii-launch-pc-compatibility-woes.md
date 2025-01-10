@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Age of Empires II Launch - PC Compatibility Woes"
-date: 2024-12-23T23:45:54.443Z
-updated: 2024-12-25T02:13:42.766Z
+date: 2025-01-08T07:09:50.168Z
+updated: 2025-01-10T00:54:29.996Z
 tags:
   - win11
   - win10
@@ -68,18 +68,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -111,21 +103,25 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -152,14 +148,18 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -178,24 +178,14 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boosting-or-slowing-down-the-netflix-playback-rate-guide/"><u>[New] Boosting or Slowing Down The Netflix Playback Rate Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-sharing-laughter-iphone-memes/"><u>[New] Sharing Laughter IPhone Memes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-video-interface-stability-restored/"><u>[Resolved] Video Interface Stability Restored</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-ios-ps2-games-emulators/"><u>[Updated] Essential iOS PS2 Games Emulators</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings-for-2024/"><u>[Updated] Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/a-step-by-step-guide-to-integrating-lame-mp3-encoder-with-audacity/"><u>A Step-by-Step Guide to Integrating Lame MP3 Encoder with Audacity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-the-chaos-of-nvidias-rtx-3080-in-games/"><u>Conquering the Chaos of Nvidia's RTX 3080 in Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-and-fortified-comwins-new-era/"><u>Fixed and Fortified: ComWin's New Era</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-display-error-partial-window-views-in-w10-monitors/"><u>Fixed Display Error - Partial Window Views in W10 Monitors</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-11-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 11 Pro Lock Screen Password</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hybrid-graphic-card-fix-for-windows-11-unveiled/"><u>Hybrid Graphic Card Fix for Windows 11 Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/leveraging-w8s-safe-mode-to-revise-and-remove-gpu-drivers/"><u>Leveraging W8's Safe Mode to Revise and Remove GPU Drivers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mood-matcher-auditory-selection-for-videos-for-2024/"><u>Mood Matcher Auditory Selection for Videos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-amd-and-windows-10-successfully-load-detection-driver/"><u>Overcoming Obstacle: AMD and Windows 10 Successfully Load Detection Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-mmf-file-playback-and-mp3-conversion-techniques-for-optimal-sound-quality/"><u>Step-by-Step Tutorial on MMF File Playback & MP3 Conversion Techniques for Optimal Sound Quality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-sims-4-from-showing-nothing/"><u>Stop Sims 4 From Showing Nothing</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-starting-afresh-with-windows-11-installation/"><u>The Art of Starting Afresh with Windows 11 Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unflip-and-correct-display-orientation-error/"><u>Unflip and Correct Display Orientation Error</u></a></li>
-<li><a href="https://win-dash.techidaily.com/universal-hp-officejet-pro-8610-driver-downloader-for-windows-operating-system-versions-11-8-and-xpvista-support/"><u>Universal HP Officejet Pro 8610 Driver Downloader for Windows Operating System Versions: 11, 8 & XP/Vista Support</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-discerning-true-value-from-recordcasts-promises/"><u>[Updated] In 2024, Discerning True Value From RecordCast’s Promises</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-enhancing-visual-interest-utilizing-secondary-footage-wisely/"><u>[Updated] In 2024, Enhancing Visual Interest Utilizing Secondary Footage Wisely</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chasing-the-crash-action-cameras-reviewed/"><u>2024 Approved Chasing the Crash Action Cameras Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/av1-compression-a-beginners-overview/"><u>AV1 Compression A Beginner's Overview</u></a></li>
+<li><a href="https://network-issues.techidaily.com/counteract-black-screen-and-recover-mouse-on-w10/"><u>Counteract Black Screen & Recover Mouse on W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974766895-hasten-intels-graphics-update-for-ws11-efficiency/"><u>Hasten Intel's Graphics Update for WS11 Efficiency.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 6s</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-for-fixing-lenovo-glare/"><u>Techniques for Fixing Lenovo Glare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninstalling-graphics-drivers-a-step-by-step-tutorial/"><u>Uninstalling Graphics Drivers: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

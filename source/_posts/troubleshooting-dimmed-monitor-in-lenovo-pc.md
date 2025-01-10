@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dimmed Monitor in Lenovo PC
-date: 2025-01-02T09:42:44.551Z
-updated: 2025-01-03T01:02:56.810Z
+date: 2025-01-08T04:40:35.720Z
+updated: 2025-01-10T04:35:58.601Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  **3)[Modify Registry](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1) Update graphics driver
@@ -50,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 **b)**  Press the power button to**start up** your laptop. In the meantime, press and hold the**brightness-up key** on the keyboard, which is usually a**function key** (**F1-** **F12**).
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3) Modify Registry
 
@@ -75,28 +79,24 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -119,18 +119,18 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-make-free-intros-for-youtube-plustemplates/"><u>[Updated] In 2024, How to Make Free Intros for YouTube? [+Templates]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-your-iphone-video-shortening-and-altering-size/"><u>[Updated] Perfecting Your iPhone Video Shortening and Altering Size</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-next-level-gaming-with-our-comprehensive-look-at-the-asus-rog-rapture-gt-ax11000-router/"><u>Discover Next-Level Gaming with Our Comprehensive Look at the Asus ROG Rapture GT-AX11000 Router</u></a></li>
-<li><a href="https://network-issues.techidaily.com/horizontal-monitor-solution-found/"><u>Horizontal Monitor Solution Found</u></a></li>
-<li><a href="https://techidaily.com/logitech-g923-repair-guide-for-disconnected-controllers-as-of-2024/"><u>Logitech G923 Repair Guide for Disconnected Controllers as of 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-in-win10-preparation/"><u>Overcoming C1900101 in Win10 Preparation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/rescuezilla-festplatten-fur-das-kopieren-auf-kleinere-laufwerke-machbarkeit-und-tipps/"><u>RescueZilla-Festplatten Für Das Kopieren Auf Kleinere Laufwerke: Machbarkeit Und Tipps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blank-detect-failed-for-cgs/"><u>Screen Blank: Detect Failed for CGs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-zte-nubia-z60-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from ZTE Nubia Z60 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/where-did-my-nvidia-driver-go/"><u>Where Did My Nvidia Driver Go?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-becoming-a-snapshot-wizard-top-positions-for-iphone-photos-for-2024/"><u>[New] Becoming a Snapshot Wizard Top Positions for iPhone Photos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-exceptional-instagram-stories/"><u>[Updated] 2024 Approved Step-by-Step Guide to Exceptional Instagram Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spotlight-on-snapchat-utilization-strategies/"><u>[Updated] Spotlight on Snapchat Utilization Strategies</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/clona-di-ssd-da-hdd-su-windows-11-guida-facile-e-sicura/"><u>Clona Di SSD Da HDD Su Windows 11: Guida Facile E Sicura</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake/"><u>Correcting Aspect Ratio Mistake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-displaying-gpu-mismatched/"><u>Error Displaying: GPU Mismatched</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-black-screen-on-latest-windows-update/"><u>Fix for BLACK SCREEN on Latest Windows Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4v3g2-online-movavi/"><u>M4V/3G2 비디오를 무료로 Online 변환 - Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974786901-rapidly-upgrade-intel-g3000-in-win11-systems/"><u>Rapidly Upgrade Intel G3000 in Win11 Systems.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-adjustments-saved-and-secured/"><u>Screen Adjustments Saved and Secured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Components and Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-ai-powered-notetakers-for-enhanced-note-taking-efficiency/"><u>Top 6 AI-Powered Notetakers for Enhanced Note-Taking Efficiency</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/volg-deze-schrittmatig-leerlingen-voor-het-herstellen-van-ontwijnt-volumes-in-windows-11/"><u>Volg Deze Schrittmatig Leerlingen Voor Het Herstellen Van Ontwijnt Volumes in Windows 11</u></a></li>
 </ul></div>
 

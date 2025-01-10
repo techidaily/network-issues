@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens
-date: 2024-12-28T12:10:33.312Z
-updated: 2025-01-03T05:13:28.760Z
+date: 2025-01-06T19:57:52.976Z
+updated: 2025-01-10T03:47:58.364Z
 tags:
   - win11
   - win10
@@ -43,15 +43,11 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -71,6 +67,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 2: Update or delete incompatible apps
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** .
@@ -81,7 +81,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
@@ -109,7 +109,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -124,7 +124,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
@@ -154,22 +154,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-halo-tt-fail-to-launch-dx12-windows-error/"><u>[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[New] IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>[Updated] 2024 Approved A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-fine-tuning-the-small-scenes-of-minecraft/"><u>[Updated] 2024 Approved Fine-Tuning the Small Scenes of Minecraft</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/descubre-los-metodos-para-rescatar-archivos-eliminados-en-windows-11-guia-completa-y-gratis/"><u>Descubre Los Métodos Para Rescatar Archivos Eliminados en Windows 11 - Guía Completa Y Gratis</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/download-gratuito-di-windows-10-con-una-guida-completa-fatta-a-secco/"><u>Download Gratuito Di Windows 10 Con Una Guida Completa Fatta a Secco</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-buffering-issues-win11-streams-now-fluid/"><u>Ending Buffering Issues: Win11 Streams Now Fluid</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-top-rated-behringer-audio-drives/"><u>Free Download: Top-Rated Behringer Audio Drives</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-inverted-display-issue-in-windows-11/"><u>Resolving Inverted Display Issue in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalize-win11-display-with-no-more-twinkles/"><u>Revitalize Win11 Display with No More Twinkles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-stability-achieved-for-dell-systems/"><u>Screen Stability Achieved for Dell Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-integration-of-intelnvidia-gpu-in-win11-resolved/"><u>Seamless Integration of Intel/Nvidia GPU in Win11 Resolved</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-game-crashes-a-step-by-step-guide-for-the-mass-effect-legendary-edition-on-pc-and-xbox/"><u>Solving Game Crashes: A Step-by-Step Guide for the Mass Effect Legendary Edition on PC and Xbox</u></a></li>
-<li><a href="https://network-issues.techidaily.com/transparency-achieved-demystifying-hidden-errors-affecting-direct-x-in-league/"><u>Transparency Achieved: Demystifying Hidden Errors Affecting Direct X in League</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-hidden-gpus-pc-detection-strategies/"><u>Unveiling Hidden GPUs: PC Detection Strategies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-logitech-c615-an-in-depth-analysis-of-value-and-efficiency/"><u>Unveiling the Potential of Logitech C615: An In-Depth Analysis of Value and Efficiency</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-profile-pictorialism-designing-your-exaggerated-visage/"><u>[New] 2024 Approved Profile Pictorialism Designing Your Exaggerated Visage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-gopro-match-up-ultimate-buyers-analysis-for-2024/"><u>[New] Gopro Match-Up Ultimate Buyer's Analysis for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-10-best-online-vimeo-video-downloaders-for-2024/"><u>[Updated] 10 Best Online Vimeo Video Downloaders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-ranking-12-cameras-onboard-gps-for-motion-capture/"><u>[Updated] High-Ranking 12 Cameras Onboard GPS for Motion Capture</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-the-dark-windows-11-display/"><u>Banishing the Dark Windows 11 Display</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-upgrade-for-nvidias-gtx-750-ti/"><u>Direct Upgrade for NVIDIA's GTX 750 Ti</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/"><u>Effective Strategies to Capture and Save Google Voice Dialogues for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/grasping-4k-ultimate-screen-quality/"><u>Grasping 4K Ultimate Screen Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974046716-hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-x-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone X</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-zoom-in-on-content-expert-methods-to-minimize-background/"><u>In 2024, Zoom In on Content – Expert Methods to Minimize Background</u></a></li>
+<li><a href="https://network-issues.techidaily.com/market-trends-how-amd-is-revolutionizing-the-gaming-industry/"><u>Market Trends: How AMD Is Revolutionizing the Gaming Industry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-conflict-for-nvidia-and-intel-on-windows-10/"><u>Resolving Hybrid Graphics Conflict for NVIDIA & Intel on Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-graphics-nvidiaintel-fix-confirmed-for-win11/"><u>Triumph Over Switchable Graphics - Nvidia/Intel Fix Confirmed for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-setup-now-stable-and-secured/"><u>Visual Setup Now Stable & Secured</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-no-more-plagues-by-com-issues/"><u>Windows No More Plagues by COM Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite"
-date: 2025-01-01T21:10:02.353Z
-updated: 2025-01-03T11:50:36.769Z
+date: 2025-01-07T22:28:23.260Z
+updated: 2025-01-09T23:26:38.437Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap700.png) 
 
 **Ping spikes** **when you’re playing Fortnite** ? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily… 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Reboot your network
 
  One of the easiest fixes for high ping issues is to simply**restart your network** . By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve the high ping issue. Here is how to do it: 
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 wireless router
 
@@ -65,7 +65,7 @@ wireless router
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging applications
@@ -79,10 +79,14 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -110,10 +114,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
 ## Fix 5: Disable the proxy server
@@ -124,18 +124,14 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
-![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
@@ -147,6 +143,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. Click**the menu button** in the upper-right corner. Then click **the gear button** to open Fortnite settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
@@ -196,20 +196,21 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[New] In 2024, Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-online-video-scaling-service/"><u>[New] Online Video Scaling Service</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-strategic-use-of-creative-commons-copyright-law/"><u>[Updated] In 2024, Strategic Use of Creative Commons Copyright Law</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-5-iphone-apps-for-daily-podcasts/"><u>[Updated] Top 5 iPhone Apps for Daily Podcasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-ghosted-screen-recognition/"><u>Address Ghosted Screen Recognition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquer-flicker-monitor-shines-steadily-now/"><u>Conquer Flicker: Monitor Shines Steadily Now</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-the-cryptic-signals-facebooks-re-branding/"><u>Deciphering the Cryptic Signals: Facebook’s Re-Branding?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-dvdx-ipod-dvd-rip-apple-tvmp4/"><u>Mac用 DVDコピーソフト「マックX iPod DVD Rip」: Apple TV、MP4へのダイレクト変換に特化した強力ツール</u></a></li>
-<li><a href="https://network-issues.techidaily.com/operative-systems-now-error-free/"><u>Operative Systems Now Error-Free</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-unsaved-display-settings-issue-fixed/"><u>Overcoming Obstacle: Unsaved Display Settings Issue Fixed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/win7-hdmi-sounds-not-playing-heres-how-to-get-it-working-again/"><u>Win7 HDMI Sounds Not Playing? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-camera-savior-quick-fix-tactics-challenges/"><u>Zoom Camera Savior: Quick Fix Tactics Challenges</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zoom-connection-issues-troubleshooting-or-personal-factors/"><u>Zoom Connection Issues: Troubleshooting or Personal Factors?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-media-blend-easy-twitch-to-facebook-integration/"><u>[New] In 2024, Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-scale-up-snapshot-size-retain-sharpness/"><u>[Updated] In 2024, Scale Up Snapshot Size - Retain Sharpness</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-solutions-to-unlock-htc-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock HTC Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://network-issues.techidaily.com/curtailing-flickering-on-microsoft-surface-pro-7/"><u>Curtailing Flickering on Microsoft Surface Pro 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-remedying-error-message-windows-update-error-code-0x8024401c-on-win-dos-based-desktops/"><u>Decoding and Remedying Error Message: 'Windows Update Error Code 0X8024401c' On Win DOS-Based Desktops.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-accelerate-your-social-media-journey-tiktok-directly-to-fb/"><u>In 2024, Accelerate Your Social Media Journey TikTok Directly to FB</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-dissecting-youtubes-activities-post-uploading-videos/"><u>In 2024, Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-enhancing-your-facebook-experience-mastering-story-uploads/"><u>In 2024, Enhancing Your Facebook Experience Mastering Story Uploads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptopayer-screen-ghosted-tv-stays-black/"><u>Laptop'ayer Screen Ghosted, TV Stays Black</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operating-system-update-resolves-opengl-error/"><u>Operating System Update Resolves OpenGL Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-display-alignment-on-desktops/"><u>Optimize Display Alignment on Desktops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/picture-posters-best-frame-enhancing-software-recommendations/"><u>Picture Posters Best Frame-Enhancing Software Recommendations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-upside-down-display-woes/"><u>Resolving Upside-Down Display Woes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-step-by-step-guide-to-uninstalling-gpus-on-win/"><u>The Step-by-Step Guide to Uninstalling GPUs on Win</u></a></li>
 </ul></div>
 

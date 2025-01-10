@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 11 & 7
-date: 2024-12-27T05:15:14.457Z
-updated: 2025-01-03T08:48:45.913Z
+date: 2025-01-03T09:38:15.983Z
+updated: 2025-01-10T04:10:54.018Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Check the router and cable situations
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
@@ -101,15 +93,15 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -119,6 +111,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
@@ -126,7 +122,7 @@ Follow the steps below:
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -134,6 +130,10 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,17 +156,24 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[New] 2024 Approved Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-tools-free-youtube-intro-creators/"><u>[New] In 2024, Cutting-Edge Tools Free YouTube Intro Creators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-complete-zoomers-handbook-for-captivating-video-and-audio-content/"><u>[New] In 2024, The Complete Zoomer's Handbook for Captivating Video and Audio Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-get-1k-followers-every-month-on-instagram/"><u>2024 Approved How to Get 1K Followers Every Month on Instagram</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dawn-of-colorful-screens-for-lenovo-users/"><u>Dawn of Colorful Screens for Lenovo Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disconnecting-display-digital-dilemma/"><u>Disconnecting Display: Digital Dilemma</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-graphics-on-windows-11-geforce-rtx210/"><u>Enhanced Graphics on Windows 11 - GeForce RTX210</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-online-sharing-with-these-top-18-webcam-devices/"><u>In 2024, Revolutionize Online Sharing with These Top 18 Webcam Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomms-qca61x4-wireless-integration-resolved-for-win10/"><u>Qualcomm's QCA61x4 Wireless Integration Resolved for Win10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/securing-a-spot-on-apples-listings-for-2024/"><u>Securing a Spot on Apple's Listings for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-solution-to-nvidia-geforce-7025-on-win11/"><u>Successful Solution to NVIDIA GeForce 7025 on Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-bestiary-of-top-ps2-emulators-running-on-iphones/"><u>[New] Bestiary of Top PS2 Emulators Running on iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chucklechips-studio-laughlens-lab/"><u>[Updated] ChuckleChips Studio LaughLens Lab</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>[Updated] YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-efficient-viewing-strategies-for-instagram-content/"><u>2024 Approved Efficient Viewing Strategies for Instagram Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-monitor-layouts/"><u>Correcting Inverted Monitor Layouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/d3d-initiation-error-rectified/"><u>D3D Initiation Error Rectified</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-ch340g-usb-to-serial-adapter-drivers-for-windows-10/"><u>Download & Upgrade: CH340G USB-to-Serial Adapter Drivers for Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elevate-your-digital-presence-discover-manycam-for-advanced-live-broadcasting-and-virtual-background-features/"><u>Elevate Your Digital Presence: Discover ManyCam for Advanced Live Broadcasting and Virtual Background Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-shadow-window-on-windows-11/"><u>Eradicating Shadow Window on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-phantom-screens-in-dell-units/"><u>Fixing Phantom Screens in Dell Units</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-screen-mirroring/"><u>Fixing Windows 7 Screen Mirroring</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-videos-in-windows-live-movie-maker/"><u>How to Edit Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-for-clear-screens/"><u>Immediate Action for Clear Screens</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-no-fuss-tactics-for-saving-vimeo-footage/"><u>In 2024, No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-captivation-rally-more-likes-for-your-tiktok-unpacks/"><u>In 2024, The Art of Captivation Rally More Likes for Your TikTok Unpacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722871004989-keyboard-troubles-heres-how-to-make-it-start-typing-again/"><u>Keyboard Troubles? Here's How to Make It Start Typing Again!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-integration-of-geforce-210-with-windows-10-os/"><u>Seamless Integration of GeForce 210 with Windows 10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-detecting-missing-gpu-on-pc-platforms/"><u>Tips for Detecting Missing GPU on PC Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vanquish-sims-4-whiteness-glitches/"><u>Vanquish Sims 4 Whiteness Glitches</u></a></li>
 </ul></div>
 

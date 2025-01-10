@@ -1,7 +1,7 @@
 ---
 title: Conquer Whiteout Sims Errors
-date: 2024-12-28T20:39:08.699Z
-updated: 2025-01-02T18:56:17.570Z
+date: 2025-01-09T08:33:54.105Z
+updated: 2025-01-10T03:14:27.563Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 ## Conquer Whiteout Sims Errors
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Repair The Sims 4 in Origin
 
  The Sims 4 white loading screen may occur if the files are corrupt. So you can repair it in Origin to see if it fixes the issue.
@@ -72,10 +72,6 @@ Here is how to do it:
 2) Click **My Game Library** , then right-click on **The Sims 4** and click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
 
@@ -97,15 +93,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -122,7 +118,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
@@ -156,7 +152,7 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
@@ -177,6 +173,10 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -211,19 +211,20 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-sessions-with-the-ideal-2024-gaming-headsets/"><u>Ace Your Sessions with the Ideal 2024 Gaming Headsets</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cease-oled-screens-stutter/"><u>Cease OLED Screens Stutter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-wow-flaw-code-issue-51900319/"><u>Decoding WoW Flaw Code: Issue #51900319</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/dual-dimensions-in-display-the-instagram-guide-to-effortless-image-turns/"><u>Dual Dimensions in Display The Instagram Guide to Effortless Image Turns</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-6-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 6 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>In 2024, Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/making-an-informed-decision-on-itops-utility-for-2024/"><u>Making an Informed Decision on ITop's Utility for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-gpu-fan-operation-blockade/"><u>Overcoming GPU Fan Operation Blockade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-wow-obstacle-no-519/"><u>Overcoming WoW Obstacle: No. 519</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-win11-and-nvidia-7025-conflict/"><u>Resolved: Win11 & Nvidia 7025 Conflict</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-web-browsing-with-win-10s-safeguard/"><u>Securing Web Browsing with Win 10'S SafeGuard</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-non-detecting-video-component/"><u>Tackle Non-Detecting Video Component</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-fcpx-lower-thirds-101-a-beginners-guide-to-success-for-2024/"><u>Updated FCPX Lower Thirds 101 A Beginners Guide to Success for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/yl-software-tips-easy-startup-steps-for-your-computer/"><u>YL Software Tips: Easy Startup Steps for Your Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-snapperview-4-review-synopsis/"><u>[New] In 2024, SnapperView 4 Review Synopsis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revive-your-photos-two-methods-to-restore-photo-viewing-in-win10/"><u>[New] Revive Your Photos Two Methods to Restore Photo Viewing in Win10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viral-talent-quest-episodes-1-10/"><u>[New] Viral Talent Quest Episodes #1-10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration/"><u>[Updated] From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration</u></a></li>
+<li><a href="https://discover-data.techidaily.com/dealing-with-system-lock-ups-expert-guidance-from-yl-software/"><u>Dealing with System Lock-Ups: Expert Guidance From YL Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/holo-health-interventions-for-2024/"><u>Holo-Health Interventions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-sims-4-solid-screens/"><u>Overcome Sims 4 Solid Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-system-limitations-enabling-software-installation/"><u>Overcoming System Limitations: Enabling Software Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-unseen-hardware-in-computer-systems/"><u>Reactivating Unseen Hardware in Computer Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silencing-the-sputter-of-windows-11-displays/"><u>Silencing the Sputter of Windows 11 Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stretch-your-win11-display-to-its-limits/"><u>Stretch Your Win11 Display to Its Limits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-soundtrack-to-instagram-fame-for-2024/"><u>The Soundtrack to Instagram Fame for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/zoom/"><u>Zoom 会議録画を失敗した時の解決策と代替手段</u></a></li>
 </ul></div>
 

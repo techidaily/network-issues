@@ -1,7 +1,7 @@
 ---
 title: Restore Clear Views, Sayonara Black Screen
-date: 2024-12-28T17:18:30.577Z
-updated: 2025-01-03T12:13:54.296Z
+date: 2025-01-02T20:52:36.406Z
+updated: 2025-01-09T23:11:26.402Z
 tags:
   - win11
   - win10
@@ -29,13 +29,13 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
@@ -83,6 +83,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -95,6 +99,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -104,10 +112,6 @@ Here is how to do it:
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
@@ -131,17 +135,9 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -150,7 +146,7 @@ So you can try disabling fast startup to see if it does the trick:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
@@ -166,19 +162,23 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
@@ -207,18 +207,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-fix-chrome-fb-video-loading-problems/"><u>[New] Fix Chrome FB Video Loading Problems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-simplifying-video-workflows-with-showmores-top-recording-tool/"><u>[New] Simplifying Video Workflows with ShowMore's Top Recording Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comprehensive-study-amds-impact-on-the-pc-gaming-market/"><u>Comprehensive Study: AMD's Impact on the PC Gaming Market</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-fixed-code-22-in-driver/"><u>Correcting Fixed Code #22 in Driver</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/y-enable-offline-access-to-youtube-on-iphoneipad-for-2024/"><u>Easily Enable Offline Access to YouTube on iPhone/iPad for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-horizontalvertical-displacement-on-monitors/"><u>Fix Horizontal/Vertical Displacement on Monitors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-windows-11-photos-setup-guide-adding-aesthetic-overlays-and-music/"><u>In 2024, Windows 11 Photos Setup Guide Adding Aesthetic Overlays & Music</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/minimizing-motion-blur-in-media-creation/"><u>Minimizing Motion Blur in Media Creation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/non-jitter-streaming-made-easy/"><u>Non-Jitter Streaming Made Easy</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/strategies-efficaces-pour-le-recuperation-dinformations-supprimees-a-laide-de-diskpart/"><u>Stratégies Efficaces Pour Le Récupération D'Informations Supprimées À L’Aide De DISKPART</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlock-hidden-offers-how-to-find-ticket-vouchers-by-examining-physical-movies-pre-purchase-online/"><u>Unlock Hidden Offers - How to Find Ticket Vouchers by Examining Physical Movies Pre-Purchase Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-experience-no-more-interop-woes/"><u>Windows Experience: No More Interop Woes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-blur-apps-for-clearer-phone-images/"><u>[New] 2024 Approved The Ultimate Blur Apps for Clearer Phone Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[New] From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-five-protocols-for-documenting-youtube-live-broadcasts-for-2024/"><u>[New] Top Five Protocols for Documenting YouTube LIVE Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-daily-dough-pewdiepies-earnings-breakdown/"><u>[Updated] 2024 Approved Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-social-media-strategy-decoding-igtv-versus-youtubes-features/"><u>[Updated] In 2024, Social Media Strategy Decoding IGTV Versus YouTube's Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-anthem-jitterbug-lag-reduction-tips/"><u>Beat Anthem Jitterbug: Lag Reduction Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-operating-system-with-gpu/"><u>Harmonizing Operating System with GPU</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-viewer-interest-6-essential-video-formats/"><u>Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-streaming-issues-on-latest-win11-release/"><u>Overcoming Streaming Issues on Latest Win11 Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomms-drive-to-perfection-atheros-wi-fi-ready-in-win11/"><u>Qualcomm's Drive to Perfection: Atheros Wi-Fi Ready in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-low-intensity-lenovo-monitors/"><u>Resolving Low-Intensity Lenovo Monitors</u></a></li>
+<li><a href="https://win-studio.techidaily.com/stunning-2pac-wallpaper-collection-hd-pictures-images-and-more-to-enhance-your-screens-yl-creative-hub/"><u>Stunning 2Pac Wallpaper Collection: HD Pictures, Images & More to Enhance Your Screens - YL Creative Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-oversight-locate-the-overlooked-nvidia-graphics/"><u>System Oversight: Locate the Overlooked NVIDIA Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninstalling-gpu-drivers-with-ease-via-window-8s-safe-mode/"><u>Uninstalling GPU Drivers with Ease via Window 8’S Safe Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-hardware-recovery-triggered-automatically/"><u>Video Hardware Recovery Triggered Automatically</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/warren-buffetts-lone-venture-in-india-faces-crisis-with-paytms-decline-insights-from-zdnet/"><u>Warren Buffett's Lone Venture in India Faces Crisis with Paytm's Decline - Insights From ZDNet</u></a></li>
 </ul></div>
 

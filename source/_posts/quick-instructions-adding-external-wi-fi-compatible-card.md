@@ -1,7 +1,7 @@
 ---
 title: "Quick Instructions: Adding External Wi-Fi Compatible Card"
-date: 2024-12-15T10:36:41.453Z
-updated: 2024-12-15T19:31:00.722Z
+date: 2025-01-05T22:35:52.736Z
+updated: 2025-01-09T16:31:43.279Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ OR
 [**Option 2 — Automatically (Recommended)**](#o2) — This is the quickest and easiest option. It’s all done with just a couple of mouse clicks — easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Download and install the driver manually
@@ -49,7 +49,11 @@ If you don’t know what Wi-Fi adapter you have, take these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/win11-how-to-know-what-WiFi-adapter-you-have.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update your WiFi adapter driver
@@ -61,19 +65,19 @@ If you don’t know what Wi-Fi adapter you have, take these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/Realtek-RTL8821CE-802.11ac-PCIe-Adapter.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your WiFi adapter driver, **restart your computer** for it to start working again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the problem still remains…
@@ -88,10 +92,6 @@ To use Fortect:
 2. Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -119,16 +119,16 @@ To use Fortect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-resident-evil-village-not-starting-dx12-problem/"><u>[FIXED] Resident Evil Village Not Starting - DX12 Problem</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-recording-roulette-top-strategies-for-tv-show-capture/"><u>[New] 2024 Approved Recording Roulette Top Strategies for TV Show Capture</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-your-video-game-choosing-a-gimbal-for-drones/"><u>[New] In 2024, Elevating Your Video Game Choosing a Gimbal for Drones</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unfolding-the-world-on-iphone-perfect-fb-video-sharing-for-2024/"><u>[Updated] Unfolding the World on iPhone Perfect FB Video Sharing for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-disconnection-issues-in-freesync-systems/"><u>Addressing Disconnection Issues in FreeSync Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-transform-your-recordings-expert-tips-for-zoom-changer/"><u>In 2024, Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-gpu-armored-post-acceleration/"><u>Nvidia GPU Armored Post-Acceleration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-unmet-graphic-specifications-now-addressed/"><u>Overwatch: Unmet Graphic Specifications Now Addressed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionary-ai-for-artistic-photography-for-2024/"><u>Revolutionary AI for Artistic Photography for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974233298-upgrade-intel-graphics-3000-driver-seamless-integration-into-windows-10/"><u>Upgrade Intel Graphics 3000 Driver: Seamless Integration Into Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y56-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y56 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laughter-laborer-spooky-cyborgs/"><u>In 2024, Laughter Laborer Spooky Cyborgs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-10-proplus-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 10 Pro+ 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ls-0013-missile-glitch-in-fortnite-resolved/"><u>LS-0013 Missile Glitch in Fortnite Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/network-instability-unveiled/"><u>Network Instability Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-window-10-resolution/"><u>Optimize Window 10 Resolution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-black-screen-after-driver-install/"><u>Silent Black Screen After Driver Install</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-best-ten-spotify-equipment-for-high-quality-recording-for-2024/"><u>The Best Ten Spotify Equipment for High-Quality Recording for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-of-elegoos-innovative-saturn/"><u>Top Review of Elegoo's Innovative Saturn</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-hardware-issue-resolved-immediately/"><u>Video Hardware Issue Resolved Immediately</u></a></li>
 </ul></div>
 

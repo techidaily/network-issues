@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Flicker Issues on Your Asus Notebook Display"
-date: 2024-12-28T09:18:27.940Z
-updated: 2025-01-03T07:53:10.809Z
+date: 2025-01-03T23:44:44.599Z
+updated: 2025-01-10T09:04:07.280Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. **[Update or delete incompatible apps](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   **Fix 1: Change the screen refresh rate**  
 
@@ -54,7 +50,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Windows 7:** 
@@ -64,17 +60,21 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. Click**Advanced settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,10 +102,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
@@ -115,6 +111,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
  5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -154,18 +154,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-lost-network-card-on-windows-10-desktop/"><u>[FIXED] Lost Network Card on Windows 10 Desktop</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-gradual-transition-tactics-for-premiere-professionals/"><u>[New] Gradual Transition Tactics for Premiere Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-virtual-realms-deconstructed-insights-into-vr-ar-and-mr-for-2024/"><u>[New] Virtual Realms Deconstructed Insights Into VR, AR, and MR for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-7-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 7 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budget-friendly-chinese-innovations-in-vr/"><u>Budget-Friendly Chinese Innovations in VR</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-lenovo-screen-brightness-loss/"><u>Correcting Lenovo Screen Brightness Loss</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 13 Pro? | Stellar</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-105-classic-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia 105 Classic Without PUK Codes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/non-responsive-lenovo-touchscreen-resolved/"><u>Non-Responsive Lenovo Touchscreen - Resolved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revisiting-the-iphone-15-pro-max-a-comprehensive-review-6-months-on/"><u>Revisiting the iPhone 15 Pro Max - A Comprehensive Review 6 Months On</u></a></li>
-<li><a href="https://network-issues.techidaily.com/success-story-overcoming-amds-windows-10-driver-load-hurdle/"><u>Success Story: Overcoming AMD's Windows 10 Driver Load Hurdle</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-way-through-the-persistent-launch-loop-in-madden-22-expert-tips-inside/"><u>Troubleshoot Your Way Through the Persistent Launch Loop in Madden 22 - Expert Tips Inside</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18e-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-microsnap-evaluation-and-comparable-software/"><u>[New] MicroSnap Evaluation & Comparable Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-conducting-a-cross-platform-playlist-symphony/"><u>[Updated] Conducting a Cross-Platform Playlist Symphony</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/1723262407224-cutting-edge-pc-architecture-expertly-engineered-for-efficient-air-cooling-at-the-heart-of-a-large-central-fan-conquer-centrifugal-dynamics/"><u>Cutting-Edge PC Architecture: Expertly Engineered for Efficient Air Cooling at the Heart of a Large Central Fan - Conquer Centrifugal Dynamics.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/directx-missing-resolved-via-armoring-tech/"><u>DirectX Missing, Resolved via Armoring Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/drone-tech-present-implementation-and-future-vision/"><u>Drone Tech Present Implementation & Future Vision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-glitches-fallout-4-compatible-with-windows/"><u>End of Glitches: Fallout 4 Compatible with Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-message-no-card-available/"><u>Error Message: No Card Available</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-from-wav-to-mpeg-easy-use-with-movavi/"><u>Free Online Converter From WAV to MPEG - Easy Use with Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptops-visuals-vanish-no-sync-with-tv/"><u>Laptop's Visuals Vanish: No Sync with TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-aesthetics-in-depth-review-of-the-clearstream-2v-tv-antenna-for-indooroutdoor-use/"><u>Performance vs Aesthetics: In-Depth Review of the ClearStream 2V TV Antenna for Indoor/Outdoor Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-upside-down-image-in-windows-7/"><u>Rectifying Upside-Down Image in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-video-card-errors-for-steady-viewing/"><u>Resolve Video Card Errors for Steady Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tips-and-tricks-for-efficient-twitch-stream-recordings-for-2024/"><u>Tips and Tricks for Efficient Twitch Stream Recordings for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-absence-of-wi-fi-adapter-on-windows-11/"><u>Troubleshooting: Absence of Wi-Fi Adapter on Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-your-digital-world-how-to-establish-a-youtube-channel-for-2024/"><u>Unveiling Your Digital World How to Establish a YouTube Channel for 2024</u></a></li>
 </ul></div>
 

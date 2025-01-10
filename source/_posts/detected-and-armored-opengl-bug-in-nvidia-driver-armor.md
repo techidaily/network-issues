@@ -1,7 +1,7 @@
 ---
 title: "Detected & Armored: OpenGL Bug in Nvidia Driver Armor"
-date: 2024-12-30T21:50:22.698Z
-updated: 2025-01-03T03:22:18.105Z
+date: 2025-01-04T17:32:03.810Z
+updated: 2025-01-10T04:43:20.162Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -61,13 +65,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -83,11 +87,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -97,13 +101,13 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -115,10 +119,6 @@ See how to do it:
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,20 +144,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-gameplay-success-with-ps3-screen-recording/"><u>[New] 2024 Approved Unlocking Gameplay Success with PS3 Screen Recording</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-web-funnies-forge/"><u>[New] 2024 Approved Web Funnies Forge</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-calm-time-chronicles-film-analysis/"><u>[New] Calm-Time Chronicles Film Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-share-screen-on-google-meet-desktop-and-mobile/"><u>[New] How to Share Screen on Google Meet [Desktop and Mobile]</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-personalizing-your-profile-with-fb-slideshow-content-for-2024/"><u>[New] Personalizing Your Profile with FB Slideshow Content for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-ultimate-guide-to-purging-youtube-videos/"><u>[New] The Ultimate Guide to Purging YouTube Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-resolving-the-internet-gap-in-cod-cold-war/"><u>[SOLVED] Resolving the Internet Gap in CoD Cold War</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974211832-easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-nullified-in-wincom-framework/"><u>Error Nullified in WinCOM Framework</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-recovery-addressing-loot-issues-in-legends/"><u>Quick Recovery: Addressing Loot Issues in Legends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
-<li><a href="https://win-dash.techidaily.com/speedy-solutions-find-and-install-the-right-drivers-for-your-amd-rx-580-gpu/"><u>Speedy Solutions: Find & Install the Right Drivers for Your AMD RX 580 GPU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-visual-boundary-stability/"><u>Streamline Visual Boundary Stability</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-picks-for-kids-and-first-time-fliers-easy-drone-models/"><u>Top Picks for Kids & First-Time Fliers Easy Drone Models</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974328874-zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-missing-network-interface-on-windows-10-notebook/"><u>[FIXED] Missing Network Interface on Windows 10 Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-adjusted-installed-driver-for-missing-amd-graphics/"><u>[GRAPHICS ADJUSTED] Installed Driver for Missing AMD Graphics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-balancing-act-lowering-audio-levels/"><u>[New] In 2024, Balancing Act Lowering Audio Levels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-mac-capturing-screens-with-record-feature/"><u>[Updated] Mastering Mac Capturing Screens with Record Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/blending-primary-and-b-roll-for-smooth-transitions/"><u>Blending Primary and B-Roll for Smooth Transitions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrypting-nvidia-rtx-3080-gaming-woes-and-fixes/"><u>Decrypting NVIDIA RTX 3080 Gaming Woes & Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-fluctuating-streams-in-new-windows-11/"><u>Fixing Fluctuating Streams in New Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-note-13-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi Note 13 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-7025-with-windows-11-systems/"><u>Harmonizing Nvidia 7025 with Windows 11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-12-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme 12 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974803428-how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultracapture-pro-the-march-2023-examination/"><u>In 2024, UltraCapture Pro – The March 2023 Examination</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/los-mejores-programas-de-copia-de-seguridad-para-disc-drive-en-windows-guia-completa/"><u>Los Mejores Programas De Copia De Seguridad Para Disc Drive en Windows: Guía Completa</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-redefines-search-ai-in-bing/"><u>Microsoft Redefines Search: AI in Bing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precision-adjustment-for-screen-stability/"><u>Precision Adjustment for Screen Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-recovery-fixing-apex-crashes-effortlessly/"><u>Rapid Recovery: Fixing Apex Crashes Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-overlooked-gpu-connection/"><u>Repair Overlooked GPU Connection</u></a></li>
 </ul></div>
 

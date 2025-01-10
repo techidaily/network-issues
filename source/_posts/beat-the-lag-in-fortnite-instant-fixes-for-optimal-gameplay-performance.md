@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2025-01-02T07:09:30.924Z
-updated: 2025-01-02T22:52:04.382Z
+date: 2025-01-06T06:07:42.176Z
+updated: 2025-01-09T21:14:42.700Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap700.png) 
 
 **Ping spikes** **when you’re playing Fortnite** ? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily… 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Reboot your network
 
  One of the easiest fixes for high ping issues is to simply**restart your network** . By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve the high ping issue. Here is how to do it: 
@@ -50,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap702.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 wireless router
@@ -67,6 +63,10 @@ wireless router
 **Plug in** your network devices again and wait until the indicator lights are back to their normal state. 
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging applications
 
@@ -101,16 +101,16 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
 
@@ -123,16 +123,16 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
@@ -144,6 +144,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
 Join a squad to see if you’ve resolved the high ping issue.
@@ -153,10 +157,6 @@ If not, you may need to check if it is a server issue.
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -196,18 +196,20 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-million-view-achievement-and-its-monetary-benefit/"><u>[New] In 2024, Million View Achievement and Its Monetary Benefit</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210147609-9781528762380-a-manual-of-occultism/"><u>A Manual of Occultism | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bridge-ghost-graphics-discrepancy/"><u>Bridge Ghost Graphics Discrepancy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-games-best-flash-fueled-fun-for-phonespcs/"><u>Dynamic Games Best Flash-Fueled Fun for Phones/PCs</u></a></li>
-<li><a href="https://solve-help.techidaily.com/exploring-the-intricacies-of-how-to-geeks-rigorous-product-testing-and-review-system/"><u>Exploring the Intricacies of How-To Geek's Rigorous Product Testing and Review System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flipped-image-remedy-for-windows-display-issue/"><u>Flipped Image Remedy for Window's Display Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-ahead-with-these-must-know-pixlr-techniques-for-2024/"><u>Get Ahead with These Must-Know Pixlr Techniques for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nokia XR21 Phone without Google Account?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/latest-graphics-purchase-blacked-out-monitor/"><u>Latest Graphics Purchase: Blacked-Out Monitor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>Leap Into Fitness A Curated Selection of VR Treadmill Pros</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-display-setting-failures-on-windows-7-and-10/"><u>Resolving Display Setting Failures on Windows 7 & 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-out-of-video-memory-issue-a-complete-guide/"><u>Troubleshooting Fortnite's 'Out of Video Memory' Issue – A Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>[New] The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-call-of-duty-cold-war-not-connecting-to-online-services-2024/"><u>[SOLVED] Call of Duty Cold War Not Connecting to Online Services 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-precise-preservation-how-to-capture-windows/"><u>[Updated] Precise Preservation How to Capture Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prime-choices-purchasing-your-dreams-in-youtube-ringtones/"><u>[Updated] Prime Choices Purchasing Your Dreams in YouTube Ringtones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films/"><u>[Updated] Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unmasking-instagrams-unnoticed-capabilities-for-2024/"><u>[Updated] Unmasking Instagram’s Unnoticed Capabilities for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-crashes-in-windows-10/"><u>Conquering AMD Radeon R9 Driver Crashes in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-gaps-in-wide-windows-10/"><u>Fixed Display Gaps in Wide Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974751384-introducing-an-effortless-upgrade-for-intel-hd-graphics-on-windows-10-devices/"><u>Introducing an Effortless Upgrade for Intel HD Graphics on Windows 10 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mending-saving-functionality-for-display-settings-on-windows/"><u>Mending Saving Functionality for Display Settings on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-issue-resolved-all-systems-go/"><u>Nvidia Driver Issue Resolved, All Systems Go</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-high-end-displays-successful-update/"><u>Restore High-End Displays - Successful Update</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-note-13-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi Note 13 Pro 5G Location | Dr.fone</u></a></li>
 </ul></div>
 

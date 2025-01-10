@@ -1,7 +1,7 @@
 ---
 title: Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment
-date: 2024-12-27T04:13:53.516Z
-updated: 2025-01-03T05:24:20.360Z
+date: 2025-01-04T04:22:10.718Z
+updated: 2025-01-10T01:16:25.010Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -41,22 +37,22 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -96,7 +92,11 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -115,10 +115,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
@@ -126,6 +122,10 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,24 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[New] In 2024, From Novice to Expert Perfecting Mac Audio with Audacity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-11-screen-flickering/"><u>[SOLVED] Windows 11 Screen Flickering</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-quick-guide-youtube-studio-the-editors-haven/"><u>[Updated] 2024 Approved Quick Guide YouTube Studio, The Editor's Haven</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-anticipated-apple-car-pricing-info-release-date-and-tech-specs-revealed/"><u>All You Need to Know About the Anticipated 'Apple Car': Pricing Info, Release Date & Tech Specs Revealed!</u></a></li>
-<li><a href="https://howto.techidaily.com/asus-rog-phone-7-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fantastic-feat-mh-worlds-graphical-glitch-ends/"><u>Fantastic Feat! MH World's Graphical Glitch Ends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/god-of-thunders-triumph-revealed/"><u>God of Thunder’s Triumph Revealed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immersive-graphics-geforce-rtx210-upgrade-on-windows-11/"><u>Immersive Graphics: GeForce RTX210 Upgrade on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-complete-youtubers-guide-to-editing-in-premiere-pro/"><u>In 2024, The Complete Youtuber's Guide to Editing in Premiere Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-gaming-experience-with-big-picture-steam/"><u>Maximizing Your Gaming Experience with Big Picture Steam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/methods-for-restoring-graphics-card-recognition/"><u>Methods for Restoring Graphics Card Recognition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/qualcomm-networking-atheros-qca61x4-driver-armistice-in-windows-11/"><u>Qualcomm Networking: Atheros QCA61x4 Driver Armistice in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-printing-with-hp-laserjet-p1007-latest-drivers-available-now/"><u>Seamless Printing with HP LaserJet P1007 - Latest Drivers Available Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/sledgehammer-strikes-issue-squashed/"><u>Sledgehammer Strikes: Issue Squashed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-windows-card-drivers-no-more-mc-hangs/"><u>Stabilizing Windows Card Drivers, No More MC Hangs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y200-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y200 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vision-problem-graphics-device-not-found/"><u>Vision Problem: Graphics Device Not Found</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-upgrade-stuck-at-99-solved/"><u>Windows 11 Upgrade Stuck at 99% [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-rust-legacy-launch-issue-dx12-failure/"><u>[FIXED] Rust Legacy Launch Issue - DX12 Failure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-phantoms-view-droning-action-highlights/"><u>[Updated] In 2024, Phantom's View Droning Action Highlights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-location-of-youtubes-creator-dashboard/"><u>[Updated] Mastering the Location of YouTube's Creator Dashboard</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-edit-videos-professionally-using-inshot/"><u>2024 Approved Learn to Edit Videos Professionally Using Inshot</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-editing-your-tiktok-number/"><u>2024 Approved Master the Art of Editing Your TikTok Number</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sculpt-visual-jokes-for-giphy-space/"><u>2024 Approved Sculpt Visual Jokes for Giphy Space</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-hd-6950-win11-driver-improvements-revealed/"><u>AMD HD 6950 Win11 Driver Improvements Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-leads-to-dark-void/"><u>Driver Update Leads to Dark Void</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-interface-error-cleared-running-smoothly/"><u>Graphic Interface Error Cleared, Running Smoothly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pop-7-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pop 7 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55 5GFRP Lock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-success-story-no-hurdles-for-nvidia/"><u>Installation Success Story: No Hurdles for NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shattering-screen-shimmer-on-win11/"><u>Shattering Screen Shimmer on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eradicate-lenovo-screen-flashes/"><u>Steps to Eradicate Lenovo Screen Flashes</u></a></li>
+<li><a href="https://win-bits.techidaily.com/troubleshooting-dvd-shrink-issues-on-windows-11-effective-solutions/"><u>Troubleshooting DVD Shrink Issues on Windows 11: Effective Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-list-the-best-fps-games-playable-in-a-browser/"><u>Ultimate List: The Best FPS Games Playable in a Browser</u></a></li>
 </ul></div>
 

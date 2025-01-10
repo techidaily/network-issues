@@ -1,7 +1,7 @@
 ---
 title: GFXUI Lockup on Win OS (Solution Closeby)
-date: 2024-12-26T23:34:41.240Z
-updated: 2025-01-02T20:14:48.539Z
+date: 2025-01-06T21:43:33.620Z
+updated: 2025-01-09T19:14:49.156Z
 tags:
   - win11
   - win10
@@ -32,10 +32,14 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf762c2349f.png) and**S** at the same time. Type**turn windows** then click**Turn Windows feature on or off** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 3) Restart your computer. See if the problem is resolved.
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
@@ -71,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clean Reinstall Intel Graphics Card Driver
@@ -86,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the option that restart automatically after the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Windows will search for and update the latest version of the display driver it can find for your PC.
 
@@ -122,18 +122,21 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-cross-reality-shopping-experiences-for-2024/"><u>[Updated] Cross-Reality Shopping Experiences for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-voiceover-vitality-energizing-your-powerpoint-presentations/"><u>2024 Approved Voiceover Vitality Energizing Your PowerPoint Presentations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amplify-your-mobile-typing-experience-with-bing-ai-chat-technology/"><u>Amplify Your Mobile Typing Experience with Bing AI Chat Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/analyzing-amds-role-in-shaping-the-future-of-pc-gaming/"><u>Analyzing AMD's Role in Shaping the Future of PC Gaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-practices-for-live-streaming-your-favorite-shows-on-netflix-with-friends/"><u>Best Practices for Live Streaming Your Favorite Shows on Netflix with Friends</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-image-blurriness-for-better-far-cry-play/"><u>Correcting Image Blurriness for Better Far Cry Play</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210001430-9781761034541-divination/"><u>Divination | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-pilots-guide-to-best-5-drones/"><u>Professional Pilot’s Guide to Best 5 Drones</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-your-email-communications-easy-guide-to-two-factor-authentication-methods/"><u>Secure Your Email Communications: Easy Guide to Two-Factor Authentication Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-dark-mode-issue-on-newest-creators-version/"><u>Solve Dark Mode Issue on Newest Creator's Version</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-stop-your-screens-flashing/"><u>Troubleshooting: Stop Your Screen's Flashing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-resolution-too-large/"><u>Window's 11 Resolution Too Large</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[New] 2024 Approved From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ree-music-unlocked-the-ultimate-library-for-videographers/"><u>[New] Free Music Unlocked The Ultimate Library for Videographers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overheat-monitor-access-denied/"><u>[Resolved] Overheat Monitor Access Denied</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-roblox-lagging-on-pc-2024/"><u>[SOLVED] Roblox Lagging on PC 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-huawei-nova-y71-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Huawei Nova Y71</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-printer-mx870-os-versions/"><u>Configure Canon Printer MX870, OS Versions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-issue-resolved-nvidia-driver-fixed/"><u>Display Issue Resolved: Nvidia Driver Fixed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unveiling-the-science-of-quantum-hdr-enhancement/"><u>In 2024, Unveiling the Science of Quantum HDR Enhancement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/knowledge-hub-leading-educational-youtube-sources/"><u>Knowledge Hub Leading Educational YouTube Sources</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/recognizing-hardware-conflicts-in-your-computer-system-tips-by-yl-computing/"><u>Recognizing Hardware Conflicts in Your Computer System - Tips by YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-diagonal-discrepancies-in-pc-monitors/"><u>Resolve Diagonal Discrepancies in PC Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-the-veiled-truth-behind-puzzling-dx-errors-in-league-of-legends/"><u>Revealing the Veiled Truth Behind Puzzling DX Errors in League of Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revving-network-speed-in-winxp7/"><u>Revving Network Speed in WINXP/7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenfreeze-windows-graphic-system-cured/"><u>ScreenFreeze Windows Graphic System (Cured)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/validate-wellness-wisdom-proven-techniques-for-chatgpt-insights/"><u>Validate Wellness Wisdom: Proven Techniques for ChatGPT Insights</u></a></li>
 </ul></div>
 

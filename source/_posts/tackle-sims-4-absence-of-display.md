@@ -1,7 +1,7 @@
 ---
 title: Tackle Sims 4 Absence of Display
-date: 2025-01-02T09:57:58.260Z
-updated: 2025-01-03T09:46:49.526Z
+date: 2025-01-08T23:40:30.558Z
+updated: 2025-01-09T20:25:19.714Z
 tags:
   - win11
   - win10
@@ -47,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -76,10 +76,6 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -117,10 +113,6 @@ Here are the steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Reinstall Origin and The Sims 4
 
  You may encounter a white loading screen on The Sims 4 if the files in Origin or The Sims 4 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -132,7 +124,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
@@ -140,7 +132,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -154,6 +146,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -175,12 +171,16 @@ Here is how to check if your computer spec has met the requirements:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -211,20 +211,22 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-complete-overview-of-vsco-photo-editor/"><u>[New] 2024 Approved A Complete Overview of VSCO Photo Editor</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-step-by-step-approach-for-flawless-instagrams/"><u>[New] In 2024, A Step-by-Step Approach for Flawless Instagrams</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-fortnite-high-ping-quickly-and-easily/"><u>[SOLVED] | Fortnite High Ping | Quickly & Easily!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-wdfviolation-blue-screen-error-on-windows-111087/"><u>[SOLVED] WDF_Violation Blue Screen Error on Windows 11/10/8/7</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-expert-advice-youtube-to-mpeg-compression-guide/"><u>[Updated] 2024 Approved Expert Advice YouTube to MPEG Compression Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-10-youtube-music-rippers-for-android-and-ios/"><u>[Updated] In 2024, 10 YouTube Music Rippers for Android and iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/microsoft-surface-go-reviewed-balancing-budget-friendly-appeal-with-a-mysterious-role-as-a-tech-companion/"><u>Microsoft Surface Go Reviewed: Balancing Budget-Friendly Appeal with a Mysterious Role as a Tech Companion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-undetected-amd-graphics-card-issue-in-windows-11-troubleshooting-steps/"><u>Resolving Undetected AMD Graphics Card Issue in Windows 11: Troubleshooting Steps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-fixing-initialization-issues-in-graphics-systems/"><u>Solved: Fixing Initialization Issues in Graphics Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-your-zoom-video-calling-issues-stabilizing-an-erratic-internet-connection/"><u>Solving Your Zoom Video Calling Issues: Stabilizing an Erratic Internet Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-guide-resolving-ethernet-connectivity-errors-on-windows-11-and-windows-7/"><u>Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-easy-way-to-retain-and-transfer-your-chatgpt-engagements/"><u>The Easy Way to Retain and Transfer Your ChatGPT Engagements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-microphone-issues-on-windows-11-step-by-step-guide/"><u>Troubleshooting Microphone Issues on Windows 11 - Step by Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-the-msi-steam-deck-triumph-in-the-battleground-of-portable-gaming-techspectrum/"><u>Will the MSI Steam Deck Triumph in the Battleground of Portable Gaming | TechSpectrum</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-significance-of-video-in-client-promotional-power/"><u>[New] In 2024, The Significance of Video in Client Promotional Power</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-heavy-hovering-heroes-drone-innovations-of-today/"><u>[Updated] Heavy Hovering Heroes Drone Innovations of Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-step-by-step-journey-of-becoming-an-ez-grabber-user-for-2024/"><u>[Updated] The Step-By Step Journey of Becoming an EZ Grabber User for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-monitor-refresh-rate-glitches/"><u>Combat Monitor Refresh Rate Glitches</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/compreeved-analysis-a-full-review-of-the-gecata-device/"><u>Compreeved Analysis A Full Review of the Gecata Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initiation-hiccup-fixed-now/"><u>Direct3D Initiation Hiccup, Fixed Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispel-sims-4-no-signage-mistakes/"><u>Dispel Sims 4 No-Signage Mistakes</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-6sipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 6s/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-implement-wi-fi-expansion-device-for-computer-systems/"><u>Effortlessly Implement Wi-Fi Expansion Device for Computer Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-horizontal-scaling-problems/"><u>Fix Horizontal Scaling Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-insufficient-specs-a-driver-installation-guide/"><u>Navigating Insufficient Specs: A Driver Installation Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/navigating-through-tech-roadblocks-proven-slowdown-troubleshooting-tips-by-yl-computing-and-yl-software/"><u>Navigating Through Tech Roadblocks: Proven Slowdown Troubleshooting Tips by YL Computing & YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/network-interface-misplaced-finding-wireless-adapter-in-windows-10/"><u>Network Interface Misplaced: Finding Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974011444-resolve-amd-tarkov-glitch/"><u>Resolve AMD Tarkov Glitch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-removing-an-excel-workbooks-locked-password/"><u>Step-by-Step Guide: Removing an Excel Workbook's Locked Password</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/warum-zeigt-die-seagate-externe-festplatte-keine-daten-an/"><u>Warum Zeigt Die Seagate Externe Festplatte Keine Daten An?</u></a></li>
 </ul></div>
 

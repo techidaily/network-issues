@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2024-12-28T09:22:28.538Z
-updated: 2025-01-03T13:21:29.017Z
+date: 2025-01-08T19:14:43.184Z
+updated: 2025-01-10T02:58:13.856Z
 tags:
   - chatgpt
   - open-ai
@@ -32,11 +32,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -61,7 +57,7 @@ You could use:
  The second set of prompts will produce much more detailed information and relevant responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Being Overly Specific With Your Instructions
@@ -74,10 +70,6 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -89,6 +81,10 @@ You could use:
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
 
@@ -106,6 +102,10 @@ You could use:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
@@ -114,11 +114,11 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -147,22 +147,18 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>[New] 2024 Approved Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-secrets-to-designing-impactful-igtv-thumbnails/"><u>2024 Approved Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-asus-rog-gt-cdn5300-the-ideal-choice-for-gaming-and-tech-enthusiasts/"><u>Comprehensive Guide to Asus ROG GT-CDN5300: The Ideal Choice for Gaming and Tech Enthusiasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-system-reactivated-post-failure/"><u>Display System Reactivated Post-Failure</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-online-engagement-with-proven-cookiebot-technology-tools/"><u>Enhance Online Engagement with Proven Cookiebot Technology Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/falcons-flight-delayed/"><u>Falcon's Flight Delayed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-flaws-in-windows-mgmt-sys-reveal-hidden-nvidia/"><u>Fix Flaws in Windows Mgmt Sys – Reveal Hidden NVIDIA</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-nubia-red-magic-8s-proplus-by-drfone-android/"><u>How to Bypass FRP from Nubia Red Magic 8S Pro+?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11/"><u>In 2024, .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-animation-options-for-text-graphics/"><u>In 2024, Prime Animation Options for Text Graphics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ome-the-invisibility-of-short-videos/"><u>Overcome The Invisibility of Short Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-displacement-of-windows-screen-view/"><u>Resolving Displacement of Window's Screen View</u></a></li>
-<li><a href="https://network-issues.techidaily.com/secure-your-perfect-zoom-experience-no-more-camera-issues/"><u>Secure Your Perfect Zoom Experience, No More Camera Issues!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-trouble-elusive-nvidia-graphics-detected/"><u>Tech Trouble: Elusive NVIDIA Graphics Detected?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-screen-fix-no-full-screen-view-detected/"><u>Win11 Screen Fix: No Full-Screen View Detected</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-adjustment/"><u>Windows 11: Advanced Display Adjustment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>[New] Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-color-correction-with-premiere-pro-luts/"><u>[New] Streamlining Color Correction with Premiere Pro LUTs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-visuals-smooth-out-after-repair/"><u>Dell Visuals Smooth Out After Repair</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-tackle-persistent-video-output-errors/"><u>How to Tackle Persistent Video Output Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hybrid-graphics-enhanced-after-windows-11-upgrade-fixes/"><u>Hybrid Graphics Enhanced After Windows 11 Upgrade Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-guide-to-leveraging-obs-in-android/"><u>In 2024, Expert Guide to Leveraging OBS in Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy F04</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/master-flat-panel-fixation-methods/"><u>Master Flat-Panel Fixation Methods</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-how-to-reduce-the-size-of-video-file-online-in-this-article-well-share-top-10-free-online-video-compressors-that-you-can-use-anywhere-at-a/"><u>New 2024 Approved How to Reduce the Size of Video File Online? In This Article, Well Share Top 10 Free Online Video Compressors that You Can Use Anywhere at Any Time and on Any Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/syncing-images-android-iphone-file-transfer-guide-for-2024/"><u>Syncing Images Android-iPhone File Transfer Guide for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-the-secret-to-fluent-french-speech/"><u>Unlocking the Secret to Fluent French Speech</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-a-boost-with-new-geforce-210-graphics-driver/"><u>Windows 10 Gets a Boost with New GeForce 210 Graphics Driver</u></a></li>
 </ul></div>
 

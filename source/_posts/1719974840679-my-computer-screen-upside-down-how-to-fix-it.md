@@ -1,7 +1,7 @@
 ---
 title: My Computer Screen Upside Down - How to Fix It
-date: 2024-12-17T16:25:28.150Z
-updated: 2024-12-24T22:19:06.111Z
+date: 2025-01-09T05:32:11.548Z
+updated: 2025-01-10T02:36:01.154Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  Is your**computer screen upside down** suddenly, and you don’t know what you’ve down to cause it?
 
  Don’t worry. This is a common Windows screen issue, and many people have resolved the computer screen upside down issue with the solutions in this post. So read on and get your Windows screen back on track.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to do if my computer is screen upside down?
 
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to**Hot Keys** and make sure it’s**enabled** .
@@ -63,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  3) Then try the keyboard shortcut combinations again to rotate your computer/laptop screen.
 
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Configure Display Settings
 
@@ -95,30 +95,26 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**View by category** , and click**Adjust screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19127f11a3b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the drop down menu next to**Orientation** , and select**Portrait** ,**Landscape (flipped)** ,**Portrait (flipped)** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912cecb794.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll need to try each one to flip your computer screen to a proper orientation.
 
  If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
 
@@ -141,6 +137,10 @@ There are two options to update drivers:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
@@ -173,16 +173,17 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[New] Can I View All Shared Videos And Photos on Messenger?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hit-the-bottom-finding-your-best-free-youtube-downloader-app-on-android/"><u>[Updated] 2024 Approved Hit the Bottom - Finding Your Best Free YouTube Downloader App on Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved The Artisan's Selection Best Photo Frame Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-dynamics-4-social-medias-reshaped-landscapes/"><u>Digital Dynamics: 4 Social Media's Reshaped Landscapes</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-for-endless-edges-on-desktop/"><u>Halt for Endless Edges on Desktop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-horizon-in-win10-graphics-amd-radeon-hd-6950-drivers-v20/"><u>New Horizon in Win10 Graphics: AMD Radeon HD 6950 Drivers V2.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-hidden-windows-10-color-after-cu/"><u>Revealing Hidden Windows 10 Color After CU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-compatibility-issues-in-freesync-sync/"><u>Solving Compatibility Issues in FreeSync Sync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/transform-your-pcs-display-quality-update-to-new-intel-graphics-hd-3000-for-windows-10/"><u>Transform Your PC’s Display Quality: Update to New Intel Graphics HD 3000 for Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>[New] Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>[New] Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-beyond-the-basics-streamlabs-competitors-analyzed-for-2024/"><u>[Updated] Beyond the Basics Streamlabs Competitors Analyzed for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-gameplay-geforce-210-and-win10-combined-power/"><u>Elevate Your Gameplay: GeForce 210 & WIN10 Combined Power</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/fixing-windows-10-game-bar-issues-top-troubleshooting-tips/"><u>Fixing Windows 10 Game Bar Issues: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>In 2024, The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-headphones-to-sony-gaming-system/"><u>Linking Headphones to Sony Gaming System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-wow-problem-solving-no-519/"><u>Mastering WoW Problem Solving No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximizing-monitor-space-on-wins11-pcs/"><u>Maximizing Monitor Space on Wins11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-gaming-troubleshooting-steps-to-solve-in-game-setup-mistakes/"><u>Origin Gaming Troubleshooting: Steps to Solve In-Game Setup Mistakes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-deciphered-nvidia-opengl-armored-solution/"><u>TDR Alert Deciphered: NVidia OpenGL Armored Solution</u></a></li>
 </ul></div>
 

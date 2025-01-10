@@ -1,7 +1,7 @@
 ---
 title: "Introducing the HeimVision A80S: The Ultimate Guide to Its Basic Light Therapy Features"
-date: 2024-12-31T02:31:19.269Z
-updated: 2025-01-03T02:26:22.499Z
+date: 2025-01-09T02:15:15.196Z
+updated: 2025-01-10T08:13:03.951Z
 categories:
   - BestProducts
 description: "This Article Describes Introducing the HeimVision A80S: The Ultimate Guide to Its Basic Light Therapy Features"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 ## Meta Quest 2
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/G1C0A6m5hPeWOPp97vWLX5BvA4o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Andrew Hayward / Lifewire
 
@@ -43,9 +39,17 @@ Andrew Hayward / Lifewire
 
 4.5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Meta Quest 2
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/KO4q8p9NOXatDIXmzsBBpQgN5eA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Andrew Hayward / Lifewire
 
@@ -71,10 +75,6 @@ Andrew Hayward / Lifewire
  Released in early 2019, the original[Oculus Quest](https://www.lifewire.com/oculus-quest-review-4692669) was a monumental step forward for virtual reality. No, it wasn’t the most powerful headset out there, using a two-year-old smartphone processor to power its games and experiences, but it was a capable, completely self-contained, wireless VR headset that didn’t require a PC or game console to deliver stellar immersion.
 
  It was one of last year’s greatest new gadgets, and now Oculus has returned with a sequel. The Oculus Quest 2 is smaller and lighter, yet more powerful and with a much better screen—yet it costs $100 less than the original. How did that happen? Well, it’s not all great news, thanks to a couple of cost-cutting measures that you’ll feel and potentially see, but the end result is ultimately a better and more affordable device that serves as an ideal gateway into VR.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Design and Comfort: Compromises were made
 
@@ -113,14 +113,10 @@ Andrew Hayward / Lifewire
 ![Oculus Quest 2](https://www.lifewire.com/thmb/gwWuuSfTzWNDoS45b-iG9qG32-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-4-27f169e7e71b4372a38e13332b7b1364.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setup Process: You’ll need a phone… and Facebook
 
@@ -149,12 +145,16 @@ Andrew Hayward / Lifewire
  I felt the Quest 2’s enhancements more prominently in some games over others. Laser sword-swinging music game Beat Saber, for example, ran well on the first headset and isn’t that different here—just smoother and clearer-looking. But with the online battle royale shooter Population: One, the cleaner-looking textures and more fluid performance helped mitigate some of the light motion sickness I felt playing on the first Quest.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sound Quality: Works fine without headphones
 
  Plugging in headphones delivers a more closed-off, immersive experience, but the Oculus Quest 2’s built-in speaker does a solid job of delivering audio and music. It does sound a tiny bit louder and fuller than the original Quest’s speaker, but not significantly so. Still, if you want to play without being fully shut-off from your surroundings, it works just fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery: You’ll get a couple hours
 
@@ -165,6 +165,10 @@ Andrew Hayward / Lifewire
 ![Oculus Quest 2](https://www.lifewire.com/thmb/Ns2S3DQVema5UEDDSO8n3N7SC_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-7-0a0e40b6a3064fe7abc985f0900dbeff.jpg)
 
  Andrew Hayward / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: Use the headset or connect to PC
 
@@ -182,10 +186,6 @@ Andrew Hayward / Lifewire
 
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Games: A good, growing selection
 
  Although those aforementioned games and some others are still only found on PC (or maybe PlayStation VR on the PlayStation 4 or 5), the Oculus Quest platform has amassed a very nice selection of native games that you can download and play right on the headset.There is no difference in compatibility between the headsets: all Quest games play on Quest 2 and vice versa, just with performance differences.
@@ -198,11 +198,11 @@ Andrew Hayward / Lifewire
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/FqVvo044zoPghSD_PR1g2e0L2rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-5-216bbf638cbe407b8b6f332abc94ae47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Andrew Hayward / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: It’s an amazing value
 
@@ -211,10 +211,6 @@ Andrew Hayward / Lifewire
 ![Oculus Quest 2](https://www.lifewire.com/thmb/TDsFPvRGkhZaFzIaNnKRk1_xO4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-8-Comparison-1b0c51b029da41389167e103a4c4843a.jpg)
 
  Andrew Hayward / Lifewire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Oculus Quest 2 vs. PlayStation VR
 
@@ -235,6 +231,10 @@ Andrew Hayward / Lifewire
 * [Oculus Rift S](https://www.lifewire.com/oculus-rift-s-review-4764112)
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 * [Valve Index](https://www.lifewire.com/valve-index-review-4775604)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -267,24 +267,21 @@ Andrew Hayward / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-maximizing-your-youtube-investments-through-famebit-networking-tactics/"><u>[New] 2024 Approved Maximizing Your YouTube Investments Through FameBit Networking Tactics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>[Updated] History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-photo-zoom-pro-7-the-image-resizer-for-2024/"><u>[Updated] Photo Zoom Pro 7- the Image Resizer for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>[Updated] Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-your-perfect-match-of-broadcom-bluetooth-drivers-for-windows-1187-download-now/"><u>Find and Install Your Perfect Match of Broadcom Bluetooth Drivers for Windows 11/8/7 (Download Now)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-7-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mend-screen-blurring-issues/"><u>Mend Screen Blurring Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-blank-display-on-electronic-devices/"><u>Navigating Blank Display on Electronic Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-10-applications-for-real-time-sporting-events-and-football-games/"><u>Prime 10 Applications for Real-Time Sporting Events & Football Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-persistent-monitor-blankouts/"><u>Resolving Persistent Monitor Blankouts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-windows-7-back-image-issue/"><u>Resolving Windows 7 Back Image Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-terminal-the-unshackled-experience/"><u>Restoring Windows Terminal: The Unshackled Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-windows-10-whiteout-after-cu/"><u>Reversing Windows 10 Whiteout After CU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalize-your-experience-fixing-win11-flicker/"><u>Revitalize Your Experience: Fixing Win11 Flicker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-on-configuring-and-implementing-the-android-debug-bridge-utility-adb/"><u>Step-by-Step Tutorial on Configuring & Implementing the Android Debug Bridge Utility (ADB)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winbsod-dxgkrnlsys-issue-resolved/"><u>WinBSOD: dxgkrnl.sys Issue Resolved</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-20-must-have-video-tools-for-new-creators-for-2024/"><u>[New] 20 Must-Have Video Tools For New Creators for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-iconic-acting-peek-vimeo-for-2024/"><u>[New] Iconic Acting Peek - Vimeo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-quality-noiseless-text-converters/"><u>[Updated] Highest Quality Noiseless Text Converters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-spotify-how-to-stop-seeing-podcast-recommendations/"><u>2024 Approved Spotify How to Stop Seeing Podcast Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazing-fourth-of-july-cellphone-offers-find-your-perfect-plan-with-exclusive-discounts-at-zdnet/"><u>Amazing Fourth of July Cellphone Offers - Find Your Perfect Plan with Exclusive Discounts at ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-10s-problematic-error-code/"><u>Correcting Windows 10'S Problematic Error Code</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-stay-connected-using-your-apple-watch-to-message-loved-ones/"><u>Efficiently Stay Connected: Using Your Apple Watch to Message Loved Ones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novices-to-pros-the-journey-of-picking-fpv-drone-blades/"><u>In 2024, From Novices to Pros The Journey of Picking FPV Drone Blades</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instructive-pathway-to-uninstalling-carddrives-in-w8/"><u>Instructive Pathway to Uninstalling CardDrives in W8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intel-hd-6000-disabled-solution-achieved/"><u>Intel HD 6000 Disabled: Solution Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/introducing-amds-updated-6950-windows-drivers/"><u>Introducing AMD's Updated 6950 Windows Drivers</u></a></li>
+<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-s23-tactical-edition-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy S23 Tactical Edition)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcp-hack-flipping-clips-in-just-4-clicks/"><u>The Ultimate FCP Hack Flipping Clips in Just 4 Clicks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-and-amd-detection-driver-issue-now-addressed-fixed/"><u>Windows 10 & AMD: Detection Driver Issue Now Addressed, Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8s-key-to-a-clean-start-safe-mode-and-driver-uninstallation-guide/"><u>Windows 8'S Key to a Clean Start: Safe Mode & Driver Uninstallation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-anomaly-handling-guide-fix-519/"><u>WoW Anomaly Handling Guide: Fix #519</u></a></li>
 </ul></div>
 

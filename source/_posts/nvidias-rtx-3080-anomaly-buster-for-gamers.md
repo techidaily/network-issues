@@ -1,7 +1,7 @@
 ---
 title: Nvidia's RTX 3080 Anomaly Buster for Gamers
-date: 2024-12-27T09:58:30.633Z
-updated: 2025-01-03T12:27:29.349Z
+date: 2025-01-08T08:31:24.278Z
+updated: 2025-01-09T23:50:53.021Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does your graphics card keep crashing?
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 * Corrupt system/game files
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 2. **[Stop overclocking](#h2)**
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
 
  The feature ‘Hardware-Accelerated GPU Scheduling’ is first introduced in Windows 10 May 2020 update. It allows your graphics card to manage its video memory (VRAM). What’s interesting is that some players find disabling this feature helped resolve this issue.
@@ -88,11 +88,11 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
 
-Now launch your game again to see if this method works for you.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now launch your game again to see if this method works for you.
 
 ### Method 4: Keep the GPU fed
 
@@ -132,19 +132,20 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unbeatable-deals-discover-the-best-free-desktop-recorders/"><u>[New] 2024 Approved Unbeatable Deals Discover the Best Free Desktop Recorders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fixing-video-transmission-issues-on-facebook-chat-for-iosandroid/"><u>[New] In 2024, Fixing Video Transmission Issues on Facebook Chat for iOS/Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-average-playback-period-in-high-res-20mb-content/"><u>[Updated] In 2024, Average Playback Period in High-Res 20MB Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-approach-to-preserving-your-ps4-experience/"><u>[Updated] In 2024, The Ultimate Approach to Preserving Your PS4 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/detecting-windows-distress-reboot-or-reset/"><u>Detecting Windows Distress: Reboot or Reset?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flawless-video-playback-after-win10-enhancement/"><u>Flawless Video Playback After Win10 Enhancement</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-v-purse-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor V Purse Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honors-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honors Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-tap-failure-now-fully-operational/"><u>Lenovo Tap Failure, Now Fully Operational</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-installer-obstacles-for-nvidia/"><u>Overcoming Installer Obstacles for NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealed-how-to-locate-hidden-nvidia-gpu-in-device-manager/"><u>Revealed: How to Locate Hidden NVIDIA GPU in Device Manager</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-configurations/"><u>Unlock Hidden Display Configurations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-best-video-software-vlc-against-mx/"><u>Unveiling Best Video Software VLC Against MX</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-enacted-functioning-system-after-initial-glitches/"><u>[Fix Enacted] Functioning System After Initial Glitches</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-action-cam-editing-picks/"><u>[New] Ultimate Action Cam Editing Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-social-media-presence-with-personalized-instagram-icons/"><u>[Updated] Elevate Your Social Media Presence with Personalized Instagram Icons</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-keep-up-the-pace-in-snapchat-streaks-with-these-tips/"><u>2024 Approved Keep Up the Pace in Snapchat Streaks with These Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>2024 Approved Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converta-graciosamente-seus-vobmkv-em-linha-gratuitamente-com-o-movavi-guia-completo-e-simplificado/"><u>Converta Graciosamente Seus Vob/Mkv Em Linha Gratuitamente Com O Movavi – Guia Completo E Simplificado</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros/"><u>DJI's Aerial Fleet Standard Aviators, Professional Pilots, 4K Pros</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-detail-in-far-cry-6-game-mode/"><u>Enhancing Visual Detail in Far Cry 6 Game Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-vanishing-video-frames/"><u>Explaining Vanishing Video Frames</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ignite-wifi-speeds-on-windows-xp7-networks/"><u>Ignite WiFi Speeds on Windows XP/7 Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fight-against-pc-glitches-a-guide-to-fixing-persona-5-strikers-crashes/"><u>Mastering the Fight Against PC Glitches: A Guide to Fixing Persona 5 Strikers Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-frequent-lcd-shimmer-with-acer-computers/"><u>Remedying Frequent LCD Shimmer with Acer Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-size-and-resize-problems-solved-with-latest-win-10-patch/"><u>Screen Size & Resize Problems Solved with Latest Win 10 Patch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-refresh-glitches/"><u>Troubleshooting Lenovo Refresh Glitches</u></a></li>
 </ul></div>
 

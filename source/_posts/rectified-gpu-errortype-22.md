@@ -1,7 +1,7 @@
 ---
 title: Rectified GPU Errortype 22
-date: 2024-12-29T00:56:13.801Z
-updated: 2025-01-03T10:10:24.804Z
+date: 2025-01-08T05:10:19.050Z
+updated: 2025-01-09T22:07:30.547Z
 tags:
   - win11
   - win10
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 11. Voila! Your screen should appear normally now. If it isn’t working, you can press the power button to shut down and restart your computer, then carefully repeat the above steps to better troubleshoot the issue.
 
 Be careful you don’t mistype, or press the wrong keys!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
@@ -68,7 +68,7 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -77,11 +77,15 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -104,10 +108,6 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -129,18 +129,22 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-reaper-remixing-rituals-volume-control-chronicles/"><u>[New] 2024 Approved Reaper Remixing Rituals Volume Control Chronicles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-binge-worthy-music-reaction-videos-on-youtube-for-2024/"><u>[New] How to Binge-Worthy Music Reaction Videos on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-laughter-labyr-writes-making-memorable-parodies/"><u>[New] Laughter Labyr Writes Making Memorable Parodies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-live-stream-showdown-pick-your-favorite-vmix-or-wirecast-for-2024/"><u>[New] Live Stream Showdown Pick Your Favorite, VMix or Wirecast for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-best-7-high-motion-dslrs-for-dynamic-live-content-creation/"><u>[Updated] Best 7 High-Motion DSLRs for Dynamic Live Content Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ideal-modeling-software-for-animation-professionals-for-2024/"><u>[Updated] Ideal Modeling Software for Animation Professionals for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fix-obs-white-outage-during-live-streams/"><u>2024 Approved Fix OBS White Outage During Live Streams</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-god-of-war-enhanced-experience/"><u>Enhanced God of War, Enhanced Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-windows-media-creation-tool-error-x90017/"><u>Unblocking Windows' Media Creation Tool Error X.90017</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-operates-with-qualcomm-atheros-driver-harmony/"><u>Windows Operates with Qualcomm, Atheros Driver Harmony</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-the-world-of-live-video-sharing-with-ease/"><u>[New] Navigating the World of Live Video Sharing with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-editscreen-pro-windows-8/"><u>[Updated] EditScreen Pro Windows 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-tech-evolution-vr-now-and-beyond/"><u>[Updated] Immersive Tech Evolution VR Now & Beyond</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-minecraft-screen-capture-a-mac-guide/"><u>[Updated] In 2024, Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reviewing-video-comment-trails-on-youtube/"><u>[Updated] Reviewing Video Comment Trails on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-top-strategies-for-box-enthusiasts/"><u>2024 Approved The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjustment-for-large-display-on-win10/"><u>Adjustment for Large Display on WIN10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-launch-fails-issue-settled/"><u>Direct3D Launch Fails, Issue Settled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-perverse-display-settings/"><u>Fixing Perverse Display Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-problem-addressed-full-functionality-regained/"><u>GPU Problem Addressed, Full Functionality Regained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-case-for-high-dynamic-range-in-modern-videography/"><u>In 2024, The Case for High Dynamic Range in Modern Videography</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptops-liquid-loss-leading-to-lack-of-light/"><u>Laptop's Liquid Loss Leading to Lack of Light</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-cursor-after-dark-windows-error/"><u>Revive Cursor After Dark Windows Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-stuck-cursor-dark-screens-win10/"><u>Tackle Stuck Cursor, Dark Screens, Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-halted-by-error-addressed-with-nvidia-fix/"><u>Win Halted By Error, Addressed With NVIDIA Fix</u></a></li>
 </ul></div>
 

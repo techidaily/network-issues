@@ -1,7 +1,7 @@
 ---
 title: Eliminating Visual Glitches From Far Cry 6 Gameplay
-date: 2024-12-27T12:26:12.938Z
-updated: 2025-01-03T06:41:14.065Z
+date: 2025-01-07T21:49:04.320Z
+updated: 2025-01-09T20:49:12.406Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-29-42.png)
 
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before you start…
 
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -63,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  If you didn’t use the HD texture pack but you do have sufficient VRAM (>11 GB), you can find the HD texture pack under the DLC section and install it. Some players have reported that the HD texture pack works fine when you have enough VRAM, so it’s definitely worth a try.
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -106,6 +106,10 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -113,6 +117,10 @@ If this doesn’t help, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn on high graphics performance setting for the game
 
@@ -122,10 +130,6 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
@@ -134,11 +138,11 @@ If this doesn’t help, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -149,19 +153,15 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
@@ -187,19 +187,24 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>[New] 2024 Approved Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-strategies-for-stabilizing-drone-footage/"><u>[New] 2024 Approved Strategies for Stabilizing Drone Footage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unlocking-the-value-in-twitters-archives-for-2024/"><u>[New] Unlocking the Value in Twitters Archives for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-communication-strategies-for-effective-call-logging/"><u>[Updated] 2024 Approved Enhancing Communication Strategies for Effective Call Logging</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-record-desktop-on-windows-8-effortlessly/"><u>2024 Approved How To Record Desktop on Windows 8 Effortlessly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-2023s-enhanced-sony-s3700-overview/"><u>2024 Approved Unveiling 2023'S Enhanced Sony S3700 Overview</u></a></li>
-<li><a href="https://network-issues.techidaily.com/card-driver-woes-win-minecraft-stability-restored/"><u>Card Driver Woes: Win-Minecraft Stability Restored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dying-light-lag-problems-here-are-the-fixes-to-optimize-your-gaming-experience/"><u>Dying Light Lag Problems? Here Are the Fixes to Optimize Your Gaming Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-systems-graphical-power-with-a-quick-intel-graphics-3000-update-on-w10/"><u>Enhance Your System's Graphical Power with a Quick Intel Graphics 3000 Update on W10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-graphics-imbalance-on-laptop/"><u>Fix Graphics Imbalance on Laptop</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-the-unforgiving-error-mackernel-freeze/"><u>Fixing the Unforgiving Error: MacKernel Freeze</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-blur-the-background-in-teams-meeting-desktop-and-mobile/"><u>How to Blur the Background in Teams Meeting? [Desktop & Mobile]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recovering-blank-screenspace-in-win10/"><u>Recovering Blank Screenspace in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974894923-win11-window-width-woes-now-fixed/"><u>Win11 Window Width Woes, Now Fixed!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-constructing-unique-instagram-story-banners/"><u>[New] 2024 Approved Constructing Unique Instagram Story Banners</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-microphones-for-dynamic-cams-for-2024/"><u>[New] Essential Microphones for Dynamic Cams for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recording-made-simple-your-phone-cookbook-for-snapping-stories/"><u>[New] In 2024, Recording Made Simple Your Phone' Cookbook for Snapping Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly-for-2024/"><u>[Updated] Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-polity-playlists-the-premier-gamified-elections/"><u>[Updated] Polity Playlists The Premier Gamified Elections</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-black-window-in-win11-world/"><u>Banishing Black Window in Win11 World</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diagnosing-physical-device-issues-in-computers-expert-tips-from-yl-software/"><u>Diagnosing Physical Device Issues in Computers: Expert Tips From YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-connectivity-qualcomm-fixes-for-atheros-wifi/"><u>Enhanced Connectivity: Qualcomm Fixes for Atheros WiFi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-update-monitor-remains-black/"><u>GPU Update: Monitor Remains Black</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-5-expedited-mobile-video-tools-on-android/"><u>In 2024, 5 Expedited Mobile Video Tools on Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/investigation-vlc-screen-capturer/"><u>Investigation VLC Screen Capturer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-calibration-completed/"><u>Kratos Calibration Completed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP Without Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-lcd-flicker-challenges/"><u>Overcoming LCD Flicker Challenges</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-freezes-fixing-video-pause-on-new-os/"><u>Say Goodbye to Freezes: Fixing Video Pause on New OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screensavers-silent-struggle/"><u>Screensaver's Silent Struggle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-wi-fi-hardware-integration-with-desktop-os-xwindows/"><u>Seamless Wi-Fi Hardware Integration with Desktop OS X/Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackle-no-signage-on-sims-tvs/"><u>Tackle No Signage on Sims' TVs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram-for-2024/"><u>Unleash Creativity with These 4 Simple Steps to Loops on Instagram for 2024</u></a></li>
 </ul></div>
 

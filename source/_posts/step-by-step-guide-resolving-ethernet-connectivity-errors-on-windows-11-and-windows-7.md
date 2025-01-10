@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7"
-date: 2024-12-30T11:18:36.828Z
-updated: 2025-01-03T11:44:25.042Z
+date: 2025-01-06T23:23:38.701Z
+updated: 2025-01-10T06:32:04.507Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Check the router and cable situations
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -80,7 +76,11 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 5: Make sure the Ethernet is enabled
 
  After trying the tips above, if the problem persists, check if the Ethernet is disabled.
@@ -104,6 +100,10 @@ Follow the steps below:
 1. Press the**Windows** key and**R** key at the same time. Type**devmgmt.msc** in the run box and click on the**OK** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
@@ -119,15 +119,15 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -156,20 +156,22 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[Updated] For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-x100-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo X100 Pro FRP</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 14 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/efficient-fixes-when-your-iphones-home-touchpad-fails-you/"><u>Efficient Fixes When Your iPhone's Home Touchpad Fails You</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-critical-error-code-c1900101-in-win10/"><u>Fixing Critical Error: Code C1900101 in Win10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-realme-12plus-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 12+ 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-gpu-fans-not-spinning/"><u>How to Fix GPU Fans Not Spinning</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-v2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic V2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-20-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark 20</u></a></li>
-<li><a href="https://network-issues.techidaily.com/integrated-triumph-of-nvidia-and-windows-os/"><u>Integrated Triumph of Nvidia & Windows OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209748864-9781547595402-megans-school-examens/"><u>Megan's School Examens | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mystery-of-missing-monitor-magenta/"><u>Mystery of Missing Monitor Magenta</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-switch-fail-in-windows-10/"><u>Overcoming NVIDIA/Intel Graphics Switch Fail in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-wi-fi-capability-in-your-computer-with-new-hardware/"><u>Unlock Wi-Fi Capability in Your Computer with New Hardware</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-art-of-captivating-your-online-audience/"><u>[New] 2024 Approved The Art of Captivating Your Online Audience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-expedite-clear-marks-prime-tiktok-watermarks-solutions/"><u>[New] In 2024, Expedite Clear Marks Prime TikTok Watermarks Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-xfx-interrupt-terminated-successfully/"><u>[Resolved] XFX Interrupt Terminated Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[Updated] Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
+<li><a href="https://network-issues.techidaily.com/alleviating-visual-fluctuations-pro-7/"><u>Alleviating Visual Fluctuations (Pro 7)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciphering-screen-recorders-bandicam-or-camtasia-for-2024/"><u>Deciphering Screen Recorders Bandicam or Camtasia for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guida-passo-passo-impostazione-delle-partizioni-di-ripristino-in-windows-11-con-due-metodi-ottimali/"><u>Guida Passo-Passo: Impostazione Delle Partizioni Di Ripristino in Windows 11 Con Due Metodi Ottimali</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-resolution-steps-inactive-gpu-screen-wnvidia/"><u>Instant Resolution Steps: Inactive GPU Screen W/NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-screen-flickering-troubleshooting/"><u>Navigating Through Screen Flickering Troubleshooting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-obstacle-code-1900101-during-windows-installation/"><u>Overcoming Obstacle Code 1900101 During Windows Installation</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/resolving-your-printers-quality-issues-a-comprehensive-guide-yl-computing/"><u>Resolving Your Printer's Quality Issues: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-blank-screens-master-display-diagnostics/"><u>Stop Blank Screens: Master Display Diagnostics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-agni-2-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Lava Agni 2 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-on-windows-11/"><u>Troubleshooting C1900101 on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-now-supports-amds-radeon-hd-6950-latest-drivers-update/"><u>Windows 11 Now Supports AMD's Radeon HD 6950: Latest Drivers Update</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/xperience-photoshoot-iphone-x-classic-clicks-for-2024/"><u>Xperience Photoshoot IPhone X Classic Clicks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/monetized-channel-blueprint-for-online-creators/"><u>Your Monetized Channel Blueprint for Online Creators</u></a></li>
 </ul></div>
 

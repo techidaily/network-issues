@@ -1,7 +1,7 @@
 ---
 title: Tap Out Lags, Not Bugs
-date: 2024-12-26T16:30:57.530Z
-updated: 2025-01-03T01:31:34.429Z
+date: 2025-01-04T18:11:24.693Z
+updated: 2025-01-09T22:31:40.246Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 ## Tap Out Lags, Not Bugs
 
  Many users are reporting an ongoing lagging issue with the newly released game**Anthem** . Although this can be frustrating, this**Anthem Lags** problem can be easily fixed…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes For Anthem Lags
 
@@ -54,6 +50,10 @@ Here’s how to do it:
  In**Chromatic Aberration** , select**Off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
@@ -101,6 +101,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
@@ -113,13 +117,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -135,21 +139,21 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -183,29 +187,25 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -232,18 +232,22 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-evenings-reassessment-alternate-vision/"><u>[New] Evening's Reassessment Alternate Vision</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/"><u>[Updated] In 2024, Discover the Power of a Different Voice Easy Alteration Guide for Free Fire Players (Free)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-voyage-twitters-compiled-top-10-tiktoks-for-2024/"><u>[Updated] Viral Video Voyage Twitter's Compiled Top 10 TikToks for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transform-your-webcam-footage-edit-and-export-tips/"><u>2024 Approved Transform Your WebCam Footage Edit & Export Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypass-the-process-easy-method-for-windows-graphic-driver-delete/"><u>Bypass the Process: Easy Method for Windows Graphic Driver Delete</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-mac-tips-unlocking-your-srt-files/"><u>Essential Mac Tips Unlocking Your SRT Files</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-invisible-to-visible-fix-lenovos-black-out/"><u>From Invisible to Visible: Fix Lenovo’s Black Out</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-meme-master-tracking-jake-pauls-youtube-evolution/"><u>In 2024, Meme Master Tracking Jake Paul's YouTube Evolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-mishaps-fixes-for-rtx-3080-game-crashes/"><u>Mastering Mishaps: Fixes for RTX 3080 Game Crashes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974685642-swiftly-update-intel-graphics-3000-for-windows-11/"><u>Swiftly Update Intel Graphics 3000 for Windows 11.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-20-must-watch-movies-on-demand-lifewire-selection/"><u>Top 20 Must-Watch Movies on Demand - Lifewire Selection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-connecting-external-displays-to-your-mac/"><u>Troubleshooting Tips for Connecting External Displays to Your Mac</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-installed-new-amd-graphic-driver-on-pcs/"><u>[FIXED] Installed New AMD Graphic Driver on PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-bass-brilliance-new-device-overview/"><u>[New] Bass Brilliance New Device Overview</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-economical-aerial-aviators-affordable-drones-guide-(500/"><u>[New] Economical Aerial Aviators Affordable Drones Guide <$500</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-simply-saver-top-mobile-apps-for-downloading-youtube-series-and-songs/"><u>[Updated] Simply Saver Top Mobile Apps for Downloading YouTube Series & Songs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-google-hangout-optimization-advanced-methods-4-tips/"><u>2024 Approved Google Hangout Optimization Advanced Methods, 4 Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-superior-5-web-video-capture-kits/"><u>2024 Approved Superior 5 Web Video Capture Kits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ceasing-screen-flash-in-displays/"><u>Ceasing Screen Flash in Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-civ-5-experience-by-fixing-crashes/"><u>Enhancing Civ 5 Experience by Fixing Crashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-review-how-the-new-apple-watch-ultra-2-became-my-ideal-tech-companion-plus-enjoy-a-special-100-discount-this-labor-day/"><u>Exclusive Review: How the New Apple Watch Ultra 2 Became My Ideal Tech Companion - Plus, Enjoy a Special $100 Discount This Labor Day!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exposed-issue-why-my-graphics-cards-name-is-hidden/"><u>Exposed Issue: Why My Graphics Card's Name Is Hidden</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-optimize-and-increase-fps-for-a-smooth-gameplay-in-farming-simulator-eportation-22-on-pc/"><u>How to Optimize and Increase FPS for a Smooth Gameplay in Farming Simulator Eportation 22 on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-your-new-laptops-m1-max-clips/"><u>Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/premium-hd-graphics-enjoy-a-cup-of-joe-with-stunning-wallpapers-and-images-from-yl-software-quality-meets-innovation/"><u>Premium, HD Graphics: Enjoy a Cup of Joe with Stunning Wallpapers and Images From YL Software - Quality Meets Innovation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smaller-screens-for-large-win10-views/"><u>Smaller Screens for Large Win10 Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-black-screen-on-windows-11-update-fall/"><u>Solving Black Screen on Windows 11 Update Fall</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-avert-hp-screensaver-flash/"><u>Strategies to Avert HP Screensaver Flash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-amds-etv-issues/"><u>Swift Remedy: AMD's ETV Issues</u></a></li>
 </ul></div>
 

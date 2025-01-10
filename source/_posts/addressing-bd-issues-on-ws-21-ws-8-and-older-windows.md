@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2024-12-30T10:26:48.969Z
-updated: 2025-01-02T23:25:37.624Z
+date: 2025-01-06T06:26:02.503Z
+updated: 2025-01-10T04:40:08.610Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
  You may have**Microsoft Basic Render driver problems** occurring to your Windows computer. Some may run into errors like “**Please update your Microsoft Basic Render Driver** ” in games, and some may find that the computer is using the Microsoft Basic Render driver instead of the official graphics card installed. But don’t worry. You can fix the Microsoft Basic Render driver issues quickly and easily with the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Microsoft Basic Render driver
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -49,7 +53,7 @@ Here’s how to do it:
 2. In Device Manager, double click**Display adapters** to expand it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
@@ -59,15 +63,11 @@ Here’s how to do it:
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
@@ -90,13 +90,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -118,24 +118,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-nuclear-dawn-update-issue-xbox-launch-failure/"><u>[FIXED] Nuclear Dawn Update Issue - Xbox Launch Failure</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-phototext-techniques-for-stunning-3d-effects/"><u>[New] Advanced PhotoText Techniques for Stunning 3D Effects</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-how-to-save-photo-from-video-in-windows-10-photos-app/"><u>[New] In 2024, How to Save Photo From Video in Windows 10 Photos App</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-win10-screen-grabbing-top-quality-captures-for-2024/"><u>[New] Win10 Screen Grabbing - Top Quality Captures for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-shaky-video-tamer-for-handheld-cams/"><u>[Updated] Shaky Video Tamer for Handheld Cams</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>2024 Approved Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-failures-in-saving-display-configurations/"><u>Addressing Failures in Saving Display Configurations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-restored-on-windows-11-by-qualcomm/"><u>Atheros Wi-Fi Drivers Restored on Windows 11 by Qualcomm</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-the-green-glow-on-youtube-videos-effectively/"><u>Eliminating the Green Glow on YouTube Videos Effectively</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>In 2024, Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xs-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Max Without Passcode Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-issue-ceased-windows-operation-resolution-achieved/"><u>NVIDIA Issue: Ceased Window's Operation, Resolution Achieved</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ps5-user-guide-how-to-stream-and-share-gaming-moments/"><u>PS5 User Guide: How to Stream and Share Gaming Moments</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recovering-unrecognized-pc-gpu-compatibility-issue/"><u>Recovering Unrecognized PC GPU Compatibility Issue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/scoperte-i-5-ottimi-tecniche-per-comprimere-senza-costo-i-file-video-in-formato-mkv/"><u>Scoperte: I 5 Ottimi Tecniche per Comprimere Senza Costo I File Video in Formato MKV</u></a></li>
-<li><a href="https://network-issues.techidaily.com/straightforward-adjustment-tips-standby-gpu-display-nvidia/"><u>Straightforward Adjustment Tips: Standby GPU Display, NVIDIA</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-strategies-for-unrestricted-space-allocation-for-2024/"><u>Superior Strategies for Unrestricted Space Allocation for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninterrupted-viewing-fixing-video-pause-in-new-os/"><u>Uninterrupted Viewing: Fixing Video Pause in New OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-unique-content-to-differentiate-your-channel-for-2024/"><u>[New] Crafting Unique Content to Differentiate Your Channel for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-removed-missing-amd-graphics-adapter/"><u>[REPAIRED] Removed Missing AMD Graphics Adapter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-pexels-tips-for-discovering-striking-images/"><u>[Updated] Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>[Updated] Starting Up in Periscope Tips to Launch Your Wealth Journey</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>2024 Approved Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-backside-view-issue-for-windows-7/"><u>Adjusting Backside View Issue for Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-nforce630a-with-latest-win11-update/"><u>Aligning nForce630a with Latest Win11 Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discover-the-craft-of-iphone-reflection-photography-for-2024/"><u>Discover the Craft of iPhone Reflection Photography for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-nord-n30-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Nord N30 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-printer-sharing-challenges-in-windows/"><u>Navigating Printer Sharing Challenges in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-release-alert-improved-amd-radeon-hd-6950-for-win10/"><u>New Release Alert: Improved AMD Radeon HD 6950 for Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-disabled-display-options-on-windows/"><u>Rectifying Disabled Display Options on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-win11-displays/"><u>Stabilizing Win11 Displays</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722991384504-starcraft-2-pc-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Starcraft 2 PC Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-alert-top-rated-audio-experience-hits-half-price-at-best-buy-read-more/"><u>Unbelievable Deal Alert: Top-Rated Audio Experience Hits Half Price at Best Buy - Read More</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-streamline-resolved-any-previous-glitches/"><u>Windows 10 Streamline: Resolved Any Previous Glitches?</u></a></li>
 </ul></div>
 

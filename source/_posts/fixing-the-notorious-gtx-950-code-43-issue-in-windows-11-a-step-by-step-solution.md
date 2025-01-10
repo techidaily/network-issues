@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Notorious GTX 950 'Code 43' Issue in Windows 11: A Step-by-Step Solution"
-date: 2024-12-27T13:33:43.388Z
-updated: 2025-01-02T19:51:35.274Z
+date: 2025-01-06T21:00:57.016Z
+updated: 2025-01-09T22:24:57.522Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -103,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
@@ -110,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,22 +155,24 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-guide-to-applying-luts-in-professional-production/"><u>[Updated] 2024 Approved Expert Guide to Applying LUTs in Professional Production</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-crafting-cinematic-content-with-video-enhance-v22/"><u>[Updated] In 2024, Crafting Cinematic Content with Video Enhance V2.2</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-start-video-recording-on-logitech-webcam-for-2024/"><u>[Updated] Quick Start Video Recording on Logitech Webcam for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-sound-brilliance-for-podcasters-top-10-microphones-for-2024/"><u>[Updated] Sound Brilliance for Podcasters Top 10 Microphones for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-marketing-lexicon-20-pivotal-words-and-phrases/"><u>2024 Approved The Essential Marketing Lexicon 20 Pivotal Words & Phrases</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/a-step-by-step-guide-to-eliminate-yt-green-issues/"><u>A Step-by-Step Guide to Eliminate YT Green Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/basic-driver-tweaks-ms-win-versions-1087-update/"><u>Basic Driver Tweaks: MS Win Versions 10/8/7 Update</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-config-updated-post-save-fix/"><u>Display Config Updated Post-Save Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/efficient-uninstall-method-for-graphics-drivers-on-windows/"><u>Efficient Uninstall Method for Graphics Drivers on WIndows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-gaming-experience-by-fixing-civ-5-glitches/"><u>Enhance Gaming Experience by Fixing Civ 5 Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974781896-seamlessly-update-intels-graphic-driver-for-windows-11/"><u>Seamlessly Update Intel's Graphic Driver for Windows 11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-melodic-world-of-romance-tongues/"><u>The Melodic World of Romance Tongues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-technologies-for-crafting-visual-stories-from-pictures/"><u>Top Technologies for Crafting Visual Stories From Pictures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-tutorial-composing-youtube-video-content/"><u>[New] 2024 Approved Beginner's Tutorial Composing YouTube Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-engaging-spectacle-top-6-video-strategies-that-work-for-2024/"><u>[New] Engaging Spectacle Top 6 Video Strategies That Work for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-complete-step-by-step-for-youtube-fb-sharing/"><u>[Updated] In 2024, The Complete Step-by-Step for YouTube FB Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-captioning-method-for-enhanced-youtube-video-quality-for-2024/"><u>[Updated] Quick Captioning Method for Enhanced YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-blank-display-problems/"><u>Dismiss Blank-Display Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-phosphor-sparks-quickly/"><u>End Monitor Phosphor Sparks Quickly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-mac-experience-today-learn-the-secrets-of-hot-corners-setup-and-use-as-recommended/"><u>Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-track-solutions-skyrocket-your-dayz-frames-per-second-with-no-hassle/"><u>Fast Track Solutions: Skyrocket Your DayZ Frames Per Second with No Hassle!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-a60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel A60 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-fix-method-for-screen-horizontal-anomalies-in-computers/"><u>Immediate Fix Method for Screen Horizontal Anomalies in Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-solution-to-diagonal-screen-issues/"><u>Instant Solution to Diagonal Screen Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-windows-update-end-video-buffering-and-jitter/"><u>New Windows Update: End Video Buffering & Jitter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-anomalies-detected-in-nvidia-setup-process/"><u>No Anomalies Detected in NVIDIA Setup Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/outstanding-performance-top-tier-portable-speaker-provides-stunning-audio-quality-for-diverse-music-styles-insights-from-zdnet/"><u>Outstanding Performance: Top-Tier Portable Speaker Provides Stunning Audio Quality for Diverse Music Styles - Insights From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-anomaly-bug-519/"><u>Overcoming WOW Anomaly: Bug #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconciled-error-code-22-in-graphics-driver/"><u>Reconciled Error Code 22 in Graphics Driver</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-academia-with-ai-4-innovative-tools-for-better-research/"><u>Revolutionizing Academia with AI: 4 Innovative Tools for Better Research</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-iphone-cam-how-to-get-back-the-sharp-focus-you-need/"><u>Troubleshooting iPhone Cam: How to Get Back the Sharp Focus You Need!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-repair-made-simple-your-2024-fix-guide/"><u>Zoom Camera Repair Made Simple: Your 2024 Fix Guide</u></a></li>
 </ul></div>
 

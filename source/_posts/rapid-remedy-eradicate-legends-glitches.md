@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2024-12-27T17:15:08.225Z
-updated: 2025-01-03T12:03:26.758Z
+date: 2025-01-07T01:55:20.619Z
+updated: 2025-01-09T16:26:46.218Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Apex Legends players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 4. **[Repair Apex Legends in Origin](#f3)**
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your Nvidia graphics driver
 
@@ -46,10 +46,6 @@ There’re two ways to update your Nvidia graphics driver:
 Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
 
@@ -67,13 +63,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -89,17 +85,9 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -147,9 +135,17 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -168,6 +164,10 @@ You can follow the instructions below to install the latest game patch:
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -204,16 +204,18 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-experts-choice-top-10-low-cost-sbd-applications/"><u>[New] 2024 Approved Expert's Choice Top 10 Low-Cost SBD Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-topics-to-cover-in-your-vlogs/"><u>[New] In 2024, Fresh Topics to Cover in Your Vlogs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlock-desktop-video-potential-on-tiktok/"><u>[New] In 2024, Unlock Desktop Video Potential on TikTok</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-streamlined-strategies-for-ad-copy-formulation-on-social-platforms/"><u>[Updated] In 2024, Streamlined Strategies for Ad Copy Formulation on Social Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dial-in-your-desktop-res-in-windows-11/"><u>Dial-In Your Desktop Res In Windows 11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/disc-burning-fur-playlists-auf-cd-anleitung-mit-itunes-and-apple-music/"><u>Disc Burning Für Playlists Auf CD - Anleitung Mit iTunes & Apple Music</u></a></li>
-<li><a href="https://network-issues.techidaily.com/merging-operating-system-gpu-flawlessly/"><u>Merging Operating System, GPU Flawlessly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-presentation-process-webcam-recording-tips-for-2024/"><u>Streamline Your Presentation Process Webcam Recording Tips for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumph-over-compatibility-windows-and-nvidia/"><u>Triumph Over Compatibility: Windows & Nvidia</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screens-in-w11-version/"><u>Correcting Upside Down Screens in W11 Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-blackout-post-windows-upgrade-issue/"><u>Ending Blackout Post-Windows Upgrade Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-stop-spellbreak-from-freezing-on-your-desktop-pc/"><u>Expert Tips to Stop Spellbreak From Freezing on Your Desktop PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-blank-page-to-book-9-ways-chatgpt-aids-writers/"><u>From Blank Page to Book: 9 Ways ChatGPT Aids Writers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-failed-with-error-0x8024c01c-in-modern-operating-systems/"><u>How to Fix 'Windows Update Failed with Error 0X802^4C01C' In Modern Operating Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/image-improvement-masterclass-top-apps-decoded/"><u>Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-and-budget-mp3-conversion-from-skype-talks/"><u>In 2024, Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-10-affectionate-emulators-for-android-and-3ds/"><u>In 2024, Top 10 Affectionate Emulators for Android and 3DS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-12-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-gratuite-mov-gif-convertereing-movepik/"><u>Online Gratuite Mov-Gif Convertereing - Movepik</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-density-setback-windows-11-troubleshoot/"><u>Screen Density Setback - Windows 11 Troubleshoot</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tech-assistance-no-more-trouble/"><u>Tech Assistance: No More Trouble</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-art-of-sound-visualization-combining-waveform-graphics-and-animation-techniques-in-premiere-pro/"><u>The Art of Sound Visualization Combining Waveform Graphics & Animation Techniques in Premiere Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2024-12-15T05:54:04.275Z
-updated: 2024-12-15T16:31:48.888Z
+date: 2025-01-04T05:59:31.201Z
+updated: 2025-01-10T02:31:14.618Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -87,10 +79,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -104,7 +92,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
@@ -116,6 +104,10 @@ Here is how to do it:
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
@@ -132,24 +124,28 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -166,7 +162,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
@@ -176,6 +172,10 @@ So you can try disabling fast startup to see if it does the trick:
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
@@ -207,22 +207,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-5-youtube-video-editor-alternatives-for-2024/"><u>[New] Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>[Updated] In 2024, Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unraveling-the-mysteries-of-instagrams-video-timeframe/"><u>[Updated] In 2024, Unraveling the Mysteries of Instagram's Video Timeframe</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-installation-of-wireless-lan-cards-in-desktop-operating-systems/"><u>Easy Installation of Wireless LAN Cards in Desktop Operating Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicating-flickers-on-pro-7-devices/"><u>Eradicating Flickers on Pro 7 Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-12-mini-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 12 mini Password? – Here are the Best Solutions | Stellar</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-nforce630a-with-new-os-compatibility/"><u>Harmonizing nForce630a with New OS Compatibility</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-x7b-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X7b Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-the-newest-canon-mx492-printer-drivers-on-pc-step-by-step/"><u>How to Install the Newest Canon MX492 Printer Drivers on PC - Step by Step</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-troubleshoot-fix-not-refreshing-fullscreen/"><u>Monitor Troubleshoot: Fix Not Refreshing Fullscreen</u></a></li>
-<li><a href="https://facebook.techidaily.com/spotlight-your-vacancies-a-facebook-technique/"><u>Spotlight Your Vacancies: A Facebook Technique</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/supercharge-your-screens-with-video-enhancer-v22-for-2024/"><u>Supercharge Your Screens with Video Enhancer (V2.2) for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/superior-visuals-achieved-geforce-210-driver-on-windows-os/"><u>Superior Visuals Achieved: GeForce 210 Driver on Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-for-gpu-fan-revival/"><u>Techniques for GPU Fan Revival</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-over-latency-in-win-1011-networks/"><u>Winning Over Latency in Win 10/11 Networks</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-highest-pay-per-view-pioneers/"><u>YouTube's Highest Pay Per View Pioneers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>[New] 2024 Approved Step-By-Step Guide MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-freezing-screen-in-win10-os/"><u>Cure Freezing Screen in Win10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-driver-43-problem-solved/"><u>Device Driver 43 - Problem Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-issue-windows-10-monitors-not-showing-all-windows/"><u>Eliminated Issue - Windows 10 Monitors Not Showing All Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-your-computers-networking-wi-fi-lan-card-setup-for-os-xwindows/"><u>Enhance Your Computer's Networking: Wi-Fi LAN Card Setup for OS X/Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/excellent-live-broadcast-services-featuring-local-channels-2024/"><u>Excellent Live Broadcast Services Featuring Local Channels 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-anomaly-resolved-in-display-driver-fix/"><u>GPU Anomaly Resolved in Display Driver Fix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations/"><u>In 2024, Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-truecaller-app-evaluation-features-benefits-and-performance/"><u>In-Depth Truecaller App Evaluation: Features, Benefits & Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/initiating-functional-screen-output-in-portables/"><u>Initiating Functional Screen Output in Portables</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-tdr-alert-opengl-error-now-armored/"><u>Overcome TDR Alert: OpenGL Error, Now Armored</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pros-and-cons-reviewing-nikon-d7500-for-2024/"><u>Pros & Cons Reviewing Nikon D7500 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-solving-youtubes-green-mishaps/"><u>Swiftly Solving YouTube's Green Mishaps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-comparison-samsung-galaxy-book-2-in-1-ultra-versus-the-apple-macbook-pro-for-elite-performance-insights-from-tech-experts-at-zdnet/"><u>Ultimate Comparison: Samsung Galaxy Book 2-in-1 Ultra Versus the Apple MacBook Pro for Elite Performance - Insights From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/yl-softwares-aya-arisugawa-collection-stunning-images-and-customizable-wallpapers-for-enthusiasts/"><u>YL Software's Aya Arisugawa Collection: Stunning Images and Customizable Wallpapers for Enthusiasts</u></a></li>
 </ul></div>
 

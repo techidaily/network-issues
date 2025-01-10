@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide"
-date: 2024-12-31T16:26:57.988Z
-updated: 2025-01-03T07:49:16.461Z
+date: 2025-01-06T02:34:10.264Z
+updated: 2025-01-09T19:42:22.802Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Option 1: Clean re-install NVIDIA 950
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -98,11 +98,11 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -155,21 +155,20 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>[Updated] The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-nvidiaintel-graphic-problem-a-win10-solution-found/"><u>Conquering NVIDIA/Intel Graphic Problem: A Win10 Solution Found</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cracking-the-code-a-deep-dive-into-why-chatgpt-evasion-tactics-have-fallen-offline/"><u>Cracking the Code: A Deep Dive Into Why ChatGPT Evasion Tactics Have Fallen Offline</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crafting-the-ideal-summer-edc-a-comprehensive-item-guide/"><u>Crafting the Ideal Summer EDC: A Comprehensive Item Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-changes-preserved-post-save/"><u>Display Changes Preserved Post-Save</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-output-stabilized/"><u>Display Output Stabilized</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-reduce-high-cpu-consumption-caused-by-windows-modules-installer-a-guide-with-11-effective-strategies/"><u>How to Reduce High CPU Consumption Caused by Windows Modules Installer: A Guide with 11 Effective Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-lut-creation/"><u>In 2024, Innovative Approaches to LUT Creation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-master-your-stream-utilizing-youtubes-av1-technology/"><u>In 2024, Master Your Stream Utilizing YouTube's AV1 Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>In 2024, The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-gpu-fan-stillness/"><u>Overcoming GPU Fan Stillness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-oddity-loading-lullaby/"><u>Overwatch Oddity: Loading Lullaby</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-backward-facing-window-errors-windows-7/"><u>Solving Backward-Facing Window Errors, Windows 7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-manual-for-simplified-live-streamers/"><u>The Essential Manual for Simplified Live Streamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-connecting-to-psn-determining-if-its-a-service-interruption/"><u>Trouble Connecting to PSN? Determining if It's a Service Interruption</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-wifi-woes-on-win-10-and-11/"><u>Winning WiFi Woes on WIN 10 & 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-full-spectrum-analysis-of-lgs-high-definition-screen-for-2024/"><u>[New] The Full Spectrum Analysis of LG’s High-Definition Screen for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-scheduling-zoom-on-android-a-step-by-step-approach/"><u>[Updated] Scheduling Zoom on Android A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audiovisual-allure-crafting-irresistible-podcast-previews/"><u>2024 Approved Audiovisual Allure Crafting Irresistible Podcast Previews</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-x6-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-screen-glitches-on-pro-7/"><u>Banishing Screen Glitches on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-challenges-in-win11/"><u>Conquering AMD Radeon R9 Driver Challenges in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-dilemma-dispersed-in-portable-unit/"><u>Dimming Dilemma Dispersed in Portable Unit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-to-address-memory-issues/"><u>Essential Strategies to Address Memory Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-from-a-plugged-in-speaker-that-isnt-working-in-windows/"><u>How to Restore Sound From a Plugged-In Speaker that Isn’t Working in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-troubleshooting-sync-issues/"><u>Navigate Through Troubleshooting Sync Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-kratoss-gameplay-glitch/"><u>Resolved: Kratos's Gameplay Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-intel-graphics-update-in-windows-7-pros-and-tips/"><u>Seamless Intel Graphics Update in Windows 7 Pros & Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-windows-11-playback-after-upgrade-woes-solved/"><u>Smooth Windows 11 Playback After Upgrade Woes Solved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-no-cost-innovative-image-design-tools/"><u>Top 5 No-Cost, Innovative Image Design Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tech-showcased-mwc-and-makeuseofs-choice/"><u>Top Tech Showcased: MWC & MakeUseOf's Choice</u></a></li>
 </ul></div>
 

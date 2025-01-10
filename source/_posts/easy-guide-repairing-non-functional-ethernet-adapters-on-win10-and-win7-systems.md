@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Repairing Non-Functional Ethernet Adapters on Win10 and Win7 Systems"
-date: 2024-12-29T03:41:15.081Z
-updated: 2025-01-03T08:42:58.307Z
+date: 2025-01-08T19:57:52.933Z
+updated: 2025-01-10T07:43:08.426Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Check the router and cable situations
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -74,13 +70,17 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -101,15 +101,15 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -118,10 +118,6 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -134,6 +130,10 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,19 +156,24 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-evolving-photographic-moments-into-sequential-action/"><u>2024 Approved Evolving Photographic Moments Into Sequential Action</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-on-resolving-issues-with-your-unresponsive-hp-bluetooth-keyboard/"><u>Expert Advice on Resolving Issues with Your Unresponsive HP Bluetooth Keyboard</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974435299-fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-nvidia-alert-causes-windows-stop/"><u>Fixed: Nvidia Alert Causes Windows Stop</u></a></li>
-<li><a href="https://win-net.techidaily.com/gerer-efficacement-vos-donnees-avec-les-sauvegardes-partielles-et-totales-tout-savoir-sur-la-fusion/"><u>Gérer Efficacement Vos Données Avec Les Sauvegardes Partielles Et Totales : Tout Savoir Sur La Fusion !</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/overcoming-technical-hurdles-in-iphone-xs-facial-detection/"><u>Overcoming Technical Hurdles in iPhone X's Facial Detection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-wow-glitch-no-519/"><u>Overcoming WoW Glitch No. 519</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/seamless-visuals-on-screen-zooming-into-clarity/"><u>Seamless Visuals on Screen Zooming Into Clarity</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/start-your-journey-to-savvy-social-analytics-on-facebook-for-2024/"><u>Start Your Journey to Savvy Social Analytics on Facebook for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-workings-of-drones-an-introduction-for-beginners/"><u>The Workings of Drones An Introduction for Beginners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-vidas-power-for-film-and-video-professionals-for-2024/"><u>Unveiling Vida's Power for Film and Video Professionals for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-audio-capturing-in-android-without-rooting-guide/"><u>[Updated] 2024 Approved Audio Capturing in Android - Without Rooting [Guide]</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>[Updated] In 2024, What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-failed-wingdx-protocol/"><u>Addressing Failed WinGDX Protocol</u></a></li>
+<li><a href="https://network-issues.techidaily.com/alleviate-monitor-flaws-and-errors/"><u>Alleviate Monitor Flaws and Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-newest-h390-usb-microphone-driver-supporting-windows-vista-to-windows-11/"><u>Download Newest H390 USB Microphone Driver Supporting Windows Vista to Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hdmi-cable-failure-laptop-ignored-by-tv/"><u>HDMI Cable Failure: Laptop Ignored by TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-use-the-hidden-finder-path-bar/"><u>How to Enable and Use the Hidden Finder Path Bar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improved-windows-image-crispness/"><u>Improved: Windows Image Crispness</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-x7b-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor X7b Phone Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-spark-10-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Spark 10 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/journey-through-the-past-with-these-leading-gba-console-emulators-for-windows-computers/"><u>Journey Through the Past With These Leading GBA Console Emulators for Windows Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-nonworking-internal-webcams-in-asus/"><u>Reactivating Nonworking Internal Webcams in Asus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sonic-speed-stalled-by-steady-stream/"><u>Sonic Speed Stalled by Steady Stream</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-windows-11-and-the-non-pairing-bluetooth-device-problem-of-2024/"><u>Step-by-Step Solutions for Windows 11 and the Non-Pairing Bluetooth Device Problem of 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-quelling-acer-screen-phosphor-flashes/"><u>Steps for Quelling Acer Screen Phosphor Flashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stepwise-tutorial-integrating-a-new-wireless-network-adapter-in-os-xwindows/"><u>Stepwise Tutorial: Integrating a New Wireless Network Adapter in OS X/Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-ambient-weathers-high-end-wireless-sensor-quality-meets-value/"><u>The Ultimate Verdict on Ambient Weather's High-End Wireless Sensor: Quality Meets Value</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-settings-pc/"><u>Unlock Hidden Display Settings, PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: Detect Failed for CGs"
-date: 2024-12-11T09:06:27.161Z
-updated: 2024-12-15T20:24:41.500Z
+date: 2025-01-06T07:50:06.176Z
+updated: 2025-01-10T02:14:16.952Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 2. [Update graphics card driver](#Solution2)
 3. [Delete the config.dat file of your game](#Solution3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Graphics Card and why this problem happens
 
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  If the problem persists, please try the following solutions until you find the way that works.
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -75,7 +83,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating driver, restart your PC, and open your game to see if it works.
@@ -85,7 +93,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -96,25 +104,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your PC and open your game again.
 
@@ -138,20 +138,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-perfect-your-unboxing-game-8-tips-from-experts/"><u>[New] In 2024, Perfect Your Unboxing Game 8 Tips From Experts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-shrinking-or-enlarging-images-on-your-iphone-effortlessly/"><u>[New] In 2024, Shrinking or Enlarging Images on Your iPhone Effortlessly</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-cultivate-community-interest-with-collaborative-lists/"><u>[Updated] Cultivate Community Interest With Collaborative Lists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-seekers-dream-the-ultimate-review-of-sj-cam-s6-for-2024/"><u>Action Seeker's Dream The Ultimate Review of SJ-CAM S6 for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-operational-amd-freesync/"><u>Enabling Operational AMD FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-visual-stutter-in-pro-7/"><u>Fixing Visual Stutter in Pro 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-control-your-system-keeping-windows-11-from-overriding-updates/"><u>How To Control Your System: Keeping Windows 11 From Overriding Updates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-t2-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo T2 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mouse-pointer-on-black-window-issue/"><u>Mouse Pointer On Black Window Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcame-gpu-installation-failure-now-ready-on-ws/"><u>Overcame GPU Installation Failure, Now Ready on WS</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/rescate-tus-archivos-perdidos-post-update-en-windows-11-guia-ilustrada-con-7-metodos-faciles-y-practicos/"><u>Rescate Tus Archivos Perdidos Post-Update en Windows 11: Guía Ilustrada Con 7 Métodos Fáciles Y Prácticos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-lcd-display-issues-in-notebooks/"><u>Resolving LCD Display Issues in Notebooks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-chat-with-this-simple-chrome-add-on-mastering-chatgpt/"><u>Revolutionize Your Chat With This Simple Chrome Add-On: Mastering ChatGPT</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tvs-blank-face-laptop-lights-on-despite-connection/"><u>TV's Blank Face, Laptop Lights On Despite Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-issue-unresponsive-to-changes/"><u>Win11 Display Issue: Unresponsive to Changes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrective-modifications-added-missing-amd-driver-to-pcs/"><u>[CORRECTIVE MODIFICATIONS] Added Missing AMD Driver to PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audience-accessibility-switching-from-srt-to-sub/"><u>[New] Audience Accessibility Switching From SRT to SUB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-voiceover-dynamics-for-stellar-ppt-presentations/"><u>[New] In 2024, Voiceover Dynamics for Stellar PPT Presentations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-se-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone SE</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-10t-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 10T 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://facebook.techidaily.com/control-who-sees-your-on-this-day-reminisces/"><u>Control Who Sees Your On This Day Reminisces</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-in-sight-nvidia-display-recovers-quickly/"><u>Fix in Sight: Nvidia Display Recovers Quickly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-p55t-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel P55T</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-gpu-issue-blank-monitor/"><u>Latest GPU Issue: Blank Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-glitch-windows-10s-full-screen-windows-unseen/"><u>Overcome Glitch: Windows 10'S Full Screen Windows Unseen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-opengl-disruption-nvidia-armored/"><u>Overcoming OpenGL Disruption - NVIDIA Armored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-the-power-of-macs-built-in-program-learn-how-to-utilize-preview-for-stunning-images/"><u>Unlocking the Power of Mac's Built-In Program - Learn How to Utilize Preview for Stunning Images</u></a></li>
 </ul></div>
 

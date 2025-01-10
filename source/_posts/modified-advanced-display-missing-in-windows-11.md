@@ -1,7 +1,7 @@
 ---
 title: "[Modified] Advanced Display Missing in Windows 11"
-date: 2024-12-22T06:01:54.165Z
-updated: 2024-12-25T03:39:49.207Z
+date: 2025-01-09T07:35:15.143Z
+updated: 2025-01-10T07:13:38.838Z
 tags:
   - win11
   - win10
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -53,23 +49,19 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -87,12 +79,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
@@ -102,6 +98,10 @@ Here’s how to do it:
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
@@ -122,19 +122,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-syncing-youtube-audio-to-film-compositions/"><u>[New] 2024 Approved Syncing YouTube Audio to Film Compositions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-a-compreenas-guide-to-high-quality-mov-recording-in-windows-10/"><u>[New] A Compreenas Guide to High-Quality MOV Recording in Windows 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-7-mac-friendly-video-players-reviewed/"><u>[New] Top 7 Mac-Friendly Video Players Reviewed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-win1110-now-lacks-amd-graphics-drivers/"><u>[RESOLVED] Win11/10 Now Lacks AMD Graphics Drivers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcast-prelude-platter-crafting-the-perfect-opening-tune/"><u>2024 Approved Podcast Prelude Platter Crafting the Perfect Opening Tune</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dark-souls-download-dilemnas/"><u>Dark Souls Download Dilemnas</u></a></li>
-<li><a href="https://network-issues.techidaily.com/invisible-display-laptop-hdmi-not-recognized-by-tv/"><u>Invisible Display: Laptop HDMI Not Recognized By TV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-webp-to-jpg-transformation-guide-for-2024/"><u>Optimal WebP-to-JPG Transformation Guide for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-hp-monitor-flicker-phenomenon/"><u>Preventing HP Monitor Flicker Phenomenon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-effective-ways-to-prevent-surveillance-from-brands-like-lg-samsung-sony-and-vizio-smart-tvs/"><u>Protect Your Privacy: Effective Ways to Prevent Surveillance From Brands Like LG, Samsung, Sony & Vizio Smart TVs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/transforming-visuals-on-win10-with-newest-amd-graphics-drivers/"><u>Transforming Visuals on Win10 with Newest AMD Graphics Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-repair-mfplatdll-not-detected-issues-with-ease/"><u>Troubleshoot and Repair 'mfplat.dll' Not Detected Issues with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>[Updated] In 2024, Twitter's Wild Ride The Hottest Tweets Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[Updated] Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-movavi-video-converter-gratis-affidabile-completa-and-senza-costi/"><u>Download Movavi Video Converter Gratis - Affidabile, Completa & Senza Costi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxwindowlock-up-error-windows-fix-ready/"><u>GfxWindowLock Up Error, WIndows Fix (Ready)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-m6-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco M6 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-se-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone SE using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-note-50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Note 50 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-configuration-for-correct-fullscreen-display/"><u>Monitor Configuration for Correct Fullscreen Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-displays-error-inadequate-graphics-hardware/"><u>Overwatch Displays Error: Inadequate Graphics Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/prevention-and-solutions-for-frozen-windows-notepad-state/"><u>Prevention and Solutions for Frozen Windows Notepad State</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-for-nvidia-related-windows-stoppage/"><u>Successful Fix for Nvidia-Related Windows Stoppage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138573564-9781462006601-the-nature-of-belonging/"><u>The Nature of Belonging | Free Book</u></a></li>
 </ul></div>
 

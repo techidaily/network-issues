@@ -1,7 +1,7 @@
 ---
 title: Fix Flaws in Windows Mgmt Sys – Reveal Hidden NVIDIA
-date: 2025-01-02T05:10:12.214Z
-updated: 2025-01-03T08:57:45.446Z
+date: 2025-01-08T07:26:21.723Z
+updated: 2025-01-10T01:54:58.309Z
 tags:
   - win11
   - win10
@@ -20,20 +20,12 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/device-manager-graphics-card.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 1. **[Show Hidden Devices and Reinstall Graphics Driver Manually](#h-method-1-show-hidden-devices-and-reinstall-graphics-driver-manually)**
 2. **[Update the NVIDIA Graphics Driver](#h-method-2-update-the-nvidia-graphics-driver)**
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
@@ -44,19 +36,15 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
@@ -71,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
 
@@ -87,18 +79,26 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
  (Note: This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day trial period with access to premium features like high-speed downloads and one-click installations. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
@@ -120,18 +120,24 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-of-the-12-restoring-hidden-videos-posted-on-facebook/"><u>[Updated] 2024 Approved Secrets of the 12 Restoring Hidden Videos Posted on Facebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/apex-hack-proofing-guide-instant-troubleshooting/"><u>Apex Hack-Proofing Guide: Instant Troubleshooting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/current-guide-accessing-and-applying-gpt-4-in-chatgpt/"><u>Current Guide: Accessing and Applying GPT-4 in ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-superior-efficiency-ubuntu-triumphs-over-windows-11-for-the-latest-amd-equipped-laptops/"><u>Discover Superior Efficiency: Ubuntu Triumphs Over Windows 11 for the Latest AMD-Equipped Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphones-acting-up-heres-how-to-silence-the-crackles-swiftly-and-efficiently/"><u>Headphones Acting Up? Here's How to Silence the Crackles Swiftly & Efficiently</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-c02-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia C02 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-windows-1s-new-era-embracing-the-microsoft-store-over-desktop-programs/"><u>Navigating Windows 1#'S New Era: Embracing the Microsoft Store Over Desktop Programs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quickly-fixed-qualcomms-atheros-wi-fi-drivers-on-win11/"><u>Quickly Fixed Qualcomm's Atheros Wi-Fi Drivers on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-slim-monitor-glitches-in-win11/"><u>Resolved Slim Monitor Glitches in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shine-and-shimmer-no-more-dells-new-normal/"><u>Shine and Shimmer No More: Dell's New Normal</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974224760-step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sundial-of-success-mondlylanguages-two-year-visionary-quest/"><u>Sundial of Success: MondlyLanguages' Two-Year Visionary Quest</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-enhanced-viewport-management/"><u>Windows 11: Enhanced Viewport Management</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-learn-to-edit-videos-professionally-using-inshot/"><u>[New] Learn to Edit Videos Professionally Using Inshot</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-valorant-crash-at-startup-directx-compatibility/"><u>[RESOLVED] Valorant Crash at Startup - DirectX Compatibility</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-and-panache-advanced-tiktok-editing-skills/"><u>[Updated] Precision and Panache Advanced TikTok Editing Skills</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-dreamcolor-spectrum-redefined-insight-into-the-z32x-monitor/"><u>[Updated] The DreamColor Spectrum Redefined Insight Into the Z32X Monitor</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-7-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-lack-of-brightness-on-lenovo-screens/"><u>Addressing Lack of Brightness on Lenovo Screens</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/appointment-of-neil-murphy-as-cso-how-abbyy-strengthens-its-executive-team/"><u>Appointment of Neil Murphy as CSO: How ABBYY Strengthens Its Executive Team</u></a></li>
+<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-drivers-rectified-in-win11-update/"><u>Atheros Wi-Fi Drivers Rectified in Win11 Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-disappearance-fresh-gpu-setup/"><u>Display Disappearance: Fresh GPU Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flaky-video-drivers-prevents-mc-crash/"><u>Fixing Flaky Video Drivers Prevents MC Crash</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-win11-ghost-cursor-problem/"><u>Fixing Win11 Ghost Cursor Problem</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-accessing-fb-video-on-apple-tv-step-by-step-guide/"><u>In 2024, Accessing FB Video on Apple TV Step by Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-cure-amd-in-eft-gameplay/"><u>Instant Cure: AMD in EFT Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-improve-intellgraphics-g3000-on-windows-11/"><u>Quickly Improve IntellGraphics G3000 on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-graphic-device-functionality-winos/"><u>Restored Graphic Device Functionality - WinOS</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-replacing-damaged-parts-in-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Damaged Parts in Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211309122--the-zodiac-year/"><u>The Zodiac Year | Free Book</u></a></li>
 </ul></div>
 

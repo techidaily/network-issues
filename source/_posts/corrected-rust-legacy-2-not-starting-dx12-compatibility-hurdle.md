@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle"
-date: 2024-12-19T03:43:55.379Z
-updated: 2024-12-25T03:53:16.444Z
+date: 2025-01-06T23:03:03.060Z
+updated: 2025-01-10T03:13:30.311Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -73,6 +73,10 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -111,15 +115,11 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
@@ -153,7 +153,7 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -178,22 +178,16 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-snap-happy-with-iphone-burst-mode/"><u>[New] In 2024, Snap-Happy with iPhone Burst Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-maximizing-your-iphones-photographic-features/"><u>[Updated] Expert Advice for Maximizing Your iPhone's Photographic Features</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-schedule-meetings-on-zoom-webdesktopmobile-for-2024/"><u>[Updated] How to Schedule Meetings on Zoom [Web/Desktop/Mobile] for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-sustaining-a-day-job-while-building-your-online-presence/"><u>[Updated] In 2024, Sustaining a Day Job While Building Your Online Presence</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/boost-your-data-management-leveraging-the-power-of-simplified-recovery-in-sql-servers/"><u>Boost Your Data Management: Leveraging the Power of Simplified Recovery in SQL Servers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bug-fixes-ms-basic-render-for-windows-versions-11-7/"><u>Bug Fixes: MS Basic Render for Windows Versions 11-7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-windows-7-screen-flip-error/"><u>Correcting Windows 7 Screen Flip Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/desktop-displays-down-troubleshoot-guide/"><u>Desktop Displays Down? Troubleshoot Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung ?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-evaluating-the-functionality-of-vidma-screen-replayer/"><u>In 2024, Evaluating the Functionality of Vidma Screen Replayer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-flip-armageddon-averted/"><u>Laptop Screen Flip: Armageddon Averted</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-enter-to-nvidia-config-menu/"><u>Resolved: Enter to Nvidia Config Menu</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-fixing-r6-black-screen-problems-on-your-computer/"><u>Step-by-Step Solution for Fixing R6 Black Screen Problems on Your Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-rapid-screen-changes-in-acer-models/"><u>Troubleshooting Rapid Screen Changes in Acer Models</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10plus-best-podcast-player-apps-for-iphone-and-android/"><u>Updated In 2024, 10+ Best Podcast Player Apps for iPhone and Android</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-blackout-ended-now/"><u>Window's 10 Blackout: Ended Now</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-unexpectedly-missing-wi-fi/"><u>Windows 11: Unexpectedly Missing Wi-Fi?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-enable-speech-to-text-in-powerpoint-a-step-by-step-guide/"><u>[Updated] How to Enable Speech-to-Text in PowerPoint A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-how-to-get-your-logitech-g533-mic-up-and-running-again/"><u>DIY Troubleshooting: How To Get Your Logitech G533 Mic Up And Running Again</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-vlogging-effective-use-of-jump-cuts/"><u>Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-can-i-post-a-video-between-twitter-and-tumblr/"><u>How Can I Post a Video Between Twitter and Tumblr?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-limitations-in-unsupported-freesync-setup/"><u>Overcoming Limitations in Unsupported FreeSync Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win7-display-jitter/"><u>Overcoming Win7 Display Jitter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-avi-to-gif-transformation-in-filmora-for-2024/"><u>Quick AVI to GIF Transformation in Filmora for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-system-graphics-update-on-windows/"><u>Streamlining System Graphics Update on Windows</u></a></li>
 </ul></div>
 
