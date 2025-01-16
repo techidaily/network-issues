@@ -1,7 +1,7 @@
 ---
 title: Precise Adjustment for LCD Aspect Ratios
-date: 2025-01-03T04:54:37.536Z
-updated: 2025-01-10T07:00:07.904Z
+date: 2025-01-11T23:46:43.531Z
+updated: 2025-01-15T16:49:41.853Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 3. [**Gently wipe the screen with cotton balls**](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -44,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -76,10 +72,14 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
@@ -90,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -125,16 +125,24 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-exploring-digital-marketing-frontiers-the-metaverse-for-2024/"><u>[New] Exploring Digital Marketing Frontiers The Metaverse for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-depth-assessment-the-dji-quadcopter-model-3/"><u>[Updated] In-Depth Assessment The DJI Quadcopter Model 3</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-adobe-cloud-essentials-and-top-alternatives/"><u>[Updated] Mastering Adobe Cloud Essentials & Top Alternatives</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-backlit-display-blinks/"><u>Banish Backlit Display Blinks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-error-alert-win-stops-due-to-nvidia-issue/"><u>Fixed Error Alert - Win Stops Due to NVIDIA Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-checkout-successful-on-nvidia-installer/"><u>Hardware Checkout Successful on NVIDIA Installer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-card-camouflage-unveiled-system-hub-solution/"><u>NVIDIA Card Camouflage Unveiled - System Hub Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/refresh-frequencies-how-they-shape-user-experience/"><u>Refresh Frequencies: How They Shape User Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-silence-diagnosing-darkness/"><u>Screen Silence: Diagnosing Darkness</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sharpen-the-tongue-top-3-mental-workouts-for-easier-learning/"><u>Sharpen the Tongue: Top 3 Mental Workouts for Easier Learning</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-key-tracking-devices-finding-the-perfect-one/"><u>Top-Rated Key Tracking Devices : Finding the Perfect One</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieving-proficiency-comprehensive-photoshop-hdr-tutorial/"><u>[Updated] Achieving Proficiency Comprehensive Photoshop HDR Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[Updated] Financial Forecasts in Focus Select Stock YouTube Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sierras-cloud-essentials-drives-full-access-guide/"><u>[Updated] Sierra's Cloud Essentials Drives Full Access Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocket-to-partner-status-crush-that-critical-10000-view-benchmark/"><u>[Updated] Skyrocket to Partner Status Crush that Critical 10,000-View Benchmark</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974453129-accelerate-your-graphical-display-experience-update-intels-hd-graphics-to-windows-10/"><u>Accelerate Your Graphical Display Experience: Update Intel's HD Graphics to Windows 10.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-media-manager-for-dvds-and-online-content-transforming-your-movies-from-youtube-downloads-to-dvd/"><u>Comprehensive Media Manager for DVDs & Online Content: Transforming Your Movies From YouTube Downloads to DVD</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-wow-malfunction-no-519/"><u>Conquering WoW Malfunction No. 519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-screen-horizon-lines/"><u>Eliminate Screen Horizon Lines</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a18-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A18</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-absence-of-rockalldll-in-windows-os/"><u>Fixes for Absence of Rockalldll in Windows OS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fixing-windows-network-card-problems-a-step-by-step-guide-by-yl-computing/"><u>Fixing Windows Network Card Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-a15-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy A15 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refine-visual-clarity-on-latest-windows-11/"><u>Refine Visual Clarity on Latest Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-vertical-calibration-on-computers/"><u>Streamline Vertical Calibration on Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-installation-no-complaints-for-nvidia/"><u>Successful Installation, No Complaints for NVIDIA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-nvidia-rtx-3080-glitches-in-games/"><u>Taming NVIDIA RTX 3080 Glitches in Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-eradicate-hp-screensaver-glare/"><u>Techniques to Eradicate HP Screensaver Glare</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ultimate-guide-full-system-backup-on-windows-10-using-top-rated-free-tools/"><u>Ultimate Guide: Full-System Backup on Windows 10 Using Top-Rated Free Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visuals-preserved-after-update-attempt/"><u>Visuals Preserved After Update Attempt</u></a></li>
 </ul></div>
 

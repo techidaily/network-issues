@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Display's Pixels: A Simple Guide to Check Screen Resolution"
-date: 2025-01-05T17:01:28.106Z
-updated: 2025-01-10T03:57:53.823Z
+date: 2025-01-10T00:27:38.438Z
+updated: 2025-01-15T23:37:52.567Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ If you’re wondering what the screen resolution is on your Windows 10/8/7 compu
 Check out this post and you’ll know in a heartbeat! 🙂
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Content
@@ -40,14 +40,10 @@ Check out this post and you’ll know in a heartbeat! 🙂
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87aa3650e32.jpg)
 2. Scroll down to**Resolution** and voila! Now you can select from the drop-down menu to change the screen resolution the way you’d like it to.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ac0c1fb10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Windows 8/7:** 
@@ -56,11 +52,11 @@ Check out this post and you’ll know in a heartbeat! 🙂
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ab630af7b.jpg)
 2. Check your screen resolution in**Resolution** ! Now you can select from the drop-down menu to change the screen resolution the way you’d like it to.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ad6d7e8a9.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ad6d7e8a9.jpg)
 
 ---
 
@@ -83,7 +79,11 @@ Check out this post and you’ll know in a heartbeat! 🙂
 3. You can upgrade to [**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -109,22 +109,16 @@ Check out this post and you’ll know in a heartbeat! 🙂
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook/"><u>[New] The Key to Earning on YouTube In-Depth Ad Revenue Guidebook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-guru-setup-opt-for-studio-or-beta-option/"><u>[New] YouTube Guru Setup Opt for Studio or Beta Option</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-deciphering-numbers-an-introduction-to-facebook-insight/"><u>[Updated] Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-underestimated-aspects-of-instagram-for-2024/"><u>[Updated] Mastering the Underestimated Aspects of Instagram for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-in-depth-look-at-worlds-best-live-streaming-sites/"><u>2024 Approved In-Depth Look at World's Best Live Streaming Sites</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-wi-fi-driver-fix-confirmed-for-windows-11/"><u>Atheros QCA61x4 Wi-Fi Driver Fix Confirmed for Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/combat-lag-in-virtual-building-game-pc/"><u>Combat Lag in Virtual Building Game PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-spark-10c-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Spark 10C? Try These Fixes</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/high-quality-ford-galaxie-500-desktop-backgrounds-by-yl-computing-professional-digital-media/"><u>High-Quality Ford Galaxie 500 Desktop Backgrounds by YL Computing - Professional Digital Media</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-display-not-reacting-repair-successful/"><u>Lenovo Display Not Reacting - Repair Successful</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nightfall-on-screen-with-new-driver/"><u>Nightfall on Screen with New Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-hassle-instant-guide-to-removing-win-system-graphic-drivers/"><u>No Hassle: Instant Guide to Removing Win System Graphic Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-oscillating-screen-woes-in-pro-7/"><u>Overcoming Oscillating Screen Woes in Pro 7</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/premium-android-photography-alterations-for-2024/"><u>Premium Android Photography Alterations for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gdrivererr22-issue/"><u>Resolved GDRIVER_ERR#22 Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-full-potential-fixing-radeon-r9-drivers-in-win11/"><u>Unleashing Full Potential: Fixing Radeon R9 Drivers in Win11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-revenue-verification-confirming-pro-rated-earnings/"><u>[New] 2024 Approved YouTube Revenue Verification Confirming Pro-Rated Earnings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-handheld-film-smoother-companion-2022/"><u>[New] Handheld Film Smoother Companion 2022</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discontinuing-instant-recording-on-quicktime/"><u>[Updated] 2024 Approved Discontinuing Instant Recording on QuickTime</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-bug-effective-fixes-for-windows-device-managers-code-groan-error/"><u>Beat the Bug: Effective Fixes for Windows Device Manager’s Code Groan Error</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bypassing-youtube-previews-the-invisible-button-hack/"><u>Bypassing YouTube Previews The Invisible Button Hack</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/comment-conservez-vos-donnees-pc-sur-un-disque-duro-nas-de-qnap-avec-windows-10/"><u>Comment Conservez Vos Données PC Sur Un Disque Duro NAS De QNAP Avec Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminated-stretching-effect-on-extended-windows-views/"><u>Eliminated Stretching Effect on Extended Windows Views</u></a></li>
+<li><a href="https://network-issues.techidaily.com/frequent-wi-fi-hiccups-no-fix-yet/"><u>Frequent Wi-Fi Hiccups, No Fix Yet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>In 2024, Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refresh-intel-graphics-support-for-windows-users/"><u>Refresh Intel Graphics Support for Windows Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-upside-down-in-windows-10-fixed/"><u>Screen Upside Down in Windows 10 [Fixed]</u></a></li>
 </ul></div>
 

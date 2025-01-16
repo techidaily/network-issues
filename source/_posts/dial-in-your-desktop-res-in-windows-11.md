@@ -1,7 +1,7 @@
 ---
 title: Dial-In Your Desktop Res In Windows 11
-date: 2025-01-04T00:41:34.516Z
-updated: 2025-01-09T19:17:11.712Z
+date: 2025-01-11T19:41:59.676Z
+updated: 2025-01-15T20:37:31.201Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -48,11 +44,19 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -74,23 +78,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -106,15 +106,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,22 +148,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhancing-streaming-quality-using-obs-plus-zoom/"><u>2024 Approved Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-blueprint-of-movies-a-scripts-role/"><u>2024 Approved The Blueprint of Movies A Script's Role</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerating-win-network-speeds-post-update/"><u>Accelerating WIN NETWORK Speeds Post-Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/access-denied-heres-how-you-can-reveal-and-answer-blocked-numbers-on-ios-devices/"><u>Access Denied? Here's How You Can Reveal and Answer Blocked Numbers on iOS Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-light-intensity-of-lenovo-screens/"><u>Enhancing Light Intensity of Lenovo Screens</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/enhancing-profile-photo-impact-for-2024/"><u>Enhancing Profile Photo Impact for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/epic-games-troubleshooting-on-pc-focus-on-login-issues/"><u>Epic Games Troubleshooting on PC: Focus on Login Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-gpu-fixed-opengl-glitch-resolved/"><u>Nvidia GPU Fixed: OpenGL Glitch Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974886685-rapid-refresh-of-the-intellg3000-on-win11-systems/"><u>Rapid Refresh of the IntellG3000 on Win11 Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedy-for-surface-pro-7-screens/"><u>Remedy for Surface Pro 7 Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-dilemma-fixing-windows-update-error-code-80070103/"><u>Resolving the Dilemma: Fixing Windows Update Error Code 80070103</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revived-lenovo-interactive-screen-functionality/"><u>Revived Lenovo Interactive Screen Functionality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/settings-successfully-overwritten/"><u>Settings Successfully Overwritten</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlining-your-youtube-background-fixes/"><u>Streamlining Your YouTube Background Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/syncing-your-soundtrack-import-music-into-inshot-for-2024/"><u>Syncing Your Soundtrack Import Music Into InShot for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-hdmi-conflict-between-laptop-and-tv/"><u>[Resolved] HDMI Conflict Between Laptop and TV</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premier-mobile-platforms-the-best-selection-of-android-emulators-for-playstation-2/"><u>[Updated] 2024 Approved Premier Mobile Platforms The Best Selection of Android Emulators for PlayStation 2</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quickcapture-elite-speed-focused-windowsmac-tool-for-2024/"><u>[Updated] QuickCapture Elite Speed-Focused Windows/Mac Tool for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-youtuber-wealth-wonders/"><u>[Updated] Ultimate Youtuber Wealth Wonders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aiffwavmovavi/"><u>簡便優雅的AIFF至WAV格式改變：Movavi無限制線上轉換器指南</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-key-to-unlocking-youtubes-editorial-haven/"><u>In 2024, The Key to Unlocking YouTube’s Editorial Haven</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-display-post-graphic-card-change/"><u>Invisible Display Post Graphic Card Change</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigating-screencastifys-screen-capture-feature-for-2024/"><u>Navigating Screencastify's Screen Capture Feature for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-latest-boost-win11-with-rtx210-driver-release/"><u>NVIDIA's Latest: Boost Win11 with RTX210 Driver Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-leap-next-gen-drivers-elevate-win11-experience/"><u>NVIDIA's Leap: Next-Gen Drivers Elevate Win11 Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-screen-resolution-no-more-problems-with-win-10/"><u>Optimizing Screen Resolution - No More Problems with Win 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-sound-gear-matching-mics-with-4k-cameras-for-2024/"><u>The Best Sound Gear Matching Mics with 4K Cameras for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unplugged-not-worried-the-ecoflow-batterys-role-in-keeping-my-home-alive-during-severe-outages/"><u>Unplugged Not Worried: The EcoFlow Battery's Role in Keeping My Home Alive During Severe Outages</u></a></li>
+<li><a href="https://common-error.techidaily.com/verdict-drivers-refrain-from-supporting-opengl/"><u>Verdict: Drivers Refrain From Supporting OpenGL</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-dark-screen-fix-update/"><u>Windows 10 Dark Screen Fix Update</u></a></li>
 </ul></div>
 

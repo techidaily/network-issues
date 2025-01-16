@@ -1,7 +1,7 @@
 ---
 title: Resolving Save Failure in System's Display Settings
-date: 2025-01-08T05:50:31.564Z
-updated: 2025-01-10T02:10:29.766Z
+date: 2025-01-12T16:46:54.621Z
+updated: 2025-01-15T19:03:59.064Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd02e58a9310.jpg)
 
  If you keep getting the**Unable to save display settings** error when trying to connect your PC to more than one display, you’re not alone. The good news is, it’s usually not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Unable to save display settings
 
@@ -42,20 +46,20 @@ To do so:
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -72,15 +76,11 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
 
@@ -105,19 +105,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-dxgkrnlsys-triggering-winos-bsod-error/"><u>[Fix]: dxgkrnl.sys Triggering WinOS BSOD Error</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>[New] Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-smart-shopping-for-data-stores-the-lowdown-on-price/"><u>[New] Smart Shopping for Data Stores The Lowdown on Price</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>[Updated] Make Each Second Count Engaging Activities that Blend Learning and Multitasking</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-pova-5-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-tricks-to-turn-off-youtube-videos-without-compromise/"><u>2024 Approved Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-youtube-on-facebook-the-art-of-video-creation/"><u>In 2024, Mastering YouTube on Facebook The Art of Video Creation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/scoping-out-superior-cloud-platforms-for-secure-storing-for-2024/"><u>Scoping Out Superior Cloud Platforms for Secure Storing for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-lenovo-visual-vibrations/"><u>Tackling Lenovo Visual Vibrations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/timeless-80s-effects-boosting-creative-videos-for-2024/"><u>Timeless 80S Effects Boosting Creative Videos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-update-qualcomm-atheros-driver-compatibility/"><u>Windows 10 Update: Qualcomm Atheros Driver Compatibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-no-network-interface-for-wireless-in-windows-10/"><u>[FIXED] No Network Interface for Wireless in Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sonic-boom-new-technology-reviewed/"><u>[Updated] 2024 Approved Sonic Boom New Technology Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-achieving-affiliate-success-with-online-videos/"><u>2024 Approved Achieving Affiliate Success with Online Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>2024 Approved Glowing with HD Does It Serve the Scope of HDR Well?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-visual-leap-the-newest-win10-compatible-driver-from-nvidia-210/"><u>A Visual Leap: The Newest WIN10-Compatible Driver From Nvidia 210</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-screen-quality-with-the-latest-display-driver-installations/"><u>Boost Your Screen Quality with the Latest Display Driver Installations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-nvidia-unresponsive-now-functional/"><u>Driver NVidia Unresponsive, Now Functional</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-x-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone X iCloud Bypass</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2016-file-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2016 File?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-asus-rog-phone-8-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Asus ROG Phone 8 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptops-lost-luster-looking-for-light/"><u>Laptop's Lost Luster, Looking for Light</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-found-partial-window-views-all-w10-windows-missing/"><u>Resolution Found: Partial Window Views, All W10 Windows Missing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211030906-9781734989861-the-way-of-the-grace-filled-heart/"><u>The Way of the Grace-filled Heart | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-post-creators-patching/"><u>Win11 Resume Post-Creators Patching</u></a></li>
 </ul></div>
 
