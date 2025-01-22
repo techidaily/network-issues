@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Civ 5 Freezes on Computer
-date: 2024-11-25T17:38:26.929Z
-updated: 2024-12-02T23:05:30.013Z
+date: 2025-01-16T23:24:06.830Z
+updated: 2025-01-21T16:26:57.224Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 ![civ 5 crash](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13785c7d494-300x246.jpg)
 
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 fixes for the CIV 5 crashing problem
 
@@ -44,17 +40,13 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -69,16 +61,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -92,18 +88,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -128,22 +128,15 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>[Updated] 2024 Approved Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[Updated] In 2024, The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-streamers-dilemma-obs-or-twitch-studio/"><u>2024 Approved The Ultimate Streamer's Dilemma OBS or Twitch Studio?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/automate-your-furry-friends-diet-using-arf-smart-pet-feeders/"><u>Automate Your Furry Friend’s Diet Using Arf Smart Pet Feeders</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-facts-about-hulu-versus-hulu-plus-subscriptions/"><u>Essential Facts About Hulu Versus Hulu Plus Subscriptions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-tips-to-correct-laptop-screen-horizontal-distortions/"><u>Expert Tips to Correct Laptop Screen Horizontal Distortions</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-15-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 15 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-google-pixel-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Google Pixel 8 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>In 2024, From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wow-hurdle-smasher-fault-code-51900319/"><u>WoW Hurdle Smasher: Fault Code 51900319</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-batch-background-erasure-in-affinity-photo/"><u>[New] Mastering Batch Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-enabled-features-enhancing-user-experience-with-smart-tracking/"><u>Cookiebot-Enabled Features: Enhancing User Experience with Smart Tracking</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oad-mastery-11-key-youtube-extractors-for-2024/"><u>Download Mastery 11 Key YouTube Extractors for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhaue-hybrid-graphics-sync-windows-11-solves-issues/"><u>Overhaue Hybrid Graphics Sync: Windows 11 Solves Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refinement-of-civilization-v-on-windows-pc/"><u>Refinement of Civilization V on Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reflecting-on-two-decades-with-microsoft-mary-jo-foleys-insightful-journey-at-zdnet/"><u>Reflecting on Two Decades with Microsoft - Mary Jo Foley's Insightful Journey at ZDNet</u></a></li>
+<li><a href="https://discover-data.techidaily.com/resolve-hulu-error-p-dev318-promptly-effective-troubleshooting-steps/"><u>Resolve Hulu Error P-DEV318 Promptly: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-the-hdmi-audio-issue-when-hooking-up-your-pc-to-a-display/"><u>Troubleshooting Steps: Solving the HDMI Audio Issue When Hooking Up Your PC to a Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-advanced-visuals-on-pc-win10/"><u>Unlock Advanced Visuals on PC (Win10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-streaming-addressing-common-audiovideo-hiccups/"><u>Win10 Streaming: Addressing Common Audio/Video Hiccups</u></a></li>
 </ul></div>
 

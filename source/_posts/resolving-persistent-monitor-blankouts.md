@@ -1,7 +1,7 @@
 ---
 title: Resolving Persistent Monitor Blankouts
-date: 2024-11-30T22:05:07.927Z
-updated: 2024-12-03T04:17:35.242Z
+date: 2025-01-14T17:37:50.704Z
+updated: 2025-01-21T23:09:45.336Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 Many computer users have reported a problem that their monitor screen flickers or blinks randomly. If you’re also experiencing this problem, you’re no doubt very frustrated. But don’t worry. We’ve put together some suggestions to help you resolve your monitor flickering problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -44,6 +44,10 @@ Your monitor flickering issue may occur if you’re using a low refresh rate for
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e704e6a599.jpg)
 3. If you’re on**Windows 10** , click the**Display adapter properties** for your monitor. (Skip this step if you’re using another Windows system.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e7085d412e.jpg)
 4. Select the**Monitor** tab, then select a screen refresh rate that equals or is higher than**60 Hertz** .  
 
@@ -51,10 +55,6 @@ Your monitor flickering issue may occur if you’re using a low refresh rate for
 5. Click**OK** .
 
 Hopefully, this fixes your monitor flickering issue. But if not, there are three more fixes you can try…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -70,7 +70,7 @@ The flickering issues may occur because you’re using a wrong graphics driver o
 4. If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Perform a clean boot
@@ -85,11 +85,15 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST**) and click**Disable all** . After that, click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**OK** .
@@ -100,14 +104,10 @@ To do so:
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox**) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 12. Check to see if your flickering issue occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
@@ -115,19 +115,19 @@ To do so:
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 17. Check to see if your flickering issue occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
  If there’s any startup item that causes the flickering issue, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Check for hardware issues
 
@@ -151,20 +151,19 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harmonize-video-quality-with-instagrams-visual-theme/"><u>[New] In 2024, Harmonize Video Quality with Instagram's Visual Theme</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-directing-content-flow-uploading-imovie-films-to-youtube/"><u>[Updated] In 2024, Directing Content Flow Uploading IMovie Films to YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-invisible-stream-obstacles/"><u>Banishing Invisible Stream Obstacles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/barriers-to-success-unveiling-the-reasons-behind-teredos-non-qualification/"><u>Barriers to Success: Unveiling the Reasons Behind Teredo's Non-Qualification</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bridging-qca61x4a-wifi-driver-gaps-in-windows-10/"><u>Bridging QCA61x4A WiFi Driver Gaps in Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-utilizing-chatgpt-for-crafting-professional-email-communications/"><u>Effective Strategies: Utilizing ChatGPT for Crafting Professional Email Communications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-visual-performance-with-intel-update/"><u>Enhancing Visual Performance with Intel Update</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harness-the-power-of-dual-screen-on-apple-devices-via-safari/"><u>Harness the Power of Dual Screen on Apple Devices via Safari</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mystery-behind-rtx-crashes-in-high-end-gaming-pcs/"><u>Mystery Behind RTX Crashes in High-End Gaming PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-10-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-discord-overlay-issues-in-windows-environment/"><u>Resolving Discord Overlay Issues in Windows Environment</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-alignment-of-display-angles/"><u>Seamless Alignment of Display Angles</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/simplified-terms-for-users-today/"><u>Simplified Terms for Users Today</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-and-atheros-qualcomm-wifi-harmony-achieved/"><u>Win10 & Atheros Qualcomm WiFi Harmony Achieved</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-delving-deeply-into-obs-studios-capture-capabilities-for-2024/"><u>[New] Delving Deeply Into OBS Studio's Capture Capabilities for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causes-winos-bsod-error/"><u>[Resolved] dxgkrnl.sys Causes WinOS BSOD Error</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-studio-walkthrough-xstudio-reviewed/"><u>[Updated] Expert Studio Walkthrough XStudio Reviewed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-maximize-profits-the-top-13-no-experience-reddit-hacks/"><u>[Updated] In 2024, Maximize Profits The Top 13 No-Experience Reddit Hacks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds-for-2024/"><u>Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearer-screens-setup-in-latest-windows-11-os/"><u>Clearer Screens Setup in Latest Windows 11 OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y100 Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pixel-problem-gpu-search-failed/"><u>Pixel Problem: GPU Search Failed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-and-solid-fixing-atheros-qca61x4-drivers-on-windows-11/"><u>Secure and Solid: Fixing Atheros QCA61x4 Drivers on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-gpu-error-averted/"><u>Smooth Sailing: GPU Error Averted</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-audio-problems-in-audacity-top-5-fixes-for-sound-device-issues/"><u>Solve Audio Problems in Audacity: Top 5 Fixes for Sound Device Issues</u></a></li>
+<li><a href="https://techidaily.com/unlocking-windows-power-introducing-the-sudo-command-explained-and-usage-guide/"><u>Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-unveils-new-mini-games-learn-to-play/"><u>YouTube Unveils New Mini-Games; Learn to Play</u></a></li>
 </ul></div>
 

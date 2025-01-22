@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Notorious GTX 950 'Code 43' Issue in Windows 11: A Step-by-Step Solution"
-date: 2025-01-12T16:51:56.671Z
-updated: 2025-01-15T19:01:36.695Z
+date: 2025-01-19T18:26:22.821Z
+updated: 2025-01-22T06:49:21.388Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -61,11 +61,19 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -89,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,16 +155,19 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-playstation-palace-a-million-gaming-moves/"><u>[New] 2024 Approved PlayStation Palace A Million Gaming Moves</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-elite-imagery-the-finest-8k-camera-selections/"><u>[New] Elite Imagery The Finest 8K Camera Selections</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-tv-viewing-via-hdmi-laptop-connected-successfully/"><u>[Restored] TV Viewing via HDMI, Laptop Connected Successfully</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-essential-tips-for-maximizing-youtuber-profits-on-mobile/"><u>[Updated] 2024 Approved The Essential Tips for Maximizing YouTuber Profits on Mobile</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-update-and-download-tips-for-your-samsung-laptop-running-on-windows/"><u>Effortless Driver Update and Download Tips for Your Samsung Laptop Running on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-absence-in-sims-screens/"><u>Eliminate Absence in Sims' Screens</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96316623-9781401945527-healing-and-recovery/"><u>Healing and Recovery | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ninja-warrior-download-delayed/"><u>Ninja Warrior Download Delayed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-freeze-save-display-issue-resolved/"><u>Overcoming Freeze: Save Display Issue Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-error-22-graphics-driver/"><u>Resolved Error #22, Graphics Driver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-windows-hello-fingerprint-login-on-pc/"><u>Setting Up Windows Hello Fingerprint Login on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-the-pause-button-iphone-slow-mo-techniques/"><u>[New] In 2024, Mastering the Pause Button IPhone Slow Mo Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-the-ultimate-4-methods-for-gameplay-screens/"><u>[New] Step-By-Step The Ultimate 4 Methods for Gameplay Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-addressing-the-internet-disconnect-in-cod-cold-war/"><u>[REPAIRED] Addressing the Internet Disconnect in CoD Cold War</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cutting-to-the-chase-mastering-zoom-in-videoleap-videos/"><u>[Updated] Cutting to the Chase Mastering Zoom in Videoleap Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-quick-guide-to-retrieving-lost-data-from-your-laptops-hdd/"><u>1. Quick Guide to Retrieving Lost Data From Your Laptop's HDD</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-x100-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo X100 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-windows-graphics-by-installing-current-intel-drivers/"><u>Improve Windows Graphics by Installing Current Intel Drivers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-and-renew-vintage-footage/"><u>Revive and Renew Vintage Footage</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-for-changing-pc-icon-on-windows-versions-11-10-8-7/"><u>Step-by-Step Guide for Changing PC Icon on Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-video-experience-post-windows-10-upgrade/"><u>Uninterrupted Video Experience Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-driver-uninstalled-reinstate-windows-10-card/"><u>Wi-Fi Driver Uninstalled? Reinstate Windows 10 Card</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/wiederherstellung-verlorener-daten-von-usb-sticks-ohne-spezielle-software/"><u>Wiederherstellung Verlorener Daten Von USB-Sticks - Ohne Spezielle Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-missing-adjustments/"><u>Windows 11 Advanced Display Missing Adjustments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mov-ogv-movavi/"><u>オンラインで無料 MOV から OGV への優れた変換サービス - Movavi</u></a></li>
 </ul></div>
 

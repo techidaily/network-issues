@@ -1,7 +1,7 @@
 ---
 title: Eliminate Flicker on Win11 Displays
-date: 2025-01-02T16:20:19.445Z
-updated: 2025-01-09T21:27:07.544Z
+date: 2025-01-17T07:49:59.762Z
+updated: 2025-01-22T06:43:58.541Z
 tags:
   - win11
   - win10
@@ -65,7 +65,7 @@ There are mainly two ways to update your display driver:
 If the issue remains, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the refresh rate
@@ -80,14 +80,10 @@ If the issue remains, check out the next fix.
 3. For**Choose a refresh rate** , select a different refresh rate.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
@@ -101,19 +97,19 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
 4. Click**Uninstall** again to confirm your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
 
@@ -128,6 +124,10 @@ If the issue remains, check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
@@ -145,14 +145,10 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-accessibility-visual-effects.jpg)
 3. **Turn off** Animation effects.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-turn-off-animation-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if you’re still facing a flickering screen.
@@ -160,7 +156,7 @@ Check if you’re still facing a flickering screen.
 If this fix doesn’t do the trick, try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Disable hardware acceleration
@@ -172,10 +168,6 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-regedit.jpg)
 2. In Registry Editor, navigate to**HKEY\_CURRENT\_USER\\SOFTWARE\\Microsoft\\Avalon.Graphics** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Under Avalon.Graphics, on the right pane, check to see if there is a key named**DisableHWAcceleration** .  
 
@@ -196,12 +188,16 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Repair your system files
@@ -238,6 +234,10 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, check if your problem has been resolved.
 
 ---
@@ -261,22 +261,21 @@ Once done, check if your problem has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-beginners-guide-to-streaming-on-fb-live-2023/"><u>[New] In 2024, Beginner's Guide to Streaming on FB Live, 2023</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>[New] Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-windowcut-film-maker-for-2024/"><u>[New] WindowCut Film Maker for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elitepixel-recorder-winos-series-for-2024/"><u>[Updated] ElitePixel Recorder WinOS Series for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamlining-your-movie-file-processing-on-windows-11-pcs-for-2024/"><u>[Updated] Streamlining Your Movie File Processing on Windows 11 PCs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>2024 Approved Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-intelnvidia-switching-bug-in-windows-10-systems/"><u>Conquering Intel/NVIDIA Switching Bug in Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/considering-chatgpt-plus-subscription-learn-why-its-worth-the-price-with-these-aturdays-5-reasons/"><u>Considering ChatGPT Plus Subscription? Learn Why It's Worth the Price with These Aturdays 5 Reasons</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-launch-unsuccessful-repair-complete/"><u>D3D Launch Unsuccessful, Repair Complete</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disarrayed-displays-dilemma/"><u>Disarrayed Displays Dilemma</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortless-updates-for-enhanced-hp-officejet-performance/"><u>Effortless Updates for Enhanced HP Officejet Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/heroes-unleashed-sluggish-swap/"><u>Heroes Unleashed: Sluggish Swap</u></a></li>
-<li><a href="https://win-dash.techidaily.com/microsoft-windows-stereo-and-headset-drivers-immediate-download-available-now/"><u>Microsoft Windows Stereo and Headset Drivers: Immediate Download Available Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-atheros-qca61x4a-problems-on-windows-11/"><u>Resolve Atheros QCA61x4A Problems on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tweaking-win10-screen-size/"><u>Tweaking Win10 Screen Size</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-strategy-fixing-gpu-drivers-to-prevent-crashes/"><u>Winning Strategy: Fixing GPU Drivers to Prevent Crashes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-swiftly-stow-facebook-broadcasts-for-smartphonedesktop-users/"><u>[New] In 2024, Swiftly Stow Facebook Broadcasts for Smartphone/Desktop Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-client-speeches-transforming-marketing-narratives/"><u>2024 Approved Client Speeches Transforming Marketing Narratives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-roblox-interactivity-on-your-computer/"><u>Boost Roblox Interactivity on Your Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tip-swift-fix-for-apex-loot-mishaps/"><u>Expert Tip: Swift Fix for Apex Loot Mishaps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-how-t-mobile-handles-local-network-roaming/"><u>Exploring How T-Mobile Handles Local Network Roaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-incompatible-amd-freesync-sync-signal/"><u>Fixing Incompatible AMD FreeSync Sync Signal</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-flip-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Flip Phone with Broken Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-lockscreen-enabledisable-windows-spotlight/"><u>Master Your Lockscreen: Enable/Disable Windows Spotlight</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-nokia-c300-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Nokia C300</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/primary-record-breakdown-and-supplemental-choices-for-2024/"><u>Primary Record Breakdown and Supplemental Choices for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-display-issue-fullscreen-windows-11-shown-correctly/"><u>Rectified Display Issue - Fullscreen Windows 11 Shown Correctly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sync-music-and-visuals-the-art-of-canva-editing/"><u>Sync Music & Visuals The Art of Canva Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-unruly-monitor-refresh-rate/"><u>Taming the Unruly Monitor Refresh Rate</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-down-time-fix-apex-legends-crash/"><u>Zero Down Time: Fix Apex Legends Crash</u></a></li>
 </ul></div>
 

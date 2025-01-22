@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2025-01-14T21:28:44.299Z
-updated: 2025-01-15T18:38:16.510Z
+date: 2025-01-19T20:05:41.458Z
+updated: 2025-01-22T02:28:45.812Z
 tags:
   - win11
   - win10
@@ -20,18 +20,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -49,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -60,6 +56,10 @@ Be careful you don’t mistype, or press the wrong keys!
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
 
@@ -74,14 +74,14 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -105,7 +105,7 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -129,22 +129,22 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-hdr-editing-essentials-for-pc-users/"><u>[New] 2024 Approved HDR Editing Essentials for PC Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-methods-obs-streaming-onto-facebook/"><u>[New] In 2024, Superior Methods OBS Streaming Onto Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-srt-primer-for-enthusiasts/"><u>[New] In 2024, The Ultimate SRT Primer for Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[Updated] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-push-the-boundaries-of-snapchat-choose-from-these-best-edits/"><u>[Updated] Push the Boundaries of Snapchat Choose From These Best Edits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/avoiding-issues-graphics-cards-and-windows-8s-safe-mode-journey/"><u>Avoiding Issues: Graphics Cards and Windows 8'S Safe Mode Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/faux-friends-how-innocent-looking-apps-tax-your-windows-11/"><u>Faux Friends: How Innocent-Looking Apps Tax Your Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-sharp-window-display-on-pc/"><u>Fix: Sharp Window Display on PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-thrive-as-a-data-expert-5-key-strategies-for-success-unveiled-by-zdnet/"><u>How to Thrive as a Data Expert: 5 Key Strategies for Success Unveiled by ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-how-to-steer-clear-of-virtual-sickness/"><u>In 2024, How to Steer Clear of Virtual Sickness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-display-rotated-issue-resolved/"><u>Laptop Display Rotated - Issue Resolved</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-animation-drawing-made-easy-top-software-picks-and-beyond/"><u>New Animation Drawing Made Easy Top Software Picks and Beyond</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-interruptions-streaming-on-upgraded-windows-11/"><u>No More Interruptions: Streaming on Upgraded Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-flipback-displays-with-wins-11/"><u>Rectifying Flipback Displays with Wins 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-switchable-graphics-issue-with-intelnvidia-win10-fixes/"><u>Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974835330-secure-your-perfect-zoom-experience-no-more-camera-issues/"><u>Secure Your Perfect Zoom Experience, No More Camera Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tailor-screen-size-for-optimal-windows-11-use/"><u>Tailor Screen Size for Optimal Windows 11 Use</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrammashup-androidandios-video-tiles/"><u>[New] InstagramMashup Android&iOS Video Tiles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-optimal-strategies-for-youtube-to-mpeg-conversion/"><u>[New] Optimal Strategies for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030586372-aviutl/"><u>AviUtlを使用した簡単な動画編集：カットとトリミングのテクニック</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevating-trailers-through-musical-integration/"><u>Elevating Trailers Through Musical Integration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ensuring-optimal-conditions-for-intel-graphics-drivers/"><u>Ensuring Optimal Conditions for Intel Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-to-reactivate-hidden-hardware-in-pc/"><u>Guide to Reactivate Hidden Hardware in PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x50-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/"><u>How to Sync Your Smartphone with Chromecast for Ultimate Media Control</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lightning-fast-internet-fix-for-win-1110/"><u>Lightning-Fast Internet Fix for WIN 11/10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/notable-book-trailers-showcasing-stories-for-2024/"><u>Notable Book Trailers Showcasing Stories for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-issue-addressed-windows-ceases-operation/"><u>NVIDIA Issue Addressed - Windows Ceases Operation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/re-tune-your-ps5ps4-voice-settings-easily-for-2024/"><u>Re-Tune Your PS5/PS4 Voice Settings Easily for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-c1900101-during-windows-11-installation/"><u>Remedy for C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-c1900101-error-in-win11-setup/"><u>Resolving C1900101 Error in Win11 Setup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-screen-newer-gpus-mystery/"><u>Silent Screen: Newer GPU's Mystery?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-1110-driver-fix-ms-bd-update/"><u>Win 11/10 DRIVER Fix: MS BD Update</u></a></li>
 </ul></div>
 

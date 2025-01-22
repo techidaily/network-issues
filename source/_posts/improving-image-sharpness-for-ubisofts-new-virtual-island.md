@@ -1,7 +1,7 @@
 ---
 title: Improving Image Sharpness for Ubisoft's New Virtual Island
-date: 2025-01-13T20:59:22.146Z
-updated: 2025-01-15T17:56:59.077Z
+date: 2025-01-14T18:36:30.186Z
+updated: 2025-01-22T00:57:12.892Z
 tags:
   - win11
   - win10
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
 [4: Clean the DirectX cache](#fix4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 2. Right-click the game executable then select**Run as administrator** .
 
 If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -102,6 +102,10 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -119,15 +123,11 @@ If this doesn’t help, try the next fix.
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
@@ -135,13 +135,13 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t help, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
@@ -156,14 +156,14 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +187,22 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cutting-edge-techniques-recording-in-adobe-presenter/"><u>[Updated] In 2024, Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-today-changes-and-what-they-mean-for-you/"><u>[Updated] In 2024, Facebook Today Changes and What They Mean for You</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>[Updated] The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cleared-up-windows-stopped-due-to-nvidia-complaint/"><u>Cleared Up: Windows Stopped Due to Nvidia Complaint</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-comparing-return-policies-across-major-retailers-like-amazon-and-target/"><u>Comprehensive Guide: Comparing Return Policies Across Major Retailers Like Amazon & Target</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easily-elevate-intels-graphics-3000-on-ws11/"><u>Easily Elevate Intel's Graphics 3000 on WS11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-smooth-operation-geforce-and-win11-together/"><u>Ensuring Smooth Operation: GeForce & Win11 Together</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mp4movavivegas-pro/"><u>MP4・MOV・AVIなどの動画形式を処理できるようにするVEGAS Proの解決策</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-amd-graphics-hurdle-fast/"><u>Overcome AMD Graphics Hurdle Fast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-bloodhunt-how-to-stop-it-from-freezing-or-crashing-on-windows/"><u>Overcoming Technical Hurdles in BloodHunt: How to Stop It From Freezing or Crashing on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-sailing-installation-of-wi-fi-expansion-cards-on-desktops/"><u>Smooth Sailing: Installation of Wi-Fi Expansion Cards on Desktops</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-common-issues-fixing-c1900101-error-in-windows-11/"><u>Solving Common Issues: Fixing C1900101 Error in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-encyclopedia-for-decoding-blue-screen-error-messages/"><u>The Definitive Encyclopedia for Decoding Blue Screen Error Messages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-woes-the-story-of-vanished-signal-on-windows-11/"><u>Wi-Fi Woes: The Story of Vanished Signal on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-elevated-performance-discover-the-power-of-amd-radeon-hd-6950-update-v20/"><u>Windows 10 Elevated Performance: Discover the Power of AMD Radeon HD 6950 Update V2.0</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-hexa-copter-ranks-unveiled/"><u>[Updated] 2024 Approved Ultimate Hexa-Copter Ranks Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-skype-calls-with-advanced-zoom-use/"><u>2024 Approved Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-review-of-line-application-is-it-worth-your-time/"><u>Detailed Review of Line Application - Is It Worth Your Time?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct2d-not-active-armor-applied/"><u>Direct2D Not Active, Armor Applied</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-windows-10-screen-image-flip-fix/"><u>Enhancing Windows 10 Screen Image Flip Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10s-erroneous-code-c1900101/"><u>Fixing Windows 10'S Erroneous Code: C1900101</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxsystem-crash-on-windows-screen-patch-ready/"><u>GFXSystem Crash on Windows Screen (Patch Ready)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-fix-unrecognized-scanner-issues-in-windows-tips-from-yl-computing/"><u>How to Fix Unrecognized Scanner Issues in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Bootloader Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-stop-hp-screen-blinking/"><u>Methods to Stop HP Screen Blinking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-quivering-windows-7-graphics/"><u>Quelling Quivering Windows 7 Graphics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-stretched-screens-on-windows-os/"><u>Rectified Stretched Screens on Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-modems-tips-for-reactivating-windows-11s-speakers/"><u>Resolving Silent Modems: Tips for Reactivating Windows 11'S Speakers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-evolution-and-relevance-of-4k-uhd-video/"><u>The Evolution and Relevance of 4K UHD Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-texture-loading-problems-solved-techniques-and-fixes/"><u>Warzone Texture Loading Problems - Solved Techniques & Fixes</u></a></li>
 </ul></div>
 

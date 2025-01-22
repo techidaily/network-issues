@@ -1,7 +1,7 @@
 ---
 title: Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment
-date: 2025-01-09T00:33:20.762Z
-updated: 2025-01-15T23:44:18.908Z
+date: 2025-01-16T01:29:35.184Z
+updated: 2025-01-21T23:39:21.784Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -91,10 +91,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -108,7 +104,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -116,7 +112,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
@@ -126,6 +122,10 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,15 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/repaired-overcoming-disconnect-issues-with-cod-cold-war/"><u>[REPAIRED]: Overcoming Disconnect Issues with CoD Cold War</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y78plus-t1-edition-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y78+ (T1) Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/battlezone-buffering-blunder/"><u>Battlezone Buffering Blunder</u></a></li>
-<li><a href="https://network-issues.techidaily.com/defeating-wow-error-no-519-with-ease/"><u>Defeating WoW Error No. 519 with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-versatile-video-tools-for-linux-windows-and-macos/"><u>Free, Versatile Video Tools for Linux, Windows & MacOS</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming/"><u>In 2024, Navigating the Modern Landscape of Live Audio Capturing for Streaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-youtubes-green-screen-problems/"><u>Mastering YouTube's Green Screen Problems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-easiest-way-to-share-ps4-screenshots-on-social-media-2023-update/"><u>New 2024 Approved The Easiest Way to Share PS4 Screenshots on Social Media (2023 Update)</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-free-installation-of-tiny-tinas-wonderland-on-pc-fixed-issues-covered/"><u>Trouble-Free Installation of Tiny Tina’s Wonderland on PC: Fixed Issues Covered</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-in-it-for-a-million-youtube-viewers-for-2024/"><u>What’s in It for a Million YouTube Viewers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/48786781-new-2024-approved-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] 2024 Approved How to Fix the Green Screen on YouTube on Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-discover-5-premier-apps-for-effortless-download-of-videos-and-sounds-from-fb/"><u>[New] Discover 5 Premier Apps for Effortless Download of Videos and Sounds From FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ree-mcb-theme-images-templates-and-more-for-2024/"><u>[New] Free MCB Theme Images, Templates & More for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] In 2024, Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tailored-obs-tweaks-for-affordable-systems/"><u>[New] In 2024, Tailored OBS Tweaks for Affordable Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[Updated] In 2024, Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-microsofts-bd-on-windows-versions-11-to-7/"><u>Fixed Microsoft's BD on Windows Versions 11 to 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hd-6950-drivers-upgraded-for-windows-11-users/"><u>HD 6950 Drivers Upgraded for Windows 11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-onoff-switch-armored/"><u>OpenGL On/Off Switch Armored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/prime-android-image-editing-software/"><u>Prime Android Image Editing Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-panel-distortion-in-windows-10/"><u>Resolving Backward Panel Distortion in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/running-chatgpt-seamlessly-on-windows-a-comprehensive-tutorial/"><u>Running ChatGPT Seamlessly on Windows - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-overthrows-apple-in-global-smartphone-shipments-challengers-close-behind/"><u>Samsung Overthrows Apple in Global Smartphone Shipments, Challengers Close Behind</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-rise-of-amd-transforming-pc-gaming-experience-across-platforms/"><u>The Rise of AMD: Transforming PC Gaming Experience Across Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-gpus-solution-for-win11-users/"><u>Triumph Over Switchable GPUs: Solution for Win11 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-silence-no-nvidia-detected-in-control-panel/"><u>Unexpected Silence: No NVIDIA Detected in Control Panel</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
 </ul></div>
 

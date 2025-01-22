@@ -1,7 +1,7 @@
 ---
 title: Solved OpenGL Issue on Nvidia Graphics Hardware
-date: 2024-11-26T03:56:11.439Z
-updated: 2024-12-03T00:41:06.232Z
+date: 2025-01-16T02:04:49.949Z
+updated: 2025-01-22T04:27:48.958Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -57,9 +61,17 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -75,10 +87,6 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -89,17 +97,9 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -107,18 +107,18 @@ See how to do it:
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,16 +144,15 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-android-mac-video-archiving-a-snap-solution-guide/"><u>2024 Approved Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-retro-reflection-self-portraits-with-x-phone/"><u>2024 Approved Retro Reflection Self-Portraits with X Phone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-graphics-efficiency-with-upgraded-intellgraphics-on-pc/"><u>Boost Graphics Efficiency with Upgraded IntellGraphics on PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/break-barriers-with-fluent-english-skills/"><u>Break Barriers with Fluent English Skills</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-performance-using-the-power-of-cookiebot/"><u>Enhanced Performance Using the Power of Cookiebot</u></a></li>
-<li><a href="https://network-issues.techidaily.com/epic-escalation-steady-stream-struggle/"><u>Epic Escalation: Steady Stream Struggle</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-issue-with-intellnvidia-on-windows-1e0/"><u>Resolving Hybrid Graphics Issue with Intell/Nvidia on Windows 1E0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-r9-graphics-drivers-on-win10-finally/"><u>Resolving R9 Graphics Drivers on Win10, Finally</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-erratic-acer-display-behavior/"><u>Troubleshooting Erratic Acer Display Behavior</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728479267531-windows-7/"><u>Windows 7 で失敗する可能性のあるバックアップと回復手順について学ぶ - 解決策を見つけよう</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickscreencapture-simple-windows-10-app/"><u>[New] In 2024, QuickScreenCapture Simple Windows 10 App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-power-of-prolonged-shutter-iphone-burst-mode/"><u>[Updated] The Power of Prolonged Shutter IPhone Burst Mode</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-pc-performance-meeting-software-install-min-reqs/"><u>Boost PC Performance: Meeting Software Install Min Reqs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-getting-the-brother-mfc-l27e0dw-installed-on-your-pc/"><u>Easy Guide to Getting the Brother MFC-L27e0DW Installed on Your PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-flickering-phenomenon-in-hp-displays/"><u>Eliminating Flickering Phenomenon in HP Displays</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-print-driver-missing-in-windows-1110/"><u>HP Print Driver Missing in Windows 11/10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-tips-for-efficient-intel-driver-update-strategies-win-7-style/"><u>Quick Tips for Efficient Intel Driver Update Strategies, Win 7 Style</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unable-to-save-display-settings-windows-710-solved/"><u>Unable to Save Display Settings Windows 7/10 [SOLVED]</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-razr-40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Razr 40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

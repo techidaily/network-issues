@@ -1,7 +1,7 @@
 ---
 title: Solving Grainy Graphics in Ubisoft's Island Adventure
-date: 2025-01-14T02:24:14.820Z
-updated: 2025-01-15T22:05:21.759Z
+date: 2025-01-18T02:10:45.370Z
+updated: 2025-01-22T04:15:34.360Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-29-42.png)
 
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before you start…
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -67,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  If you didn’t use the HD texture pack but you do have sufficient VRAM (>11 GB), you can find the HD texture pack under the DLC section and install it. Some players have reported that the HD texture pack works fine when you have enough VRAM, so it’s definitely worth a try.
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -114,7 +102,7 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -133,10 +121,22 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t help, there’s one more fix you can try.
 
@@ -149,21 +149,21 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +187,14 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-far-cry-new-dawn-not-starting-dx12-error/"><u>[CORRECTED] Far Cry New Dawn Not Starting - DX12 Error</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-exploring-the-core-inside-apples-m1-innovation/"><u>[New] In 2024, Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-hd-potential-for-your-social-media-platform-fb/"><u>[Updated] In 2024, Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-engaging-subjects-for-consistent-vlogging/"><u>2024 Approved Engaging Subjects for Consistent Vlogging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>2024 Approved Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-blackout-on-newest-win11-version/"><u>Cure Blackout on Newest Win11 Version</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-undetected-gpu-mishaps/"><u>Cure Undetected GPU Mishaps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hdmi-miscommunication-laptop-avoids-display-on-tv/"><u>HDMI Miscommunication: Laptop Avoids Display on TV</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/icloud-keychain-integration-with-windows-unlocking-the-secrets-for-seamless-cross-platform-use/"><u>ICloud Keychain Integration with Windows: Unlocking the Secrets for Seamless Cross-Platform Use</u></a></li>
-<li><a href="https://network-issues.techidaily.com/microsofts-drivers-patched-in-windows-1087-bdr/"><u>Microsoft's Drivers Patched in Windows 10/8/7 BDR</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-in-win10-installation-process/"><u>Overcoming C1900101 in Win10 Installation Process</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-troubleshooting-path-inactive-gpu-nvidia-screen/"><u>Plain Troubleshooting Path: Inactive GPU, NVIDIA Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-amd-tarkov-glitch/"><u>Resolve AMD Tarkov Glitch!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-lg-usb-drivers-compatibility-problems-on-windows-10-8-and-7/"><u>Resolving LG USB Drivers Compatibility Problems on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/strategies-to-eliminate-steamdll-absence/"><u>Strategies to Eliminate SteamDll Absence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/why-does-imovie-crop-my-videos/"><u>Why Does iMovie Crop My Videos?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-syncopate-screen-a-beginners-guide-to-mobile-video-making-for-2024/"><u>[New] Syncopate Screen A Beginner's Guide to Mobile Video Making for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-essential-insights-best-instagram-editors-for-mobile-and-pc/"><u>[Updated] Essential Insights Best Instagram Editors for Mobile and PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-checklist-for-optimizing-videos-with-pro-tags/"><u>[Updated] In 2024, The Ultimate Checklist for Optimizing Videos with Pro Tags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-anthem-loading-screen-madness-with-these-effective-fixes-and-tips/"><u>End Anthem Loading Screen Madness with These Effective Fixes and Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-acclimated-to-window-11s-efficient-taskbar-search/"><u>Get Acclimated to Window 11’S Efficient Taskbar Search</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screeninterface-fails-in-win-os-resolved/"><u>ScreenInterface Fails in Win OS (Resolved)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secured-stable-operations-amds-driver-now-works-on-wndows-10-os/"><u>Secured Stable Operations: AMD's Driver Now Works on Wndows 10 OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-acer-display-flashing-issue/"><u>Solving Acer Display Flashing Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-card-recovered-after-driver-stall/"><u>Video Card Recovered After Driver Stall</u></a></li>
 </ul></div>
 

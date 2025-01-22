@@ -1,7 +1,7 @@
 ---
 title: "Error by NVidia: Windows Halted, Problem Solved"
-date: 2024-11-26T22:05:38.188Z
-updated: 2024-12-03T00:54:18.139Z
+date: 2025-01-18T02:37:10.939Z
+updated: 2025-01-21T23:45:23.536Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  Solution 4: **[Disable the graphics card and discharge the electrical build-up](#solution4)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 1: Perform a power reset**
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 5) Reboot your computer and check to see if the problem is resolved. If you’re still getting the error, you can move on to our next suggestion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the driver**
@@ -65,15 +65,15 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-619.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the Nvidia graphics driver.  In the example below, we’ve got NVIDIA Geforce GTX 1080\. This will automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version)
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-620.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 3: Uninstall the NVIDIA graphics driver**
 
@@ -85,13 +85,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the “Display adapters” category and right-click on the NVIDIA device name. The context menu will pop up. Then click**Uninstall** .
 
 ![uninstall nvidia graphics driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57d7a03426f1b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your computer and check to see if the problem is resolved.
 
@@ -106,7 +106,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click on the NVIDIA device name. The context menu will pop up. Click**Disable**  on the context menu.
@@ -140,24 +140,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-add-music-to-facebook-profile-iphone-and-android/"><u>[New] In 2024, How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-guide-best-free-mac-screen-recording-tools/"><u>[New] In 2024, Ultimate Guide Best Free Mac Screen Recording Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-turbo-charger-your-win-1110-internet/"><u>[SOLVED] Turbo-Charger Your Win 11/10 Internet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-a-youtube-subscribe-link-easy/"><u>[Updated] How to Make a YouTube Subscribe Link - Easy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-picks-best-recording-software/"><u>[Updated] In 2024, Gamers' Picks Best Recording Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[Updated] Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>[Updated] The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp3/"><u>音楽の未来へ：MP3ファイルを効果的に使いこなす方法</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-demise-laptops-last-stand/"><u>Display Demise: Laptop's Last Stand</u></a></li>
-<li><a href="https://network-issues.techidaily.com/explaining-the-advantages-of-4k-high-definition/"><u>Explaining the Advantages of 4K High-Definition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-monitor-problem-now-displays-full-screen-in-win11/"><u>Fix Monitor Problem – Now Displays Full Screen in Win11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210747705-9781637743737-glow-worthy/"><u>Glow-Worthy | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-crisis-averted-graphic-glitch-disappears/"><u>MH World Crisis Averted: Graphic Glitch Disappears</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-straighten-laptop-display/"><u>Quick Fix for Straighten Laptop Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/realign-visual-border-discrepancies/"><u>Realign Visual Border Discrepancies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974830104-swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-10-easiest-languages-to-learn/"><u>Top 10 Easiest Languages to Learn</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features-for-2024/"><u>Transform Your Mac Display Utilizing Picture in Picture Multimedia Features for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visuals-fixed-and-saving-feat-achieved/"><u>Visuals Fixed & Saving Feat Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-uninstalled-amd-driver-in-win1110/"><u>[FIXED] Uninstalled AMD Driver in Win11/10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-save-photo-from-video-in-windows-10-photos-app/"><u>[Updated] How to Save Photo From Video in Windows 10 Photos App</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-discovering-instagrams-most-followed-ae-presets/"><u>[Updated] In 2024, Discovering Instagram's Most Followed AE Presets</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y36i-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y36i FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-in-sight-nvidia-display-recovers-quickly/"><u>Fix in Sight: Nvidia Display Recovers Quickly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reconfiguring-windows-11-display-scaling/"><u>Reconfiguring Windows 11 Display Scaling</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverting-failed-attempt-to-save-display-preferences/"><u>Reverting Failed Attempt to Save Display Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-windows-smartscreen-currently-unavailable-notification/"><u>Solutions for 'Windows SmartScreen Currently Unavailable' Notification</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-installing-your-realtek-device-drivers/"><u>Step-by-Step Guide: Installing Your Realtek Device Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
 </ul></div>
 

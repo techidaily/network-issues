@@ -1,7 +1,7 @@
 ---
 title: SLI Failed - Status Improved
-date: 2024-11-18T16:54:23.661Z
-updated: 2024-11-24T01:16:36.959Z
+date: 2025-01-18T00:42:59.019Z
+updated: 2025-01-21T23:42:11.376Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
 **Direct3D** , as part of DirectX, is a graphics application programming interface (API) for Windows. It’s used to render three-dimensional objects in applicatioins, including games, and allows them to be run in full-screen mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Verify your Direct3D is enabled and DirectX version is up to date
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  and  
@@ -51,15 +47,11 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 3. In DirectX Diagnostic Tool, click on the****Display**tab to check if your Direct3D Acceleration is****enabled** . If not, click to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8c1f7496a.jpg)
 4. Click on the**System** tab to check your**DirectX Version** .  If it doesn’t meet the requirement (DirectX 9.0 and later), you should update your DirectX version in your system. Updating DirectX varies from Windows versions.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using Windows 10, 8 or 8.1, you’ll need to update and install the latest DirectX; if you’re using Windows 7, Vista or XP, you should install a service pack to update. Check the Microsoft support to update DirectX in different Windows system: [How to install the latest version of DirectX](https://support.microsoft.com/en-us/help/179113/how-to-install-the-latest-version-of-directx)  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8d336b3d4.jpg)
@@ -68,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your graphics card driver
@@ -93,12 +85,20 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Reinstall Visual C++ Redistributables
 
  You can also try reinstalling the Visual C++ Redistributables packages on your computer:
 
 1. Press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  +  
  **R** key  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  to open the Run box.
 2. Type**appwiz.cpl** and click**OK** .  
@@ -108,7 +108,7 @@ OR
 4. When the uninstallation is finished, you can go to the [Windows download page](https://support.microsoft.com/en-hk/help/2977003/the-latest-supported-visual-c-downloads)  to download the corresponding Visual C++ Redistributable packages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Double-click on the downloaded file to begin the installation process.
@@ -138,24 +138,14 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-amplify-engagement-increase-youtube-viewers-for-2024/"><u>[New] Amplify Engagement Increase YouTube Viewers for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-stretched-screen-issues-for-windows-11/"><u>[Solved] Stretched Screen Issues for Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-unlimited-free-fun-with-top-meme-templates/"><u>[Updated] Explore Unlimited Free Fun with Top Meme Templates</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unleash-your-inner-filmmaker-sports-videos-101/"><u>2024 Approved Unleash Your Inner Filmmaker Sports Videos 101</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-flickering-on-your-acer-laptop-screen/"><u>Correcting Flickering on Your Acer Laptop Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-pixel-misalignment-effects/"><u>Eliminate Pixel Misalignment Effects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-glitch-full-windows-show-on-screen-windows-10/"><u>Fixed Monitor Glitch - Full Windows Show on Screen (Windows 10)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-pushing-boundaries-hps-z32x-4k-revelation/"><u>In 2024, Pushing Boundaries HP’s Z32X 4K Revelation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-complete-no-issues-found/"><u>Installation Complete: No Issues Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mending-display-settings-saving-problems-in-win/"><u>Mending Display Settings Saving Problems in Win</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>New In 2024, Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-issues-nvidiaintel-switchable-graphics-on-win10/"><u>Overcoming Compatibility Issues: Nvidia/Intel Switchable Graphics on Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-graphics-potential-windows-10-now-features-nvidia-210/"><u>Unleash Graphics Potential: Windows 10 Now Features Nvidia 210</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-exclusive-ai-communication-try-out-the-new-duckduckgo-private-chats-with-cutting-edge-gpt-capabilities-for-enhanced-privacy/"><u>Unlock Exclusive AI Communication - Try Out the New DuckDuckGo Private Chats with Cutting-Edge GPT Capabilities for Enhanced Privacy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-5g-potential-the-samsung-galaxy-an-5-review-for-savvy-shoppers-seeking-quality-deals/"><u>Unlocking 5G Potential: The Samsung Galaxy A^n 5 Review for Savvy Shoppers Seeking Quality Deals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-the-secrets-of-macos-11-big-sur-enhancements-for-2024/"><u>Unveiling the Secrets of macOS 11 Big Sur Enhancements for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-and-easy-photovideo-exchange-between-ios-gear/"><u>[Updated] Fast & Easy Photo/Video Exchange Between iOS Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-stardews-ultimate-customization-guide-the-top-7-mods-listed/"><u>In 2024, Stardew's Ultimate Customization Guide The Top 7 Mods Listed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974070639-instantly-optimize-intel-graphics-for-windows-11/"><u>Instantly Optimize Intel Graphics for Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210328171-9781941631072-life-in-life/"><u>Life in Life | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-windows-11-screen-post-upgrade/"><u>Reviving Windows 11 Screen Post Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-the-win11-cursor-vanishing-act/"><u>Tackling the Win11 Cursor Vanishing Act</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-ps2-games-for-ios-emulation/"><u>The Ultimate List of PS2 Games for iOS Emulation</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-freeware-fur-die-verlegung-von-windows-11-betriebsdateisystemen-kostenlose-tools/"><u>Top Freeware Für Die Verlegung Von Windows 11 Betriebsdateisystemen – Kostenlose Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-performance-windows-11-and-amd-radeon-r9/"><u>Unleashing Performance: Windows 11 & AMD Radeon R9</u></a></li>
 </ul></div>
 

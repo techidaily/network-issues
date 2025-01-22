@@ -1,7 +1,7 @@
 ---
 title: Eliminating Visual Glitches From Far Cry 6 Gameplay
-date: 2025-01-10T01:23:52.983Z
-updated: 2025-01-15T18:20:53.077Z
+date: 2025-01-19T16:50:56.762Z
+updated: 2025-01-21T16:46:29.477Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -103,15 +99,11 @@ If this doesn’t help, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -126,19 +118,27 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -149,21 +149,21 @@ If this doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +187,17 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2023s-finest-top-ps3-game-simulations-for-pc-users/"><u>[New] 2023'S Finest - Top PS3 Game Simulations for PC Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blur-proof-iphones-achieving-flawless-budget-friendly-edits/"><u>[Updated] Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-az-recorder-expert-series-app-deep-dives/"><u>[Updated] In 2024, AZ Recorder Expert Series App Deep Dives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-the-moment-masterful-techniques-for-excellent-edits/"><u>[Updated] In 2024, Capturing the Moment Masterful Techniques for Excellent Edits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-com-chaos-for-windows-users/"><u>End of COM Chaos for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-free-dell-wireless-network-drivers-compatible-with-windows-groovy-7/"><u>Get Optimal Performance: Free Dell Wireless Network Drivers Compatible with Windows Groovy 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-malfunction-43-addressed/"><u>Graphics Malfunction 43 Addressed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-unleashed-performance-perfected/"><u>Kratos Unleashed: Performance Perfected</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-blank-graphic-detail-lost/"><u>Screen Blank: Graphic Detail Lost</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974778167-swiftly-refresh-intel-g3000-driver-on-win11/"><u>Swiftly Refresh Intel G3000 Driver on Win11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-mix-up-of-intel-and-nvidia-graphic-cards-in-win10/"><u>Tackling Mix-Up of Intel & Nvidia Graphic Cards in Win10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-no-audio-on-your-chromecast-device/"><u>Troubleshooting Guide: Resolving No Audio on Your Chromecast Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-persistent-led-glare/"><u>Troubleshooting Persistent LED Glare</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-steps-for-when-your-wifi-stops-working-insights-by-yl-tech-experts/"><u>Troubleshooting Steps for When Your WiFi Stops Working, Insights by YL Tech Experts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/vive-cosmos-unveiled-stellar-performance-and-tough-challenges-from-rivals-explored/"><u>Vive Cosmos Unveiled: Stellar Performance and Tough Challenges From Rivals Explored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-fixed-graphic-device-creation-errors/"><u>WinOS: Fixed Graphic Device Creation Errors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-comedy-gold-twitters-hottest-jokes/"><u>[New] 2024 Approved Comedy Gold Twitter's Hottest Jokes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>[New] Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-dual-approach-mastering-two-point-of-view-techniques-in-your-youtube-reaction-video-content/"><u>[Updated] The Dual Approach – Mastering Two-Point of View Techniques in Your YouTube Reaction Video Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-efficient-techniques-to-record-and-edit-videos-using-adobe-connect/"><u>2024 Approved Efficient Techniques to Record & Edit Videos Using Adobe Connect</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-excellence-comprehensive-tp-link-archer-a6-ac1200-wifi-router-evaluation/"><u>Affordable Excellence: Comprehensive TP-Link Archer A6 AC1200 WiFi Router Evaluation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-issue-resolved-nvidia-driver-fixed/"><u>Display Issue Resolved: Nvidia Driver Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-to-remember-guide-straighten-monitors-quickly/"><u>Easy-to-Remember Guide: Straighten Monitors Quickly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstating-disappeared-graphics-configuration-options/"><u>Reinstating Disappeared Graphics Configuration Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skype-soundtrack-hub-finding-the-right-tones-online/"><u>Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-hidden-features-within-display-settings/"><u>Unlocking Hidden Features Within Display Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-ms-store-programs-on-windows-11-with-ease/"><u>Unlocking MS Store Programs on Windows 11 with Ease</u></a></li>
 </ul></div>
 

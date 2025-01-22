@@ -1,7 +1,7 @@
 ---
 title: "Apex Crash Cure: Immediate & Easy Steps"
-date: 2025-01-12T16:04:02.751Z
-updated: 2025-01-15T22:05:04.521Z
+date: 2025-01-17T22:09:39.672Z
+updated: 2025-01-22T04:53:46.444Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Apex Legends players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 4. **[Repair Apex Legends in Origin](#f3)**
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your Nvidia graphics driver
 
@@ -48,7 +48,7 @@ Or
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
@@ -68,12 +68,16 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -89,13 +93,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -177,10 +181,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -204,20 +204,22 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-pros-picks-premium-10-windows-11-webcam-recorders-for-2024/"><u>[New] Pro's Picks Premium 10 Windows 11 Webcam Recorders for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-mac-capturing-apps-beyond-the-traditional-bandicam-for-2024/"><u>[Updated] Essential Mac Capturing Apps Beyond the Traditional Bandicam for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-streaming-made-easier-learning-to-use-netflixs-dual-screen-feature/"><u>2024 Approved Streaming Made Easier Learning to Use Netflix's Dual-Screen Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-essential-drivers-for-optimal-performance-of-your-epson-printerscanner-combo/"><u>Download Essential Drivers for Optimal Performance of Your Epson Printer/Scanner Combo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-zdnets-ultimate-list-of-greatest-hp-pc-offers-for-holidays-discover-your-perfect-match/"><u>Explore ZDNet's Ultimate List of Greatest HP PC Offers for Holidays: Discover Your Perfect Match!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-g42-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia G42 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-safely-explore-system-security-w8s-safe-mode-uninstallation/"><u>How To Safely Explore System Security: W8's Safe Mode Uninstallation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lava-storm-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lava Storm 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Yuva 2 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-concluded-without-hiccups/"><u>Installation Concluded Without Hiccups</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-issue-with-intellnvidia-on-windows-1e0/"><u>Resolving Hybrid Graphics Issue with Intell/Nvidia on Windows 1E0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screenhalt-on-graphicwinos-interface-under-repair/"><u>ScreenHalt on GraphicWinOS Interface (Under Repair)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-and-solving-wired-network-connection-problems-in-windows-117/"><u>Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-samsung-galaxy-top-6-motion-and-gesture-commands-every-user-needs/"><u>Unleash Your Samsung Galaxy: Top 6 Motion and Gesture Commands Every User Needs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vitamin-ds-pivotal-role-in-immune-regulation-insights-into-innate-and-adaptive-responses/"><u>Vitamin D's Pivotal Role in Immune Regulation: Insights Into Innate and Adaptive Responses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-your-4k-videos-with-the-world-via-youtube-for-2024/"><u>[New] How to Share Your 4K Videos with the World via YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-creative-trail-steps-towards-thriving-as-a-designer/"><u>[New] The Creative Trail Steps Towards Thriving as a Designer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-techniques-for-saving-snapchat-videos/"><u>[Updated] In 2024, Innovative Techniques for Saving Snapchat Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-create-flawless-animation-movies/"><u>[Updated] Step-by-Step Guide to Create Flawless Animation Movies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-missing-graphics-configuration-screens/"><u>Addressing Missing Graphics Configuration Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974220841-breeze-through-apex-errors-instantly/"><u>Breeze Through Apex Errors, Instantly!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-mirrored-display-in-windows-10/"><u>Correcting Mirrored Display in Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/declutter-photos-with-affinitys-ease/"><u>Declutter Photos with Affinity's Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-picture-to-paragraph-text-on-windows-and-mac-photos-for-2024/"><u>From Picture to Paragraph Text on Windows & Mac Photos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-limitation-in-overwatch-cleared-update-completed/"><u>GPU Limitation in Overwatch Cleared, Update Completed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-print-functionality-on-windows/"><u>Methods to Reactivate Print Functionality on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-common-green-screen-hiccups-in-video-editing/"><u>Overcoming Common Green Screen Hiccups in Video Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-gpu-shortage-in-overwatch/"><u>Overcoming GPU Shortage in Overwatch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-x7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find X7 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repairing-monitor-blink-anomalies/"><u>Repairing Monitor Blink Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
 </ul></div>
 

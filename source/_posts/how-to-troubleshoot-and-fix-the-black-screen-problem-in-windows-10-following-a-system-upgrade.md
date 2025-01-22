@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Fix the Black Screen Problem in Windows 10 Following a System Upgrade
-date: 2025-01-08T20:27:31.039Z
-updated: 2025-01-15T17:44:40.489Z
+date: 2025-01-20T17:01:59.860Z
+updated: 2025-01-21T22:53:12.574Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 5. [**Log in using a different user account**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 1: Try a Windows key sequence to wake the screen
 
 A quick fix to your black screen problem would be:
@@ -52,6 +56,10 @@ If this produces no results, you can move on to Fix 3.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 3: Update your graphics card driver
 
  Various reasons can trigger black screens after Windows 10 update, but the most common cause of it is**incompatible or outdated Windows drivers** . Especially the graphics card driver — either your current graphics driver is corrupted during the Windows update process or it’s not compatible with your current Windows 10 version.
@@ -74,6 +82,10 @@ If this produces no results, you can move on to Fix 3.
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ###  Fix 4: Uninstall third party Windows theming software
@@ -87,12 +99,12 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2297bbde3.jpg)
 3. Click the**File** tab, then**Run new task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
@@ -101,7 +113,7 @@ If this produces no results, you can move on to Fix 3.
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
@@ -110,7 +122,7 @@ If this produces no results, you can move on to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 5: Log in using a different user account
@@ -135,10 +147,6 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
 
@@ -148,17 +156,17 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf346d3db95.jpg)
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 6: Reset your PC
@@ -170,16 +178,8 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Update & security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
@@ -208,20 +208,22 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-boosting-online-videography-with-key-tools/"><u>[Updated] Boosting Online Videography with Key Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-data-analytics-methods-for-market-research-analysis/"><u>Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/boost-your-gpus-power-expert-tips-from-yl-software-for-better-performance/"><u>Boost Your GPU's Power: Expert Tips From YL Software for Better Performance</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-se-2020-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone SE (2020)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-gpu-oversight-a-compreenasian-guide/"><u>Fixing GPU Oversight: A Compreenasian Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-large-language-models-the-starters-handbook/"><u>Getting Started with LangChain Large Language Models: The Starter's Handbook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-instagrams-visual-feast-integrating-audio-effects/"><u>In 2024, Elevate Instagram's Visual Feast Integrating Audio Effects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974070639-instantly-optimize-intel-graphics-for-windows-11/"><u>Instantly Optimize Intel Graphics for Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quelling-screen-disruptions-with-effective-fixes/"><u>Quelling Screen Disruptions with Effective Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reviving-windows-11-screen-post-upgrade/"><u>Reviving Windows 11 Screen Post Upgrade</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/spice-up-your-instagram-feed-incorporate-video-loops-for-2024/"><u>Spice Up Your Instagram Feed Incorporate Video Loops for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-the-win11-cursor-vanishing-act/"><u>Tackling the Win11 Cursor Vanishing Act</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleashing-performance-windows-11-and-amd-radeon-r9/"><u>Unleashing Performance: Windows 11 & AMD Radeon R9</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-end-of-black-outage/"><u>Windows 11: End of Black Outage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevating-your-instagram-video-game-to-go-global/"><u>[Updated] 2024 Approved Elevating Your Instagram Video Game to Go Global</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-starting-a-sports-network-with-your-mac/"><u>[Updated] 2024 Approved Starting a Sports Network with Your Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-outdoor-vision-into-online-presence-gopro-to-periscopefacebook-for-2024/"><u>[Updated] Transforming Outdoor Vision Into Online Presence GoPro to Periscope/Facebook for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-windows-11-display-reversal-fix/"><u>Addressing Windows 11 Display Reversal Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-boost-for-win11-with-hd-6950-upgrade/"><u>AMD Graphics Drivers Boost for Win11 with HD 6950 Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-wow-glitch-519-like-a-pro/"><u>Conquering WoW Glitch #519 Like a Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/endless-black-screen-restore-win10/"><u>Endless Black Screen, Restore Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-low-brightness-lenovo-display-issue/"><u>Fixing Low-Brightness Lenovo Display Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-big-sur-specifications-system-and-hardware-required/"><u>In 2024, Big Sur Specifications System & Hardware Required</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-8-visual-effects-for-smooth-live-videos/"><u>In 2024, Unmatched 8 Visual Effects for Smooth Live Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-spark-20-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Spark 20 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-driver-no-visibility/"><u>New Driver, No Visibility?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-driver-update-now-available-on-windows-11/"><u>Radeon HD 6950 Driver Update Now Available on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-stable-r9-drivers-for-windows-10-systems/"><u>Securing Stable R9 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transformateur-de-commentaires-convertir-votre-ssd-interieur-ou-hdd-externel/"><u>Transformateur De Commentaires : Convertir Votre SSD Intérieur Ou HDD Externel</u></a></li>
 </ul></div>
 

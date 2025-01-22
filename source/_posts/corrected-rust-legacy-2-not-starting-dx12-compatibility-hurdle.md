@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Rust Legacy 2 Not Starting - DX12 Compatibility Hurdle"
-date: 2025-01-06T23:03:03.060Z
-updated: 2025-01-10T03:13:30.311Z
+date: 2025-01-14T17:42:15.663Z
+updated: 2025-01-21T19:40:47.227Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -75,7 +71,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -119,13 +115,17 @@ You need to check 2 elements:
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -153,7 +153,7 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -178,16 +178,20 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-enable-speech-to-text-in-powerpoint-a-step-by-step-guide/"><u>[Updated] How to Enable Speech-to-Text in PowerPoint A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-how-to-get-your-logitech-g533-mic-up-and-running-again/"><u>DIY Troubleshooting: How To Get Your Logitech G533 Mic Up And Running Again</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/te-vlogging-effective-use-of-jump-cuts/"><u>Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-can-i-post-a-video-between-twitter-and-tumblr/"><u>How Can I Post a Video Between Twitter and Tumblr?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-limitations-in-unsupported-freesync-setup/"><u>Overcoming Limitations in Unsupported FreeSync Setup</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-win7-display-jitter/"><u>Overcoming Win7 Display Jitter</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-avi-to-gif-transformation-in-filmora-for-2024/"><u>Quick AVI to GIF Transformation in Filmora for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlining-system-graphics-update-on-windows/"><u>Streamlining System Graphics Update on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-visual-vanguard-the-top-videoviral-tweets/"><u>[New] 2024 Approved Visual Vanguard The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-avoiding-unwanted-image-ripples/"><u>[Updated] 2024 Approved Avoiding Unwanted Image Ripples</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[Updated] 2024 Approved Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-windows-11-for-professional-grade-video-crafting/"><u>[Updated] Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-nvidiaintel-graphics-dilemma-on-windows-10-successfully/"><u>Addressing NVIDIA/Intel Graphics Dilemma on Windows 10 Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/analyzing-ais-sentiment-sages-dissecting-gpt-and-bert/"><u>Analyzing AI's Sentiment Sages: Dissecting GPT & BERT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-counter-wow-bug-519/"><u>Comprehensive Guide to Counter WoW Bug #519</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-switchable-gpu-issue-on-windows-11/"><u>Fixed Switchable GPU Issue on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-correcting-and-avoiding-frostpunks-system-errors-during-play/"><u>Guide to Correcting and Avoiding Frostpunk's System Errors During Play</u></a></li>
+<li><a href="https://common-error.techidaily.com/network-troubleshooting-tips-for-unlocking-parties-chat-on-any-device/"><u>Network Troubleshooting Tips for Unlocking Parties Chat on Any Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issues-with-maplestory-not-starting-up/"><u>Solved! Issues with MapleStory Not Starting Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveil-hidden-displays-in-windows-11/"><u>Unveil Hidden Displays in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-secrets-to-youtube-highlighted-remarks-for-2024/"><u>Unveiling the Secrets to YouTube Highlighted Remarks for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-issues-in-windows-11-common-fixes-explored/"><u>Wi-Fi Issues in Windows 11 - Common Fixes Explored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-atheros-and-qualcomm-wi-fi-driver-unity/"><u>Windows 10, Atheros & Qualcomm Wi-Fi Driver Unity</u></a></li>
 </ul></div>
 

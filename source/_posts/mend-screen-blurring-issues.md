@@ -1,7 +1,7 @@
 ---
 title: Mend Screen Blurring Issues
-date: 2025-01-12T00:28:49.006Z
-updated: 2025-01-15T20:50:17.828Z
+date: 2025-01-17T07:50:58.328Z
+updated: 2025-01-22T04:04:49.072Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does my screen tear?
@@ -53,13 +53,17 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
 
@@ -70,7 +74,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
@@ -83,10 +87,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -94,7 +94,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
@@ -131,21 +131,17 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-diving-into-user-preferences-a-tiktok-vs-snapchat-breakdown/"><u>[New] 2024 Approved Diving Into User Preferences A TikTok Vs Snapchat Breakdown</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-photography-vertical-vistas-via-mobile/"><u>[New] Innovative Photography Vertical Vistas via Mobile</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-conquer-backward-motion-in-snapchat-videos-quickly/"><u>[Updated] Conquer Backward Motion in Snapchat Videos Quickly</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-capture-and-convey-top-10-image-writing-aid-apps-iosandroid/"><u>[Updated] In 2024, Capture and Convey Top 10 Image Writing Aid Apps (iOS/Android)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-uncomplicated-guide-to-mobile-device-live-captures/"><u>[Updated] In 2024, Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-guide-sharing-youtube-videos-on-fb/"><u>[Updated] The Ultimate Guide Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://discover-data.techidaily.com/come-risolvere-gli-errori-di-backup-non-riusciti-nel-sistema-operativo-windows-10/"><u>Come Risolvere Gli Errori Di Backup Non Riusciti Nel Sistema Operativo Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-monitors-non-full-screen-output-in-win11/"><u>Corrected Monitor's Non-Full Screen Output in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-startup-complication-remedied/"><u>Direct3D Startup Complication Remedied</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-err-code-22-resolved/"><u>GPU Err: Code 22 Resolved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-with-newest-operating-system/"><u>Harmonizing Nvidia with Newest Operating System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snapshots-and-snickers-the-art-of-memery/"><u>Snapshots and Snickers The Art of Memery</u></a></li>
-<li><a href="https://win-hot.techidaily.com/solutions-rapides-et-simples-a-la-reconnaissance-dune-carte-sd-defectueuse-par-votre-appareil-photo/"><u>Solutions Rapides Et Simples À La Reconnaissance D'une Carte SD Défectueuse Par Votre Appareil Photo</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-up-graphics-capability-with-an-easy-intel-gpu-update-in-windows-10/"><u>Step up Graphics Capability with an Easy Intel GPU Update in Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unraveling-the-mystery-of-rtx-crashes-in-games/"><u>Unraveling the Mystery of RTX Crashes in Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-wizardry-techniques-for-removing-graphics-drivers/"><u>Windows Wizardry: Techniques for Removing Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-screen-refreshing-issue-in-dell-pc/"><u>[Fixed]: Screen Refreshing Issue in Dell PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-affordable-cameras-where-to-buy-economical-gopros/"><u>[New] 2024 Approved Affordable Cameras Where to Buy Economical GoPros</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-the-art-of-smooth-ipad-video-recording/"><u>[New] 2024 Approved Mastering the Art of Smooth iPad Video Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-safeguarding-your-music-three-recording-approaches/"><u>[Updated] 2024 Approved Safeguarding Your Music Three Recording Approaches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/do-you-pay-for-writing-about-products-online/"><u>Do You Pay for Writing About Products Online?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-be-selective-stop-instagram-suggested-updates/"><u>In 2024, Be Selective Stop Instagram Suggested Updates</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-m6-pro-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco M6 Pro 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g23-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G23?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mysterious-network-signal-failures/"><u>Mysterious Network Signal Failures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recovering-typical-desktop-layout/"><u>Recovering Typical Desktop Layout</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rejuvenated-lenovo-interactive-interface/"><u>Rejuvenated Lenovo Interactive Interface</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-the-mystery-of-your-vanished-iphone-a-guide-to-utilizing-find-my-app/"><u>Solve the Mystery of Your Vanished iPhone - A Guide to Utilizing 'Find My App'</u></a></li>
 </ul></div>
 

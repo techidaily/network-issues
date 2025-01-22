@@ -1,7 +1,7 @@
 ---
 title: "Smooth Resolution Switching: No More Display Annoyances on Win 10"
-date: 2024-11-25T20:13:38.841Z
-updated: 2024-12-03T01:11:16.276Z
+date: 2025-01-15T17:55:01.489Z
+updated: 2025-01-21T20:04:10.791Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -74,6 +74,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -87,6 +91,10 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -102,19 +110,11 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,24 +148,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-2023s-must-watch-alternatives-to-top-films/"><u>[Updated] 2024 Approved 2023'S Must-Watch Alternatives to Top Films</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-apps-to-extract-and-save-your-vimeo-videos/"><u>[Updated] 2024 Approved Essential Apps to Extract and Save Your Vimeo Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-starks-serenade-where-to-find-your-game-of-thrones-ringtones/"><u>[Updated] 2024 Approved Stark's Serenade Where to Find Your Game of Thrones Ringtones</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/oggmov-movavi/"><u>網路自助無限 OGG到MOV格式轉換 - 利用Movavi工具</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-x100-pro-frp-bypass-by-drfone-android/"><u>About Vivo X100 Pro FRP Bypass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-step-by-step-on-zooms-video-broadcasting-for-2024/"><u>Comprehensive Step-by-Step on Zoom's Video Broadcasting for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-steps-to-determine-your-monitors-resolution-what-you-need-to-know/"><u>Easy Steps to Determine Your Monitor's Resolution: What You Need to Know</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-application-error-for-nvstreamuseragentsexe-on-windows-systems-easily/"><u>Fixing the 'Application Error' For nvstreamuseragents.exe on Windows Systems Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-notorious-gtx-950-code-43-issue-in-windows-11-a-step-by-step-solution/"><u>Fixing the Notorious GTX 950 'Code 43' Issue in Windows 11: A Step-by-Step Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fortnite-lag-solutions-eliminate-latency-fast-and-simple/"><u>Fortnite Lag Solutions: Eliminate Latency Fast and Simple</u></a></li>
-<li><a href="https://fox-where.techidaily.com/foto-wiedergewinnung-von-sd-karten-effiziente-losungen-fur-unbeabsichtigtes-loschen/"><u>Foto Wiedergewinnung Von SD Karten - Effiziente Lösungen Für Unbeabsichtigtes Löschen</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-bluetooth-drivers-compatible-with-windows-7-and-10-fully-secured-download/"><u>Get the Latest Lenovo Bluetooth Drivers - Compatible with Windows 7 & 10, Fully Secured Download</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-an-unrecognized-amd-gpu-on-your-windows-11-system-expert-solutions-and-tips/"><u>How to Fix an Unrecognized AMD GPU on Your Windows 11 System: Expert Solutions and Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-laptop-screen-flickering/"><u>How To Fix ASUS Laptop Screen Flickering</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-ethernet-not-working-issues-on-windows-11-and-7/"><u>How to Fix Ethernet Not Working Issues on Windows 11 & 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-troubleshoot-and-resolve-wdf-related-blue-screen-errors-on-various-windows-versions/"><u>How to Troubleshoot and Resolve WDF-Related Blue Screen Errors on Various Windows Versions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/increase-your-fps-top-6-optimization-strategies/"><u>Increase Your FPS: Top 6 Optimization Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steps-to-kickstart-your-journey-as-a-prompt-engineer/"><u>Steps to Kickstart Your Journey as a Prompt Engineer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-to-recognize-usb-devices-on-w78/"><u>Troubleshooting Steps to Recognize USB Devices on W7/8</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-adding-eye-catching-text-to-vids-without-costs/"><u>[Updated] 2024 Approved Adding Eye-Catching Text to Vids Without Costs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-optimal-routines-to-alter-track-tempoplay-in-spotify/"><u>[Updated] 2024 Approved Optimal Routines to Alter Track Tempoplay in Spotify</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blending-tech-geforce-98-plus-windows-seamlessness/"><u>Blending Tech: GeForce 98 + Windows Seamlessness</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevch265-files-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Galaxy S23 FE?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-epic-battle-royale-thumbnails-done-fast/"><u>In 2024, Epic Battle Royale Thumbnails, Done Fast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-efficient-user-tracking-and-conversion-optimization/"><u>Leveraging Cookiebot Technology for Efficient User Tracking and Conversion Optimization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-window-10-resolution/"><u>Optimize Window 10 Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-clarity-fixed-dell-monitor-glitch/"><u>Restoring Clarity: Fixed Dell Monitor Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revived-adventure-monster-hunt-error-cleared/"><u>Revived Adventure: Monster Hunt Error Cleared</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-dead-asus-webcam/"><u>Reviving Dead Asus Webcam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-the-issue-when-deathloop-fails-to-start/"><u>Troubleshooting Guide: Fixing the Issue When Deathloop Fails to Start</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-c110-by-fonelab-android-recover-messages/"><u>Undelete lost messages from C110</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-site-with-cookiebots-powerful-tools/"><u>Unlock the Potential of Your Site with Cookiebot's Powerful Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-enhance-screen-definition-settings/"><u>Windows 11: Enhance Screen Definition Settings</u></a></li>
 </ul></div>
 

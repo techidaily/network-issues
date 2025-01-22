@@ -1,7 +1,7 @@
 ---
 title: Where Are My Displays in Windows 11?
-date: 2025-01-10T17:37:46.791Z
-updated: 2025-01-15T20:29:41.807Z
+date: 2025-01-20T19:16:36.767Z
+updated: 2025-01-22T05:54:13.786Z
 tags:
   - win11
   - win10
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
@@ -80,23 +72,31 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
@@ -122,24 +122,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-re-establishing-online-gameplay-in-cod-cold-war/"><u>[FIXED] Re-Establishing Online Gameplay in CoD Cold War</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ow-to-remove-black-bars-from-existing-youtube-videos/"><u>[New] How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[New] In 2024, Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[Updated] 2024 Approved Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>[Updated] In 2024, Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-no-fuss-strategies-recording-your-google-voice-calls/"><u>[Updated] No-Fuss Strategies Recording Your Google Voice Calls</u></a></li>
-<li><a href="https://network-issues.techidaily.com/achieve-flawless-display-setups-with-win11/"><u>Achieve Flawless Display Setups with Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-upside-down-screens-on-windows-10/"><u>Correcting Upside-Down Screens on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-visual-glitches-from-far-cry-6-gameplay/"><u>Eliminating Visual Glitches From Far Cry 6 Gameplay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-performance-windows-plus-new-intellgraphic-driver/"><u>Enhance Performance: Windows + New IntellGraphic Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-computer-specs-for-intel-driver-compatibility/"><u>Enhancing Computer Specs for Intel Driver Compatibility</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exceptional-hd-video-capturing-options-compiled-here/"><u>Exceptional HD Video Capturing Options Compiled Here</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xbox-games-download-issue-with-ms-store/"><u>Fixing Xbox Games Download Issue with MS Store</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-dell-monitor-flashes-rapidly/"><u>Fixing: Dell Monitor Flashes Rapidly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974544005-quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-intelnvidia-graphic-mix-up-in-win10-environment/"><u>Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revealing-the-truth-the-top-nine-myths-surrounding-artificial-intelligence-conversational-systems/"><u>Revealing the Truth: The Top Nine Myths Surrounding Artificial Intelligence Conversational Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-pathway-to-popularity-masterful-igtv-video-posts/"><u>[New] 2024 Approved The Pathway to Popularity Masterful IGTV Video Posts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capture-and-store-nine-excellent-windows-tools-for-animation-gifs/"><u>[New] In 2024, Capture and Store Nine Excellent Windows Tools for Animation GIFs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-save-the-screen-facebook-live-downloads-for-2024/"><u>[Updated] Save the Screen Facebook Live Downloads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instabeats-intellectual-property-overview/"><u>2024 Approved InstaBeats Intellectual Property Overview</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-lags-expert-fixes-for-a-smoother-naraka-gaming-experience/"><u>Beat the Lags: Expert Fixes for a Smoother Naraka Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-visuals-smooth-out-after-repair/"><u>Dell Visuals Smooth Out After Repair</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606177-lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wifi-adapter-atheros-issue-windows-10-fixed/"><u>Qualcomm WiFi Adapter, Atheros Issue - Windows 10 Fixed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-transition-of-windows-11-playback-post-update/"><u>Smooth Transition of Windows 11 Playback Post-Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranked-nixplay-seed-exceptional-photo-displays/"><u>Top-Ranked Nixplay Seed: Exceptional Photo Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turning-upside-down-screen-rightside-up/"><u>Turning Upside-Down Screen Rightside Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-playbook-mastering-roller-champions-crossplayer-mode-pc-edition/"><u>Ultimate Playbook: Mastering Roller Champions' Crossplayer Mode (PC Edition)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-obs-video-potential-five-must-know-techniques/"><u>Unlocking OBS Video Potential Five Must-Know Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-a-boost-with-new-geforce-210-graphics-driver/"><u>Windows 10 Gets a Boost with New GeForce 210 Graphics Driver</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quelling Quick Flashes on Windows 7
-date: 2024-11-25T18:00:11.028Z
-updated: 2024-12-03T04:26:25.951Z
+date: 2025-01-19T02:56:20.495Z
+updated: 2025-01-22T07:20:51.009Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 2. **[Check for hardware issues](#f2)**
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -55,6 +51,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: Check for hardware issues
@@ -69,7 +69,7 @@ To troubleshoot these hardware issues:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
@@ -79,10 +79,6 @@ To troubleshoot these hardware issues:
 1. Click the**Start** button >**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
@@ -108,6 +104,10 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
@@ -121,7 +121,7 @@ To troubleshoot these hardware issues:
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
@@ -157,24 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-exploring-the-future-with-av1-over-vp9/"><u>[New] 2024 Approved Exploring the Future with AV1 over VP9</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-11-audio-recording-tools-guide/"><u>[New] 2024 Approved Leading 11 Audio Recording Tools Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-hdtv-revolution-comparing-the-leading-8k-tv-brands-for-2024/"><u>[New] HDTV Revolution Comparing the Leading 8K TV Brands for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-faded-lenovo-monitor-issues/"><u>Addressing Faded Lenovo Monitor Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/change-someone-elses-password-in-windows-a-comprehensive-walkthrough/"><u>Change Someone Else’s Password in Windows – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-unseen-display-options-in-windows-11/"><u>Discover Unseen Display Options in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-visual-content-experience-with-win10/"><u>Enhancing Visual Content Experience with Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guides-on-fixing-acer-led-displays/"><u>Guides on Fixing Acer LED Displays</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock HTC U23 Phone with Broken Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-6-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 6 in the Best Ways</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-hidden-world-exploring-vlc-player-extras/"><u>In 2024, The Hidden World Exploring VLC Player Extras</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-3620-printer-driver-downloads-available-for-windows-users-windows-10-8-and-7/"><u>Latest Epson WF-3620 Printer Driver Downloads Available for Windows Users (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-tips-to-eliminate-fortnite-lag-and-gameplay-interruptions/"><u>Quick Tips to Eliminate Fortnite Lag and Gameplay Interruptions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-flipped-aspect-ratio-in-display/"><u>Resolving Flipped Aspect Ratio in Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlining-civ-5-experience-on-computers/"><u>Streamlining Civ 5 Experience on Computers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tv-live-streams-with-regional-content-2024-edition/"><u>Top TV Live Streams with Regional Content, 2024 Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-easier-screens-on-any-size-device/"><u>Win11: Easier Screens on Any Size Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-now-packs-enhanced-driver-for-amds-radeon-hd-6950-gpu/"><u>Windows 11 Now Packs Enhanced Driver for AMD's Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-football-vids-premier-insights-into-youtube-tracks/"><u>[New] In 2024, Football Vids Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>[New] In 2024, The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dell-laptop-screen-flickering/"><u>[SOLVED] Dell Laptop Screen Flickering</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-virtual-realms-efficiently-using-kinemaster-plus-best-replacements/"><u>[Updated] Navigating Virtual Realms Efficiently Using KineMaster, Plus Best Replacements</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-get-snapchat-on-mac/"><u>2024 Approved How to Get Snapchat on Mac?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bringing-clarity-to-unknown-direct-x-quirks-on-league-of-legends/"><u>Bringing Clarity to Unknown Direct X Quirks on League of Legends</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-titles-showdown-psplus-xbox-game-pass/"><u>Exclusive Titles Showdown: PS+ Xbox Game Pass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-civ-5-hiccups-on-personal-computers/"><u>Fixing Civ 5 Hiccups on Personal Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/frequent-wi-fi-hiccups-no-fix-yet/"><u>Frequent Wi-Fi Hiccups, No Fix Yet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-newbie-empty-screen-dilemma/"><u>GPU Newbie: Empty Screen Dilemma</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-all-round-kinetics-examination-2023/"><u>In 2024, All-Round Kinetics Examination 2023</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-beginners-bonanza-affordable-profitable-channel-options/"><u>In 2024, Beginner's Bonanza Affordable, Profitable Channel Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-guide-idle-gpu-display/"><u>Quick Fix Guide: Idle GPU Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-displays-on-nvidia-gpus/"><u>Re-Enabling Displays on NVIDIA GPUs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-conversion-guide-transforming-mp4-files-into-avi-format/"><u>Seamless Conversion Guide: Transforming MP4 Files Into AVI Format</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974197492-seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138577006-9781450245272-the-book-of-daniel-unsealed/"><u>The Book of Daniel Unsealed | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-wow-bug-51900319/"><u>Troubleshooting WoW Bug #51900319</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-z50-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Z50 Ultra? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

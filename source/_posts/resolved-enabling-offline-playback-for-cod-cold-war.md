@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Enabling Offline Playback for CoD Cold War"
-date: 2024-11-21T07:57:49.597Z
-updated: 2024-11-23T16:23:28.340Z
+date: 2025-01-15T00:56:26.706Z
+updated: 2025-01-21T19:55:24.979Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 5. **[Flush your DNS and use Google’s instead](#dns)**
 6. **[Make sure your Activision and Blizzard accounts are linked](#fix5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your game’s server status
 
  Game servers may sometimes go down and you cannot connect to online services. To check if that’s your case, visit the [Activision Online Services page](https://support.activision.com/uk/en/onlineservices) . Once you go there, take these steps:
@@ -52,11 +48,15 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![allow an app through windows defender firewall](https://www.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Now you need to scroll down until you can find**Call of Duty: Black Ops Cold War** . And also make sure it’s ticked for Private.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![allow Call of Duty Black Ops Cold War through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-the-game-through-Windows-Firewall.jpg)
 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 2. Then browse for our game and follow the instructions to allow your game through the firewall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are not sure where your game is installed, take these steps:
@@ -95,11 +95,19 @@ If you are not sure where your game is installed, take these steps:
 ![call of duty black ops cold war installation directory](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator.jpg)
 3. Open the folder**Call of Duty Black Ops Cold War** . Then you’ll find**BlackOpsColdWar.exe** . Right-click it and select**Properties** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 ![run Call of Duty: Black Ops Cold War as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-administrator-Properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Run Blizzard launcher as administrator
@@ -110,13 +118,13 @@ If you are not sure where your game is installed, take these steps:
 
 ![run battletnet launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-battletnet-launcher-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then it’ll launch in admin mode.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network adapter driver
 
@@ -138,7 +146,7 @@ OR
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -146,7 +154,7 @@ OR
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -154,10 +162,6 @@ OR
  After updating your drivers, restart your computer for them to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Flush your DNS and use Google’s instead
 
@@ -173,22 +177,18 @@ To see if a new DNS address helps, you can follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 6. View by **Category** , and select **Network and Internet** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
@@ -252,22 +252,21 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/repaired-offline-mode-cod-cold-war-2024-update/"><u>[REPAIRED] Offline Mode: CoD Cold War 2024 Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolution-windows-11-excessive-width/"><u>[RESOLUTION] Windows 11 Excessive Width</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>2024 Approved Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
-<li><a href="https://blog-min.techidaily.com/copying-encrypted-dvd-content-made-easy-with-vlc-player-and-handbrake-software/"><u>Copying Encrypted DVD Content Made Easy with VLC Player and HandBrake Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/critiquing-the-new-layout-of-amazon-reviews-are-consumers-being-misled/"><u>Critiquing the New Layout of Amazon Reviews - Are Consumers Being Misled?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-troubleshooting-route-no-current-gfx-wnvidia/"><u>Direct Troubleshooting Route: No Current GFX W/NVIDIA</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/erfolgreiches-backup-von-windows-servern-mit-google-drive-die-perfekte-methode-erklart/"><u>Erfolgreiches Backup Von Windows Servern Mit Google Drive – Die Perfekte Methode Erklärt!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-screen-recording-steps-for-perfection/"><u>Essential Screen Recording Steps for Perfection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-best-tv-streaming-options-our-pick-of-the-top-8/"><u>Exploring the Best TV Streaming Options: Our Pick of the Top 8</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-gpus-fixedcode-22-issue/"><u>Fixing GPU's FixedCode #22 Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-obsidian-streamrecord-overcoming-latency-problems/"><u>Fixing Obsidian Stream/Record: Overcoming Latency Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mending-windows-10-rapid-flash-problem/"><u>Mending Windows 10 Rapid Flash Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-drivers-win10-integration-success/"><u>Nvidia Drivers - Win10 Integration Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-chatting-on-ubuntu-how-to-connect-with-chatgpt-via-shell-command-line-interface/"><u>Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-coexistence-of-win10-and-geforce-98/"><u>Seamless Coexistence of Win10 & GeForce 98</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/speedily-elevate-intels-graphic-driver-for-windows-11/"><u>Speedily Elevate Intel's Graphic Driver for Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-master-quick-red-eye-correction-with-this-free-ios-tool/"><u>[New] In 2024, Master Quick Red-Eye Correction with This Free iOS Tool</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-return-journey-maker-collection-for-2024/"><u>[New] Return Journey Maker Collection for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/recovered-state-after-glitch-nvidia-shows-stability/"><u>[Recovered State] After Glitch, Nvidia Shows Stability</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-9-free-custom-youtube-branding-tools-online/"><u>[Updated] Top 9 FREE Custom YouTube Branding Tools Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>2024 Approved Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comwin-harmony-achieved-post-update/"><u>ComWin Harmony Achieved Post-Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawless-streams-instant-fix-needed/"><u>Flawless Streams, Instant Fix Needed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-install-intels-advanced-wireless-ac-7260-network-driver-on-your-device/"><u>How to Seamlessly Install Intel's Advanced Wireless-AC 7260 Network Driver on Your Device!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-tackle-c1900101-during-win11-setup-process/"><u>How To Tackle C1900101 During Win11 Setup Process</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-remedy-to-horizontal-line-phenomenon-in-laptops/"><u>Immediate Remedy to Horizontal Line Phenomenon in Laptops</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-angle-adjustment-successful/"><u>Laptop Angle Adjustment - Successful</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/popular-tags-for-instagram-that-you-should-be-using/"><u>Popular Tags for Instagram That You Should Be Using</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-error-0x887a0006-a-step-by-step-approach-to-fixing-dxgi-devices/"><u>Remedy Error 0X887A0006: A Step-by-Step Approach to Fixing DXGI Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-gpu-shuffling-now-fixes-apply-to-win11/"><u>Say Goodbye to GPU Shuffling - Now Fixes Apply to Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-crimson-display-malfunction/"><u>Step-by-Step Guide: Overcoming The Crimson Display Malfunction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Detected & Armored: OpenGL Bug in Nvidia Driver Armor"
-date: 2025-01-11T19:32:32.878Z
-updated: 2025-01-15T21:12:46.441Z
+date: 2025-01-20T18:33:37.045Z
+updated: 2025-01-22T01:16:57.417Z
 tags:
   - win11
   - win10
@@ -57,13 +57,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -79,11 +79,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -94,7 +94,7 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
@@ -102,7 +102,7 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
@@ -111,7 +111,7 @@ See how to do it:
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
@@ -144,14 +144,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-seamless-conversion-of-video-content-to-dynamic-gif-formats/"><u>[New] In 2024, Seamless Conversion of Video Content to Dynamic GIF Formats</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-testimonial-videos-the-social-proof-powerhouse-for-2024/"><u>[Updated] Testimonial Videos The Social Proof Powerhouse for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breaking-down-high-definition-a-look-at-4k/"><u>Breaking Down High Definition: A Look at 4K</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974754808-fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hilarity-in-harmony-great-ringtone-websites-for-2024/"><u>Hilarity in Harmony Great Ringtone Websites for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-style-sleuths-influential-beauty-creators/"><u>In 2024, Style Sleuths Influential Beauty Creators</u></a></li>
-<li><a href="https://network-issues.techidaily.com/perfecting-the-art-of-hybrid-graphics-card-functionality-on-windows-11/"><u>Perfecting the Art of Hybrid Graphics Card Functionality on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-angle-reversal-solved/"><u>Screen Angle Reversal - Solved</u></a></li>
-<li><a href="https://win-online.techidaily.com/updating-your-video-cards-drivers-made-easy-with-advice-from-yl-software-experts/"><u>Updating Your Video Card's Drivers Made Easy with Advice From YL Software Experts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-the-ultimate-hdr-camera-lineup/"><u>[New] Unveiling the Ultimate HDR Camera Lineup</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-no-spend-guide-to-the-best-ae-template-hits/"><u>[Updated] 2024 Approved No-Spend Guide to the Best AE Template Hits</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>[Updated] In 2024, Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-and-windows-10-unite-for-smooth-driver-load-resolution/"><u>AMD and Windows 10 Unite for Smooth Driver Load Resolution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/code-43-graphics-card-diagnosed/"><u>Code 43: Graphics Card Diagnosed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-disaster-to-delight-windows-minecraft-no-more-crashes/"><u>Drive Disaster to Delight: Windows Minecraft No More Crashes</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-g54-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola G54 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-start-setting-up-and-using-obs-on-a-mac-computer/"><u>In 2024, Quick Start Setting Up and Using OBS on a Mac Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-driver-no-signs-on-screen/"><u>New Driver, No Signs On Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-effortless-solutions-for-logitech-g9easy-steps-to-get-sound-back-3-easy-fixes-for-noise-problems-in-logitech-g933-mice-follow-these666/"><u>Solving the Silent Issue: Effortless Solutions for Logitech G9easy Steps to Get Sound Back) 3. Easy Fixes for Noise Problems in Logitech G933 Mice - Follow These Simple Steps!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974805276-upgrade-to-top-tier-graphics-with-newest-intel-hd-graphics-version-for-windows-10/"><u>Upgrade to Top-Tier Graphics with Newest Intel HD Graphics Version for Windows 10</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wie-man-eine-versehentlich-geloschte-excel-datenbank-unter-windows-11-wiederherstellt/"><u>Wie Man Eine Versehentlich Gelöschte Excel-Datenbank Unter Windows 11 Wiederherstellt</u></a></li>
 </ul></div>
 

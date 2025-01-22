@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm Wireless Fix: Atheros Driver Win11 Troubles"
-date: 2025-01-09T01:30:15.573Z
-updated: 2025-01-15T22:19:03.168Z
+date: 2025-01-19T19:06:47.694Z
+updated: 2025-01-22T01:07:21.898Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Disable & Enable your Qualcomm adapter driver
@@ -42,15 +42,15 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Go back to Device Manager and right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** again. This time, select**Enable device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-215.png)
@@ -68,21 +68,17 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
 4. Go to the**Driver** tab and click**Roll Back Driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/qualcom-atheros.png)
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  Open your web browser to check whether the network connection has gone back to normal. If not, you should proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your Qualcomm adapter driver
 
@@ -125,11 +125,11 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### My network connection doesn’t work at all
 
@@ -161,21 +161,16 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-collection-optimal-fb-lite-videos/"><u>[New] In 2024, Ultimate Collection Optimal FB Lite Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-how-to-fix-lag-and-high-ping-in-valorant/"><u>[SOLVED] How to Fix Lag and High Ping in Valorant</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-can-you-fix-failed-imessage-transfers-between-iphones/"><u>How Can You Fix Failed iMessage Transfers Between iPhones?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-navigating-through-channels-aesthetics-with-these-tools/"><u>In 2024, Navigating Through Channels' Aesthetics with These Tools</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/les-un-tiers-des-employes-a-distance-en-france-pretent-a-quitter-pour-frustrations-de-procedure/"><u>Les Un Tiers Des Employés À Distance en France Prêtent À Quitter Pour Frustrations De Procédure</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-x-flip-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo X Flip</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reimagining-stills-as-continuous-motion-sessions-for-2024/"><u>Reimagining Stills as Continuous Motion Sessions for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-nvstreamuseraagentexe-crashes-fixed-on-windows-systems/"><u>Resolved: NVSTREAMUSERA_AGENT.EXE Crashes Fixed on Windows Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-detection-issues-with-your-amd-graphics-card-on-a-windows-10-pc/"><u>Resolving Detection Issues with Your AMD Graphics Card on a Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-step-by-step-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solution-found-fixing-graphics-system-setup-errors-on-your-pc-or-laptop/"><u>Solution Found: Fixing Graphics System Setup Errors on Your PC or Laptop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-your-youtube-troubles-fix-errors-when-videos-wont-play/"><u>Solve Your YouTube Troubles - Fix Errors When Videos Won't Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-another-program-uses-device-auditory-fault/"><u>Tackling 'Another Program Uses Device' Auditory Fault</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voiceactivated-ai-on-mobile-try-chatgpt-with-android/"><u>VoiceActivated AI on Mobile? Try ChatGPT with Android</u></a></li>
-<li><a href="https://win11.techidaily.com/wintoys-explained-your-intuitive-guide-to-windows-mastery/"><u>WinToys Explained: Your Intuitive Guide to Windows Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-gps-companions-top-10-drones-that-stay-close/"><u>[New] 2024 Approved GPS Companions Top 10 Drones That Stay Close</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-use-video-titles-and-youtube-tags-in-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ensure-your-insta-pics-are-real-a-comprehensible-guide/"><u>[Updated] In 2024, Ensure Your Insta Pics Are Real - A Comprehensible Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-key-concepts-in-quantum-hdr-mastery-for-2024/"><u>[Updated] Key Concepts in Quantum HDR Mastery for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-uneven-line-presence-with-simplified-fix-techniques/"><u>Correcting Uneven Line Presence with Simplified Fix Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-backward-screen-display-order/"><u>Fixing Backward Screen Display Order</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-failure-zero-output-latest-model/"><u>Graphics Failure: Zero Output, Latest Model</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-recmaster-screen-recorder-review-2023/"><u>In 2024, Recmaster Screen Recorder Review 2023</u></a></li>
+<li><a href="https://network-issues.techidaily.com/outrun-game-freeze-anthem-lag-cure/"><u>Outrun Game Freeze: Anthem Lag Cure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-pixel-real-estate-win11-edition/"><u>Perfecting Pixel Real Estate: Win11 Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/secrets-of-the-masters-top-6-signature-removal-apps-revealed-for-2024/"><u>Secrets of the Masters Top 6 Signature Removal Apps Revealed for 2024</u></a></li>
 </ul></div>
 

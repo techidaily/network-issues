@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Rainbow Six Siege Patch Fail - DX12 Error"
-date: 2025-01-15T03:21:37.211Z
-updated: 2025-01-16T02:48:00.113Z
+date: 2025-01-17T05:45:21.881Z
+updated: 2025-01-22T03:26:32.660Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -76,10 +72,18 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -114,12 +118,12 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -134,10 +138,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -155,11 +155,11 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -178,22 +178,21 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-frontiers-in-extended-realty-engagements/"><u>[New] Frontiers in Extended Realty Engagements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>[Updated] 2024 Approved From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-access-all-subtitles-top-10-free-tools-for-youtube-videos/"><u>[Updated] Access All Subtitles Top 10 Free Tools for YouTube Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974359536-achieve-crisp-clear-displays-with-the-newest-intel-graphics-update-on-windows-10/"><u>Achieve Crisp, Clear Displays with the Newest Intel Graphics Update on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-stage-say-goodbye-to-screen-flashes-on-win11/"><u>End Stage: Say Goodbye to Screen Flashes on Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertly-charged-hero5-black-batteries-authenticity-and-counterparts/"><u>Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-flashy-phosphorescence-in-your-acer-laptop/"><u>Fixing Flashy Phosphorescence in Your Acer Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-the-power-of-github-desktop-for-windows-os-devops/"><u>Harness the Power of GitHub Desktop for Windows OS DevOps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-initialization-failure-in-direct3d/"><u>Overcoming Initialization Failure in Direct3D</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-high-lag-in-roblox-pc/"><u>Resolve High Lag in Roblox PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/serpent-soundtrack-comprehensive-guide-to-tts-resources-online-for-2024/"><u>Serpent Soundtrack Comprehensive Guide to TTS Resources Online for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974274668-simplify-graphics-experience-with-the-latest-intel-hd-graphics-update-for-windows-10/"><u>Simplify Graphics Experience with the Latest Intel HD Graphics Update for Windows 10.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninstalling-graphics-drivers-step-by-step-windows-guide/"><u>Uninstalling Graphics Drivers: Step-By Step WINDOWS Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/unraveling-the-mystery-why-does-my-chrome-display-managed-by-an-organization-and-is-it-safe/"><u>Unraveling the Mystery: Why Does My Chrome Display 'Managed By an Organization,' And Is It Safe?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-armored-and-resolved/"><u>Xbox 360 Emulation Armored & Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/altered-no-advanced-display-settings-found/"><u>[Altered] No Advanced Display Settings Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-warframe-crashing-launch-directx-issue/"><u>[CORRECTED] Warframe Crashing Launch - DirectX Issue</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>[New] Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>[Updated] 2024 Approved The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>[Updated] Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-hidden-display-adjustments-in-windows-11/"><u>Discover Hidden Display Adjustments in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-nvidia-card-resolution-on-pcs-device-list/"><u>Hidden NVIDIA Card: Resolution on PC's Device List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-20-non-copyrighted-pubg-image-sequences/"><u>In 2024, Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-navigating-through-the-best-screen-recorders-for-teaching/"><u>In 2024, Navigating Through the Best Screen Recorders for Teaching</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-top-15-trending-youtube-opening-sequences/"><u>In 2024, Top 15 Trending YouTube Opening Sequences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>In 2024, Unveiling the Essence Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantaneous-innovation-cure-legends-errors/"><u>Instantaneous Innovation: Cure Legends Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantly-enhance-video-smoothness/"><u>Instantly Enhance Video Smoothness</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/norsk-nexus-language-leap-in-ten-mins/"><u>Norsk Nexus: Language Leap in Ten-Mins</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stability-achieved-windows-11-screen-fixes/"><u>Stability Achieved: Windows 11 Screen Fixes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-8-digital-audio-workstations-your-ultimate-guide-for-producing-high-quality-music/"><u>Updated Top 8 Digital Audio Workstations Your Ultimate Guide for Producing High-Quality Music</u></a></li>
 </ul></div>
 

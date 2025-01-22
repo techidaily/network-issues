@@ -1,7 +1,7 @@
 ---
 title: "Final Fantasy Fiasco: Frustratingly Fast"
-date: 2024-11-22T03:44:04.013Z
-updated: 2024-11-23T18:20:45.850Z
+date: 2025-01-18T05:09:59.615Z
+updated: 2025-01-22T00:50:11.241Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  Epic Games Launcher is the gateway to unlock a variety of games. But you may encounter the issues of fluctuating download speed or even extremely slow downloads. To work around these issues, we’ve got you several fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -32,6 +36,14 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ![how to fix Epic Games download slow](https://cdn2.unrealengine.com/egs-twitchchannel-generic-offline-1920x1080-9d2573f00465.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the server status
 
  To narrow down the source of the problem, the first thing you need to do is to check the [Epic Games status page](https://status.epicgames.com/) .
@@ -39,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  If there are known server issues going on, they are usually visible on the page. If the problem is not from the server’s end, try the fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use a wired connection
 
@@ -53,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect other devices
@@ -65,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  When it’s all done, resume your download and check if it helps you fix the issue. If you’re still experiencing slow download speed or the download is stuck at a certain percent, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your network adapter driver
 
@@ -88,10 +92,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
@@ -113,9 +113,17 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 2. Click **Yes**  to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **ipconfig /flushdns** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-2.jpg)
 4. Type **ipconfig /renew** and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/cmd-3.jpg)
 5. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control** and hit **Enter** .  
@@ -126,19 +134,19 @@ Here we recommend using Google DNS:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-internet.png) .
 7. Select **Network and Sharing Center** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/network-and-sharing-center.png)
 8. Click the Internet connection you’re using, then select **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-44.png)
 9. Click **Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/change-DNS-server-Internet-Protocol-Version.jpg)
 10. Click **Use the following DNS server addresses:**  
@@ -152,10 +160,6 @@ Here we recommend using Google DNS:
  Now resume your download and check if your problem is solved. If not, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Edit your Engine.ini file
 
@@ -171,10 +175,6 @@ Here’s how to do this:
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-with-notepad.png)
 4. Copy and paste the following lines:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **[HTTP]**
 **HttpTimeout=10**
 **HttpConnectionTimeout=10**
@@ -187,6 +187,10 @@ Here’s how to do this:
 **RetryTime=0.5**
 
 ![Epic Games Launcher edit Engine.ini file](https://images.drivereasy.com/wp-content/uploads/2021/01/edit-ini-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Press**Ctrl + S** to save the edits.
 
@@ -202,10 +206,6 @@ When it’s all done, resume your download and it should be faster.
 2. Click the profile icon on the top right corner and then Settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-52.png)
 3. Scroll down a bit to tick the box for Throttle Downloads. Then set the download speed to 0.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-53.png)
 4. Restart Epic Games Launcher.
@@ -238,24 +238,21 @@ When it’s all done, resume your download and it should be faster.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-size-independent-strategies-for-securing-sponsors/"><u>[New] 2024 Approved Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhancing-your-memories-bank-with-snapchats-images/"><u>[New] 2024 Approved Enhancing Your Memories Bank with Snapchat's Images</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box-for-2024/"><u>[New] Become a Social Butterfly Engage in FB Live on Your Roku Box for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>[New] In 2024, Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-epic-games-download-slow-download-stuck/"><u>[SOLVED] Epic Games Download Slow /Download Stuck</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-fallout-4-crashing-on-pc-easily/"><u>[Solved] Fallout 4 Crashing on PC [Easily]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-effective-ways-for-home-based-podcasting/"><u>[Updated] Effective Ways for Home-Based Podcasting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-microphone-data-review-tips/"><u>[Updated] Microphone Data Review Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/academic-research-revolutionized-with-copernics-desktop-search-tools-for-scholars/"><u>Academic Research Revolutionized with Copernic's Desktop Search Tools for Scholars</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correct-overseen-graphics-setup/"><u>Correct Overseen Graphics Setup</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-not-your-cup-of-tea-discover-these-10-alternative-video-editing-tools-for-2024/"><u>FCPX Not Your Cup of Tea? Discover These 10 Alternative Video Editing Tools for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/free-easy-to-use-screen-recording-tools-for-windows-10/"><u>Free, Easy-To-Use Screen Recording Tools For Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gaming-triumph-crashed-game-repaired-swiftly/"><u>Gaming Triumph: Crashed Game Repaired Swiftly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-compatibility-success-for-nvidia-install/"><u>Hardware Compatibility Success for NVIDIA Install</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-7-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 7 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://network-issues.techidaily.com/install-completed-without-nvidia-errors/"><u>Install Completed Without NVIDIA Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-graphics-card-match-overwatch-update-fixed-issue/"><u>No Graphics Card Match - Overwatch Update Fixed Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-the-beast-resolving-fallout-4-pc-problems/"><u>Taming the Beast: Resolving Fallout 4 PC Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exclusive-list-of-top-5-iphone-podcast-platforms/"><u>[Updated] Exclusive List of Top 5 iPhone Podcast Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-solutions-for-the-windows-10-photos-app-stability-woes/"><u>2024 Approved Swift Solutions for the Window's 10 Photos App Stability Woes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-30-marketing-moments-that-can-transform-your-fb-game/"><u>2024 Approved The 30 Marketing Moments That Can Transform Your FB Game</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-abcd-of-effective-copy-in-facebook-campaigns/"><u>2024 Approved The ABCD of Effective Copy in Facebook Campaigns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-edge-precision-in-display/"><u>Balance Edge Precision in Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-low-brightness-display-problems-with-lenovo/"><u>Correcting Low-Brightness Display Problems with Lenovo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-microsofts-new-releases-a-detailed-insight-into-octobers-surface-event-as-reported-by-zdnet/"><u>Decoding Microsoft’s New Releases: A Detailed Insight Into October’s Surface Event as Reported by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-5-premier-photographers-and-videographers-mixing-tunes-for-2024/"><u>Explore 5 Premier Photographers & Videographers Mixing Tunes for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/never-ending-wi-fi-troubleshooting/"><u>Never-Ending Wi-Fi Troubleshooting</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-transition-hacks-3-pro-tips-for-seamless-video-editing/"><u>New FCP Transition Hacks 3 Pro Tips for Seamless Video Editing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/powering-through-intel-graphics-updates-win-7-edition-insights-and-tips/"><u>Powering Through Intel Graphics Updates: Win 7 Edition Insights and Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restarting-asus-for-webcam-activation/"><u>Restarting Asus for Webcam Activation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-windows-bluetooth-dongle-drivers/"><u>Step-by-Step Guide to Updating Windows Bluetooth Dongle Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-design-displays-comprehensive-reviews-and-testing-by-professionals-techradar/"><u>Top-Rated Graphics Design Displays - Comprehensive Reviews & Testing by Professionals | TechRadar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-interrupted-by-nvidia-error-no-longer-halted/"><u>Windows Interrupted By NVIDIA Error, No Longer Halted</u></a></li>
 </ul></div>
 

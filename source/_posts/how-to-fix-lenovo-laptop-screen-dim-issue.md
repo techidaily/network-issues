@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2025-01-07T22:55:04.301Z
-updated: 2025-01-09T23:19:20.154Z
+date: 2025-01-18T05:09:32.828Z
+updated: 2025-01-21T21:10:51.352Z
 tags:
   - win11
   - win10
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -75,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -119,22 +119,19 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-youtubes-profit-potential-the-500-subscribers-gateway/"><u>[New] Leveraging YouTube's Profit Potential The 500 Subscribers Gateway</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-converters-the-best-6-video-editing-tools-for-macos-big-sur/"><u>[Updated] Cutting-Edge Converters The Best 6 Video Editing Tools for macOS Big Sur</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-temporal-twist-mastering-video-flipping-in-snapchat/"><u>[Updated] Temporal Twist Mastering Video Flipping in Snapchat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/distinguishing-between-ev-types-bev-vs-phev-vs-fcev-vs-hybrid/"><u>Distinguishing Between EV Types: BEV vs PHEV vs FCEV vs Hybrid</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974349923-efficiently-upgrade-intel-g3000-driver-in-windows-11/"><u>Efficiently Upgrade Intel G3000 Driver in Windows 11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-c1900101-hurdle-in-win10-install/"><u>Eliminating C1900101 Hurdle in Win10 Install</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-for-google-chromes-filesync-on-your-pc-win/"><u>Expert Advice for Google Chrome's Filesync on Your PC, WIN</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy A05?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-your-journey-to-stylish-vlogging-a-beginners-guide-mac-edition/"><u>In 2024, Your Journey to Stylish Vlogging A Beginner's Guide, Mac Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-how-to-seamlessly-include-coding-text-into-microsoft-word/"><u>Mastering the Art: How To Seamlessly Include Coding Text Into Microsoft Word</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-graphics-armor-repaired-opengl-issue-solved/"><u>Nvidia Graphics Armor Repaired - OpenGL Issue Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pc-perfection-eliminate-fallout-4-errors/"><u>PC Perfection: Eliminate Fallout 4 Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/powershell-vs-windows-terminal-unveiling-key-distinctiveness/"><u>PowerShell Vs. Windows Terminal: Unveiling Key Distinctiveness</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-netflix-and-youtube-pauses-in-new-windows-version/"><u>Resolving Netflix & YouTube Pauses in New Windows Version</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-graphics-engine-geforce-210-for-windows-users/"><u>Upgraded Graphics Engine: GeForce 210 for Windows Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-gone-mia-solving-windows-11-problems/"><u>Wi-Fi Gone MIA: Solving Windows 11 Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-display-settings-adjustment/"><u>Win10 Display Settings Adjustment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-c-span-archive-entry-the-free-download-guide/"><u>[Updated] C-Span Archive Entry The Free Download Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-lightweight-obs-adjustments-for-thriftier-systems/"><u>2024 Approved Lightweight OBS Adjustments for Thriftier Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-c55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme C55 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complimentary-hd-landscape-designs-and-desktop-graphics-latest-2019-collection-by-yl-computing/"><u>Complimentary HD Landscape Designs & Desktop Graphics - Latest 2019 Collection by YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-issue-code-43-sorted/"><u>Device Issue: Code 43 Sorted</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-invisible-wi-fi-visible-in-windows-11/"><u>How To Make Invisible Wi-Fi Visible in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pathway-from-srt-to-subc-3-actionable-methods/"><u>In 2024, Pathway From SRT to SUBC 3 Actionable Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-analysis-of-the-microsoft-surface-studio-2s-premium-pricing/"><u>Insightful Analysis of the Microsoft Surface Studio 2'S Premium Pricing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/modernize-intellgraphics-on-pcs-with-updated-drivers-for-windows/"><u>Modernize IntellGraphics on PCs with Updated Drivers for Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-graphics-display-options-on-nvidia/"><u>Reactivating Graphics Display Options on Nvidia</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>The Display Settings Could Not Be Saved [Solved]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-modern-broadcasters-guide-to-iphone-and-android-streaming/"><u>The Modern Broadcaster's Guide to iPhone and Android Streaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-tolerance-for-zoom-cameras-gone-wrong-weve-got-the-fixes/"><u>Zero Tolerance for Zoom Cameras Gone Wrong? We've Got the Fixes!</u></a></li>
 </ul></div>
 

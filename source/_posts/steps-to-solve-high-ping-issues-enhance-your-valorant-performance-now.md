@@ -1,7 +1,7 @@
 ---
 title: Steps to Solve High Ping Issues - Enhance Your Valorant Performance Now
-date: 2025-01-11T23:51:47.982Z
-updated: 2025-01-15T21:25:09.474Z
+date: 2025-01-14T18:49:05.017Z
+updated: 2025-01-22T00:42:54.155Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/750c1d86ce393517a7e8e0f28b8261fcac89b6194
 
  Valorant’s been out for a while now, and there’re still many gamers reporting a**lag spikes** issue while refreshing kill records. If you’re also experiencing**high ping in Valorant** , don’t worry. Here’re some useful tricks that can help you resolve or mitigate this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes:
 
  Here’re 7 fixes for your high ping issue with Valorant. You might not need to try them all, just work your way down the list until you find the one that works.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/750c1d86ce393517a7e8e0f28b8261fcac89b6194
 5. **[Change your DNS settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Reboot your network
 
@@ -66,7 +58,15 @@ You should also make sure the cable is not broken.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/wired-connection.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, if you don’t have the option of shifting connection, you can check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fix 3: Close bandwidth-hogging programs
 
@@ -79,7 +79,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-update-bandwidth-hogging.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When it’s done, open Valorant and see if this solves your high ping issue. If you continue to experience this problem, move on to the next fix below.
@@ -109,6 +109,10 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
@@ -116,6 +120,10 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
 
  Once you’ve updated your network driver, restart your computer and launch Valorant. If the issue still remains, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change your DNS settings
 
@@ -127,19 +135,11 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-dialog-control.jpg)
 2. **View** the Control Panel **by Category** . Under **Network and Internet** section, click **View network status and tasks** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/control-panel-view-by-category-network-change-dns.jpg)
 3. Click **Change adapter settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-control-adapter-settings-dns-3.jpg)
 4. **Right-click** your current network and select **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/ethernet-adapter-properties-dns-change.jpg)
 5. Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
@@ -150,10 +150,6 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-dns-server-click-5.jpg)  
  8.8.8.8 and 8.8.4.4 are the most popular DNS servers maintained by Google.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. For the changes to take effect, you need to flush the DNS cache. On your taskbar, type**cmd** in the search box. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 8. In the pop-up window, type in**ipconfig /flushdns** . Press**Enter** .  
@@ -161,10 +157,14 @@ Here’s how to change your DNS settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/cmd-ipconfig-flushdns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your DNS server, open Valorant and check if the ping is stable. If this method doesn’t work for you, check out the next trick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Install all Windows updates
 
@@ -181,10 +181,6 @@ To check for Windows updates, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -192,17 +188,21 @@ To check for Windows updates, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed this process, open Valorant and see if the ping spikes reappear. If yes, there’s still one last fix you can try.
@@ -242,22 +242,20 @@ Here are some VPN providers we recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-record-gameplay-in-samsung-galaxy-phones/"><u>[Updated] 2024 Approved Record Gameplay in Samsung Galaxy Phones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-bringing-down-the-time-barrier-for-fastening-fb-video-content/"><u>[Updated] Bringing Down the Time Barrier for Fastening FB Video Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-the-mechanics-of-meme-dominance/"><u>2024 Approved Breaking Down the Mechanics of Meme Dominance</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-video-enthusiasts-guide-to-the-best-photo-backdrop-swappers/"><u>2024 Approved Video Enthusiasts' Guide to the Best Photo Backdrop Swappers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974794894-ban-buffering-seamless-vids-ahead/"><u>Ban Buffering: Seamless Vids Ahead</u></a></li>
-<li><a href="https://program-issues.techidaily.com/code-vein-optimization-tips-how-to-overcome-in-game-lag-and-freezing-episodes/"><u>Code Vein Optimization Tips: How to Overcome In-Game Lag and Freezing Episodes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-windows-stutter-reflections/"><u>Correcting Windows Stutter Reflections</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-code-404-gpu-not-detected/"><u>Error Code 404: GPU Not Detected</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-tips-on-updating-your-computers-intel-graphics-drivers-win-7/"><u>Expert Tips on Updating Your Computer's Intel Graphics Drivers, Win 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a05s-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A05s to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-glitch-gone-victory-in-monster-hunt-world/"><u>Graphic Glitch Gone - Victory in Monster Hunt World</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/key-techniques-to-maximize-your-spotify-ad-reach-for-2024/"><u>Key Techniques to Maximize Your Spotify Ad Reach for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-fixing-radeon-r9-in-win11/"><u>Mastering the Art of Fixing Radeon R9 in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ms-drive-corrections-for-win-versions-11-to-7/"><u>MS DRIVE Corrections for Win Versions 11 to 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-step-by-step-tutorial-creating-animated-gifs-from-images-using-your-computer/"><u>Simple Step-by-Step Tutorial: Creating Animated GIFs From Images Using Your Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-black-screen-blues-in-win11/"><u>Solving Black Screen Blues in Win11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-video-safeguarding-on-smartphones-uncovered/"><u>TikTok Video Safeguarding on Smartphones Uncovered</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-alternative-cinema-choices-for-every-fan/"><u>[Updated] 2024 Approved Alternative Cinema Choices for Every Fan</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-best-gopro-video-processing-apps-for-2024/"><u>[Updated] Best GoPro Video Processing Apps for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-mosaics-inserting-chapters-for-clarity-for-2024/"><u>[Updated] Vimeo's Video Mosaics Inserting Chapters for Clarity for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>About Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/choosing-between-the-latest-flagships-iphone-15-pro-max-and-samsung-s24-ultra-reviewed/"><u>Choosing Between the Latest Flagships: IPhone 15 Pro Max and Samsung S24 Ultra Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/escape-from-tarkov-graphics-bug-for-amd-users-quick-fix/"><u>Escape From Tarkov Graphics Bug for AMD Users [Quick Fix]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-mystery-solved-why-nvidia-isnt-listed-in-device-manager/"><u>GPU Mystery Solved: Why NVIDIA Isn't Listed in Device Manager</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-c50-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-latency-issue-now-fixed/"><u>Lenovo Tap Latency Issue, Now Fixed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/light-and-powerful-the-ultimate-windows-laptop-replacement-for-the-macbook-air-explore-top-picks-on-zdnet/"><u>Light & Powerful: The Ultimate Windows Laptop Replacement for the MacBook Air - Explore Top Picks on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-call-capture-techniques-and-understanding-local-laws-with-tips-from-zdnet/"><u>Mastering iPhone Call Capture Techniques and Understanding Local Laws with Tips From ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-setup-of-obs-and-streamlabs-for-mac-users-for-2024/"><u>Navigating the Setup of OBS & Streamlabs for Mac Users for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-game-performance-fix-civ-5-crash/"><u>Optimizing Game Performance: Fix Civ 5 Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-amd-radeon-r9-driver-functionality-in-w10/"><u>Restoring AMD Radeon R9 Driver Functionality in W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-blue-screen-dxgkrnlsys-troubleshoot/"><u>Win10 Blue Screen - dxgkrnl.sys Troubleshoot</u></a></li>
 </ul></div>
 

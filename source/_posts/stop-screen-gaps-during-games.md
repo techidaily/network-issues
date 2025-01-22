@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Gaps During Games
-date: 2025-01-12T18:12:02.190Z
-updated: 2025-01-15T21:23:16.124Z
+date: 2025-01-20T06:28:33.130Z
+updated: 2025-01-21T16:23:49.118Z
 tags:
   - win11
   - win10
@@ -28,16 +28,16 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -57,10 +57,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -79,18 +75,26 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**AMD** graphics users
@@ -101,15 +105,11 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
@@ -131,24 +131,22 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-screen-capture-software-top-picks-ranked-for-2024/"><u>[New] Essential Screen Capture Software - Top Picks Ranked for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-steps-for-successful-extraction-of-fb-content/"><u>[Updated] In 2024, Steps for Successful Extraction of FB Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-video-editing-on-windows-11-for-professionals/"><u>[Updated] In 2024, Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-beat-drops-essential-tiktok-rap-playlists/"><u>2024 Approved The Beat Drops Essential TikTok Rap Playlists</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlocking-screen-capturing-techniques-on-ipad/"><u>2024 Approved Unlocking Screen Capturing Techniques on iPad</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-and-qualcomm-wifi-seamlessly-work-in-win10/"><u>Atheros & Qualcomm WiFi Seamlessly Work in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diminishing-disturbance-on-win11-panels/"><u>Diminishing Disturbance on Win11 Panels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easing-pro-7s-shimmering-issue/"><u>Easing Pro 7'S Shimmering Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-saving-of-screen-config-changes-on-windows-710/"><u>Enabling Saving of Screen Config Changes on Windows 7/10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-dxgkrnlsys-crash-in-windows-blue-screen/"><u>Fixed dxgkrnl.sys Crash in Windows' Blue Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-wiimote-not-reading-discs-on-nintendo-wii/"><u>How to Fix Wiimote Not Reading Discs on Nintendo Wii</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-accelerated-cinematic-tips-diy-filming-mastery/"><u>In 2024, Accelerated Cinematic Tips DIY Filming Mastery</u></a></li>
-<li><a href="https://network-issues.techidaily.com/jive-without-jitters-anti-lag-tactics/"><u>Jive Without Jitters: Anti-Lag Tactics</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-video-game-best-4k8k-video-editing-software-for-2024/"><u>New Elevate Your Video Game Best 4K/8K Video Editing Software for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/opaque-output-offline-operations/"><u>Opaque Output, Offline Operations</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-c67-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme C67 5G</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-hidden-vram-issues/"><u>Tackle Hidden VRAM Issues</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/unlimited-sing-along-explore-35-new-tracks-from-party-tymes-latest-dj-cd-for-your-ultimate-karaoke-experience/"><u>Unlimited Sing-Along: Explore 35 New Tracks From Party Tyme's Latest DJ CD for Your Ultimate Karaoke Experience!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-fall-screen-fix-after-cu-installation/"><u>Win10 Fall Screen Fix After CU Installation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ice-acceleration-showdown-at-the-olympics-2022/"><u>[New] 2024 Approved Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-audiovisual-consistency-in-premiers/"><u>[New] Achieving Audiovisual Consistency in Premiers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illustrators-dream-top-8-ipados-drawers/"><u>[New] Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlock-joyful-hours-essential-list-of-best-offline-ios-titles/"><u>[New] In 2024, Unlock Joyful Hours - Essential List of Best Offline iOS Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-risk-and-revelation-10-roguelike-game-selection/"><u>[Updated] 2024 Approved Risk and Revelation #10 Roguelike Game Selection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-3-cheap-fast-internet-plans-for-gamers-for-2024/"><u>[Updated] Top 3 Cheap, Fast Internet Plans for Gamers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discovered-nvidia-graphics-chip-vanishing-from-system-hub/"><u>Discovered: NVIDIA Graphics Chip Vanishing From System Hub</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-harmony-end-of-fallout-4-snafus/"><u>PC Harmony: End of Fallout 4 Snafus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/portable-ai-assistance-how-to-use-chatgpt-anytime-anywhere-via-the-chatgpt-everywhere-app/"><u>Portable AI Assistance: How to Use ChatGPT Anytime, Anywhere via the 'ChatGPT Everywhere' App</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-issue-amds-loading-problem-with-win10-driver-detected-and-fixed/"><u>Resolved Issue: AMD's Loading Problem with Win10 Driver Detected & Fixed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/roblox-optimization-for-smooth-computer-gaming/"><u>Roblox Optimization for Smooth Computer Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/soothing-screenscape-shivers-in-pro-7/"><u>Soothing Screenscape Shivers in Pro 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upside-down-screen-rectification-for-windows-10/"><u>Upside-Down Screen Rectification for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-achieved-fullscreen-without-faults/"><u>Win11 Display: Achieved Fullscreen Without Faults</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-resolution-adjustment-made/"><u>Win11 Screen Resolution Adjustment Made</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide"
-date: 2025-01-14T18:25:28.638Z
-updated: 2025-01-16T00:15:46.554Z
+date: 2025-01-20T02:44:34.215Z
+updated: 2025-01-22T01:11:09.149Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -58,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -97,23 +89,31 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
@@ -155,24 +155,18 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2023-fb-live-stream-mp4-conversion-tool-for-2024/"><u>[New] 2023 FB Live Stream MP4 Conversion Tool for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat/"><u>[New] 2024 Approved Identifying Unresponsiveness Signs Someone Has Blocked on Snapchat</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-journey-clearing-images-with-picsart/"><u>[New] A Step-By-Step Journey Clearing Images with Picsart</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-capturing-webcasts-without-payment-fees-for-2024/"><u>[New] Capturing Webcasts Without Payment Fees for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insights-into-instagram-video-constraint/"><u>[New] In 2024, Insights Into Instagram Video Constraint</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-integrating-automatic-speech-conversion-into-powerpoint-presentations/"><u>[Updated] In 2024, Integrating Automatic Speech Conversion Into PowerPoint Presentations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-inverted-display-issue-in-windows-7/"><u>Addressing Inverted Display Issue in Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/advanced-displays-unseen-windows-11-issue/"><u>Advanced Displays Unseen: Windows 11 Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/controlling-vast-windows-10-panels/"><u>Controlling Vast Windows 10 Panels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-steps-to-setup-and-activate-a-wireless-adapter-on-windows-pcs/"><u>Direct Steps to Setup & Activate a Wireless Adapter on Windows PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevating-amd-radeon-r9-experience-with-fixes-on-win11/"><u>Elevating AMD Radeon R9 Experience with Fixes on Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-lenovo-screen-glare-reduction-mistakes/"><u>Fixing Lenovo Screen Glare Reduction Mistakes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-no-charge-fb-visual-storyteller-pro-software/"><u>In 2024, No-Charge FB Visual Storyteller Pro Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-error-corrected-required-graphics-met/"><u>Overwatch Error Corrected: Required Graphics Met</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-texture-quality-issues-in-far-cry-island/"><u>Rectifying Texture Quality Issues in Far Cry Island</u></a></li>
-<li><a href="https://network-issues.techidaily.com/spartans-skill-set-streamlined/"><u>Spartan's Skill Set Streamlined</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Lava Blaze Pro 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-review-still-a-relevant-video-editor-explore-the-best-alternatives/"><u>Virtualdub Review Still a Relevant Video Editor ? Explore the Best Alternatives</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-c67-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme C67 5G Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-tips-for-recording-high-quality-video-in-zoom/"><u>[New] In 2024, Tips for Recording High-Quality Video in Zoom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-does-t-series-generate-revenue-in-2024/"><u>[Updated] How Does T-Series Generate Revenue, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-spin-tiktok-magic-into-viral-instagram-reel-success/"><u>[Updated] Spin TikTok Magic Into Viral Instagram Reel Success</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728465197208-aomei-backupper/"><u>全面輸入AOMEI Backupper:這是完美格式化硬碟的正宗方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/1716098050308-facebook-videos-vertical-or-horizontal-in-2024/"><u>Facebook Videos Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-the-process-of-win-7s-intel-driver-updates/"><u>Navigating the Process of Win 7'S Intel Driver Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-size-fix-for-windows-10-users-achieved/"><u>Screen Size Fix for Windows 10 Users Achieved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplified-trick-to-straighten-laptop-views/"><u>Simplified Trick to Straighten Laptop Views</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-enabling-pip-functionality-on-android-phones/"><u>Step-by-Step Tutorial for Enabling PiP Functionality on Android Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-wow-glitch-remedy-51900319/"><u>Step-by-Step WoW Glitch Remedy #51900319</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-study-success-with-smart-gpt-notes/"><u>Unlock Study Success with Smart GPT Notes</u></a></li>
 </ul></div>
 

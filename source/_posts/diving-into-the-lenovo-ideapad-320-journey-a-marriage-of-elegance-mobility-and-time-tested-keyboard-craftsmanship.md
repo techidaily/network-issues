@@ -1,7 +1,7 @@
 ---
 title: "Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
-date: 2025-01-11T02:45:30.099Z
-updated: 2025-01-15T16:26:57.930Z
+date: 2025-01-18T00:27:26.748Z
+updated: 2025-01-22T03:09:01.178Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Into The Lenovo Ideapad 320 Journey: A Marriage of Elegance, Mobility & Time-Tested Keyboard Craftsmanship"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/F035WaL3U8Q-n4fK2WBE6844lMo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -49,10 +45,6 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Emily Isaacs
 
 [View On Walmart $138](https://www.walmart.com/ip/Microsoft-Sculpt-Ergonomic-Desktop-Black-Wireless-USB-Keyboard-Keypad-and-Mouse/31390902?slfpid=3) [View On Best Buy $66](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F1818024.p) [View On Newegg.com $169](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fmicrosoft-sculpt-ergonomic-desktop-l5v-00001-usb-rf-wireless%2Fp%2FN82E16823109349%3Fitem%3D9SIA24G28N0197%26slfpid%3D3)
@@ -73,6 +65,10 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
@@ -87,18 +83,26 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
@@ -115,11 +119,11 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -144,10 +148,6 @@ Lifewire / Emily Isaacs
  **A secure, mid-priced wireless keyboard with lots of customization options.**
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,22 +179,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-makeup-mavens-handbook-youtube-edition/"><u>[Updated] 2024 Approved The Makeup Maven’s Handbook YouTube Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-gaming-experience-with-fbx-recording-tips/"><u>[Updated] Elevate Your Gaming Experience with FBX Recording Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-windows-11s-default-silent-camera-alert-setting/"><u>Altering Windows 11'S Default Silent Camera Alert Setting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-those-bothersome-freezes-and-crashes-in-your-favorite-viking-world-valheim/"><u>Banish Those Bothersome Freezes & Crashes in Your Favorite Viking World, Valheim!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/build-a-custom-vr-device-diy-google-cardboard-guide/"><u>Build a Custom VR Device DIY Google Cardboard Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-duplication-process-explained-for-microsofts-latest-os-versions/"><u>DVD Duplication Process Explained for Microsoft's Latest OS Versions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-effortlessly-access-safe-mode-on-windows-for-drivers-replacement/"><u>How To Effortlessly Access Safe Mode on Windows for Drivers Replacement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>In 2024, From SRT to the Future Mastering XML/SSA/TTML Transforms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a56s-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A56s 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-software-and-driver-downloads-for-your-canon-pixma-mg2522-printer/"><u>Latest Software and Driver Downloads for Your Canon PIXMA MG2522 Printer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-nvidiaintel-graphics-glitch-in-windows-11/"><u>Overcoming Nvidia/Intel Graphics Glitch in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974714462-quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-vertical-display-flip/"><u>Resolving Vertical Display Flip</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-windows-10-whiteout-after-cu/"><u>Reversing Windows 10 Whiteout After CU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalize-your-experience-fixing-win11-flicker/"><u>Revitalize Your Experience: Fixing Win11 Flicker</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-skype-the-top-10-audio-capture-tools/"><u>[New] 2024 Approved Skype The Top 10 Audio Capture Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-reviewing-video-comment-trails-on-youtube/"><u>[New] In 2024, Reviewing Video Comment Trails on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-securing-your-online-sessions-pcmobile-recording/"><u>[New] In 2024, Securing Your Online Sessions PC/Mobile Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>[New] Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-top-viewers-playlist-on-youtube-history/"><u>[Updated] Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-influencers-blueprint-five-steps-to-proven-marketing-success/"><u>2024 Approved The Influencer's Blueprint Five Steps to Proven Marketing Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/chivalry-ii-crash-no-more-steps-to-ensure-uninterrupted-gameplay/"><u>Chivalry II Crash No More: Steps to Ensure Uninterrupted Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-unreliable-touchscreen/"><u>Fixing Lenovo's Unreliable Touchscreen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-peering-into-popularity-instagram-analytics-for-you/"><u>In 2024, Peering Into Popularity Instagram Analytics for You</u></a></li>
+<li><a href="https://network-issues.techidaily.com/market-trends-how-amd-is-revolutionizing-the-gaming-industry/"><u>Market Trends: How AMD Is Revolutionizing the Gaming Industry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-stability-challenges-in-civ-5windows/"><u>Tackling Stability Challenges in Civ 5/Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722451017501-top-recommended-external-optical-discs-readers-find-your-perfect-match/"><u>Top Recommended External Optical Discs Readers – Find Your Perfect Match!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-switchable-graphics-nvidiaintel-fix-confirmed-for-win11/"><u>Triumph Over Switchable Graphics - Nvidia/Intel Fix Confirmed for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-setup-now-stable-and-secured/"><u>Visual Setup Now Stable & Secured</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-no-more-plagues-by-com-issues/"><u>Windows No More Plagues by COM Issues</u></a></li>
 </ul></div>
 

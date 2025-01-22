@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Resolving Screen Flicker Issues on Your Asus Notebook
-date: 2025-01-11T03:36:56.922Z
-updated: 2025-01-15T19:07:47.917Z
+date: 2025-01-15T01:12:21.616Z
+updated: 2025-01-21T18:44:38.019Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###   **Fix 1: Change the screen refresh rate**  
@@ -44,15 +44,11 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -68,7 +64,7 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. Click**Advanced settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
@@ -76,6 +72,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -87,6 +87,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
 
@@ -105,10 +109,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -154,18 +154,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/levating-your-youtube-stream-the-wirecast-way/"><u>[New] Elevating Your YouTube Stream The WireCast Way</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-innovative-ways-to-control-your-iphones-picture-angles/"><u>[New] Innovative Ways to Control Your iPhone's Picture Angles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pros-and-cons-of-virtual-reality/"><u>[New] Pros and Cons of Virtual Reality</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-instagram-pros-tips-for-bulk-upload-of-images-and-video/"><u>[Updated] 2024 Approved The Instagram Pro’s Tips for Bulk Upload of Images and Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-impress-and-captivate-in-solo-podcasting/"><u>[Updated] Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unearthing-the-best-free-mac-apps-for-speech-to-text-for-2024/"><u>[Updated] Unearthing the Best Free Mac Apps for Speech to Text for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-hidden-video-blocks/"><u>Demystifying Hidden Video Blocks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/drive-downgrade-monitor-muted/"><u>Drive Downgrade: Monitor Muted</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-clever-design-a-comprehensive-review-of-twelve-south-bookbook-v2-case/"><u>Evaluating the Clever Design: A Comprehensive Review of Twelve South BookBook V2 Case</u></a></li>
-<li><a href="https://network-issues.techidaily.com/get-back-on-track-essential-fixes-for-broken-down-zooms/"><u>Get Back on Track: Essential Fixes for Broken-Down Zooms</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/resolving-issues-when-apowermanager-fails-to-retrieve-contact-info-and-texts-from-iphone-or-ipad/"><u>Resolving Issues When ApowerManager Fails to Retrieve Contact Info & Texts From iPhone or iPad</u></a></li>
-<li><a href="https://network-issues.techidaily.com/syncd-system-no-more-winrts-errors/"><u>Sync'd System: No More WinRTS Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-something-went-wrong-issues-on-office-windows/"><u>Tackling Something Went Wrong Issues on Office Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>[New] In 2024, Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-writing-slug-lines/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Writing Slug Lines</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-taking-your-reels-up-a-notch-with-these-top-editors/"><u>[Updated] 2024 Approved Taking Your Reels Up a Notch with These Top Editors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-essential-instructions-for-effective-use-of-telegram-browser/"><u>[Updated] Essential Instructions for Effective Use of Telegram Browser</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] In 2024, The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-screen-glitches-on-pro-7/"><u>Banishing Screen Glitches on Pro 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-challenges-in-win11/"><u>Conquering AMD Radeon R9 Driver Challenges in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-darter-pro-an-outstanding-choice-for-the-linux-user-experience/"><u>Latest Darter Pro: An Outstanding Choice for the Linux User Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-spark-20-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Spark 20 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-elusive-video-system-checks/"><u>Rectify Elusive Video System Checks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-troubleshooting-netflix-connectivity-problems-on-xbox-one/"><u>Resolved Issue: Troubleshooting Netflix Connectivity Problems on Xbox One</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-kratoss-gameplay-glitch/"><u>Resolved: Kratos's Gameplay Glitch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-winxs-bsod-with-dxgkrnlsys/"><u>Resolved: WinXs BSOD with dxgkrnl.sys</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-full-brightness-on-lenovo-screens/"><u>Restoring Full Brightness on Lenovo Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-windows-11-playback-after-upgrade-woes-solved/"><u>Smooth Windows 11 Playback After Upgrade Woes Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/understanding-and-fixing-the-wireless-disappearing-act-in-windows-11/"><u>Understanding and Fixing the Wireless Disappearing Act in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia/Intel Graphics Glitch in Windows 11
-date: 2025-01-10T00:52:15.878Z
-updated: 2025-01-15T16:11:10.793Z
+date: 2025-01-16T16:52:30.352Z
+updated: 2025-01-22T06:08:31.558Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -37,11 +41,19 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -77,15 +89,15 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -93,27 +105,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -124,7 +124,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -142,14 +142,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-screen-space-on-windows-11-devices/"><u>Optimizing Screen Space on Windows 11 Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment-for-2024/"><u>Pushing the Boundaries Animated FB Ads That Increase Return on Investment for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-windows-8-drivers-removal-via-safe-mode-rehearsal/"><u>Step-By-Step Windows 8 Drivers Removal via Safe Mode Rehearsal</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-choices-the-ultimate-guide-to-selecting-a-gamers-companion/"><u>Top Choices: The Ultimate Guide to Selecting a Gamer's Companion</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-screen-shimmering/"><u>Troubleshooting Lenovo Screen Shimmering</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/uberspielen-von-dateien-vom-iphoneipad-auf-eine-externe-speicherung-funf-effektive-tricks/"><u>Überspielen Von Dateien Vom iPhone/iPad Auf Eine Externe Speicherung - Fünf Effektive Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ui-interrupt-in-windows-graphics-awaiting-fix/"><u>UI Interrupt in Windows Graphics (Awaiting Fix)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-15-windows-10-recording-applications-reviewed/"><u>[New] 2024 Approved Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-listener-engagement-seo-strategies-for-podcasts/"><u>[New] Elevate Listener Engagement Seo Strategies for Podcasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-tape-to-trending-seamless-mp3-to-youtube-transition/"><u>[New] From Tape to Trending Seamless MP3 to YouTube Transition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-harnessing-hues-iphone-low-light-mastery/"><u>[New] Harnessing Hues IPhone Low-Light Mastery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-inverted-screen-view/"><u>Fixing Windows 10: Inverted Screen View</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-11-screen-mirror-reversal/"><u>Fixing Windows 11 Screen Mirror Reversal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-view-old-stories-on-facebook-for-2024/"><u>How to View Old Stories on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-virtual-victors-the-leading-ladies-in-gaming/"><u>In 2024, Virtual Victors The Leading Ladies in Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-display-just-a-blink/"><u>No Display, Just a Blink</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-windows-10-lacks-wireless-card-detection/"><u>Resolved: Windows 10 Lacks Wireless Card Detection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-rectifying-backward-screen-orientation/"><u>Windows 10: Rectifying Backward Screen Orientation</u></a></li>
 </ul></div>
 

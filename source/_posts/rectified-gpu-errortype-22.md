@@ -1,7 +1,7 @@
 ---
 title: Rectified GPU Errortype 22
-date: 2025-01-11T21:24:49.313Z
-updated: 2025-01-15T16:51:46.045Z
+date: 2025-01-15T17:32:43.401Z
+updated: 2025-01-22T00:44:19.898Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 11. Voila! Your screen should appear normally now. If it isn’t working, you can press the power button to shut down and restart your computer, then carefully repeat the above steps to better troubleshoot the issue.
 
 Be careful you don’t mistype, or press the wrong keys!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
@@ -59,6 +67,10 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
@@ -66,18 +78,14 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -97,16 +105,8 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -129,24 +129,14 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-de-following-immediate-awareness/"><u>[New] 2024 Approved Instagram De-Following Immediate Awareness</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamlined-language-translation-best-online-subtitle-manipulators/"><u>[New] 2024 Approved Streamlined Language Translation – Best Online Subtitle Manipulators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-detailed-breakdown-chilled-delights-on-your-screen/"><u>[New] Detailed Breakdown Chilled Delights on Your Screen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-probing-deep-into-inshots-editing-capabilities/"><u>[Updated] 2024 Approved Probing Deep Into InShot's Editing Capabilities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-audience-engagement-meets-technology-four-recording-ways-on-facebook/"><u>[Updated] Audience Engagement Meets Technology Four Recording Ways on Facebook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-video-presence-editing-and-changing-facebook-covers/"><u>[Updated] In 2024, Enhancing Video Presence Editing and Changing Facebook Covers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-inverted-display-on-windows-7/"><u>Correcting Inverted Display on Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dimmed-display-defying-desktop/"><u>Dimmed Display, Defying Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gaming-gone-wrong-tame-your-rtx-3080-crash/"><u>Gaming Gone Wrong? Tame Your RTX 3080 Crash</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxui-interrupt-windows-issue-coming-soon-fix/"><u>GFXUI Interrupt, Windows Issue (Coming Soon Fix)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-12-pro-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 12 Pro Activation Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-4g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 4G FRP Without Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ready-os-post-com-firmware-fixes/"><u>Ready OS Post-COM Firmware Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-wider-screen-issue-in-window-software/"><u>Rectified Wider-Screen Issue in Window Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/success-with-amd-on-windows-driver-load-now-functioning-properly/"><u>Success with AMD on Windows, Driver Load Now Functioning Properly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/twitter-talk-unraveling-the-mystery-of-retweets-and-re-tweets/"><u>Twitter Talk: Unraveling the Mystery of Retweets and Re-Tweets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-7-iso-download-and-create-step-by-step/"><u>Windows 7 ISO Download and Create Step by Step</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-slomo-video-software-review-year-2024/"><u>[New] In-Depth SloMo Video Software Review - Year 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-redefine-viewing-premium-platforms-for-videos/"><u>[Updated] 2024 Approved Redefine Viewing Premium Platforms for Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-full-screen-windows-fail-to-appear-on-monitor-windows-10/"><u>Corrected: Full Screen Windows Fail to Appear on Monitor (Windows 10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-lenovo-tap-glitch-back-to-life/"><u>Fixed Lenovo Tap Glitch, Back to Life</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-x50iplus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor X50i+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-12plus-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme 12+ 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974436316-maximize-graphic-fidelity-with-updated-intel-hd-graphics-3000-for-windows-10/"><u>Maximize Graphic Fidelity with Updated Intel HD Graphics 3000 for Windows 10.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-a-beginners-guide-to-adding-titles-captions-and-subtitles-in-fcpx/"><u>New A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-seamless-installation-achieved/"><u>Nvidia Setup: Seamless Installation Achieved</u></a></li>
 </ul></div>
 

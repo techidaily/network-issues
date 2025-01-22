@@ -1,7 +1,7 @@
 ---
 title: Missing Window 11 Display Configurations
-date: 2025-01-09T22:18:43.270Z
-updated: 2025-01-15T20:43:37.540Z
+date: 2025-01-18T21:30:02.505Z
+updated: 2025-01-21T20:20:52.398Z
 tags:
   - win11
   - win10
@@ -20,17 +20,13 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
@@ -59,13 +55,13 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -79,24 +75,28 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
@@ -122,22 +122,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-bring-it-all-together-elevate-your-fb-video-experience/"><u>[New] Bring It All Together Elevate Your FB Video Experience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-diving-into-the-world-of-instagrams-reels-and-stories/"><u>[New] In 2024, Diving Into the World of Instagram's Reels & Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-navigate-through-apples-best-in-class-virtual-reality-games/"><u>[New] In 2024, Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-flickering-on-monitors-a-diy-guide/"><u>Banish Flickering on Monitors: A DIY Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-epubor-software-solutions-your-guide-to-advanced-publishing-tools/"><u>Discover Epubor Software Solutions - Your Guide to Advanced Publishing Tools</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhance-and-mend-your-videos-with-grau-gmbhs-innovative-restoration-systems/"><u>Enhance and Mend Your Videos with Grau GmbH's Innovative Restoration Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-guide-to-obtaining-the-latest-canon-drivers-for-windows-devices/"><u>Hassle-Free Guide to Obtaining the Latest Canon Drivers for Windows Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-unseen-on-tv-via-hdmi/"><u>Laptop Screen Unseen on TV via HDMI</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/resolving-mp4-output-issue-correcting-aspect-ratio-after-ripping-dvds-with-handbrake/"><u>Resolving MP4 Output Issue: Correcting Aspect Ratio After Ripping DVDs with Handbrake</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974854754-revitalize-graphic-performance-seamlessly-update-intel-hd-graphics-3000-driver-for-w10/"><u>Revitalize Graphic Performance: Seamlessly Update Intel HD Graphics 3000 Driver for W10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successfully-installed-gpu-win-issue-fixed/"><u>Successfully Installed GPU, Win Issue Fixed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-remedy-non-stuttering-views-only/"><u>Swift Remedy: Non-Stuttering Views Only</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-erratic-windows-7-display/"><u>Taming Erratic Windows 7 Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-graphics-geforce-rtx210-for-power-users-in-win11/"><u>Upgraded Graphics: GeForce RTX210 for Power Users in Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/what-is-4k-resolution/"><u>What Is 4K Resolution</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728504578871-windows-1011/"><u>Windows 10/11の初期設定問題：進行不能・中断する解決策</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-preventing-unwanted-filming-in-quicktime/"><u>[New] In 2024, Preventing Unwanted Filming in QuickTime</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-practices-for-distance-dialogue-capture-for-2024/"><u>[Updated] Best Practices for Distance Dialogue Capture for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-high-end-philips-somneo-alarm-system/"><u>Comprehensive Review of the High-End Philips Somneo Alarm System</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/decouvrez-les-signes-dune-cle-usb-infectee-et-apprenez-a-lidentifier-facilement/"><u>Découvrez Les Signes D'une Clé USB Infectée Et Apprenez À L'identifier Facilement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-logitech-g-series-racing-wheels-for-pc-windows-7-8-and-10-perfect-setup-tutorials-included/"><u>Download the Latest Logitech G Series Racing Wheels for PC (Windows 7, 8, & 10) - Perfect Setup Tutorials Included</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-transparent-computer-vision/"><u>Effortless: Transparent Computer Vision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-c1900101-during-windows-installation/"><u>Fixing C1900101 During Windows Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
+<li><a href="https://common-error.techidaily.com/remedy-poor-connection-performance-between-epson-scan-and-printer/"><u>Remedy Poor Connection Performance Between Epson Scan & Printer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-screens-on-windows-7-platform/"><u>Stabilizing Screens on Windows 7 Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-potential-in-media-production-via-xp/"><u>Unleash Potential in Media Production via XP</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlocking-the-art-of-iphone-podcast-downloads-with-ease/"><u>Unlocking the Art of iPhone Podcast Downloads with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-fix-plugins-not-working-in-final-cut-pro-x/"><u>Updated In 2024, How to Fix Plugins Not Working in Final Cut Pro X?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Vertical Display Flip
-date: 2024-12-01T02:30:36.239Z
-updated: 2024-12-02T23:31:36.827Z
+date: 2025-01-15T21:30:26.168Z
+updated: 2025-01-21T17:45:20.563Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -39,6 +39,10 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -47,21 +51,17 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -77,12 +77,12 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,22 +105,24 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-blend-into-black-premiere-pro-trick-for-2024/"><u>[New] Blend Into Black Premiere Pro Trick for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-beginners-checklist-8-key-slip-ups-in-youtube-creation/"><u>[New] In 2024, The Beginner's Checklist 8 Key Slip-Ups in YouTube Creation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-new-vloggers-guide-to-top-10-youtube-editing-techniques/"><u>[Updated] New Vloggers' Guide to Top 10 YouTube Editing Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-nocturnal-nuances-expert-insights-into-nighttime-photography-for-2024/"><u>[Updated] Nocturnal Nuances Expert Insights Into Nighttime Photography for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-influence-are-we-witnessing-the-end-of-conventional-academic-papers/"><u>ChatGPT's Influence: Are We Witnessing the End of Conventional Academic Papers?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-content-incorporating-exact-timestamps-in-videos/"><u>Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/industrial-grade-secure-data-clearance-get-insight-into-bitrasers-erasure-suite-for-enterprises/"><u>Industrial-Grade Secure Data Clearance: Get Insight Into BitRaser’s Erasure Suite for Enterprises</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-weaving-your-own-generated-text-models-into-any-chatgpt-exchange/"><u>Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-night-on-display-board/"><u>Silent Night on Display Board</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-for-you-methods-to-develop-a-bespoke-gpt-model/"><u>Tailoring ChatGPT for You: Methods to Develop a Bespoke GPT Model</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-game-changing-mouse-tech-specs/"><u>Unveiling Game-Changing Mouse Tech Specs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-the-best-in-middle-tier-tablets-for-android-users-a-closer-look-at-the-samsung-galaxy-tab-s7/"><u>Unveiling the Best in Middle Tier Tablets for Android Users: A Closer Look at the Samsung Galaxy Tab S7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-mastering-the-ken-burns-effect-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/why-is-my-iphone-lagging-uncover-the-6-main-issues-and-remedies/"><u>Why Is My iPhone Lagging? Uncover the 6 Main Issues & Remedies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevating-customer-engagement-with-snapkit-tools/"><u>[New] In 2024, Elevating Customer Engagement with SnapKit Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-proven-strategies-for-optimizing-video-content-on-youtube/"><u>[Updated] In 2024, Proven Strategies for Optimizing Video Content on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-virtual-shopfront-user-testing/"><u>[Updated] Virtual Shopfront User Testing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/50-mobile-discounts-and-expert-insights-on-cracking-ransomware-codes-podcast-with-chatgpt/"><u>$50 Mobile Discounts & Expert Insights on Cracking Ransomware Codes - Podcast with ChatGPT!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-pro-7s-flickering-phenomenon/"><u>Addressing Pro 7'S Flickering Phenomenon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-audio-masterpieces-using-audacity-for-2024/"><u>Capturing Audio Masterpieces Using Audacity for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-reset-nvidia-overcomes-previous-hiccup/"><u>Display Reset: Nvidia Overcomes Previous Hiccup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-vision-new-windows-11-resolution-tweaks/"><u>Enhance Vision - New Windows 11 Resolution Tweaks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-low-res-graphics-in-far-cry-6-adventure-mode/"><u>Eradicating Low-Res Graphics in Far Cry 6 Adventure Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-disabled-screen-save-functionality-on-windows-710/"><u>Fixing Disabled Screen Save Functionality on Windows 7/10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ideal-screencasting-software-for-effective-teaching/"><u>In 2024, Ideal Screencasting Software for Effective Teaching</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nokia-72-analysis-how-this-device-stands-out-among-mid-range-phones/"><u>Nokia 7.2 Analysis: How This Device Stands Out Among Mid-Range Phones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-crash-now-functioning-properly/"><u>Nvidia Driver Crash: Now Functioning Properly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-big-on-oneplus-premier-bargains-of-the-prime-day-extravaganza/"><u>Save Big on OnePlus - Premier Bargains of the Prime Day Extravaganza</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/snicker-secrets-of-virtual-realms-making-funny-memes/"><u>Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-unwanted-hp-screen-glimmers/"><u>Solving Unwanted HP Screen Glimmers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stone-age-stumbles-on-sell/"><u>Stone Age Stumbles on Sell</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-graphics-performance-install-intel-hd-graphics-3000-on-windows-10-with-ease/"><u>Upgrade Graphics Performance: Install Intel HD Graphics 3000 on Windows 10 with Ease.</u></a></li>
 </ul></div>
 

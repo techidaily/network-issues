@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert: Glitchy OpenGL Error Now Corrected"
-date: 2025-01-12T23:08:39.197Z
-updated: 2025-01-15T22:52:34.390Z
+date: 2025-01-15T04:13:43.813Z
+updated: 2025-01-22T05:05:05.266Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ed0ba5a4e.jpg)
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,12 +58,16 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -83,11 +83,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -97,28 +97,28 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,24 +144,20 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-iphoneandroid-5-tactics-for-downloading-igtv/"><u>[New] IPhone/Android 5 Tactics for Downloading IGTV</u></a></li>
-<li><a href="https://network-issues.techidaily.com/armored-fix-gdrivererr22/"><u>Armored Fix: GDRIVER_ERR22</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dell-displays-no-more-flashing-fears/"><u>Dell Displays: No More Flashing Fears</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-glitch-full-windows-10-not-on-screen-resolved/"><u>Display Glitch: Full Windows 10, Not on Screen Resolved</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-razer-control-software-on-pcs-compatible-with-win11win8win7xpvista/"><u>Download & Update Razer Control Software on PCs: Compatible with Win11/Win8/Win7/XP/Vista</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-chipset-audio-software-for-amd-and-intel-processors-at-zero-price/"><u>Download Asus Chipset Audio Software for AMD & Intel Processors at Zero Price</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-chromes-sluggishness-fast-and-simple-solutions/"><u>Fixing Chrome's Sluggishness: Fast and Simple Solutions!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-retweeted-gifs-iphoneandroid-step-by-step-savings/"><u>In 2024, Retweeted Gifs IPhone/Android Step-by-Step Savings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-g54-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola G54 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-intel-sata-and-nvme-controller-drivers-for-windows-operating-systems-win-11-10-8-asterisk/"><u>Latest Intel SATA and NVMe Controller Drivers for Windows Operating Systems (Win 11, 10, 8, Asterisk)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/missing-wi-fi-card-reconnect-via-windows-10-settings/"><u>Missing Wi-Fi Card? Reconnect via Windows 10 Settings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-your-systems-intel-graphics-in-windows/"><u>Optimize Your System's Intel Graphics in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reducing-hp-lcd-glitch-frequency/"><u>Reducing HP LCD Glitch Frequency</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/removing-user-authentication-with-pin-on-windows-11-a-comprehensive-walkthrough/"><u>Removing User Authentication with PIN on Windows 11 – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974755070-stabilized-mobile-monitor-reflections-victory/"><u>Stabilized Mobile Monitor Reflections - Victory!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-an-sos-only-display-on-iphone-discover-six-remedies/"><u>Troubleshoot an 'SOS Only' Display on iPhone: Discover Six Remedies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-best-15-inch-portable-pcs-rigorous-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unveiling-fix-for-win11-absence-of-display/"><u>Unveiling Fix for WIN11 Absence of Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-missing-network-interface-on-windows-10-notebook/"><u>[FIXED] Missing Network Interface on Windows 10 Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-adjusted-installed-driver-for-missing-amd-graphics/"><u>[GRAPHICS ADJUSTED] Installed Driver for Missing AMD Graphics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-to-upgrade-channel-descriptions/"><u>[New] 2024 Approved Cutting-Edge Techniques to Upgrade Channel Descriptions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-video-sequencing-synergy-mastering-blend-modes/"><u>[Updated] Video Sequencing Synergy Mastering Blend Modes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/changer-une-image-jpg-en-format-bmp-sans-frais-movavi/"><u>Changer Une Image JPG en Format BMP Sans Frais - Movavi</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrypting-nvidia-rtx-3080-gaming-woes-and-fixes/"><u>Decrypting NVIDIA RTX 3080 Gaming Woes & Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-fluctuating-streams-in-new-windows-11/"><u>Fixing Fluctuating Streams in New Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974803428-how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-crafting-transitional-soundscapes-in-cubase/"><u>In 2024, Crafting Transitional Soundscapes in Cubase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-file-renaming-a-step-by-step-guide-using-powershell/"><u>Mastering File Renaming: A Step-by-Step Guide Using PowerShell</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quelles-sont-les-differentes-resolutions-disponibles-sur-un-dvd-comprehension-des-options-en-video-et-image/"><u>Quelles Sont Les Différentes Résolutions Disponibles Sur Un DVD ? Compréhension Des Options en Vidéo Et Image</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-recovery-fixing-apex-crashes-effortlessly/"><u>Rapid Recovery: Fixing Apex Crashes Effortlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-overlooked-gpu-connection/"><u>Repair Overlooked GPU Connection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-downloading-songs-for-free-top-15-legit-sources-revealed/"><u>The Ultimate Guide to Downloading Songs for Free: Top 15 Legit Sources Revealed</u></a></li>
 </ul></div>
 

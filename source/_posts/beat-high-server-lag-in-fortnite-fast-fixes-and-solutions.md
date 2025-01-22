@@ -1,7 +1,7 @@
 ---
 title: "Beat High Server Lag in Fortnite: Fast Fixes and Solutions"
-date: 2025-01-12T02:23:30.951Z
-updated: 2025-01-15T19:55:36.173Z
+date: 2025-01-16T23:26:05.273Z
+updated: 2025-01-21T23:59:26.050Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Reboot your network
 
  One of the easiest fixes for high ping issues is to simply**restart your network** . By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve the high ping issue. Here is how to do it: 
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 modem
 
@@ -60,10 +60,6 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -73,10 +69,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**Ctrl** , **Shift,** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
@@ -102,7 +94,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -111,6 +103,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 4. After updating, restart your computer to take effect.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
 
@@ -121,23 +117,19 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
- Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
 ### Fix 6: Change your matchmaking region
 
@@ -150,9 +142,17 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
@@ -196,24 +196,15 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-macs-preview-a-comprehensive-tutorial/"><u>[New] 2024 Approved Mastering Mac's Preview A Comprehensive Tutorial</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-art-of-finding-lost-chats/"><u>[New] In 2024, Mastering the Art of Finding Lost Chats</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-hdmi-laptop-to-tv-not-working/"><u>[Solved] HDMI Laptop to TV Not Working</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pro-level-mobile-media-capture-iphone-and-androids-top-5-apps/"><u>[Updated] In 2024, Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-ultimate-tutorial-crafting-magnetic-tiktok-openers-with-macos/"><u>[Updated] In 2024, The Ultimate Tutorial Crafting Magnetic TikTok Openers with MacOS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/width-limitation-windows-11-large-screen-size/"><u>[WIDTH LIMITATION] Windows 11 Large Screen Size</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/best-unfollow-tools-and-apps-for-twitter/"><u>Best Unfollow Tools and Apps for Twitter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-nvidiaintel-graphic-problem-a-win10-solution-found/"><u>Conquering NVIDIA/Intel Graphic Problem: A Win10 Solution Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-c1900101-tips-for-a-smooth-windows-11-installation/"><u>Correcting C1900101: Tips for a Smooth Windows 11 Installation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-perfect-youtube-music-sets-for-2024/"><u>Crafting Perfect YouTube Music Sets for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dell-panel-pulsations-now-quieted/"><u>Dell Panel Pulsations, Now Quieted</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-changes-preserved-post-save/"><u>Display Changes Preserved Post-Save</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-photos-with-effective-blurs/"><u>Elevate Your Photos with Effective Blurs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fallout-4-pc-stability-breakthrough/"><u>Fallout 4: PC Stability Breakthrough</u></a></li>
-<li><a href="https://fox-info.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-performance-monitor-not-working-on-windows/"><u>How to Fix the Performance Monitor Not Working on Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-oddity-loading-lullaby/"><u>Overwatch Oddity: Loading Lullaby</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silencing-shimmer-on-windows-monitors/"><u>Silencing Shimmer on Windows Monitors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-now-when-will-smart-homes-go-beyond-cookies-to-sandwich-making/"><u>The Future Is Now: When Will Smart Homes Go Beyond Cookies to Sandwich Making?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2023s-approach-tweeting-from-tiktok-for-2024/"><u>[New] 2023'S Approach Tweeting From TikTok for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simple-steps-to-a-stellar-vlog-journey/"><u>[Updated] Simple Steps to a Stellar Vlog Journey</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-deep-does-it-go-exploring-the-multiple-levels-of-royal-match/"><u>How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-google-pixel-fold-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Google Pixel Fold?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-list-of-10-invisible-stories-watchers/"><u>In 2024, List of 10 Invisible Stories Watchers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
+<li><a href="https://win-trending.techidaily.com/seamless-datenubertragung-von-android-auf-iphone-ohne-move-to-ios-app/"><u>Seamless Datenübertragung Von Android Auf iPhone Ohne Move to iOS-App</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
 </ul></div>
 

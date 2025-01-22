@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2025-01-15T01:56:45.789Z
-updated: 2025-01-15T16:22:50.234Z
+date: 2025-01-17T16:53:04.556Z
+updated: 2025-01-21T22:18:22.952Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Mixing Topics In a Single Chat Session
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -60,10 +60,6 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -75,7 +71,7 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -98,13 +94,13 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -128,6 +124,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.
@@ -147,24 +147,20 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-free-stock-footage-from-these-4-youtube-channels-for-2024/"><u>[New] Get Free Stock Footage From These 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-quickly-save-your-screen-in-windows-systems/"><u>[New] Quickly Save Your Screen in Windows Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-10-photo-grid-apps-to-make-your-pictures-stand-out-for-2024/"><u>[New] Top 10 Photo Grid Apps to Make Your Pictures Stand Out for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-playbook-navigating-tools-for-vimeo-content-grabs/"><u>[Updated] 2024 Approved The Ultimate Playbook Navigating Tools for Vimeo Content Grabs</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-fast-tracked-finesse-how-to-efficiently-edit-and-enhance-windows-photos/"><u>2024 Approved Fast-Tracked Finesse How to Efficiently Edit and Enhance Windows Photos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-computer-power-enabling-intel-graphics-compatibility/"><u>Boost Computer Power: Enabling Intel Graphics Compatibility</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-theme-changes-for-a-stylish-windows-11-desktop/"><u>Effortless Theme Changes for a Stylish Windows 11 Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-graphics-support-amd-radeon-6950-v10/"><u>Enhanced Graphics Support - AMD Radeon 6950 V1.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-issue-no-signal-for-wireless-on-windows-10-pc/"><u>Fixed Issue: No Signal for Wireless on Windows 10 PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-not-recognizing-nvidia-video-hardware/"><u>Fixed: Windows Not Recognizing NVIDIA Video Hardware</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-6-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 6 Plus Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-c51-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco C51 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-display-issues-with-windows-11-update/"><u>Overcome Display Issues with Windows 11 Update</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/stop-motion-mastery-the-top-5-online-tools/"><u>Stop Motion Mastery The Top 5 Online Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamlined-nvidia-and-windows-xp-sync/"><u>Streamlined Nvidia & Windows XP Sync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackle-sims-4-absence-of-display/"><u>Tackle Sims 4 Absence of Display</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-the-fabric-of-friendships-in-social-media/"><u>Unraveling the Fabric of Friendships in Social Media</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-signal-slipping-away/"><u>Wi-Fi Signal Slipping Away</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-google-voice-call-logging-with-ease-for-2024/"><u>[New] Navigating Google Voice Call Logging with Ease for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>[Updated] Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs/"><u>2024 Approved Visionaries at Work A Detailed Review of Top 3D Modeling Programs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-random-hp-monitor-flickering/"><u>Addressing Random HP Monitor Flickering</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-amds-graphics-setback/"><u>Bypass AMD's Graphics Setback</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>In 2024, The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mh-world-error-12-solved-monsters-rejoice/"><u>MH World Error 12 Solved - Monsters Rejoice</u></a></li>
+<li><a href="https://android-frp.techidaily.com/overcoming-graphics-glitches-the-ultimate-guide-to-directx-drawing-repairs/"><u>Overcoming Graphics Glitches: The Ultimate Guide to DirectX Drawing Repairs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-no-signal-on-wi-fi-in-windows-11/"><u>Resolved: No Signal on Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saved-display-settings-no-more-trouble/"><u>Saved Display Settings, No More Trouble</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-failed-operations-troubleshoot-0x0000011b/"><u>Stopping Failed Operations: Troubleshoot 0X0000011B</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-mac-iphone-and-ipad-pip-for-2024/"><u>The Ultimate Guide to Mac, iPhone, and iPad PIP for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-excessive-scale-problem/"><u>Window's 11 Excessive Scale Problem</u></a></li>
 </ul></div>
 

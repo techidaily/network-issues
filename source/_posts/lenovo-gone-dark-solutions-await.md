@@ -1,7 +1,7 @@
 ---
 title: Lenovo Gone Dark? Solutions Await
-date: 2025-01-04T05:59:31.201Z
-updated: 2025-01-10T02:31:14.618Z
+date: 2025-01-20T03:55:32.023Z
+updated: 2025-01-22T05:05:31.512Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -91,10 +99,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -106,7 +110,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
@@ -123,29 +127,21 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -162,7 +158,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
@@ -174,12 +170,16 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,22 +207,18 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>[New] 2024 Approved Step-By-Step Guide MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-freezing-screen-in-win10-os/"><u>Cure Freezing Screen in Win10 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-driver-43-problem-solved/"><u>Device Driver 43 - Problem Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminated-issue-windows-10-monitors-not-showing-all-windows/"><u>Eliminated Issue - Windows 10 Monitors Not Showing All Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-computers-networking-wi-fi-lan-card-setup-for-os-xwindows/"><u>Enhance Your Computer's Networking: Wi-Fi LAN Card Setup for OS X/Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/excellent-live-broadcast-services-featuring-local-channels-2024/"><u>Excellent Live Broadcast Services Featuring Local Channels 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-anomaly-resolved-in-display-driver-fix/"><u>GPU Anomaly Resolved in Display Driver Fix</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations/"><u>In 2024, Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-truecaller-app-evaluation-features-benefits-and-performance/"><u>In-Depth Truecaller App Evaluation: Features, Benefits & Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/initiating-functional-screen-output-in-portables/"><u>Initiating Functional Screen Output in Portables</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-tdr-alert-opengl-error-now-armored/"><u>Overcome TDR Alert: OpenGL Error, Now Armored</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pros-and-cons-reviewing-nikon-d7500-for-2024/"><u>Pros & Cons Reviewing Nikon D7500 for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swiftly-solving-youtubes-green-mishaps/"><u>Swiftly Solving YouTube's Green Mishaps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-comparison-samsung-galaxy-book-2-in-1-ultra-versus-the-apple-macbook-pro-for-elite-performance-insights-from-tech-experts-at-zdnet/"><u>Ultimate Comparison: Samsung Galaxy Book 2-in-1 Ultra Versus the Apple MacBook Pro for Elite Performance - Insights From Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/yl-softwares-aya-arisugawa-collection-stunning-images-and-customizable-wallpapers-for-enthusiasts/"><u>YL Software's Aya Arisugawa Collection: Stunning Images and Customizable Wallpapers for Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[Updated] Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snickel-and-snicker-5-best-meme-generating-apps/"><u>[Updated] Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxwindowlock-up-error-windows-fix-ready/"><u>GfxWindowLock Up Error, WIndows Fix (Ready)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-configuration-for-correct-fullscreen-display/"><u>Monitor Configuration for Correct Fullscreen Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/organizing-overflow-of-tiktok-saves-for-effective-edits-for-2024/"><u>Organizing Overflow of TikTok Saves for Effective Edits for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-displays-error-inadequate-graphics-hardware/"><u>Overwatch Displays Error: Inadequate Graphics Hardware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rampage-resolved-frustrating-fetches/"><u>Rampage Resolved: Frustrating Fetches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-beyerdynamic-mmx-300-pro-headphones-outstanding-sound-and-basic-composition-examined/"><u>Review of Beyerdynamic MMX 300 Pro Headphones: Outstanding Sound & Basic Composition Examined</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-fix-for-nvidia-related-windows-stoppage/"><u>Successful Fix for Nvidia-Related Windows Stoppage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-tech-horizon-with-microsofts-hololens-review-for-2024/"><u>The New Tech Horizon with Microsoft's HoloLens Review for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-instagram-influence-5-strategies-with-examples/"><u>The Ultimate Guide to Instagram Influence 5 Strategies with Examples</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cod-addressing-and-correcting-the-wwii-game-bug-error-4220/"><u>Troubleshooting Cod: Addressing and Correcting the WWII Game Bug (Error 4220)</u></a></li>
 </ul></div>
 

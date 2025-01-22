@@ -1,7 +1,7 @@
 ---
 title: My Computer Screen Upside Down - How to Fix It
-date: 2025-01-09T05:32:11.548Z
-updated: 2025-01-10T02:36:01.154Z
+date: 2025-01-15T06:02:11.592Z
+updated: 2025-01-21T18:36:08.973Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
  Note: It’d be so uncomfortable to search on Google and follow the instruction if your computer/laptop screen turns upside down, so you can search on Google and read the instructions on another computer or mobile phone to go on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Try keyboard shortcut combinations
 
  Sometimes you might accidentally press the keyboard shortcut combinations to flip your**computer screen upside down,** so you can try to press the keyboard shortcut combinations to rotate your display screen to place normally. Here’s how to do it:
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure Display Settings
@@ -80,13 +80,25 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and locate the**Display orientation** menu. Change the orientation to:**Landscape,** **Portrait** ,**Landscape** **(flipped)** , or **Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
 
@@ -94,17 +106,9 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select**View by category** , and click**Adjust screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19127f11a3b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the drop down menu next to**Orientation** , and select**Portrait** ,**Landscape (flipped)** ,**Portrait (flipped)** , and click**OK** .
 
@@ -138,10 +142,6 @@ There are two options to update drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -173,17 +173,18 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>[New] Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>[New] Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-beyond-the-basics-streamlabs-competitors-analyzed-for-2024/"><u>[Updated] Beyond the Basics Streamlabs Competitors Analyzed for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-gameplay-geforce-210-and-win10-combined-power/"><u>Elevate Your Gameplay: GeForce 210 & WIN10 Combined Power</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/fixing-windows-10-game-bar-issues-top-troubleshooting-tips/"><u>Fixing Windows 10 Game Bar Issues: Top Troubleshooting Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>In 2024, The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/linking-headphones-to-sony-gaming-system/"><u>Linking Headphones to Sony Gaming System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-wow-problem-solving-no-519/"><u>Mastering WoW Problem Solving No. 519</u></a></li>
-<li><a href="https://network-issues.techidaily.com/maximizing-monitor-space-on-wins11-pcs/"><u>Maximizing Monitor Space on Wins11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/origin-gaming-troubleshooting-steps-to-solve-in-game-setup-mistakes/"><u>Origin Gaming Troubleshooting: Steps to Solve In-Game Setup Mistakes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tdr-alert-deciphered-nvidia-opengl-armored-solution/"><u>TDR Alert Deciphered: NVidia OpenGL Armored Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-call-of-duty-cold-war-connectivity-issue/"><u>[FIXED] Call of Duty Cold War Connectivity Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/it-explanation-of-dxgkrnlsys-bluescreen/"><u>[IT] Explanation of dxgkrnl.sys BlueScreen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-10-screen-recorders-for-youtube/"><u>[New] 2024 Approved Best 10 Screen Recorders for YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-initiate-your-journey-into-asmr-filming-essential-insights-revealed/"><u>2024 Approved Initiate Your Journey Into ASMR Filming – Essential Insights Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-glitches-with-ease/"><u>End Monitor Glitches with Ease</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-fix-a-corrupted-boot-partition-in-windows-10/"><u>How to Fix a Corrupted Boot Partition in Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-the-best-7-android-adblock-tools/"><u>In 2024, The Ultimate Guide to the Best 7 Android AdBlock Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-laughter-in-vr-crafting-metaverse-humor/"><u>In 2024, Unlocking Laughter in VR Crafting Metaverse Humor</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/interstellar-information-resurrect/"><u>Interstellar Information Resurrect</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988216747-la-noire-coming-to-your-computer-the-update-that-was-hard-to-believe-is-true/"><u>L.A. Noire Coming To Your Computer: The Update That Was Hard to Believe Is True</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-updates-fixing-render-driver-issues-across-windows-series/"><u>Microsoft Updates: Fixing Render Driver Issues Across Windows Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-solutions-for-non-responsive-wireless-mice-windows/"><u>Top 10 Solutions for Non-Responsive Wireless Mice (Windows)</u></a></li>
 </ul></div>
 

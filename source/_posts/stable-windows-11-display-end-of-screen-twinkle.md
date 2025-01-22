@@ -1,7 +1,7 @@
 ---
 title: Stable Windows 11 Display - End of Screen Twinkle
-date: 2025-01-13T21:51:54.071Z
-updated: 2025-01-15T22:04:27.457Z
+date: 2025-01-20T21:34:25.007Z
+updated: 2025-01-22T01:58:31.715Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ## Stable Windows 11 Display - End of Screen Twinkle
 
  If you’ve been experiencing screen flashing or flickering issues on your Windows 10 computer lately, don’t panic. It can be easily fixed…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for screen flashing or flickering problem
 
@@ -40,29 +44,17 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
@@ -94,10 +86,6 @@ Here is how to change the monitor refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -111,20 +99,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Update the incompatible apps
 
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -169,6 +165,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -196,22 +196,21 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked-for-2024/"><u>[New] Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mp3-mastery-guide-top-10-video-to-audio-picks/"><u>[New] In 2024, MP3 Mastery Guide Top 10 Video-to-Audio Picks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo-for-2024/"><u>[Updated] Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beating-the-black-screen-blues-in-windows-11-a-comprehensive-troubleshooting-guide/"><u>Beating the Black Screen Blues in Windows 11 – A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windowas-10-driver-issue-for-amd-detection-no-more-failed-attempts/"><u>Fixed Windowas 10 Driver Issue for AMD, Detection No More Failed Attempts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-error-43-on-gpu/"><u>Fixing Error 43 on GPU</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-installer-all-clear-proceed-with-install/"><u>Nvidia Installer: All Clear, Proceed With Install</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-troubleshoot-restore-your-gameplay/"><u>NVIDIA RTX 3080 Troubleshoot - Restore Your Gameplay</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-graphics-cards-not-detected-in-computers/"><u>Remedying Graphics Cards Not Detected in Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-elusive-screen-blanks/"><u>Revealing Elusive Screen Blanks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974682383-swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now</u></a></li>
-<li><a href="https://fox-within.techidaily.com/transform-your-written-content-with-zero-cost-the-top-free-ebook-creator-for-instant-text-to-pdf-conversion/"><u>Transform Your Written Content with Zero Cost - The Top Free eBook Creator for Instant Text-to-PDF Conversion!</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-cure-for-hyper-v-error-code-0x8009030e/"><u>Unlocking Windows: Cure for Hyper-V Error Code 0X8009030E</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-amd-radeon-hd-6950-windows-update/"><u>Upgraded AMD Radeon HD 6950 Windows Update</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/video-dominance-on-instagram-designing-a-pro-marketing-approach-for-2024/"><u>Video Dominance on Instagram Designing a Pro-Marketing Approach for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-when-your-nvidia-isnt-plugged-in-essential-repair-techniques/"><u>What To Do When Your Nvidia Isn't Plugged In? Essential Repair Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/size-regulation-tighten-up-windows-11-display/"><u>[SIZE REGULATION] Tighten Up Windows 11 Display</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-free-fb-imagecinematic-creator-kit/"><u>2024 Approved Expert Free FB Image/Cinematic Creator Kit</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>2024 Approved How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/elevate-your-app-management-top-3-methods-for-running-software-as-an-administrator-on-windows-11-and-10-platforms/"><u>Elevate Your App Management: Top 3 Methods for Running Software as an Administrator on Windows 11 & 10 Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-detail-in-far-cry-6-game-mode/"><u>Enhancing Visual Detail in Far Cry 6 Game Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-erase-the-system-recovery-partition-in-windows/"><u>Expert Advice: How To Erase The System Recovery Partition in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ignite-wifi-speeds-on-windows-xp7-networks/"><u>Ignite WiFi Speeds on Windows XP/7 Networks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-magic-advanced-techniques-for-tiktok-videos/"><u>In 2024, Unlocking the Magic Advanced Techniques for TikTok Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-compromises-nvidia-and-intel-gpus-work-together-in-win11/"><u>No More Compromises: Nvidia & Intel GPUs Work Together in Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickfix-guide-your-definitive-solution-to-fixed-up-zooms/"><u>QuickFix Guide: Your Definitive Solution to Fixed-Up Zooms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974237248-rejuvenate-graphics-performance-in-windows-10-through-updated-intel-gpu-driver/"><u>Rejuvenate Graphics Performance in Windows 10 Through Updated Intel GPU Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-win11-monitor-doesnt-show-fullscreen/"><u>Resolved: Win11 Monitor Doesn't Show Fullscreen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-and-repairing-audio-video-decoding-mishaps-in-your-premier-edit-suite/"><u>Troubleshooting and Repairing Audio-Video Decoding Mishaps in Your Premier Edit Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windowss-0x80070490-update-error-comprehensive-fix-strategies/"><u>Winning Against Windows's 0X80070490 Update Error: Comprehensive Fix Strategies</u></a></li>
 </ul></div>
 

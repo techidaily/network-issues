@@ -1,7 +1,7 @@
 ---
 title: Tackle Sims 4 Absence of Display
-date: 2025-01-09T02:32:42.177Z
-updated: 2025-01-16T01:24:10.216Z
+date: 2025-01-19T23:45:03.867Z
+updated: 2025-01-21T18:12:40.252Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 ## Tackle Sims 4 Absence of Display
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -43,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -78,7 +82,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
@@ -92,6 +96,10 @@ Here is how to do it:
  2) In the **Command Line Arguments** box, type **\-w** and click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
 
@@ -113,13 +121,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -135,10 +143,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -150,6 +154,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -170,17 +178,9 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -211,17 +211,14 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-visual-impact-a-guide-to-jump-cut-techniques/"><u>[New] Enhancing Visual Impact A Guide to Jump Cut Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-download-vlc-player-for-free-and-safe-on-mac/"><u>[New] In 2024, How to Download VLC Player for Free and Safe on Mac?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-bd-issues-on-ws-21-ws-8-and-older-windows/"><u>Addressing BD Issues on WS-21, WS-8 & Older Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-most-recent-rtx-2-2080-graphics-card-drivers-for-optimal-performance-on-windows-1011/"><u>Download the Most Recent RTX 2지 2080 Graphics Card Drivers for Optimal Performance on Windows 10/11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fury-fixed-for-spartans-journey/"><u>Fury Fixed for Spartan's Journey</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-gionee-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Gionee</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recover-lost-display-settings-easy-way/"><u>Recover Lost Display Settings, Easy Way</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solidify-displays-edge-integrity/"><u>Solidify Display's Edge Integrity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974830104-swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-selection-of-cost-free-high-quality-video-editors-for-2024/"><u>The Ultimate Selection of Cost-Free, High-Quality Video Editors for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-freeze-frame-converting-videos-to-images-with-10-expert-tools/"><u>Updated The Art of Freeze-Frame Converting Videos to Images with 10 Expert Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-graphics-card-signal-lost-and-restored/"><u>[Resolved] Graphics Card Signal Lost & Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-screen-glitch-windows-10-displays-only-sliver-of-windows/"><u>Corrected Screen Glitch: Windows 10 Displays Only Sliver of Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974481222-enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-engagement-on-video-calls-using-snap-features/"><u>In 2024, Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/preserving-your-snapchat-moments-beyond-app-for-2024/"><u>Preserving Your SnapChat Moments Beyond App for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/probleme-mit-der-taskbar-von-windows-11-gelost-durch-aktualisierung-erkunde-diese-5-schritte-zur-wiederherstellung/"><u>Probleme Mit Der Taskbar Von Windows 11, Gelöst Durch Aktualisierung - Erkunde Diese 5 Schritte Zur Wiederherstellung</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-expansive-monitor-glitches-for-windows-pc/"><u>Solved Expansive Monitor Glitches for Windows PC</u></a></li>
 </ul></div>
 

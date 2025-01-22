@@ -1,7 +1,7 @@
 ---
 title: Laptop Display Rotated - Issue Resolved
-date: 2025-01-12T18:17:49.802Z
-updated: 2025-01-15T18:34:31.143Z
+date: 2025-01-17T17:38:32.958Z
+updated: 2025-01-21T21:44:50.294Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 1. [**Restore your laptop screen with a keyboard shortcut**](#a)
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  **BONUS TIP:[Prevent your screen from rotating itself](#c)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
@@ -40,7 +40,7 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -51,14 +51,18 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-This should restore your laptop screen.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+This should restore your laptop screen.
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -74,15 +78,11 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,24 +105,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-a-professional-rss-feed-for-your-podcast/"><u>[New] Crafting a Professional RSS Feed for Your Podcast</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-3-efficient-methods-for-saving-youtubes-standardized-images/"><u>[Updated] 3 Efficient Methods for Saving YouTube's Standardized Images</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-6-masterpieces-designing-mc-village-homes/"><u>2024 Approved Top 6 Masterpieces Designing MC Village Homes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tracing-view-count-to-cash-flow-on-youtube-platform/"><u>2024 Approved Tracing View Count to Cash Flow on YouTube Platform</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dells-display-disorder-resolved-today/"><u>Dell's Display Disorder: Resolved Today</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disable-lcd-flicker-effects/"><u>Disable LCD Flicker Effects</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/effective-solutions-for-resolving-scanners-that-fail-to-function-properly-insights-from-yl-computings-expertise/"><u>Effective Solutions for Resolving Scanners That Fail to Function Properly: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-problem-windows-10-displaying-only-partial-windows/"><u>Fixed Problem: Windows 10 Displaying Only Partial Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-exploring-new-design-dimensions-integrating-typesetting-into-ae/"><u>In 2024, Exploring New Design Dimensions Integrating Typesetting Into AE</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-amd-radeon-r9-troubleshooting-in-windows-11/"><u>Navigating AMD Radeon R9 Troubleshooting in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-fixed-system-paused-over-device-error/"><u>NVIDIA Fixed: System Paused Over Device Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-10/"><u>NVIDIA GeForce 210 Drivers Update for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pc-roblox-performance-slowdown/"><u>PC: Roblox Performance Slowdown</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-flickering-win11-monitor/"><u>Quick Fix for Flickering Win11 Monitor</u></a></li>
-<li><a href="https://network-issues.techidaily.com/realigning-windows-10-screens-for-correct-view/"><u>Realigning Windows 10 Screens for Correct View</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-screen-recording-handbook-insights-and-expert-tips/"><u>The Ultimate Screen Recording Handbook: Insights & Expert Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-40i-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 40i Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-windows-11s-full-potential-through-taskbar-utilization/"><u>Unleash Windows 11'S Full Potential Through Taskbar Utilization</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-game-bar-alternative-recorders/"><u>[New] Top 10 Game Bar Alternative Recorders</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-digital-safety-with-2fa-for-email-platforms-like-gmail-and-outlook/"><u>Boosting Digital Safety with 2FA for Email Platforms Like Gmail and Outlook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-it-focus-quick-apex-bug-busting/"><u>Fix-It Focus: Quick Apex Bug Busting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-glitch-fixed-uninterrupted-video-output-now/"><u>GPU Glitch Fixed: Uninterrupted Video Output Now</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-k11-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo K11 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 15</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>In 2024, Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-prime-time-editing-selecting-the-best-software/"><u>In 2024, Prime-Time Editing Selecting the Best Software</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mini-dragon-maximum-return-the-ultimate-spyro-reignited-trilogy-assessment/"><u>Mini Dragon, Maximum Return - The Ultimate Spyro Reignited Trilogy Assessment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-visibility-post-card-update/"><u>No Visibility Post Card Update</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-stability-restored-post-error/"><u>Nvidia Driver Stability Restored Post-Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-amds-etv-bugs/"><u>Quick FIX: AMD's ETV Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-error-when-updating-the-original-minecraft-launcher/"><u>Resolved: Fixing the Error When Updating the Original Minecraft Launcher</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-out-gameplay-overcoming-delays-in-anthem/"><u>Smooth Out Gameplay: Overcoming Delays in Anthem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-no-more-video-disruptions/"><u>Swift Remedy: No More Video Disruptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-anomaly-cleared/"><u>Win11 Display Anomaly Cleared</u></a></li>
 </ul></div>
 

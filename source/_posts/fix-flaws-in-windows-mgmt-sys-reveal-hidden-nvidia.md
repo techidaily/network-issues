@@ -1,7 +1,7 @@
 ---
 title: Fix Flaws in Windows Mgmt Sys – Reveal Hidden NVIDIA
-date: 2025-01-08T22:37:13.625Z
-updated: 2025-01-15T21:03:38.853Z
+date: 2025-01-17T00:34:00.125Z
+updated: 2025-01-22T00:26:20.987Z
 tags:
   - win11
   - win10
@@ -36,7 +36,15 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
@@ -46,27 +54,15 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
 
  To uninstall the device, right-click on the device name and select**Uninstall** from the context menu. The following screenshot is for your reference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
 
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -90,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -120,17 +120,24 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks-for-2024/"><u>[New] Capture the Action The Fastest, Most Effective Home Filmmaking Tricks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-memories-date-insertion-techniques-for-photos/"><u>[Updated] 2024 Approved Enhancing Memories Date Insertion Techniques for Photos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-directory-of-various-visual-recording-devices/"><u>[Updated] Directory of Various Visual Recording Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-online-audio-video-fusion-platform/"><u>[Updated] In 2024, Online Audio Video Fusion Platform</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-how-to-successfully-transfer-images-from-your-iphone-to-windows-10-or-11-a-step-by-step-guide/"><u>1. How To Successfully Transfer Images From Your iPhone to Windows 10 or 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-armory-strengthened-fixed-opengl-error/"><u>GPU Armory Strengthened: Fixed OpenGL Error</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphone-and-android-sharp-portraits-soft-backdrops-for-2024/"><u>IPhone & Android Sharp Portraits, Soft Backdrops for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-graphics-card-blackout-on-display/"><u>New Graphics Card: Blackout on Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/synchronize-vertical-graphics-lines/"><u>Synchronize Vertical Graphics Lines</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-the-unreliable-ally/"><u>Wi-Fi: The Unreliable Ally</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/1726027361142-windows-10mp4/"><u>Windows 10上でMP4ビデオから固定画像を抽出する詳細ガイド</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-apex-legends-crash-xbox-directx-conflict/"><u>[RESOLVED] Apex Legends Crash - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-no-complications-in-hdr-a-thorough-review/"><u>[Updated] 2024 Approved No Complications in HDR A Thorough Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-hilarious-side-of-iphones/"><u>2024 Approved The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-beginners-manual-to-diagnose-and-repair-new-world-connection-error/"><u>A Beginner's Manual to Diagnose and Repair 'New World Connection Error'</u></a></li>
+<li><a href="https://network-issues.techidaily.com/balance-windows-11-desktop-size-preferences/"><u>Balance Windows 11 Desktop Size Preferences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/calm-clicks-the-ideal-screen-free-puzzles-for-2024/"><u>Calm Clicks The Ideal Screen-Free Puzzles for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/create-and-distribute-interactive-ebooks-for-free-share-them-now-at-flipbuildercom/"><u>Create and Distribute Interactive eBooks for Free – Share Them Now at FlipBuilder.com!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-blackout-on-win10-post-fall-upgrade/"><u>End Blackout On Win10 Post-Fall Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606435-flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-seamless-online-sound-conversion-ideal-tools-for-iphone-and-youtube-mp3s/"><u>In 2024, Seamless Online Sound Conversion Ideal Tools for iPhone and YouTube MP3s</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-virtual-realms-in-retroperusia-facebooks-image-inversion-for-2024/"><u>Navigating Virtual Realms in Retroperusia Facebook's Image Inversion for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Phone Now with These Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-inverted-screen-issue-on-windows-11/"><u>Resolving Inverted Screen Issue on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revealing-unseen-monitor-freeze/"><u>Revealing Unseen Monitor Freeze</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-siri-on-ios-a-step-by-step-guide-to-resolving-7-common-problems/"><u>Reviving Siri on iOS: A Step-by-Step Guide to Resolving 7 Common Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/strategies-to-stop-lenovo-screenshaking/"><u>Strategies to Stop Lenovo Screenshaking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshoot-lenovos-dimming-display/"><u>Troubleshoot Lenovo's Dimming Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-twitter-success-the-ultimate-guide-to-attracting-and-retaining-followers/"><u>Unlocking Twitter Success: The Ultimate Guide to Attracting and Retaining Followers</u></a></li>
 </ul></div>
 

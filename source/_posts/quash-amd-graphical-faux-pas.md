@@ -1,7 +1,7 @@
 ---
 title: Quash AMD Graphical Faux Pas
-date: 2025-01-14T23:22:43.227Z
-updated: 2025-01-16T00:27:45.216Z
+date: 2025-01-18T06:22:41.194Z
+updated: 2025-01-21T21:45:01.409Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  These days, AMD graphics card users are pretty bummed when playing Escape from Tarkov. The game becomes unplayable when it’s raining. Everything is covered with shadows and black. If you’re on the same boat, don’t worry. In our article, we’ll show you effective methods to fix this graphics issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that does the trick.
@@ -35,7 +31,11 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Verify integrity of game files
@@ -75,11 +75,11 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
 
  When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
 
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After updating drivers, restart your PC and test the gameplay.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -110,7 +106,7 @@ After updating drivers, restart your PC and test the gameplay.
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair your PC
@@ -122,6 +118,10 @@ If your game is still unplayable, move on to the next fix.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
@@ -144,22 +144,18 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie/"><u>[New] 2024 Approved Cutting-Edge Techniques Elevating Your YouTube Edits Using iMovie</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-broadcasting-with-gopro-tips-for-facebookperiscope-integration/"><u>[New] In 2024, Broadcasting with GoPro Tips for Facebook/Periscope Integration</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-skyrocket-your-e-commerce-game-with-these-essential-15-social-media-insights/"><u>[Updated] Skyrocket Your E-Commerce Game with These Essential 15 Social Media Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-extollo-lansocket-1500-swift-data-transmission-minimal-wait-time-and-convenient-pass-through-electricity-solution/"><u>A Comprehensive Review of Extollo LANSocket 1500: Swift Data Transmission, Minimal Wait Time, and Convenient Pass-Through Electricity Solution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-youtube-green-screen-faux-pas/"><u>Clearing Up YouTube Green Screen Faux Pas</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disarming-display-disturbances-on-pro-7/"><u>Disarming Display Disturbances on Pro 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-issue-amdnvidia-missing/"><u>Display Issue: AMD/NVIDIA Missing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1725287328086-dvd/"><u>DVD情報をスムーズにパソコンにセーブするためのシンプル方法</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-crt-artifacts-on-desktop/"><u>Eradicate CRT Artifacts on Desktop</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hardware-hiccup-error-43-done/"><u>Hardware Hiccup: Error 43 Done</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-res-displays-not-setting-in-w11/"><u>High-Res Displays Not Setting In W11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-influencing-minds-with-music-selection-for-movie-previews/"><u>In 2024, Influencing Minds with Music Selection for Movie Previews</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simple-steps-to-rectify-display-line-issues-on-notebooks/"><u>Simple Steps to Rectify Display Line Issues on Notebooks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/straightforward-screen-capture-app-win10-edition/"><u>Straightforward Screen Capture App, Win10 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-critic-insights-on-mastering-menacing-beasts-in-monster-hunter-world/"><u>Top Critic Insights on Mastering Menacing Beasts in 'Monster Hunter: World'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-lameencdll-not-found-error-with-audacity/"><u>Troubleshooting the 'lame_enc.dll Not Found' Error with Audacity</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-full-view-issue-screen-fix-confirmed/"><u>Windows 10 Full View Issue: Screen Fix Confirmed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos/"><u>[New] 2024 Approved Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-behind-the-scenes-of-carminatis-youtube-earnings/"><u>[New] In 2024, Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-masterful-audio-selection-optimal-mics-for-intense-4k-shooting/"><u>[New] In 2024, Masterful Audio Selection Optimal Mics for Intense 4K Shooting</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-join-the-party-your-guide-to-active-tiktok-streaming/"><u>[New] Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-story-stealth-mode-accessible-for-everyone-without-link-sharing/"><u>[Updated] In 2024, Instagram Story Stealth Mode Accessible for Everyone without Link Sharing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/20-visionary-metaverse-projects-with-educational-value/"><u>20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>2024 Approved Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-efficiency-expert-techniques-and-apps-i-use-for-streamlining-everyday-task-management-insights/"><u>Boost Your Efficiency: Expert Techniques & Apps I Use for Streamlining Everyday Task Management - Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disconnected-from-wi-fi-reconnect-with-win10-steps/"><u>Disconnected From Wi-Fi? Reconnect with Win10 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-apples-virtual-hardware-evaluation-for-your-iphone-device/"><u>Navigating Apple's Virtual Hardware Evaluation for Your iPhone Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilize-the-screen-fix-for-dell-luminosity/"><u>Stabilize the Screen: Fix for Dell Luminosity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tomb-raiders-trap-steady-stream/"><u>Tomb Raider's Trap: Steady Stream?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unwinding-flicker-in-win7-monitors/"><u>Unwinding Flicker in Win7 Monitors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dimmed Monitor in Lenovo PC
-date: 2025-01-14T03:09:22.633Z
-updated: 2025-01-16T02:48:16.598Z
+date: 2025-01-18T06:35:28.870Z
+updated: 2025-01-22T04:37:17.306Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  **3)[Modify Registry](#c)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Update graphics driver
 
  In many cases, the culprit of the dim laptop screen issue is the faulty graphics drivers. You need to update the graphics driver to the latest and correct version. But if you don’t have time, patience or computer skills to deal with drivers (since it is very tricky and time-consuming), we recommend you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -46,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 **b)**  Press the power button to**start up** your laptop. In the meantime, press and hold the**brightness-up key** on the keyboard, which is usually a**function key** (**F1-** **F12**).
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3) Modify Registry
 
@@ -82,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -119,24 +119,18 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-assessing-instagrams-selfie-validation/"><u>[New] Assessing Instagram's Selfie Validation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-enabling-offline-playback-for-cod-cold-war/"><u>[RESOLVED] Enabling Offline Playback for CoD Cold War</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-perfect-zoom-recordings/"><u>[Updated] 2024 Approved Unlocking the Secrets to Perfect Zoom Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-create-a-youtube-account-for-2024/"><u>[Updated] How to Create a YouTube Account for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-drone-photographers-stabilization-companion-for-2024/"><u>[Updated] The Drone Photographer's Stabilization Companion for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-comprehensive-guide-to-building-facebook-slideshow-mastery-for-2024/"><u>A Comprehensive Guide to Building Facebook Slideshow Mastery for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-viewpoints-on-new-windows-vision/"><u>Adjusting Viewpoints on New Windows Vision</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/clipbox/"><u>Clipbox</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-non-functional-display-settings-on-gpus/"><u>Correcting Non-Functional Display Settings on GPUs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harmonizing-qualcomm-wifi-atheros-on-win10-os/"><u>Harmonizing Qualcomm WiFi - Atheros on Win10 OS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m14-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M14 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-narakeet-review-convenient-text-to-speech-voice-maker/"><u>New In 2024, Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-displacement-of-windows-screen-view/"><u>Resolving Displacement of Window's Screen View</u></a></li>
-<li><a href="https://network-issues.techidaily.com/righted-view-laptop-screenset-corrected/"><u>Righted View: Laptop Screenset Corrected</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt-for-2024/"><u>Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategic-approach-eradicate-screen-lines-in-computers-and-notebooks/"><u>Strategic Approach: Eradicate Screen Lines in Computers and Notebooks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tracing-the-development-of-ios-platform-an-in-depth-look-from-version-10-to-180/"><u>Tracing the Development of iOS Platform: An In-Depth Look From Version 1.0 to 18.0</u></a></li>
-<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-adjustment/"><u>Windows 11: Advanced Display Adjustment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-crafting-professional-focus-mastering-teamblend-background-artistry-for-2024/"><u>[New] Crafting Professional Focus Mastering Teamblend Background Artistry for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>[New] Top Drone Propellers Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-reel-rhythms-choreographing-audio-with-visuals/"><u>2024 Approved Instagram Reel Rhythms Choreographing Audio with Visuals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-setup-flaw-eliminated/"><u>Direct3D Setup Flaw Eliminated</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/enhance-computer-efficiency-with-proven-strategies-by-yl-computing-and-yl-software/"><u>Enhance Computer Efficiency with Proven Strategies by YL Computing & YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-amd-eft-graphical-snags/"><u>Fix AMD EFT Graphical Snags</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-display-settings-updates/"><u>Resolved Display Settings Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-unresponsive-volume-slider-on-pc/"><u>Reviving Unresponsive Volume Slider on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-installation-for-nvidia-hardware-supported/"><u>Seamless Installation for Nvidia Hardware Supported</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-elusive-stable-wi-fi-connection/"><u>The Elusive Stable Wi-Fi Connection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-fix-achieved-desired-fullscreen/"><u>Win11 Screen Fix: Achieved Desired Fullscreen</u></a></li>
 </ul></div>
 

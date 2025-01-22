@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Qualcomm WiFi Adapter Compatibility on Windows 10"
-date: 2024-11-27T04:38:02.798Z
-updated: 2024-12-02T18:37:59.050Z
+date: 2025-01-20T05:15:25.174Z
+updated: 2025-01-21T21:56:54.763Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Disable device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-214.png)
 4. Click**Yes** to confirm.
 
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Rollback your Qualcomm adapter driver
 
  If you lose your network connection right after installing a new driver for the Qualcomm adapter or running a Windows Update, you should roll back your driver to a previous version.
@@ -64,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 2. In the**Device Manager** window, double-click on the**Network adapters** node to expand its drop-down list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-213.png)
 3. Right-click**Qualcomm Atheros QCA61x4A Wireless Network Adapter** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-216.png)
@@ -83,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 6. Reboot your computer for the changes to be fully implemented.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the**Roll Back Driver** option appears dimmed, that means there’s no driver to roll back to. In this case, you should head over to**[Fix 3](#fix3)** .
 
  Open your web browser to check whether the network connection has gone back to normal. If not, you should proceed to Fix 3.
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your Qualcomm adapter driver
@@ -117,19 +121,15 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/Qualcomm-Atheros-QCA61x4A-Wireless-Network-Adapter.png)
 4. After updating, restart your computer to take effect.
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ### My network connection doesn’t work at all
 
@@ -161,24 +161,20 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-perfect-srt-output-with-premiere-pro/"><u>[New] Crafting Perfect SRT Output with Premiere Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-rapidrecord-fullscreen-feature/"><u>[New] RapidRecord Fullscreen Feature</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-art-of-incorporating-s2t-features-into-ppt/"><u>[New] The Art of Incorporating S2T Features Into PPT</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-adv-screen-recorder-review/"><u>[Updated] ADV Screen Recorder Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-platinum-32windows-10dvd/"><u>利用WinX DVD Ripper Platinum 高效加速32倍轉檔，在Windows 10平台上簡單穩定還原DVD</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-undetected-amd-gpu-on-windows-11-step-by-step-guide/"><u>Fixing Undetected AMD GPU on Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-with-ios-1n-release-essential-guide-to-downloading-and-running-the-early-build-insights/"><u>Get Ahead of the Curve with iOS 1N Release: Essential Guide to Downloading and Running the Early Build - Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/harnessing-vitamin-d-for-optimal-immunity-a-deep-dive-into-recent-scientific-discoveries/"><u>Harnessing Vitamin D for Optimal Immunity: A Deep Dive Into Recent Scientific Discoveries</u></a></li>
-<li><a href="https://solve-info.techidaily.com/high-quality-hd-wallpaper-collection-imagery-and-photography-by-yl-computing/"><u>High-Quality HD Wallpaper Collection: Imagery & Photography by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-create-a-portable-app-version-and-why-you-should/"><u>How to Create a Portable App Version and Why You Should</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-determine-your-monitors-sharpness-easy-steps-for-checking-resolution/"><u>How to Determine Your Monitor's Sharpness: Easy Steps for Checking Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-a-youtube-video-that-wont-play-a-step-by-step-guide/"><u>How to Fix a YouTube Video That Won't Play: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-ethernet-not-working-issues-on-windows-10-and-7/"><u>How to Fix Ethernet Not Working Issues on Windows 10 & 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-gtx-query/"><u>How to Fix GTX # Query</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-the-wdf-violation-critical-stop-error-in-windows-11-10-8-and/"><u>How to Fix the 'WDF Violation' Critical Stop Error in Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-your-acer-computers-wi-fi-network-problems-easily/"><u>How to Fix Your Acer Computer's Wi-Fi Network Problems Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-resolve-detection-issues-with-your-amd-graphics-card-in-windows-11/"><u>How to Resolve Detection Issues with Your AMD Graphics Card in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-pop-8-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Pop 8 Phone When You Forget the Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/soundless-symphony-fix-audio-hitches-on-your-windows-11-machine-today/"><u>Soundless Symphony? Fix Audio Hitches on Your Windows 11 Machine Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-tech-for-instant-time-lapse-videos/"><u>[New] 2024 Approved Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unleashing-your-gaming-potential-with-win10-recordings-for-2024/"><u>[New] Unleashing Your Gaming Potential with Win10 Recordings for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wireless-issues-in-new-windows-update/"><u>[RESOLVED] Wireless Issues in New Windows Update</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[Updated] 2024 Approved From Novice to Expert Perfecting Mac Audio with Audacity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-guide-for-srt-format-conversions/"><u>[Updated] Comprehensive Guide for SRT Format Conversions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-buffer-delays-from-streams/"><u>Banish Buffer Delays From Streams</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminating-dark-screen-in-fall-creators-version/"><u>Eliminating Dark Screen in Fall Creators' Version</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/video-to-animation-easy-youtube-gif-creation-tips-for-2024/"><u>From Video to Animation Easy YouTube GIF Creation Tips for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-prime-steadicam-devices-for-drones-in-filmmaking/"><u>In 2024, Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-angle-adjustment-victory/"><u>Laptop Angle Adjustment - Victory</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722874603857-samsung-galaxy-z-fold-6s-arrival-get-ahead-with-release-dates-pricing-info-and-key-features/"><u>Samsung Galaxy Z Fold 6'S Arrival: Get Ahead with Release Dates, Pricing Info and Key Features!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-sony-wh-1000xm34-microphone-compatibility-with-windows-pcs/"><u>Step-by-Step Solution: Sony WH-1000XM3/4 Microphone Compatibility with Windows PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-comexception-fixed-interoperability-success/"><u>Windows COMException Fixed: Interoperability Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-update-a-step-towards-stability/"><u>Windows Update: A Step Towards Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zero-signal-recent-gpu-upgrade-issue/"><u>Zero Signal: Recent GPU Upgrade Issue</u></a></li>
 </ul></div>
 

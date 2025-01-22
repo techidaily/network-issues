@@ -1,7 +1,7 @@
 ---
 title: Light Up Dark Screens on Lenovo Notebooks
-date: 2025-01-09T01:18:38.937Z
-updated: 2025-01-15T18:03:46.432Z
+date: 2025-01-16T23:22:04.589Z
+updated: 2025-01-21T20:42:56.309Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7d541f24f083a78654b60cdafb0ff977b1be425e9
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -67,6 +63,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -83,6 +83,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -96,7 +100,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
@@ -109,17 +113,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -136,7 +132,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
@@ -161,25 +157,29 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,16 +207,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-solving-iphone-xs-identity-crisis-fixing-face-id-failures/"><u>[New] Solving iPhone X's Identity Crisis Fixing Face ID Failures</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/urging-up-the-search-listings-key-tips-for-optimizing-your-videos-for-2024/"><u>[New] Surging Up the Search Listings Key Tips for Optimizing Your Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-convenient-methods-for-macbook-pros-video-recording/"><u>[Updated] 2024 Approved Convenient Methods for MacBook Pro's Video Recording</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-functional-state-for-freesync-devices/"><u>Enabling Functional State for FreeSync Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improving-image-sharpness-for-ubisofts-new-virtual-island/"><u>Improving Image Sharpness for Ubisoft's New Virtual Island</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-screen-keeps-flickering-solved/"><u>Laptop Screen Keeps Flickering [SOLVED]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mold-and-share-custom-internet-comedy-pieces/"><u>Mold and Share Custom Internet Comedy Pieces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-nvidias-generative-ai-eligibility-criteria-for-harnessing-its-power/"><u>Navigating Through NVIDIA's Generative AI: Eligibility Criteria for Harnessing Its Power</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-intellgraphics-g3000-upgrade-in-win11/"><u>Streamline IntellGraphics G3000 Upgrade in Win11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-fluttering-on-win7-screens/"><u>Troubleshooting Fluttering on Win7 Screens</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-for-recurrent-pc-malfunctions-in-thunder-tier-one/"><u>Troubleshooting Guide for Recurrent PC Malfunctions in Thunder Tier One</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-videovisionaries-selecting-superior-4k-screen-options/"><u>[New] VideoVisionaries Selecting Superior 4K Screen Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-how-to-attract-and-retain-more-viewers-on-youtube/"><u>[Updated] 2024 Approved How to Attract and Retain More Viewers on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-youtube-comment-discovery-a-step-by-step-walkthrough/"><u>[Updated] 2024 Approved YouTube Comment Discovery A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-easy-way-to-share-instagram-meets-facebook/"><u>[Updated] In 2024, The Easy Way to Share Instagram Meets Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>[Updated] Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-video-reversion-secrets-unveiled/"><u>2024 Approved Android's Video Reversion Secrets Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake/"><u>Correcting Aspect Ratio Mistake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayfault-in-windows-gui-on-verge-of-solution/"><u>DisplayFault in WIndows GUI (On Verge of Solution)</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725285691235-dvd/"><u>DVDフォーマットからカーナビシステム仕様への無償変換ガイド</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-displaying-gpu-mismatched/"><u>Error Displaying: GPU Mismatched</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-black-screen-on-latest-windows-update/"><u>Fix for BLACK SCREEN on Latest Windows Update</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-best-bargain-for-windowmac-users-top-8-free-3d-players/"><u>In 2024, Best Bargain for Window/Mac Users Top 8 FREE 3D Players</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-mpow-bluetooth-drivers-installation-help-for-windows-11-8-and-7-users/"><u>Latest MPOW Bluetooth Drivers: Installation Help for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974786901-rapidly-upgrade-intel-g3000-in-win11-systems/"><u>Rapidly Upgrade Intel G3000 in Win11 Systems.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-adjustments-saved-and-secured/"><u>Screen Adjustments Saved and Secured</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shedding-light-on-unseen-displays/"><u>Shedding Light on Unseen Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-screen-tremors-solving-acer-display-issues/"><u>Stop Screen Tremors: Solving Acer Display Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>Updated 2024 Approved AVS Video Editor 2023 A Comprehensive Review and Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-stop-cleared-by-fixing-nvidia-complaint/"><u>Windows Stop Cleared by Fixing NVIDIA Complaint</u></a></li>
 </ul></div>
 

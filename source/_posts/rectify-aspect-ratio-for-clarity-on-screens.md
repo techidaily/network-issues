@@ -1,7 +1,7 @@
 ---
 title: Rectify Aspect Ratio for Clarity on Screens
-date: 2025-01-10T20:08:09.414Z
-updated: 2025-01-15T18:58:25.910Z
+date: 2025-01-20T05:46:30.294Z
+updated: 2025-01-21T21:53:00.715Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
  If you ever have the**vertical line on laptop screen** issue, don’t worry. It’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for vertical lines on Windows 10, 8.1 and 7 issue
 
  Here are 3 fixes that have helped other users resolve the vertical lines on laptop screen issue. You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -29,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 1. [**Update your graphics driver**](#F1)
 2. [**Adjust the screen resolution**](#F2)
 3. [**Gently wipe the screen with cotton balls**](#F3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -48,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -61,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -76,10 +68,14 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
@@ -89,10 +85,14 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 2. Adjust the screen resolution and see if the vertical lines disappear.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -125,24 +125,18 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-global-viewer-count-triumphs-play-button-honors/"><u>[New] In 2024, Global Viewer Count Triumphs Play Button Honors</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-iosandroid-tutorial-uploading-audio-to-social-network-for-2024/"><u>[New] IOS/Android Tutorial Uploading Audio to Social Network for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snappy-adjustments-the-art-of-perfecting-photos-on-snapchat/"><u>[New] Snappy Adjustments The Art of Perfecting Photos on Snapchat</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-revel-in-the-best-virtual-playgrounds/"><u>[Updated] Revel in the Best Virtual Playgrounds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-playing-halted-a6400-video-viewing-woes/"><u>2024 Approved Playing Halted A6400 Video Viewing Woes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/beat-high-server-lag-in-fortnite-fast-fixes-and-solutions/"><u>Beat High Server Lag in Fortnite: Fast Fixes and Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-vulkan-runtime-libraries-tips-for-effective-integration-and-usage/"><u>Decoding Vulkan Runtime Libraries: Tips for Effective Integration & Usage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-vulkan-runtime-libraries-tips-and-strategies-for-optimization/"><u>Demystifying Vulkan Runtime Libraries: Tips & Strategies for Optimization</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-your-displays-pixel-density-a-simple-guide/"><u>Discover Your Display's Pixel Density: A Simple Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovering-your-displays-pixels-a-simple-guide-to-check-screen-resolution/"><u>Discovering Your Display's Pixels: A Simple Guide to Check Screen Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effective-solutions-for-resolving-screen-flicker-issues-on-your-asus-notebook/"><u>Effective Solutions for Resolving Screen Flicker Issues on Your Asus Notebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-fps-ultimate-top-6-strategies-for-a-better-gaming-experience/"><u>Enhance Your FPS: Ultimate Top 6 Strategies for a Better Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-list-of-prime-days-2024-greatest-game-offers-yet-to-expire/"><u>Exclusive List of Prime Day's 2024 Greatest Game Offers Yet to Expire!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-infamous-nvstreamuseraagentexe-error-in-windows-guide/"><u>Fixing the Infamous NVSTREAMUSERA_AGENT.EXE Error in Windows [Guide]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-wdf-violation-bsod-issue-solutions-for-windows-11-10-8-and/"><u>Fixing the WDF Violation BSOD Issue: Solutions for Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-deciphering-bandicams-latest-2023-capabilities/"><u>In 2024, Deciphering Bandicam's Latest 2023 Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-when-your-shift-keys-fails-to-function/"><u>Solutions for When Your Shift Keys Fails to Function</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-the-secrets-of-facebooks-live-feature/"><u>Unlocking the Secrets of Facebook's Live Feature</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/unveiling-the-secrets-of-spear-phishing-understanding-its-distinct-nature/"><u>Unveiling the Secrets of Spear Phishing: Understanding Its Distinct Nature</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unlock-visual-storytelling-potential-with-snapchat-edits/"><u>[New] In 2024, Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-superior-video-editing-software-for-online-sessions-for-2024/"><u>[New] Superior Video Editing Software for Online Sessions for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-zero-cost-text-animation-guide-for-videos-for-2024/"><u>[New] Zero-Cost Text Animation Guide for Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-swift-online-journey-despite-slowness/"><u>[WINDOWS] Swift Online Journey Despite Slowness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-built-in-asus-camera/"><u>Enabling Built-In Asus Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-master-your-youtube-thumbnail-size-and-ratio/"><u>In 2024, Master Your YouTube Thumbnail Size & Ratio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-appearance-in-apples-audio-library/"><u>In 2024, Mastering Appearance in Apple's Audio Library</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-android-camera-apps-for-2024/"><u>Innovative Android Camera Apps for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-blurry-backgrounds-in-far-cry-6-gameplay/"><u>Overcoming Blurry Backgrounds in Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-issues-with-your-wii-console-difficulties-in-reading-game-cds/"><u>Resolving Issues with Your Wii Console: Difficulties in Reading Game CDs</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-the-issue-of-non-exportable-images-from-apowermanager-on-ios-devices/"><u>Troubleshooting the Issue of Non-Exportable Images From ApowerManager on iOS Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-vr-showdown-scoring-the-best-oculus-models/"><u>Ultimate VR Showdown Scoring the Best Oculus Models</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-enhanced-atheros-adapter-driver-fixes/"><u>Windows 10 Enhanced: Atheros Adapter Driver Fixes</u></a></li>
 </ul></div>
 

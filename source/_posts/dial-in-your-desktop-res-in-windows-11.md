@@ -1,7 +1,7 @@
 ---
 title: Dial-In Your Desktop Res In Windows 11
-date: 2025-01-11T19:41:59.676Z
-updated: 2025-01-15T20:37:31.201Z
+date: 2025-01-15T04:13:50.892Z
+updated: 2025-01-21T20:17:05.493Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -74,6 +74,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -83,7 +87,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -111,10 +115,6 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,20 +148,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-hdmi-conflict-between-laptop-and-tv/"><u>[Resolved] HDMI Conflict Between Laptop and TV</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premier-mobile-platforms-the-best-selection-of-android-emulators-for-playstation-2/"><u>[Updated] 2024 Approved Premier Mobile Platforms The Best Selection of Android Emulators for PlayStation 2</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quickcapture-elite-speed-focused-windowsmac-tool-for-2024/"><u>[Updated] QuickCapture Elite Speed-Focused Windows/Mac Tool for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-youtuber-wealth-wonders/"><u>[Updated] Ultimate Youtuber Wealth Wonders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aiffwavmovavi/"><u>簡便優雅的AIFF至WAV格式改變：Movavi無限制線上轉換器指南</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-key-to-unlocking-youtubes-editorial-haven/"><u>In 2024, The Key to Unlocking YouTube’s Editorial Haven</u></a></li>
-<li><a href="https://network-issues.techidaily.com/invisible-display-post-graphic-card-change/"><u>Invisible Display Post Graphic Card Change</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigating-screencastifys-screen-capture-feature-for-2024/"><u>Navigating Screencastify's Screen Capture Feature for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-latest-boost-win11-with-rtx210-driver-release/"><u>NVIDIA's Latest: Boost Win11 with RTX210 Driver Release</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-leap-next-gen-drivers-elevate-win11-experience/"><u>NVIDIA's Leap: Next-Gen Drivers Elevate Win11 Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-screen-resolution-no-more-problems-with-win-10/"><u>Optimizing Screen Resolution - No More Problems with Win 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-sound-gear-matching-mics-with-4k-cameras-for-2024/"><u>The Best Sound Gear Matching Mics with 4K Cameras for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unplugged-not-worried-the-ecoflow-batterys-role-in-keeping-my-home-alive-during-severe-outages/"><u>Unplugged Not Worried: The EcoFlow Battery's Role in Keeping My Home Alive During Severe Outages</u></a></li>
-<li><a href="https://common-error.techidaily.com/verdict-drivers-refrain-from-supporting-opengl/"><u>Verdict: Drivers Refrain From Supporting OpenGL</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-dark-screen-fix-update/"><u>Windows 10 Dark Screen Fix Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>[New] Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>[New] In 2024, Best-Rated Wedding Timekeepers A Comprehensive Android & iOS App Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs/"><u>[New] Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-traveling-back-in-social-media-years-a-practical-fb-guide-for-2024/"><u>[New] Traveling Back in Social Media Years A Practical FB Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-speed-demons-win-10-and-11-internet-takedown/"><u>[SOLVED] Speed Demons: WIN 10 & 11 Internet Takedown</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-learn-to-turn-videos-on-the-fly-using-vlc-for-2024/"><u>[Updated] Learn to Turn Videos on the Fly Using VLC for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-features-of-voice-recognition-in-gdoc/"><u>2024 Approved Navigating the Features of Voice Recognition in GDoc</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrease-roblox-latency-on-windows/"><u>Decrease Roblox Latency on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstated-corrected-window-graphics-link/"><u>Reinstated Corrected Window Graphics Link</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-msdn-error-with-nvidia-graphics-card-hiding/"><u>Resolved: MSDN Error with NVIDIA Graphics Card Hiding</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-backlight-flickering-in-displays/"><u>Stopping Backlight Flickering in Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-tech-bargain-collectors-get-free-lifetime-access-to-top-priced-black-friday-windows-11/"><u>The Ultimate Tech Bargain - Collectors Get Free Lifetime Access to Top-Priced Black Friday Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722891665547-upcoming-foldable-iphone-revealed-anticipated-launch-date-and-pricing-details-uncovered/"><u>Upcoming Foldable iPhone Revealed: Anticipated Launch Date & Pricing Details Uncovered</u></a></li>
 </ul></div>
 

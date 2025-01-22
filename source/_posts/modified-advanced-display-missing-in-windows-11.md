@@ -1,7 +1,7 @@
 ---
 title: "[Modified] Advanced Display Missing in Windows 11"
-date: 2025-01-09T07:35:15.143Z
-updated: 2025-01-10T07:13:38.838Z
+date: 2025-01-17T02:20:24.381Z
+updated: 2025-01-22T05:53:00.222Z
 tags:
   - win11
   - win10
@@ -21,13 +21,17 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -75,21 +83,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
@@ -98,10 +102,6 @@ Here’s how to do it:
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
@@ -122,17 +122,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>[Updated] In 2024, Twitter's Wild Ride The Hottest Tweets Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[Updated] Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/download-movavi-video-converter-gratis-affidabile-completa-and-senza-costi/"><u>Download Movavi Video Converter Gratis - Affidabile, Completa & Senza Costi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gfxwindowlock-up-error-windows-fix-ready/"><u>GfxWindowLock Up Error, WIndows Fix (Ready)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-m6-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco M6 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-se-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone SE using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-note-50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Note 50 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-configuration-for-correct-fullscreen-display/"><u>Monitor Configuration for Correct Fullscreen Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-displays-error-inadequate-graphics-hardware/"><u>Overwatch Displays Error: Inadequate Graphics Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/prevention-and-solutions-for-frozen-windows-notepad-state/"><u>Prevention and Solutions for Frozen Windows Notepad State</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-fix-for-nvidia-related-windows-stoppage/"><u>Successful Fix for Nvidia-Related Windows Stoppage</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138573564-9781462006601-the-nature-of-belonging/"><u>The Nature of Belonging | Free Book</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>[New] 2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-views-not-video-length-expert-guide-to-yt-desc-templates-for-2024/"><u>[New] Elevate Views, Not Video Length Expert Guide to YT Desc Templates for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-11s-operation-elevation-error-740/"><u>Breaking Down Windows 11'S Operation Elevation Error #740</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974349923-efficiently-upgrade-intel-g3000-driver-in-windows-11/"><u>Efficiently Upgrade Intel G3000 Driver in Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-inability-to-preserve-display-configuration-state/"><u>Fixing Inability to Preserve Display Configuration State</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premier-12-video-capture-goes-on-forever/"><u>In 2024, Premier 12 Video Capture - Goes On Forever</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unzip-excitement-funimate-pros-apk-unwrapped/"><u>In 2024, Unzip Excitement - Funimate Pro's APK Unwrapped</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-tangible-value-in-ea-plays-cost/"><u>Is There Tangible Value in EA Play's Cost?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974840427-quickly-improve-intellgraphics-g3000-on-windows-11/"><u>Quickly Improve IntellGraphics G3000 on Windows 11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reduce-overly-large-screen-on-win10/"><u>Reduce Overly Large Screen on Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eliminate-black-screen-complications/"><u>Steps to Eliminate Black Screen Complications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016140614-troubleshoot-and-restore-fortnites-voice-communication-features-now/"><u>Troubleshoot and Restore Fortnite's Voice Communication Features Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-advapi32dll-file-missing-error/"><u>Troubleshooting Guide: Resolving 'Advapi32.dll' File Missing Error</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-display-settings-adjustment/"><u>Win10 Display Settings Adjustment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-resolution-adjustment-issue-fixed/"><u>Windows 11 Resolution Adjustment Issue - Fixed</u></a></li>
 </ul></div>
 

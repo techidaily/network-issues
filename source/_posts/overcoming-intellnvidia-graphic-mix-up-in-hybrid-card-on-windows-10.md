@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intell/Nvidia Graphic Mix-Up in Hybrid Card on Windows 10
-date: 2024-12-10T07:20:16.785Z
-updated: 2024-12-16T01:10:53.125Z
+date: 2025-01-19T21:20:51.332Z
+updated: 2025-01-22T05:14:16.490Z
 tags:
   - win11
   - win10
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
@@ -101,6 +105,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -115,17 +123,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,22 +142,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/driver-resolved-installed-missing-graphics-adapter-in-win10/"><u>[DRIVER RESOLVED] Installed Missing Graphics Adapter in Win10</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-record-gameplay-using-fbx-game-recorder/"><u>[New] 2024 Approved How To Record Gameplay Using FBX Game Recorder</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-pursuit-with-panasonics-hx-a1-wearable-cameras/"><u>[Updated] In Pursuit with Panasonic’s HX-A1 Wearable Cameras</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-your-world-of-entertainment-how-to-enable-apple-tv-on-firestick/"><u>Connect Your World of Entertainment: How to Enable Apple TV on Firestick</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/cracking-the-code-resolving-the-windows/"><u>Cracking the Code: Resolving the Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/disabling-gpu-directly-in-system-properties-on-windows/"><u>Disabling GPU Directly in System Properties on WIndows</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fallout-4-peace-eradicate-pc-crashes/"><u>Fallout 4 Peace: Eradicate PC Crashes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-dark-screen-issue-windows-fixed-release/"><u>Fix Dark Screen Issue: Windows Fixed Release</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hdmi-breakdown-laptop-affected-by-tv/"><u>HDMI Breakdown: Laptop Affected by TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-covert-tracks-with-apple-airtags-a-guide-for-privacy-protection/"><u>Identifying Covert Tracks with Apple AirTags: A Guide for Privacy Protection</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-access-the-windows-iscsi-initiator-guide/"><u>Mastering Access: The Windows iSCSI Initiator Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down – How to Fix It</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-glare-irregularity-in-notebook-display/"><u>Rectified Glare Irregularity in Notebook Display</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-darkness-from-win11-screenscape/"><u>Removing Darkness From Win11 Screenscape</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/bes-music-magic-best-free-tools-for-wav-conversion-for-2024/"><u>YouTube's Music Magic Best Free Tools for WAV Conversion for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-windows-11-wi-fi-not-showing-up/"><u>[CORRECTED] Windows 11 Wi-Fi Not Showing Up</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-restore-pristine-photos-easily-discover-top-10-online-enhancers/"><u>[New] 2024 Approved Restore Pristine Photos Easily Discover Top 10 Online Enhancers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-capturing-panoramic-shots-iphone-guide/"><u>[Updated] In 2024, Capturing Panoramic Shots IPhone Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/2-guia-simple-configurar-backup-restore-points-en-windows-server-2cuatro-r2-edition/"><u>2. Guía Simple: Configurar Backup Restore Points en Windows Server 2Cuatro R2 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-windows-11-fatal-errors-for-radeon-r9/"><u>Conquering Windows 11 Fatal Errors for Radeon R9</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-displays-post-driver-implementation/"><u>Dark Displays Post-Driver Implementation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-working-state-for-non-supported-freesync/"><u>Enabling Working State for Non-Supported FreeSync</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-custom-folder-options-adding-movecopy-to-context-menu/"><u>Implementing Custom Folder Options: Adding 'Move'/'Copy' To Context Menu</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>In 2024, Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-video-praise-with-innovative-approaches/"><u>In 2024, Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/is-watching-facebook-on-the-television-set-a-future-possibility-in-2024/"><u>Is Watching Facebook on the Television Set a Future Possibility, In 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pc-enlightenment-eradicate-fallout-4-crashes/"><u>PC Enlightenment: Eradicate Fallout 4 Crashes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-faults-with-amd-radeon-r9-drivers-for-w10/"><u>Rectifying Faults with AMD Radeon R9 Drivers for W10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-potential-on-win10-latest-amd-radeon-hd-6950-driver-release/"><u>Unlocking Potential on Win10: Latest AMD Radeon HD 6950 Driver Release</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-performance-boosting-techniques-fix-slowdown-and-improve-efficiency-today/"><u>Windows 11 Performance Boosting Techniques: Fix Slowdown & Improve Efficiency Today</u></a></li>
 </ul></div>
 

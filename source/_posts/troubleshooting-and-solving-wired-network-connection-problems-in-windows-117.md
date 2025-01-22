@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7
-date: 2025-01-15T03:15:57.744Z
-updated: 2025-01-15T22:12:48.807Z
+date: 2025-01-18T22:19:00.926Z
+updated: 2025-01-21T20:04:04.202Z
 tags:
   - win11
   - win10
@@ -36,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -70,13 +70,17 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -101,11 +109,11 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 ##  Method 6: Run network commands
 
@@ -121,19 +129,11 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,24 +156,24 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-best-photography-enhancers-for-ios-and-android-guide/"><u>[New] 2024 Approved The Best Photography Enhancers for iOS & Android Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-snap-it-all-complimentary-android-recordings/"><u>[Updated] In 2024, Snap It All Complimentary Android Recordings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/better-microsoft-bd-performance-for-windows-versions-1087/"><u>Better Microsoft BD Performance for Windows Versions 10/8/7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cleared-up-why-my-nvidia-gpu-isnt-showing/"><u>Cleared Up: Why My NVIDIA GPU Isn't Showing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-installation-of-wi-fi-adapter-on-desktop-computers-tutorial-guide/"><u>Easy Installation of Wi-Fi Adapter on Desktop Computers - Tutorial Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210375471-9781940837611-enlightened-bodies/"><u>Enlightened Bodies | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-easy-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running – Fast, Easy Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ghosting-visuals-recent-gpu-upgrade/"><u>Ghosting Visuals: Recent GPU Upgrade?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-update-intel-graphics-driver-in-windows-7/"><u>How to Update Intel Graphics Driver in Windows 7</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-building-business-via-beauty-vlogs/"><u>In 2024, Building Business via Beauty Vlogs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/internets-disconnection-dance/"><u>Internet's Disconnection Dance</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disk-needs-initializing-error-on-windows/"><u>Overcoming Disk Needs Initializing Error on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-12-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus 12</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-overcome-football-manager-2019-freezing-problems/"><u>Step-by-Step Solutions to Overcome Football Manager 2019 Freezing Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win-error-successful-gpu-creation/"><u>Win Error: Successful GPU Creation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-resolution-optimization-achieved/"><u>Win10 Resolution Optimization Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-stabilized-no-more-flickers/"><u>Win11 Display Stabilized - No More Flickers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubles-heres-how-to-get-your-volume-back-quickly/"><u>Windows 10 Audio Troubles? Here's How to Get Your Volume Back Quickly!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-art-of-screenshots-iphoneipad-video-recordings-explained-for-2024/"><u>[New] The Art of Screenshots IPhone/iPad Video Recordings Explained for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-to-enhance-screen-brightness-of-youtube-videos/"><u>[Updated] Tips to Enhance Screen Brightness of YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimizing-group-chats-with-google-meets-filtering-options/"><u>2024 Approved Optimizing Group Chats with Google Meet's Filtering Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-c1900101-issue-in-windows-setup/"><u>Addressing C1900101 Issue in Windows Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-resolved-code-43/"><u>Display Driver Resolved Code 43</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-window-fuzziness-boost-productivity/"><u>Fix Window Fuzziness, Boost Productivity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-upside-down-screen-issue/"><u>Fixing the Upside-Down Screen Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c110-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C110?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-loss-of-display-on-personal-computers/"><u>Remedying Loss of Display on Personal Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-resolution-challenges-with-updated-windows-10/"><u>Resolving Resolution Challenges with Updated Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-call-notifications-with-these-11-proven-strategies/"><u>Revive Your iPhone's Call Notifications with These 11 Proven Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-for-disbanding-your-facebook-group/"><u>Steps for Disbanding Your Facebook Group</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tighten-display-line-precision/"><u>Tighten Display Line Precision</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transforming-visual-experience-refreshing-intel-drivers-in-windows-7/"><u>Transforming Visual Experience: Refreshing Intel Drivers in Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-pce-ac68-wifi-adapter-driver-software/"><u>Ultimate Guide to Downloading & Installing ASUS PCE-AC68 WiFi Adapter Driver Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8-safe-mode-mastery-revoking-gpu-driver-integrity/"><u>Windows 8 Safe Mode Mastery: Revoking GPU Driver Integrity</u></a></li>
+<li><a href="https://article-tips.techidaily.com/yuneec-typhoon-h-review/"><u>Yuneec Typhoon H Review</u></a></li>
 </ul></div>
 

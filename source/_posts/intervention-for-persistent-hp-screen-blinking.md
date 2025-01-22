@@ -1,7 +1,7 @@
 ---
 title: Intervention for Persistent HP Screen Blinking
-date: 2024-11-25T21:38:50.455Z
-updated: 2024-12-02T17:10:02.866Z
+date: 2025-01-20T02:37:37.954Z
+updated: 2025-01-22T07:01:13.489Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 ## Intervention for Persistent HP Screen Blinking
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
 
@@ -42,7 +46,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -59,13 +63,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -91,10 +95,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
@@ -114,7 +114,7 @@ Here is how to do it:
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -129,7 +129,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -158,17 +158,17 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-gigglegraphy-laughter-in-a-frame/"><u>[New] In 2024, GiggleGraphy Laughter in a Frame</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-launching-a-sports-vlog-on-apple-computers/"><u>[Updated] Launching a Sports Vlog on Apple Computers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-master-the-art-of-video-presentations-with-these-themes-for-2024/"><u>[Updated] Master the Art of Video Presentations with These Themes for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comprehensive-study-amds-impact-on-the-pc-gaming-market/"><u>Comprehensive Study: AMD's Impact on the PC Gaming Market</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-fixed-code-22-in-driver/"><u>Correcting Fixed Code #22 in Driver</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-anachronisms-the-guide-to-updated-window-drivers/"><u>Eliminating Anachronisms: The Guide to Updated Window Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expertly-curated-list-of-superior-smartwatches/"><u>Expertly Curated List of Superior Smartwatches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-horizontalvertical-displacement-on-monitors/"><u>Fix Horizontal/Vertical Displacement on Monitors</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/non-jitter-streaming-made-easy/"><u>Non-Jitter Streaming Made Easy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/waterlogged-woes-be-gone-testing-the-waterproof-claims-for-iphone-15-pro-max/"><u>Waterlogged Woes Be Gone? Testing the Waterproof Claims for iPhone 15 Pro Max</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-experience-no-more-interop-woes/"><u>Windows Experience: No More Interop Woes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-beginners-pathway-to-screen-casting-and-capturing-macos/"><u>[New] In 2024, A Beginner's Pathway to Screen Casting and Capturing macOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-art-of-sound-in-slides-adding-and-capturing-audiotracks/"><u>[New] In 2024, The Art of Sound in Slides Adding and Capturing Audiotracks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-exploring-the-upside-down-world-of-instagram-videos/"><u>[Updated] In 2024, Exploring the Upside-Down World of Instagram Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-save-your-iphones-information-using-icloud-itunes-or-pc-a-complete-guide/"><u>Easy Steps: Save Your iPhone's Information Using iCloud, iTunes or PC - A Complete Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-resolution-b200/"><u>Error Resolution: B200</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-a1x-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo A1x 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-gpu-drivers-removal-on-windows/"><u>Mastering GPU Drivers Removal on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-speaker-showcase-designer-for-2024/"><u>Premier Speaker Showcase Designer for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/radeon-hd-6950-enhanced-drivers-for-windows-11-launched/"><u>Radeon HD 6950 Enhanced Drivers for Windows 11 Launched</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-big-savings-with-labor-day-exclusive-grab-an-apple-pencil-2nd-gen-for-just-95-more-find-deals-today/"><u>Score Big Savings with Labor Day Exclusive: Grab an Apple Pencil 2Nd Gen for Just $95 More - Find Deals Today!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleashing-visual-power-new-amd-hd-6950-driver-for-windows-10/"><u>Unleashing Visual Power: New AMD HD 6950 Driver for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-mystery-of-missing-wireless-on-windows-11/"><u>Unveiling: The Mystery of Missing Wireless on Windows 11</u></a></li>
 </ul></div>
 

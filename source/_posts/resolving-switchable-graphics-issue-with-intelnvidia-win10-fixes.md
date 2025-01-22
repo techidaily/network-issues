@@ -1,7 +1,7 @@
 ---
 title: Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes
-date: 2025-01-11T21:43:34.360Z
-updated: 2025-01-15T20:54:55.844Z
+date: 2025-01-16T04:30:11.679Z
+updated: 2025-01-22T03:08:10.995Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -96,11 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -108,6 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -142,20 +142,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-graphics-system-runs-normal-again/"><u>[Fixed]: Graphics System Runs Normal Again</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-troubleshooted-resolved-no-amd-graphics-on-windows-10/"><u>[SYSTEM TROUBLESHOOTED] Resolved No AMD Graphics on Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-canon-cameras-vividness-with-free-and-paid-lut-sets/"><u>[Updated] Canon Cameras' Vividness with Free & Paid LUT Sets</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-most-innovative-5k-screens-ranked-8/"><u>[Updated] The Most Innovative 5K Screens Ranked #8</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-does-youtube-offer-regular-viewers-money/"><u>2024 Approved Does YouTube Offer Regular Viewers Money?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-inverted-screen-display-on-windows-7/"><u>Correcting Inverted Screen Display on Windows 7</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/excellent-easytime-timer-services/"><u>Excellent EasyTime Timer Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-hot-40-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Hot 40</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/krijg-gratis-online-bmp-in-image-naar-png-konvertiering-movavi-image-editor/"><u>Krijg Gratis Online BMP-In Image Naar PNG Konvertiering - Movavi Image Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-apple-maps-for-pc-users/"><u>Mastering Apple Maps for PC Users</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-the-secure-erase-process-for-your-asus-equipped-samsung-nvme-970-evo-drive/"><u>Mastering the Secure Erase Process for Your ASUS-Equipped Samsung Nvme 970 EVO Drive</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reestablishing-gpu-fan-movement/"><u>Reestablishing GPU Fan Movement</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-the-flicker-boosting-display-life-pro-7/"><u>Taming the Flicker, Boosting Display Life (Pro 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-star-citizen-crash-on-pc-directx-hurdle/"><u>[CORRECTED] Star Citizen Crash on PC - DirectX Hurdle</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-steps-for-recording-games-via-obs/"><u>[New] 2024 Approved Essential Steps for Recording Games via OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-webcam-use-for-professional-meeting-records-for-2024/"><u>[New] Mastering Webcam Use for Professional Meeting Records for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-twitter-to-mp3-how-to-convert-videos-on-social-media/"><u>[New] Twitter to MP3 How to Convert Videos on Social Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-beginner-to-expert-choose-studio-or-beta/"><u>2024 Approved From Beginner to Expert Choose Studio or Beta</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-harnessing-imovies-potential-for-youtube-broadcasting/"><u>2024 Approved Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-common-video-editing-green-screen-failures-on-youtube/"><u>Avoiding Common Video Editing Green Screen Failures on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-inverted-monitor-viewing-angle/"><u>Correct Inverted Monitor Viewing Angle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-non-supported-freesync-connection/"><u>Correcting Non-Supported FreeSync Connection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-financial-benefits-in-podcasting/"><u>Exploring the Financial Benefits in Podcasting</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-monitor-refresh-rate-issues/"><u>Repair Monitor Refresh Rate Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repair-update-graphics-card-regains-functionality/"><u>Repair Update: Graphics Card Regains Functionality</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/reviving-vanished-files-on-ios-devices-unveiling-four-reliable-techniques-for-data-recovery/"><u>Reviving Vanished Files on iOS Devices: Unveiling Four Reliable Techniques for Data Recovery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-shutdown-after-driver-upgrade/"><u>Silent Shutdown After Driver Upgrade</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unleash-your-creativity-with-vibrant-cartoon-backgrounds-and-images-premium-photo-walls-by-yl-software/"><u>Unleash Your Creativity with Vibrant Cartoon Backgrounds & Images - Premium Photo Walls by YL Software</u></a></li>
 </ul></div>
 

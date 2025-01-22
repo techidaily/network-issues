@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Fluttering on Win7 Screens
-date: 2024-11-26T04:18:38.748Z
-updated: 2024-12-03T03:27:15.092Z
+date: 2025-01-16T16:51:02.288Z
+updated: 2025-01-22T02:24:52.520Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 ## Troubleshooting Fluttering on Win7 Screens
 
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,15 +49,11 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -69,7 +69,7 @@ To troubleshoot these hardware issues:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
@@ -87,10 +87,6 @@ To troubleshoot these hardware issues:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -102,11 +98,19 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
@@ -119,10 +123,6 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,21 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[New] Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-satirical-graphics-memes-made-easy-by-kapwing/"><u>[New] Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>2024 Approved A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-subtitle-switch-up-success-strategies-highlighted/"><u>2024 Approved SRT Subtitle Switch-Up Success Strategies Highlighted</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/school-media-creation-advanced-editing-tips/"><u>School Media Creation Advanced Editing Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-your-zoom-video-calling-issues-stabilizing-an-erratic-internet-connection/"><u>Solving Your Zoom Video Calling Issues: Stabilizing an Erratic Internet Connection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-guide-resolving-ethernet-connectivity-errors-on-windows-11-and-windows-7/"><u>Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-guide-solving-ethernet-not-functioning-errors-on-pc-windows-107/"><u>Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-solutions-to-stop-unexpected-flashing-on-asus-laptop-screens/"><u>Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-and-fixing-gtx-graphics-card-error-code-43-for-windows-10-users/"><u>Troubleshooting and Fixing GTX Graphics Card Error Code 43 for Windows 10 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-and-repairing-brightness-fluctuations-in-asus-computer-displays/"><u>Troubleshooting and Repairing Brightness Fluctuations in Asus Computer Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-and-resolving-ethernet-connectivity-problems-in-windows-107/"><u>Troubleshooting and Resolving Ethernet Connectivity Problems in Windows 10/7</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ultimate-tutorial-on-speedy-conversion-of-mkv-videos-to-hevch265-for-optimal-quality-retention/"><u>Ultimate Tutorial on Speedy Conversion of MKV Videos to HEVC/H.265 For Optimal Quality Retention</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-top-3ip-apps-for-clear-audio-recordings/"><u>[New] Ideal Top 3iP Apps for Clear Audio Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transform-your-snap-game-with-these-top-tips/"><u>[Updated] In 2024, Transform Your Snap Game with These Top Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-inverted-display-issue-in-windows-7/"><u>Addressing Inverted Display Issue in Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/advanced-displays-unseen-windows-11-issue/"><u>Advanced Displays Unseen: Windows 11 Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/better-microsoft-bd-performance-for-windows-versions-1087/"><u>Better Microsoft BD Performance for Windows Versions 10/8/7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-apple-watchs-endurance-discover-the-top-8-battery-saving-tweaks-techwise/"><u>Boost Your Apple Watch's Endurance: Discover the Top 8 Battery-Saving Tweaks | TechWise</u></a></li>
+<li><a href="https://network-issues.techidaily.com/controlling-vast-windows-10-panels/"><u>Controlling Vast Windows 10 Panels</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creatives-making-marvel-virtual-worlds-vivid-for-2024/"><u>Creatives Making Marvel Virtual Worlds Vivid for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-installation-of-wi-fi-adapter-on-desktop-computers-tutorial-guide/"><u>Easy Installation of Wi-Fi Adapter on Desktop Computers - Tutorial Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevating-amd-radeon-r9-experience-with-fixes-on-win11/"><u>Elevating AMD Radeon R9 Experience with Fixes on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-update-intel-graphics-driver-in-windows-7/"><u>How to Update Intel Graphics Driver in Windows 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximize-your-iphones-potential-boost-internal-memory-by-50-with-ios-17-tricks-for-iphone-models-8-plus-and-older-versions/"><u>Maximize Your iPhone's Potential: Boost Internal Memory by 50% with iOS 17 Tricks for iPhone Models 8, Plus, and Older Versions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/natural-interaction-ais-quest-to-speak-like-humans/"><u>Natural Interaction: AI's Quest to Speak Like Humans</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-to-intelligent-healthcare-prioritizing-patient-needs-with-digital-innovations-a-zdnet-perspective/"><u>The Evolution to Intelligent Healthcare: Prioritizing Patient Needs with Digital Innovations - A ZDNET Perspective</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-discover-the-best-games-for-when-youre-too-bored/"><u>The Ultimate Guide: Discover the Best Games for When You're Too Bored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/was-die-neue-iphone-generation-bietet-ein-vergleich-zwischen-iphone-7-und-iphone-6s-mit-fortschrittlichen-features/"><u>Was Die Neue iPhone-Generation Bietet: Ein Vergleich Zwischen iPhone 7 Und iPhone 6S Mit Fortschrittlichen Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-error-successful-gpu-creation/"><u>Win Error: Successful GPU Creation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-resolution-optimization-achieved/"><u>Win10 Resolution Optimization Achieved</u></a></li>
 </ul></div>
 
