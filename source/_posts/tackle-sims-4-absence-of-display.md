@@ -1,7 +1,7 @@
 ---
 title: Tackle Sims 4 Absence of Display
-date: 2025-01-19T23:45:03.867Z
-updated: 2025-01-21T18:12:40.252Z
+date: 2025-01-23T19:01:04.947Z
+updated: 2025-01-29T20:08:12.760Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 ## Tackle Sims 4 Absence of Display
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -51,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -73,6 +69,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -80,10 +80,6 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -96,10 +92,6 @@ Here is how to do it:
  2) In the **Command Line Arguments** box, type **\-w** and click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
 
@@ -117,17 +109,25 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -154,10 +154,6 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -186,6 +182,10 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -211,14 +211,15 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/resolved-graphics-card-signal-lost-and-restored/"><u>[Resolved] Graphics Card Signal Lost & Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-screen-glitch-windows-10-displays-only-sliver-of-windows/"><u>Corrected Screen Glitch: Windows 10 Displays Only Sliver of Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974481222-enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-engagement-on-video-calls-using-snap-features/"><u>In 2024, Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/preserving-your-snapchat-moments-beyond-app-for-2024/"><u>Preserving Your SnapChat Moments Beyond App for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/probleme-mit-der-taskbar-von-windows-11-gelost-durch-aktualisierung-erkunde-diese-5-schritte-zur-wiederherstellung/"><u>Probleme Mit Der Taskbar Von Windows 11, Gelöst Durch Aktualisierung - Erkunde Diese 5 Schritte Zur Wiederherstellung</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-expansive-monitor-glitches-for-windows-pc/"><u>Solved Expansive Monitor Glitches for Windows PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-focusing-on-the-best-our-countdown-of-camera-lenses-1-10-for-2024/"><u>[Updated] Focusing on the Best Our Countdown of Camera Lenses, #1-10 for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-xs-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone XS Max without Password</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerate-clear-video-experience/"><u>Accelerate Clear Video Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/creative-composite-imagery-for-a-brighter-tomorrow/"><u>Creative Composite Imagery for a Brighter Tomorrow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/debugged-drivers-fixed-code-22/"><u>Debugged: Drivers' Fixed Code #22</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-image-quality-in-far-cry-6-console-edition/"><u>Enhancing Image Quality in Far Cry 6 Console Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-tablet-pcs-based-on-processors/"><u>Evaluating Tablet PCs Based on Processors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-overcome-inactive-airdrop-on-multiple-apple-devices/"><u>How to Overcome Inactive AirDrop on Multiple Apple Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-chatgpt-compromising-your-online-privacy-a-deep-dive-analysis/"><u>Is Using ChatGPT Compromising Your Online Privacy? A Deep Dive Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-restoration-rectify-legends-glitches/"><u>Swift Restoration: Rectify Legends Glitches</u></a></li>
 </ul></div>
 

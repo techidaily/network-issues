@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Fixing Graphics System Setup Errors on Your PC or Laptop"
-date: 2025-01-16T16:28:21.500Z
-updated: 2025-01-22T02:12:04.515Z
+date: 2025-01-23T17:04:00.021Z
+updated: 2025-01-29T17:53:32.059Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 * **[Method 3: Change resolution settings](https://tools.techidaily.com/drivereasy/download/)**
 * **[Method 4: Update Windows](https://tools.techidaily.com/drivereasy/download/)**
 * **[Method 5: Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your graphics driver
 
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
 
 4) Restart your computer for the changes to take effect.
@@ -64,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
  If the method doesn’t work, you can open Device Manager again, right-click your graphics driver and**Disable** it, and then restart your computer. Easy as the method may seem, it has proved very useful for many users.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Method 2: Run the game in compatibility mode
 
@@ -76,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ###  Method 3: Change your display resolution settings
@@ -90,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/change-resolution.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To change system screen resolution on Windows 11:
@@ -100,7 +108,7 @@ To change system screen resolution on Windows 11:
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
@@ -108,6 +116,10 @@ To change system screen resolution on Windows 11:
 If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 4: Update Windows
 
@@ -118,22 +130,10 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then try your game again to see if the Unable to Initialize Graphics System problem persists. If the problem remains, please move on to the next fix.
 
@@ -150,14 +150,14 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **support@fortect.com** 
@@ -185,24 +185,20 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-refine-and-revamp-your-videos-using-youtube-studio-tools/"><u>[New] 2024 Approved Refine and Revamp Your Videos Using YouTube Studio Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide/"><u>[New] In 2024, Metaverse Vs. MultiMetaverse Elucidating the Variances (Ultimate Guide)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>[New] Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-nvidia-graphic-glitch-clears-up/"><u>[Resolved] Nvidia Graphic Glitch Clears Up</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-video-driver-fixes-acknowledged/"><u>[Resolved] Video Driver Fixes Acknowledged</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>[Updated] The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/avoid-ordinary-bordered-instagram-photos-for-impact-for-2024/"><u>Avoid Ordinary Bordered Instagram Photos for Impact for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-erratic-screen-behavior-pro-7/"><u>Banishing Erratic Screen Behavior (Pro 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decrypting-the-x-factor-anomaly-uncovered-in-lol-games/"><u>Decrypting the X-Factor Anomaly Uncovered in LoL Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-unresponsive-usb-connections-on-windows-11-computers/"><u>Diagnosing and Fixing Unresponsive USB Connections on Windows 11 Computers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y36ifrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y36iFRP Lock</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-clean-image-borders-on-canva/"><u>In 2024, The Ultimate Guide to Clean Image Borders on Canva</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-more-lag-in-video-playback-on-newest-windows-os/"><u>No More Lag in Video Playback on Newest Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-enhancement-update-intel-graphics-3000-to-boost-your-w10-display/"><u>Quick Enhancement: Update Intel Graphics 3000 to Boost Your W10 Display.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-lenovo-x220-driver-update-get-your-device-running-smoothly-in-minutes/"><u>Quick Lenovo X220 Driver Update – Get Your Device Running Smoothly in Minutes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-upside-down-screens-on-windows-10-os/"><u>Rectifying Upside-Down Screens on Windows 10 OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackling-anthem-lags-quick-solutions/"><u>Tackling Anthem Lags: Quick Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-power-supply-failures-expert-tips-from-yl-software-professionals/"><u>Troubleshooting Power Supply Failures: Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-and-nvidia-7025-unresolved-conflict/"><u>Win10 & Nvidia 7025: Unresolved Conflict</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-beyond-simple-cuts-deep-insights-into-vidas-editing-power-for-2024/"><u>[New] Beyond Simple Cuts Deep Insights Into Vida’s Editing Power for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-epic-games-download-slow-download-stuck/"><u>[SOLVED] Epic Games Download Slow /Download Stuck</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sharpening-scenes-the-power-of-film-zoom/"><u>[Updated] 2024 Approved Sharpening Scenes The Power of Film Zoom</u></a></li>
+<li><a href="https://network-issues.techidaily.com/battery-of-patience-with-wi-fi-drops/"><u>Battery of Patience with Wi-Fi Drops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experiencing-psn-issues-how-to-find-out-if-its-an-official-server-downtime-or-individual-connection-woes/"><u>Experiencing PSN Issues? How to Find Out if It's an Official Server Downtime or Individual Connection Woes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-channel-buying-made-simple-a-beginners-toolkit/"><u>In 2024, Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/install-completed-without-nvidia-errors/"><u>Install Completed Without NVIDIA Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installing-latest-intel-graphic-drivers-in-windows/"><u>Installing Latest Intel Graphic Drivers in Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-your-way-in-graphic-design-careers-for-2024/"><u>Navigating Your Way in Graphic Design Careers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-graphics-card-match-overwatch-update-fixed-issue/"><u>No Graphics Card Match - Overwatch Update Fixed Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-amd-radeon-r9-hurdles-with-ease-on-win11/"><u>Overcoming AMD Radeon R9 Hurdles with Ease on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-inverted-display-issue-in-wins11-update/"><u>Overcoming Inverted Display Issue in Wins11 Update</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolving-connection-issues-how-to-fix-your-scanners-inability-to-connect-with-a-pc-expert-advice-from-yl-computing/"><u>Resolving Connection Issues: How to Fix Your Scanner's Inability to Connect with a PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-showdown-evaluating-oled-amoled-and-ips-in-the-market/"><u>Screen Showdown: Evaluating OLED, AMOLED & IPS in the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sneak-peek-into-samsungs-upcoming-laptop-lineup-the-galaxy-book-4-edge-powered-by-qualcomms-latest-chip-pre-microsoft-event-tease/"><u>Sneak Peek Into Samsung's Upcoming Laptop Lineup: The Galaxy Book 4 Edge Powered by Qualcomm's Latest Chip - Pre-Microsoft Event Tease</u></a></li>
 </ul></div>
 

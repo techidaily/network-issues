@@ -1,7 +1,7 @@
 ---
 title: Corrected GDRIVR_ERR#22 in VideoCardDriver
-date: 2025-01-19T20:05:41.458Z
-updated: 2025-01-22T02:28:45.812Z
+date: 2025-01-26T19:34:49.432Z
+updated: 2025-01-29T18:18:01.385Z
 tags:
   - win11
   - win10
@@ -20,10 +20,18 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -42,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -58,7 +66,7 @@ Be careful you don’t mistype, or press the wrong keys!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
@@ -73,15 +81,11 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -104,10 +108,6 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -129,22 +129,22 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrammashup-androidandios-video-tiles/"><u>[New] InstagramMashup Android&iOS Video Tiles</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-optimal-strategies-for-youtube-to-mpeg-conversion/"><u>[New] Optimal Strategies for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726030586372-aviutl/"><u>AviUtlを使用した簡単な動画編集：カットとトリミングのテクニック</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevating-trailers-through-musical-integration/"><u>Elevating Trailers Through Musical Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ensuring-optimal-conditions-for-intel-graphics-drivers/"><u>Ensuring Optimal Conditions for Intel Graphics Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guide-to-reactivate-hidden-hardware-in-pc/"><u>Guide to Reactivate Hidden Hardware in PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-x50-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/"><u>How to Sync Your Smartphone with Chromecast for Ultimate Media Control</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lightning-fast-internet-fix-for-win-1110/"><u>Lightning-Fast Internet Fix for WIN 11/10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/notable-book-trailers-showcasing-stories-for-2024/"><u>Notable Book Trailers Showcasing Stories for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-issue-addressed-windows-ceases-operation/"><u>NVIDIA Issue Addressed - Windows Ceases Operation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/re-tune-your-ps5ps4-voice-settings-easily-for-2024/"><u>Re-Tune Your PS5/PS4 Voice Settings Easily for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedy-for-c1900101-during-windows-11-installation/"><u>Remedy for C1900101 During Windows 11 Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-c1900101-error-in-win11-setup/"><u>Resolving C1900101 Error in Win11 Setup</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-screen-newer-gpus-mystery/"><u>Silent Screen: Newer GPU's Mystery?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win-1110-driver-fix-ms-bd-update/"><u>Win 11/10 DRIVER Fix: MS BD Update</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-top-8-gear-in-the-vr-sphere/"><u>[New] Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-gopros-where-to-buy-with-best-price-for-2024/"><u>Affordable GoPros Where to Buy with Best Price for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-wow-problem-fix-51900319/"><u>Bypassing WoW Problem: Fix #51900319</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-visual-performance-update-windows-intel-gpu/"><u>Enhance Visual Performance: Update Windows Intel GPU</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c22-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C22 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-for-ntdlldll-system-crashes-on-modern-windows-operating-systems/"><u>Mastering the Fix for ntdll.dll System Crashes on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-found-overwatch-update-fixes-issue/"><u>No Compatible Graphics Found - Overwatch Update Fixes Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-halted-restoration-complete/"><u>OpenGL Halted, Restoration Complete</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-silent-gpu-fans/"><u>Reactivating Silent GPU Fans</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refresh-windows-sharpen-screens/"><u>Refresh Windows, Sharpen Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-transparency-to-win11-screens/"><u>Restoring Transparency to Win11 Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974620349-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels-for-2024/"><u>Your Gateway to YouTube Entrepreneurship The Best 10 Easy-to-Create Channels for 2024</u></a></li>
 </ul></div>
 

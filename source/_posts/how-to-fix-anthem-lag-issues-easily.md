@@ -1,7 +1,7 @@
 ---
 title: How To Fix Anthem Lag Issues. Easily
-date: 2025-01-18T17:48:59.184Z
-updated: 2025-01-22T03:59:16.558Z
+date: 2025-01-25T16:32:46.548Z
+updated: 2025-01-29T16:46:16.009Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Optimize your in-game settings
 
  For the best performance of Anthem and less lag, you can adjust your in-game settings.
@@ -55,6 +51,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
  6) In**Graphics Quality** , choose**Custom** ;  
@@ -71,13 +71,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -94,6 +94,10 @@ Here’s how to do it:
  2) Click and right-click on**the applications that you don’t want an auto-run on** and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Disable CPU Core Parking
 
@@ -114,24 +118,16 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -152,12 +148,16 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -184,7 +184,7 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -232,16 +232,19 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-demystifying-the-world-of-youtube-shorts-for-2024/"><u>[Updated] Demystifying the World of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-navigate-away-from-windows-10-photos-app-failures-with-precision/"><u>2024 Approved Navigate Away From Windows 10 Photos App Failures with Precision</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-troubleshoot-driver-detection-errors-cleared-in-win10/"><u>AMD Troubleshoot: Driver Detection Errors Cleared in Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-window-past-with-these-3-tricks/"><u>Clear Window Past with These 3 Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-video-output-glitches-without-hiring-help/"><u>Fixing Video Output Glitches Without Hiring Help</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oneplus-nord-ce-3-lite-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My OnePlus Nord CE 3 Lite 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-improved-graphics-driver-for-win10s-nvidia-210/"><u>New Improved Graphics Driver for Win10's Nvidia 210</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-11-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-vanishing-mouse-pointer-issue-in-windows-11/"><u>Resolving the Vanishing Mouse Pointer Issue in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solutions-for-win7-screen-pulsation-issue/"><u>Solutions for Win7 Screen Pulsation Issue</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-vision-navigating-video-degrees-with-ease-for-2024/"><u>YouTube Vision Navigating Video Degrees with Ease for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comprehensive-guide-screenflow-pro-on-macos/"><u>[Updated] Comprehensive Guide ScreenFlow Pro on macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-pasting-snippets-via-crafted-keybinds-in-windows-11-and-11/"><u>Effortless Pasting Snippets via Crafted Keybinds in Windows 11 & 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-to-solve-video-hiccups-on-upgraded-pcs/"><u>Expert Tips to Solve Video Hiccups on Upgraded PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fallout-4s-crash-defeated-on-pc/"><u>Fallout 4'S Crash, Defeated on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-rtx210-gains-traction-on-enhanced-windows-11-interface/"><u>GeForce RTX210 Gains Traction on Enhanced Windows 11 Interface</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-smart-8-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Smart 8 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 Pro Max With or Without Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-virtual-meetings-best-solutions/"><u>Mastering Virtual Meetings Best Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-wins-graphic-configuration-hurdle/"><u>Overcame Win's Graphic Configuration Hurdle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-distorted-text-line-issue-in-portable-devices/"><u>Resolve Distorted Text Line Issue in Portable Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-fixes-for-ietfamedll-problems-a-comprehensive-guide/"><u>Ultimate Fixes for ietfame.dll Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleash-your-potential-with-snapchats-commerce-tools-for-2024/"><u>Unleash Your Potential with Snapchat's Commerce Tools for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-display-glitch-resolved/"><u>Windows 10 Display Glitch: Resolved</u></a></li>
 </ul></div>
 

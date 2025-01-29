@@ -1,7 +1,7 @@
 ---
 title: Purge Latency in Win11/10 with Easy Fixes
-date: 2025-01-19T16:15:26.502Z
-updated: 2025-01-22T01:21:46.884Z
+date: 2025-01-23T18:09:15.041Z
+updated: 2025-01-29T19:56:16.449Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ## Purge Latency in Win11/10 with Easy Fixes
 
  If you ever run into the**Windows 11 or 10 slow Internet** problem, don’t worry. It’s often quite easy to fix…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 fixes for Windows 11/10 Slow Internet
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 3. Click**Delivery Optimization** (or**Choose how updates are delivered** depending on the build of your Windows 10).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/windowsupdatedeliveryoption.jpg)
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/windowsupdateallowapps.jpg)
 5. Check if the**Windows 11/10 slow Internet** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -72,16 +72,8 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/taskmanagernewtask.jpg)
 3. Copy & paste **gpedit.msc** into the box, tick the box before **Create this task with administrative privileges** , and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b67c73fda271.png)
 4. Under **Computer Configuration** , double-click on**Administrative Templates** \>**Network** \>**QoS Packet Scheduler** . Then double-click on **Limit reservable bandwidth** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7121e2c956c.jpg)
 5. Click the**Enabled** option and set**Bandwidth limit (%)** value to**0** . Then click**Apply** \>**OK** .  
@@ -89,11 +81,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b712108609d3.jpg)
 6. Is your Internet getting any faster? If it’s still grinding to a crawl, you should try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your WiFi drivers
 
@@ -108,13 +100,13 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/10/de-update-all-wireless-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer and see if the **Windows 10 Slow Internet** problem has been resolved. If yes, then congrats! If the issue still persists, please move on to**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
 
@@ -122,6 +114,10 @@ Here’s how to do it:
 
 1. **[Repair & replace corrupt system files with Fortect](#fortect)**
 2. [**Run SFC scan**](#SFC)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -138,16 +134,12 @@ Here’s how to use Fortect to repair system files on your PC:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check your computer to see if the internet speed has returned to normal.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [Fortect Customer Support Team](https://www.fortect.com/support/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -173,19 +165,27 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the **Windows logo key** and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Yes** when prompted to confirm.
 2. Copy & paste **netsh interface tcp show global** into the window and press**Enter** . Then check if**Receive Window Auto-Tuning Level**  is set to**normal** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b70ff100133c.jpg)
 3. If yes, you’ll have to copy & paste**netsh int tcp set global autotuninglevel=disabled** into the window and press**Enter** to disable it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7134aa2923c.jpg)
 4. Check to see if your**Windows 10 slow Internet** problem has been solved. If the issue still lingers on, don’t worry, here’s one more fix to try.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 6: Disable Large Send Offload
 
@@ -195,6 +195,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7105728b9d7.png)
 2. Double-click on**Network adapters** \>**your network adapter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7106291012e.jpg)
 3. Click the**Advanced** tab, then click **Large Send Offload V2 (IPv4)** and set the**value** to**Disabled** .  
 
@@ -203,10 +207,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7107f56920e.jpg)
 5. Hopefully, your **Windows 10/11 Slow Internet** issue has been resolved successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Some other modifications
 
@@ -243,17 +243,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence-for-2024/"><u>[New] Revolutionize Social Sagas – No Cost for Online & Mobile Excellence for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-utilizing-iphones-full-screen-memories/"><u>[New] Utilizing iPhone's Full-Screen Memories</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigate-the-social-media-maze-understanding-insights/"><u>[Updated] In 2024, Navigate the Social Media Maze Understanding Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-reestablishing-communication-with-a-non-responsive-obs-cam/"><u>[Updated] In 2024, Reestablishing Communication with a Non-Responsive OBS Cam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/google-the-moment-is-now-for-crafting-an-ultimate-weather-application/"><u>Google: The Moment Is Now for Crafting an Ultimate Weather Application</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/immediate-access-secure-your-ms-project-and-visio-pro-subscriptions-for-just-20-through-zdnet-deals/"><u>Immediate Access: Secure Your MS Project and Visio Pro Subscriptions for Just $20 Through ZDNet Deals!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-corrected-graphical-hardware-error/"><u>Overwatch: Corrected Graphical Hardware Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-media-playback-after-upgrading-to-windows-11/"><u>Seamless Media Playback After Upgrading to Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-win11-flashy-monitor-problems/"><u>Solve Win11 Flashy Monitor Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a54-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A54 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728479586860-windows-pc/"><u>Windows環境におすすめ! ファイル転送ツールでPC間移動</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[New] Secure Your Content Copyright Checks Before TikTok Sharing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-experts-guide-to-recording-mp4-videos-for-2024/"><u>[Updated] Expert's Guide to Recording MP4 Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ios-meets-classic-play-best-ps2-game-emulators-reviewed-for-2024/"><u>[Updated] IOS Meets Classic Play Best PS2 Game Emulators Reviewed for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid/"><u>[Updated] Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-removing-shadow-copies-on-windows-10-a-guide-to-4-proven-methods/"><u>Effective Strategies for Removing Shadow Copies on Windows 10: A Guide to 4 Proven Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/freed-upfront-to-vr-headset-settings/"><u>Freed Upfront to VR Headset Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-find-x7-ultra-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Find X7 Ultra PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-gt-10-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix GT 10 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-detected-overwatch-patch-successful/"><u>No Compatible Graphics Detected - Overwatch Patch Successful</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-for-correcting-unclear-images-in-cod-warzone-on-windows-machines/"><u>Step-by-Step Tutorial for Correcting Unclear Images in Cod: Warzone on Windows Machines</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essence-of-4k-super-hd-resolution/"><u>The Essence of 4K Super HD Resolution</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
 

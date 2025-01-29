@@ -1,7 +1,7 @@
 ---
 title: "Smoothing Play: Rectifying Computer Glitches in Civ 5"
-date: 2025-01-15T01:16:12.163Z
-updated: 2025-01-21T19:08:43.537Z
+date: 2025-01-23T16:29:22.290Z
+updated: 2025-01-29T16:03:53.701Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for the CIV 5 crashing problem
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the**CIV 5 crashing**  problem is resolved.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -40,17 +48,13 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -65,20 +69,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -92,15 +92,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
@@ -128,21 +128,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-cod-cold-war-restoring-online-playability/"><u>[FIXED] CoD Cold War - Restoring Online Playability</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-photographers-guide-to-effective-watermarking/"><u>[Updated] In 2024, Photographers' Guide to Effective Watermarking</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-learn-youtube-video-ad-building-at-no-cost-in-2024/"><u>[Updated] Learn YouTube Video Ad Building at No Cost, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-w10-quick-recording-software/"><u>2024 Approved W10 Quick Recording Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-approach-to-typography-addition-in-ae/"><u>A Step-by-Step Approach to Typography Addition in AE</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/affordable-baseus-eli-sport-1-wireless-headphones-a-comprehensive-review-highlighting-pros-and-cons/"><u>Affordable Baseus Eli Sport 1 Wireless Headphones - A Comprehensive Review Highlighting Pros & Cons</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-your-youtube-video-bugs-green-screen-edition/"><u>Clearing Up Your YouTube Video Bugs: Green Screen Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-glitch-repair-complete/"><u>Graphics Glitch Repair Complete</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/integrated-guide-for-mobile-and-pc-session-records-for-2024/"><u>Integrated Guide for Mobile & PC Session Records for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-inverted-image-feature-from-w11/"><u>Removing Inverted Image Feature From W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-display-settings-save-issue/"><u>Resolving Display Settings Save Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-the-buzz-of-new-messages-a-comprehensive-guide-to-iphone-notification-sounds/"><u>Restore the Buzz of New Messages: A Comprehensive Guide to iPhone Notification Sounds</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversing-black-screen-phenomenon-in-portables/"><u>Reversing Black Screen Phenomenon in Portables</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/studio-setup-starters-top-17-lights-and-more-for-2024/"><u>Studio Setup Starters - Top 17 Lights & More for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-screen-resizing-quirks-in-window-10/"><u>Tackled Screen Resizing Quirks in Window 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-better-connections-in-dating-the-power-of-chatgpt-revealed/"><u>Unlock Better Connections in Dating: The Power of ChatGPT Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/culmination-of-clear-windows-11-screens/"><u>Culmination of Clear Windows 11 Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-graphics-new-drivers-for-win10s-amd-radeon-6950/"><u>Enhanced Graphics, New Drivers for Win10's AMD Radeon 6950</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flicker-and-pulse-on-win7-display/"><u>Fixing Flicker and Pulse on Win7 Display</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/frosty-yet-warm-choosing-the-best-winter-backdrops-for-2024/"><u>Frosty Yet Warm Choosing the Best Winter Backdrops for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gamers-guide-to-high-quality-live-recording/"><u>Gamers' Guide to High-Quality Live Recording</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-plan-to-rectify-laptop-display-anomalies/"><u>Immediate Action Plan to Rectify Laptop Display Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-graphics-issue-darkened-monitor/"><u>Latest Graphics Issue: Darkened Monitor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-your-iphone-12-a-step-by-step-guide-to-resolving-its-top-twelve-obstacles/"><u>Mastering Your iPhone 12: A Step-by-Step Guide to Resolving Its Top Twelve Obstacles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/resizing-youtube-images-step-by-step-guide-for-2024/"><u>Resizing YouTube Images Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-duplicate-notifications-keeping-your-ipad-quiet-when-your-iphone-buzzes/"><u>Silencing Duplicate Notifications: Keeping Your iPad Quiet When Your iPhone Buzzes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/streamlined-editing-of-your-tiktok-age-for-2024/"><u>Streamlined Editing of Your TikTok Age for 2024</u></a></li>
 </ul></div>
 

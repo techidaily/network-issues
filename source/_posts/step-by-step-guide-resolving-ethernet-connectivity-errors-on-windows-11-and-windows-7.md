@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Ethernet Connectivity Errors on Windows 11 & Windows 7"
-date: 2025-01-18T04:02:59.729Z
-updated: 2025-01-21T20:23:19.073Z
+date: 2025-01-22T17:36:46.976Z
+updated: 2025-01-29T18:37:47.252Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 2: Restart your modem and router
 
  This problem can be probably caused by the Internet Service Provider (ISP) issue. Restarting your modem and/or router can help you reconnect to your Ethernet network service. To do so:
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -74,10 +66,22 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
@@ -101,14 +105,10 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -118,10 +118,6 @@ Follow the steps below:
 1. In the search bar, type in “**cmd** ” and select **Run as admnistrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
@@ -134,6 +130,10 @@ Follow the steps below:
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,19 +156,19 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-playtime-perfection-the-kiddo-gamer-guide/"><u>[New] 2024 Approved Playtime Perfection The Kiddo Gamer Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>[New] Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-seamless-incorporation-of-virtual-boards-in-web-conferencing-mobiledesktop-methods/"><u>2024 Approved Seamless Incorporation of Virtual Boards in Web Conferencing Mobile/Desktop Methods</u></a></li>
-<li><a href="https://network-issues.techidaily.com/efficient-play-speed-up-roblox-pc-game/"><u>Efficient Play: Speed up Roblox PC Game</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-phantom-screens-in-dell-units/"><u>Fixing Phantom Screens in Dell Units</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-7-screen-mirroring/"><u>Fixing Windows 7 Screen Mirroring</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-is-generative-ai-transforming-into-a-key-player-for-distributing-fake-news/"><u>How Is Generative AI Transforming Into a Key Player for Distributing Fake News?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-action-for-clear-screens/"><u>Immediate Action for Clear Screens</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficient-protocols-for-high-quality-iptv-screening/"><u>In 2024, Efficient Protocols for High-Quality IPTV Screening</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-say-goodbye-to-paywalls-with-free-video-handling-tools/"><u>In 2024, Say Goodbye to Paywalls with Free Video Handling Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/innovative-approaches-to-documenting-gaming-on-ps4/"><u>Innovative Approaches to Documenting Gaming on PS4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-avoid-unauthorized-access-by-computer-tech-experts/"><u>Protect Your Privacy: Avoid Unauthorized Access by Computer Tech Experts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/vanquish-sims-4-whiteness-glitches/"><u>Vanquish Sims 4 Whiteness Glitches</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/video-integration-made-easy-building-dynamic-youtube-compilations/"><u>Video Integration Made Easy Building Dynamic YouTube Compilations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-re-establishing-offline-and-online-links-in-cod-cold-war/"><u>[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>[New] Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-blueprint-for-buzzing-outro/"><u>[Updated] Blueprint for Buzzing Outro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtube-top-rated-pc-and-mobile-video-extractors/"><u>[Updated] Unlocking YouTube Top-Rated PC & Mobile Video Extractors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-enabling-vpn-functionality-on-home-routers-techradar/"><u>1. Step-by-Step Guide: Enabling VPN Functionality on Home Routers | TechRadar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-compatibility-barrier-for-nvidia-7025/"><u>Breaking Compatibility Barrier for Nvidia 7025</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-fluidity-your-step-by-cookie-of-intelers-driver-update/"><u>Enhancing Visual Fluidity: Your Step-By Cookie of Inteler's Driver Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-enhancing-streaming-quality-for-instagram-videos/"><u>In 2024, Enhancing Streaming Quality for Instagram Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y36i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y36i Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466179049-keep-data-members-private-or-protected/"><u>Keep Data Members Private or Protected</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ms-bd-tweak-for-smarter-rendering-on-ws-21-ws-8/"><u>MS BD Tweak for Smarter Rendering on WS-21, WS-8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-opengl-issue-on-nvidia-graphics-hardware/"><u>Solved OpenGL Issue on Nvidia Graphics Hardware</u></a></li>
 </ul></div>
 

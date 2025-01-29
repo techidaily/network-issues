@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Notorious GTX 950 'Code 43' Issue in Windows 11: A Step-by-Step Solution"
-date: 2025-01-19T18:26:22.821Z
-updated: 2025-01-22T06:49:21.388Z
+date: 2025-01-22T16:13:59.780Z
+updated: 2025-01-29T16:30:24.329Z
 tags:
   - win11
   - win10
@@ -47,22 +47,22 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -104,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,19 +155,16 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-the-pause-button-iphone-slow-mo-techniques/"><u>[New] In 2024, Mastering the Pause Button IPhone Slow Mo Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-the-ultimate-4-methods-for-gameplay-screens/"><u>[New] Step-By-Step The Ultimate 4 Methods for Gameplay Screens</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-addressing-the-internet-disconnect-in-cod-cold-war/"><u>[REPAIRED] Addressing the Internet Disconnect in CoD Cold War</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-to-the-chase-mastering-zoom-in-videoleap-videos/"><u>[Updated] Cutting to the Chase Mastering Zoom in Videoleap Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-quick-guide-to-retrieving-lost-data-from-your-laptops-hdd/"><u>1. Quick Guide to Retrieving Lost Data From Your Laptop's HDD</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-x100-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo X100 Pro Phone | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improve-windows-graphics-by-installing-current-intel-drivers/"><u>Improve Windows Graphics by Installing Current Intel Drivers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-and-renew-vintage-footage/"><u>Revive and Renew Vintage Footage</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-for-changing-pc-icon-on-windows-versions-11-10-8-7/"><u>Step-by-Step Guide for Changing PC Icon on Windows Versions (11, 10, 8, 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninterrupted-video-experience-post-windows-10-upgrade/"><u>Uninterrupted Video Experience Post-Windows 10 Upgrade</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-driver-uninstalled-reinstate-windows-10-card/"><u>Wi-Fi Driver Uninstalled? Reinstate Windows 10 Card</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/wiederherstellung-verlorener-daten-von-usb-sticks-ohne-spezielle-software/"><u>Wiederherstellung Verlorener Daten Von USB-Sticks - Ohne Spezielle Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-missing-adjustments/"><u>Windows 11 Advanced Display Missing Adjustments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mov-ogv-movavi/"><u>オンラインで無料 MOV から OGV への優れた変換サービス - Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-scrutinizing-high-dynamic-range-insights-from-luminance/"><u>2024 Approved Scrutinizing High Dynamic Range Insights From Luminance</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-v29e-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo V29e</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bdr-enhancements-on-ws-21-ws-10-and-older-windows/"><u>BDR Enhancements on WS-21, WS-10, and Older Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-not-recognizing-nvidia-video-hardware/"><u>Fixed: Windows Not Recognizing NVIDIA Video Hardware</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-f04-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy F04 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-snapchat-enhancing-images-and-videos-for-2024/"><u>Mastering Snapchat Enhancing Images & Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-tips-navigating-without-watching-edgenuity-content/"><u>Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-incompatible-freesync-display/"><u>Rectifying Incompatible FreeSync Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis-t17238628805656/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
 </ul></div>
 

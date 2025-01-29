@@ -1,7 +1,7 @@
 ---
 title: "Sideways Display: Problem Solved"
-date: 2025-01-19T06:37:56.414Z
-updated: 2025-01-22T04:21:15.411Z
+date: 2025-01-24T19:36:38.253Z
+updated: 2025-01-29T19:53:33.381Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -38,6 +42,10 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -47,21 +55,13 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -77,12 +77,12 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,19 +105,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-incorporate-tunes-into-ppt-slides/"><u>[New] 2024 Approved Incorporate Tunes Into PPT Slides</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-video-submission-on-facebook-from-your-gadgets/"><u>[New] Navigating Video Submission on Facebook From Your Gadgets</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-leverage-ez-grabber-for-peak-performance/"><u>[Updated] 2024 Approved How to Leverage EZ Grabber for Peak Performance</u></a></li>
-<li><a href="https://network-issues.techidaily.com/core-i9-pc-lacks-graphics-acceleration/"><u>Core I9 PC Lacks Graphics Acceleration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-display-only-partial-windows-on-monitor-windows-10/"><u>Corrected Display - Only Partial Windows on Monitor (Windows 10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/excellent-display-quality-now-windows-10/"><u>Excellent Display Quality Now, Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-integrating-songs-and-snaps-online/"><u>In 2024, Integrating Songs and Snaps Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-promotion-mastery-craft-your-winning-market-plan/"><u>Instagram Video Promotion Mastery Craft Your Winning Market Plan</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-residential-electric-vehicle-charge-stations/"><u>Mastering the Art of Residential Electric Vehicle Charge Stations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/relaunching-windows-photo-viewer-two-tactics-for-w10-users/"><u>Relaunching Windows Photo Viewer Two Tactics for W10 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revealing-disappearing-monitor-ghosts/"><u>Revealing Disappearing Monitor Ghosts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-pro-7-screen-fluctuations/"><u>Troubleshooting Pro 7 Screen Fluctuations</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1728465073848-windows-10hdd/"><u>ファイルバックアップ:Windows 10環境下で外付けHDDへの転送方法</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-top-snapchat-content-strategies-to-stand-out/"><u>[New] 2024 Approved Top Snapchat Content Strategies to Stand Out</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-compelling-narratives-key-market-words-and-phrases/"><u>[New] Crafting Compelling Narratives Key Market Words and Phrases</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>[New] Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overcoming-connectivity-hurdles-in-cod-cold-war/"><u>[RESOLVED] Overcoming Connectivity Hurdles in CoD Cold War</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-audiences-choice-prime-action-recorder/"><u>[Updated] 2024 Approved Audience's Choice Prime Action Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-green-tools-shaping-film/"><u>[Updated] 2024 Approved Cutting Edge Green Tools Shaping Film</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tiny-titans-top-games-anthology/"><u>[Updated] 2024 Approved Tiny Titans' Top Games Anthology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-amds-loading-issue-windowas-10-system-operates-normally/"><u>Fixed AMD's Loading Issue, Windowas 10 System Operates Normally</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154429-9781577319511-goddesses-for-every-day/"><u>Goddesses for Every Day | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-resolution-apex-loot-errors/"><u>Immediate Resolution: Apex Loot Errors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>In 2024, How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-amd-freesync-incompatibility-hurdles/"><u>Overcoming AMD FreeSync Incompatibility Hurdles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-lenovo-screen-twinkles/"><u>Preventing Lenovo Screen Twinkles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-tips-for-procuring-high-quality-background-imagery-for-2024/"><u>Top Tips for Procuring High-Quality Background Imagery for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-acer-monitor-glitch/"><u>Troubleshooting Acer Monitor Glitch</u></a></li>
 </ul></div>
 

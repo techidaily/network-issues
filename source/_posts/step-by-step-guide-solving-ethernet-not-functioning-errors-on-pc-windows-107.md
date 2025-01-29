@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving 'Ethernet Not Functioning' Errors on PC (Windows 10/7)"
-date: 2025-01-15T00:57:27.283Z
-updated: 2025-01-21T17:26:43.145Z
+date: 2025-01-22T18:07:43.382Z
+updated: 2025-01-29T17:38:11.430Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 4. **[Turn off any Antivirus or Firewall temporarily](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 1: Check the router and cable situations
 
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution. 
 
 **IMPORTANT:**  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 5: Make sure the Ethernet is enabled
 
@@ -104,11 +104,7 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
@@ -119,21 +115,25 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 2. Now type in the following commands and hit **Enter**  after each one.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **ipconfig /flushdns**  
    * **ipconfig /release**  
    * **ipconfig /renew**  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,24 +156,16 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[New] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-spark-interest-how-to-make-your-vids-shine-on-insta-for-2024/"><u>[New] Spark Interest How to Make Your Vids Shine on Insta for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effective-techniques-for-crafting-and-changing-fb-video-covers/"><u>[Updated] 2024 Approved Effective Techniques for Crafting & Changing FB Video Covers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-fb-discovering-shared-video-content/"><u>[Updated] 2024 Approved Navigating FB Discovering Shared Video Content</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-blackout-on-windows-11-post-fall/"><u>Correcting Blackout on Windows 11 Post-Fall</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-embed-presentation-asset-as-video-feature/"><u>In 2024, Embed Presentation Asset as Video Feature</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monster-hunt-rebooted-crashed-game-restored/"><u>Monster Hunt Rebooted: Crashed Game Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-windows-via-intel-gpu-update/"><u>Optimizing Windows via Intel GPU Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-6s-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6s Plus Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-invisible-wireless-adapter-in-windows-11/"><u>Resolved: Invisible Wireless Adapter in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974504839-screen-flicker-no-more/"><u>Screen Flicker, No More!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-screen-flash-a-guide/"><u>Solving Screen Flash: A Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/superior-pc-sound-and-amd-support/"><u>Superior PC Sound & AMD Support</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-wmv-videos-into-flv-streams-instantly-no-cost-at-all-using-our-service/"><u>Transform WMV Videos Into FLV Streams Instantly, No Cost at All Using Our Service!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/understanding-the-excellence-in-4k-ultra-hds/"><u>Understanding the Excellence in 4K Ultra HDs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visual-void-in-virtual-ventures/"><u>Visual Void in Virtual Ventures</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-transformed-sharper-images/"><u>Windows Transformed: Sharper Images</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-beginner-to-maestro-a-comprehensive-gif-tutorial-for-snapchat/"><u>[New] 2024 Approved From Beginner to Maestro A Comprehensive Gif Tutorial for Snapchat</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>[New] Maximizing Socialization with Ease Xbox One's Zoom Functionality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-revolutionize-your-videography-workflow-recordingediting-on-adobe-connect/"><u>[Updated] 2024 Approved Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eyeview-scrutiny-exploration-for-2024/"><u>Eyeview Scrutiny Exploration for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/horizontal-monitor-solution-found/"><u>Horizontal Monitor Solution Found</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-c1900101-in-win10-preparation/"><u>Overcoming C1900101 in Win10 Preparation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blank-detect-failed-for-cgs/"><u>Screen Blank: Detect Failed for CGs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-cameraphone-gimbal-optimal-pan-and-tilt-stability/"><u>Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlock-clarity-in-photos-leading-10-online-edits-at-a-glance/"><u>Unlock Clarity in Photos Leading 10 Online Edits at a Glance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
 </ul></div>
 

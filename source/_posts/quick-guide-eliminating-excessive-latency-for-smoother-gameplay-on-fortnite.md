@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite"
-date: 2025-01-18T00:14:28.419Z
-updated: 2025-01-22T01:29:49.906Z
+date: 2025-01-26T17:48:09.989Z
+updated: 2025-01-29T16:47:22.390Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap700.png) 
 
 **Ping spikes** **when you’re playing Fortnite** ? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily… 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Reboot your network
 
@@ -73,7 +73,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -97,6 +97,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
@@ -112,17 +116,17 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
@@ -136,27 +140,23 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
  If none of the fixes helps,**it could simply be a server issue** . You can go to **[Fortnite forums](https://www.epicgames.com/fortnite/forums/)**  and see if anyone else is having high ping issues. You can also visit https://fortniteserverstatus.com/ to check the Fortnite server status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Use a VPN
 
@@ -196,18 +196,17 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[New] From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ps5xbox-series-x-game-screens-the-ultimate-guide-for-2024/"><u>[New] PS5/Xbox Series X Game Screens The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-artisans-realm-inside-youtubes-studio-space-for-2024/"><u>[New] The Artisan’s Realm Inside YouTube's Studio Space for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-virtual-impression-sculpting-a-playful-digital-identity/"><u>[Updated] In 2024, Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-virtual-reality-recording-techniques-for-2024/"><u>[Updated] Mastering Virtual Reality Recording Techniques for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-compatibility-hurdle-for-nvidia-7025/"><u>Conquering Compatibility Hurdle for Nvidia 7025</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gateway-broken-geforce-experience-opened/"><u>Gateway Broken: GeForce Experience Opened</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monstrous-error-hunter-worlds-glitch-fixed-fast/"><u>Monstrous Error: Hunter World's Glitch Fixed Fast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-loading-issue-for-amd-on-windows-now-functioning-correctly/"><u>Overcome Loading Issue for AMD on Windows, Now Functioning Correctly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-7-reverse-image-problem/"><u>Rectifying Windows 7 Reverse Image Problem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-upgrades-no-more-video-lags-or-pauses/"><u>Win10 Upgrades: No More Video Lags or Pauses</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-in-on-clear-windows/"><u>Zoom in on Clear Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-video-posting-made-simple-with-correct-aspect-ratio/"><u>[New] In 2024, Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-premier-9-social-media-screen-grabs-for-2024/"><u>[New] Premier 9 Social-Media Screen Grabs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-tactics-for-youtube-success-in-25-ways/"><u>[Updated] In 2024, Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 14 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unsuccessful-direct3d-start-up/"><u>Fixing Unsuccessful Direct3D Start-Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-crumble-to-climb-monster-world-crisis-averted/"><u>From Crumble to Climb: Monster World Crisis Averted</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-a-smartwatch-work-and-why-choose-one-over-a-traditional-watch/"><u>How Does a Smartwatch Work, and Why Choose One Over a Traditional Watch?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-note-30-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Note 30</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-80-pro-straight-screen-edition-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 80 Pro Straight Screen Edition Fingerprint Lock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-memorable-images-top-10-best-meme-blueprints/"><u>In 2024, Memorable Images TOP 10 Best Meme Blueprints</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reformatting-win10-high-res-displays/"><u>Reformatting Win10 High-Res Displays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-screen-degradation-issue-resolved/"><u>Windows 10 Screen Degradation Issue - Resolved</u></a></li>
 </ul></div>
 

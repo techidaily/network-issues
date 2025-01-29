@@ -1,7 +1,7 @@
 ---
 title: Crafting Flawed Yet Relatable Protagonists Through GPT Prompts
-date: 2025-01-17T16:53:04.556Z
-updated: 2025-01-21T22:18:22.952Z
+date: 2025-01-25T16:25:02.315Z
+updated: 2025-01-29T17:31:25.529Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Mixing Topics In a Single Chat Session
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -71,7 +71,7 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -86,6 +86,10 @@ You could use:
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -93,10 +97,6 @@ You could use:
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
@@ -114,6 +114,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 ## 6\. Not Being Clear and Specific With Your Instructions
@@ -123,10 +127,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -147,20 +147,22 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-google-voice-call-logging-with-ease-for-2024/"><u>[New] Navigating Google Voice Call Logging with Ease for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>[Updated] Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs/"><u>2024 Approved Visionaries at Work A Detailed Review of Top 3D Modeling Programs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-random-hp-monitor-flickering/"><u>Addressing Random HP Monitor Flickering</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypass-amds-graphics-setback/"><u>Bypass AMD's Graphics Setback</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>In 2024, The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-error-12-solved-monsters-rejoice/"><u>MH World Error 12 Solved - Monsters Rejoice</u></a></li>
-<li><a href="https://android-frp.techidaily.com/overcoming-graphics-glitches-the-ultimate-guide-to-directx-drawing-repairs/"><u>Overcoming Graphics Glitches: The Ultimate Guide to DirectX Drawing Repairs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-no-signal-on-wi-fi-in-windows-11/"><u>Resolved: No Signal on Wi-Fi in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/saved-display-settings-no-more-trouble/"><u>Saved Display Settings, No More Trouble</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-failed-operations-troubleshoot-0x0000011b/"><u>Stopping Failed Operations: Troubleshoot 0X0000011B</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-mac-iphone-and-ipad-pip-for-2024/"><u>The Ultimate Guide to Mac, iPhone, and iPad PIP for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-excessive-scale-problem/"><u>Window's 11 Excessive Scale Problem</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-stabilize-and-capture-find-the-best-tripods-for-gopro/"><u>[New] 2024 Approved Stabilize and Capture Find the Best Tripods for GoPro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-kickstart-your-stream-must-have-youtube-tools/"><u>[New] Kickstart Your Stream Must-Have YouTube Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-shotsizesavvy-fine-tuning-your-social-media-content-for-instagram/"><u>[New] ShotSizeSavvy Fine-Tuning Your Social Media Content for Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-game-launch-issues/"><u>[Solved] Nvidia Game Launch Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-scripting-techniques-upgraded-file-system-interactions/"><u>Advanced Scripting Techniques: Upgraded File System Interactions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-chatting-on-discord-swift-solutions-for-overlay-problems/"><u>Get Back to Chatting on Discord: Swift Solutions for Overlay Problems!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-v30-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo V30 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monster-world-rescued-from-glitch-nightmare/"><u>Monster World Rescued From Glitch Nightmare</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-screen-malfunctions-in-laptops/"><u>Remedying Screen Malfunctions in Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reset-display-settings-overcoming-win-10-hurdle/"><u>Reset Display Settings: Overcoming Win 10 Hurdle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-wow-error-51900319-quickly/"><u>Solving WoW Error #51900319 Quickly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-of-r9-drivers-on-win10/"><u>Successful Troubleshooting of R9 Drivers on Win10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-how-chatgpt-enhances-content-production-in-9-ways/"><u>Unlocking Creativity: How ChatGPT Enhances Content Production in 9 Ways</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgrade-plan-to-run-latest-intel-graphics-drivers/"><u>Upgrade Plan to Run Latest Intel Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-after-fall-creators-blue-screen/"><u>Win11 Resume After Fall Creators Blue Screen</u></a></li>
 </ul></div>
 

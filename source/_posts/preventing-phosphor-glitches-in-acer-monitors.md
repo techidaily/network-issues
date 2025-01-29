@@ -1,7 +1,7 @@
 ---
 title: Preventing Phosphor Glitches in Acer Monitors
-date: 2025-01-15T04:59:31.983Z
-updated: 2025-01-22T05:00:02.812Z
+date: 2025-01-22T17:53:01.489Z
+updated: 2025-01-29T19:08:19.310Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 3. **[Update your graphics driver](#F3)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**
@@ -51,20 +51,20 @@ Here is how to change the screen refresh rate:
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -74,13 +74,13 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
@@ -101,6 +101,10 @@ Here is how to change the screen refresh rate:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -118,10 +122,6 @@ Here is how to change the screen refresh rate:
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -153,22 +153,18 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-disconnecting-woes-cod-cold-wars-offline-issue/"><u>[FIXED] Disconnecting Woes: CoD Cold War's Offline Issue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks-for-2024/"><u>[New] Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-maximize-your-listening-experience-ios-podcast-mastery/"><u>[New] Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>[Updated] In 2024, Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-your-channels-status-on-youtube-with-these-steps-for-2024/"><u>[Updated] Skyrocket Your Channel's Status on YouTube with These Steps for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-strengthening-video-impact-with-professional-audio-cues/"><u>[Updated] Strengthening Video Impact with Professional Audio Cues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-6-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 6 Plus and iPad Securely</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accessing-display-settings-on-nvidia-graphics/"><u>Accessing Display Settings on NVIDIA Graphics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ceasing-windows-10-stuttering-display/"><u>Ceasing Windows 10 Stuttering Display</u></a></li>
-<li><a href="https://article-posts.techidaily.com/deciphering-the-sideways-photo-puzzle-on-ig/"><u>Deciphering the Sideways Photo Puzzle on IG</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exclusive-solutions-for-nvidias-rtx-3080-crashes/"><u>Exclusive Solutions for NVIDIA's RTX 3080 Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-buzzing-sound-issues-in-home-audio-systems/"><u>Fast Fixes for Buzzing Sound Issues in Home Audio Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-distorted-images-in-far-cry-6-nintendo-switch/"><u>Fixing Distorted Images in Far Cry 6 Nintendo Switch</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-faulty-graphics-software-for-smooth-mc-gaming/"><u>Fixing Faulty Graphics Software for Smooth MC Gaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-card-no-signal-troubleshooting-needed/"><u>New Card, No Signal: Troubleshooting Needed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reawakening-gpu-fans-from-idleness/"><u>Reawakening GPU Fans From Idleness</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-past-essential-historical-yt-creators-for-students-for-2024/"><u>Unveiling the Past Essential Historical YT Creators for Students for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-resolving-the-internet-gap-in-cod-cold-war/"><u>[SOLVED] Resolving the Internet Gap in CoD Cold War</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-steady-as-you-go-camera-stability-without-a-tripod/"><u>[Updated] Steady as You Go Camera Stability Without a Tripod</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-guide-80s-vhs-tricks-for-dynamic-edits/"><u>2024 Approved Ultimate Guide 80'S VHS Tricks for Dynamic Edits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974211832-easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-iphoneipad-advanced-screen-recording-tips-new-methods-2023/"><u>In 2024, IPhone/iPad Advanced Screen Recording Tips - New Methods 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pursuit-of-perfection-zooming-into-high-quality-video-for-2024/"><u>Pursuit of Perfection Zooming Into High-Quality Video for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-recovery-addressing-loot-issues-in-legends/"><u>Quick Recovery: Addressing Loot Issues in Legends</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-flashing-fix-for-win11-screens/"><u>Say Goodbye to Flashing: Fix for Win11 Screens</u></a></li>
+<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-leitfaden-zum-hochfahren-von-dell-systems-mit-intel-rst-in-windows-11/"><u>Schritt-Für-Schritt-Leitfaden Zum Hochfahren Von Dell Systems Mit Intel RST in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-audio-integration-linking-samsung-soundbar-and-television/"><u>Seamless Audio Integration: Linking Samsung Soundbar and Television</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-eu-ai-act-what-it-entails-and-its-potential-impact-on-chatgpt/"><u>The EU AI Act: What It Entails and Its Potential Impact on ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y36i-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y36i Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974328874-zoom-camera-roadblocks-clear-them-now-with-our-help/"><u>Zoom Camera Roadblocks? Clear Them Now with Our Help!</u></a></li>
 </ul></div>
 

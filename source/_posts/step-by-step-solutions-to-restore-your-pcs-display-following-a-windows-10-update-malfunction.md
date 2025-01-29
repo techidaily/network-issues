@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Restore Your PC's Display Following a Windows 10 Update Malfunction
-date: 2025-01-19T01:06:24.246Z
-updated: 2025-01-22T03:43:29.335Z
+date: 2025-01-24T19:22:28.313Z
+updated: 2025-01-29T19:44:31.766Z
 tags:
   - win11
   - win10
@@ -28,12 +28,20 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 5. [**Log in using a different user account**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 1: Try a Windows key sequence to wake the screen
 
 A quick fix to your black screen problem would be:
 
 * If you have a keyboard connected, press the   **Windows logo![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
 **key+Ctrl+Shift + B**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
 
@@ -52,6 +60,10 @@ If this produces no results, you can move on to Fix 3.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 3: Update your graphics card driver
 
  Various reasons can trigger black screens after Windows 10 update, but the most common cause of it is**incompatible or outdated Windows drivers** . Especially the graphics card driver — either your current graphics driver is corrupted during the Windows update process or it’s not compatible with your current Windows 10 version.
@@ -69,6 +81,10 @@ If this produces no results, you can move on to Fix 3.
 3. **Run** Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
@@ -91,21 +107,17 @@ If this produces no results, you can move on to Fix 3.
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
@@ -138,28 +150,16 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### How to activate the original Windows administrator account
 
 1. Type**cmd** in the Windows search box, right click**Command Prompt** , then select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf346d3db95.jpg)
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 6: Reset your PC
 
@@ -177,13 +177,13 @@ If this produces no results, you can move on to Fix 3.
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -208,16 +208,22 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-warhammer-40000-not-starting-dx12-error/"><u>[CORRECTED] Warhammer 40,000 Not Starting - DX12 Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-8-strategies-livestreaming-webinars-without-costs-for-2024/"><u>[New] 8 Strategies Livestreaming Webinars Without Costs for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-nord-ce-3-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Nord CE 3 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-nvidia-driver-conflict-on-windows-11/"><u>Ending Nvidia Driver Conflict on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-eradicated-mh-worlds-monster-kingdom-revived/"><u>Error Eradicated: MH World's Monster Kingdom Revived</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-driver-update-for-optimal-rtx-2080-performance-in-windows-1078/"><u>Get the New Driver Update for Optimal RTX 2080 Performance in Windows 10/7/8</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solutions-to-low-lit-lenovo-laptop-screen-issue/"><u>Solutions to Low-Lit Lenovo Laptop Screen Issue</u></a></li>
-<li><a href="https://facebook.techidaily.com/twitters-social-influence-spurs-facebooks-prompt-for-sharing-wisdom/"><u>Twitter's Social Influence Spurs Facebook's Prompt for Sharing Wisdom</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/unveiling-mao-zedong-the-central-figure-in-the-chinese-revolution-of-1nineteen-forty-nine-through-yl-tech-perspectives/"><u>Unveiling Mao Zedong: The Central Figure in the Chinese Revolution of 1Nineteen Forty-Nine Through YL Tech Perspectives</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-detailed-look-into-the-lg-bp350ayering-and-user-experience/"><u>[New] In 2024, Detailed Look Into the LG BP350'ayering and User Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-join-the-metaverse-meme-movement-funny-fresh-and-easy-to-create-content/"><u>[New] Join the Metaverse Meme Movement Funny, Fresh & Easy-to-Create Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>[Updated] Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-8-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 8 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-out-sims-4-darkness-dilemma/"><u>Clear Out Sims 4 Darkness Dilemma</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-video-files-for-free-transform-flv-into-high-quality-flac-using-movavis-service/"><u>Convert Video Files for Free - Transform FLV Into High-Quality FLAC Using Movavi's Service</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-love-traps-how-artificial-intelligence-fuels-digital-relationship-swindles/"><u>Cyber Love Traps: How Artificial Intelligence Fuels Digital Relationship Swindles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/downsize-win10-screen-size-issue/"><u>Downsize Win10 Screen Size Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hardware-installation-smooth-sailing-for-nvidia/"><u>Hardware Installation: Smooth Sailing for NVIDIA</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s18-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S18 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-amd-radeon-r9-problems-on-windows-11/"><u>Resolving AMD Radeon R9 Problems on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-11-video-quakes/"><u>Resolving Windows 11 Video Quakes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-nvidiaintel-graphic-mix-up-a-solution-for-windows-10/"><u>Tackling NVIDIA/Intel Graphic Mix-Up: A Solution for Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-save-300-on-the-asus-vivobook-pro-now-available-at-amazon-exclusive-offer/"><u>Unbeatable Deal: Save $300 on the Asus VivoBook Pro Now Available at Amazon - Exclusive Offer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocked-gl-issues-nvidia-driver-armored-fix/"><u>Unlocked GL Issues - NVIDIA Driver Armored Fix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-upgrades-say-goodbye-to-streaming-issues/"><u>Windows 10 Upgrades: Say Goodbye to Streaming Issues</u></a></li>
 </ul></div>
 

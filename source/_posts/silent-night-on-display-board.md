@@ -1,7 +1,7 @@
 ---
 title: Silent Night on Display Board
-date: 2025-01-20T18:52:01.935Z
-updated: 2025-01-21T22:39:30.321Z
+date: 2025-01-27T16:56:05.860Z
+updated: 2025-01-29T20:11:33.148Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
  If this is also you, don’t worry, it could be simply caused by a step going wrong with the driver installation process, it doesn’t necessarily mean that your graphics card itself is broken. We have gathered here some fixes that have helped many other users with their black screen after the graphics card driver update issue, and you may also try them to get the same problem fixed for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes for the black screen after installing graphics card driver issue
 
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-34.png)
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
 4. Select**Let me pick from a list of available drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-36.png)
 5. Select**Microsoft Basic Display Adapter** from the list and click**Next** for the driver to be installed.  
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.2 Clean install the graphics card driver
@@ -92,15 +92,15 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 Then download and update the display card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -125,6 +125,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -134,10 +138,6 @@ To do so, first visit the website of your GPU manufacturer:
  If your screen remains black after the clean installation of a graphics card driver, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.3 Run the hardware troubleshooter to see if it’s a hardware problem
 
@@ -152,6 +152,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-2.jpg)
 4. If any issues are found, follow the on-screen instructions to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. If none are found, close the window and try the next fix below.
 
@@ -185,10 +189,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-39.png)
 4. When the following page shows, click**See advanced repair options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-40.png)
 5. Click **Troubleshoot** .  
 
@@ -198,20 +198,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-42.png)
 7. Click**Startup Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
 8. Click**Restart** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
 9. Press**F5** , or**5** to enter the**Safe Mode with networking mode** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.1 Uninstall the graphics card driver in Safe Mode
@@ -222,15 +222,11 @@ When you boot into the Safe Mode with networking
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -238,6 +234,10 @@ When you boot into the Safe Mode with networking
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Try different hardware devices
 
@@ -267,16 +267,22 @@ When you boot into the Safe Mode with networking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-easy-to-implement-opening-sequences-for-you/"><u>[New] Easy-to-Implement Opening Sequences for You</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-exploring-virtual-landscapes-with-android-vr360-for-2024/"><u>[Updated] Exploring Virtual Landscapes with Android (VR/360) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chaos-to-order-youtube-playlists-unveiled/"><u>[Updated] In 2024, From Chaos to Order YouTube Playlists Unveiled</u></a></li>
-<li><a href="https://win-unique.techidaily.com/a-comprehensive-guide-on-purchasing-and-trading-bitcoin-by-yl-computing-expert-advice/"><u>A Comprehensive Guide on Purchasing & Trading Bitcoin by YL Computing - Expert Advice</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-tarkov-bug-amds-guide/"><u>Fix Tarkov Bug - AMD's Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-upside-down-graphics-issue/"><u>Fixed Window's Upside Down Graphics Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-alert-opengl-fault-addressed-and-mended/"><u>GPU Alert: OpenGL Fault Addressed and Mended</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-deals-alert-score-your-new-echo-show-8-with-an-exclusive-30-discount-now-techreview/"><u>Labor Day Deals Alert: Score Your New Echo Show 8 with an Exclusive 30% Discount - Now! | TechReview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nexus-of-networked-realities-unveiling-metaverse-vs-omniverse/"><u>Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-graphic-output-post-latest-purchase/"><u>No Graphic Output Post Latest Purchase</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-c22-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia C22 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-the-ideal-set-of-keywords-for-your-youtube-videos/"><u>[New] 2024 Approved Crafting the Ideal Set of Keywords for Your Youtube Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ners-guide-capturing-youtube-videos-as-screencasts-without-payment/"><u>Beginner's Guide Capturing YouTube Videos as Screencasts Without Payment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-smartphone-for-your-child-expert-reviews-on-safety-and-fun-features-zdnet-insights/"><u>Choosing the Right Smartphone for Your Child? Expert Reviews on Safety and Fun Features - ZDNet Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-your-lol-communication-hurdles-a-guide-when-voice-chat-wont-work/"><u>Overcome Your LoL Communication Hurdles: A Guide When Voice Chat Won't Work</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-challenge-of-a-shaky-internet-during-video-calls-on-zoom-now-solved/"><u>Overcoming the Challenge of a Shaky Internet During Video Calls on Zoom - Now Solved!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-guide-eliminating-excessive-latency-for-smoother-gameplay-on-fortnite/"><u>Quick Guide: Eliminating Excessive Latency for Smoother Gameplay on Fortnite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reply/"><u>Reply</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvstreamuseraagentexe-crashes-fixed-on-windows-systems/"><u>Resolved: NVSTREAMUSERA_AGENT.EXE Crashes Fixed on Windows Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-detection-issues-with-your-amd-graphics-card-on-a-windows-10-pc/"><u>Resolving Detection Issues with Your AMD Graphics Card on a Windows 10 PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-post-update-black-screen-issues-on-windows-10-a-step-by-step-guide/"><u>Resolving Post-Update Black Screen Issues on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211235735-9781805412991-secrets-of-the-i-ching-unlocked/"><u>Secrets of the I Ching Unlocked | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-found-fixing-graphics-system-setup-errors-on-your-pc-or-laptop/"><u>Solution Found: Fixing Graphics System Setup Errors on Your PC or Laptop</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-v2-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic V2 without backup.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-arsenal-of-audio-manipulation-software-for-professional-use/"><u>Updated 2024 Approved The Ultimate Arsenal of Audio Manipulation Software for Professional Use</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/when-your-tiktok-stalls-how-to-restore-functionality/"><u>When Your TikTok Stalls How to Restore Functionality</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726219135449-movavi/"><u>고객을 선택하는 데 중요한 사례: Movavi의 동료 소프트웨어</u></a></li>
 </ul></div>
 

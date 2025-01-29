@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet"
-date: 2025-01-17T19:36:13.971Z
-updated: 2025-01-22T07:01:52.748Z
+date: 2025-01-22T20:33:13.648Z
+updated: 2025-01-29T20:06:12.949Z
 tags:
   - win11
   - win10
@@ -51,7 +51,7 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
  The following screenshots are taken from Windows 10, but it is also applicable for Windows 7 and 8.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 1 – Test your internet connection
@@ -61,6 +61,10 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
  You can also google**internet speed test** to check your Internet speed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-08_16-02-49.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this is not the matter troubling your connection, give a shoot to the next one.
 
@@ -84,25 +88,21 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/zoom-unstable-connection-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Windows 11
 
 1. Right-click the network icon on the bottom-right corner of your desktop menu bar and select**Diagnose network problems** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/04/network-diagnostic.png)
 2. The network troubleshooter will then run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Apply any fix if it finds any to see if it helps.
 
  Wait and see if this tool helps you locate the problem and fix it. If not, go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 3 – Update your network drivers
 
@@ -117,13 +117,17 @@ As the number of people studying or working online skyrockets,**Zoom** becomes o
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/08/broadcom-802-network-adapter.jpg)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . 
@@ -145,10 +149,6 @@ Hope this trick works for you. If not, continue to the next solution.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Fix 5 – Restart router
 
  Another device playing a vital role in network connection is the router. A router is a networking device that forwards data packets between computer networks. To fix Zoom’s unstable connection, restarting the router is also a useful solution.
@@ -160,7 +160,7 @@ Hope this trick works for you. If not, continue to the next solution.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/04/router-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your router works well but Zoom’s unstable connection error stays, take a look at the next solution.
@@ -180,7 +180,7 @@ Hope this trick works for you. If not, continue to the next solution.
 4. **Restart** your computer and launch Zoom for a test.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -206,18 +206,22 @@ Hope this trick works for you. If not, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/oosting-income-a-complete-guide-to-youtube-ad-profits/"><u>[New] Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-glitches-fallout-4-compatible-with-windows/"><u>End of Glitches: Fallout 4 Compatible with Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-message-no-card-available/"><u>Error Message: No Card Available</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-comprehensive-tech-reviews-and-gadget-tips/"><u>Exploring Tom's Comprehensive Tech Reviews & Gadget Tips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/fix-why-your-latest-word-documents-wont-appear-in-recent-files/"><u>Fix: Why Your Latest Word Documents Won't Appear in Recent Files</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/install-latest-intel-hd-graphics-3000-on-windows-10-swiftly/"><u>Install Latest Intel HD Graphics 3000 on Windows 10 Swiftly.</u></a></li>
-<li><a href="https://win11.techidaily.com/liberating-your-computers-files-using-powershell-skills/"><u>Liberating Your Computer's Files Using PowerShell Skills</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-visual-performance-intel-driver-update-guide-for-windows-7-users/"><u>Optimize Visual Performance: Intel Driver Update Guide for Windows 7 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-video-card-errors-for-steady-viewing/"><u>Resolve Video Card Errors for Steady Viewing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-crackling-audio-problems-in-windows-operating-systems/"><u>Resolved: Fixing Crackling Audio Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-absence-of-wi-fi-adapter-on-windows-11/"><u>Troubleshooting: Absence of Wi-Fi Adapter on Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-20-proplus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 20 Pro+? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-screen-share-problem-between-laptop-and-tv/"><u>[Fixed] Screen Share Problem Between Laptop & TV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[New] 2024 Approved Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-fb-ad-campaigns-top-20-strategies-for-successful-videos/"><u>[Updated] In 2024, Elevate Your FB Ad Campaigns Top 20 Strategies for Successful Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-lenovo-visual-currents/"><u>Addressing Lenovo Visual Currents</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974376087-fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-3gp-to-mjpeg-using-movavi/"><u>Free Online Converter: Transform 3GP to MJPEG Using Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-2022-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone SE (2022) to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-x-flip-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo X Flip to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/is-it-possible-to-predict-futures-prices-with-the-resurgence-pattern-of-israeli-palestinian-conflict-resolution-expert-analysis-from-yl-tech-solutions/"><u>Is It Possible to Predict Futures Prices with the Resurgence Pattern of Israeli-Palestinian Conflict Resolution? | Expert Analysis From YL Tech Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-gone-dark-solutions-await/"><u>Lenovo Gone Dark? Solutions Await</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974868416-lenovo-tap-issue-now-solved/"><u>Lenovo Tap Issue, Now Solved!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-phosphor-glitches-in-acer-monitors/"><u>Preventing Phosphor Glitches in Acer Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-disruptive-sound-pop-ups-on-your-windows-operating-system/"><u>The Definitive Fix for Disruptive Sound Pop-Ups on Your Windows Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974738613-windows-10-cant-change-resolution-solved/"><u>Windows 10 Can't Change Resolution [SOLVED]</u></a></li>
 </ul></div>
 

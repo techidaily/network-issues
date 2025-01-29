@@ -1,7 +1,7 @@
 ---
 title: Light Up Dark Screens on Lenovo Notebooks
-date: 2025-01-16T23:22:04.589Z
-updated: 2025-01-21T20:42:56.309Z
+date: 2025-01-25T16:46:47.966Z
+updated: 2025-01-29T20:11:50.234Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7d541f24f083a78654b60cdafb0ff977b1be425e9
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
@@ -63,10 +67,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -83,10 +83,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -100,7 +96,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
@@ -117,6 +113,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -132,7 +132,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
@@ -149,6 +149,10 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -157,29 +161,25 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,24 +207,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-videovisionaries-selecting-superior-4k-screen-options/"><u>[New] VideoVisionaries Selecting Superior 4K Screen Options</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-how-to-attract-and-retain-more-viewers-on-youtube/"><u>[Updated] 2024 Approved How to Attract and Retain More Viewers on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-youtube-comment-discovery-a-step-by-step-walkthrough/"><u>[Updated] 2024 Approved YouTube Comment Discovery A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-easy-way-to-share-instagram-meets-facebook/"><u>[Updated] In 2024, The Easy Way to Share Instagram Meets Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>[Updated] Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-video-reversion-secrets-unveiled/"><u>2024 Approved Android's Video Reversion Secrets Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake/"><u>Correcting Aspect Ratio Mistake</u></a></li>
-<li><a href="https://network-issues.techidaily.com/displayfault-in-windows-gui-on-verge-of-solution/"><u>DisplayFault in WIndows GUI (On Verge of Solution)</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725285691235-dvd/"><u>DVDフォーマットからカーナビシステム仕様への無償変換ガイド</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-displaying-gpu-mismatched/"><u>Error Displaying: GPU Mismatched</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-for-black-screen-on-latest-windows-update/"><u>Fix for BLACK SCREEN on Latest Windows Update</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-best-bargain-for-windowmac-users-top-8-free-3d-players/"><u>In 2024, Best Bargain for Window/Mac Users Top 8 FREE 3D Players</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-mpow-bluetooth-drivers-installation-help-for-windows-11-8-and-7-users/"><u>Latest MPOW Bluetooth Drivers: Installation Help for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974786901-rapidly-upgrade-intel-g3000-in-win11-systems/"><u>Rapidly Upgrade Intel G3000 in Win11 Systems.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-adjustments-saved-and-secured/"><u>Screen Adjustments Saved and Secured</u></a></li>
-<li><a href="https://network-issues.techidaily.com/shedding-light-on-unseen-displays/"><u>Shedding Light on Unseen Displays</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-screen-tremors-solving-acer-display-issues/"><u>Stop Screen Tremors: Solving Acer Display Issues</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>Updated 2024 Approved AVS Video Editor 2023 A Comprehensive Review and Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-stop-cleared-by-fixing-nvidia-complaint/"><u>Windows Stop Cleared by Fixing NVIDIA Complaint</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-driver-rectified-uninstalled-amd-driver-issue/"><u>[CORRECTED DRIVER] Rectified Uninstalled AMD Driver Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-audio-extraction-methods-from-online-videos/"><u>[New] 2024 Approved Easy Audio Extraction Methods From Online Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-captures-top-10-online-video-recorders-for-2024/"><u>[New] Cutting-Edge Captures Top 10 Online Video Recorders for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-adeptly-attaining-youtube-like-features-download-fb-vids/"><u>[New] In 2024, Adeptly Attaining YouTube-Like Features Download Fb Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-affordable-action-cam-tech-maximizing-your-moneys-worth/"><u>[Updated] Affordable Action Cam Tech - Maximizing Your Money's Worth</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-switching-on-windows-11s-adaptive-hdr-option/"><u>2024 Approved Switching On Windows 11'S Adaptive HDR Option</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5-effective-tweaks-to-get-genshin-impact-up-and-running-again/"><u>5 Effective Tweaks to Get Genshin Impact Up and Running Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initialization-snag-now-resolved/"><u>Direct3D Initialization Snag, Now Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epic-escalation-steady-stream-struggle/"><u>Epic Escalation: Steady Stream Struggle</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-tips-to-correct-laptop-screen-horizontal-distortions/"><u>Expert Tips to Correct Laptop Screen Horizontal Distortions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-solution-for-clear-screen-captures/"><u>Instant Solution for Clear Screen Captures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-crest-flicker-on-windows-11/"><u>No More Crest Flicker on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-photographers-guide-to-negative-imaging-for-2024/"><u>The Photographer’s Guide to Negative Imaging for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-powerhouse-performer-unveiling-the-arcshell-ar-5-outstanding-quality-at-an-exceptional-price/"><u>The Powerhouse Performer - Unveiling the Arcshell AR-5: Outstanding Quality at an Exceptional Price</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/leshooting-why-are-your-shorts-thumbnails-hiding/"><u>Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-hurdle-smasher-fault-code-51900319/"><u>WoW Hurdle Smasher: Fault Code 51900319</u></a></li>
 </ul></div>
 

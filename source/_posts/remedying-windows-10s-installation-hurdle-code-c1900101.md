@@ -1,7 +1,7 @@
 ---
 title: Remedying Windows 10'S Installation Hurdle - Code C1900101
-date: 2025-01-17T16:04:12.853Z
-updated: 2025-01-22T01:40:38.605Z
+date: 2025-01-22T19:14:25.450Z
+updated: 2025-01-29T17:21:55.323Z
 tags:
   - win11
   - win10
@@ -22,27 +22,27 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
 If you’re about to upgrade to Windows 10, or you’re updating your current Windows 10 build to a more advanced version, and you see the error code 0xC1900101 popping up, you’re not alone. Many Windows users are reporting this problem as well. But no need for you to worry sick about it, the 0xC1900101 error is not difficult to fix at all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do I fix the 0xC1900101 error?
 
 Here are 6 of the most effective solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.  Method 1:[**Update device drivers, esp. the display card driver**](#m1) Method 2:[**Uninstall third-party antivirus programs**](#m2) Method 3:[**Remove unused SAT devices**](#m3) Method 4: [**Do a clean boot**](#m4) Method 5:[**Run SFC/ DISM tools**](#m5) Method 6: [**Update BIOS**](#m6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### This post helps to fix the following error codes as well
 
 In many case, the error codes could be different in different combinations of computers, but all of them have some general solutions. Here are some of the most commonly seen codes: **0xC1900101 – 0x20004** **0xC1900101 – 0x2000c** **0xC1900101 – 0x20017** **0xC1900101 – 0x30018** **0xC1900101 – 0x3000D** **0xC1900101 – 0x4000D** **0xC1900101 – 0x40017**If you’re bugged by one of the codes above, feel free to try the methods below, one at a time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Update device drivers, esp. the display card driver
 
 As the rest of the error message shows, the 0xC1900101 error is very likely to be caused by outdated device drivers, outdated display card driver, for specific. So one of the first things you do when you see the error code is to update all the available device drivers. **Manual drivers update**– Y ou can update needed drivers via the Device Manager one by one, or go to your computer’s manufacturer support website and search for the device drivers by yourself. Note that you should always go to the manufacturer website for your graphics card driver if you’re a laptop user. Because display driver from chipset or hardware manufacturer won’t have the customized features for your laptop. **Automatic drivers update**   – If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/)  . Driver Easy will automatically recognize your system and find the correct drivers for it: 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42067dc58c2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to the flagged display driver to automatically download and install the correct version (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -60,6 +60,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
@@ -76,6 +80,10 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
@@ -84,27 +92,19 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41fd5bee675.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Run SFC/ DISM tools
 
@@ -112,14 +112,10 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -128,17 +124,21 @@ Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -163,20 +163,22 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook/"><u>[New] 2024 Approved From Camera to Feed IPhone & Android Broadcast Guide for Facebook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-digital-puppetry-and-storytelling-movies-maker-edition/"><u>[Updated] Digital Puppetry and Storytelling Movies Maker Edition</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximize-impact-sharing-youtube-videos-on-social-media-fb-for-2024/"><u>[Updated] Maximize Impact Sharing YouTube Videos on Social Media (FB) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-ps5xbox-x-visuals-the-top-5-game-tvs/"><u>2024 Approved PS5/Xbox X Visuals The Top 5 Game TVs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X Flip</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diagnosing-non-spinning-gpu-fans/"><u>Diagnosing Non-Spinning GPU Fans</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-amd-glitches-tarkov/"><u>Eliminate AMD Glitches, Tarkov</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-emailing-youtube-content-a-step-by-step-process/"><u>Mastering the Art of Emailing YouTube Content: A Step-by-Step Process</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-video-display-laptop-to-tv-hdmi-misalignment/"><u>No Video Display - Laptop to TV HDMI Misalignment</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/pet-secrets-unveiled-premium-desktop-scenes-and-wallpaper-collections-from-secret-life-of-pets-by-yl-software/"><u>Pet Secrets Unveiled: Premium Desktop Scenes & Wallpaper Collections From Secret Life of Pets by YL Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reclaiming-functionality-of-asus-internal-cam/"><u>Reclaiming Functionality of Asus Internal Cam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-gpu-fan-non-operational-state/"><u>Remedying GPU Fan Non-Operational State</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screens-silent-sob-laptop-troubles/"><u>Screen's Silent Sob: Laptop Troubles</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-m6-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco M6 Pro 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-bluescreen-with-pointer-resolved/"><u>Win10 BlueScreen With Pointer - Resolved</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-process-for-free-youtube-educational-events/"><u>[New] In 2024, Step-by-Step Process for Free Youtube Educational Events</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-determining-film-production-price-points/"><u>[Updated] Determining Film Production Price Points</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android/"><u>[Updated] The Complete Handbook for Saving Movies on Desktop, Laptop & Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-delight-in-these-top-10-insta-memes-that-spark-joy-and-sobs/"><u>2024 Approved Delight in These Top 10 Insta Memes That Spark Joy & Sobs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bringing-your-vision-alive-transferring-vids-from-premiere-for-2024/"><u>Bringing Your Vision Alive Transferring Vids From Premiere for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-troubleshoot-and-resolve-wdf-related-blue-screen-errors-on-various-windows-versions/"><u>How to Troubleshoot and Resolve WDF-Related Blue Screen Errors on Various Windows Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-recommended-podcasts-from-spotify/"><u>In 2024, How To Remove Recommended Podcasts From Spotify</u></a></li>
+<li><a href="https://network-issues.techidaily.com/increase-your-fps-top-6-optimization-strategies/"><u>Increase Your FPS: Top 6 Optimization Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-ai-driven-verse-creation-in-book-formations/"><u>Introducing AI-Driven Verse Creation in Book Formations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-video-makers-with-music-for-android-and-iphone-for-2024/"><u>New Best Video Makers with Music for Android and iPhone for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-the-gtx-code-43-issue-in-windows-10-complete-guide/"><u>Resolve the GTX #code-43 Issue in Windows 10 – Complete Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-fixing-connectivity-issues-with-zoom-on-an-intermittent-internet/"><u>Resolved: Fixing Connectivity Issues with Zoom on an Intermittent Internet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overcoming-initialization-issues-with-the-graphics-system/"><u>Resolved: Overcoming Initialization Issues with the Graphics System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-troubleshooting-steps-when-your-amd-gpu-is-unrecognized-in-windows-10/"><u>Resolved: Troubleshooting Steps When Your AMD GPU Is Unrecognized in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-bsod-issues-caused-by-wdf-violations-on-various-versions-of-windows/"><u>Resolving BSoD Issues Caused by WDF Violations on Various Versions of Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvstream-user-agent-exe-issues-in-windows-a-comprehensive-guide/"><u>Resolving NVStream User Agent Exe Issues in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-up-your-youtube-audience-by-the-hundredfold/"><u>Scale Up Your YouTube Audience by the Hundredfold</u></a></li>
 </ul></div>
 

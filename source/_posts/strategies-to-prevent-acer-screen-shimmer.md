@@ -1,7 +1,7 @@
 ---
 title: Strategies to Prevent Acer Screen Shimmer
-date: 2025-01-16T02:23:06.836Z
-updated: 2025-01-21T19:37:47.971Z
+date: 2025-01-22T19:44:13.491Z
+updated: 2025-01-29T20:11:53.286Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
  If you ever run into the **Acer laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Fixes For Acer Laptop Screen Flickering In Windows
@@ -46,29 +46,21 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -82,6 +74,10 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -89,10 +85,6 @@ Here is how to change the screen refresh rate:
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -104,6 +96,10 @@ Here is how to change the screen refresh rate:
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the **Acer laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -118,6 +114,10 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -153,16 +153,21 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-interactive-instagram-flipbook-feature/"><u>[Updated] Interactive Instagram Flipbook Feature</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-enhances-radeon-hd-6950-graphics-for-windows-11-with-new-driver-rollout/"><u>AMD Enhances Radeon HD 6950 Graphics for Windows 11 with New Driver Rollout</u></a></li>
-<li><a href="https://network-issues.techidaily.com/countering-hp-lcd-backlight-variability/"><u>Countering HP LCD Backlight Variability</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-or-disabling-tpm-support-a-complete-vbox-70-guide/"><u>Enabling or Disabling TPM Support - A Complete VBox 7.0 Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-intermittent-windows-display-flashes/"><u>Ending Intermittent Windows Display Flashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/master-the-art-of-display-latency-reduction/"><u>Master the Art of Display Latency Reduction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/spotify-turning-off-automatic-podcast-recommendations/"><u>Spotify Turning Off Automatic Podcast Recommendations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-your-windows-experience-via-intel-graphic-update/"><u>Streamline Your Windows Experience via Intel Graphic Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-iphone-models-best-avoided-at-the-moment-insights-from-tech-experts/"><u>Top 4 iPhone Models Best Avoided at the Moment: Insights From Tech Experts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-scanners-steps-for-power-issues-by-yl-software-professionals/"><u>Troubleshooting Scanners: Steps for Power Issues by YL Software Professionals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-system-runs-normal-again/"><u>[Fixed]: Graphics System Runs Normal Again</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-years-must-see-makeup-vloggers-on-the-web/"><u>[New] In 2024, Year's Must-See Makeup Vloggers on the Web</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntegrating-royalty-free-songs-into-video-projects-for-2024/"><u>[New] Integrating Royalty-Free Songs Into Video Projects for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-prime-win11-videography-software-for-editors-for-2024/"><u>[New] Prime Win11 Videography Software for Editors for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-troubleshooted-resolved-no-amd-graphics-on-windows-10/"><u>[SYSTEM TROUBLESHOOTED] Resolved No AMD Graphics on Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-inside-out-how-to-react-on-twitter-vids/"><u>[Updated] 2024 Approved Inside Out How to React on Twitter Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[Updated] In 2024, The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903701820-2024s-premier-selection-of-free-hard-drive-defrag-software-find-the-best-today/"><u>2024’S Premier Selection of Free Hard Drive Defrag Software - Find the Best Today!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-screen-display-on-windows-7/"><u>Correcting Inverted Screen Display on Windows 7</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/elevating-industry-standards-ap-automation-success-story-of-siemens-and-abbyy/"><u>Elevating Industry Standards: AP Automation Success Story of Siemens and ABBYY</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reestablishing-gpu-fan-movement/"><u>Reestablishing GPU Fan Movement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-angle-reversal-solved/"><u>Screen Angle Reversal - Solved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-flicker-boosting-display-life-pro-7/"><u>Taming the Flicker, Boosting Display Life (Pro 7)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-tecno-spark-20c-by-fonelab-android-recover-data/"><u>Undelete lost data from Tecno Spark 20C</u></a></li>
 </ul></div>
 

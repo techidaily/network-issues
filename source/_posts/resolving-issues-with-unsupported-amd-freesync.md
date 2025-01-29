@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Unsupported AMD FreeSync
-date: 2025-01-19T01:24:41.460Z
-updated: 2025-01-21T21:32:11.455Z
+date: 2025-01-27T18:46:38.352Z
+updated: 2025-01-29T16:25:26.600Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
  Before you start troubleshooting, first**make sure your monitor is AMD FreeSync compatible** . You can find out by checking the product page on the official website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the charm.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 7. **[Configure the default GPU](#fix7)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Try different ports
@@ -48,11 +52,11 @@ For your reference, here’s what HDMI and DP ports look like:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/graphics-card-hdmi-dp-ports.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the problem persists, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the monitor settings
 
@@ -63,10 +67,6 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/freesync-osd-dell.jpg)
 
  If this doesn’t fix the issue, simply continue to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest correct drivers
 
@@ -102,22 +102,26 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If FreeSync works after a clean boot, you can root out the offending program by repeating these steps and disabling half of the services every time.
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows update
@@ -131,6 +135,10 @@ Here’s how:
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -148,17 +156,9 @@ If the issue is still there, simply try the next fix.
 2. Navigate to the **Compatibility**  tab. Under the **Settings**  section, check the box next to **Disable fullscreen optimizations** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Configure the default GPU
 
@@ -169,7 +169,7 @@ If this doesn’t help, you can continue to the next method.
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -204,24 +204,24 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-implemented-post-error-system-now-running-smoothly/"><u>[Fix Implemented] Post-Error System Now Running Smoothly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[New] In 2024, Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-whatsapp-wisdom-top-30-astrology-inspired-biographies/"><u>[New] WhatsApp Wisdom – Top 30 Astrology-Inspired Biographies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-tips-to-avoid-obs-framing-errors/"><u>[Updated] Essential Tips to Avoid OBS Framing Errors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-harness-the-power-of-gopro-studio-essential-editing-techniques-for-2024/"><u>[Updated] Harness the Power of GoPro Studio Essential Editing Techniques for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-on-battlefield-1-easy-steps-to-a-smoother-experience/"><u>Avoid Game Crashes on Battlefield 1 – Easy Steps to a Smoother Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-flicker-secure-your-display/"><u>Banish Flicker: Secure Your Display</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-purity-unveil-our-6-best-signature-background-removers/"><u>Digital Purity Unveil Our 6 Best Signature Background Removers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-issue-windows-os-bsod-resolved/"><u>dxgkrnl.sys Issue: Windows OS BSOD Resolved</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>Easier Than Ever 2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-uninstall-how-to-remove-your-systems-graphic-driver/"><u>Easy Uninstall: How To Remove Your System's Graphic Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminating-erratic-windows-7-displays/"><u>Eliminating Erratic Windows 7 Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-impact-of-keyboard-refresh-rate/"><u>Exploring the Impact of Keyboard Refresh Rate</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-display-driver-problems-r9-and-win10/"><u>Overcoming Display Driver Problems: R9 & Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/pocket-sized-remedy-for-amd-in-eft/"><u>Pocket-Sized Remedy for AMD in EFT</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-code-22-video-card-driver/"><u>Resolved Code #22, Video Card Driver</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-turbulent-windows-11-views/"><u>Taming Turbulent Windows 11 Views</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-path-to-becoming-an-fcp-specialist-for-2024/"><u>The Ultimate Path to Becoming an FCP Specialist for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/this-article-shows-top-ten-alternatives-to-adobe-premiere-elements-with-main-functions/"><u>This Article Shows Top Ten Alternatives to Adobe Premiere Elements with Main Functions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-overcoming-disconnect-issues-with-cod-cold-war/"><u>[REPAIRED]: Overcoming Disconnect Issues with CoD Cold War</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-crafting-connections-posting-vids-between-tweets-and-tumbles/"><u>[Updated] 2024 Approved Crafting Connections Posting Vids Between Tweets & Tumbles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-dodging-dangers-restore-fb-after-the-2023-incident/"><u>[Updated] In 2024, Dodging Dangers Restore FB After the 2023 Incident</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luxury-sedan-sj4000s-best-kept-secrets-gear-up/"><u>2024 Approved Luxury Sedan SJ4000's Best-Kept Secrets Gear Up</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-fuzzy-imagery-in-ubisofts-far-cry-6-edition/"><u>Addressing Fuzzy Imagery in Ubisoft's Far Cry 6 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/beyond-fun-the-subtle-messages-in-snapchat-emojis-for-2024/"><u>Beyond Fun The Subtle Messages in Snapchat Emojis for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views-for-2024/"><u>Breaking Into the Livestream Scene on YouTube with Under a Thousand Views for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-4k-high-resolution-video-standards/"><u>Deciphering 4K High-Resolution Video Standards</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-monitor-stability-restored/"><u>Dell Monitor Stability Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-graphics-drivers-error-22/"><u>Fixed Graphics Drivers Error #22</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-windows-driver-problems-for-intel-csr8510-and-a10-cpus-comprehensive-solutions/"><u>Fixing Windows Driver Problems for Intel CSR8510 & A10 CPUs - Comprehensive Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/freeze-rewind-repeat-fcpx-time-manipulation-mastery/"><u>Freeze, Rewind, Repeat FCPX Time Manipulation Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gb-for-a-continuous-video-watched-daily/"><u>In 2024, GB for a Continuous Video Watched Daily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>In 2024, Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-visual-split-issues-in-pc/"><u>Mend Visual Split Issues in PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-drivers-down-discover-device-manager-anomalies/"><u>NVIDIA Drivers Down? Discover Device Manager Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wireless-fix-atheros-adapter-in-windows-10/"><u>Qualcomm Wireless Fix: Atheros Adapter in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-chatgpts-character-restrictions/"><u>Tackling ChatGPT's Character Restrictions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-your-cameras-full-potential-with-our-fixed-up-guide/"><u>Unlock Your Camera's Full Potential with Our Fixed-Up Guide</u></a></li>
 </ul></div>
 

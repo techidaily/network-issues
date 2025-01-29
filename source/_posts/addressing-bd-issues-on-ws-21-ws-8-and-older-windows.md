@@ -1,7 +1,7 @@
 ---
 title: Addressing BD Issues on WS-21, WS-8 & Older Windows
-date: 2025-01-17T16:17:59.372Z
-updated: 2025-01-21T23:02:14.894Z
+date: 2025-01-25T18:53:16.204Z
+updated: 2025-01-29T20:24:11.487Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable your dedicated graphics card
@@ -56,20 +56,20 @@ Here’s how to do it:
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -95,7 +95,7 @@ Here’s how to do it:
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
@@ -118,18 +118,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-iphone-users-learn-simple-screen-recording-now/"><u>[Updated] 2024 Approved Iphone Users, Learn Simple Screen Recording Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-optimize-gopro-camera-energy-consumption/"><u>2024 Approved Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-fast-loading-facebook-videos/"><u>2024 Approved The Art of Fast-Loading Facebook Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressed-expanded-screen-size-issues-for-windows/"><u>Addressed Expanded Screen Size Issues for Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/effortlessly-change-wmv-videos-to-mp4-for-mac-and-windows-10-users-no-cost/"><u>Effortlessly Change WMV Videos to MP4 for Mac and Windows 10 Users – No Cost!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-the-flaky-wi-fi-flow/"><u>Fixing the Flaky Wi-Fi Flow</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-epson-wf-3620-printer-drivers-for-your-windows-pc-10-8-or-7/"><u>How to Get the Newest Epson WF-3620 Printer Drivers for Your Windows PC - 10, 8 or 7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-razr-40withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Razr 40with/without a PC</u></a></li>
-<li><a href="https://network-issues.techidaily.com/issue-resolved-monitor-shows-portion-not-all-windows-windows-10/"><u>Issue Resolved: Monitor Shows Portion, Not All Windows (Windows 10)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-monitor-troubleshooting-no-light/"><u>Lenovo Monitor: Troubleshooting No-Light</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restored-fullscreen-functionality-on-win11-monitors/"><u>Restored Fullscreen Functionality on Win11 Monitors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mastering-compressor-a-step-by-step-guide-for-fcpx-users/"><u>Updated In 2024, Mastering Compressor A Step-by-Step Guide for FCPX Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimal-audibility-techniques-to-enhance-recording-quality/"><u>[New] 2024 Approved Optimal Audibility Techniques to Enhance Recording Quality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-practices-for-livestreaming-and-archiving-sports-events/"><u>[New] In 2024, Best Practices for Livestreaming & Archiving Sports Events</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-explore-the-best-phone-options-for-enhanced-gear-vr-immersion/"><u>[Updated] 2024 Approved Explore the Best Phone Options for Enhanced Gear VR Immersion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-boost-engagement-crafting-the-perfect-instagram-unboxing/"><u>[Updated] Boost Engagement Crafting the Perfect Instagram Unboxing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-display-glitches-tips-and-tricks/"><u>Banishing Display Glitches: Tips & Tricks</u></a></li>
+<li><a href="https://solve-info.techidaily.com/beheer-van-sekundaire-backups-voor-seagate-externe-hard-disks/"><u>Beheer Van Sekundaire Backups Voor Seagate Externe Hard Disks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/decoding-the-complexities-of-drone-photography-and-gimbals-for-2024/"><u>Decoding the Complexities of Drone Photography and Gimbals for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-amd-hd-6950-driver-release-for-win11/"><u>New AMD HD 6950 Driver Release for Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-hardware-configuration-flawless-installation/"><u>NVIDIA Hardware Configuration: Flawless Installation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-win11-screen-glitches/"><u>Quick Fix for Win11 Screen Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tune-in-to-success-mastering-the-art-of-vocal-change-on-insta-for-2024/"><u>Tune in to Success Mastering the Art of Vocal Change on Insta for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-drivers-geforce-rtx210-and-windows-11-fusion/"><u>Upgraded Drivers: GeForce RTX210 and Windows 11 Fusion</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 11 & 7
-date: 2025-01-21T04:47:21.284Z
-updated: 2025-01-22T05:40:08.356Z
+date: 2025-01-27T20:15:51.949Z
+updated: 2025-01-29T18:24:19.344Z
 tags:
   - win11
   - win10
@@ -36,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
 
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 4. On your device, reconnect to your Ethernet network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
@@ -74,14 +74,14 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
@@ -105,6 +105,10 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
 
 ##  Method 6: Run network commands
@@ -121,10 +125,6 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
@@ -132,7 +132,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
@@ -156,18 +156,18 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-deep-dive-into-the-best-ways-to-speed-up-facebook-videos/"><u>[New] 2024 Approved Deep Dive Into The Best Ways to Speed Up Facebook Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-softening-audio-routine/"><u>[New] Step-by-Step Softening Audio Routine</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-a54-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy A54 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-windows-7-screen-flickering/"><u>How to Fix Windows 7 Screen Flickering</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-delving-into-the-heart-of-viva-video-app/"><u>In 2024, Delving Into the Heart of Viva Video App</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/my-journey-with-chatgpt-in-crafting-a-captivating-podcast-the-full-story/"><u>My Journey with ChatGPT in Crafting a Captivating Podcast - The Full Story</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hd-content-playback-in-new-windows-version/"><u>Resolving HD Content Playback in New Windows Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-steam-screenshot-process/"><u>Streamline Your Steam Screenshot Process</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-secrets-of-editing-numerical-data-in-tiktoks/"><u>The Secrets of Editing Numerical Data in TikToks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-video-editing-tools-for-gamers/"><u>Updated Discover the Best Free Video Editing Tools for Gamers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-screenshine-solution-found/"><u>Windows 11 Screenshine Solution Found</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-amds-radeon-hd-6950-driver-revamp-released/"><u>Windows 11: AMD's Radeon HD 6950 Driver Revamp Released</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-your-videos-impact-with-gs-and-yt-conversion/"><u>[New] In 2024, Boost Your Video's Impact with GS and YT Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-initiating-efficient-conversations-on-snapchat-with-three-steps/"><u>[Updated] In 2024, Initiating Efficient Conversations on Snapchat with Three Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-gt-5-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme GT 5 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-display-quality-instantly-intels-latest-graphics-update-in-windows-10/"><u>Enhance Display Quality Instantly: Intel's Latest Graphics Update in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/final-fantasy-fiasco-frustratingly-fast/"><u>Final Fantasy Fiasco: Frustratingly Fast</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-valentine-ballads-download-curate-your-own-heartfelt-music-playlist-for-the-special-occasion/"><u>Free Valentine Ballads Download: Curate Your Own Heartfelt Music Playlist for the Special Occasion</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-12-mini-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 12 mini Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-expert-audio-adjustments-for-youtube-content-makers/"><u>In 2024, Expert Audio Adjustments for YouTube Content Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-grade-8-filters-for-live-feeds/"><u>Professional-Grade 8 Filters for Live Feeds</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-pc-gaming-fixing-win-minecraft-graphics-drivers/"><u>Reviving PC Gaming: Fixing Win-Minecraft Graphics Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-copywriting-ethically-integrating-ai-techniques/"><u>The Future of Copywriting: Ethically Integrating AI Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-top-4-swf-media-plugins-for-cross-platform-compatibility-with-macos-and-windows-11-systems/"><u>The Top 4 SWF Media Plugins for Cross-Platform Compatibility with macOS and Windows 11 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-wi-fi-connection-conundrum/"><u>The Wi-Fi Connection Conundrum</u></a></li>
 </ul></div>
 

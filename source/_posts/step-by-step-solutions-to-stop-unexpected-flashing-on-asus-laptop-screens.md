@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Stop Unexpected Flashing on Asus Laptop Screens
-date: 2025-01-20T22:39:47.181Z
-updated: 2025-01-21T16:55:44.324Z
+date: 2025-01-27T17:30:31.850Z
+updated: 2025-01-29T18:25:25.544Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
  Here are 4 fixes that have helped other users resolve the screen flickering on ASUS laptop issue. Just work your way down the list until you find the one that works for you.
@@ -25,10 +29,6 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 2. **[Update or delete incompatible apps](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   **Fix 1: Change the screen refresh rate**  
 
@@ -44,12 +44,12 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
@@ -66,18 +66,14 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 2: Update or delete incompatible apps
 
@@ -87,6 +83,10 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
 
@@ -102,13 +102,13 @@ If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -154,16 +154,16 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-graphics-corrected-missing-amd-graphics-on-windows-11/"><u>[FIXED GRAPHICS] Corrected Missing AMD Graphics on Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-editor-showdown-filmora-vs-democracy-creator-for-2024/"><u>[New] The Ultimate Editor Showdown Filmora Vs. Democracy Creator for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-snapshot-stability-mastering-motion/"><u>[Updated] Snapshot Stability Mastering Motion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>2024 Approved Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-aac-audio-players-top-5-choices-for-windows-and-macos/"><u>Best Free AAC Audio Players: Top 5 Choices for Windows & macOS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquered-notebook-blinking-solved-display-stability/"><u>Conquered Notebook Blinking: Solved Display Stability</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improve-graphical-output-install-a-simple-quick-update-for-intel-graphics-on-windows-10/"><u>Improve Graphical Output: Install a Simple, Quick Update for Intel Graphics on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/making-basic-drivers-better-on-ws-2-ws-8/"><u>Making Basic Drivers Better on WS-2, WS-8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/meilleur-outils-de-decoupe-video-gratuits-pour-mac-os-x-top-8-choix/"><u>Meilleur Outils De Découpe Vidéo Gratuits Pour Mac OS X : Top 8 Choix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upcoming-benefits-in-selected-apple-airpod-models-set-to-launch-this-autumn-a-closer-look-zdnet/"><u>Upcoming Benefits in Selected Apple AirPod Models Set to Launch This Autumn: A Closer Look - ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-the-scoop-on-vn-video-editor-for-pc-for-2024/"><u>Updated Get the Scoop on VN Video Editor for PC for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-10-affordable-and-easy-online-passport-pics-tools/"><u>[Updated] In 2024, Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategies-for-designing-youtube-video-flow/"><u>[Updated] Strategies for Designing YouTube Video Flow</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-narzo-60x-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme Narzo 60x 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flipped-digital-image-screens/"><u>Correcting Flipped Digital Image Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-hybrid-card-mix-up-a-solution-for-intel-and-nvidia-in-win10/"><u>Correcting Hybrid Card Mix-Up: A Solution for Intel & Nvidia in Win10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-effective-networking-gear-spotlight-the-capabilities-of-the-tp-link-archer-c50/"><u>Cost-Effective Networking Gear Spotlight: The Capabilities of the TP-Link Archer C50</u></a></li>
+<li><a href="https://network-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-toggle-to-safe-mode-and-delete-graphics-drivers-on-windows-8/"><u>How to Toggle to Safe Mode & Delete Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-graphics-driver-version-unveiled-amd-radeon-hd-6950-for-win11/"><u>New Graphics Driver Version Unveiled: AMD Radeon HD 6950 for Win11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-razer-mamba-experience-awaits-after-quick-driver-installation/"><u>Seamless Razer Mamba Experience Awaits After Quick Driver Installation</u></a></li>
 </ul></div>
 

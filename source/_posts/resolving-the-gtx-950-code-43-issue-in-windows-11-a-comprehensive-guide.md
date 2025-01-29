@@ -1,7 +1,7 @@
 ---
 title: "Resolving the GTX 950 'Code 43' Issue in Windows 11: A Comprehensive Guide"
-date: 2025-01-20T02:44:34.215Z
-updated: 2025-01-22T01:11:09.149Z
+date: 2025-01-22T17:23:11.143Z
+updated: 2025-01-29T20:28:14.332Z
 tags:
   - win11
   - win10
@@ -54,18 +54,26 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -83,11 +91,19 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -95,25 +111,13 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,18 +155,21 @@ thumbnail: https://thmb.techidaily.com/8a9761b8978fa146b9a567d40083be19a38cbff4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-tips-for-recording-high-quality-video-in-zoom/"><u>[New] In 2024, Tips for Recording High-Quality Video in Zoom</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-does-t-series-generate-revenue-in-2024/"><u>[Updated] How Does T-Series Generate Revenue, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-spin-tiktok-magic-into-viral-instagram-reel-success/"><u>[Updated] Spin TikTok Magic Into Viral Instagram Reel Success</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728465197208-aomei-backupper/"><u>全面輸入AOMEI Backupper:這是完美格式化硬碟的正宗方法</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/1716098050308-facebook-videos-vertical-or-horizontal-in-2024/"><u>Facebook Videos Vertical or Horizontal, In 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-the-process-of-win-7s-intel-driver-updates/"><u>Navigating the Process of Win 7'S Intel Driver Updates</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-size-fix-for-windows-10-users-achieved/"><u>Screen Size Fix for Windows 10 Users Achieved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/simplified-trick-to-straighten-laptop-views/"><u>Simplified Trick to Straighten Laptop Views</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-enabling-pip-functionality-on-android-phones/"><u>Step-by-Step Tutorial for Enabling PiP Functionality on Android Phones</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-by-step-wow-glitch-remedy-51900319/"><u>Step-by-Step WoW Glitch Remedy #51900319</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-study-success-with-smart-gpt-notes/"><u>Unlock Study Success with Smart GPT Notes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/21-vegas-pro-roundup-from-beginner-to-expert-tips/"><u>'21 Vegas Pro Roundup – From Beginner to Expert Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-ace-your-gameplay-innovative-tvs-to-boost-your-xbox-series-x-adventure/"><u>[New] 2024 Approved Ace Your Gameplay Innovative TVs to Boost Your Xbox Series X Adventure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essentials-of-youtube-mastery-free-online-course-series/"><u>[New] 2024 Approved Essentials of YouTube Mastery Free Online Course Series</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-change-tiktok-video-background-for-2024/"><u>[Updated] How to Change TikTok Video Background for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smileshop-memelore-hub/"><u>[Updated] SmileShop Memelore Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-for-windows-firewall-configuration/"><u>7 Strategies for Windows Firewall Configuration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-11/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-functionality-can-auto-gpt-stand-alone-against-anticipated-gpt-4/"><u>Comparing Functionality: Can Auto-GPT Stand Alone Against Anticipated GPT-4?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake-in-windows-10/"><u>Correcting Aspect Ratio Mistake in Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphicwindow-interruption-in-window-os-under-repair/"><u>GraphicWindow Interruption in Window OS (Under Repair)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-email-marketing-insights-a-guide-to-monitoring-your-campaigns-with-google-analytics-and-massmail/"><u>Mastering Email Marketing Insights: A Guide to Monitoring Your Campaigns with Google Analytics and MassMail</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-7025-and-nforce630a-resolved-windows-issue/"><u>Nvidia 7025 & nForce630a: Resolved Windows Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-troubleshooting-windows-system-error-resolved/"><u>Nvidia Troubleshooting - Window's System Error Resolved</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-hp-lcd-glitches/"><u>Troubleshooting HP LCD Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-r9-graphics-issues-for-windows-10-users/"><u>Troubleshooting R9 Graphics Issues for Windows 10 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-se-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone SE?</u></a></li>
 </ul></div>
 

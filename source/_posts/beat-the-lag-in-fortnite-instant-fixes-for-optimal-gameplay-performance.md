@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!"
-date: 2025-01-18T03:36:44.474Z
-updated: 2025-01-21T18:23:08.548Z
+date: 2025-01-24T19:03:17.346Z
+updated: 2025-01-29T20:25:45.925Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 **Ping spikes** **when you’re playing Fortnite** ? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily… 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 1. **[Restart Fortnite](https://tools.techidaily.com/drivereasy/download/)**
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Restart Fortnite
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
  This is the quickest and easiest fix to try when you run into Fortnite high ping issue. Just**exit Fortnite and restart your game** . 
 
  Now run the game again and test to see if its ping is still high. If so, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Reboot your network
 
@@ -68,10 +60,6 @@ wireless router
 
  Launch Fortnite to see if ping spikes in Fortnite again. If the high ping issue reappears after you reboot your network, try the next fix, below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Fix 3: Close bandwidth-hogging applications
 
 If you’re running other applications like **OneDrive** , **Dropbox,**  and   **iCloud**  that require an Internet connection to download and upload files, or if your family members are watching TV shows at the same time, the high ping issue may occur when you’re in the middle of playing Fortnite. 
@@ -83,6 +71,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -105,12 +97,20 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable the proxy server
 
@@ -120,20 +120,24 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap706.png)
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your matchmaking region
 
@@ -143,10 +147,6 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. Click**the menu button** in the upper-right corner. Then click **the gear button** to open Fortnite settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap710.png)
 3. Click**the gear button** to switch to the **Game** tab. Then click **the right arrow** next to **Matchmaking Region** to change your matchmaking region. **Select the region with less network latency** and then click **Apply** in the lower-right corner to save the changes you made.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
@@ -196,20 +196,21 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-secrets-to-the-top-6-free-and-online-shorts-collectors/"><u>[New] In 2024, Secrets to the Top 6 Free & Online Shorts Collectors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solution-found-black-ops-cold-war-launch-xbox-trouble/"><u>[SOLUTION FOUND] Black Ops Cold War Launch - Xbox Trouble</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-stretched-screen-issues-for-windows-10/"><u>[Solved] Stretched Screen Issues for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blackout-blunder-with-latest-graphics-card/"><u>Blackout Blunder with Latest Graphics Card</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/bypass-dvd-locks-with-ease-how-to-disable-cprm-safeguards-for-seamless-movie-experience-on-windowsmac-pcs/"><u>Bypass DVD Locks with Ease: How to Disable CPRM Safeguards for Seamless Movie Experience on Windows/Mac PCs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cinematic-brilliance-mastering-video-lighting-techniques-for-2024/"><u>Cinematic Brilliance Mastering Video Lighting Techniques for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-fixed-repaired-nvidia-driver-failure/"><u>Display Fixed: Repaired NVidia Driver Failure</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-web-traffic-with-cookiebot-seo-solutions/"><u>Elevate Web Traffic with Cookiebot SEO Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-edge-2023-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Edge 2023</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lava-yuva-3-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lava Yuva 3 Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-narratives-how-to-use-chatgpt-for-engaging-text-games/"><u>Journey Through Narratives: How to Use ChatGPT for Engaging Text Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-zoom-cameras-common-fixes-and-solutions/"><u>Mastering Zoom Cameras: Common Fixes and Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pump-it-up-the-20-most-energizing-workout-playlists-for-2024/"><u>Pump It Up The 20 Most Energizing Workout Playlists for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reactivating-non-operational-asus-webcam/"><u>Reactivating Non-Operational Asus Webcam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-mouse-pads-for-gamers/"><u>The Best Mouse Pads for Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-10-gaming-wonders-offline-ios-masterpieces-without-internet-for-2024/"><u>[New] 10 Gaming Wonders – Offline iOS Masterpieces Without Internet for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-windows-pc-broadcast-toolkit-for-live-tv-capture/"><u>[New] In 2024, The Ultimate Windows PC Broadcast Toolkit for Live TV Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-surfings-new-era-top-cam-tech-for-2024/"><u>[New] Surfing's New Era - Top Cam Tech for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlock-flawless-mac-screen-record-through-keyboard-expertise/"><u>[Updated] 2024 Approved Unlock Flawless Mac Screen Record Through Keyboard Expertise</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-streaming-experience-six-insightful-quizzes-for-fandom-enthusiasts-for-2024/"><u>Elevate Your Streaming Experience Six Insightful Quizzes for Fandom Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-download-and-save-grooveshark-playlists-as-high-quality-mp3s-wavs-or-m4as-on-pc-or-mac/"><u>How to Download and Save Grooveshark Playlists as High-Quality MP3s, WAVs, or M4As on PC or Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-it-overkill-considerations-before-choosing-liquid-cooling-for-amd-cpus/"><u>Is It Overkill? Considerations Before Choosing Liquid Cooling for AMD CPUs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/light-up-dark-screens-on-lenovo-notebooks/"><u>Light Up Dark Screens on Lenovo Notebooks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-screen-blurring-issues/"><u>Mend Screen Blurring Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-blank-display-on-electronic-devices/"><u>Navigating Blank Display on Electronic Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reawakening-windows-photo-viewer-in-windows-10-with-ease/"><u>Reawakening Windows Photo Viewer in Windows 10 with Ease</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-persistent-monitor-blankouts/"><u>Resolving Persistent Monitor Blankouts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-7-back-image-issue/"><u>Resolving Windows 7 Back Image Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversing-windows-10-whiteout-after-cu/"><u>Reversing Windows 10 Whiteout After CU</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winbsod-dxgkrnlsys-issue-resolved/"><u>WinBSOD: dxgkrnl.sys Issue Resolved</u></a></li>
 </ul></div>
 

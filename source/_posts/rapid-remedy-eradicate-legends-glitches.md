@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedy: Eradicate Legends Glitches"
-date: 2025-01-21T02:50:10.530Z
-updated: 2025-01-22T02:09:34.833Z
+date: 2025-01-23T19:53:43.449Z
+updated: 2025-01-29T16:21:43.366Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 ![Apex Legends crash](https://images.drivereasy.com/wp-content/uploads/2019/03/image-124.png)
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,6 +47,10 @@ Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -63,6 +71,10 @@ _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,21 +89,17 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
 
@@ -136,7 +144,7 @@ Here we list its minimum system requirements for you to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Wait until the verifying process completes.
@@ -157,17 +165,9 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
@@ -204,18 +204,21 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-spectaculous-14-animated-text-illustration-samples-for-2024/"><u>[New] Spectaculous 14 Animated Text Illustration Samples for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-up-blacked-out-screen-win10-fix/"><u>Brightening Up Blacked Out Screen: Win10 Fix</u></a></li>
-<li><a href="https://network-issues.techidaily.com/computer-graphics-component-revived/"><u>Computer Graphics Component Revived</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-amds-difficulty-to-detect-driver-in-windowas-10/"><u>Fixed AMD's Difficulty to Detect Driver in Windowas 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-hybrid-gpu-glitch-resolving-issues-with-intellnvidia-in-win10/"><u>Fixed Hybrid GPU Glitch: Resolving Issues with Intell/Nvidia in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719973927899-fixed-lenovo-tap-glitch-back-to-life/"><u>Fixed Lenovo Tap Glitch, Back to Life!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-magic-6-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor Magic 6 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-insights-on-gadgets-the-toms-hardware-explanation/"><u>In-Depth Insights on Gadgets - The Tom's Hardware Explanation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nixplay-w15a-snapshot-a-detailed-examination/"><u>Nixplay W15A Snapshot: A Detailed Examination</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quenching-windows-reflections-overdrive/"><u>Quenching Windows Reflections Overdrive</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unboxing-the-best-in-video-surveillance-the-reolink-trackmix-4k-camera-reviewed-for-home-and-business-use/"><u>Unboxing the Best in Video Surveillance: The Reolink TrackMix 4K Camera Reviewed for Home and Business Use</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-assistance-revolution-four-key-alternatives/"><u>Windows Assistance Revolution: Four Key Alternatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-digital-scribes-leading-screen-recorder-software/"><u>[New] Digital Scribes Leading Screen Recorder Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos/"><u>[New] Supercharge Your Channel Growth Harness the Potential of Collaborative Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-bring-life-and-movement-to-stills-with-illustrator-techniques/"><u>[Updated] 2024 Approved Bring Life & Movement to Stills with Illustrator Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>[Updated] In 2024, YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-11-display-sizes/"><u>Adjusting Windows 11 Display Sizes</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-website-with-state-of-the-art-cookie-tracking-technology/"><u>Enhance Your Website with State-of-the-Art Cookie Tracking Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-brightness-levels/"><u>Enhancing Lenovo Display Brightness Levels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lifting-the-curse-the-invisible-direct-x-disruption-solved-in-leagues/"><u>Lifting the Curse: The Invisible Direct X Disruption Solved in Leagues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m3-apple-silicon-revolutionizes-computing-discover-its-far-reaching-effects-beyond-macbooks-and-imacs/"><u>M3 Apple Silicon Revolutionizes Computing – Discover Its Far-Reaching Effects Beyond MacBooks & iMacs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/microsoft-solves-wins-basic-drive-problems/"><u>Microsoft Solves Win's Basic DRIVE Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974497126-quality-viewing-without-buffer-delays/"><u>Quality Viewing Without Buffer Delays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/"><u>System Error Due To Nvidia, Now Resolved</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211011929-9781088263945-witchcraft-therapy/"><u>Witchcraft Therapy | Free Book</u></a></li>
 </ul></div>
 

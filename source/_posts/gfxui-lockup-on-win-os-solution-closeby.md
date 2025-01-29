@@ -1,7 +1,7 @@
 ---
 title: GFXUI Lockup on Win OS (Solution Closeby)
-date: 2025-01-20T00:19:10.071Z
-updated: 2025-01-22T00:04:34.355Z
+date: 2025-01-25T18:12:16.612Z
+updated: 2025-01-29T19:35:37.126Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 [**3. Clean Reinstall Intel Graphics Card Driver**](#m3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn on Microsoft .NET Framework 3.5.1
@@ -36,23 +36,23 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf762c2349f.png) and**S** at the same time. Type**turn windows** then click**Turn Windows feature on or off** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76e62b5aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart your computer. See if the problem is resolved.
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
@@ -79,7 +79,11 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clean Reinstall Intel Graphics Card Driver
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
  2) Select the option that restart automatically after the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Windows will search for and update the latest version of the display driver it can find for your PC.
 
@@ -122,21 +122,22 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-learning-the-ropes-of-lunapics-user-interface/"><u>[Updated] 2024 Approved Learning the Ropes of LunaPic's User Interface</u></a></li>
-<li><a href="https://network-issues.techidaily.com/avoidance-and-correction-of-youtubes-unwanted-background-hue/"><u>Avoidance and Correction of YouTube's Unwanted Background Hue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-compatibility-issues-nvidiaintel-switchable-fixes-on-win10/"><u>Conquering Compatibility Issues: NVIDIA/Intel Switchable Fixes on Win10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/high-quality-film-equipment-review-top-picks-2024/"><u>High-Quality Film Equipment Review Top Picks, 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-longer-videos-on-youtube-masterful-strategies/"><u>In 2024, Unleashing Longer Videos on YouTube Masterful Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-art-of-turnaround-overcoming-critical-startup-hurdles-this-year/"><u>Master the Art of Turnaround: Overcoming Critical Startup Hurdles This Year</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-highlow-res-display-issues-in-upgraded-windows-10/"><u>Overcoming High/Low-Res Display Issues in Upgraded Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/regaining-access-to-nvidia-screen-controls/"><u>Regaining Access to NVIDIA Screen Controls</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-screen-fails-to-show-full-window-in-windows-10/"><u>Resolved: Screen Fails to Show Full Window in Windows 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-process-how-to-get-latest-d-link-drivers-on-windows-systems/"><u>Step-by-Step Process: How to Get Latest D-Link Drivers on Windows Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/syncing-intel-and-nvidia-gpus-problem-resolved-on-win11/"><u>Syncing Intel & Nvidia GPUs - Problem Resolved on Win11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nokia-xr21-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nokia XR21 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-smartwatches-buyers-guide/"><u>Top-Ranked Smartwatches - Buyer's Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-persistent-asus-webcam-failures/"><u>Troubleshooting Persistent Asus Webcam Failures</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-is-inshot-a-game-changer-in-video-editing-tools/"><u>[New] In 2024, Is InShot a Game Changer in Video Editing Tools?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-moment-for-podcast-debuts/"><u>[Updated] In 2024, Perfect Moment for Podcast Debuts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-down-high-definition-a-look-at-4k/"><u>Breaking Down High Definition: A Look at 4K</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-methods-refreshing-intel-drivers-on-windows-7-pcs/"><u>Efficient Methods: Refreshing Intel Drivers on Windows 7 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974754808-fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-does-the-new-iphone-14-stack-up-a-balanced-review-by-tech-experts-at-zdnet/"><u>How Does the New iPhone 14 Stack Up? A Balanced Review by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intensify-gaming-with-geforce-210-driver-on-windows-10-platform/"><u>Intensify Gaming with GeForce 210 Driver on Windows 10 Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/perfecting-the-art-of-hybrid-graphics-card-functionality-on-windows-11/"><u>Perfecting the Art of Hybrid Graphics Card Functionality on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-bdr-errors-on-ws-21-ws-10-ws-8-ws-7/"><u>Resolved: BDR Errors on WS-21, WS-10, WS-8, WS-7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-libexec32dll-file-absence-on-your-pc/"><u>Resolving libexec32.dll File Absence on Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-significance-of-video-in-client-promotional-power/"><u>The Significance of Video in Client Promotional Power</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovo-display-brightness-loss/"><u>Troubleshooting Lenovo Display Brightness Loss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unfreeze-pointer-on-win10-system-failure/"><u>Unfreeze Pointer on Win10 System Failure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/windows-11-tips-for-effective-sound-recording-for-2024/"><u>Windows 11 Tips for Effective Sound Recording for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286483268-winx-dvd-author/"><u>WinX DVD Authorリスクを理解する：このツールの信用度と使用法に関する詳細解説</u></a></li>
 </ul></div>
 

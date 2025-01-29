@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices
-date: 2025-01-15T04:58:07.244Z
-updated: 2025-01-21T21:38:39.293Z
+date: 2025-01-26T20:27:37.265Z
+updated: 2025-01-29T18:57:12.840Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 5. **[Make sure the Ethernet is enabled](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run network commands](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Check the router and cable situations
 
  If the port being used is broken or doesn’t work well, you cannot be connected to the router. Unplug the cable from the port and plug it into another port to see whether the problem resolves.
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  Make sure the cable is not broken. Swap a cable to do a test. If the problem is caused by the cable, it will work after swapping the cable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Restart your modem and router
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 2. Wait for at least 30 seconds.
 3. Plug your router and modem back into the power source again (put the battery back into the modem).
 4. On your device, reconnect to your Ethernet network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 3: Update the network card driver
 
@@ -74,14 +74,14 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/07/Realtek-PCIe-GbE-Family-Controller.png)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 4: Turn off any Antivirus or Firewall temporarily
 
@@ -101,15 +101,15 @@ Follow the steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719c95d7cc.png)
 2. In Device Manager, expand the**Network adapters** category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next to the Ethernet card device name, if you see a computer icon with an arrow on it, the Ethernet has been disabled. The following screenshot is for your reference:  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719d9a832a.png)
 4. If you see a down-arrow next to your Ethernet card, right-click it and click**Enable** from the pop-up menu.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_597719e55f13a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 6: Run network commands
 
@@ -125,15 +125,15 @@ Follow the steps below:
    ![](https://images.drivereasy.com/wp-content/uploads/2021/11/flushdns.png)
 3. Once this is done, close the Command Prompt window and see if you have an internet connection via the Ethernet cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, the tips above will help you resolve the Ethernet not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/wifi.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Superfast internet and up to $250 in reward cards
 
@@ -156,22 +156,19 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-dramatically-rewind-your-snaps-the-snapchat-way/"><u>[New] Dramatically Rewind Your Snaps The Snapchat Way</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-metaverse-frontier-gear-guide-select-8-headsets/"><u>[Updated] Metaverse Frontier Gear Guide Select 8 Headsets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-tier-digital-workshop-title-maker/"><u>[Updated] Top-Tier Digital Workshop Title Maker</u></a></li>
-<li><a href="https://network-issues.techidaily.com/curtailing-flickering-on-microsoft-surface-pro-7/"><u>Curtailing Flickering on Microsoft Surface Pro 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-ignore-these-crucial-phone-features-why-they-matter/"><u>Don't Ignore These Crucial Phone Features - Why They Matter</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-pcs-web-pace-with-win1011-fixes/"><u>Enhance Your PC's Web Pace with Win10/11 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fasten-intels-graphics-3000-update-for-windows-11/"><u>Fasten Intel's Graphics 3000 Update for Windows 11.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-xs-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone XS Max With 7 Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-mastering-mobile-easy-steps-for-launching-personalbusiness-youtube-channels/"><u>In 2024, Mastering Mobile Easy Steps for Launching Personal/Business YouTube Channels</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-through-null-detected-find-your-unlisted-graphics-card/"><u>Navigate Through Null Detected: Find Your Unlisted Graphics Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/operating-system-update-resolves-opengl-error/"><u>Operating System Update Resolves OpenGL Error</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-display-alignment-on-desktops/"><u>Optimize Display Alignment on Desktops</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/up-your-viewership-with-these-proven-methods/"><u>Pump Up Your Viewership with These Proven Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-mic-essential-troubleshooting-steps-for-better-sound-quality/"><u>Reviving Your iPhone Mic: Essential Troubleshooting Steps for Better Sound Quality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-successfully-installed-gpu-after-errors/"><u>Windows: Successfully Installed GPU After Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ising-above-internet-naysayers-and-detractors-for-2024/"><u>[New] Rising Above Internet Naysayers and Detractors for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-zoom-with-precision-using-videoleap-software-for-2024/"><u>[New] Zoom with Precision Using Videoleap Software for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/beatit-bt-d11-jump-starter-review-mighty/"><u>Beatit BT-D11 Jump Starter Review: Mighty</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easeful-correction-unused-nvidia-monitor/"><u>Easeful Correction: Unused NVIDIA Monitor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-hybrid-card-malfunction-in-nvidia-and-intel-on-windows-10/"><u>Ending Hybrid Card Malfunction in Nvidia & Intel on Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oppo-by-drfone-android/"><u>Full Guide to Unlock Your Oppo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-3830-driver-download-guide-easy-setup-on-windows-computers/"><u>HP OfficeJet 3830 Driver Download Guide: Easy Setup on Windows Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-pioneers-spotlight-on-favorite-games/"><u>Indie Pioneers: Spotlight on Favorite Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-error-type-22-graphicsdriver/"><u>Rectified Error Type 22, GraphicsDriver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-high-disk-space-consumption-by-microsoft-telemetry-in-windows-11/"><u>Resolving High Disk Space Consumption by Microsoft Telemetry in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-computer-screenscape-disorientation/"><u>Reverse Computer Screenscape Disorientation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-big-screen-displays-issue-for-windows-10/"><u>Solved Big-Screen Displays Issue for Windows 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-methods-xp-vista-win7-to-remove-graphic-drivers/"><u>Swift Methods: XP, Vista, Win7 to Remove Graphic Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-your-favored-social-network-again-post-code/"><u>Unlocking Your Favored Social Network Again Post Code</u></a></li>
 </ul></div>
 

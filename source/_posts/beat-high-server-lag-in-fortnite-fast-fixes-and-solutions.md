@@ -1,7 +1,7 @@
 ---
 title: "Beat High Server Lag in Fortnite: Fast Fixes and Solutions"
-date: 2025-01-16T23:26:05.273Z
-updated: 2025-01-21T23:59:26.050Z
+date: 2025-01-23T18:09:31.456Z
+updated: 2025-01-29T17:13:18.951Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap700.png) 
 
 **Ping spikes** **when you’re playing Fortnite** ? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily… 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -69,6 +73,10 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 1. On your keyboard, press**Ctrl** , **Shift,** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth-hogging applications and then select **End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap703.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Fortnite to see if this issue reappears. If this issue reappears, don’t worry. Try the next fix, below. 
 
@@ -94,7 +102,7 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -102,11 +110,11 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/realtek-wireless-network-adapter.png)
 4. After updating, restart your computer to take effect.
 
- If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . 
 
 ## Fix 5: Disable the proxy server
 
@@ -117,17 +125,13 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 2. Navigate to the**Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…**). Then click on **LAN settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap707.png)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap708.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if you resolved this issue. If not, try the next fix, below. 
 
@@ -143,16 +147,12 @@ If you’re running other applications like **OneDrive** , **Dropbox,**  and   *
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/Snap709.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Join a squad to see if you’ve resolved the high ping issue.
 
 If not, you may need to check if it is a server issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Fix 7: Check if it’s a server issue
 
@@ -196,15 +196,18 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023s-approach-tweeting-from-tiktok-for-2024/"><u>[New] 2023'S Approach Tweeting From TikTok for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simple-steps-to-a-stellar-vlog-journey/"><u>[Updated] Simple Steps to a Stellar Vlog Journey</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-deep-does-it-go-exploring-the-multiple-levels-of-royal-match/"><u>How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-google-pixel-fold-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Google Pixel Fold?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-list-of-10-invisible-stories-watchers/"><u>In 2024, List of 10 Invisible Stories Watchers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-normal-orientation-to-windows-10-screen/"><u>Restoring Normal Orientation to Windows 10 Screen</u></a></li>
-<li><a href="https://win-trending.techidaily.com/seamless-datenubertragung-von-android-auf-iphone-ohne-move-to-ios-app/"><u>Seamless Datenübertragung Von Android Auf iPhone Ohne Move to iOS-App</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unblocked-device-manager-navigation/"><u>Unblocked: Device Manager Navigation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>[New] Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expanding-reach-fb-live-on-broadcast-networks/"><u>[New] In 2024, Expanding Reach FB Live on Broadcast Networks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-access-in-cod-cold-war/"><u>[SOLVED] Restoring Internet Access in CoD Cold War</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-top-3-free-dvd-ripping-tools-for-windows-11-convert-to-mp4-avi-and-wmv-seamlessly/"><u>1. Top 3 Free DVD Ripping Tools for Windows 11: Convert to MP4, AVI & WMV Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-screen-lines-a-comprehensive-guide-for-portable-computers/"><u>Fixing Screen Lines: A Comprehensive Guide for Portable Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-itel-p55-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Itel P55 to Another | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intelligent-techniques-for-refreshing-intels-graphics-driver-win-7/"><u>Intelligent Techniques for Refreshing Intel's Graphics Driver, Win 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-display-disconnects-with-freesync/"><u>Resolving Display Disconnects with FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-failure-to-preserve-window-display-options/"><u>Resolving Failure to Preserve Window Display Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools/"><u>The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-non-functioning-amd-freesync/"><u>Troubleshooting Non-Functioning AMD FreeSync</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Missing Window 11 Display Configurations
-date: 2025-01-18T21:30:02.505Z
-updated: 2025-01-21T20:20:52.398Z
+date: 2025-01-25T17:40:49.372Z
+updated: 2025-01-29T20:35:48.949Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
@@ -75,33 +71,37 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
@@ -122,22 +122,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-preventing-unwanted-filming-in-quicktime/"><u>[New] In 2024, Preventing Unwanted Filming in QuickTime</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-dimming-and-brightening-in-dell-screens/"><u>[Solved] Dimming and Brightening in Dell Screens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-best-practices-for-distance-dialogue-capture-for-2024/"><u>[Updated] Best Practices for Distance Dialogue Capture for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-high-end-philips-somneo-alarm-system/"><u>Comprehensive Review of the High-End Philips Somneo Alarm System</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/decouvrez-les-signes-dune-cle-usb-infectee-et-apprenez-a-lidentifier-facilement/"><u>Découvrez Les Signes D'une Clé USB Infectée Et Apprenez À L'identifier Facilement</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-logitech-g-series-racing-wheels-for-pc-windows-7-8-and-10-perfect-setup-tutorials-included/"><u>Download the Latest Logitech G Series Racing Wheels for PC (Windows 7, 8, & 10) - Perfect Setup Tutorials Included</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-transparent-computer-vision/"><u>Effortless: Transparent Computer Vision</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-c1900101-during-windows-installation/"><u>Fixing C1900101 During Windows Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-world-of-warcraft-issue-519/"><u>Overcoming World of Warcraft Issue #519</u></a></li>
-<li><a href="https://common-error.techidaily.com/remedy-poor-connection-performance-between-epson-scan-and-printer/"><u>Remedy Poor Connection Performance Between Epson Scan & Printer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-oversized-screen-problems-in-window-os/"><u>Solved Oversized Screen Problems in Window OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-screens-on-windows-7-platform/"><u>Stabilizing Screens on Windows 7 Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-potential-in-media-production-via-xp/"><u>Unleash Potential in Media Production via XP</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unlocking-the-art-of-iphone-podcast-downloads-with-ease/"><u>Unlocking the Art of iPhone Podcast Downloads with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-fix-plugins-not-working-in-final-cut-pro-x/"><u>Updated In 2024, How to Fix Plugins Not Working in Final Cut Pro X?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-becoming-a-youtube-star-utilizing-the-power-of-featured-channels-for-2024/"><u>[Updated] Becoming a Youtube Star Utilizing the Power of Featured Channels for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-speech-clarity-on-skype/"><u>[Updated] Enhancing Speech Clarity on Skype</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-foremost-video-starters-the-leading-16-youtube-openers/"><u>[Updated] Foremost Video Starters The Leading 16 YouTube Openers</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-c51-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme C51 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-driver-elimination-from-windows/"><u>Effortless Graphics Driver Elimination From WIndows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974390546-effortlessly-enhance-intel-graphics-3000-via-windows-10-driver-upgrade/"><u>Effortlessly Enhance Intel Graphics 3000 via Windows 10 Driver Upgrade</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/how-to-zoom-photos-and-videos-on-snapchat/"><u>How to Zoom Photos and Videos on Snapchat</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-civilization-v-performance-on-pc/"><u>Optimizing Civilization V Performance on PC</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/professionelle-tipps-fur-die-grundliche-bereinigung-ihrer-intenso-ssds-sicherheitsgarantie/"><u>Professionelle Tipps Für Die Gründliche Bereinigung Ihrer Intenso SSDs – Sicherheitsgarantie</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickening-wi-fi-upgrading-win1110-performance/"><u>Quickening Wi-Fi: Upgrading WIN11/10 Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/refusing-to-flicker-screen-failure/"><u>Refusing to Flicker: Screen Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-voice-in-destiny-2-effective-solutions-for-voice-chat-issues/"><u>Restore Your Voice in Destiny 2: Effective Solutions for Voice Chat Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977414962-seamless-integration-of-iphones-and-windows-10-find-and-install-the-right-drivers/"><u>Seamless Integration of iPhones and Windows 10 - Find & Install the Right Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/secure-and-streamlined-os-functionality/"><u>Secure and Streamlined OS Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simple-remediation-tips-standby-gfx-with-nvidia/"><u>Simple Remediation Tips: Standby GFX with NVIDIA</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamline-your-productivity-expertly-crafted-chatgpt-prompts-for-superior-results-in-less-effort/"><u>Streamline Your Productivity: Expertly Crafted ChatGPT Prompts for Superior Results in Less Effort</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-anatomy-of-memes-insights-and-definitions/"><u>The Anatomy of Memes: Insights and Definitions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974891586-update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winspeed-surge-resolving-low-bandwidth-woes/"><u>WinSpeed Surge: Resolving Low Bandwidth Woes</u></a></li>
 </ul></div>
 

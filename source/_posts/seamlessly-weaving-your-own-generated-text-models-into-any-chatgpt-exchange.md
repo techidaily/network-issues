@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Weaving Your Own Generated Text Models Into Any ChatGPT Exchange
-date: 2025-01-15T20:06:05.813Z
-updated: 2025-01-21T17:20:14.508Z
+date: 2025-01-25T19:39:37.292Z
+updated: 2025-01-29T17:26:22.370Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Help Cybercriminals Hack Your PC
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -92,16 +92,14 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-youtube-watching-with-list-rearrangement/"><u>[New] In 2024, Enhancing YouTube Watching with List Rearrangement</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-youtube-presence-with-strategic-banners-for-2024/"><u>[Updated] Enhancing YouTube Presence with Strategic Banners for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-live-link-legends-favoring-the-framework-software-or-fabrication-hardware/"><u>[Updated] Live Link Legends Favoring the Framework (Software) or Fabrication (Hardware)?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-15-4k-video-camerascamcorders-for-2024/"><u>[Updated] Top 15 4K Video Cameras/Camcorders for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-9-masterclass-in-live-gaming-streams/"><u>2024 Approved 9 Masterclass in Live Gaming Streams</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-end-displays-revived-with-windows-update/"><u>High-End Displays Revived with Windows Update</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-display-saved-settings-freeze-in-windows-oses/"><u>Overcoming Display Saved Settings Freeze in Windows OSes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-windows-10-highlow-res-errors/"><u>Overcoming Windows 10 High/Low-Res Errors</u></a></li>
-<li><a href="https://win-news.techidaily.com/pcdjs-latest-what-i-love-about-you-the-new-cloud-based-karaoke-experience/"><u>PCDJ's Latest 'What I Love About You' - The New Cloud-Based Karaoke Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-sea-of-thieves-launch-problems/"><u>Troubleshooting Guide: Resolving Sea of Thieves Launch Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-reducing-extra-screen-real-estate/"><u>Windows 11: Reducing Extra Screen Real Estate</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[New] 2024 Approved Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-superior-on-screen-moment-documentation/"><u>[New] In 2024, Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>[Updated] In 2024, Unveiling the Secret How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/current-must-watch-british-tv-programs-on-netflix/"><u>Current Must-Watch British TV Programs on Netflix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-correction-achieved/"><u>Display Driver Correction Achieved</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a05-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A05 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-wireless-connection-restore-win10-adapter/"><u>Missing Wireless Connection: Restore Win10 Adapter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974840679-my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down - How to Fix It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-atheros-wi-fi-on-win11-via-qualcomm-updates/"><u>Reviving Atheros Wi-Fi on Win11 via Qualcomm Updates</u></a></li>
 </ul></div>
 
